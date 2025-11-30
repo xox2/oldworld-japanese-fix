@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RELIGIOUS_DISSENT</zType>
+		<ja>「宗教的不和」は、link(OPINIONRELIGION_UPSET)状態の宗教の信者がいる都市に一定確率で発生します。不和が生じている都市からは、いかなるlink(YIELD_CIVICS)もlink(YIELD_TRAINING)も得られません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_LOCAL_CULT</zType>
+		<ja>「カルト」は、特定のイベントを通じて形成される施設です。いずれのカルトも影響力が大きく、あまりに多くのカルトが広まると、既存の宗教の権威を脅かす可能性があります。</ja>
+	</Entry>
+</Root>

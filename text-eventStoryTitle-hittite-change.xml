@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_HITTITE_TITLE</zType>
+		<ja>オールドワールドのヒッタイト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_CHARIOT_COMBAT_TITLE</zType>
+		<ja>チャリオット戦術！</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BEHIND_THE_THRONE_BEGINS_TITLE</zType>
+		<ja>玉座の陰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHABBY_TITLE</zType>
+		<ja>ほつれた糸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OPIUM_CRISIS_START_TITLE</zType>
+		<ja>アヘン危機</ja>
+	</Entry>
+</Root>

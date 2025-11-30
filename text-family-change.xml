@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_FAMILY_SARGONID</zType>
+		<ja>サルゴン家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_ADASI</zType>
+		<ja>アダシ家</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_FAMILY_KUSSARAN</zType>
+		<ja>クッサラ家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_NENASSAN</zType>
+		<ja>ネナス家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_KANECHEAN</zType>
+		<ja>カネシュ家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_ZALPUEAN</zType>
+		<ja>ザルプワ家</ja>
+	</Entry>
+</Root>

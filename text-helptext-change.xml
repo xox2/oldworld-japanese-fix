@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YES</zType>
+		<ja>はい</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NO</zType>
+		<ja>いいえ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OK</zType>
+		<ja>OK</ja>
+	</Entry>
+</Root>

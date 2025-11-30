@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_BTT_HINT_1</zType>
+		<ja>国内の資源が不足している場合、相談役やlink(COUNCIL_GRAND_VIZIER)は新たなlink(CONCEPT_IMPROVEMENT)を建設できません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BTT_HINT_2</zType>
+		<ja>link(TRAIT_STRESSED)状態のキャラクターは、link(MISSION_INFLUENCE)ミッションを実行できません。</ja>
+	</Entry>
+</Root>
