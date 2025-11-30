@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>日本語FIX</displayName>
+  <!-- 下の説明文のところどころに半角スペースを入れているのは、「単語」の長さ制限があるため -->
+  <description>公式日本語ローカライズをベースに、誤字脱字、 誤訳、誤解を招く表現、冗長な表現、 直訳すぎる表現、バグの修正を行い、 より理解しやすい日本語ローカライズとなるよう改良を加えたMODです。
+
+なお、ゲームオプションの 〈アクセシビリティ〉 から 〈sans-serifフォントを使用する〉 を選ぶと、 英文フォントと和文フォントの相性が良くなるのでおすすめです。
+
+【注意事項】
+・ゲームに新しく追加/変更されたばかりの文言については、 原則まずは公式の翻訳を待ってから、その後修正する流れとなります。
+・ゲームの仕様上、MODはチュートリアルやシナリオに対しては機能しません。</description>
+  <modpicture>icon.png</modpicture>
+  <author>toromoti</author>
+  <modplatform>Modio</modplatform>
+  <modioID>3725007</modioID>
+  <modioFileID>0</modioFileID>
+  <modversion>2025.11.30.rev1</modversion>
+  <modbuild>1.0.70671</modbuild>
+  <homepage />
+  <tags />
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <scenario>false</scenario>
+  <scenarioToggle>false</scenarioToggle>
+  <blocksMods>false</blocksMods>
+  <modDependencies />
+  <modIncompatibilities />
+  <modWhitelist />
+  <gameContentRequired>NONE</gameContentRequired>
+</ModInfo>
