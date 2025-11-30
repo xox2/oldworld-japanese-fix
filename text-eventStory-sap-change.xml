@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_SACRED_AND_THE_PROFANE</zType>
+		<ja>{PLAYER-0}の神々は、じっとこちらを注視している。今のところ、宗教は単なる日常の営みであり、信仰そのものが問われることはない。神の怒りを恐れる者はいても、教義の違いで争う者はいない。
+しかし、遠く離れた地より、新たな思想の風が吹き始めている。それは、人々の魂を巡る新たな争いの予兆かもしれない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONVERT_FOR_THE_GODS</zType>
+		<ja>{CHARACTER-0}は、あなたが{RELIGION-3}に従うことは間違いであるという信念を隠そうともしない。「真の信仰のみが救いをもたらすのです」と{G0:彼:彼女}は熱弁を振るう。</ja>
+	</Entry>
+</Root>

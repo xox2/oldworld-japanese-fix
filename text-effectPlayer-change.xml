@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_BASE</zType>
+		<ja>基本値</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
+		<ja>諜報総官</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER_F</zType>
+		<ja>諜報総官</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IN_CAPITAL</zType>
+		<ja>link(CONCEPT_CAPITAL)にて</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_PER_CITY</zType>
+		<ja>都市ごと</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_PER_UNIT</zType>
+		<ja>ユニットごと</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY</zType>
+		<ja>難易度補正</ja>
+	</Entry>
+</Root>

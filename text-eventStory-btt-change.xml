@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BEHIND_THE_THRONE_BEGINS</zType>
+		<ja>王座は決して安泰ではない。貴族たちは安全なlink(IMPROVEMENT_ESTATES)で陰謀を巡らし、宮廷では不満が囁かれている。{CHARACTER-SHORT-1}の治世は、まさに今、その力量が試されようとしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHABBY</zType>
+		<ja>「…ああ、哀れな{CHARACTER-SHORT-1}、{G1:彼:彼女}の服を見ましたか？糸がほつれていましたよ。正直なところ、乞食の方がマシな服を着ていますわ！」
+宮廷人たちの{CHARACTER-SHORT-1}に対する嘲笑は、留まるところを知らないようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OPIUM_CRISIS_START</zType>
+		<ja>市場にはアヘンが溢れかえり、中毒者が通りを埋め尽くしている。生産性は低下し、社会秩序は崩壊の危機に瀕している。この「アヘン危機」に対し、早急に対策を講じなければならない。</ja>
+	</Entry>
+</Root>
