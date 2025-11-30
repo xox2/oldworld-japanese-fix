@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_CITYNAME_AEMINIUM</zType>
+		<ja>アエミニウム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITYNAME_ABDJU</zType>
+		<ja>アブジュ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITYNAME_ABU</zType>
+		<ja>アブ</ja>
+	</Entry>
+</Root>
