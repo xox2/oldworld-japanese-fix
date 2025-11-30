@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Root>
+	<Entry>
+		<zType>TEXT_TITLE_MASTER_OF_CEREMONIES</zType>
+		<ja>儀典長</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TITLE_MASTER_OF_CEREMONIES_F</zType>
+		<ja>儀典長</ja>
+	</Entry>
+</Root>
