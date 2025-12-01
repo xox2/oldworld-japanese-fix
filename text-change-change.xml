@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPORT_HORSE</zType>
+		<ja>馬の輸入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPORT_ELEPHANT</zType>
+		<ja>象の輸入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPORT_CAMEL</zType>
+		<ja>ラクダの輸入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_LEADER</zType>
+		<ja>子供をlink(CONCEPT_TUTOR)する（当主として）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_1</zType>
+		<ja>link(THEOLOGY_DUALISM)は世界の真の秩序を示している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEEP_DIVISIONS</zType>
+		<ja>{CHARACTER-1}があなたのもとに、{RELIGION-0,1}の信者たちが危険なかたちで分裂しそうだと警告しに来た。{CITY-2}の{S0.PRIEST,2}たちは、link(THEOLOGY_GNOSTICISM)を理想と掲げているが、{CITY-3}の{S0.PRIEST,2}たちはlink(THEOLOGY_DUALISM)の教義を支持している。
+
+{CHARACTER-1}にはその溝を埋めることができず、あなたの助力を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました（残りHP{3}）。</ja>
+	</Entry>
+</Root>
