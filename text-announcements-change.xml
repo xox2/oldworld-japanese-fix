@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_TITLE_COMMUNITY_TOURNAMENT_2025_H2</zType>
+		<jp>Old World コミュニティ決闘チャレンジ</jp>
+		<ja>Old Worldコミュニティ決闘チャレンジ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COMMUNITY_TOURNAMENT_2025_H2</zType>
+		<jp><![CDATA[
+Old Worldプレイヤーの皆さん、こんにちは。この度、コミュニティメンバー主導の新たなイベント「Old World コミュニティ決闘チャレンジ」が開催されることになりました。これはオンラインでの1対1の対戦を続けて行うというもので、ゲームの所有者であれば誰でも自由にご参加いただけます。
+
+	icon(bullet) <color="lightblue">詳しくはこちらの<link="https://www.youtube.com/watch?v=ofxMwDD-TPY">コミュニティ製トレイラー</link>をご覧ください。</color>
+	icon(bullet) <color="lightblue"><link="https://challonge.com/tournaments/signup/lTD18dP5kB.html">このページ</link>より参加申し込みとルールの確認が行えます。</color>
+	icon(bullet) <color="lightblue"><link="https://discord.com/invite/YpuqQ6p3CS">Discord</link>サーバーにもご参加ください。</color>
+
+勝者の栄光があなたを待っています！]]></jp>
+		<ja><![CDATA[
+Old Worldプレイヤーの皆さん、こんにちは。この度、コミュニティメンバー主導の新たなイベント「Old Worldコミュニティ決闘チャレンジ」が開催されることになりました。これはオンラインでの1対1の対戦を続けて行うというもので、ゲームの所有者であれば誰でも自由にご参加いただけます。
+
+	icon(bullet) <color="lightblue">詳しくはこちらの<link="https://www.youtube.com/watch?v=ofxMwDD-TPY">コミュニティ製トレイラー</link>をご覧ください。</color>
+	icon(bullet) <color="lightblue"><link="https://challonge.com/tournaments/signup/lTD18dP5kB.html">このページ</link>より参加申し込みとルールの確認が行えます。</color>
+	icon(bullet) <color="lightblue"><link="https://discord.com/invite/YpuqQ6p3CS">Discord</link>サーバーにもご参加ください。</color>
+
+勝者の栄光があなたを待っています！]]></ja>
+	</Entry>
+</Root>
