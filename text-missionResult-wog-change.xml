@@ -1,0 +1,6 @@
+<Root>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INCUBATE</zType>
+		<ja>対象はlink(TRAIT_INCUBATED)状態になる(link(TRAIT_INFECTED)状態の解除)</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,259 @@
+<Root>
+	<Entry>
+		<zType>TEXT_UI_YEAR_ERA_SUFFIX</zType>
+		<ja>AUC</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_CITY_GOVERNOR</zType>
+		<ja>利用可能な総督({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_CITY_AGENT</zType>
+		<ja>利用可能な諜報員({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_GOVERNOR_PROJECTS</zType>
+		<ja>総督によるプロジェクト({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_GOVERNOR_PROJECT</zType>
+		<ja>{1_city}でプロジェクト{0_project}が利用可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_AGENT_MISSION</zType>
+		<ja>待機中の諜報員({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_COUNCIL_CHARACTER</zType>
+		<ja>利用可能な評議員({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_COUNCIL_MISSION</zType>
+		<ja>待機中の評議員({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_TUTOR</zType>
+		<ja>利用可能な家庭教師({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_FAMILY_RELIGION_HEAD</zType>
+		<ja>待機中の氏族/教団の長({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_LEADER</zType>
+		<ja>待機中の指導者({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_FAMILY_HEAD</zType>
+		<ja>待機中の氏族の長({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_RELIGION_HEAD</zType>
+		<ja>待機中の宗教の長({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_LUXURIES</zType>
+		<ja>贅沢品({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_PILLAGE</zType>
+		<ja>建設物が略奪された({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
+		<ja>将官icon(Icon_Defense)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_EXPLORER_OPINION</zType>
+		<ja>探検家({0_opinion})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_EXPLORER_ENEMY_DEFENSE</zType>
+		<ja>探検家icon(Icon_Defense)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_ATTACK_PREVIEW_COUNTER_DAMAGE</zType>
+		<ja>カウンター({0_reason})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
+		<ja>都市計画：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOGGLE_CITY_AUTOMATION</zType>
+		<ja>{true_0:キャンセル:開始}都市の自動化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLAYER_SUCCESSION</zType>
+		<ja>icon(LINE_OF_SUCCESSION)継承順位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TEXT_SCALE</zType>
+		<ja>{0},年{1}{true_2: ({2} Turns)}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_IMPROVEMENT_PILLAGED</zType>
+		<ja>[link(CONCEPT_IMPROVEMENT)が略奪被害]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EXIT_DIALOG</zType>
+		<ja>本当に終了しますか？
+保存していない進行状況は失われます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOAD_DIALOG</zType>
+		<ja>本当に別のゲームをロードしますか？
+保存していない進行状況は失われます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CLOUD_CONTINUE_DIALOG</zType>
+		<ja>本当にこのゲームをクラウドで続行しますか？
+ネットワーク接続は切断されます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALIMPROVEMENTS</zType>
+		<ja>建設物(特別)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_HEADING_HINTS</zType>
+		<ja>ヒント{0}-{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORTING_DROPDOWN_LABEL</zType>
+		<ja>並び替え：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_NON_SCENARIOS</zType>
+		<ja>シナリオ/ Game of the Weekを除外</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_GAMES_COMPLETED</zType>
+		<ja>コンプリートしたゲーム：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_VICTORY</zType>
+		<ja>最多勝利数：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_NATION</zType>
+		<ja>お気に入りの国家：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_MAPCLASS</zType>
+		<ja>お気に入りのマップ：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_LEGITIMACY</zType>
+		<ja>最高の正統性：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_POINTS</zType>
+		<ja>最高勝利点：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_ACHIEVEMENTS</zType>
+		<ja>アンロックされた実績：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_GAMES_WON</zType>
+		<ja>勝利したゲーム：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_PINGS_REMINDER</zType>
+		<ja>PINGリマインダー：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_TURN</zType>
+		<ja>ターン数{0_turnNumber}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_TILES_OWNED</zType>
+		<ja>タイル数{0_numTiles}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_TOOLTIP</zType>
+		<ja>Modの並べ替え順</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_DIFF</zType>
+		<ja>{0_modName} -インストール済み：{1},利用可({2}): {3}{br}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_BLOCK</zType>
+		<ja>{br}{br}有効なModによって、次のModがブロックされています:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_WORKSHOP_TOOLTIP</zType>
+		<ja>MODの新規ビルドファイルの作成および公開{br}必須項目:{br}icon(bullet)Mod名{br}icon(bullet)ファイル名(Mod名から自動的に生成されます){br}icon(bullet)Mod写真(画像要件を確認){br}icon(bullet)説明{br}icon(bullet)作成者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_HELP_POPUP_TEXT</zType>
+		<ja>MODブラウザを使えば、Old Worldのコミュニティが制作したMODをインストール＆管理し、MODを使ってゲームをプレイすることができます。Old WorldのMODは、Old Worldの全バージョンで利用できる「mod.io」により管理されています。MODブラウザ内の各セクションの説明は、下記をご覧ください。
+
+『管理』-インストール済み＆使用できるMODを表示します。MODを有効にするには、左側にあるスイッチをONに切り替えてください。そうすると、MODを有効にした状態でゲームを遊ぶことができます。MODをアンインストールするには、削除したいMODを選択し、アンインストールのボタンをクリックしてください。注：マップとマップスクリプトのMODは常時有効となっているので、わざわざ有効にさせる必要はありません。
+
+『アップロード』-制作したMODをOld Worldのプレイヤーたちと共有できます。MOD制作者は、MOD内容の詳細を設定した上で、他のプレイヤーがMODを利用できるよう、制作したMODを「mod.io」にアップロードできます。Steam版のOld Worldでは、Steamワークショップにアップロードすることも可能です。
+
+『インストール』-「mod.io」から遊びたいMODを検索し、ダウンロードすることができます。Steam版のOld Worldには、代わりにSteamワークショップのMODを表示させるボタンがあります。MODを選択し、「ダウンロード」をクリックするとインストールできます。すでにダウンロード済みのMODには、チェックマークが表示されます。MOD制作者が新バージョンのMODをアップロードした場合は、そのMODをアップデートすることも可能です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_COMPATIBILITY_TEXT</zType>
+		<ja>このMODは、Old Worldの異なるバージョンで制作されたものです。あなたのOld Worldのバージョンと互換性がない可能性があるため、このMODの使用を推奨しません。
+
+「了解」ボタンでMODのダウンロードを続行し、「キャンセル」ボタンでMODブラウザに戻ります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_DOWNLOADING</zType>
+		<ja>現在ダウンロード中- {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOADING</zType>
+		<ja>現在アップロード中- {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CODE_MOD_INCOMPATIBLE</zType>
+		<ja>MOD {0}のロードに失敗しました。MODにはこのバーションの『Old Wolrd』と互換性のないカスタムソースコードが含まれています。そのMODを再度使用できるようにするには、制作者がアップデートする必要があります。
+
+{0}は読み込みできず、無効な状態です。プレイする前に、『Old World』を再起動することをお勧めします。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CODE_MOD_INCOMPATIBLE_EARLY_CRASH</zType>
+		<ja>有効になっているMODの1つが初期化に失敗しました。これは本作のアップデートによって発生した可能性があるため、MOD制作者の方でも同じくファイルのアップデートを行う必要があります。
+
+全てのMODが無効化されています。複数のMODを選択していた場合、そのうちのいくつかは再び安全に有効化できる可能性があります。本作の再起動をすぐに行うことをお勧めします。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAC_GOG_ROSETTA_WARNING</zType>
+		<ja>あなたはGOGで販売されているMac版をApple Silicon搭載機でオフラインで実行しているようです。大変申し訳ありませんがAppleネイティブ(ARM64)モードではいくつかのGOG版の機能が利用できず、その結果として購入済みのDLCが利用できない可能性があります。
+
+この問題を解決するためにはGOG Galaxyよりゲームを実行するか、動作モードをRosetta(Intelモード)に切り替えて頂き、その後GOG Galaxyを経由せず起動してください。
+
+ご不便をおかけして申し訳ありません。現在この問題の解決法についてGOGと模索中です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_INTEL_13TH_GEN_WARNING</zType>
+		<ja>警告:現在お使いのコンピューターで使用されているCPUには既知の安定性の問題があり、Old Worldのプレイ中に頻繁なクラッシュを起こす恐れがあります。
+
+予防措置として、CPUの使用率を低減して安定性を増加させるため、「低速AI」設定を自動適用しました。設定画面の「UI」よりこの設定の無効化が行えますが、その前にまずIntelの診断ツールでシステムが安定動作していることを確認することをお勧めします。
+
+&lt;color="lightblue"&gt;&lt;link="https://docs.google.com/document/d/1-NlsBONzmRGI0BqSscZchJCFt9sMLLREeDoVpPyUJCw"&gt;i9-13900Kに関する情報のページ&lt;/link&gt;をご確認頂き、推奨される対処法を確認してください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_READY</zType>
+		<ja>[{TRIGGER-0}準備完了]*</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TUTORIAL_TOGGLE</zType>
+		<ja>チュートリアルイベント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LAPTOP_BATTERY_PERFORMANCE_WARNING</zType>
+		<ja>バッテリーで稼働するノートパソコンでプレイしています。使用中のパソコンの設定によっては、バッテリーの寿命を長くするために、パフォーマンスを制限する場合があります。
+
+一部のノートパソコンでは、このような節電機能によって、ターン間の待ち時間がかなり長くなる場合があります。そのような問題が発生した場合は、ノートパソコンの電源オプションを「高パフォーマンス」か類似の項目を選択することを検討してください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_AGE_OPINION</zType>
+		<ja>年齢/方針</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_SEIZE_THE_THRONE</zType>
+		<ja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］本DLCでは、王座の陰にいる者だけでなく、国のlink(CONCEPT_SUCCESSION)権を持つ者と王位を争うことになります。他のキャラクターたちも指導者を追い落として、自ら王朝を築こうとします。特に「link(TRAIT_RISING_STAR)」と呼ばれる者たちは、あなたの治世に不満を抱くと、その王位を奪取しようとするかもしれません。また、link(TRAIT_POWER_HUNGRY)の強い人物は、指導者がlink(TRAIT_UNPOPULAR)となる機会を窺い、その隙を突こうとするでしょう。
+
+周到に準備を整え、決意を固めた者たちは、自らの主張を確固たるものとするためならば、link(OCCURRENCE_CIVIL_WAR)を起こすことも厭わないでしょう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_MENTAL_STRAIN</zType>
+		<ja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］特定のイベントが発生したとき、指導者がlink(TRAIT_STRESSED)を抱えることがあります。ストレスを受けると、統治及び指揮能力が低下し、特にlink(YIELD_SCIENCE)やlink(YIELD_CIVICS)、link(YIELD_MONEY)などが減少します。また、link(MISSION_INFLUENCE)も利用できなくなります。
+
+時とともにlink(TRAIT_STRESSED)が解消されることもありますが、「link(MISSION_REVEL)」ことでより確実にlink(TRAIT_STRESSED)を消すことができるでしょう。（link(MISSION_REVEL)：画面左下にあるアクションパネルから選択できます）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_POWERFUL_RIVALS</zType>
+		<ja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］link(TRAIT_RISING_STAR)は、多くの者たちから偉大なことを成し遂げると、未来を嘱望されているキャラクターです。link(TRAIT_RISING_STAR)はlink(CONCEPT_XP)を獲得していくと、国に大きな恩恵をもたらすこともあれば、玉座を奪う脅威にもなり得るでしょう。link(COUNCIL_GRAND_VIZIER)は、link(TRAIT_RISING_STAR)とはまた別種のライバルです。妥協して招くこともあれば、自国に多大な技術的利益をもたらす存在として招くこともあるでしょう。
+
+どちらも、あなたが極端にlink(TRAIT_UNPOPULAR)でない限り、ミッション「link(MISSION_SCHEME_AGAINST_RIVAL)」によって退けることができます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_OPULENCE</zType>
+		<ja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］プロジェクト「link(PROJECT_LAVISH_LIFESTYLE)」を実行することで、あなたの国は世界中の羨望の的となります。link(PROJECT_LAVISH_LIFESTYLE)となった場合、link(CONCEPT_VICTORY_POINT,2)が加算されます。しかし、このプロジェクトは費用がかさむだけでなく、link(IMPROVEMENT_ESTATES)がある都市でしか行えません。
+
+建設機能である「link(IMPROVEMENT_ESTATES)」をアンロックするには、都市画面のicon(LuxuryUp)ボタンを押して、その都市にlink(CONCEPT_LUXURY)を送りましょう。</ja>
+	</Entry>
+</Root>

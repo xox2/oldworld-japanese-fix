@@ -1,0 +1,7 @@
+<Root>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_QUARRY_HINT</zType>
+		<ja>ほとんどの建物と一部のユニットの構築に必要なlink(YIELD_STONE)の生産をブーストします。
+より多くの石材と追加のlink(YIELD_CIVICS)を付与するlink(SPECIALISTCLASS_STONECUTTER)でさらに発展させることができます。</ja>
+	</Entry>
+</Root>

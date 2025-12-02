@@ -1,0 +1,545 @@
+<Root>
+	<Entry>
+		<zType>TEXT_TUTORIAL_SECOND_CITY</zType>
+		<ja>チュートリアル:入植者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_STATESMEN_ADVICE_FOUND</zType>
+		<ja>都市link(FAMILYCLASS_STATESMEN)は、link(YIELD_ORDERS,1)とlink(YIELD_CIVICS,1)の生産量がブーストする。この氏族の都市は、あなたに対する氏族のlink(CONCEPT_OPINION_FAMILY,3)が向上するにつれて、より多くのlink(YIELD_CIVICS,1)を生産するようになる。link(YIELD_CIVICS,1)の収量にボーナスが発生するため、link(FAMILYCLASS_STATESMEN)都市はlink(CONCEPT_SPECIALIST,2)を訓練するのに効果的で、コストも少なくて済む。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_HUNTERS_ADVICE_FOUND</zType>
+		<ja>軍事氏族であるlink(FAMILYCLASS_HUNTERS)は、link(YIELD_GROWTH,1)に重きをおいている。この氏族のlink(UNITTRAIT_RANGED)ユニットは、自国のlink(CONCEPT_TERRITORY)内での戦いが最も得意であり、すべてのlink(IMPROVEMENT_CAMP,2)はlink(FAMILYCLASS_HUNTERS,1)のlink(CONCEPT_TERRITORY)のでの生産量（性能）が2倍になる。そのため、link(RESOURCE_GAME)、link(RESOURCE_FUR)やlink(RESOURCE_ELEPHANT)、link(RESOURCE_CAMEL)のような資源のそばでは、非常に高い効率を発揮する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_GOODS_TURN</zType>
+		<ja>+20 link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_WOOD,1)、link(YIELD_STONE,1) /ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_50_GOODS_TURN</zType>
+		<ja>+50 link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_WOOD,1)、link(YIELD_STONE,1) /ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_100_GOODS_TURN</zType>
+		<ja>+100 link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_STONE,1)、link(YIELD_WOOD,1) /ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_250_GOODS_MONEY_TURN</zType>
+		<ja>+250 link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_STONE,1)、link(YIELD_WOOD,1)、link(YIELD_MONEY,1) /ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_MEDJAY_ARCHER</zType>
+		<ja>第二link(UNIT_MEDJAY_ARCHER,2)の制御</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_BEJA_ARCHER</zType>
+		<ja>第二link(UNIT_BEJA_ARCHER,2)の制御</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_DMT_WARRIOR</zType>
+		<ja>第二link(UNIT_DMT_WARRIOR,2)の制御</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_SHOTELAI</zType>
+		<ja>第二link(UNIT_SHOTELAI,2)の制御</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LANGUAGE_JAPANESE</zType>
+		<ja>日本語(JA)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LANGUAGE_CHINESE_TRADITIONAL</zType>
+		<ja>繁體中文(zh-TW)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LANGUAGE_CHINESE_SIMPLIFIED</zType>
+		<ja>简体中文(zh-CN)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_AKSUM_STORY</zType>
+		<ja>私はアクスムのカレブ、信仰の王者だ。
+
+ズ=ヌワール王が紅海の向こうでキリスト教徒を迫害したため、私はこの地へと侵略しこの圧政者を放逐した。その行いにより私はやがて聖人エレスバーンと呼ばれることになるだろう。
+
+その後私の土地に棲むアガウ族を統一し、支配領域を拡大し重要な交易路を確保した。
+
+長年の統治の後、私は静かな信仰活動を求めて退位した。それまでにどのような勝利を収められるかはあなた次第である。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
+		<ja>私はアッシュルバニパル、宇宙の王、偉大な王の子孫だ。私は後継者としては4番目だった。だが、父エサルハドンは、勇敢さと知性を評価して私をアッシリアの統治者に選び、兄を遠い王国の統治に送り出した。不穏な空気は兄の地から漂ってきた。私は自分が最も偉大な王になりうることを証明しなければならない。
+
+父が生きている間、スパイ長として働き、礼儀作法や軍事訓練を学んだ。3万枚の字書板を含む、旧世界初の体系的な図書館も建設した。言語、特にアッカド語とシュメール語に堪能なことで有名な私は、多くの旧家と親交を深めている。
+
+アッシリア王族にのみ許された、公の行事である獅子狩りをする私自身のレリーフの作成を命令した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
+		<ja>私はネブカドネザル、メソポタミアの王の息子、メディアのアミティスの夫であり、マルドゥク神の永遠の崇拝者だ。父の名において、私の都市バビロンをこの地の宝石へと昇華させた。また、軍事戦術の訓練を受け、王国を征服し、反乱を鎮圧してきた。
+
+妻のためにペルシャの丘をより身近に感じることができるlink(IMPROVEMENT_HANGING_GARDENS)と、マルドゥクを称えるlink(IMPROVEMENT_ISHTAR_GATE)を建設した。そして、この2つを行列道でつないだ。訪れる者は皆、我が帝国の美しさに目を奪われている。
+
+私の支配下では、女性は男性と同等の権利を持つ。我々は知的な研究所や寺院を創設し、芸術、文化、科学、数学、職人技に力を注いでいる。10年で、私はバビロンを光の都に変えた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
+		<ja>私はフェニキアの王女、エリッサと名乗り、故郷のテュロスから逃れてきた。ヘラクレスの神官であった最愛の夫アセルバスを殺害した兄のピグマリオンから逃れ、北アフリカにたどり着いた。
+
+夫の財産を元手に、ベルベル人の王であり、私との結婚を求めたイアルバースと交渉した。彼はあざけるように、死んだ牛の皮1枚で覆えるだけの土地を約束した。私はその皮を細長く切り裂き、テュロス人の入植者たちとともに、私の愛する都市の境界線を作った。
+
+私は放浪者ディードー、カルタゴの女王、私の民の女神になる準備はできている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT_STORY</zType>
+		<ja>私はハトシェプスト、女性のファラオ。だが、治世中は自分が男性であると公に宣言した。
+
+策略は王座を得るために必要だったものの、宗教に関する豊富な知識で、私は民衆に慕われるようになった。アメン神の妻である私は、彼の子孫であると宣言した。私の親族は両家とも王族の血を引いている。兄のトトメス2世と結婚し、女性の後継者ネフェルウラーを産んだ。その後、もう子供を産めなかった。
+
+時折、金属製のひげをつけていたが、それは私の民をより良い運命に導くために支払うべき正当な対価であった。私の統治下でエジプトは多くの交易網を作り出し、建築家の国として再確立した。科学と教育を愛する私は、エジプト帝国が既知の世界全体に建築物を普及させる手助けをした、最も才能ある建築家たちと親交を深めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE_STORY</zType>
+		<ja>私はマケドニア王フィリッポス2世、マケドニア王国の創始者、アミュンタス3世の息子だ。
+
+エパミノンダスから外交と軍事の教育を受け、コリントス同盟として知られるギリシャ国家の連合を設立した。また、古代マケドニア軍を改革し、マケドニア式ファランクスを創始した。
+
+10代の頃、私は年上の男性の恋人がいたかもしれない。パンメネスという将官と一緒に暮らしていた。
+
+生涯に渡り、7回結婚した。妻の一人、オリュンピアスは私に息子をくれた。そして、彼をアレクサンドロスと名付けた。彼は、私の馬がオリンピック競技会で優勝した年に生まれた。アレクサンドロスは今13歳だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA_STORY</zType>
+		<ja>私はキュロス大王、カンビュセス王の息子、そして諸王の王だ。
+
+私の祖父であるメディア王国のアスティアゲス王は、私が生まれたときに私を殺すつもりだった。だが、私は彼の王国を征服し、自分のものにするために生きた。
+
+そして、最初のペルシャ帝国を建国した。私の支配下では、文明国は自由に神々を崇拝することが許される。私はあらゆる国を例外なく服従させた。
+
+預言者イザヤは私をメシアと呼び、『油を塗られた者』と呼んだ。私は、聖書の中でそう呼ばれる唯一のユダヤ人以外の人物だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME_STORY</zType>
+		<ja>私はロームルス、マルス神の息子だ。双子の弟レムスとともに、女狼に救われ育てられた。弟の狡猾なやり方や権力を分かち合うことを嫌がっていることに気づき、彼のそばでは用心し、自分の部族を設立することにした。
+
+見捨てられた身である私の卑しい出自は、共に戦ってくれる勇敢な男たちを見つけるのに役立った。彼らは自らの娘を結婚させるのを嫌がったが、我々は誘拐してとにかく結婚した。今、私は強力な部族と同盟を結んでいる。
+
+物語を作り直す必要がある。そして、私は神の恩恵を受けた公明正大な指導者になるだろう。
+
+私はロームルス、世界を支配する運命にある都市、ローマを設立した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_POLIS</zType>
+		<ja>都市国家は、都市の防衛と拡張の両方に使えます。link(PROJECT_WALLS)を建造すると、link(CONCEPT_CITY)のlink(CONCEPT_HP)が増加し、さらに、同じlink(CONCEPT_FAMILY)出身のユニットをその城塞都市に配置すると、link(YIELD_HAPPINESS,1)が増加します。link(IMPROVEMENT_HAMLET,2)は、自身のlink(CONCEPT_TERRITORY)内ならどこにでも建造できる(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)です。時間の経過によって、link(IMPROVEMENT_VILLAGE,2)、そしてlink(IMPROVEMENT_TOWN,2)へと発展します。発展にはlink(YIELD_FOOD,1)を消費しますが、link(YIELD_MONEY,1)の産出が増え、link(CONCEPT_TRADE_NETWORK)を建てるとさらに増えます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LOADING_HISTORY_PRE1_PREFIX</zType>
+		<ja>1万年前：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LOADING_HISTORY_PRE2_PREFIX</zType>
+		<ja>3000年前：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LOADING_HISTORY_PRE3_PREFIX</zType>
+		<ja>1,000年前：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LOADING_HISTORY_LAST_PREFIX</zType>
+		<ja>現在：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LOADING_HISTORY_PREFACE</zType>
+		<ja>{0}年前：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HISTORY_CITY_DISASTER</zType>
+		<ja>{0}発生：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COOLDOWN_ANCHORED_STATUS</zType>
+		<ja>停泊中({0_turns})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTLEVEL_NONE_HELP</zType>
+		<ja>ゲームの進行や、指導者の固有能力を発動するために必要なイベント以外は発生しない。
+
+教育の進路は後継者のみに選ぶことができ、結婚の申し出を受けるのは指導者のみとなる。link(MISSION_FAMILY_MARRIAGE)のようなミッションをこなすことで、条件を満たした子孫に対しても婚姻を申し込むことができる。
+
+スピーディーにプレイしたい方へおすすめです。イベント関連のインタラクションを無くし、運の影響を最小限に抑えつつも、家族やキャラクターのシステムは維持します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_IDLE_1</zType>
+		<ja>サイクル待機1</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_1</zType>
+		<ja>サイクル/経過待機1</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_IDLE_2</zType>
+		<ja>サイクル待機2</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_2</zType>
+		<ja>サイクル/経過待機2</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_IDLE_3</zType>
+		<ja>サイクル待機3</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_3</zType>
+		<ja>サイクル/経過待機3</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_IDLE_4</zType>
+		<ja>サイクル待機4</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_4</zType>
+		<ja>サイクル/経過待機4</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_IDLE_5</zType>
+		<ja>サイクル待機5</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PASS_IDLE_5</zType>
+		<ja>サイクル/経過待機5</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_MAP_EDITOR_PROJECTOR</zType>
+		<ja>イメージプロジェクターの切り替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_1</zType>
+		<ja>サイクルプレイヤー1</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_2</zType>
+		<ja>サイクルプレイヤー2</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_3</zType>
+		<ja>サイクルプレイヤー3</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_4</zType>
+		<ja>サイクルプレイヤー4</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_5</zType>
+		<ja>サイクルプレイヤー5</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_6</zType>
+		<ja>サイクルプレイヤー6</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_7</zType>
+		<ja>サイクルプレイヤー7</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_8</zType>
+		<ja>サイクルプレイヤー8</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CYCLE_PLAYER_9</zType>
+		<ja>サイクルプレイヤー9</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIOCLASS_LEARNTOPLAY_DESC</zType>
+		<ja>Old Worldの舞台は、いにしえの時代の地中海および中東地域を中心とした地域です。ここであなたは、歴史にその名を残す無数のlink(CONCEPT_NATION,2)の1つを率いることになります。まずは1つのlink(UNIT_SETTLER)から始め、link(CONCEPT_NATION,2)がすでに勢力を拡大している世界に帝国を築かなければなりません。
+
+このチュートリアルではOld Worldの基本的な部分について説明します。このチュートリアルは、ゲーム内のすべての要素をカバーしているわけではありませんが、link(CONCEPT_NATION)を統治する基本を一通りご案内します。ポップアップウィンドウは、スタートするために必要な情報を表示します。途中で達成する目的が表示されます。これらの目的を達成することで、link(CONCEPT_NATION,1)を統治するための実践的な経験を積むことができます。
+
+icon(bullet)最初のチュートリアルでは、ユニットの移動やマップの探索など、基本的なことを学びます。
+
+icon(bullet) 2つ目のチュートリアルでは、首都を建設した後、link(CONCEPT_NATION)の都市を3つまで増やし、地方経済を形成し始めるまでの過程を学びます。
+
+icon(bullet) 3つ目のチュートリアルでは、キャラクター、評価、影響力、宗教、軍隊の編成について説明します。
+
+icon(bullet) 4つ目のチュートリアルでは、link(CONCEPT_NATION)を統治するために役立つ概念が紹介され、最後には部族との戦争が待っています。
+
+icon(bullet)最後となる5つ目のチュートリアルでは、link(NATION_ROME)と対戦することになります。敵を偵察したあとで、都市を占領し、軍隊を壊滅させましょう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIOCLASS_CARTHAGE_DESC</zType>
+		<ja>史実を基にした本キャンペーンを通じて、カルタゴを建国時から統治し、不朽の名声を勝ち取りましょう。
+
+カルタゴは、女王ディドーがフェニキアの小さな植民地としてアフリカの北岸に築いた国家です。やがて、地中海の島々やヨーロッパの海岸までその領土を海岸沿いに拡大しつつ、この地域で最も豊かな国家へと発展し、その富と航海術で知られるようになりました。
+
+本キャンペーンは4つのシナリオで構成されています。植民地として近隣の襲撃者から生き残るために必死に抵抗していた時代から、新興勢力であるローマ共和国に戦争を仕掛けるほどの強力な帝国になるまで、その歴史を共に歩んでいくことになります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIOCLASS_LBP_DESC</zType>
+		<ja>固定マップでプレイする標準的なゲームセットである「プレイを通して学ぶ」では、プレイを通して次のことができます
+icon(bullet)新規プレイヤー:初期設定に非常に近い条件下でのゲームプレイ
+icon(bullet)コンテンツクリエーター:安定したゲーム体験のため、ウォークスルーによる検証
+icon(bullet)競い合いたいプレイヤーや経験豊富なプレイヤー:自分のプレイを評価</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LBP_ABLE_DESC</zType>
+		<ja>標準的な海辺マップ、難易度: link(DIFFICULTYMODE_ABLE)
+
+{TEXT_SCENARIO_LBP_GENERAL_DESC}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LBP_STRONG_DESC</zType>
+		<ja>標準的な硬葉樹林マップ、難易度: link(DIFFICULTYMODE_STRONG)
+
+{TEXT_SCENARIO_LBP_GENERAL_DESC}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_1</zType>
+		<ja>チュートリアル1</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_1_DESC</zType>
+		<ja>Old Worldの舞台は、いにしえの時代の地中海および中東地域を中心とした地域です。ここであなたは、歴史にその名を残す無数のlink(CONCEPT_NATION,2)の1つを率いることになります。まずは1つのlink(UNIT_SETTLER)から始め、link(CONCEPT_NATION,2)がすでに勢力を拡大している世界に帝国を築かなければなりません。
+
+この1つ目のチュートリアルではOld Worldの基本的な部分について説明します。このチュートリアルは、ゲーム内のすべての要素をカバーしているわけではありませんが、link(CONCEPT_NATION)を統治する基本を一通りご案内します。ポップアップウィンドウは、スタートするために必要な情報を表示します。途中で達成する目的が表示されます。これらの目的を達成することで、link(CONCEPT_NATION,1)を統治するための実践的な経験を積むことができます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_2</zType>
+		<ja>チュートリアル2</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_2_DESC</zType>
+		<ja>Old Worldの舞台は、いにしえの時代の地中海および中東地域を中心とした地域です。ここであなたは、歴史にその名を残す無数のlink(CONCEPT_NATION,2)の1つを率いることになります。まずは1つのlink(UNIT_SETTLER)から始め、link(CONCEPT_NATION,2)がすでに勢力を拡大している世界に帝国を築かなければなりません。
+
+この2つ目のチュートリアルではOld Worldの基本的な部分について説明します。このチュートリアルは、ゲーム内のすべての要素をカバーしているわけではありませんが、link(CONCEPT_NATION)を統治する基本を一通りご案内します。今回は1つ目のチュートリアルでlink(TRIBE_BARBARIANS)に勝利した場所よりゲームは始まります。link(CONCEPT_CITY_SITE)にlink(CONCEPT_CAPITAL)を築き、基本的な経済を確立する術を学べます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_3</zType>
+		<ja>チュートリアル3</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_3_DESC</zType>
+		<ja>Old Worldの舞台は、いにしえの時代の地中海および中東地域を中心とした地域です。ここであなたは、歴史にその名を残す無数のlink(CONCEPT_NATION,2)の1つを率いることになります。まずは1つのlink(UNIT_SETTLER)から始め、link(CONCEPT_NATION,2)がすでに勢力を拡大している世界に帝国を築かなければなりません。
+
+この3つ目のチュートリアルではOld Worldの基本的な部分について説明します。このチュートリアルは、ゲーム内のすべての要素をカバーしているわけではありませんが、link(CONCEPT_NATION)を統治する基本を一通りご案内します。今回も2つ目のチュートリアルと同じ場所からゲームは始まります。しかし今回の内容はlink(CONCEPT_NATION)ではなく、キャラクターについてのものです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_4</zType>
+		<ja>チュートリアル4</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_4_DESC</zType>
+		<ja>Old Worldの舞台は、いにしえの時代の地中海および中東地域を中心とした地域です。ここであなたは、歴史にその名を残す無数のlink(CONCEPT_NATION,2)の1つを率いることになります。まずは1つのlink(UNIT_SETTLER)から始め、link(CONCEPT_NATION,2)がすでに勢力を拡大している世界に帝国を築かなければなりません。
+
+この4つ目のチュートリアルではOld Worldの基本的な部分について説明します。このチュートリアルは、ゲーム内のすべての要素をカバーしているわけではありませんが、link(CONCEPT_NATION)を統治する基本を一通りご案内します。今回は前回のシナリオに続きで、3つの都市を持った状態から始まります。あなたはここでより高度な部族、他の国家と接触することになるでしょう。そして評議員、外交、ミッションなどについても解説していきます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_5</zType>
+		<ja>チュートリアル5</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_LEARNTOPLAY_5_DESC</zType>
+		<ja>Old Worldの舞台は、いにしえの時代の地中海および中東地域を中心とした地域です。ここであなたは、歴史にその名を残す無数のlink(CONCEPT_NATION,2)の1つを率いることになります。まずは1つのlink(UNIT_SETTLER)から始め、link(CONCEPT_NATION,2)がすでに勢力を拡大している世界に帝国を築かなければなりません。
+
+この5つ目のチュートリアルではOld Worldの基本的な部分について説明します。このチュートリアルは、ゲーム内のすべての要素をカバーしているわけではありませんが、link(CONCEPT_NATION)を統治する基本を一通りご案内します。あなたはlink(NATION_ROME)がlink(TRIBE_THRACIANS)を使ってlink(CHARACTER_PHILIP)を暗殺させたことを突き止めました。link(NATION_ROME,3)はlink(NATION_GREECE)の西に位置しています。link(CHARACTER_ALEXANDER)はまず軍隊の編成に時間を費やさなければなりません。そしてその後、link(NATION_ROME)を打ち破るのです！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_BARBARIAN_DESC</zType>
+		<ja>嫉妬と疑念に満ちた部族がひしめく世界で戦い抜き、唯一の文明国として生き延びろ。
+
+セットアップ(上の「オプションを表示」をクリック)
+icon(bullet)国とマップを選んでください。
+icon(bullet)「軍勢の出現」と「襲撃期間」を選んでください。
+icon(bullet)ゲームの難易度や部族の攻撃レベルが高くなると、集団の規模が大きくなります。
+
+シナリオルール
+icon(bullet)ゲーム開始時、カウントダウンおよび推定軍勢規模が表示されます。
+icon(bullet)敵軍の襲来時、ユニットの数が表示されます。
+icon(bullet)軍勢はlink(TRIBE_RAIDERS,1)ユニットで構成されています。
+icon(bullet)襲撃が起きると、今いるいずれかのlink(TRIBE_RAIDERS)が軍勢に加わります。
+icon(bullet) link(TRIBE_RAIDERS,1)ではない種族ユニットは、軍勢には加わりません。
+icon(bullet)襲撃中、link(TRIBE_RAIDERS)のlink(CONCEPT_FATIGUE)疲弊が1増えます。
+
+デフォルトゲームからの変更点
+icon(bullet)ゲームの進行につれて、link(CONCEPT_TRIBE,2)は敵対を強めていきます。
+icon(bullet)部族ユニットはターゲットに隣接する水タイルから攻撃できます。
+icon(bullet) link(COUNCIL_AMBASSADOR)は使用不可になり、link(DIPLOMACY_TRUCE)、link(DIPLOMACY_PEACE)、link(CONCEPT_ALLIANCE_TRIBE)はlink(CONCEPT_TRIBE,2)と交渉できません。関係イベントが無効化されました。
+icon(bullet)特定の氏族ボーナスが既に調整されています：
+icon(bullet) link(UNIT_CARAVAN,2)の代わりに、追加でlink(FAMILYCLASS_TRADERS,1)のlink(YIELD_ORDERS)を獲得します。同様に、link(FAMILYCLASS_TRADERS)もlink(IMPROVEMENTCLASS_HAMLET,2)から追加で「link(YIELD_ORDERS)」を獲得します。
+icon(bullet) link(EFFECTUNIT_STEADFAST)の代わりに、link(FAMILYCLASS_CHAMPIONS,1) link(UNITTRAIT_INFANTRY)ユニットはlink(EFFECTUNIT_GUARD1)を獲得します。
+
+勝利条件
+icon(bullet)バーバリアンの軍勢を排除すると、勝利となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_IMPERIUM_ROMANUM_SUB</zType>
+		<ja>ローマの世界:アッシリア、バビロニア、カルタゴ、エジプト、ギリシャ、ヒッタイト、クシュ、ペルシャ、ローマ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_1</zType>
+		<ja>ゲーム1</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_1_DESC</zType>
+		<ja>史実を基にした本キャンペーンを通じて、カルタゴを建国しましょう！!
+
+兄に夫を殺された女王ディドーは、従者とともにフェニキアの都市テュロスから逃れ、北アフリカの海岸に上陸しました。こうしてカルタゴという小さな植民地国家が生まれ、経済や防衛力を強化しながら、歴史にその名を刻むことになります。あなたは、新しく設立された植民地として生き残り、カルタゴを偉大な国家へと導くことができるでしょうか？
+
+
+{TEXT_SCENARIO_CARTHAGE_1_RULES}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_1_RULES</zType>
+		<ja>「ゲーム１-雄牛の革」ルール：
+
+icon(bullet)開始時はlink(TECH_DIVINATION)技術のみです。
+icon(bullet)開始時に軍事ユニットはありません。
+icon(bullet)修練度を要する軍事ユニットは作成により時間がかかります。
+icon(bullet)記念物は建築できません。
+icon(bullet) link(UNIT_SETTLER,2)は建築するにつれ、急速にコストが増大します―都市拠点は慎重に選んでください！
+icon(bullet) link(CONCEPT_ALLIANCE_TRIBE)へ入ることはできません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_2</zType>
+		<ja>ゲーム2</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_2_DESC</zType>
+		<ja>「カルタゴの興隆」キャンペーンを継続し、カルタゴを率いて地中海に進出しましょう。母都市テュロスがバビロニア軍に包囲される中、カルタゴがフェニキア文明の中で最も強力かつ裕福な都市となる時が来た。
+
+前のシナリオ「雄牛の皮」をクリアした際のセーブファイルをインポートすることができます。セーブデータをインポートすると、前のシナリオで選択した内容が一部保存されます。氏族の配属や一部の都市の建設物が引き継がれるほか、前シナリオでの行動に関連したイベントに遭遇する場合があります。
+
+
+「ゲーム2-富と影響力」ルール：
+
+icon(bullet)技術開発によりコストがかかります。
+icon(bullet) link(UNIT_SETTLER,2)を作成するたび、コストが大きく増加します。新しい都市の建設が、目的の達成に貢献するかどうかよく考えましょう！
+icon(bullet)史実に即して、このキャンペーンでのみ「神聖隊」と「投石兵」をお使いいただけます。
+
+目的を6個達成するとブロンズ勝利となります。目的を8個達成するとシルバー勝利となります。目的を10個達成するとゴールド勝利となります。目的を全て達成するとエピック勝利となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_3</zType>
+		<ja>ゲーム3</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_3_DESC</zType>
+		<ja>カルタゴは、次々とやってくる地中海の果てしない戦乱に耐えてきました。そして今、新たな脅威としてローマが台頭します。あなたは、海を支配しながら、同時に陸の都市も守り抜き、ローマの台頭に対して勝利を収めることができるでしょうか？
+
+前のシナリオ「富と影響力」をクリアした際のセーブファイルをインポートすることができます。セーブデータをインポートすると、前のシナリオで選択した内容が一部保存されます。氏族の配属や一部の都市の建設物が引き継がれるほか、前シナリオでの行動に関連したイベントに遭遇する場合があります。
+
+このシナリオでは、あなたは強大な敵と戦争を行うことになります。史実に従えば、カルタゴはこの戦争に敗北しました。したがって、最初の2つのシナリオよりも難易度が高くなります。達成するのが非常に困難な目的もあるかもしれません。
+
+「ゲーム3 -ローマの台頭」ルール：
+
+icon(bullet)技術開発によりコストがかかります。
+icon(bullet)新しい都市へ入植することはできません。
+icon(bullet)史実に即して、このキャンペーンでのみ「神聖隊」と「投石兵」をお使いいただけます。
+icon(bullet)最後の時を迎えるまで、link(NATION_ROME)との戦争は終わりません。
+icon(bullet)艦船を停泊させるためには、海軍の支配力を維持する必要があります。目的カウンターの下には、あなたの海軍の支配力が表示されます。海軍の支配力を維持するには、よりたくさんの船を建造し、建造した船を強化するようにしましょう。
+
+目的を6個達成するとブロンズ勝利となります。目的を8個達成するとシルバー勝利となります。目的を10個達成するとゴールド勝利となります。目的を全て達成するとエピック勝利となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_4</zType>
+		<ja>ゲーム4</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_CARTHAGE_4_DESC</zType>
+		<ja>前回の戦争から20年も経たないうちに、カルタゴは再びローマとの戦争に突入してしまいました。今回は、カルタゴが有利でしょう。なぜなら彼らには、歴史上かつてないほどの技量を持つ偉大な武将、ハンニバル・バルカがいるからです。
+
+前のシナリオ「ローマの台頭」をクリアした際のセーブファイルをインポートすることができます。セーブデータをインポートすると、前のシナリオで選択した内容が一部保存されます。氏族の配属や一部の都市の建設物が引き継がれるほか、前シナリオでの行動に関連したイベントに遭遇する場合があります。
+
+このシナリオでは、歴史上カルタゴの完敗に終わった戦争を戦うことになります。そのため、シナリオの難易度は高く、クリアするのが非常に困難な目的もあります。
+
+「ゲーム4 -運命をつかむ」ルール：
+
+icon(bullet)シナリオ固有の技術を研究することができます。
+icon(bullet)新しい都市へ入植することはできません。
+icon(bullet)一部の都市ではカエトラティやヌミディア騎兵といった傭兵ユニットを作ることができます。短い時間で作成できますが、コストは高くつきます。
+icon(bullet)ゲームの進行中は、link(NATION_ROME)との戦争状態が続きます。
+icon(bullet)更なる通知があるまでは、首都及びイベリア半島にのみ船を停泊させることができます。
+icon(bullet)ハンニバル・バルカは特に強力な将官です。能力をうまく活用しましょう！
+
+目的を6個達成するとブロンズ勝利となります。目的を8個達成するとシルバー勝利となります。目的を10個達成するとゴールド勝利となります。目的を全て達成するとエピック勝利となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_PTOLEMY_STORY</zType>
+		<ja>私は救世主プトレマイオス。地上での人生で、多くのものを見てきた。
+
+マケドニアで育ち、アレクサンドロスの最も信頼できる仲間として軍歴を積んだ。アレクサンドロスの側につき、エジプトやペルシャ、マウリヤ帝国で戦を重ねながら、世界の果て、そしてその先まで共に旅をした。
+
+アレクサンドロスが死んだ時、私は彼をエジプトに埋葬した。今、私はアレクサンドロスの真の後継者として遺産を築いていく。私は君主「バシレウス」となり、ファラオとなった。年代記を書き、科学を研究する。我が王朝は土地を征服するだけでなく、その地を発展させたことでも、人々の記憶に残すのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_LEONIDAS_STORY</zType>
+		<ja>私はレオニダス。アギス朝のスパルタ王だ。
+
+スパルタに弱者の居場所はない。他のスパルタ人より秀でていなければ、私は王になれなかっただろう。優れた知恵を持ち、それに見合う武術の腕を持っていなければ、ゴルゴーは私の妻ではなかっただろう。
+
+ギリシャ全土が悲惨なる異国の脅威に直面した時、私は躊躇わなかった。300人の最高の重装歩兵を集め、同盟軍に会うために運命が形作られる地へと発った。私は分かっていた…自分がひ弱な男になるほど、長くは生きられないことを。
+
+私が戦で伏すことになれば、妻はよき夫と結婚し、よき子供を産んでくれることだろう。永遠である必要はない。私は仲間たちの生活を守る。それだけで十分だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_PERICLES_STORY</zType>
+		<ja>私はペリクレス。将軍、政治家、弁論家、芸術と文学の後援者であり、アテネ最初の市民でもある。
+
+国家の統一性に欠けているのが、ギリシャの特徴だ。この国は、無数の都市国家が緩やかな同盟を結ぶことで形作られていた。強力なリーダーシップが勝利につながる。そのため、私は同盟国の勢力を最大の民主主義都市であるアテネに集中させた。私は多くの選挙や政治闘争に勝ってきた。たとえ戦場であっても、知らない者はいない。
+
+国内外に脅威があふれている。剣を振るうにせよ、演説をするにせよ、何を選び取るにしても覚悟は決まっている。アテネは未来の社会が目指すべき、不朽の成功を収めた…私が未来の選ばれし指導者の憧れとなるのと同じように。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ALEXANDER_STORY</zType>
+		<ja>私はアレクサンドロス。「大王」と呼んでくれても構わん。
+
+父の軍が大きな戦に勝利し、父の馬がオリンピアの競技会で優勝した日…私はその日に生まれた。我が偉大さは、すでに預言されていた。文学と音楽を学び、狩猟を学び、そして何よりも戦うことを学んだ。
+
+大規模な作戦に着手する前に、父は殺された。父は以前、この野心に見合うだけの王国を見つけよと言っていた。今、アリストテレスの知恵とゼウスの加護、そしてこの比類なき軍事技能を武器に、ブケファロスに乗って戦いへと赴き、我が野心に相応しき王国を手中に収める。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_EZANA_STORY</zType>
+		<ja>私はアクスムのエザナ、人民の王にして神の下僕なり。
+
+若くして権力を手に入れた私は自らを戦争の神、マヘレムの子だと考えた。神の恩寵と、家庭教師であったlink(CHARACTER_FRUMENTIUS)の影響により、私はキリスト教の敬虔な信者となった。
+
+私の統治下でキリスト教は国家全体に広められた。私は戦争を起こし、貿易関係を強化することでアクスムの軍事、経済力を強化した。
+
+私はエザナ。私に従う者たちは同時に神の下僕でもある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_GUDIT_STORY</zType>
+		<ja>私はlink(TRAIT_RUTHLESS)なるグディト、アクスムの破壊者にして再建者だ。
+
+家臣とキリスト教に裏切られた私は追放され、奴隷として売り飛ばされた。時が経ち、帰還した私はアクスムとその教会を焼き払い、教会はもはやこの国からほとんど消え失せた。
+
+今こそ再建の時だ。私ならではのやり方によって。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MAKEDA_STORY</zType>
+		<ja>私はマケダ、人呼んでシバの女王とも言う。
+
+私は偉大な統治者たち、特にソロモン王と知恵、習慣について意見を交換した。
+
+私は抜け目のない外交官であり、大抵の場合は平和的な解決策を見出すことができるが、同時に必要とあらばアクスムの軍を動員することも決して躊躇わない。
+
+私はマケダ、今も、そして未来永劫の伝説となるであろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_GADARAT_STORY</zType>
+		<ja>私はガダラット、アクスム最強の王だ。
+
+その治世において私は近隣、そして遠方の多くの敵を征服し、アクスムをただの都市国家から強大な帝国へと成長させた。またアラビア半島の外に領土を広げた最初のアクスム王でもある。
+
+我が軍はアラビア南部の広大な地域を征服、支配しこの地域における数世紀に渡る支配を確立した。我が力に立ち向かうことのできない者たちはみな私に仕えることになった。
+
+私はガダラット、誰も私を止めることはできない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_KUSH_STORY</zType>
+		<ja>我は九弓の国のアメニレーナ、ゴアであり、カンダケである。我が力の前では帝国さえも震え上がる。
+
+メロエの女王として、ひとりで統治していた。我はローマ帝国支配下のエジプトに軍を率い、皇帝のブロンズ像を持って帰ってくるや、祭殿の階段の下に埋め、皆が足で踏みつけるようにした。我が夫と息子は倒され、宗教都市は略奪されたが、我は攻勢に転じ、ローマが和平に応じるまで戦い続けた。
+
+我は隻眼で、愛玩動物にライオンを引き連れ、恐ろしい外観をしているが、隣国との交易と平和を奨励した。我の統治下でクシュは強大な独立国家となり、アマニとアペデメクに捧げられた。
+
+我が名はアメニレーナ。我が庇護のもとで、クシュが陥落することは決してない。</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,60 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_HITTITE</zType>
+		<ja>あなた、{CHARACTER-SHORT-1}はヒッタイトの戦士王である。
+
+当初はラバルナスと呼ばれていたが、中部地域統一の戦いを通じて、{CHARACTER-SHORT-1}という王の名を得た。今は民衆があなたを支えてくれているが、それでも陰謀の脅威が存在する。ヒッタイトが、あなたの先祖の王国を超える偉大な国になるためには、氏族が一致団結する必要がある。
+
+Old Worldの既存の文明は、まだヒッタイトの強さと美徳を知らない。しかし、いずれ知ることになるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_RICHES_OF_THE_HILLS</zType>
+		<ja>「千の神々の民である我々は、丘陵の富を神から受け継いだ」{CHARACTER-1}の家庭教師が{CITY-2}のlink(PROJECT_WALLS)で、田園風景を眺めながらそう説明する。&lt;br&gt;
+「丘には重要な資源である鉄と石材が隠されている。少し悪知恵を働かせば、それらを見つけることができるだろう。また、丘は我々の領土を守ってくれる貴重な味方でもある」&lt;br&gt;
+{CHARACTER-1}は誇らしげに大声でこう言った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_THE_FAIREST_OF_LAWS</zType>
+		<ja>「我々{PLAYER-0,3}は法を順守する民である。古代の賢明な王たちによって定められた我々の法律は、あらゆる法律の中でも最も公正に作られている」{CHARACTER-1}が朗読した。&lt;br&gt;
+「我々の法律が最も公正なものだと言えるのは、どうしてだと思う？」と家庭教師が尋ねた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BLESSING_OF_ARINNITTI</zType>
+		<ja>今季はあらゆる物事が順風満帆に進んだ。誰もが我が国の統治を賞賛し、敵さえもあなたの視線にたじろいでいる。{CHARACTER-2}は、「{TITLE-3}よ、あなた様にはアリンニティの力が宿っています。ほら、杉の香りが周囲に広がり、太陽の光が髪を照らしているでしょう？女神様が与えてくれる力に感謝しなければなりません。なるべく早く{CITY-0}に巨大なlink(IMPROVEMENT_SHRINE_ARINNITTI)を開き、人々や神々に敬虔な精神を示しましょう」と述べた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEDICATION_OF_ARINNITTI</zType>
+		<ja>杉の香りが暖かい広間を満たす中、巫女が暗唱する経典の文句を聞いていると、眠気を感じてきた。「そして女神は我を膝の上に置き、我の手を取って、戦いに赴き…」あっという間に時間が過ぎ、気がつくと朗読が終わっていて、あなたは{CHARACTER-2}と楽しげに話している最中だった。「彼らがどう反応するのか想像もつかないですが、ともかく、{CITY-0}の新しいlink(IMPROVEMENT_SHRINE_ARINNITTI)で行われる正式な儀式にご参加してくださるということでよいのですね？」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_ARINNITTI</zType>
+		<ja>太陽の輝きに包まれた、厳粛な面持ちの巫女たちを先頭に、{CHARACTER-2}が広間に入ってくる。「{TITLE-3}よ、言葉を選ばずに申し上げましょう。アリンニティはあなた様を見捨てました。闇が日没の後に続くように、やがて民も見放されることになるでしょう。それでも、明けない夜はありません。あなた様のような方でも、{CITY-0}のlink(IMPROVEMENT_SHRINE_ARINNITTI)で行われる盛大な奉献式で、赦しを請うことができます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BLESSING_OF_TARHUN</zType>
+		<ja>あなたは側近の{CHARACTER-2}と共に我が国の防衛施設を視察して回った。「{TITLE-3}よ、我が軍は確かに強い。しかし、神々の後ろ盾なしには、何人も戦争に勝つことはできませぬ。タルフンのご加護を求めましょう。敵に稲妻を降らせ、主の雄牛の足元で震え上がらせるのです。{CITY-0}へおいでください。link(IMPROVEMENT_SHRINE_TARHUN)でお待ちしております。きっと主や民も歓迎してくれるはずです」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEDICATION_OF_TARHUN</zType>
+		<ja>蹄の音が響く中、{CHARACTER-2}がタルフンの司祭と彼らの神聖な雄牛から成る行列を率いて、あなたの前に現れる。「{TITLE-3}よ、神々が注目を求めています。昨夜の嵐で雷が何度も鳴り響きました。これは主のお告げです。{CITY-0}のlink(IMPROVEMENT_SHRINE_TARHUN)で奉献式を開くべきでしょう。我が軍にタルフンの力を望むのであれば、是非とも参加していただきたい」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_KAMRUSEPA</zType>
+		<ja>今季は疫病が流行り、民衆は病魔に悩まされた。宮廷では暗い表情をした{CHARACTER-2}があなたの前に現れる。「{TITLE-3}よ、あなた様の力は神々には及びません。不信心と腐敗の悪臭が我々を取り囲んでいます。その中で腐りたくなければ、カムルセパの前に謙虚にならねばなりません。{CITY-0}のlink(IMPROVEMENT_SHRINE_KAMRUSEPA)で行われる最初の奉献式にご参加ください。女神様はまだ慈悲を授けてくださるかもしれません」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEDICATION_OF_HALKI</zType>
+		<ja>{CHARACTER-2}が今季7回目となる占いの儀式を執り行う中、あなたはそれを礼儀正しく見守る。巫女たちは顔をしかめながら、こちらを向く。「{TITLE-3}よ、お告げはまだはっきりしていません。しかし、次の収穫を心配する人々もいます。ハルキのご加護を授かりましょう。どうか、{CITY-0}のlink(IMPROVEMENT_SHRINE_HALKI)で行われる奉献式に参加し、人々や神々にあなた様の姿をお見せください」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_HALKI</zType>
+		<ja>雨がなかなか降らず、不快な暑さで宮廷の中は蒸し風呂のような状態だ。今季は収穫量も少ないとの噂が流れている。宮廷では、{CHARACTER-2}が姿を現す。「{TITLE-3}よ、あなた様の力は神々には及びません。あなた様が神々を敬わず、その不信心な行為を悔い改めなかったため、神々がお怒りになったのです。ハルキの怒りに満ちた眼差しの下で、すべての土地が枯れようとしています。{CITY-0}のlink(IMPROVEMENT_SHRINE_HALKI)で行われる奉献式で許しを請うのです。さもなければ、女神様はあなた様が愛するものをすべて破壊していまうでしょう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NAMED_UNIT_MESEDI</zType>
+		<ja>{CHARACTER-1}の率いる{UNIT-0,2}は、その軍事技術の高さ、そして何よりあなたに対する絶対的な忠誠心に定評がある。
+あなたは彼らを護衛隊として頼るようになった。隊長の{CHARACTER-1}は明らかにその任務を楽しんでいるように見える。
+
+{G1:彼:彼女}は、正式名称を授かることができれば、部隊としての能力をさらに高めることができるかもしれないと主張している。</ja>
+	</Entry>
+</Root>

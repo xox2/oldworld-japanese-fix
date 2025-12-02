@@ -1,0 +1,18 @@
+<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_REBUILDER_OATH</zType>
+		<ja>誓約者(再建者)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_REBUILDER_OATH_F</zType>
+		<ja>誓約者(再建者)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_AVENGER_OATH</zType>
+		<ja>誓約者(復讐者)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_AVENGER_OATH_F</zType>
+		<ja>誓約者(復讐者)</ja>
+	</Entry>
+</Root>

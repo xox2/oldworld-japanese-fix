@@ -1,0 +1,1136 @@
+<Root>
+	<Entry>
+		<zType>TEXT_HELPTEXT_ADD_SPACE_AFTER</zType>
+		<ja>{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_ADD_SPACE_BEFORE</zType>
+		<ja>{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_ENTRY_COMMA_SPACE</zType>
+		<ja>{0}、</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_ENTRY_COLON_SPACE</zType>
+		<ja>{0}：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PARENTHESIS_MULTIPLIER</zType>
+		<ja>(x{0})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BULLET_TEXT_SPACE</zType>
+		<ja>icon(bullet){0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TOTAL_YIELD</zType>
+		<ja>合計{0}: {1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TIME_COUNTDOWN_FORMAT_HMS</zType>
+		<ja>{0}時間{1}分{2}秒</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TIME_COUNTDOWN_FORMAT_MS</zType>
+		<ja>{0}分{1}秒</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FOR</zType>
+		<ja>{0}に対して</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_ADJACENT_UNITS</zType>
+		<ja>［隣接したユニット］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_ADJACENT_NEW_TURN_UNITS</zType>
+		<ja>［ターン開始時に隣接したユニット］{0_unitEffect}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HARVEST_YIELD_MODIFIER</zType>
+		<ja>{0_yields}資源獲得による収入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_EFFECT_PLAYER_SOURCE_TRAIT</zType>
+		<ja>指導者{0_source}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_EFFECT_PLAYER_SOURCE_COGNOMEN</zType>
+		<ja>指導者{0_source}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_RELIGION_TYPE</zType>
+		<ja>link(CONCEPT_RELIGION)（{1_religion}）{0_source}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_GOVERNOR</zType>
+		<ja>link(CONCEPT_GOVERNOR) {0_source}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_FAMILY</zType>
+		<ja>都市にいるlink(CONCEPT_FAMILY) {0_source}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_RELIGION</zType>
+		<ja>都市にあるlink(CONCEPT_RELIGION) {0_source}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HAPPINESS</zType>
+		<ja>{true_1:link(YIELD_HAPPINESS):link(YIELD_DISCONTENT)}レベル{0_level}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO</zType>
+		<ja>{0}なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_SUBJECT_REQUIRES_STATE_RELIGION</zType>
+		<ja>link(CONCEPT_STATE_RELIGION)（{0_religion}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_DISCONTENT</zType>
+		<ja>{0_city}に{2_discontent}レベル{1} icon(LessThan)がつく</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_MAX_DISCONTENT</zType>
+		<ja>{0_city}に{2_discontent}レベル{1} icon(LessThan)がつく</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_MENU_ARCHETYPE</zType>
+		<ja>指導者スタイル：{0_archetype}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_MENU_VICTORY_TYPE_ENABLED</zType>
+		<ja>{0}有効</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_MENU_VICTORY_TYPE_DISABLED</zType>
+		<ja>{0}無効</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_SAVE</zType>
+		<ja>ゲームを保存{true_0:{0_presskey}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_LOAD</zType>
+		<ja>前回クイックセーブしたデータをロード{true_0:{0_presskey}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_WONDERS_OWNED_BY</zType>
+		<ja>（{1_city}にいる{0_player}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_WONDERS_CAPTURED_BY</zType>
+		<ja>（{0_barbarian}により捕縛中）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_WONDERS_IS_BUILDING</zType>
+		<ja>（{0_player}は建設中：{1_turns}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_WONDERS_ALREADY_BUILT</zType>
+		<ja>（すでに建設済み）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_LAWS_ACTIVE</zType>
+		<ja>制定中の{singular_0:法律:法律}：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_LAWS_AVAILABLE</zType>
+		<ja>利用可能な法律：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_BUY_YIELD_KEY</zType>
+		<ja>{0_key}で{1_amount}購入({2_money})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_SELL_YIELD_KEY</zType>
+		<ja>{0_key}で{1_amount}売却({2_money})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_STATE_RELIGION</zType>
+		<ja>活動中の宗教：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_GIFT_CITY</zType>
+		<ja>{0_city}を{1_player}に贈与[hotkey(HOTKEY_CTRL)を長押しで決定します]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_BUILD_QUEUE_DRAG</zType>
+		<ja>hotkey(HOTKEY_CLICK) +ドラッグで再配置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_PLAYER_LEGITIMACY_COGNOMEN</zType>
+		<ja>{0_value}：{2_cognomen}の{1_leader}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_CITY_OPINION_MISSING_LUXURIES</zType>
+		<ja>link(CONCEPT_OPINION_FAMILY,3)：link(CONCEPT_LUXURY)の不足{true_LIST-COUNT:（{LIST}）}：{0}から{1}に変化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_FOUND_COST</zType>
+		<ja>コスト{0_money}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_JOIN_CITY</zType>
+		<ja>{0_city}を結合します{br}都市に{singular_1:{2_citizenLink}:{2,2_citizenLink}}{1_number}人を追加［hotkey(HOTKEY_CTRL)長押しで決定します］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_GIFT_UNIT</zType>
+		<ja>{0_player}に贈り物［hotkey(HOTKEY_CTRL)長押しで決定します］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_DO_AI_MOVES</zType>
+		<ja>ターン終了までオートプレイ{br}hotkey(HOTKEY_CTRL_CLICK)で{0_number}{singular_0:ターン:ターン}分オートプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_DO_AI_MOVES_X</zType>
+		<ja>{0_number}{singular_0:ターン:ターン}分オートプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_TRAIT_ITEM</zType>
+		<ja>{0_character}:が{1_trait}になりました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_ORDERS</zType>
+		<ja>ユニットは、ターン毎に複数回移動できますが、1回の移動でlink(YIELD_ORDERS,3)を1つ消費します。攻撃や建設などのアクションもlink(YIELD_ORDERS)を消費してしまいます。
+
+link(YIELD_ORDERS)の残数は、画面左下にある指導者のリーダー画像の右側に表示されています。建設、戦闘、移動のどれを優先させるべきか、link(YIELD_ORDERS)の使い道をよく考えましょう。
+
+ターン終了時、余っているlink(YIELD_ORDERS)はlink(YIELD_MONEY,1)に交換されます。
+
+ユニットを動かすlink(YIELD_ORDERS,2)がない場合は、ユニットは行動できません。link(YIELD_ORDERS)は次のターン開始時に増えますが、必要であればint(TRAINING_PER_ORDER)のlink(YIELD_TRAINING,1)を消費して、新しいlink(YIELD_ORDERS,2)の獲得が可能です。
+
+link(YIELD_ORDERS)の一番重要な供給源はicon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_SCOUTS</zType>
+		<ja>link(UNIT_SCOUT,2)は優れた探索者。他のユニットよりも未開拓地を調べることに長けています。link(VEGETATION_TREES)に隠れることも可能で、敵の侵入をいち早く察知できる貴重な存在です。
+
+link(UNIT_SCOUT,2)を荒野へ送り込み、新しいlink(IMPROVEMENT_CITY_SITE,2)や謎めいたlink(IMPROVEMENT_ANCIENT_RUINS,2)を探しましょう。またlink(UNIT_SCOUT,2)は、link(UNIT_SETTLER,2)やlink(UNIT_WORKER,2)と同様にlink(CONCEPT_HARVEST_RESOURCE,1)もできます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_AGENTS</zType>
+		<ja>評議会にlink(COUNCIL_SPYMASTER)がいれば、link(UNIT_SCOUT,2)を敵対都市のlink(CONCEPT_AGENT_NETWORK)に変えることができます（その際、link(UNIT_SCOUT)は一時的に消滅します）。link(UNIT_SCOUT)を対象にする都市の領地に隣接させると、左側のユニットパネルのicon(CREATE_AGENT_NETWORK)link(CONCEPT_AGENT_NETWORK)ボタンが有効化されます。
+
+都市にlink(CONCEPT_AGENT_NETWORK)を確立させると、その地域のlink(CONCEPT_AGENT)として対象のキャラクターを割り当てることができます。割り当てを行うには、都市の旗の下にあるicon(AGENT_HIGHLIGHTED)link(CONCEPT_AGENT)ボタンをクリックしてください。
+
+都市専用のlink(CONCEPT_AGENT)キャラクターは、link(MISSION_INSURRECTION)とlink(MISSION_TREACHERY)ミッションが可能で、キャラクターの評価に応じて、その都市の生産物の一定割合を盗み取ることができます。(例として、キャラクターのlink(RATING_WISDOM)は、どれだけのlink(YIELD_SCIENCE,1)を獲得するかを決定します)。
+
+link(CONCEPT_AGENT)ミッションを選択するには、link(CONCEPT_AGENT)かlink(COUNCIL_SPYMASTER)のキャラクターパネル、もしくは対象となっている都市の旗の下にあるicon(AGENT_HIGHLIGHTED)link(CONCEPT_AGENT)ボタンから直接選択できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_SPYMASTER</zType>
+		<ja>link(COUNCIL_SPYMASTER)は、極秘ミッションを行うことができます！右上にあるlink(COUNCIL_SPYMASTER)のキャラクター画像を選択すると、その下のパネルに使用可能なアクションが表示されます。
+
+link(COUNCIL_SPYMASTER)はlink(MISSION_INFILTRATE)、link(MISSION_STEAL_RESEARCH)、link(MISSION_ASSASSINATE)など、様々なミッションをこなすことができます！
+
+link(TECH_PORTCULLIS)の研究を完了させていて、あなたの宮廷にlink(TRAIT_TACTICIAN_ARCHETYPE)、link(TRAIT_SCHEMER_ARCHETYPE)、link(TRAIT_SCHOLAR_ARCHETYPE)といった特性を持つ利用可能な候補者がいる場合、画面右上のicon(COUNCIL_SPYMASTER)光っている目のアイコンからlink(COUNCIL_SPYMASTER,1)を任命できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_CHANCELLOR</zType>
+		<ja>link(COUNCIL_CHANCELLOR)は、特別ミッションで領土を管理することができます。右上にあるlink(COUNCIL_CHANCELLOR)のキャラクター画像を選択すると、その下のパネルに使用可能なアクションが表示されます。
+
+link(COUNCIL_CHANCELLOR)は、link(MISSION_FAMILY_GIFT)であなたの強力なlink(CONCEPT_FAMILY,2)との関係を改善したり、link(MISSION_PACIFY_CITY)を利用してlink(YIELD_DISCONTENT,1)を減らしたり、煩わしいキャラクターをlink(MISSION_IMPRISON)したりすることができます！
+
+link(TECH_SPOKED_WHEEL)の研究を完了させていて、あなたの宮廷にlink(TRAIT_ZEALOT_ARCHETYPE)、link(TRAIT_JUDGE_ARCHETYPE)、link(TRAIT_BUILDER_ARCHETYPE)といった特性を持つ利用可能な候補者がいる場合、画面右上のicon(COUNCIL_CHANCELLOR)光っている羽根ペンのアイコンからlink(COUNCIL_CHANCELLOR,1)を任命できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_AMBASSADOR</zType>
+		<ja>link(COUNCIL_AMBASSADOR)は、外交ミッションを行うことができます。右上にあるlink(COUNCIL_AMBASSADOR)のキャラクター画像を選択すると、その下のパネルに使用可能なアクションが表示されます。
+
+link(COUNCIL_AMBASSADOR)は、link(CONCEPT_NATION,2)やlink(CONCEPT_TRIBE,2)とlink(DIPLOMACY_PEACE)条約を結んだり、link(MISSION_TRADE_MISSION)を行ったり、貢物の提供または要求など、様々なアクションを行うことができます！
+
+link(TECH_ARISTOCRACY)の研究を完了させていて、あなたの宮廷にlink(TRAIT_ORATOR_ARCHETYPE)、link(TRAIT_DIPLOMAT_ARCHETYPE)、link(TRAIT_COMMANDER_ARCHETYPE)といった特性を持つ利用可能な候補者がいる場合、画面右上のicon(COUNCIL_AMBASSADOR)光っているスクロールアイコンからlink(COUNCIL_AMBASSADOR,1)を任命できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_SUCCESSION</zType>
+		<ja>現在の統治者が亡くなると、誰かがその跡を継ぐ必要があります。そのため、強い後継者を育てることが国の存続に不可欠です。後継者が少し成長すると、教育方針が選べるようになるので、彼らを必要な役割に導いてあげましょう。
+
+王位をlink(CONCEPT_SUCCESSION)する最初の4人の後継者は、link(CONCEPT_COURT)の一員で、彼らの評価は国家産出量に影響します（例えば、link(RATING_WISDOM)が高い後継者は、{YIELD_SCIENCE}link(YIELD_SCIENCE)を増加させます）。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_SPECIALIST</zType>
+		<ja>link(CONCEPT_SPECIALIST)は、link(CONCEPT_IMPROVEMENT)に対して採用できます。それには利用可能なlink(CONCEPT_CITIZEN)を確保し、都市画面にあるicon(specialist_border)をクリックしてください。link(CONCEPT_SPECIALIST)がいればlink(CONCEPT_IMPROVEMENT,2)の産出量をブーストできます。
+
+link(CONCEPT_LUXURY)は、特定のタイル上のlink(CONCEPT_IMPROVEMENT)に地方link(CONCEPT_SPECIALIST)を加えることによって得られる特別な資源です。例えば、link(RESOURCE_GEM)タイル上にあるlink(IMPROVEMENT_MINE)のlink(CONCEPT_IMPROVEMENT)に対して、link(SPECIALIST_MINER)のlink(CONCEPT_SPECIALIST)を配置するとlink(RESOURCE_GEM)が手に入るようになります。
+
+link(SPECIALISTCLASS_ACOLYTE,1)やlink(SPECIALISTCLASS_OFFICER,1)などの都会link(CONCEPT_SPECIALIST,2)は、高レベルまで訓練することでさらなる産出量のブーストが可能です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_TRIBES</zType>
+		<ja>先住民のlink(CONCEPT_TRIBE,2)をlink(IMPROVEMENT_CITY_SITE)から追い払った後、その拠点にユニットを配置することで拠点を獲得できます。そうすれば、link(CONCEPT_TRIBE)が戻って来ることができず、他国がこの場所に都市を設立することを防げます。
+
+link(CONCEPT_TRIBE,2)は僅かな外交能力を持っています。とは言え、あなたが対立国と外交する時のようにはいかないでしょう。弱いlink(CONCEPT_TRIBE)を見つけて、link(IMPROVEMENT_CITY_SITE,2)を獲得することは、あなたの国を発展させる重要なステップです。
+
+より多くのlink(IMPROVEMENT_CITY_SITE,2)を獲得するためには、link(TRIBE_BARBARIANS)を倒さなければいけないでしょう。彼らはlink(CONCEPT_TRIBE,2)とは違い、あなたとは常にlink(DIPLOMACY_WAR)の状態にあります。link(TRIBE_BARBARIANS)は統率の取れたlink(CONCEPT_TRIBE)よりは撃退しやすく、序盤に国を拡大する上で、link(TRIBE_BARBARIANS)は良い獲物となるのです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_RELIGION</zType>
+		<ja>link(CONCEPT_RELIGION,2)はその都市にlink(YIELD_CULTURE,1)を与え、その宗教を擁する都市のlink(YIELD_HAPPINESS,1)に影響を及ぼします。たとえば、link(OPINIONRELIGION_FRIENDLY)状態のlink(CONCEPT_RELIGION)を擁する都市は、link(YIELD_HAPPINESS)が2増加します。
+
+あなたは自身のlink(CONCEPT_NATION)にlink(CONCEPT_STATE_RELIGION)を導入するかを選択でき、link(CONCEPT_RELIGION)のlink(CONCEPT_THEOLOGY,2)が都市にどのような影響を与えるのか誘導できるようになります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_TRADE_NETWORK</zType>
+		<ja>link(IMPROVEMENT_HAMLET)とそれをアップグレードしたlink(IMPROVEMENT_VILLAGE)とlink(IMPROVEMENT_TOWN)は、あなたのlink(CONCEPT_TRADE_NETWORK)に組み込むことで、追加の{YIELD_MONEY}link(YIELD_MONEY)を産出するようになります。さらに、都市をlink(CONCEPT_TRADE_NETWORK)に組み込むと、その都市の{YIELD_HAPPINESS}link(YIELD_HAPPINESS)が増加します。
+
+link(CONCEPT_TRADE_NETWORK)は、あなたのlink(CONCEPT_CAPITAL)都市に接続された全ての都市で構成されています。都市とlink(IMPROVEMENT_HAMLET,2)は、link(CONCEPT_ROAD,2)、(CONCEPT_RIVER,2)、link(TERRAIN_URBAN)タイルのほか、開放水域を介して接続することができます。link(CONCEPT_ROAD)で繋がっているlink(IMPROVEMENT_HARBOR)にも接続可能です。link(CONCEPT_TRADE_NETWORK)オーバーレイを確認するには、ミニマップ下のicon(MAP_OVERLAY_NETWORK)ボタン、またはhotkey(HOTKEY_SHOW_TRADE_NETWORK)キーを押してください。icon(CONNECTED)アイコンが、都市バナーの下に表示されているか確認することで、その都市がlink(CONCEPT_TRADE_NETWORK)にlink(EFFECTCITY_CONNECTED)状態かを確認できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT_NETWORK</zType>
+		<ja>link(COUNCIL_SPYMASTER)がいれば、link(UNIT_SCOUT,1)は外国都市に「諜報網」を作成することができる。link(UNIT_SCOUT)はその後int(AGENT_NETWORK_TURNS)ターンの間、利用できなくなる。このターン数はダメージを受けているとさらに増加する。
+
+諜報網の作成後はキャラクターをlink(CONCEPT_AGENT)として都市に派遣できるようになり、これを実行すると産出と都市の視界を獲得し、さらにlink(MISSION_TREACHERY)のようなミッションが実行可能になる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CITY</zType>
+		<ja>都市はlink(UNIT_SETTLER,2)によって、link(CONCEPT_CITY_SITE,2)に設立され、あなたのlink(CONCEPT_NATION)はその都市で構成されています。各都市は産出量を増やし、link(CONCEPT_PROJECT,2)や、link(UNIT_WORKER,2)が建造できるlink(CONCEPT_IMPROVEMENT,2)による恩恵を増やすことができます。都市は建設されたり、占領されたりすると、link(CONCEPT_FAMILY)に割り当てられ、氏族によって都市にさまざまなボーナスが適用されます。また、その都市を統治しているlink(CONCEPT_NATION)に施行されている法律や導入されているlink(CONCEPT_RELIGION,2)、都市のlink(YIELD_HAPPINESS,1)レベル、link(CONCEPT_GOVERNOR)がいる場合はその特性やステータスの影響を受けます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
+		<ja>対{1_terrain}上の{0_unit}：{2_value}（近接戦闘）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY</zType>
+		<ja>氏族はあなたの帝国の優れた一族たちだ。全ての都市はいずれかの氏族に委ねられることになり、そのlink(CONCEPT_FAMILY_CLASS)により様々な恩恵が与えられる。
+
+link(CONCEPT_OPINION_FAMILY,1)は彼らに所属する都市とユニットに影響を与える。link(CONCEPT_OPINION_FAMILY,1)はその氏族の長のlink(CONCEPT_OPINION_CHARACTER,1)、統治する都市の{YIELD_DISCONTENT}link(YIELD_DISCONTENT)、氏族に贈られたlink(CONCEPT_LUXURY)、link(CONCEPT_OPINION_RELIGION,1)（その氏族が信仰していれば）により決定される。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_CLASS</zType>
+		<ja>link(CONCEPT_FAMILY)クラスは、link(CONCEPT_FAMILY)が都市に与える影響を決定づけます。またその都市が喜ぶ法律やlink(CONCEPT_LUXURY)、その他の条件に影響する。
+
+氏族クラスには以下のようなものがある:	link(FAMILYCLASS_LANDOWNERS)、link(FAMILYCLASS_CHAMPIONS)、link(FAMILYCLASS_STATESMEN)、link(FAMILYCLASS_PATRONS)、link(FAMILYCLASS_CLERICS)、link(FAMILYCLASS_SAGES)、link(FAMILYCLASS_TRADERS)、link(FAMILYCLASS_ARTISANS)、link(FAMILYCLASS_RIDERS)、link(FAMILYCLASS_HUNTERS)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_LAW_OPINION_HEAD</zType>
+		<ja>{0}：氏族の首長{1_character}（{2_trait}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_LAW_OPINION_RELIGION_HEAD</zType>
+		<ja>{0}：{1,1_religion}の首長{2_character}（{3_trait}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT</zType>
+		<ja>{0}高地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT_RANGE</zType>
+		<ja>{0}ユニット{RANGE}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENTCLASS</zType>
+		<ja>建築物クラスとは、同種のlink(CONCEPT_IMPROVEMENT,2)をまとめたグループです。たとえば、link(IMPROVEMENTCLASS_ODEON)のクラスには、link(IMPROVEMENT_THEATER_1,2)、link(IMPROVEMENT_THEATER_2,2)、link(IMPROVEMENT_THEATER_3,2)が含まれます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENT_BUILD_TURNS_DAMAGED</zType>
+		<ja>{0_turns}:損傷したユニット{true_1: (ダメージint(UNIT_DAMAGE_PER_EXTRA_BUILD_TURN)ごとに+1 ):}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_LEGITIMACY</zType>
+		<ja>正統性は、link(CONCEPT_AMBITION,2)を達成したり、より良いlink(CONCEPT_COGNOMEN,2)（link(COGNOMEN_GREAT)など）の取得時に上昇します（前指導者のlink(CONCEPT_COGNOMEN,2)による正統性は、新指導者へと交代する度に減少していきます）。
+
+正統性が高いほどlink(CONCEPT_OPINION_FAMILY,1)が向上し、ターン毎に生産されるlink(YIELD_ORDERS)が多くなります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_COMMUNITY_SHORTHAND</zType>
+		<ja>公式DiscordサーバーのOld Worldコミュニティは、ゲーム内容について話し合うための、コミュニティ独自の略語集を作成しています。公式Discordサーバーに参加するには、メインメニューにあるDiscordアイコンをクリックしてください。一般的な略語の一覧は下記になります。
+
+{bullet}1UPT - One Unit Per Tile。これは1タイルに1ユニットしか配置できないゲームシステムのこと。Old Worldなどのストラテジーゲームにおいて、軍事ユニットに使われるものです。文民ユニットについては、他のユニットとスタックされる場合もあります。例として、入植者は軍事ユニットにスタックできます。
+
+{bullet}AAR - After Action Report。ゲームプレイの流れや結果記録の詳細のことで、ゲーム終了時に表示されるもの。
+
+{bullet}Alex - link(NATION_GREECE)の最初の後継者のlink(CHARACTER_ALEXANDER)のこと。
+
+{bullet}Babs - link(NATION_BABYLONIA)のlink(CONCEPT_NATION)のこと。
+
+{bullet}Chad/Neb - link(NATION_BABYLONIA)の最初の指導者、link(CHARACTER_NEBUCHADNEZZAR)のこと。
+
+{bullet}COD - Carpet of Doom。全タイルに軍事ユニットが配置されている状態のこと。
+
+{bullet}DAR - During Action Report。ゲームプレイ中の流れや結果記録の詳細のことで、次に取るべき行動を示唆しているもの。
+
+{bullet}EA - Early Access。リリース前にゲームが公開されていた期間のこと。Old Worldは、2020年5月5日から2021年7月1日のリリースまでのアーリーアクセス。
+
+{bullet}EGS - Epic Game Store。現在、Old Worldを購入できるネットストアのこと。
+
+{bullet}{RESOURCE_ELEPHANT} - Have an Elephantと表現したり、象の絵文字が使用される場合は、読み手がそのコメントに対して賛辞していることを示しています。
+
+{bullet}FFA - Free For All。チーム制ではないゲームプレイのこと。全員が他の全員に勝つためにプレイします。
+
+{bullet}GOTW - Game Of The Week。全く同じ設定のゲームモードを、Old Worldの全プレイヤーに向けて毎週配信されるモードのこと。公式Discordの#game-of-the-weekチャンネルで、他のプレイヤーと一緒に遊んだり、競い合ったりしましょう。
+
+{bullet}Haty - link(NATION_EGYPT)の最初の指導者、link(CHARACTER_HATSHEPSUT)のこと。
+
+{bullet}ICS - Infinite City Slease。都市をできるだけ密集させて、最小限の発展で最大限の資源を引き出すやり方のこと。このやり方はストラテジーゲームによくある問題ですが、Old Worldでは、link(CONCEPT_CITY_SITE,2)を配置することでこの問題に対処しています。
+
+{bullet}Main - Main Branch。ゲームの公式リリース版のこと。Mohawkは、必ずベータ版でアップデート内容を試してから、公式版としてアップデートを適用します。
+
+{bullet}Mod -ゲームの基本的な遊び方を変更するための追加データのこと。人気のあるMODは、新しいlink(CONCEPT_NATION,2)、ゲームモード、キャラクター画像などを追加させるMODです。ゲームのメインメニューからMOD管理画面にアクセスしてください。
+
+{bullet}Mohawk/s -「Old World」を制作したスタジオ「Mohawk Games」、または「Mohawk Games」のチームのこと。
+
+{bullet}MP - Multiplayer。複数の人間同士でプレイするゲームモードのこと。オンラインプレイ、クラウドプレイ（〈Play By Emailに似たモード〉、ホットシートモード、サーバーモード（PITBOSS）などのマルチプレイ方法があります。
+
+{bullet}OCC - link(CONCEPT_ONE_CITY_CHALLENGE)（One City Challenge）。人間のプレイヤーに1つの都市しか持たせないゲームモードのこと。link(UNIT_SETTLER,2)の使用が禁止されるモードです。
+
+{bullet}OTC - Offworld Trading Company。Mohawk Gameのゲーム作品名。火星が舞台の経済ストラテジーゲーム。
+
+{bullet}PTW - Play To Win。AIプレイヤーがlink(CONCEPT_CITY_SITE,2)を獲得しようとし、勝利条件に近づいているプレイヤーに対しての「評価」を下げるゲーム設定のこと。
+
+{bullet}RNG - Random Number Generator。ゲームの仕組みにおけるランダム要素のこと例えば、クリティカルヒットの変化率には乱数が組み込まれています。
+
+{bullet}Shurbie - link(NATION_ASSYRIA)の最初の指導者、link(CHARACTER_ASHURBANIPAL)のこと。
+
+{bullet}SOD - Stack of Doom。全ての軍事ユニットが1つのタイル上に配置されている状態のこと。このシステムは一部のストラテジーゲームで使用されています。
+
+{bullet}SP - Single Player。一人の人間のプレイヤーが複数のAIプレイヤーと競い合うゲームモードのこと。
+
+{bullet}Stomp - Comp Stomp。人間のプレイヤー同士でチームを組んで、AIプレイヤーを滅ぼすゲームモードのこと。
+
+{bullet}Test - Test Branch。「Mohawk」がアップデートを試すために使用する公開テスト版のこと。テスト版なので不安定な場合もあります。「マルチプレイ」や「ゲーム・オブ・ザ・ウィーク」のモードでは推奨しません。メインブランチを使いましょう。
+
+{bullet}UU - Unique Unit。link(IMPROVEMENT_GARRISON_2)またはlink(IMPROVEMENT_GARRISON_3)を所持する都市で作成可能となるlink(CONCEPT_NATION)特有のユニットのこと。例えば、link(NATION_ROME)のlink(UNIT_LEGIONARY)など。
+
+{bullet}VHA - Very High Advantage。AIプレイヤーがターン毎に多くのボーナスを受け取るよう、最大限にハンディキャップを与えるゲーム設定のこと。難易度をlink(DIFFICULTY_GREAT)、link(TRIBE_BARBARIANS)のレベルをlink(TRIBELEVEL_RAGING)、Play to Winなどを組みわせると、Old Worldで一番難しいゲーム設定になります。
+
+{bullet}XML -ゲーム内のイベント、キャラクター、ボーナスなどの仕組みを格納するマークアップ言語付きのテキストファイルのこと。ゲームデータと一緒に、Referenceフォルダーに格納されています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_LUXURY</zType>
+		<ja>贅沢品を都市と交換することで、link(YIELD_HAPPINESS)が増加します。また、ほかにもlink(CONCEPT_NATION,2)や、link(CONCEPT_TRIBE,2)、link(CONCEPT_FAMILY,2)とも交換することができ、実行すると、あなたに対する評価が向上します。
+
+各link(CONCEPT_FAMILY_CLASS,2)には、与えると、あなたへの評価をより多く高められる特別な贅沢品が2つずつあります。たとえば、link(FAMILYCLASS_CLERICS,2)はlink(RESOURCE_INCENSE)とlink(RESOURCE_LAVENDER)を好みます。
+
+贅沢品は下記の資源から獲得できます：
+{bullet}link(RESOURCE_SALT)
+{bullet}link(RESOURCE_GEM)
+{bullet}link(RESOURCE_FUR)
+{bullet}link(RESOURCE_HONEY)
+{bullet}link(RESOURCE_INCENSE)
+{bullet}link(RESOURCE_LAVENDER)
+{bullet}link(RESOURCE_OLIVE)
+{bullet}link(RESOURCE_WINE)
+{bullet}link(RESOURCE_DYE)
+{bullet}link(RESOURCE_PEARL)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_MERCENARY</zType>
+		<ja>部族の傭兵ユニットは、link(NATION_CARTHAGE)やlink(TRAIT_ORATOR_ARCHETYPE)の指導者を持つ国家によって、link(CONCEPT_TRIBE,2)から雇用することができます（費用は、そのユニットのicon(ATTACKDEFENSE)戦闘力や、その部族のあなたに対するlink(CONCEPT_OPINION_TRIBE,3)、これまでに採用してきた傭兵数で決まります）。その他の傭兵は、イベントにて雇うことが可能です。
+
+link(CONCEPT_MERCENARY,2)は、int(CONSUMPTION_MERCENARY_MODIFIER)%高い消費コストを要し、link(CONCEPT_FAMILY,2)とは関係がありません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_MAP_SIZE_RECOMMENDED_PLAYERS</zType>
+		<ja>{0}人のプレイヤー向け(最大{1}人まで)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_OPINION_RELIGION</zType>
+		<ja>宗教評価は、その宗教の信徒、キャラクターやlink(CONCEPT_FAMILY,2)、link(CONCEPT_NATION,2)、link(CONCEPT_TRIBE,2)の評価に影響する。
+
+さらに宗教評価は、その宗教が存在する都市の{YIELD_DISCONTENT}link(YIELD_DISCONTENT)にも影響する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_PROMOTION</zType>
+		<ja>プロモーションは、ユニットに様々な戦闘ボーナスを与えます。ユニットがXPを獲得してレベルアップをした時、または、{YIELD_TRAINING}link(YIELD_TRAINING)を消費して、ユニットに受けさせる事が可能です。ユニットがプロモーションを選択する度、ユニットの次のレベルように、新しい3種類のプロモーションがランダムに選択されます（ユニットのレベル上限はint(MAX_LEVELS)です）。
+
+また、ユニットはlink(CONCEPT_GENERAL,2)の特性からも、一時的にプロモーションを受けられます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RANGE</zType>
+		<ja>「遠距離ユニット」は、射程距離内のタイルに配置されているユニットを攻撃できます。link(HEIGHT_HILL)タイルに立っていると、対象が同じくlink(HEIGHT_HILL)にいない限り、射程距離が1増加します。link(PROMOTION_MARKSMAN)への昇格もまた、射程を+1増加させます。この効果はlink(PROJECT_TOWERS)と同様で、都市内にいる遠距離ユニットの射程が増加します。
+
+一部の遠距離ユニット、例えば「link(UNIT_ONAGER,2)」には最小射程距離が設定されており、また「link(UNIT_CROSSBOWMAN,2)」のように射程が1で固定されているユニットもいます。この射程が変化することはありません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RELIGION</zType>
+		<ja>宗教には、世界宗教と多神教の2種類がある。link(RELIGION_JUDAISM)のようなlink(CONCEPT_WORLD_RELIGION,2)は、最初のlink(CONCEPT_NATION)が特定の条件を満たした際に設立される。link(CONCEPT_PAGAN_RELIGION,2)は、最初のlink(CONCEPT_SHRINE,2)を建てると設立される。
+
+すべての宗教は、その宗教を擁する都市に{YIELD_CULTURE}link(YIELD_CULTURE)をもたらす。さらにlink(CONCEPT_OPINION_RELIGION,1)に基づき、都市の{YIELD_HAPPINESS}link(YIELD_HAPPINESS)にも影響する。宗教をlink(CONCEPT_STATE_RELIGION,2)にすることで追加の恩恵が得られる。link(CONCEPT_PAGAN_RELIGION)をlink(CONCEPT_STATE_RELIGION)にするためにはlink(LAW_DIVINE_RULE)の制定が必要となる。link(CONCEPT_WORLD_RELIGION,2)はlink(CONCEPT_THEOLOGY,2)によりさらに強化できる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_DISCIPLE</zType>
+		<ja>信徒は、自身のlink(CONCEPT_RELIGION)を広め、そのlink(CONCEPT_RELIGION)のlink(CONCEPT_IMPROVEMENT,2)を建てることが可能です。また、link(LAW_ORTHODOXY)の法律を用いて、都市にある他のlink(CONCEPT_RELIGION,2)を追放することができます。信徒の生産は、都市が特定のlink(CONCEPT_RELIGION)を持っていて、link(CONCEPT_HOLY_CITY)であったり、link(CONCEPT_STATE_RELIGION)であったり、link(LAW_TOLERANCE)の法律を持つlink(CONCEPT_NATION)である場合にのみ可能です。
+
+link(CONCEPT_IDLE)の信徒は、自身のlink(CONCEPT_RELIGION)のlink(CONCEPT_IMPROVEMENT)に配置されていれば、わずかに産出量を増やします。例えば、信徒をlink(IMPROVEMENTCLASS_MONASTERY)上に待機させると、ターン毎に{YIELD_SCIENCE}link(YIELD_SCIENCE)を生産してくれます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RIVER_MOVEMENT</zType>
+		<ja>川の端に沿った移動には、1{MOVEMENT}移動力ポイントの2/3だけしか消費しません。そして地形、高さ、植物のせいでかかってしまう追加コストを無視します（この移動ボーナスは、友好的な領土内か、link(LAW_EXPLORATION)が制定されている中立の領土内でのみ適用されます）。また、川を渡るには、追加の{MOVEMENT}移動力ポイントが必要となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RIVER_CROSSINGS</zType>
+		<ja>{0} vs.横断中の{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_ROAD</zType>
+		<ja>道路はlink(CONCEPT_TRADE_NETWORK)を拡大させ、ユニットの移動範囲を広げます。道路での移動には、1{MOVEMENT}移動力ポイントの2/3だけしか消費しません（そして地形、高さ、植物のせいでかかってしまう追加コストを無視します）。また、これは敵対する領土内の道路では適用されません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_SPECIALIST_CLASS_TYPES</zType>
+		<ja>{0}タイプ：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TEAM</zType>
+		<ja>チーム{0_num}：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN</zType>
+		<ja>{0}地形</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_DEFENDING_CLEAR</zType>
+		<ja>対{0_unit}（link(CONCEPT_CLEAR)の場合）：{1}(近接戦闘)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPINION_TRADE_OUTPOST</zType>
+		<ja>{0_opinion}:我らのlink(CONCEPT_SETTLEMENT,2)にlink(CONCEPT_TRADE_OUTPOST,2)がある</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION</zType>
+		<ja>{0}植物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_DEFEND</zType>
+		<ja>対{0_unitTrait}：{1_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_VEGETATION_GROWS</zType>
+		<ja>{0_vegetation}に成長(ターンごとに{1_number}分の1の確率で発生)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ADJACENCY</zType>
+		<ja>都市建設物の多くは、既にlink(TERRAIN_URBAN)となっているタイル、都市中心部に隣接するタイル、あるいは2枚のlink(TERRAIN_URBAN)タイルしか選択できない。海岸沿いに建設する際は、隣接する海岸のlink(TERRAIN_URBAN)タイル1枚だけで十分である。
+
+link(IMPROVEMENT_HAMLET,2)や神殿といった一部の建設物は、これらの隣接ルールが適用されない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_WONDER</zType>
+		<ja>記念物は、1つしか建てることのできないユニークなlink(CONCEPT_IMPROVEMENT,2)です。あるlink(CONCEPT_NATION)が記念物の建設に着手すると、その国と敵対するユニットが、未完成の記念物があるタイル上に侵入して破壊しない限り、どの国も記念物を建設することができなくなります。
+
+1つのゲーム内で全種類の記念物が建設可能なわけではありません。建設可能な記念物は、ゲームのスタート時にランダムに選ばれます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_XP</zType>
+		<ja>ユニットとキャラクターは、XP（経験値）を獲得する。XPはlink(CONCEPT_PROMOTION,2)とより良い特性の獲得、link(CONCEPT_RATING,2)の増加に使用することができる。
+
+ユニットは、戦闘や、特定のlink(CONCEPT_IMPROVEMENT,2)上に置くことでXPを獲得する。link(UNITTRAIT_MELEE)ユニットはlink(IMPROVEMENT_BARRACKS,1)で、link(UNITTRAIT_RANGED)ユニットはlink(IMPROVEMENT_RANGE,1)でXPの獲得が可能。
+
+キャラクターはミッションを実行したり、link(CONCEPT_GENERAL)、link(CONCEPT_GOVERNOR)、link(CONCEPT_COUNCILOR)などの役職に就ける、あるいはイベントによってもXPを獲得する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_VS_EFFECT_UNIT</zType>
+		<ja>対{0_effectUnit}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_VS_EFFECT_UNIT_MELEE</zType>
+		<ja>対{0_effectUnit}（近接戦闘）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_PAUSED</zType>
+		<ja>（中断中）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_TO_PLAYER</zType>
+		<ja>{0}：{1_player}への交易{2_turns}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_FROM_PLAYER</zType>
+		<ja>{0}：{1_player}からの貿易{2_turns}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRIBUTE_TRIBES</zType>
+		<ja>{0}：{2_barbarian}{true_1:から:へ}貢物{3_turns}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRIBUTE_TO_PLAYER</zType>
+		<ja>{0}：{1_player}へ貢物{2_turns}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_TRIBUTE_FROM_PLAYER</zType>
+		<ja>{0}：{1_player}から貢物{2_turns}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_AS</zType>
+		<ja>{0}：{1}（{2}）、{3}として</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_FORTIFY</zType>
+		<ja>{0_value}: link(CONCEPT_FORTIFY)ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_NET_FORMATION</zType>
+		<ja>{0_value}:陣形を組んだユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TECH_DISCOVER_BONUS</zType>
+		<ja>［発見ボーナス］{LIST}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_DAMAGE_UNITS_FROM</zType>
+		<ja>{0_damage}ユニットlink(CONCEPT_HP) / {1_turnScale}{true_2: from {2}:}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPASSABLE_FROM</zType>
+		<ja>通行不可{true_1:原因{0}:}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM</zType>
+		<ja>{1}からの産出{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_ADJACENT</zType>
+		<ja>隣接する{1}からの産出{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_ADJACENT_WONDER</zType>
+		<ja>隣接するlink(CONCEPT_WONDER,2)からの産出{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_ADJACENT_RESOURCE</zType>
+		<ja>隣接する資源からの産出{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_FROM_TRADE_NETWORK</zType>
+		<ja>link(CONCEPT_TRADE_NETWORK)からの産出{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_FREE_ACTIONS</zType>
+		<ja>{0_value}無償の{singular_0:アクション:アクション}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_BUILD_RELIGION_IMPROVEMENT</zType>
+		<ja>建設可能：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_TYPE_POPULATION_COST</zType>
+		<ja>コスト{0_value}{singular_0:{1_citizenLink}:{1,2_citizenLink}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FATIGUE_LIMIT</zType>
+		<ja>&lt;true_1&gt;疲弊の限界値：{0_value}&lt;false&gt;{0_value}疲弊の限界値&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_REVEAL</zType>
+		<ja>&lt;true_1&gt;発見：{0_value}&lt;false&gt;{0_value}発見&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_ENLIST_ON_KILL</zType>
+		<ja>&lt;true_1&gt;撃破時のlink(CONCEPT_ENLIST)確率：{0_value}&lt;false&gt;{0_value}撃破時のlink(CONCEPT_ENLIST)確率&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ROAD_MOVEMENT</zType>
+		<ja>&lt;true_1&gt;link(CONCEPT_ROAD) icon(MOVEMENT)コスト: {0_value}&lt;false&gt;{0_value} link(CONCEPT_ROAD) icon(MOVEMENT)コスト&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_LAND_WATER</zType>
+		<ja>&lt;true_1&gt;陸地/水域での戦闘：{0_value}&lt;false&gt;{0_value}陸地/水域での戦闘&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HOME_MODIFIER</zType>
+		<ja>&lt;true_1&gt;国の領土：{0_value}&lt;false&gt;{0_value}国の領土内&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_INTO_MELEE</zType>
+		<ja>&lt;true_2&gt;{0_tileLink} &amp; link(CONCEPT_CLEAR)へ：{1_value}（近接戦闘）&lt;false&gt;{1_value} (近接戦闘) {0_tileLink} &amp; link(CONCEPT_CLEAR)へ&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IF_DAMAGED</zType>
+		<ja>&lt;true_1&gt;損傷中の場合：{0_value}&lt;false&gt;{0_value}損傷中の場合&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_DAMAGED</zType>
+		<ja>&lt;true_1&gt;対損傷状態：{0_value}&lt;false&gt;{0_value}対損傷状態&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_GENERAL</zType>
+		<ja>&lt;true_1&gt;対link(CONCEPT_GENERAL)：{0_value}&lt;false&gt;{0_value}対link(CONCEPT_GENERAL)&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_SAME_UNIT_ADJACENT</zType>
+		<ja>&lt;true_1&gt;同じユニットが隣接している場合：{0_value}&lt;false&gt;{0_value}同じユニットが隣接している場合&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_DIFFERENT_UNIT_ADJACENT</zType>
+		<ja>&lt;true_1&gt;もし異なるユニットと隣接していると: {0_value}&lt;false&gt;{0_value}もし異なるユニットと隣接していると&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_MELEE_COUNTER</zType>
+		<ja>近接戦闘でカウンター攻撃を行う{true_1: {0_percent}%の確率で}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_END_ROUT</zType>
+		<ja>この効果が続く間、link(CONCEPT_ROUT)（再攻撃）不可</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_UNIT_TRAIT</zType>
+		<ja>&lt;true_2&gt;対{0_unitTrait}ユニット：{1_value}&lt;false&gt;{1_value}対{0_unitTrait}ユニット&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IN_MELEE_VS</zType>
+		<ja>&lt;true_2&gt;link(UNITTRAIT_MELEE)戦闘対{0_unitTrait}ユニット：{1_value}&lt;false&gt;{1_value} link(UNITTRAIT_MELEE)戦闘対{0_unitTrait}ユニット&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_MAX_HP</zType>
+		<ja>{0_value}都市の最大HP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NEW_UNIT_XP</zType>
+		<ja>{0_value}新規ユニットのXP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NEW_UNIT_LEVEL</zType>
+		<ja>{0_value}新規ユニットの{singular_0:レベル:レベル}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_HEAL</zType>
+		<ja>{0_value} HP/{2_idle}のユニット{1_turnScale}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_RANGE</zType>
+		<ja>{0_value}ユニット{RANGE}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_CITY_STRENGTH</zType>
+		<ja>{0_value}都市の防御力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RANDOM_PROMOTIONS</zType>
+		<ja>{0_value}新規ユニットにランダムな{singular_0:プロモーション:プロモーション}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_IMPROVEMENT_COST</zType>
+		<ja>{0_value}建設物のコスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_CLASS_COST</zType>
+		<ja>{1,2_improvementClass}の収率コスト{0_value}%</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_PROJECT_COST</zType>
+		<ja>link(CONCEPT_PROJECT)の商品コスト：{0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_DISCONTENT</zType>
+		<ja>{0_value}生産速度アップによる{YIELD_DISCONTENT}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NO_RELIGION_SPREAD</zType>
+		<ja>link(CONCEPT_STATE_RELIGION)じゃない宗教のランダムなlink(CONCEPT_SPREAD_RELIGION)なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_STATE_RELIGION_TRAIN_MODIFIER</zType>
+		<ja>link(CONCEPT_STATE_RELIGION)の{1_unitTrait}ユニットの生産時間{0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TERRAIN_TILES</zType>
+		<ja>{0_terrain_list}タイル: {1_yields}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_MODIFIER_YIELD</zType>
+		<ja>{LIST,2}：{0_value}産出</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_CLASS_MODIFIER_YIELD</zType>
+		<ja>{0,2_improvementClassList}：{1_value}産出</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_EFFECT_CITY_YIELD_MODIFIER</zType>
+		<ja>{true_2:各}{0_effectCity}：{1_modifier}産出</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_VISION_CHANGE</zType>
+		<ja>{0_value}ユニットのlink(CONCEPT_VISION)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_FOR_ADJACENT_IMPROVEMENT_MODIFIER</zType>
+		<ja>{0_value}隣接する{LIST,2}に対して</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_FOR_ADJACENT_IMPROVEMENT_CLASS_MODIFIER</zType>
+		<ja>{0_value}隣接する{LIST}クラスの建設物に対して</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PER_ADJACENT_IMPROVEMENT_MODIFIER</zType>
+		<ja>{0_value}隣接する{LIST}につき</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PER_ADJACENT_IMPROVEMENT_CLASS_MODIFIER</zType>
+		<ja>{0_value}隣接する各{LIST}クラスの建設物につき</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_HEALS_UNIT</zType>
+		<ja>link(CONCEPT_IDLE)のユニットを{0_value}HP回復</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_HEALS_UNIT</zType>
+		<ja>link(CONCEPT_IDLE)の{LIST}ユニットを{0_value}HP回復</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_ADJACENT_UNIT_XP</zType>
+		<ja>［隣接したユニット］{0_value} XP/{1_turnScale}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BONUS_ON_COMPLETION</zType>
+		<ja>［完了時］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BONUS_ALL_CITIES</zType>
+		<ja>［完了時、全都市に］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_ALL_CITIES_EFFECT</zType>
+		<ja>［全ての都市］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_RELIGIOUS_CITIES_EFFECT</zType>
+		<ja>［{0,1_religion}の都市］{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_STATE_RELIGION_CITIES_EFFECT</zType>
+		<ja>［link(CONCEPT_STATE_RELIGION)の都市］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CAPITAL_EFFECT</zType>
+		<ja>［首都の都市］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CONNECTED_FOREIGN_WILL_GAIN</zType>
+		<ja>獲得報酬：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_ALL_UNITS_EFFECT</zType>
+		<ja>［全てのユニット］{LIST}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TRAIT_UNITS_EFFECT</zType>
+		<ja>［{0_trait}のユニット］{LIST}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_XP_COMBAT_MODIFIER</zType>
+		<ja>{0_value} XP戦闘中の全ユニットに対して</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_HARVEST_MODIFIER</zType>
+		<ja>{0_value}収穫量</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_CONSUMPTION_MODIFIER</zType>
+		<ja>{0_value}ユニット消費</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_START_LAW_MODIFIER</zType>
+		<ja>{0_value}法律制定のコスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_SWITCH_LAW_MODIFIER</zType>
+		<ja>{0_value}法律変更のコスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TECH_AVAILABLE_CHANGE</zType>
+		<ja>{0_value}少量の技術カード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_LEADER_OPINION_CHANGE</zType>
+		<ja>{0_value}外国/部族の指導者の評価</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_LEADER_DESCENDANT_OPINION_CHANGE</zType>
+		<ja>指導者の子孫:評価{0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HEAD_OPINION_CHANGE</zType>
+		<ja>{0_value}部族の指導者とlink(CONCEPT_RELIGION)/link(CONCEPT_FAMILY)首長の評価</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_LEADER_RELIGION_OPINION_CHANGE</zType>
+		<ja>{0_value}指導者のlink(CONCEPT_RELIGION)に対するlink(CONCEPT_OPINION_RELIGION,3)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_STATE_RELIGION_SPREAD_CHANGE</zType>
+		<ja>{0_value}%の確率でlink(CONCEPT_STATE_RELIGION)が広まる(link(CONCEPT_WORLD_RELIGION,2)限定)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_MISSION_COST_YIELD</zType>
+		<ja>{true_0:[全体] }{1_yield}ミッションコスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILYCLASS_FAMILY_CITIES_BULLET_LINE_START</zType>
+		<ja>icon(bullet)［氏族の都市］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILYCLASS_FAMILY_SEAT_BULLET_LINE_START</zType>
+		<ja>icon(bullet)［link(CONCEPT_FAMILY_SEAT)］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILYCLASS_ON_CITY_FOUNDED_BULLET_LINE_START</zType>
+		<ja>icon(bullet)［都市の設立時］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILYCLASS_ON_SEAT_FOUNDED_BULLET_LINE_START</zType>
+		<ja>icon(bullet)［邸宅の設立時］{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILYCLASS_OPINION_EXPLORER</zType>
+		<ja>link(CONCEPT_EXPLORER)ごとに: {0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRIBE_LEVEL_EMPTY_SITES</zType>
+		<ja>{0_num}空き都市：{singular_0:場所:場所}(近隣)：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRIBE_LEVEL_FATIGUE</zType>
+		<ja>バーバリアンに+{0}疲弊度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_BONUS_VS</zType>
+		<ja>対{0_bonusReason}（{1_unitAbility}として）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS_MELEE_VERSUS</zType>
+		<ja>link(UNITTRAIT_MELEE)戦闘対{0_unitTrait}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_ATTACK_PREVIEW_UNIT_TRAIT_BONUS_VERSUS</zType>
+		<ja>対{0_unitTrait}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_SELECTION_GIFT_YIELD</zType>
+		<ja>贈与{0_yieldIcon}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_YIELD_PROGRESS_GROWTH</zType>
+		<ja>（{0_value}/{1_value}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_YIELD_PROGRESS_CULTURE</zType>
+		<ja>（{0_culture}：{1_value}/{2_value}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CITY_YIELD_PROGRESS_HAPPINESS</zType>
+		<ja>({0_happiness}: {1_value}/{2_value})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_FAMILY_CITIES_STARTLINE</zType>
+		<ja>［{0_family}の都市］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_CITIES_STARTLINE</zType>
+		<ja>［全ての都市］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_RELIGION_CITIES_STARTLINE</zType>
+		<ja>［{0,1_religion}の都市({1_count})］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_PLAYERS_START</zType>
+		<ja>［全ての国家］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_TRIBES_START</zType>
+		<ja>［全ての部族］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_MEMORY_ALL_FAMILIES_START</zType>
+		<ja>［全ての氏族］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_STARTS_GOAL</zType>
+		<ja>目的を開始{0_goalLink}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_STARTS_AMBITION</zType>
+		<ja>link(CONCEPT_AMBITION)を開始{0_goalLink}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_FINISH_GOAL</zType>
+		<ja>目的を完了{0_goalLink}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_FAIL_GOAL</zType>
+		<ja>目的に失敗{0_goalLink}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_DIPLOMACY_ALL_PLAYERS</zType>
+		<ja>［全ての国家］{0_diplomacy}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_BONUS_TRIBE_UNIT</zType>
+		<ja>{3_tile}上に新しい{0,1_tribe}の{1_unit}{true_2:(x{2_number})}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_YIELD_CITY</zType>
+		<ja>{0}都市ごとに</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAKE_COUNCIL_YIELD_CITY_CHANGE</zType>
+		<ja>{0}都市ごとに{2_yield}が{true_1:増加:減少}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_COURTIER</zType>
+		<ja>全ての廷臣たちはlink(CONCEPT_ARCHETYPE)に関係なく、link(CONCEPT_GENERAL,2)、link(CONCEPT_GOVERNOR,2)、link(CONCEPT_AGENT,2)として仕えることが可能です。廷臣のステータスは国家産出量に影響を及ぼします（指導者の影響の三分の一の割合）。例えば、廷臣のlink(RATING_CHARISMA)は{YIELD_CIVICS}link(YIELD_CIVICS)を増加させます。また、配偶者のあなたに対するlink(CONCEPT_OPINION_CHARACTER,3)は、それぞれの産出量を増減させます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_DEATH_CHANCE</zType>
+		<ja>{0_value}%確率/没年</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_OPINION</zType>
+		<ja>{0_value}指導者のlink(CONCEPT_OPINION_CHARACTER,3)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_OPINION_RELIGION</zType>
+		<ja>指導者として：{0_value} link(CONCEPT_OPINION_CHARACTER,3)同じlink(CONCEPT_STATE_RELIGION)でない場合</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_OPINION_EXPLORERS</zType>
+		<ja>指導者として:我々より多くのlink(CONCEPT_EXPLORER,2)を所有していたら{0_value} link(CONCEPT_OPINION_CHARACTER,3)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_BIRTH_CHANCE</zType>
+		<ja>{0_value}%子供が産まれる確率/年</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_FAMILY_HEAD_CHANCE</zType>
+		<ja>{0_value}%氏族の首長になる確率</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_RELIGION_HEAD_CHANCE</zType>
+		<ja>{0_value}%宗教の首長になる確率</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_TRAIT_OTHER_TRAIT_OPINION</zType>
+		<ja>{0_value} {1_trait}のキャラクターのlink(CONCEPT_OPINION_CHARACTER,3)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_SPREAD_HELP</zType>
+		<ja>{0}%新たな都市へ布教される確率/{1_turnScale}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FAMILY_EXPLORERS</zType>
+		<ja>{0_value}:我々のlink(CONCEPT_EXPLORER)より</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RESOURCE_MISSING_OPINION</zType>
+		<ja>{0}が所望：{1_value} link(CONCEPT_OPINION_FAMILY,3)/都市(不足の場合)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_COUNCIL_ALL_CITIES</zType>
+		<ja>{0_council}:全ての都市で{1_yields}を獲得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_GOVERNOR_YIELD</zType>
+		<ja>link(CONCEPT_GOVERNOR):都市の{1_yield}増加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_JOB_ATTACK</zType>
+		<ja>{0_job}:ユニットのicon(ATTACK)攻撃増加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_JOB_DEFENSE</zType>
+		<ja>{0_job}:ユニットのicon(ATTACK)防御増加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_JOB_CRITICAL</zType>
+		<ja>{0_job}:ユニットのicon(CRITICAL_STRIKE)クリティカル増加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_JOB_XP</zType>
+		<ja>{0_job}:ユニットのlink(CONCEPT_XP)増加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RATING_JOB_HARVEST</zType>
+		<ja>{0_job}:ユニットのlink(CONCEPT_HARVEST_RESOURCE)による収入増加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_RATING_X_OF_YIELD</zType>
+		<ja>{1_yield}の{0}%</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_UNIT_EFFECT_ADJACENT</zType>
+		<ja>{0}：［隣接ユニット］{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_DIFF</zType>
+		<ja>{0_value}:我々は{true_3:似ている:異なる} ({1_trait} vs. {2_trait})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_TRAIT_GENERAL_UNIT_TRAIT</zType>
+		<ja>As link(CONCEPT_GENERAL)として({0_unitTrait}): {1_effectUnit}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_CHARACTER_MARRIES_GLOBAL</zType>
+		<ja>（全体：{LIST}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MAIN_MENU_NEW_GAME</zType>
+		<ja>現在設定しているMODでは、新規ゲームを開始できません-シナリオメニューにあるゲームで使用してください</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPTIONS_BETA_TRANSLATIONS</zType>
+		<ja>ベータ版は、エラーやその他不具合が発生する可能性がございます。予めご了承ください。--各言語の公式サポートは、6月から開始いたします。通常版に各言語が対応するまでの間に、これらの不具合は修正いたしますので、ご安心ください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GLOBAL_GOAL_RANKING_YOUR</zType>
+		<ja>グローバル目標あなたの順位：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_POPULATION</zType>
+		<ja>{0}の人口が必要（{1,2_citizensLink} +専門家）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_SENT_LUXURIES</zType>
+		<ja>{0_num} {singular_0:link(CONCEPT_LUXURY,1):link(CONCEPT_LUXURY)}をlink(CONCEPT_FAMILY,2)、link(CONCEPT_CITY,2)、link(CONCEPT_NATION,2)もしくはlink(CONCEPT_TRIBE,2)に送る必要あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_CITY_PILLAGE_IMPROVEMENTS</zType>
+		<ja>[全ての都市]最大{0_value}の建設物をlink(CONCEPT_PILLAGE,1)する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_CITY_PILLAGE_IMPROVEMENTS_COAST</zType>
+		<ja>[全都市] {0_value}まで海岸整備link(CONCEPT_PILLAGE,1)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_PILLAGE</zType>
+		<ja>[全建設物] {true_0:{1_value}である確率:}link(CONCEPT_PILLAGE,1)（影響を受けるタイル上にある場合）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_UNANCHOR</zType>
+		<ja>[全てのユニット]影響を受けたタイル上のユニットはlink(CONCEPT_ANCHORED)状態が解除される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_IMPASSABLE</zType>
+		<ja>[全ユニット]影響を受けるタイルは通行不可になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_UNIT_DAMAGE</zType>
+		<ja>[全ユニット]対象タイル上で{0_unitDamage} link(CONCEPT_HP) / {1_turnScale}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_MOVEMENT_COST</zType>
+		<ja>[全ユニット]対象タイル上で{0_value}{MOVEMENT}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_YIELD_MODIFIER</zType>
+		<ja>[全建設物]影響を受けたタイルの生産量：{0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_TILE_REVEAL_CHANGE</zType>
+		<ja>[全ユニット]影響を受けたタイルのビジョンが低下</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OCCURRENCE_VEGETATION_REDUCE</zType>
+		<ja>[全てのタイル] {1_percent}の確率で、{0_vegetation}のタイルが{2_vegetation}になる
+icon(bullet)[建築物]影響を受けたタイル上のlink(CONCEPT_IMPROVEMENT,2)は、link(CONCEPT_PILLAGE,1)となる
+icon(bullet)この効果は、隣接するタイルに波及する可能性がある</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_MEMORY_OPINION</zType>
+		<ja>{true_0:{0}、}{true_2:{2}{3_turnScale}の間は}評価は{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_RELIGION_EFFECT_CITY_EACH</zType>
+		<ja>［各{true_0:{0_religion}の}都市］{1}</ja>
+	</Entry>
+</Root>

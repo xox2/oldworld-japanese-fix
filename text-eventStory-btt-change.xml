@@ -1,0 +1,968 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BEHIND_THE_THRONE_BEGINS</zType>
+		<ja>落ち着かない様子の王冠。貴族たちは保護されたlink(IMPROVEMENT_ESTATES)で陰謀を巡らし、国に不満を抱く者たちはlink(IMPROVEMENT_SLUMS)へと集っていた。そこでlink(COUNCIL_GRAND_VIZIER,1)が、再び繁栄をもたらすため、{PLAYER-POSS-0}の都市の統治を自分に任せていただきたいと言い出した。
+
+信じることは愚か者の所業と言われる。だが暴君であれば、偏執的になるのは当然だ。link(TRAIT_FOOLISH)かlink(TRAIT_PARANOID)か…どちらであっても、link(CONCEPT_MENTAL_STRAIN)を被るのは避けられない。
+
+脅迫、裏切り、link(MISSION_GAMBLE)、link(MISSION_REVEL)…あるいは、どんな代償を払ってでも規範となる正義を示すか。どの決断を下すかは、あなた次第だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHABBY</zType>
+		<ja>「…ああ、可哀想な{CHARACTER-SHORT-1}よ、{G1:彼:彼女}の服を見ましたか？糸が緩んでいましたよ。正直に申し上げますが、あのままでは宮廷の評判が落ちてしまいます。{CHARACTER-SHORT-POSS-1}の身なりについては、どなたが対処すべきでしょう。ひょっとすると、{G1:彼:彼女}には頼れる者が必要なのかもしれませんね。」{CHARACTER-2}が、期待を込めて言う。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BENEVOLENT</zType>
+		<ja>{CITY-2}の町──{CHARACTER-0}の周りに、ひらひらとバラの花びらが舞い、熱狂的な群衆の歓声が上がる。{G0:彼:彼女}は{FAMILY-2,1}の当主として、自らの財産を惜しみなく投じてきた。故に、{CHARACTER-SHORT-POSS-0}のその善行と博愛精神が伝説と化していた。
+
+皆の口に上る{G0:彼の:彼女の}名前。王族の反応を巡る噂で、宮廷中がざわついている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYING_WITH_FIRE</zType>
+		<ja>{PLAYER-2}で権勢を振るう一家の長たちが、禁断の関係にあるらしい。こういった噂話は、下町の酒場に集まる愚か者たちに広まる類いのものであったが、あなたの手下たちはそれが真実だと信じ込んでいる。
+
+{CHARACTER-0}と{CHARACTER-1}が手を組めば、その政治力はほぼ止められないものとなる。しかし、その噂が広まれば、間違いなく両家に混乱を招くことだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AUDIENCE_PARTICIPATION</zType>
+		<ja>聴衆の中から、{CHARACTER-1}と{CHARACTER-2}を排すよう呼びかけるあなた。しかし、護衛隊の隊長は頑として動かず、こちらの目を見ようともしない。
+
+{CHARACTER-SHORT-1}が笑う。「{PLAYER-1}の支持層は分断されました…この意味がお分かりですか？その階級や氏族が、我々を支持したのです。ですが、お互いとげとげしくなる必要はございません。確かに、この国の統治は我々が行う。しかし、あなたにはまだ玉座のそばにいていただく…その可能性は残されています。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ON_A_PLATTER</zType>
+		<ja>{PLAYER-1,1}が財政難に陥っている。その知らせは、どうやら{PLAYER-0}にまで届いているようだ。万全の護衛の下、{PLAYER-0,1}の使節一行が、王室数年分の財政を潤すだけの富を携えて到着する。
+
+その{random_R0:彼:彼女}の口から、提案の内容が優美に語られる──その内容は、「{PLAYER-0}が国境都市{CITY-2}の統治権を得る代わりに、{PLAYER-1}は{PLAYER-0,1}から全面的な軍事・財政支援を受ける」というものであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IN_THE_EYES_OF_THE_LAW</zType>
+		<ja>{FAMILY-0,1}の{CHARACTER-0}は、長らく王の足を引っ張る存在であった。宮廷で何か問題が起きれば、常に反対勢力の先頭に立っていたのである。しかし今、その{CHARACTER-0}を宮廷から引き離し、影響力のある立場から追い落とす機会がやってきた…
+
+数多くの不倫を隠そうともせず、{CHARACTER-0}はどこにおいても堂々とした態度をとっていた。この国にはこういった姦通罪に対し、追放処分を科す法律が存在する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BUSINESS_INTERESTS</zType>
+		<ja>しかし、{CHARACTER-0}を巡る法的手続きは思わぬ事態により、たちまち混乱へと陥った。
+
+彼女が高級売春婦として公認されたことで、その関係が職業上の正当な営みとして見なされ、罪に問うことができなくなったのだ。次第に{FAMILY-0,1}家からの圧力が高まってきている。この事件が、“王家の恥となる可能性”を秘めているからだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_PIPES_ARE_CALLING</zType>
+		<ja>部屋に入ると、布の塊と木管楽器の間から{CHARACTER-0}の顔が出てくる。気恥ずかしそうな様子だ。不協和音のような呻き声が止む。気まずい時間が流れた後、{G0:彼:彼女}の口が開く。「申し訳ございません、まさかこれほど響くとは思わず…ニー・アンバン？これは贈り物です。ええと、私は周りが静かになったら、練習しようとしていただけで…」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_A_DELICATE_MATTER</zType>
+		<ja>早まって{CHARACTER-1}を捕らえてからというものの、あなたは何が起こってもおかしくはないと身構えていた…それでも{PLAYER-0}は、この事態をそのままにしていた。{CHARACTER-SHORT-1}は“外交問題に対処中”だったため、{G1:彼:彼女}の職務は、非公式ながら{CHARACTER-2}が務めていた。しかしついに、{CHARACTER-SHORT-2}の使者が{CITY-3}を訪れ、ある交渉条件を伝えてきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAST_REQUEST</zType>
+		<ja>{CHARACTER-0}には、昔からある夢があった──それは{G0:彼の:彼女の}{G1:息子:娘}、{CHARACTER-1}が玉座につく姿を見ること。
+
+{G0:彼:彼女}は生きている間に、その結果を見届けることはできなかった。だが、事を動かし始めたことだけは確かである。{G0:彼:彼女}が築き上げた莫大な私財は、ただ一つの条件の下、{PLAYER-2,1}の国庫へと割り当てられる…その条件とは、{CHARACTER-1}を王位後継者に指名することである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FORGIVING_NATURE</zType>
+		<ja>使者が緊張した面持ちで、{CHARACTER-0}からの伝言を運んできた。{CHARACTER-0}とは、かつて宮廷で気に入られながらも、今では亡命によってほぼ存在を忘れ去られてしまった者である。
+
+「本来ならば貴公の良心に訴えかけることから始めたいところだが、時間を無駄にするのが性格的に嫌いでな。代わりに、もっと卑しい提案をしよう。我が故郷と地位を取り戻すことを引き換えに、王室へ惜しみない献金をする。これで、お互いの意見が一致すると信じたい。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SLEEP_TIGHT</zType>
+		<ja>目を覚ますと、誰かの手で口が塞がれていた。{CHARACTER-POSS-0}の顔が、じっとこちらを見つめている。「あなたがどこにいるのか、どうやってそこに行くのかも知ってる。“今夜”は生かしておくが、期待させてもらおう。近いうちに我が名誉は回復し、清廉潔白な人間であると証明される…そんな知らせが聞けるのをな。」
+
+その瞬間、空気が震えた。{CHARACTER-SHORT-0}が去ったのだ。言葉を頭で理解するどころか、返答する間もないほどの暇もなかった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SWAY</zType>
+		<ja>{FAMILY-0,2}の友人たちと、多くの時間を共にしている{CHARACTER-2}。どうやら{CHARACTER-1}が直接、{G2:彼:彼女}を{G1:自身:自身}の下に置いているようだ。
+
+この行動は政治的に有利なものであるとしても、{CHARACTER-2}が&lt;p.is_sub.S2=SUBJECT_STUDY_TACTICS&gt;武術訓練に対して、明らかな嫌悪を感じていることは疑いようがない。&lt;p=SUBJECT_STUDY_POLITICS&gt;、世俗的な勉強に力を入れる。実用性を欠く&lt;p=SUBJECT_STUDY_PHILOSOPHY&gt;の勉強を減らす。&lt;p=SUBJECT_STUDY_COMMERCE&gt;、金融の勉強をする。&lt;else&gt;変わらずに前の通り、勉強を行う。&lt;end&gt;</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ROYAL_PREROGATIVE</zType>
+		<ja>{CHARACTER-0}は、{CHARACTER-2}に対する興味をそれほど隠そうとしていなかった。どうやらお互い、毎週のように新しい趣味を見つけては、二人で一緒の夜を過ごしているようだ。
+
+{CHARACTER-1}は、{G1:妻:夫}の公然たる交際に不満を抱いている。しかし、相手は{PLAYER-0}の王位継承者だ。一体、{G1:彼:彼女}に何ができるというのだろうか。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYING_POLITICS</zType>
+		<ja>{CHARACTER-0}は、{PLAYER-0}の王位継承者として、怠ることなくその職責を果たしている。噂によると、{G0:彼:彼女}の友人たちは多大な恩恵を受けており、{CHARACTER-3}のように{G0:彼:彼女}を逆なでする者はその行為を悔やむことになるという。
+
+具体的にどのような恩恵を受けられるのか、そしてどのような報復を受けるのか。この二つについては、宮廷でもっぱら噂となっていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARRIED_AWAY</zType>
+		<ja>{PLAYER-2}と{PLAYER-0}の関係を深めようとした{CHARACTER-1}は、その絆を祝う豪華な婚礼を提案した。
+
+{CITY-2}の宮殿にて、華やかに挙げられる結婚式。そこで{CHARACTER-0}は、{CHARACTER-1}と結婚する運びとなった。だが、{CHARACTER-SHORT-1}には他にも{G1:妻:夫}がいる。ささやかとはいえ、この事実は問題であった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_LIGHT_TOUCH</zType>
+		<ja>{CHARACTER-1}が頻繁に訪れている{CITY-0}の娼館──一筋縄ではいかなかったが、見事{CHARACTER-2}はその場所を特定し、中に潜入してみせた。
+
+{CHARACTER-SHORT-1}へ接近できるようになり、圧力をかける以外にも、暗殺を実行するチャンスが生まれた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INTOLERANT_CONDUCT</zType>
+		<ja>あなたが鼻で笑う。「{CHARACTER-3}のことか？時間を守ることすらできない人間に、一体何ができる？愚か者め。」
+
+{CHARACTER-2}がキッと鋭い目線をあなたに向け、口を開く。「人を疑わずに信じることが、そんなに難しいのですか？人には、自身の先入観以上のものがあるかもしれないと、少しでも想像したことはないのですか。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIMID_DEMEANOR</zType>
+		<ja>{CHARACTER-1}が、交渉のテーブル越しに身を乗り出す。「それで…一体、どうするつもりなんです？」
+
+背もたれにもたれかかった{G2:彼:彼女}は、返答に困っているあなたを見て、ニヤリと笑った。「そうだと思っていたよ。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNCOUTH_CONDUCT</zType>
+		<ja>あなたの顔に笑みが浮かぶ。「…そしてその時、新郎が困惑して、周りを見回しながら尋ねたのだ。“だが、なぜ彼の尻を使って─”」
+
+そこで突然{CHARACTER-1}が激しく咳き込み、言葉が遮られた。交渉のテーブルから離れた場所へと連れて行かれるあなた。「そのような話は…もっと、堅苦しくない場のために取っておいた方がよろしいかと。」と、{G1:彼:彼女}から懇願するような目で見られる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXTRAVAGANT_CONDUCT</zType>
+		<ja>次の大皿を指差しながら、「これもだ！」とあなたが言う。北の地からこの新鮮な料理を運ぶために、どれだけの氷が必要か予想できるか。小さな縄を使って氷の塊を引っ張る様は、見ていて不思議な光景である。
+
+次の料理の生産地について話しているうちに、{CHARACTER-1}の顔色が目に見えて青ざめていった。そして、ようやく{G1:彼:彼女}が勇気を振り絞り、口を開く。「王よ、どうかお願いいたします。戦乱や作物不足に備え、国庫の一部を割り当てていただけませんでしょうか？この状況が…続くとは思えず。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BITTER_DEMEANOR</zType>
+		<ja>{CHARACTER-1}の熱烈な演説が、宮廷を再び歓喜の渦へと巻き込んだ。相変わらず、この幼稚な空気が胃にこたえる。
+
+くそっ！せめて、頷いて賛同できるくらいのことはしないのか。果たして、こんな見栄を張り続けることが本当にできるのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECEITFUL_CONDUCT</zType>
+		<ja>「そのような言葉、一言も口にしておらぬ！」{CHARACTER-1}へにらみを利かせ、きっぱりと言い放つ。きっと、そなたの聞き間違えであろう。しかし、それが何か問題になるのか？」
+
+{CHARACTER-SHORT-1}が険しい表情を浮かべる。あなたも{PLAYER-0}も、私は決して見放しません。ですが、どうか言葉遣いには注意していただきたい。他の者たちは、私と同じとは限りませんので。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THIRST</zType>
+		<ja>あなたの{G1:夫:妻}である{CHARACTER-1}は、{PLAYER-0}各地にあるワインについて、何時間でもその違いを語れる。しかしながら最近になって、宮廷に運び込まれる新しいヴィンテージワインに、どこかうんざりしている様子である。
+
+だが、{PLAYER-0}の強大なる{G0:王:女王}にできぬ事などない。きっとあなたであれば、{G1:彼:彼女}の舌が喜ぶ、異国の味を見つけ出せるはずだ！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_DANDIES</zType>
+		<ja>{CHARACTER-3}があなたに反感を持っていることは、誰の目から見ても明らかであった。集会での辛辣な言葉はともかく、冗談や皮肉めいた発言が、社会の下層にまで浸透している──まるで{G3:彼:彼女}の意に沿うかのように。
+
+{FAMILY-1}の支配地では、あなたとその親しい者たちを笑い物にした、下品な歌や無言劇が日々の娯楽となっている。その影響はすさまじく、{CITY-1}の一般的な労働者さえもが、劇中で一番人気のある“田舎道を練り歩く”場面を大雑把に真似するほどであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRONTIER_LIFE</zType>
+		<ja>近頃の{CHARACTER-4}との生活は…緊迫したものとなっていた。何度も繰り返し{CHARACTER-2}と共に過ごすあなたに対し、疑問を投げかける{G4:彼:彼女}。いつしか{CHARACTER-SHORT-4}と{CHARACTER-SHORT-2}の間を取り持つことは、ままならなくなっていた。
+
+{CITY-1}から辺境へ向けて、遠征隊が旅立つ。その知らせを聞いた瞬間、あなたの頭によこしまな考えがよぎる。もし{CHARACTER-SHORT-2}が、開拓者たちと共に{G2:彼:彼女}自身の幸せを求めることになれば…この生活は、もっと単純なものになるのではないかと。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REVELRY_I_DID_WHAT</zType>
+		<ja>あなたは{PLAYER-0}に対し、宣戦布告をした。
+
+昨晩の宴の最中、彼らの劣勢と迫り来る敗北を伝えるべく、ただちに使者を{PLAYER-0,3}へ向かわせたあなた。断固とした主張に、皆の意見が一致していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_I_THINK_NOT</zType>
+		<ja>送り出してから間もなくして、{CHARACTER-0}から使者が戻ってくる。
+
+「我々が、この誤解を解こう。そもそも、“戦争”という言葉の意味合いが貴国と異なるのかもしれない。しかし、ここ{PLAYER-0}では、“戦争”について軽々しく、あるいは冗談めかして語ることはない。{PLAYER-0}は戦争状態にある。貴国の降伏について、これから便りがあることを期待している。忠順なる僕へ、{CHARACTER-0}より。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REVELRY_EPIPHANY</zType>
+		<ja>騒がしい話し声をかき消すように叫ぶ。「もし{G0:王:女王}でなくなったら、私は、どうすれば…！？」──そう問いかけた瞬間、あなたは自由を、そして何よりも喜びを感じていた。静まり返る部屋。逸らされる視線。その後、{CHARACTER-SHORT-1}から静かに、あれは酒を飲み過ぎたせいだと語られる。
+
+しかし、あの考えが頭から離れないのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REVELRY_ENOUGH</zType>
+		<ja>{CHARACTER-SHORT-0}が投げかける眼差しには、様々な種類があることが分かった。
+
+心配。孤独。嫌悪感。そして、静かなる絶望。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REVELRY_A_LITTLE_ADVICE</zType>
+		<ja>根気強く試行錯誤を繰り返したあなたは、多くの一流の助けを借りて、ようやく目的を達成することができた。日常生活の悩みが他人事に思えるほど、官能さを極めた夜。
+
+…{CHARACTER-1}を招待したことに対し、若干の後悔を感じていることは否めない。彼女は心の底からよかれと思って、言っている。「本当に確かめた方がいいと思う。天から新たな命を授かる時なんて、いつになるか分からないんだから。大麦一束とちょっとの時間があればいい。そうすれば、迷いはなくなる。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_POSITIVE</zType>
+		<ja>この芽吹き具合は、いわば明白ではあった。あなたには子供がいる。
+
+{CHARACTER-SHORT-2}はこのことに興奮しているようで、何かを伝えたがっている。「もしこのままでいいのか…迷っているのなら、ぴったりの方法がある。シルフィウム、素晴らしい植物だ。あらゆる問題を解決してくれる。ただ、手に入れるのが少し難しい。私がいくつか手配しようか？」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TEMPTING_GIFT</zType>
+		<ja>王室の好意を引こうとする者たちから、豪華な贈り物が届くことはよくあることだった。しかし、今回はこれまでと異なる。宝石や美術品が積まれた山に、何か特別なものがあることに気づく。
+
+飾り気はないが、職人技が光る逸品だ。その一方で、どこか異質さを感じさせる代物でもあった。この剣を送った人物──その身元を示す、手がかりや印がどこにも見当たらないのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_I_MUST_HAVE_IT</zType>
+		<ja>{CITY-1}にあるlink(IMPROVEMENT_HANGING_GARDENS)の美しさは、大の大人さえも涙するほどだと言う。その繊細な輝きと贅を尽くした豪華さに、神々ですら羨むと伝えられている。{CHARACTER-2}が、{CITY-1}の大きなパトロンとして{G2:男性たち:女性たち}の間で高く評価されているようだ。
+
+黙ってさえいればいいものを。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEY_MUST_DIE_YOU_DIED</zType>
+		<ja>{CHARACTER-0}は、{CHARACTER-1}より長く生きて復讐を成し遂げることに、確かな自信を持っていた。しかし、天はその思い上がりに罰を下した。
+
+そこであなたは、同じ道を辿らないようにしようと決心した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DEMANDS</zType>
+		<ja>いつ送られてくるとも知れない最終通告…だが、それは確実に届く。{CHARACTER-1}はもはや未熟な若者ではなく、{PLAYER-0}が誇る不動の存在であり、{FAMILY-3}家の誇りと希望であった。
+
+{CHARACTER-SHORT-1}が玉座への意思を示せば、彼らは全力で支持するだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WANING_STAR_LEADER</zType>
+		<ja>多くのものがあなたに敬意を抱いている。あなたを忌み嫌う者も少なくない。
+
+しかし{PLAYER-0}の中で、{CHARACTER-0}こそ革新と繁栄の新時代を導く{G0:王:女王}だと信じている者は、ほとんどいない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BEST_OF_FRIENDS</zType>
+		<ja>{CHARACTER-0}から、正式に会合を求められる。その内容は、共同統治していた{PLAYER-0,1}と{PLAYER-2,1}の問題について、“重要な討論”を行うというものであった…まただ。
+
+{CHARACTER-SHORT-0}には、もっとやるべきことがあるだろうとあなたは思った。{G0:彼:彼女}はそんなに暇なのか、それともマリオネットのように操るのを楽しんでいるだけなのか。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_INFLUENCE</zType>
+		<ja>あなたの影響力により、{CHARACTER-0}は完全に取り込まれ、より近しい関係となった…しかし、この関係から恩恵を受けるのは他にもいた。
+
+ざわめく宮廷。どうやら{PLAYER-0}に対する、{CHARACTER-SHORT-POSS-0}の斬新なアイデアで盛り上がっているらしい。それらは全て、{G2:王:女王}の暗黙の了解を得ている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_GENERALS</zType>
+		<ja>link(GOAL_FOUR_GENERALS)の達成は、容易いものだと思われていた。しかし、その収穫は少なかった。{PLAYER-0,1}において、師団を指揮できるほどの貴族の数は…思いのほか少ない。
+
+そこに、{CHARACTER-4}からの訴えがあった──{G4:彼:彼女}の愛弟子である{CHARACTER-3}…その者こそ、まさにあなたが求めていた指揮官に相応しき人物かもしれないと。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_YOUNG_TACTICIAN</zType>
+		<ja>{CHARACTER-0}は{TRIBE-3}に対し、先制攻撃をしかけた。計画は見事成功。{PLAYER-0, 1}側の損失はほとんど出さずに、無秩序と破壊をもたらした。
+
+{CITY-4}がその事実を知らされたのは、当然ながら全てが終わった後のことであった。復讐心に燃える{TRIBE-3,1}の戦士たちが続々と集う。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_TRIBE_PEACE</zType>
+		<ja>link(CONCEPT_PEACE_TRIBE)の実現──どうやらそれは、開かれた心と善意だけでは難しいらしい。時間が経つにつれて、明らかになったことがある──link(CONCEPT_TRIBE,2)は頑固であるだけでなく、あなたが思うに、極めて無礼な者である。
+
+いずれにせよ、違うやり方があるのかもしれない。{TRIBE-2}は不名誉の烙印が押されることを、極めて重く受け止めることで知られている。そこで幸いにも、あなたは{CHARACTER-2}を不利な立場に追い込む証拠を手に入れた…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_NATION_PEACE</zType>
+		<ja>{CHARACTER-2}からの書簡を見る──「貴方のlink(CONCEPT_PEACE_PLAYER)の条件を受け入れる」との書き出し。
+
+だが、次の一文を目にした途端、あなたの熱意は一気に冷めてしまう。「ただし、もう一つ譲れない条件がある。この平和を保つには、{PLAYER-0}を心から信頼しなければならない。その考えをはっきり示したいのであれば、我らの強固な関係の証として、{CHARACTER-3}を{CITY-2}に滞在させよ。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_VOLUNTEERS</zType>
+		<ja>軍の改革と兵力増強…それは長らく、あなたが声明を出していたことであり、宮廷内で論じられる題材の一つでもあった。link(LAW_VOLUNTEERS)による軍構築だ──しかし、進捗が振るわない。あなたの熱烈な支持者たちですら、その事実を認めざるを得なかった。
+
+揺らぎつつある計画に対し、{CHARACTER-3}から少々過激ではあるが、救いの手とも言うべき案が提示される。土地の再分配をもっと計画的に行うことができれば、収穫量が同程度の労働者を減らして、健康体の兵士を軍に加えられる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_POPULATION</zType>
+		<ja>{PLAYER-0}の成長と繁栄のためには、もっと多くの人手が必要だ。かつてはそう結論付けていた。だが、今となっては遙か昔のことのように思える。将軍たちが申し出るのは、それと全く同じ…（少々、血がついた）銀の大皿で供される提案だった。
+
+内部抗争によって{TRIBE-2}の戦士たちが散り散りになっているさなか、{PLAYER-0,1}軍は遠征に向けて着々と準備を進めていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_TECH</zType>
+		<ja>時は、人の視点をがらりと変える。ある日、一つの理想を胸に世界を望んでいたあなた。そして次に…いや、正確には“次”ではない。その時点で、数え切れないほど多くの日々が過ぎ去っていた。実際は大きな変化もなく、依然として理想は遠いままであった。
+
+改革が不評を買う可能性はある。だがもはや、現状が行き詰まっていることを認めなければならない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_STRESSED</zType>
+		<ja>{CHARACTER-0}は、link(TRAIT_STRESSED)状態に陥った。ストレスを感じると、統治や指揮の能力が低下してしまう。特にlink(YIELD_SCIENCE)、link(YIELD_CIVICS)、link(YIELD_MONEY)の収入が減り、link(MISSION_INFLUENCE)の行使が妨げられる。
+
+link(MISSION_REVEL)を行うと、ストレスを感じる時間を減らせる。祝宴はコストとしてlink(YIELD_MONEY)がかかり、時には弊害も起きる。しかし、大抵は上手くいくだろう。
+
+link(MISSION_REVEL)を実行するには？：指導者が選ばれている状態で、画面左下のアクションパネルから該当のミッションを選択してください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_CONVICTION</zType>
+		<ja>手にしたのは儀礼用の剣…だが、切れ味は十分だ。{CHARACTER-1}が、その刃を自身の首に当てる。「本気で私が間違っていると思っているのなら、今すぐ斬り伏せるがいい。本気で{PLAYER-0,1}の玉座を守り抜くというのなら、その度胸を証明してみせよ。」
+
+{G1:彼の:彼女の}声が飛んでくる。「さあさあ皆の者、見届けよ！{CHARACTER-2}には自分の信条に従う勇気もなく、引き下がる知恵もない。では一体、どこにこの国の統治を委ねる理由がある？」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DISLIKE</zType>
+		<ja>鉄のような目の{CHARACTER-POSS-1}。{G1:彼:彼女}が話す間、その目は一瞬たりとも揺れなかった。「軽々しく言うことではないが、{CHARACTER-2}は王位に就かせてはならない。」
+
+「{G2:彼:彼女}の道徳観はジャッカル並みだ。集中力は幼子にも劣る。これは辛辣な言葉ではなく、紛れもない事実なのだ。{PLAYER-0}は{G2:彼:彼女}の遊び場ではない、皆のものだ。私物化を絶対に許すな。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DETAIL_ORIENTED</zType>
+		<ja>厳しい時代、財政悪化…賢明な宰相たちが揃って避ける話題──それでも{CHARACTER-1}は、器用にその問題について切り出した。
+
+「{FAMILY-1}家は、長らく{PLAYER-0}を支える根幹としての役目を果たしてきました。近頃、起きた…難しい問題に対しても、我々は支援を惜しみません。一言いただければ、それで十分です。{FAMILY-1,2}家の資金とこちらの管理者たちが、すぐにでも事態を収束してみせます。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_GRAND_VIZIER</zType>
+		<ja>link(COUNCIL_GRAND_VIZIER)とは、強大な権限をもって都市行政を管理する重要な役職だ。そして確かにlink(TRAIT_RISING_STAR)は、その地位を担うほどの政治力を有している。同様に、link(TRAIT_POWER_HUNGRY)の特性を持つ者であれば、誰でもそうなる可能性は捨てきれない。link(COUNCIL_GRAND_VIZIER)が役職に就いている間は、link(CONCEPT_GOVERNOR,2)のいない都市では自らの手で各都市の生産管理を行うことができなくなる。そして、この地位に就けるような者は、そう簡単に権力を放棄することはないだろう。
+
+一方で、link(COUNCIL_GRAND_VIZIER)は統治者動揺に、管理する都市に対してlink(CONCEPT_RATING,1)と特性に応じた様々な恩恵をもたらす。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_UNTEACHABLE</zType>
+		<ja>“失敗は最良の教師”とは、よく言ったものだ。{CHARACTER-1}はこの教えを体現し、教育過程を一から十まで完璧に終えた。
+
+対立する非難のせいで情報が交錯し、今でも事の真相は分からないままだ。しかし、どの者たちも{CHARACTER-SHORT-POSS-0}の指導時間は無駄だと思っていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_COURT_SCHEMES</zType>
+		<ja>「この日、我々は{PLAYER-0}の{G0:獅子:獅子}にして、皆の人生の支えであった{CHARACTER-0}の死を悼みます。」{CHARACTER-POSS-1}の弔辞は、そこにいた者たちの心を動かす感動的なものであった…次の瞬間までは。
+
+「訃報が飛び交った途端、瞬く間に{G1:彼:彼女}が{CHARACTER-SHORT-POSS-0}の宮廷のあらゆる職務、権限、そして人脈を掌握したこと…まさかお気づきでなかったのですか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEALING_WITH_THE_VIZIER</zType>
+		<ja>王冠はあなたのものです、{CHARACTER-0}。王冠が持つ力とは、また別の問題がある。
+
+{CHARACTER-POSS-1}の治世が終焉を迎えるまで、{PLAYER-POSS-0}の行政業務の大半は、{CHARACTER-2}が担ってきた。{G2:彼:彼女}が、その業務から手を引く気配は全く感じない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANOTHER_ROAD</zType>
+		<ja>日を追うごとに、病床に死の恐怖が近づいてくるような気がする。そして、{CHARACTER-3}もまた、ゆっくりと近寄ってきているようだ。
+
+「{TITLE-2}様、どうかご再考を。{PLAYER-POSS-0}を治めるという大任を、経験のない{CHARACTER-1}に託すのは早計です。私たちを取り巻く環境は危険そのもの。すぐそこまで大きな危機が迫っているとなると、すべて乗り越えるには、堅実で経験豊かな者の腕が何よりも重要となってきます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JOB_SECURITY</zType>
+		<ja>{CHARACTER-POSS-0}の返答は、迅速かつ明白なものであった。
+
+「{CHARACTER-1}に必要な権限を授けなさい。そうしなければ、{PLAYER-0,1}軍がその権力を行使することとなる。これ以上、警告はしない。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FREE_AT_LAST</zType>
+		<ja>{CHARACTER-1}は消え、書状だけがそこに残された。
+
+そこには『約束していた権限付与については、再度拒否された。そのため、{PLAYER-0}に帰還し、{CHARACTER-0}に対して直ちに軍事行動を進言する』といった言葉が記されていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FREE_AT_LAST_TO_LOSE</zType>
+		<ja>{CHARACTER-0}は自信過剰なのだろう。
+
+あるいは{PLAYER-0,1}の力は頂点に達しており、{PLAYER-2}との付き合いはもはやリスク、余計な目移りとしか思えないのかもしれない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_CLIENT_STATE</zType>
+		<ja>{CHARACTER-0}の権力掌握により、波紋が広がっていく。{PLAYER-0}は内政に追われ、外交政策も不安定なものとなった。
+
+現時点で、{PLAYER-0,1}軍から{CHARACTER-2}が即時支援を受けることなど望めない。そこには確かに好機がある。だが、危険も伴うのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_STATUS_QUO</zType>
+		<ja>{PLAYER-0}での{CHARACTER-1}の力は、もはや完全に消え失せた。{PLAYER-1}からの知らせに、宮廷中が息をのむ。告発か。それとも、新たな役職の任命か。
+
+しかし、実際はどちらでもなかった。今や日常的な作業となった、{CHARACTER-POSS-0}の元補佐が取り扱う物流や貿易協定に関する連絡だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR_CLIENT_STATE</zType>
+		<ja>&lt;{PLAYER-0}に宣戦布告しますか？&gt;
+
+宮廷の至る所で囁かれる噂に、「違う」と断言する{CHARACTER-1}。そこには、その首を槍先に飾るぞという脅迫じみた空気が流れていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_TACTICS_ARCHETYPES_RIVAL</zType>
+		<ja>若き日から、切磋琢磨し合ってきた{CHARACTER-1}と{CHARACTER-2}。{CHARACTER-SHORT-1}は年下でありながら、{CHARACTER-SHORT-2}はいつも自分は追い越される側にいると感じていた。
+
+戦術を学び終えて、link(COURTIER_SOLDIER)としての役割を担うようになった{CHARACTER-SHORT-1}。その姿を見た{CHARACTER-SHORT-2}は、自分も勉強を終わらせて、いち早く{CHARACTER-SHORT-1}に追いつこうと固く心に誓ったのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_POLITICS_ARCHETYPES_RIVAL</zType>
+		<ja>若い頃から共に学び、議論を交わしてきた{CHARACTER-1}と{CHARACTER-2}。年齢は{CHARACTER-SHORT-1}の方が下だが、{CHARACTER-SHORT-2}には、自分が常に“追いかけている側”だという感覚があった。
+
+政治学を学び終えて、link(COURTIER_MINISTER)の職に就いた{CHARACTER-SHORT-1}。その姿を見た{CHARACTER-SHORT-2}は、自分も勉強を終わらせて、いち早く{CHARACTER-SHORT-1}に追いつこうと固く心に誓ったのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PHILOSOPHY_ARCHETYPES_RIVAL</zType>
+		<ja>若い頃から共に学び、議論を交わしてきた{CHARACTER-1}と{CHARACTER-2}。年齢は{CHARACTER-SHORT-1}の方が下だが、{CHARACTER-SHORT-2}には、自分が常に“追いかけている側”だという感覚があった。
+
+哲学の勉強を終えて、link(COURTIER_SCIENTIST)の職に就いた{CHARACTER-SHORT-1}。その姿を見た{CHARACTER-SHORT-2}は、自分も勉強を終わらせて、いち早く{CHARACTER-SHORT-1}に追いつこうと固く心に誓ったのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_COMMERCE_ARCHETYPES_RIVAL</zType>
+		<ja>若い頃から共に学び、議論を交わしてきた{CHARACTER-1}と{CHARACTER-2}。年齢は{CHARACTER-SHORT-1}の方が下だが、{CHARACTER-SHORT-2}には、自分が常に“追いかけている側”だという感覚があった。
+
+商業の勉強を終えて、link(COURTIER_MERCHANT)の職に就いた{CHARACTER-SHORT-1}。その姿を見た{CHARACTER-SHORT-2}は、自分も勉強を終わらせて、いち早く{CHARACTER-SHORT-1}に追いつこうと固く心に誓ったのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR_SPOUSE</zType>
+		<ja>&lt;{PLAYER-0}に宣戦布告しますか？&gt;
+
+{CHARACTER-1}が他に道はないか、考え直すよう訴えかけてきた。選択肢は限りなく少ない。それも、頑固なこの者のせいだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_DECLARE_WAR_SPOUSE</zType>
+		<ja>&lt;{TRIBE-0}に宣戦布告しますか？&gt;
+
+{CHARACTER-1}が他に道はないか、考え直すよう訴えかけてきた。選択肢は限りなく少ない。それも、頑固なこの者のせいだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_SPOUSE</zType>
+		<ja>{PLAYER-0}との戦争に苦しむ、{CHARACTER-2}。
+
+{CHARACTER-SHORT-2}には、この争いを終わらせる秘策があった──それは間違いなく、{CHARACTER-0}も受け入れるものである。{CHARACTER-SHORT-2}はその案を実行に移すため、交渉させてほしいとあなたに頼んできた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_TRUCE_SPOUSE</zType>
+		<ja>{TRIBE-0,1}との戦争に苦しむ、{CHARACTER-2}。
+
+{CHARACTER-SHORT-2}には、この争いを終わらせる秘策があった──それは間違いなく、{CHARACTER-0}も受け入れるものである。{CHARACTER-SHORT-2}はその案を実行に移すため、交渉させてほしいとあなたに頼んできた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECADENT_LIFESTYLE</zType>
+		<ja>そういったことには長けていると、あなたは自分で思っていた。あなたの開く高級パーティーを模倣し、そのファッションセンスを真似る貴族たちが後を絶たない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LENDING_A_HAND</zType>
+		<ja>この数ヶ月は、{CHARACTER-1}にとって厳しいものがあった。省庁の巡察もほとんどせず、ダイニングホールに足を運ぶことすら滅多になくなった。
+
+結果的に、そういった活動的な業務は{CHARACTER-0}が引き継ぐことになった。二人の間には、目に見えて良好な関係を築かれている。時が経つに連れて、疲労が重なっていく。そのような状況で{CHARACTER-SHORT-1}は、{CHARACTER-SHORT-0}に対し、自身の全権限を譲り渡すと正式に申し出た。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LET_LOOSE</zType>
+		<ja>{CHARACTER-1}が、不満そうに口を尖らせている。「一度くらい試す価値はあります。きっと見つかるはずですよ、この気分を晴らす方法が。お願いできますか？」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_WATCHFUL_EYE</zType>
+		<ja>劇的な登場だ。{CHARACTER-1}がドアを突き破り、あなたの手からカップを弾き飛ばし、流れるような動きで握った剣を{CHARACTER-POSS-2}の胸に突きつけた。
+
+「どうか、お茶を共にする相手をもっと慎重に選んでください。ここにいる{CHARACTER-SHORT-2}が、毒を盛ろうとしたのですから。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAPPED</zType>
+		<ja>{G1:彼:彼女}が鉱山を訪れていたこと。それ自体は驚くにはあたらない…いつもそうしていたのだから。
+
+そして今、支えが一つ脆くなったことにより、計り知れない量の瓦礫の向こう側に閉じ込められている{CHARACTER-1}。トンネルを補強しなければ、掘削作業を始めることもできないのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAPPED_SAVED</zType>
+		<ja>軋む音がして、轟音が響き、風が一気に吹き抜ける。
+
+トンネルは廃墟と化した。だが、あなたは{CHARACTER-SHORT-1}を抱えて立っていた。額の汗と汚れを拭い取り、集まった人々に向かって話し始める。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAPPED_FAILURE</zType>
+		<ja>軋む音がして、轟音が響き、風が一気に吹き抜ける。
+
+坑道は崩れ去り、{CHARACTER-SHORT-1}もまた姿を消した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PUT_TO_THE_SWORD</zType>
+		<ja>{FAMILY-5}の反乱者たちを制圧する中で、{CHARACTER-3}は期待以上の才能を発揮していた。次々と伏兵に誘い込まれた反乱者たちは一人残らず駆逐され、小競り合いはやがて虐殺へと変貌した。
+
+無慈悲な征服活動、そしてその犠牲には代償が伴う。{CITY-5}は{CHARACTER-SHORT-POSS-3}の厳しい統治下で、日増しに不満を募らせている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_DIVORCE</zType>
+		<ja>{CHARACTER-1}は、{PLAYER-1,1}の王座を継ぐ、栄えある後継者。計り知れない富と権力、可能性を秘めた{G1:男:女}である。
+
+しかし、配偶者の{CHARACTER-0}は離婚を決意した──{G1:彼:彼女}がどれほど耐えがたい人物であったか、想像に難くない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_DIVORCE_WANTON</zType>
+		<ja>{CHARACTER-1}は自身の欲望を抑えることなく、繊細さに欠ける部分もあった。
+
+{CHARACTER-SHORT-1}と{CHARACTER-0}との間の不和は、誰の目にも明らかであった。{G1:夫:妻}の逸脱した行為──その対処を、{CHARACTER-SHORT-0}があなたに頼み込むのは不思議なことではなかった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNDERMINED</zType>
+		<ja>{PLAYER-0,1}前線の進展が実を結び始めると、{CHARACTER-1}は{G1:自らの:自らの}攻城戦の情熱と専門知識を共有するようになった…時が経つにつれ、ますます熱心に。
+
+「あなたは{CITY-0}で本当に良くやっていますよ。嘘ではございません！ですがもう少し、北東城壁の裏手を掘り進めてはいかがでしょうか？」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_POWER_OF_PRAYER</zType>
+		<ja>{PLAYER-1}には直系の後継者がいない。そのためこの状況に、{CHARACTER-3}をはじめとする者たちは鋭く目を光らせていた。
+
+寛大にも{CHARACTER-SHORT-3}は、{CITY-0}の豊饒の女神を奉じる{RELIGION-2}の一派を紹介してくれると申し出ている。神聖なる儀式…効果的かつ感動的。何より、楽しいものであると{G3:彼:彼女}は断言している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_POWER_OF_PRAYER_SPOUSE</zType>
+		<ja>{RELIGION-3,1}への信仰を、これまであまり公に見せなかった{CHARACTER-1}。だが、最近になって{RELIGION-2}の一派と公然と関わるようになった。内密かつ神聖な儀式で知られている{RELIGION-3,1}。
+
+宮廷の噂の種であるだけでなく、{PLAYER-1,1}王家が公然と行う異教の儀式。これは{CHARACTER-4}や{RELIGION-3,1}の層からは支持を得られていない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_RECOGNITION</zType>
+		<ja>公に認知されるようになってから、{CHARACTER-1}はその鋭い洞察力と揺るぎない忠誠心で、幾度も{PLAYER-1}にとって重要な存在であることを示していた。
+
+家督を継ぐ実子がおらず、{PLAYER-1}の後継者が不在の今、宮廷では{CHARACTER-SHORT-1}を正式に王族に迎え入れるべきかという議論が浮上している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_PROWESS</zType>
+		<ja>険しい顔をする{CHARACTER-POSS-1}。「こんなことになるとは思わなかったですね、{CHARACTER-SHORT-0}。ですが、我々は分かっています…今の{PLAYER-0}は、全てが順調というわけではない。他に誰も言う勇気がないというのであれば、私が言いましょう。あなたは自己満足に浸り、年老いて、何よりも弱くなってしまわれた。
+
+{G1:彼:彼女}が剣を高く掲げ、「我が剣に挑め！剣で剣を制し、私が間違っていると証明してみせろ！」と力強く言い放つ。あるいは、その玉座でただ朽ち果てるがいい…{PLAYER-0}と共にな。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_PROWESS_ENDED</zType>
+		<ja>事態は{PLAYER-0}の統治者が一騎打ちで、挑戦者と対峙するということになり…{CITY-0}に集う群衆の間で、様々な憶測が飛び交う。
+
+あなたは決して期待を裏切らない。{CHARACTER-SHORT-1}は見事な技を披露したが、疲れ知らずとも言うべき不屈の防御が{G1:彼:彼女}を疲弊させた。そして一瞬のうちに、あなたの剣が相手の胸を突き、地面を赤く染め上げる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_PROWESS_RISEN</zType>
+		<ja>決闘はあっという間に終わった。残酷で、血塗られた決闘。その最後は{CHARACTER-1}の死で幕を閉じた。
+
+観衆が歓声を上げる。その盛り上がりようはすさまじく、急に開かれた{CHARACTER-2}の戴冠式に至るまで、人々の歓声が止むことはなかった。我らの王よ、万歳！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_EXPERIENCE</zType>
+		<ja>{CHARACTER-POSS-1}の訃報に、{PLAYER-0}全域がしんと静まり返る。厳かな雰囲気の戴冠式。そこに出席する{CHARACTER-0}は、空気がどんよりと重くなっているのを感じていた。
+
+誰かがその大役を引き継がなければならないと、宮廷中の多くの者たちが意識している。あなたの治世が始まるにあたり、{PLAYER-0}の貴族たちから、ある提案がなされた──その内容とは、晩年、安定した手腕を発揮してきた{CHARACTER-2}に、指導と助言を求めるというものである。礼儀をわきまえつつも、どこか強硬的な提案にも感じる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RIPPED_ASUNDER</zType>
+		<ja>{CHARACTER-1}にとって、{CHARACTER-0}は全てだった。{G0:彼:彼女}の死と共に、その一部もまたこの世から消え去った。
+
+突如怒り出したり、どこにいるのか忘れたり、空中に話しかけたりする{CHARACTER-SHORT-POSS-1}。その様子が噂となって、流れている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_OPPORTUNITY</zType>
+		<ja>今、{PLAYER-0}の王座に就いているのは{CHARACTER-0}だ。{G0:彼:彼女}は、誰の目から見ても{CHARACTER-1}の過ちを正そうと躍起になっていた。
+
+そして{CHARACTER-SHORT-POSS-1}の教え子である{CHARACTER-4}こそ、その最たるものと見なしており、それがきっかけで{CHARACTER-SHORT-POSS-4}は{PLAYER-3}に亡命を訴えるようになった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DANGER</zType>
+		<ja>{CHARACTER-0}のもと、数世紀ぶりの団結感を示している{TRIBE-1}。彼らの影響で、{PLAYER-2}の国境地帯にいる人々は不安を募らせている。
+
+議論で二分される宮廷。{CHARACTER-3}は{CHARACTER-SHORT-0}を味方に引き入れるため、外交使節団を送りたいと考えている。その一方で、{CHARACTER-4}は{TRIBE-1}が敬意を払うのは武力だけだと主張している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DANGER_PEACE_FAIL</zType>
+		<ja>{CHARACTER-POSS-2}による{TRIBE-1,1}への外交遠征。その結果を、宮廷中が固唾をのんで待ち望んでいた。
+
+待ちに待った末の答えは、惨たらしいものであった。{CHARACTER-POSS-2}の切り落とされた首が戻ってきたのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DANGER_CONFLICT_SUCCESS</zType>
+		<ja>{CHARACTER-2}とその選び抜いた戦士たちが、{TRIBE-1,1}の土地を荒らし回り、最終的には{CHARACTER-0}{G0:自身:自身}への奇襲を敢行した。
+
+名声に壮大な物語、略奪品を携えて帰還した一団。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DANGER_CONFLICT_FAIL</zType>
+		<ja>{TRIBE-1,1}の地の奥深くまで侵入することができなかった{CHARACTER-2}。{CHARACTER-2}一行は手を尽くしたが、それもことごとく出し抜かれ、奇襲を受けて完膚なきまでに叩きのめされた。
+
+{TRIBE-1,1}の戦士のあとを追い、足を引きずりながら{CITY-3}へと戻る{CHARACTER-2}。{CITY-3}の{G2:男:女}たちは衰弱していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GODS_BLESS</zType>
+		<ja>政治的困難が降りかかってきたあなたに対し、{CHARACTER-2}は同情を示しつつも、悲しいことにかつての影響力はすでに失われたと述べた。
+
+しかし、{G2:彼:彼女}は言う。「私にはなにもできません。ですが、信仰が道を開くことでしょう。神々の祝福を求めるだけでよいのです。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_INITIATVE</zType>
+		<ja>偶然と神の導きが重なり、{CHARACTER-POSS-4}の襲撃部隊は{CITY-3}の守備隊長の息子を含む、逃亡中の{PLAYER-0,1}貴族の一団を捕らえた。
+
+その後、瞬く間に交渉を終える。{CHARACTER-SHORT-4}は{PLAYER-2,1}の斥候に対し、{CITY-3}の門を開けさせることと引き換えに息子の解放を取り付け、ほぼ血を流すことなく都市と城壁の安全を固めた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CLAIMED_LANDS</zType>
+		<ja>宮廷に姿を現した{CHARACTER-2}が、中を闊歩し始める。“皆が知る{TRIBE-1,1}の地"、{CITY-0}を開拓したあなたを糾弾しに来たのだ。
+
+彼の様子を見る限り、手放しで帰るつもりはないようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HIARBAS_RETURNS</zType>
+		<ja>{CITY-0}の領有を宣言した{TRIBE-1,1}の将軍、{CHARACTER-3}が、目に輝きを宿して宮廷に戻ってきた。
+
+「未だ{CITY-0}は、あなたの魔の手に落ちたまま。そして我が心もまた、囚われている。我らが結ばれないのであれば、剣を取るほかない。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEX_OPPIA</zType>
+		<ja>{PLAYER-0,1}との戦争が近づく中、{PLAYER-1,1}の貴族の間で、敵に打ち勝つために贅沢を捨て、全資源を軍事に注ぐべきだという主張が強まっている。
+
+{CHARACTER-2}を含む多くの者たちは、女性の富の所有とその誇示を制限する法案を提案していた。それにより彼らは、経済的利益を享受できるだけでなく、慎ましやかで調和のとれた社会の道徳的基盤となると論じている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OMENS_OF_YOUR_END</zType>
+		<ja>ここのところ、あなたは悪夢に苛まれていた。自分と{PLAYER-1}、さらにはこれまで成し遂げてきた全てのものを滅ぼす者の夢である。
+
+今やその夢は、具体的な形を成すようになった──若き{CHARACTER-0}が、全てを破滅に導くという確信。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GODS_DO_NOT_PLAY_DICE</zType>
+		<ja>「それで…神官と賭けをされたことは？」{CHARACTER-1}が、三杯目のワインを飲みながら尋ねる。「だって彼ら、何かの予兆や、未来を見通す力があるって言われてるじゃないですか？それなのに、どうして骨を転がさないのでしょう？」
+
+しばらくの間、{G1:彼:彼女}は考え込むように自分の飲み物をじっと見つめた。「迷う必要はありませんね！なんたって、あなたは{TITLE-0}の神なんですから！今から誰か見つけて、サイコロを振ってもらいましょう。それで、何が起こるか確かめてみようじゃないですか？」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GODS_WIN_AT_DICE</zType>
+		<ja>「ありがとうございます、閣下。ご厚意、感謝申し上げます。」わずかに笑みを浮かべながら、神官が硬貨や装飾品をジャラジャラと袋に詰め込んでいく。「またいつでもいらしてください。ですが今は、夜明けの祈りの準備をしなければ。」
+
+しばらくして、神殿の階段で向かい合って立つ、あなたと{CHARACTER-1}。肩をすくめた{CHARACTER-1}が、「答えは出ましたね」と言う。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_YOU_WIN_AT_DICE</zType>
+		<ja>あなたは神々に気に入られているのかもしれません。あの女司祭たちは、単なる詐欺師で嘘つきなのかもしれません。{PLAYER-0}の{TITLE-0}をもてなすがために真夜中に起こされることが、予知能力を弱めているのかもしれません。
+
+いずれにせよ、今宵の勝ち金は素敵な夜を締めくくる最高のものとなった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MONISM</zType>
+		<ja>{CITY-2}まで歩いて行こうと考えた場合、中間地点へ達する前に、まず四分の一の地点を通らなければならない。そしてその前に、旅を八分の一ほど終わらせる必要がある。このようにして、考える度に短い距離が必要となる…
+
+結局、あなたは一歩も踏み出すことができないのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_WAR_DRAGS_ON</zType>
+		<ja>{CHARACTER-POSS-2}の軍勢が田園を荒らし回り、略奪を繰り返している。彼らの特徴は、敗北を重ねる度に辺境へと消え去り、以前よりも強力になって現れることだ。
+
+この戦いは、戦場だけで勝つことはできない。{CHARACTER-SHORT-2}が武器を置くか、命を落とすしかないのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_CITY_DIES</zType>
+		<ja>都市は固く閉ざされ、{CHARACTER-0}の気配を一切感じさせない。
+
+そして約束通り、{PLAYER-2,1}の部隊が報復行動に乗り出す。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HE_USURPER_SURRENDERS</zType>
+		<ja>民に裏切られ、あなたの前に連れてこられた{CHARACTER-SHORT-0}。じっと、あなたの目を見据える。{G0:彼:彼女}に何か弁明はあるかと尋ねるも、返ってくるのはしんと響き渡る静けさだけ。
+
+情けを乞うことも、土壇場の交渉もない。ただそこには、冷え切った諦めがあるだけである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_USURPER</zType>
+		<ja>以前なら、{CHARACTER-1}との間で通じ合うことを見つけ、何らかの形で折り合いをつけることもできたかもしれない。
+
+だが、その時はもう過ぎ去った。{G1:彼:彼女}はあなたを玉座から引きずり下ろすか、あるいはその途中で死ぬことすら考えている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DRAW_THEM_OUT</zType>
+		<ja>link(OCCURRENCE_CIVIL_WAR)を何度も経験するうちに、{CHARACTER-POSS-2}の動きを読めるようになってきた。
+
+あなたはここに来て、絶望的な状況に追い込まれつつあった…ここで、ほんの少しでも{CHARACTER-SHORT-2}に隙を見せれば、戦場に駆り出される可能性が高い。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FLATTERING_COURTSHIP</zType>
+		<ja>{PLAYER-1}から、賛辞の言葉が贈られる。その話題は、実に多岐にわたるものであった。{CHARACTER-2}は、あなたが主催したディナーの装飾のセンスから、完璧に整えられた眉に至るまで、あらゆることが詩的に語られている。お世辞、約束、熱い思い…溢れかえるほどの言葉が並べられていたが、その激しさに、かえってあなたは落ち着かなくなってしまう。
+
+対照的に、{CHARACTER-POSS-3}の形式ばった求愛は、どこか安心するほどのものであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROMISED</zType>
+		<ja>ついに、{CHARACTER-1}が何を企んでいたのか、明らかになった。
+
+{CHARACTER-2}が{PLAYER-0,1}の玉座の継承者、{CHARACTER-0}と結婚することで、{FAMILY-1}家の勢力を拡大させる道が築こうとしていたのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXTRAVAGANT_TASTES</zType>
+		<ja>{CHARACTER-POSS-1}のその美しさと高尚な趣味が、{PLAYER-0}で最も魅力のある{G1:独身男性:独身女性}として周りから際立つ存在にさせていた。そんな{CHARACTER-POSS-1}と、王位継承者である{CHARACTER-0}との組み合わせは、ごく自然に思われる。
+
+当然ながら、それは{FAMILY-1,1}が王室の夫婦に対して、最上級の生活を求めているということだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DAUGHTER_OF_CITY</zType>
+		<ja>{CITY-2}、そして{CHARACTER-SHORT-POSS-4}の親たちは、{PLAYER-3}と長い繋がりがある。最終的に鎮圧されるまで、彼らは{CHARACTER-3}の治世においては間違いなく大きな脅威の一つであった。
+
+そして今、{PLAYER-0,1}の宮廷にチャンスが巡ってきた。{PLAYER-3}を逃れてきた{CHARACTER-SHORT-4}が、{CHARACTER-0}との結婚を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIPPED_OFF</zType>
+		<ja>{CHARACTER-1}を追放しようとしたあなたの努力は、期待したほど上手くいかなかったのかもしれない。{G1:彼:彼女}の訃報が伝えられると思っていたその夜、あなたは想定外の事態に見舞われた。{CITY-0}の街角で、武器のぶつかり合う音が響き渡る。戦火二包まれた{PLAYER-0}は内戦状態にあった。
+
+{CHARACTER-SHORT-POSS-1}の命を狙う動きが、単に裏切りの計画を早めただけなのか…あるいは、{G1:彼:彼女}がlink(OCCURRENCE_CIVIL_WAR)を引き起こすように仕向けてしまったのか。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TAKING_CREDIT</zType>
+		<ja>{PLAYER-0,3}の人々が、次々と{CITY-0}へ集まっている。{CITY-0}は都市として栄えていた。富裕層にとって、{CITY-0}に住むことは地位と文化を象徴するものであったが、一方で貧しき者たちは仕事を求めに集まっていた。
+
+自身の都市運営の手腕のおかげで、この地に繁栄がもたらされたと断言する{CHARACTER-2}。それこそ、私の管理が必要となる証拠だと{G2:彼:彼女}は言う。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GROWING_ADMINISTRATION</zType>
+		<ja>{PLAYER-0,1}の都市は日に日に拡大し、新たな入植地は広く知られた世界の果てまで広がっている。
+
+{CHARACTER-POSS-2}が美辞麗句を並べ立てながら、{PLAYER-0,1}の複雑な行政問題に対処するため、自身の才能を活かすよう強く求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MAKING_PROMISES</zType>
+		<ja>{CHARACTER-1}は{PLAYER-0}の貴族たちのあらゆる不平不満を巧みに利用し、沸騰寸前の組織を築き上げていた。
+
+誰もが声高に敗北宣言を求める一方で、裏では新たな{G1:王:女王}の話も密かに囁かれている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THE_TIME_TO_STRIKE</zType>
+		<ja>{CHARACTER-0}が貢物を求めている。従わなければ、{PLAYER-0,1}の軍が農村部を荒らすという。しかし、それはあなたが朝食後にした会話の中でも、とりわけ心配するようなものでもなかった。
+
+{CHARACTER-3}は他の大臣たちに向けて、丁重な姿勢で通告した──この混沌とした時代に{PLAYER-2,1}の軍が{G2:彼:彼女}の指揮下に入らない場合、自ら軍を率いて「統一政府」を築くと。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THE_TIME_TO_STRIKE_DECLARE</zType>
+		<ja>{CHARACTER-0}が{CITY-1}への進軍に向けて軍を結集させている。だが、それは朝食で聞いた話の中でも大した心配事ではなかった。
+
+{CHARACTER-2}は他の大臣たちに向けて、丁重な姿勢で通告した──この混沌とした時代に{PLAYER-2,1}の軍が{G2:彼:彼女}の指揮下に入らない場合、自ら軍を率いて「統一政府」を築くと。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EVENTSTORY_COUNTERINTUITIVE_AMBITION</zType>
+		<ja>{PLAYER-0}は、その名誉に胡坐をかいている。逆境や挑戦なくして、いかに偉業を築けようか。
+
+その眠りを覚まし、{PLAYER-0}の持つ素晴らしさを引き出す唯一の方法──それは本人に相応しい挑戦を与え、立ち上がらせることだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRESSED_AMBITION</zType>
+		<ja>横になっても、部隊の動きや対外情報、国庫の不足など、その日の報道が脳裏にちらつき続ける。未知の場所には、伏兵が待ち構えているものだ。あなたも{PLAYER-0}も…生き残るためには、もっと多くのことを知らなければならない。
+
+いや…本当にそうなのだろうか。すでに聞かされていることが信用できないのなら、そんなことはどうでもいいではないかと、心の中の一番小さなところが囁く。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_OPPORTUNITY</zType>
+		<ja>前線で指揮を執るあなたに、{CHARACTER-SHORT-3}という才ある男が、王宮で指導的役割を担っているとの報せが届く。
+
+{CHARACTER-SHORT-3}は、{PLAYER-0,1}軍の力を磨きつつ、資源を{PLAYER-0,1}の中心地に集中するべきだという持論を展開していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TABLES_TURN</zType>
+		<ja>言葉を間違えたか、裏切り者か。何者かが、計画を{CHARACTER-1}に漏らしたようだ。当然のことながら、あなたはこのことを知っていた…内通者からの情報である。
+
+さあ、今こそ舞台に上がる時だ。互いに相手が知っていることを知っている...この連鎖は、もはや狂気の域に達していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAUGHT_IN_A_BIND</zType>
+		<ja>幸運は勇敢な者を好むと言う。{CHARACTER-1}が賭けに出たのは、そのことを考えていたのかもしれない。彼は自分の持てるすべてを…いや、それ以上のものを差し出した。しかし大胆な振る舞いなど関係なく、運命の女神は{CHARACTER-SHORT-POSS-1}の杯に唾を吐いた。まるで{G1:彼:彼女}の脛を蹴るかのように、冷たいものがある。
+
+あなたに対して、{G1:彼:彼女}が抱える借金は途方もない金額へと膨れ上がっていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_AGAIN</zType>
+		<ja>{PLAYER-2}が{CHARACTER-1}を見放した一方で、{PLAYER-0}は{G1:彼:彼女}の持つ才能に目を向け始めていた。
+
+{CHARACTER-0}からの直接招待されたことで、{CHARACTER-SHORT-1}は無名の状態から一転、{PLAYER-0,1}の政治へと深く関与することになった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNDETERRED</zType>
+		<ja>「暴君」というのは、{CHARACTER-1}があなたを呼ぶ名の中でも、最も控えめなものだ。
+
+だが、その発言以上に、{G1:彼:彼女}があなたに向けて集めた剣の方が鋭い。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARDAISAN_PREACHES</zType>
+		<ja>信じがたいことに、{RELIGION-2}はあっという間に{CITY-0}を占領して見せた。
+
+この改革を先導する{CHARACTER-3}のため、支持者たちが彼と王との謁見を願い出ている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FACE_NORTH</zType>
+		<ja>{PLAYER-0}の人々は、古来よりこの土地の掟を受け継いできた。しかし、それらの知識を網羅的にまとめるのは困難である。それぞれの側面を記録して考えるとは、どういうことか。そのことが、{CHARACTER-2}に{CHARACTER-3}に助言を与えるほどの尊敬と称賛を得ている。
+
+その彼が、link(IMPROVEMENT_GROVE,2)は北向きに設置すべきだと主張している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SENEMUTS_OBELISK</zType>
+		<ja>あなたの治世のもと、{PLAYER-0}には数多くの荘厳な記念碑や広大な建造物が建てられた。これは一介の平民でありながら、独自の名声を築き上げてきた主任建築家、{CHARACTER-SHORT-1}の功績も大きい。
+
+当然、名声には代償も伴う。世間では噂や意味ありげな落書きが溢れており、{CHARACTER-SHORT-1}が記念碑を建てる以上のことを行っているとの流言がまことしやかに語られていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_MERCENARY</zType>
+		<ja>あなたに与えられた名前はそれだけだ──{CHARACTER-2}。{UNIT-0}傭兵部隊の指揮官にまで上り詰めた、彼のことを真に知る者は少ない。そこで語られるのは、子どもを怖がらせる程度の荒唐無稽な話だけであった。
+
+その男が有する評判は、利用価値があるかもしれない。あるいは大惨事となるか…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_APROHAIRETIC</zType>
+		<ja>頭痛という身体的な痛み。そして精神的な痛みに苦しめられる…すると段々、何者かにずっと話しかけられていたことに気付く。目を向けると、{CHARACTER-POSS-2}の家令である{CHARACTER-SHORT-1}が、穏やかで落ち着いた声で話をしている。昨晩、ついつい余計なことを口にしてしまったのだろうか？その話題は…どうも個人的で、決まりが悪い。
+
+「…私がただの奴隷であるように、{G0:王:女王}であるあなたがそうであるように…我々の意志、我々のプロアイレシス以外に、この世界で制御できるものは存在しないのです。我々が苦闘し、抵抗するものはただの幻想に過ぎない。我々にできるのは思考を制御し、それを熟知することだけ。それこそが、無意味で苦痛に満ちた人生を避ける唯一の道なのです。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_OPINION</zType>
+		<ja>{CHARACTER-2}という人物は、これまで宮廷でとりわけ人気のあるわけではなかった。だが、{CHARACTER-1}が支持者となったことで状況は一変した。
+
+今や{CHARACTER-SHORT-2}を取り巻く者たちは{CITY-0}で一大勢力となり、王位継承法の変更を求める声が強まっていた。これが実現すれば、{G2:彼:彼女}の王位への主張がより強固なものとなり、{CHARACTER-SHORT-1}の野望実現にも近づくことだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_DECENTRALIZATION</zType>
+		<ja>このところ{FAMILY-4}家が、首都の過干渉と効率の悪い管理に対し、声高に大きな不満を訴えるようになった。
+
+中でも{CHARACTER-1}の言うことは他の誰よりも大きく、説得力があった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RIPINING</zType>
+		<ja>{CHARACTER-1}は実に多才な{G1:男:女}で、あまり知られていないが、ワイン造りも{G1:彼の:彼女の}才能の一つであった。
+
+それだけではなく、{CITY-0}での{G1:彼:彼女}の熱を入れて取り組んだ計画が実を結び、{G1:彼:彼女}だけでなく、他の者も{PLAYER-0,1}の逸品の評価を高めることに興味を持ち始めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MUTUAL_DISTAIN</zType>
+		<ja>一瞬の鋭い視線の後、話はすぐさま辛辣な非難へと様変わりし、わずか数分で非難と罵詈雑言が飛び交う事態となった。これほど素早く、宮廷で対立関係が広がっていったのは、ある意味で前例がない。
+
+問題は{CHARACTER-SHORT-0}と{CHARACTER-SHORT-1}の距離を適度に保ちつつ、目の前の課題に取り組む難しさにある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CROWNING_THE_UNCROWNED</zType>
+		<ja>終わりが見えないlink(OCCURRENCE_CIVIL_WAR)。このまま永遠に続くような感覚に襲われる。奇襲と反撃、飢えと寒さ、疑念と犠牲が交錯する、終わりなき日々。
+
+それでも、あなたはここに立っている…{PLAYER-0}の{G0:王:女王}として。ただあなたが{CITY-0}に座するからといって、反乱に汲みした者たちが、すぐさま武器を置くわけではない。だが、{PLAYER-0}の大多数は秩序と繁栄が再び取り戻されることを望んでいる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PROVOCATIONS</zType>
+		<ja>{CHARACTER-POSS-1}の表情から察するに、{PLAYER-0,3}が鉄の輸送をただ求めているとは到底思えない…まるで長子を求めるかのようだ。
+
+「{CHARACTER-SHORT-2}は本当に、一時の気まぐれに従うほど{PLAYER-1}が弱いとでも思っているのですか？あまりにも甘すぎる…その顔に唾を吐きかけるくらいのことをして、ようやくといったところですよ。{PLAYER-1,1}の名誉を汚すことにも繋がる。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_PROVOCATIONS</zType>
+		<ja>{TRIBE-0,1}の通訳が言葉に詰まっている。どうやら{CHARACTER-2}は、{CHARACTER-1}の不適切な関係について訴えているらしい。そこには{TRIBE-0}の中の{G3:神官:女神官}、{CHARACTER-3}が関わっている。
+
+戦争屋たちが{CHARACTER-SHORT-1}の帰還を要求する…またしても難解な言葉だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GIVE_AND_TAKE</zType>
+		<ja>{PLAYER-2,1}は{PLAYER-0,1}の作物のために資金提供をしている。その背後で、{CHARACTER-1}が取引を積極的に推し進めていた。
+
+一点張りの主張…これに対し、あなたはじっくりと考え込んだ。{PLAYER-0,1}の政治問題と何らかの絡みがあるのか。業務上の利害関係…それとも、元々の頑固さなのか。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_PLOT_TAKES_SHAPE</zType>
+		<ja>{CHARACTER-SHORT-0}は死んだ。その事実を受け入れるだけでも、一生かかってしまう。葬儀の途中でひっそりと立ち去っていく{CHARACTER-SHORT-1}。しかし、あなたはその動きにほとんど気付けなかった。
+
+目を引いたのは、その後すぐに現れたlink(TRIBE_REBELS,1)の戦士たちである。{CHARACTER-SHORT-4}は連れ去られ、あなたも命からがら生き延びた。どうやら、これは{CHARACTER-SHORT-POSS-1}からの宣戦布告ということらしい。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNEXPECTED_VACANCY</zType>
+		<ja>link(COUNCIL_SPYMASTER,1)という仕事は、決して安全とは言えない。原因不明の死ですら、広い意味で捉えれば、それなりに納得のいく理由が見つかるものだ。同じような運命が、{CHARACTER-0}を待ち受けていた。
+
+しかし、{CHARACTER-SHORT-1}が亡くなる前に、{CHARACTER-SHORT-1}がその職務を効率的かつ順調に引き継いでいた。疑念を抱かざるを得ないものの、非常に有用であることも否定できない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEROES_UPRISING</zType>
+		<ja>{CHARACTER-SHORT-0}とて無為に時間を過ごしていたわけではない。だが、必ずしも命令通りに行動していたわけでもない。
+
+{PLAYER-0,1}にいる{CITY-1}関係者は一流のゲリラ部隊となり、地方総督たちの悩みの種となっていた。それはつまり、情報もあまり報告されなくなっているということだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TAUNTING</zType>
+		<ja>日増しに図々しくなる{CHARACTER-0}の自慢と侮辱。
+
+{PLAYER-1}は弱者と非難され、{PLAYER-POSS-0}の影にも及ばぬ、この地の汚点だと不名誉なことを言われている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LUXURIES_REMOVED</zType>
+		<ja>{FAMILY-0,2}の貴族は{CITY-0}に供給されるlink(CONCEPT_LUXURY)について、ある水準まで慣れきっていた。
+
+最近、起きている不足分の解消問題。その訴えは、今のところ丁寧なものに留まっている。しかし、このまま状況が変わらなければ、態度が一変してもおかしくはない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OVERLY_FAMILIAR</zType>
+		<ja>{CHARACTER-SHORT-0}とその支持者たちは、{PLAYER-0,1}の宮廷において非常に安定した地位を築いている。そんな中、{CHARACTER-SHORT-0}があなたの身長をからかうようになった。それが政治的にも社交的にも、厄介な問題となっている。
+
+「……{PLAYER-3,3}ですら、手の届かないところに？ならば、{G1:王:女王}はもっと遠くに手を伸ばさなければなりませんね。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TO_THE_FRONT</zType>
+		<ja>{CHARACTER-3}は、link(CONCEPT_GENERAL)として熱心にその役割を担っていたが…指揮系統については、それほど重きを置いていない。
+
+{G3:彼:彼女}の動きや前線での活躍に関する報告が続く。特に激戦地での支援が、敵のそれと同程度の驚きを生みだしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACUTE_RISING_IMPATIENCE</zType>
+		<ja>{CHARACTER-SHORT-2}は無遠慮な人物だ。「{CHARACTER-SHORT-3}様、私は怠惰を好みません。{PLAYER-4}を成長させる機会を得たにもかかわらず、今またぼんやりと、無為に時間を過ごす状態へと立ち戻ってしまいました。
+
+私をからかっているのですか？誠意をもって接するつもりがないのであれば、綺麗事で着飾るのはやめていただきたい。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_YOU_BROUGHT_THIS_ON_YOURSELF</zType>
+		<ja>{CHARACTER-1}は敬意を持って、自らの技能を示す機会を申し出たものの、数ヶ月にはその職を取り消されてしまう。その後{G1:彼:彼女}は、この一件が単なる手違いなのかと公然と尋ねてきたが、再び与えられた職を同じように失ってしまった。
+
+それゆえ、{G1:彼:彼女}が統治者という地位の見直しが必要だと考えるようになったのも、自然なことだったのかもしれない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_IMPORTS</zType>
+		<ja>“贅沢”が、安いわけがない。
+
+この状況は、{CITY-1}の商人たちにとっては好機であった。新たな需要が商機を生んでいるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REFORMS_PROGRAM</zType>
+		<ja>{PLAYER-1}はもっと上手くいくはずだと、{CHARACTER-0}は確信していた。{G0:彼:彼女}があなたに断言する。
+
+「ええ、時間がかかります。費用もかかる。確かに抵抗はあるでしょうが、約束しましょう、{PLAYER-1}はその分さらに強くなる。」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSONAL_ENRICHMENT</zType>
+		<ja>“link(COUNCIL_GRAND_VIZIER)”という役職は非常に強大な権力を有している。{CHARACTER-SHORT-0}はその力を巧みに使いこなし、自己の利益のために向けていた。
+
+{PLAYER-1}で何が起きようとも、{CHARACTER-SHORT-0}は常に利益を得る。そして、各官僚や将校も同じように{G0:彼の:彼女の}例に倣う。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NATIONAL_DEFENSE</zType>
+		<ja>内戦が激化する中、{CHARACTER-3}は全方位での防御態勢の確立と、軍の動員を急ぐよう訴えている。
+
+当然、その提案を聞いたとおりに展開すれば、時間も費用も無視できないものになるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECRETS_DONT_DIE</zType>
+		<ja>{CHARACTER-0}は常に二歩先を行き、用意周到な人物であった。あなたも心のどこかでは、死さえも{G0:彼:彼女}を制することはできないと思っていたのだろう。実際に生気のない遺体を目にするまでは、何か巧妙な策略ではないかと信じて疑わなかった。
+
+しかし、{CHARACTER-0}は本当に亡くなっていた。その無表情な目を見ても信じられないのであれば、長らく単なる噂だとされてきた金品と秘密の本がその認識をひっくり返すかもしれない──そして、それらはあなたの手の中にあった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERE_AIR_THESE_WORDS</zType>
+		<ja>詩人として広く知られている彼女も、この部屋の中では自らの声に対して恥ずかしがっているように見える。しかし{CHARACTER-SHORT-0}は、病床に伏していたあなたのもとにそっと寄り添って、歌を歌ってくれた。語られるのは、宮廷で人気の最新曲や自作の詩、そして心打たれる叙事詩。あるいは、ただ黙って座っていることもある。
+
+ようやく病が治りかけたとき、立ち上がろうとするのを彼女が手助けしてくれた。視線が交わった瞬間…そこから、隠しきれない鋭い輝きが感じられた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_WINNING_SMILE</zType>
+		<ja>{CHARACTER-SHORT-POSS-4}が{PLAYER-1}を離れたことで、相当な利益が得られたのは確かだ。一夜にして宮廷での地位を高めた彼。実際に接してみると、その評判に劣らず魅力的な人物であることが分かった。彼の不敵な笑みは普通なら大げさになるであろう話でも、冗談として流行ることもあれば、手に汗握る魅力的な緊張感を帯びるようにもなる。
+
+ある夜、{CITY-0}の近くで短めの旅をしている時、お酒と陽気なお祭り騒ぎが収まり、あなたと{CHARACTER-SHORT-4}の二人きりで焚き火を囲む流れになることがあった。ひとしきり笑ったあと、二人の間に沈黙が流れる。そこで、あの不敵な笑みが自分に向けられていることに気づく。{CHARACTER-SHORT-4}はこちらを試すような目で、反応を伺うかのように、あなたの顔を撫でようとそっと手を伸ばした。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RISING_VIOLENCE</zType>
+		<ja>突然、{CHARACTER-SHORT-2}の死は訪れた。あらゆる証言が示す通り、遺言を残す間もなかったとされる。{CHARACTER-1}はこの件において{G1:彼の:彼女の}関与を隠そうとせず、問い詰められても否定しなかった。
+
+「何かを成し遂げるには、それ相応の覚悟が必要です。」と言い残し、{CHARACTER-SHORT-1}はうなずく間もなく去って行った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CASHING_IN</zType>
+		<ja>{CHARACTER-1}が借金を抱えている可能性もあれば、{G1:彼:彼女}がただ単に自信をつけただけの可能性もある。
+
+それにも関わらず、{G1:彼:彼女}は控えめな様子でいた。沈黙を続けることの代償が明らかとなる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AFLUTTER</zType>
+		<ja>{G1:彼:彼女}の視線は、まるで{G1:神:女神}に裁かれているかのような高揚感と恐怖感を同時に感じさせる。{CHARACTER-1}があなたを見るときのその目は、常に息をのむようなものがあった。
+
+そして今、{G1:彼:彼女}との外交会議が提案された。数日以内に到着するだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_PATH_TO_POWER</zType>
+		<ja>{PLAYER-3}の台頭を許し、自分も{FAMILY-1,1}も傍観者として甘んじるつもりなどないと、{CHARACTER-4}は明言している。
+
+{CITY-3}王宮での影響力を高めたいと考えていた{CHARACTER-SHORT-4}。{CHARACTER-SHORT-4}は、あなたの後継者である{CHARACTER-0}と、新進気鋭の{FAMILY-1,2}家にいる{CHARACTER-2}との結婚を求めていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_THRONE_IS_YOURS</zType>
+		<ja>{PLAYER-0}の{TITLE-0}、{CHARACTER-SHORT-0}がついに姿を現す。
+
+{CITY-0}の民衆に向けて演説するにあたり、{CHARACTER-1}とどのような違いを打ち出すべきだろうか。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOMECOMING_FERVOR</zType>
+		<ja>{CITY-3}へと戻った{CHARACTER-0}は、たちまち注目の的となった。息をのむような{G0:彼の:彼女の}旅や取引の話に、何か月もの間、噂で宮廷中が盛り上がった。
+
+{CHARACTER-SHORT-0}は常に謙虚でありながら、しかし完璧にその役割を果たし、人々の注目を集め続けた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_VIZIER_SUPPORT_OR_SCHEME</zType>
+		<ja>{CITY-2}から{CITY-3}の首長たちは今やあなたではなくlink(COUNCIL_GRAND_VIZIER)から指示を受けて動いている。しかし{CHARACTER-SHORT-0}の能力、そして忠誠はそれに相応しいものだろうか？
+
+あなたはlink(MISSION_SCHEME_AGAINST_RIVAL)を用いてそれらの支配権を取り戻すこともできる。</ja>
+	</Entry>
+</Root>

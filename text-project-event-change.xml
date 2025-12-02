@@ -1,0 +1,18 @@
+<Root>
+	<Entry>
+		<zType>TEXT_PROJECT_MINT_COIN_1</zType>
+		<ja>コイン鋳造I</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINT_COIN_2</zType>
+		<ja>コイン鋳造II</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINT_COIN_3</zType>
+		<ja>コイン鋳造III</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINT_COIN_4</zType>
+		<ja>コイン鋳造IV</ja>
+	</Entry>
+</Root>

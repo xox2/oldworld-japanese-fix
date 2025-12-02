@@ -1,0 +1,6 @@
+<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
+		<ja>{0_character}は死を目前にしていましたが、奇跡的に{1_trait}の状態から回復しました。</ja>
+	</Entry>
+</Root>

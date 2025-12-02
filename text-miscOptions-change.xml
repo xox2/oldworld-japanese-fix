@@ -1,0 +1,10 @@
+<Root>
+	<Entry>
+		<zType>TEXT_MISCOPTION_NEWSLETTER_FAILED</zType>
+		<ja>エラー-メールアドレスを入力して、もう一度お試しください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISCOPTION_USE_SANS_SERIF_DESC</zType>
+		<ja>serifフォントを使用しているテキストのフォントをすべてsans-serifに変更する（要再起動）</ja>
+	</Entry>
+</Root>

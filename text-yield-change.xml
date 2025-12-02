@@ -1,0 +1,18 @@
+<Root>
+	<Entry>
+		<zType>TEXT_YIELD_FOOD_HELP</zType>
+		<ja>{YIELD_FOOD}食料を獲得するには、link(CONCEPT_FRESH_WATER)やlink(TERRAIN_LUSH)な地形の隣にlink(IMPROVEMENT_FARM,2)を建設するのがベストです。また、{YIELD_FOOD}食料は、link(IMPROVEMENT_NETS)やlink(IMPROVEMENT_PASTURE,2)を作成する、link(SPECIALIST_FARMER,2)、link(SPECIALIST_FISHER,2)、link(SPECIALIST_RANCHER,2)の修練度を上げるといった方法でも獲得できます。{YIELD_FOOD}食料は、link(CONCEPT_POPULATION)に食事を与え、新しいlink(UNIT_SETTLER,2)を生み出さすために必要です。{TEXT_YIELD_DEFICIT_HELP}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_IRON_HELP</zType>
+		<ja>{YIELD_IRON}鉄の主な産出源はlink(IMPROVEMENT_MINE,2)です。これはlink(RESOURCE_ORE)やlink(HEIGHT_HILL,2)に建設すると最も産出量が上がります。{YIELD_IRON}鉄は、link(UNIT_WARRIOR,2)など、多数の軍事ユニットの作成に必要です。またlink(UNIT_AXEMAN,2)は、維持するための{YIELD_IRON}鉄もターンごとに必要とします。{TEXT_YIELD_DEFICIT_HELP}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_STONE_HELP</zType>
+		<ja>{YIELD_STONE}石材の主な産出源はlink(IMPROVEMENT_QUARRY,2)です。これはlink(RESOURCE_MARBLE)やlink(TERRAIN_ARID)地域の上、link(HEIGHT_MOUNTAIN,2)の隣に建設すると最も産出量が上がります。{YIELD_STONE}石材は、主にlink(IMPROVEMENTCLASS_SHRINE,2)などのlink(CONCEPT_IMPROVEMENT,2)の建設や、link(PROJECT_WALLS)などのlink(CONCEPT_PROJECT,2)に必要となります。{TEXT_YIELD_DEFICIT_HELP}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_WOOD_HELP</zType>
+		<ja>{YIELD_WOOD}木材は、link(VEGETATION_TREES)を切り倒すか、link(TECH_FORESTRY)の研究完了後にlink(IMPROVEMENT_LUMBERMILL,2)を建設することで収集できます。{YIELD_WOOD}木材は、link(IMPROVEMENT_RANGE,2)などの都市のlink(CONCEPT_IMPROVEMENT,2)、link(UNIT_ARCHER,2)などの軍事ユニット、link(UNIT_BIREME,2)などのlink(UNITTRAIT_SHIP)ユニットの作成に必要となります。これらのユニットは、それぞれを維持するための{YIELD_WOOD}木材も必要です。{TEXT_YIELD_DEFICIT_HELP}</ja>
+	</Entry>
+</Root>

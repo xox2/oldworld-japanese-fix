@@ -1,0 +1,17 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED_WAR</zType>
+		<ja>国外から知らせが舞い込んでくる。臆病な{CHARACTER-1}が{PLAYER-0}の指導者から退いたのだ。どうやら{G1:彼:彼女}は我々とのlink(DIPLOMACY_WAR)の緊張に耐えることができなかったようだ！
+
+{G1:彼:彼女}の代わりに、同じくらい卑劣な後継者である{CHARACTER-SHORT-0}が{PLAYER-0}を統治するために地位をあげた。&lt;p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA&gt;{CHARACTER-SHORT-0}は{CHARACTER-SHORT-1}と{G1:彼:彼女}の家臣が結んだ継承契約に従って{G0:王:女王}に任命された。まもなく{PLAYER-0}全土で、強く主張されている{CHARACTER-SHORT-0}の力と権力を示す碑文の作成が依頼される。
+&lt;p=SUBJECT_PLAYER_BABYLONIA&gt;{G0:彼:彼女}は{CITY-0}の司祭によって聖別され、他の誰よりも優れた{G0:王:女王}に任命された。{CHARACTER-SHORT-0}の守護と敬虔さを謳う怪しい碑文が、{PLAYER-0}の随所に建てられている。
+{PLAYER-0}全土で{CHARACTER-SHORT-0}の保護と敬虔さを示すものの、真偽が定かでない碑文が掲げられる。&lt;p=SUBJECT_PLAYER_CARTHAGE&gt;{G0:彼:彼女}は{CHARACTER-SHORT-1}の跡を継ぐ{G0:王:女王}としての務めを果たすため貴族院により選出され、民と{PLAYER-0}の元老院を率い、{PLAYER-2}との無益な抗争を繰り広げることとなった。
+&lt;p=SUBJECT_PLAYER_EGYPT&gt;{CHARACTER-SHORT-0}はファラオとして初めて登場することとなる伝統的な祝宴を即座に開き、{PLAYER-0}の新しいファラオとしての{G0:彼:彼女}の役割を確かなものとする1年間の一連の儀式と催しの開始とした。我らが栄光の軍勢により、{G0:彼:彼女}の支配が断ち切られんことを！
+&lt;p=SUBJECT_PLAYER_GREECE&gt;{G0:彼:彼女}は{CHARACTER-SHORT-1}の退位後、直ちに貴族と司令官たちによって{G0:王:女王}であると宣言された。王位が約束された{CHARACTER-SHORT-0}は、{PLAYER-0}の人々を率いて{PLAYER-2}と戦う準備ができている。
+&lt;p=SUBJECT_PLAYER_PERSIA&gt;{CHARACTER-SHORT-0}は{CITY-0}の神殿に入り、かつては{CHARACTER-SHORT-1}が着ていたローブに着替えた。イチジクとサワーミルクでの儀式的食事の後、{CHARACTER-SHORT-0}は{PLAYER-0}の{G0:王:女王}という新しい称号を手に入れた。尊敬に値する敵なのか、それとも偉大な親から生まれた出来損ないの{G0:息子:娘}なのか？
+&lt;p=SUBJECT_PLAYER_ROME&gt;{CHARACTER-SHORT-0}は{PLAYER-0}を率いる権限を与えられ、12人のリクトル護衛兵という伝統的な従者を従えることとなった。彼らは、{G0:彼:彼女}が新しい指導者の座につくための道を切り開く。間違いなく、この狂人は前任者と同じくらい残忍になるだろう。
+&lt;p=SUBJECT_PLAYER_HITTITE&gt;{G0:彼:彼女}は{TITLE-0}に任命され、{PLAYER-0,1}の先祖代々の土地に対する{G0:彼の:彼女の}権利を宣言している。嵐の神の子として名高いこの新しい支配者は警戒すべき勢力と言えるだろう。
+&lt;else&gt;{G0:彼:彼女}は、強大な{PLAYER-0}を新時代に導く力を授かった。
+&lt;end&gt;</ja>
+	</Entry>
+</Root>

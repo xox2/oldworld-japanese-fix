@@ -1,0 +1,6 @@
+<Root>
+	<Entry>
+		<zType>TEXT_MISSION_MOVE_NETWORK_TARGET</zType>
+		<ja>link(CONCEPT_AGENT_NETWORK)の移転先:</ja>
+	</Entry>
+</Root>

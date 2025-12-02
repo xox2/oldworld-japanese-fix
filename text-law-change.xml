@@ -1,0 +1,56 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EPICS_EXPLORATION_LAW_STRATNOTES</zType>
+		<ja>link(LAW_EXPLORATION)かlink(LAW_EPICS)はその選択次第で、移動ボーナス（中立な河川での移動速度アップ、斥候の水上移動可能）と、軍ユニットが倒される度に最も近い都市がlink(YIELD_CULTURE,1)を10獲得する。
+
+これらのボーナスは、最初に手に入る「法律」ボーナスのひとつであり、どちらもその時の状況にいくらか左右される。水の多いマップでは「探索」が特に有効であり、狭い空間や攻撃的なゲームでは「エピック」が適している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SLAVERY_FREEDOM_LAW_STRATNOTES</zType>
+		<ja>link(LAW_SLAVERY)とlink(LAW_FREEDOM)の選択は、link(YIELD_IRON)とlink(YIELD_STONE)の収入増を取るか、都市のlink(YIELD_GROWTH)を取るかの二者択一になる。
+
+どちらの法律もゲーム序盤において有益だ。link(IMPROVEMENT_QUARRY,2)またはlink(IMPROVEMENT_MINE,2)が足りない場合はlink(LAW_SLAVERY)が役に立つ。link(LAW_FREEDOM)を選択するとlink(UNIT_SETTLER,2)とlink(UNIT_WORKER,2)をより早く生産できるようになる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLONIES_SERFDOM_LAW_STRATNOTES</zType>
+		<ja>資金でタイルを購入する能力を得るか、都市ごとにターン毎にlink(YIELD_DISCONTENT,1)+1を得るか、さらにはターンごとに5つの追加link(YIELD_ORDERS,1)を得るか。これらはlink(LAW_COLONIES)かlink(LAW_SERFDOM)を選ぶことで決まる。
+
+ゲーム中の大部分で、農奴による追加link(YIELD_ORDERS,1)が有効であるものの、国境を拡大することがより大きな利益をもたらす状況では、植民地を選ばないという選択は悩ましいものになる。長期的に見れば、こういった選択肢の間を切り替えることも一つの折衷案となり得る。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MONOTHEISM_POLYTHEISM_LAW_STRATNOTES</zType>
+		<ja>link(CONCEPT_STATE_RELIGION)都市ごとにlink(YIELD_ORDERS,1)+1を得るか、または全都市で様々なlink(CONCEPT_SHRINE)を建設する能力を得るか。これらはlink(LAW_MONOTHEISM)とlink(LAW_POLYTHEISM)を選ぶことで決まる。
+
+神殿は非常に強力な効果を持っているため、少なくともいくつかは建てておきたい。希望の神殿を建設するため、一定期間「多神教」を採用するのも十分な理由となり得る。ただし、それが終われば「一神教」からの追加命令が非常に重要なものとなる可能性が高い。とはいえ、神殿を建てる余裕がなければ、追加命令を直接出す方が手っ取り早いかもしれない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIVINERULE_LEGALCODE_LAW_STRATNOTES</zType>
+		<ja>link(LAW_DIVINE_RULE)とlink(LAW_LEGAL_CODE)の選択は、link(CONCEPT_PAGAN_RELIGION,2)からのlink(YIELD_ORDERS,1)を取るか、あるいは法律からのlink(YIELD_CIVICS,1)を取るかの二者択一になる。
+
+link(YIELD_CIVICS,1)が不足しているか、link(IMPROVEMENTCLASS_SHRINE,2)をあまり作っていない場合はlink(LAW_LEGAL_CODE)が有益な選択となるだろう。一方でlink(LAW_POLYTHEISM)を制定しlink(CONCEPT_PAGAN_RELIGION)を広めている場合はlink(LAW_DIVINE_RULE)を制定することで大量のlink(YIELD_ORDERS,1)が得られる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PHILOSOPHY_ENGINEERING_LAW_STRATNOTES</zType>
+		<ja>都市専門家の生産を20%高速化し、フォーラム（公開討論の場）を持つ全都市でlink(YIELD_SCIENCE,1)を1得るか、または不思議なコストを25%削減し、川を渡る道路を橋渡しするか。それらはlink(LAW_PHILOSOPHY)かlink(LAW_ENGINEERING)を選ぶことで決まる。
+
+都市専門家の生産速度を高め、科学を強化する「哲学」は、様々なプレイスタイルに適しやすい。一方、橋は国内での移動効率を飛躍的に高めるため、驚異の建造物によるゲーム勝利を目指しているのであれば、「工学」が自然な選択肢となる。「哲学」はターンごとにlink(YIELD_CIVICS,1)を消費する維持費が発生する一方で、「工学」はlink(YIELD_MONEY,1)を消費することも考慮に入れておかなければならない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ICNOGRAPHY_CALLIGRAPHY_LAW_STRATNOTES</zType>
+		<ja>修道院（毎ターンlink(YIELD_TRAINING,1)+2）、大聖堂（毎ターンlink(YIELD_HAPPINESS,1)+2）、寺院（毎ターンlink(YIELD_MONEY,1)+20）のボーナスを獲得するか、あるいは図書館（アカデミーと大学を含む）毎ターン+4、link(YIELD_CULTURE,1)を生み出し、老専門家が毎ターンlink(YIELD_HAPPINESS,1)+1を得るか。それらは、link(LAW_ICONOGRAPHY)とlink(LAW_CALLIGRAPHY)のどちらを選ぶかで決まる。
+
+これらの法律は、これまでの投資によって簡単に選択できることが多い。宗教建築への投資が多い場合、「イコノグラフィー（図像学）」が有益に働くことがある。また、図書館やlink(YIELD_CULTURE,1)に注力している場合は、「カリグラフィ」が大きく国を前進させるだろう。「イコノグラフィー」は毎ターン、維持費をlink(YIELD_MONEY,1)で支払い、「カリグラフィ」はlink(YIELD_CIVICS,1)で支払わなければならない点も頭に入れておくべきだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AUTARKY_TRADELEAGUE_LAW_STRATNOTES</zType>
+		<ja>link(IMPROVEMENT_MINE,2)、link(IMPROVEMENT_QUARRY,2)、link(IMPROVEMENT_LUMBERMILL,2)への20%のブーストと全都市で馬、ラクダ、象を必要とするユニットを建造する能力か、link(EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY,2)のアンロックと同じ価格で資源を売買する能力。これらはlink(LAW_AUTARKY)とlink(LAW_TRADE_LEAGUE)のどちらを選ぶかで決まる。
+
+「奴隷制」と同様に、「自給自足」は生産量+20%、つまり関連する各改修につき、おおよそ+1の生産量に相当する。しかし、「自給自足」の最大の強みは、どこであっても強力なlink(UNIT_CATAPHRACT)を訓練できる能力にある。一方、「貿易同盟」の利点は、自分の帝国がどれだけ自給自足できているかに大きく左右される。取引を多く行うほど、その能力が強力になるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COINDEBASEMENT_MONETARYREFORM_LAW_STRATNOTES</zType>
+		<ja>link(YIELD_ORDERS,1)を売買する能力か、全都市でターンごとに+2 link(YIELD_HAPPINESS,1)を得て、link(CONCEPT_HURRY,1)からのlink(YIELD_DISCONTENT,1)が発生しないか。それらは、link(LAW_COIN_DEBASEMENT)とlink(LAW_MONETARY_REFORM)のどちらを選ぶかによって決まる。
+
+link(YIELD_ORDERS,1)を最大限に活用する「硬貨価値低下」は、二つの法律の中でおそらくより柔軟性がある。しかし、残りの期間でlink(YIELD_DISCONTENT,1)をほぼ完全に排除させるのであれば、「通貨改革」が最終的な解決策となる。「硬貨価値低下」は毎ターンlink(YIELD_MONEY,1)を維持費として支払うが、「通貨改革」ではlink(YIELD_CIVICS,1)を支払う必要がある。その点も考慮に入れておくべきだ。</ja>
+	</Entry>
+</Root>

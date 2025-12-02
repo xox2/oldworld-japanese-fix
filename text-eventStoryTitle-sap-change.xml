@@ -1,0 +1,18 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_SUITOR_TITLE</zType>
+		<ja>{RELIGION-0,1}徒の求婚者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CLERGY_TITLE</zType>
+		<ja>チュートリアル:聖職者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGIOUS_DISSENT_CLERGY_TITLE</zType>
+		<ja>チュートリアル:宗教反対者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EVENTSTORY_TUTORIAL_RELIGIOUS_DISSENT_NO_CLERGY_TITLE</zType>
+		<ja>チュートリアル:宗教反対者</ja>
+	</Entry>
+</Root>

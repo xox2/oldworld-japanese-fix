@@ -1,0 +1,6 @@
+<Root>
+	<Entry>
+		<zType>TEXT_SUBJECT_PLAYER_TRUCE_OR_WAR</zType>
+		<ja>link(DIPLOMACY_TRUCE)かlink(DIPLOMACY_WAR)か</ja>
+	</Entry>
+</Root>

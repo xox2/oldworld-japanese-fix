@@ -1,0 +1,58 @@
+<Root>
+	<Entry>
+		<zType>TEXT_GAME_TEAM</zType>
+		<ja>チーム{0_teamNum}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
+		<ja>{0_subject}：「{1_memory}」の忘却(現在の評価{2_value})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
+		<ja>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
+		<ja>{0_value}国境{singular_0:タイル:タイル}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
+		<ja>{0_value} {singular_0:{1_culture}:{1,2_culture}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
+		<ja>{0_value} {1_rebel}{singular_0:ユニット:ユニット}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_CHARACTER</zType>
+		<ja>「{0_memory}」の忘却(現在の評価{1_value})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_WITH_DELAY</zType>
+		<ja>{LIST}になる(()次の{0_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITH_DELAY</zType>
+		<ja>{LIST}を獲得(次の{0_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_ATTACKED_LOG_DATA</zType>
+		<ja>{0_city}が{1,2_owner}の{2_unit}に攻撃されました。{true_3:({3_discontent}):}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_KILLED_LOG_DATA</zType>
+		<ja>{2_tile}にいる{1,2_owner}の{0_unit}を破壊</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MEMORY</zType>
+		<ja>{1_memory}（{0_player}）：{3_value}に評価+{2_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_DISCIPLINE_GAIN_2</zType>
+		<ja>{0}の生涯において、安息の日々などありません！{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_MENUS</zType>
+		<ja>Old Worldメニュー</ja>
+	</Entry>
+</Root>
