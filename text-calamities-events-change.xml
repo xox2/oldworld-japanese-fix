@@ -1,0 +1,172 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_GENERAL_START</zType>
+		<ja>{PLAYER-1}の全てが{p.is_sub.S0=SUBJECT_DROUGHT:大地を干からびさせた:}{p.is_sub.S0=SUBJECT_PLAGUE:人々を病に感染させた:}{p.is_sub.S0=SUBJECT_HURRICANE:海岸を襲った:}{p.is_sub.S0=SUBJECT_SANDSTORM:砂漠の空を覆い尽くした:}{p.is_sub.S0=SUBJECT_TSUNAMI:沿岸を破壊し尽くした:}{p.is_sub.S0=SUBJECT_FLOOD:川岸に溢れ出した:}{p.is_sub.S0=SUBJECT_EARTHQUAKE:最近、諸都市に破壊をもたらした:}{p.is_sub.S0=SUBJECT_WILDFIRE:森林を灰に変えた:}{p.is_sub.S0=SUBJECT_ERUPTION:空を覆い、火の雨を降り注がせた:}{OCCURRENCE-0}に耐えている。この災厄を乗り切れるかどうかはあなた次第だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_TRUCE</zType>
+		<ja>{OCCURRENCE-0}が発生したため、{PLAYER-1}から一時的なlink(DIPLOMACY_TRUCE)を求める使者が首都へ到着した。{CHARACTER-2}は今はお互い自国の問題に対処することが両国にとって有益と考えているようだ。{p.is_sub.S1=SUBJECT_PLAYER_MAX_LOSING:あなたの軍の高官は{CHARACTER-SHORT-2}はただ{OCCURRENCE-0}を口実として用いているだけで、本当は戦争が{PLAYER-1}にとって不利なだけだと見なしている。:}{p.is_sub.S1=SUBJECT_PLAYER_MIN_STRONGER:国内問題の顧問は、今は{PLAYER-1}の軍に太刀打ちできるだけの戦力もないことだし、{OCCURRENCE-0}を好機として活用すべきだと強く主張している。:}
+
+このlink(DIPLOMACY_TRUCE)の申し入れを受け入れますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_START_VISIONS</zType>
+		<ja>警告は幻視となってあなたにもたらされた、しかしまた別の幻視のせいでそのことをすっかり忘れてしまった…ところがまた新たな幻視があって再びそのことを思い出した！数ヶ月にわたり、あなたは彼らに警告した。
+
+しかし時既に遅し、{OCCURRENCE-0}は現実の脅威となって目の前に現れた。彼らがあなたの予言を信じてさえいれば、あなたの力でそれを回避することもできたものを！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_END_POLYTHEISM</zType>
+		<ja>{OCCURRENCE-0}の後、{PLAYER-1}の日々の生活は元に戻りつつある。
+
+しかし{FAMILY-2,1}は現状に満足していないようだ。彼らはこの{OCCURRENCE-0}が、あなたが推し進めているlink(LAW_POLYTHEISM)に対する{S3.GOD}からの警告であり、もし考えを改めなければさらなる災厄が{PLAYER-1}に降り注ぐだろうと信じているようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_AS_FORSEEN</zType>
+		<ja>{OCCURRENCE-1}とそれがもたらす混乱があなたに悪夢のこだまをもたらしている。
+
+これはあなた個人、または{PLAYER-2}、はたまた世界そのものの終わりを意味しているのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_DO_I_HAVE_THE_GIFT</zType>
+		<ja>{OCCURRENCE-1}とそれがもたらす混乱があなたに悪夢のこだまをもたらしている。
+
+あなたはふと思う…この夢は確かな予言なのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_TINDERBOX</zType>
+		<ja>乾季に次ぐ乾季で{CITY-2}の住民たちの間で不安が広がっている。
+
+一度火花が散ればlink(VEGETATION_TREES)と家はあっという間に炎に取り巻かれてしまうだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_THE_FIRE_RAGES</zType>
+		<ja>{CITY-2}付近の乾燥した森で起きた火事はたちまち大火災へと変わった。
+
+これを全く予期していなかった人々は炎と煙から逃げ惑っている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_ABLAZE</zType>
+		<ja>乾燥した森をしっかり見張っていたにも関わらず、{CITY-2}付近で火災が発生した。
+
+それでも準備をしていたおかげで被害は多少抑えられたことだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_RUMBLES_OF_THE_MOUNTAIN</zType>
+		<ja>地元の部族はその山を"眠れる獣"、大いなる力と恐怖の持ち主と呼び恐れていた。
+
+{CITY-2}の住民の間では古き物語の記憶が呼び起こされ、かつては何の特徴もなかった斜面の地下より恐ろしげな声が聞こえてくると噂している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_UNPREPARED_ERUPTION</zType>
+		<ja>{CITY-2}の眠れる獣が目を覚まし、地元の民の全ては頭上より降り注ぐ炎から逃げ惑った。
+
+多くの死傷者が出て、さらに多くの避難民が家を失った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_HIGH_WATER_FORSEEN</zType>
+		<ja>今回はlink(OCCURRENCE_FLOOD,2)が{CITY-2}に危険をもたらすことは疑いの余地がない。
+
+乱流が川岸よりこの地域一帯に溢れ出し、いくつかの頑丈な建物と排水設備が抵抗してはいるものの、被害がどれほどのものになるかは現時点で予測もつかない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_SHAKEN</zType>
+		<ja>{CITY-2}の大地が揺れている。建物は揺れ、家財は散乱し、祈りの声が上がる。
+
+実害こそなかったものの、人々は今後何が起こるのか恐怖に震えている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_EARTHQUAKE_UNLEASHED</zType>
+		<ja>{CITY-2}の民は神からの警告を無視したのか？怒れる神の行いに、誰も心の準備ができていなかったことは明らかだった。
+
+家は潰え、古代の遺跡はばらばらになり、人々は落石によって押しつぶされた。負傷者、瓦礫によって生き埋めになった人々の数は誰にもわからなかった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_EARTHQUAKE_FORSEEN</zType>
+		<ja>{CITY-2}の地面はかつてなかったほどのない力で長く揺さぶられた。犠牲者の数は計り知れないが、もっとも重要な建物は持ちこたえている。
+
+つい最近行った改修がなければ、被害がずっとひどいものになっていたことは明らかだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_SEASON_OF_STORMS</zType>
+		<ja>{CITY-2}付近の海岸で、小さな漁船から大きな交易船まで、ありとあらゆる船が避難場所を探し求めていた。
+
+このような光景は毎年、嵐の季節のお決まりのものだったが、古くからこの地に住んでいる者たちは誰も見たことがない程の規模の海の怒りが来るだろうと警告している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_HURRICANE_UNLEASHED</zType>
+		<ja>海よりやってくる風、波、そして怒りが{CITY-2}に襲いかかった。迫りくる風は誰も立っていられないほどだ。
+
+まったく準備ができていなかったため、人々は家族、家畜が吹き飛ばされていくのをただ眺めていることしかできない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_HURRICANE_FORSEEN</zType>
+		<ja>風と水が{CITY-2}とそのlink(IMPROVEMENT_HARBOR)に押し寄せた。
+
+費した費用は大きかったが、多くの人々と船を嵐から守り抜くことができた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_ILL_OMENS</zType>
+		<ja>{PLAYER-1}中で奇妙な病気が発生していた。発熱、悪寒、発信、その他様々な症状が現れ、宮廷にいる医師たちの間でそれについての議論が盛んになっている。
+
+しかし今のところこの病気の感染者はそう多くない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_PLAGUE_FORSEEN</zType>
+		<ja>かつては稀で謎めいていた病は今や国内外に色がっている。
+
+幸いなことに宮廷内の学者たちはこの病気の広がりについて研究を重ね、その症状を抑えるための対策を見つけることができていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_WHAT_OF_THE_GODS</zType>
+		<ja>{CHARACTER-2}は懇願する。{PLAYER-3}は神々の教えに背きつつあると。{G2:彼:彼女}曰く若い世代の者たちは祖先の名前、古来よりの風習を忘れ、伝統的なやり方を軽視している。
+
+"神々が我らの祈りを聞き給う時、彼らは我らを災難よりお救いくださり、また敵に対しては大いなる剣となるでしょう。しかしもし我らがそれを怠れば…やがて{CITY-3}は偉大なる国の力の象徴ではなく、傲慢の報いとして滅びた国の記念碑として記憶されることになるでしょう"</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_ANGRY_GODS</zType>
+		<ja>誰も大いなる{OCCURRENCE-0}のことを話している。しかし{CHARACTER-SHORT-2}だけは厳しい決意をもって語った。
+
+"偉大なる{G4:王:女王}よ、私は警告したはずです。神々を欺くことはできないと。あなたも神々が不信心者に下す災いを目撃したでしょう。どうかお願いです、これ以上神々の機嫌を損ねないでください"</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CALAMITIES_ANGRY_GODS_OPTION_1</zType>
+		<ja>お前の方こそ&lt;i&gt;私&lt;/i&gt;の機嫌を損ねようとするな。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_A_FEELING_ON_THE_WIND</zType>
+		<ja>今年の{CITY-2}の乾季は例年より厳しく、風は乾燥した畑の上を吹き渡っている。
+
+地元の民はさらに悪いことがおきるのではないかと危惧している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_TAKING_SHELTER</zType>
+		<ja>砂と風が{CITY-2}に吹付け、呼吸はできなくなり家々は引き裂かれた。
+
+幸いなことに住民たちの多くは備えができていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_A_GREAT_WAVE</zType>
+		<ja>これまで記録にないほど高い波が{CITY-2}へ打ち寄せている。
+
+被害はほとんどなかったが、人々は海岸を不安そうに見つめている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_HUNGER_OF_THE_SEA</zType>
+		<ja>波は想像をはるかに上回る高さになった。船も家も全てがもみくちゃになって惨憺たる有り様だ。
+
+生き残った幸運な人々はその惨状を呆然と見つめていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_THE_WAVE_BREAKS</zType>
+		<ja>海は荒れ、水の壁が海岸に打ち寄せた。
+
+しかし{CITY-2}の住民の多くは高台に逃げることができ、眼下の惨状を見物していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CALAMITIES_NATION_UNDER_FIRE</zType>
+		<ja>{CITY-2}では火山の噴火に加えて大きな混乱も起きていた。
+
+高まる恐慌と不満を前に{CHARACTER-3}は秩序を取り戻すのに大いに手こずっている。これぞまさに{PLAYER-4}が待ち望んでいた、絶好の機会と言えるかもしれない。</ja>
+	</Entry>
+</Root>

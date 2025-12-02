@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_SHORT</zType>
+		<ja>短い(60ターン)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_MEDIUM</zType>
+		<ja>標準(80ターン)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_LONG</zType>
+		<ja>長い(100ターン)</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,8 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTEDITOR_OPTION_NAME_BASES_DESC</zType>
+		<ja>このストーリーのオプションのネームベース。これらは、ストーリーネームベースの後のオプションzTypeに追加されます。
+
+既存のオプションや、同じ属性で名前が定義されないオプションを追加する場合は、ここに空白の項目を追加します。</ja>
+	</Entry>
+</Root>

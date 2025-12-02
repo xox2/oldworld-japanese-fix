@@ -1,0 +1,6 @@
+<Root>
+	<Entry>
+		<zType>TEXT_SAP_HINT_1</zType>
+		<ja>link(TRAIT_CLERGY_ZOROASTRIAN)、link(TRAIT_CLERGY_JEWISH)、link(TRAIT_CLERGY_CHRISTIAN)、link(TRAIT_CLERGY_MANICHAEAN)の特性のうち、キャラクターに対応するlink(CONCEPT_RELIGION)によって、link(CONCEPT_CLERGY)が決まります。</ja>
+	</Entry>
+</Root>

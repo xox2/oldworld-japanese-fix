@@ -1,0 +1,22 @@
+<Root>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_RIGHTEOUS</zType>
+		<ja>旅の途上にあった数週間、link(TRAIT_RIGHTEOUS)な気質の{0_character}は、一歩進むごとに自身の宗教への信心を深めていった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_CORRUPT</zType>
+		<ja>{0_character}はすぐに「新入り」に便宜を図るようになり、link(TRAIT_CORRUPT)した集団があらゆる規則を無視し、互いの地位や利益を求めるのに手を貸すようになった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_CRUEL</zType>
+		<ja>{0_character}は急激に凶暴性を増し、最もlink(TRAIT_CRUEL)な暴力さえも{masculine_0:彼:彼女}の宗教のためなら正当化されると思うようになった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_AFFABLE</zType>
+		<ja>アムンを称える人々と過ごすうちに、あなたは彼らとの繋がりを楽しむようになり、程なくしてlink(TRAIT_AFFABLE)という評判を得た。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_INFLUENCED_BY</zType>
+		<ja>人生の捉え方は違えど、{character_0}はあなたの意見に興味を持ち、それどころかあなたの考えにlink(RELATIONSHIP_INFLUENCED_BY)ようですらある。友情を築く最初の一歩を踏み出したようだ。</ja>
+	</Entry>
+</Root>

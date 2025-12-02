@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>TEXT_CITYNAME_GANZAK</zType>
+		<ja>ガンザク</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITYNAME_KHORRORI</zType>
+		<ja>ホール・ローリ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITYNAME_TARAS</zType>
+		<ja>タラス</ja>
+	</Entry>
+</Root>

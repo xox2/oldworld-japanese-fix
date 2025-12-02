@@ -1,0 +1,159 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HANNO_II_TRIBAL_PAYMENT</zType>
+		<ja>あなたの統治下で、{PLAYER-1}はこの地域の部族から来た傭兵を幅広く使役している。軍備を増強するため、{PLAYER-1,1}の莫大な富を使うのも確かに効果的だろう。だが、傭兵はあくまで傭兵である。彼らを動かすのは忠誠心や公共の義務などではなく、金なのだ。
+
+幸運なことに、あなたには十分なほどの金がある。しかしながら、{TRIBE-2}は金が足りないと頭を悩ませていた。{TRIBE-2,1}の特使が、友好とまではいかなくても、我々の共存を維持するための支払いに応じる意思はあるが、我々と戦う意思は変わらないことを丁重に伝えてきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_ASSYRIA_ASHUR_UBALLIT_I</zType>
+		<ja>あなたはアッシリアの王、アッシュル・ウバリト(&lt;font="Sinacherib SDF"&gt;𒁹𒀭𒀸𒋩𒋾𒆷&lt;/font&gt;)である。その統治の下、アッシリアは他の強大な国々に比肩する大国として、確固たる地位を築くことであろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_BABYLONIA_NEBUCHADNEZZAR_I</zType>
+		<ja>あなたはナブー・クドゥリ・ウツウル(𒁹𒀭𒀝𒃻𒁺𒋀)、別名「ネブカドネザル2世」だ。その名を冠する第一の者であり、{CHARACTER-2}の息子、そしてイシン第2王朝の第4代王「マルドゥク(𒀭𒀫𒌓)」の名の下でバビロンを統治する真の王である。
+ある出来事により、バビロニアは未曾有の大被害を受けた。歴史に残された嘆きの言葉、そこには「主は腹を立て、激怒した。かの者は命を下し、土地の神々はそれを放棄した」とある。
+
+マルドゥクの祝福を受け、バビロニアの敵を打ち倒し、かつてこの世界を主導していた大国としての地位を取り戻す。それが新たな王たる、あなたの役目だ。
+
+あなたのその名が、バビロニアを大いなる栄光へといつまでも駆り立てるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOR_THE_GLORY_OF_BABYLON</zType>
+		<ja>最初の領土征服が運の良さや偶然と見なされたかもしれない。だが、続く成功がそうではないと証明している。あなたに成し遂げられないことなど、何もない。
+
+今こそ、その輝きを世界に示すときだ。この新たなる土地の運命は？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_CARTHAGE_HANNO_II</zType>
+		<ja>あなたは{CHARACTER-1}──巨万の富と高貴な血筋の生まれを持つ者である。征服する準備は整っているが、それが最終目標ではないことを理解していた。征服した土地を利用し、開発しなければならない──帝国とその土地の所有者を豊かにするために。その所有者が自分である場合は尚更だ。
+
+狡猾さと傭兵たちの剣を駆使し、この世界で最高に裕福な支配者となるのだ！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_CARTHAGE_HANNO_NAVIGATOR</zType>
+		<ja>あなたは{CHARACTER-1}、最も優れた名家出身の指導者だ。その探究心に果てはない。あなたの内なる野望──それは国境の向こうにあるもの、その全てを発見することだ。
+
+遥か彼方まで偵察員を送れば、新たなる富の源泉や同盟国を見つけられるかもしれない。だがそれは同時に、対処しなければならない敵も出る可能性があるということだ。仲間を集め、この世界を隅々まで探索する準備を整えよ！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HANNO_NAVIGATOR_UNIQUE_SCOUT</zType>
+		<ja>傑出した名所をいくつか発見したものの、その欲望が満たされたとは言えない。むしろ、探検への情熱がさらに燃え上がった。街の近くで、あなたは驚異とも言うべき自然の凄みを多く目にした。もっと遠くまで行けば、どんな奇跡を見られるのだろうか。
+
+今、{PLAYER-0}に必要なのは、野心と勇気に満ちた探検家たちだ。陸でも海でも旅をして、あらゆるものを見つけ出す、そういう気概に満ちた者たちを探そう。そして、{PLAYER-0}は世界に関する知識において、神々に次ぐ存在となるのだ！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HANNO_II_TRIBAL_CONTACT_WAR</zType>
+		<ja>友好関係でないため、{TRIBE-1}との面会は短時間で終わった。
+
+「そなたの野心はきっちり見ているぞ、{CHARACTER-SHORT-0}。ここは我々の土地だ。{PLAYER-0}は味方ではないことを知れ。{TRIBE-1}はそなたたちより前からここにいたし、いなくなった後でもここにいるぞ」{TRIBE-1,1}からの特使の言葉。これを聞くに、両関係の将来に疑念などない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_HATTI_MURSILI_II</zType>
+		<ja>あなたは{PLAYER-0}の若き王、{CHARACTER-1}である。偉大なる戦士であり、政治家としても名声を博した父、シュッピルリウマがペストで亡くなり、その直後に父の後継者であり、あなたの兄であるアルヌワンダ2世も疫病で倒れてしまう。そして今、多くの敵を抱える国の統治者として、あなたがその役割を担うこととなったのだ。
+
+一部には、あなたのことをlink(TRAIT_INEXPERIENCED)と呼ぶ者もいる。さあ、祖先の遺したものを讃え、自らの価値を証明せよ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HATTI_MURSILI_II_FOUND_CITIES</zType>
+		<ja>あなたの統治下で、{PLAYER-0}はこの世界で一定の地位を確立した。{CITY-1}を発った開拓者たちは新たな都市を建設するため、辺境の地へと勇ましく向かっていった。あなたの能力を疑う者はもう殆どいない。しかし、やるべきことはまだたくさんある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_HATTI_SUPPILULIUMA</zType>
+		<ja>あなたは{CHARACTER-1}──父、{CHARACTER-2}の死後、{PLAYER-0}を率いる準備を整え、父の側についていた者たちと共に衰退しつつある{PLAYER-0,1}帝国を救った。その後、邪魔な兄{CHARACTER-3}に代わって、あなたが国の主導権を握る。それは自然な成り行きであった。
+
+熱心かつlink(TRAIT_AMBITIOUS)なあなたは、{PLAYER-0}のために壮大な計画を数多く練っていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_PLEASED</zType>
+		<ja>{RELIGION-0}にいる信者の間で、あなたはパトロンとして知られるようになった。宗教指導者も一般の信者たちも、同様にあなたのことを高く評価している。親愛と敬意のしるしとして賢者たちはあなたを祝福し、儀式を行わないかと提案してきた。
+
+名誉に預かるならば、どのような形が良いだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_PERSIA_STATEIRA</zType>
+		<ja>あなたは{CHARACTER-SHORT-1}、貴族として生まれ、王族にまで上り詰めた女性である。夫のアルセスは王の地位を支える強力な政治的な同盟を期待して、あなたと結婚した。父から王位継承者として指名された彼は、アルタクセルクセスと名乗るようになる。だが、弟のキュロスは嫉妬深く、夫の死を望んでいる。
+
+名目上、夫は王であるものの、実権を握っていたのは彼の母パリュサティスである。パリュサティスはあなたの兄弟を皆殺しにし、アルタクセルクセスの後釜にもう一人の息子を据えようとしている。邪悪で狡猾な女だ。一方、あなたは女王として非常に愛されており、夫だけでなく、民衆からも高い評価を受けていた。パリュサティスに打ち勝つことができれば、{PLAYER-0}の真の女王となれるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_PARYSATIS_MASABATES</zType>
+		<ja>義母、{CHARACTER-2}の卑劣かつ残虐な行為は止まらない。今回、彼女が選んだターゲットは{CHARACTER-3}の使用人、マサバテス──{CHARACTER-SHORT-2}は、マサバテスの命を賭けたダイスゲームを{CHARACTER-SHORT-3}に提案した。愚かにも、夫はこれを受け──その勝負に負けた。そして今、マサバテスは{CITY-4}で無残にも処刑されようとしている。{CHARACTER-SHORT-2}は{CHARACTER-SHORT-3}は無力だとあざ笑っている。
+
+{CHARACTER-SHORT-2}の影響力は大きい…だが、ここでの王はあなただ。国民からの支持も厚い。さあ、このまま処刑を黙って過ごすのか…？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JUGURTHA</zType>
+		<ja>{TRIBE-1}は、力ずくで王位を奪い取った非嫡出の王族、{CHARACTER-SHORT-2}という手強い相手によって乗っ取られた。{TRIBE-1,1}の王子と正統なる後継者たちが、あなたの助けを求めに{PLAYER-0}へと来た。
+
+初めは緊張を和らげ、土地の所有を主張する者たち同士でその地を分割させようとしたが、やがて{CHARACTER-2}が武力をちらつかせてくるようになった。{TRIBE-1,1}の問題に関わらないか、あるいはかの怒りに触れるかだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RISE_OF_SULLA</zType>
+		<ja>将来有望な若い将校兼政治家である{CHARACTER-1}が、{PLAYER-0}の貴族階級の間で急速に頭角を現している。騎士階級から権力の座に上り詰めたあなたのことを、長年にわたって統治してきたにも関わらず、年老いた元老院議員の一族は未だに腹を立てている。
+
+{PLAYER-0}の指導者の地位を競う者として、彼らが{CHARACTER-SHORT-1}を支持しているのは明らかだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BELLUM_OCTAVIANUM</zType>
+		<ja>カオスが{PLAYER-0}の心を掴んだ。亡命中の{CHARACTER-0}への支援を巡り、{CHARACTER-2}と{CHARACTER-3}で起きた小競り合いが、全面戦争へと発展した。議会での戦いがきっかけとなり、{CHARACTER-SHORT-POSS-0}と同盟関係にあった{CHARACTER-SHORT-3}が都市から追放されたが、{G3:he:she}が{CITY-1}包囲に向けて仲間を集め始めた。
+
+国民は分裂した。力尽くでも、その地位にしがみつくのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_END_OF_AN_ALLIANCE</zType>
+		<ja>不安な同盟関係から始まった{CHARACTER-2}とあなたの関係。だが、互いに協力するなかで、単独ではなし得なかったことをそれぞれ達成することができた。
+
+互いの勢力の間に生まれた亀裂は大きく拡がり、{CHARACTER-SHORT-POSS-2}の地位が低下している一方で、あなたの人気が高まっていることが、その隔たりをより一層深めていた。{CHARACTER-0}の死により、{CHARACTER-2}との絆は断ち切られた。娘さんとの結婚は政治的な結束を固めるためだったが、この時点でまだ{CHARACTER-SHORT-POSS-2}の助けが本当に必要なのかと考え込んでしまう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CROSSING_THE_RUBICON</zType>
+		<ja>{CITY-1}における敵対者たちは、日増しに高まるあなたの人気と、軍の揺るぎない忠誠心に警戒を強めるようになった。インペリウム、ラテン語で「軍事指揮権」を意味するこの権限は、民衆によって授けられたものである。その彼らが今、あなたに対して直ちに軍を解隊し、{CITY-1}に戻ることを要求している。
+
+立ち止まるという選択肢は無い。忠実な指揮官たちが、何があってもあなたの側につくと誓う。都市への進軍準備を整えたあなたは、ローマのルールに反して堂々と反旗を翻し、一生にわたる国の指揮権を握ろうとした。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_IDES_OF_MARCH</zType>
+		<ja>3月15日を警戒せよ！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUSPICIOUS_SINKING</zType>
+		<ja>危険の最初の兆候は、{CHARACTER-SHORT-1}が自由民の一人とともに特別に用意したはしけを使うように命じるときだ。深海に到達するやいなや、船は崩れ始める。
+
+どうやら息子さんは、疑念を抱いて行動を開始することにしたようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BLADE_FALLS</zType>
+		<ja>案外、すぐに死の時は訪れ、形式張らないものだった：召使いの一人が剣を持って、あなたの部屋にやってきたのだ。彼の来訪目的を知っていたあなたは、自らの腹部を切りつけるよう叫びつけた。
+
+終わりは、あっけなく訪れる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NERO_ESCAPES</zType>
+		<ja>{CHARACTER-0}の周りには、常におべっかを使う者や護衛だけでなく、「自身の替え玉」すらいるようだ。
+
+間一髪で攻撃を察知した{CHARACTER-SHORT-0}は、傷一つなく逃げ切ったのであった。公には目立った動きを見せていないものの、次期皇帝となる彼が、こちらの敵対行為について、既に知っているのではないかとあなたは懸念していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_KEEP_HELPTEXT</zType>
+		<ja>バルディア/ガウマタは王宮ではあなたに仕えるが…本人はそれをよしとしているわけではない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HEIR_TO_WAR_OPTION_TRUCE</zType>
+		<ja>いや、今こそ戦争を終わらせる時だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_SCIPIO_CARTHAGE</zType>
+		<ja>斥候が、新たに接触した国の情報を持ってきた：{PLAYER-0}国からの口伝えによると、帝国は高度に洗練された文化を持つ国であり、それに相応しい軍事力を有しているという。寒気がする。ローマはあなたの統治下でその領域を広げてきたが、今回はこれまで経験してきたどの戦いとも異なると感じさせるものがある。
+
+ローマの人々は、{PLAYER-0}が我らの勢力拡大を妨げるのではないかと警戒している。最終的な決定はあなたが下すのだ。この好敵手とも呼ぶべき国にどう対処するのか。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BELLUM_OCTAVIANUM_OPTION_1</zType>
+		<ja>この街が暴力に侵されてはならない。{CHARACTER-0}の亡命からの帰還を許す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_END_OF_AN_ALLIANCE_OPTION_0</zType>
+		<ja>彼の支持を維持するためならば、どんなことでもしなければ。</ja>
+	</Entry>
+</Root>

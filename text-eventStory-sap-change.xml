@@ -1,0 +1,1046 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_SACRED_AND_THE_PROFANE</zType>
+		<ja>{PLAYER-0}の神々は一心に見守っている。宗教はまだ信仰を問う段階ではなく、日常生活のなかの一行為であり、神の怒りによる大災害を避けるための一連の儀式に過ぎない。
+
+だが今は変化の時。神性ですら不変ではない。新たな神々と英雄が社会的、そして神秘的なlink(CONCEPT_LOCAL_CULT)に信者を惹きつけ、世界宗教が出現しては広がっていく。一般大衆の間でも、宮廷に暮らす王族たちの間でも、法的、神学的基盤を確立しようという動きが広がっている。新たな指導者であるlink(CONCEPT_CLERGY)は信心を導き、その敬虔な熱意は、鎮めるものがなければ、link(CONCEPT_RELIGIOUS_DISSENT)として街に波及するだろう。
+
+このような儀式や宗教を導入する際は、慎重に選ぼう。国家の信念によって、それらが台頭し、あるいは衰退する可能性がある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONVERT_FOR_THE_GODS</zType>
+		<ja>{CHARACTER-0}は、あなたが{RELIGION-3}に従うことは間違っているという{G0:彼:彼女}の信念を共有することにためらいはない。無遠慮な異教徒は、{RELIGION-2}は{PLAYER-1,3}の真の宗教であり、神々はまさしく我々の土地と文化に結びついていると主張している。
+
+ある日、{CHARACTER-SHORT-0}から、異教のしきたりを教えたいのでその古い寺院で会おう、と誘われる。{S2.PAGANGOD}の像の無機質な目が、あなたが答えを出すところを見つめている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_EVANGELICAL</zType>
+		<ja>{RELIGION-2,3}はとりわけ福音主義的な集団であり、彼らの神の言葉を広めることを宗教の中核としている。宮廷内では{CHARACTER-0}が先頭となって、集まった貴族たちの前で定期的に演説を行い、彼らがイエスと呼ぶ人物の物語を伝えている。
+
+あまりの説教の熱気からか、その時間を政務問題に割くことができたのではないか、と一族から不満の声が上り始めている。しかし、{RELIGION-2,1}の神から与えられる、この永遠なる赦しの約束にはなんだか魅力がある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_WAY_OF_MANI</zType>
+		<ja>あなた自身の{RELIGION-3,1}の信仰心とは対照的に{CHARACTER-0}は{RELIGION-2}の信奉者である。ある晩、あなたは{G0:彼:彼女}が祈りの儀式の前に、水で身を清めているところに出くわす。
+
+その視線に気づいた{CHARACTER-SHORT-0}はあなたを手招きする。「一緒にどうですか？マニのしきたりは悩める魂に安らぎを与えてくれます」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TEMPTING_FAITH</zType>
+		<ja>{p.is_sub.S1=SUBJECT_HIGH_CHARISMA:魅力と知恵に富んだ:驚くほどの魅力のなさにも関わらず}、{CHARACTER-SHORT-1}は、{RELIGION-2}&lt;p.is_sub.S1=SUBJECT_ZOROASTRIANISM&gt;の生贄の儀式&lt;p=SUBJECT_CHRISTIANITY&gt;により約束された救済への道&lt;p=SUBJECT_JUDAISM&gt;の聖典と祈祷&lt;p=SUBJECT_MANICHAEISM&gt;により命じられた人間への聖なる啓示&lt;else&gt;のパンテオンを構成する幾多の神々&lt;end&gt;についてあなたに伝えるために、執拗に謁見を求めている。
+
+{CHARACTER-SHORT-1}の信仰が自身に与える目的と原動力を鑑みれば、あなたは、神を信じないという自分のやり方に疑問を抱くだろう。{PLAYER-2}の{TITLE-0}は信仰に目覚めるだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VOICE_OF_THE_DIVINE</zType>
+		<ja>{RELIGION-2,1}の聖職者の一員である{CHARACTER-SHORT-0}は、神を信じないあなたたちを導くことが{S2.PRIEST}としての{G0:彼:彼女}の役割の一つだと考えている。
+
+&lt;p.is_sub.S0=SUBJECT_PIOUS&gt;敬虔で真面目な宣教師である&lt;p=SUBJECT_RIGHTEOUS&gt;刺激的であると同時に鬱陶しい尊大な態度に染まっている&lt;p=SUBJECT_SUPERSTITIOUS&gt;様々な宗教的お守りやタリスマンを神経質に触りながら&lt;p=SUBJECT_HIGH_CHARISMA&gt;優しい笑顔でたやすくあなたを魅了しながら&lt;else&gt;宗教問題を話す意欲が尽きない&lt;end&gt;{G0:彼:彼女}は、事あるごとに&lt;p.is_sub.S0=SUBJECT_ZOROASTRIANISM&gt;ゾロアスター&lt;p=SUBJECT_CHRISTIANITY&gt;イエス&lt;p=SUBJECT_JUDAISM&gt;モーゼ&lt;p=SUBJECT_MANICHAEISM&gt;マニ&lt;else&gt;神々&lt;end&gt;の教えを授けようと努力している。
+
+このような宗教的進歩に、あなたはどう対応しようか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRANSLATING_TOGETHER</zType>
+		<ja>{PLAYER-0}の法律にlink(LAW_TOLERANCE)が含まれていると、神学の違いに関わらず様々な宗教同士が協力し、しばしば全く予期しない方法で一体となることがある。
+
+{CITY-0}では、{RELIGION-1}の{S1.PRIEST,2}と{RELIGION-2}の{S2.PRIEST,2}が、それぞれの宗教の帰依者によって受け継がれてきた古文書を共同で翻訳している。これは両者の協力がなければ、成し得ない偉業であった。そこで感謝の証として、新たに解読された文書の写しが宮廷に持ち込まれた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ABLANAQANALBA</zType>
+		<ja>{CHARACTER-SHORT-0}の悔しそうな叫び声が廊下に響く。その場しのぎで学者が工房に仕立てた部屋に入ると、王であるあなたの頭から髪の毛一本分ほどしか離れていない壁面に水晶の球が叩きつけられる。
+
+「我が{TITLE-1}よ！まさかここに人がいるだなんて！」と{G0:彼:彼女}は叫ぶ。{CHARACTER-SHORT-0}は何度も謝罪した後、クリスタルの地球儀に回文の呪文「アブラナラブア」という古い言葉を刻もうとしていたと説明する。球を拾い調べてみると、何が間違っているかが明らかになる。単語の最後に余計な文字が入っているのだ。
+
+{CHARACTER-SHORT-0}はこの失敗で{G0:彼:彼女}に何らかの呪いがかかったと確信しているようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_CADAVER_SYNOD</zType>
+		<ja>{RELIGION-0,1}のlink(MISSION_HIGH_SYNOD)は予期せぬ方向に進んでいる。{S0.PRIEST,2}の皆が集う。{CHARACTER-1}が{CHARACTER-2}の掘り出された遺体を持ち出し、反逆罪と偽証罪で{G2:総大司教:女総大司教}を裁判にかける。
+
+評議会の議員たちは有罪を確信しているようだが、ただ1人の反対者が、&lt;p.is_sub.S0=SUBJECT_ZOROASTRIANISM&gt;のアフラ・マズダの炎、&lt;p=SUBJECT_CHRISTIANITY&gt;のキリストの死、&lt;p=SUBJECT_JUDAISM&gt;のトーラーの戒律、&lt;p=SUBJECT_MANICHAEISM&gt;のマニの叡智&lt;else&gt;、信者の祈り&lt;end&gt;をとおしてlink(THEOLOGY_REDEMPTION)の力を示すためにこの事例を利用すべきだと提案する。
+
+孤立した{S0.PRIEST}あなたに介入するよう求めている。赦しを与えるべきか、それとも死者から称号を剥奪するべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_SCHISM_OF_MARRIAGE</zType>
+		<ja>{TITLE-1}のままでいると決めたあなたの配偶者、{CHARACTER-SHORT-1}は、{CHARACTER-3}の力を借りて、あなたとの離婚を阻止しようとしている。
+
+{RELIGION-2,1}の{TITLE-3}は、{S2.PRIEST,2}を束ね、あなたが現在の一連の行動をやめることに同意しない限り信者の間に不満を広げる、と脅している。
+
+宗教的な介入でこの結婚を維持できるのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_DREAM_FROM_THE_GODS</zType>
+		<ja>{CHARACTER-1}は、来る日も{CHARACTER-0}に{PLAYER-0,1}の神々のしきたりについて教えている。神々の名前やそれぞれの神を鎮める儀式などを学習していたが、{CHARACTER-SHORT-0}の頭の中は他の事で一杯だった。
+
+しかし、神々が活動するのは日中だけではない。熱心な信徒は、毎晩、炎をまとった神々しい存在が{G0:彼:彼女}を訪れてきていることをあなたに打ち明ける。この謎の存在は一体誰なのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BLESSED_BY_FIRE</zType>
+		<ja>{CHARACTER-0}に{RELIGION-2}のしきたりを教えながら、{CHARACTER-1}は{p.is_sub.S0=SUBJECT_ADULT_UNDER_30:若い:}{G0:男:女}の決意と決断に感銘を受けている。
+
+{CHARACTER-SHORT-0}はその教えを{G0:彼:彼女}の心に刻み、アフラ・マズダに{G0:彼自身:彼女自身}を捧げようとする気持ちに駆られている。あなたは、新しい信徒がこの新しい道を探索していくことをどの程度促しますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAWS_OF_OUR_GOD</zType>
+		<ja>改宗したばかりの{CHARACTER-0}は、{CHARACTER-1}から{RELIGION-2}の慣習を学びながら、宗教に関する書物を読むことに情熱を燃やすようになる。現在、{G0:彼:彼女}は、さまざまな学者の難解な解釈を取り上げ、それを{S0.LANGUAGE}に翻訳することにほとんどの時間を費やしている。
+
+熱心な学習者があなたに近づいてきて、この新しい天職を追求するための援助を求めてきている。援助をしようか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BAPTIZED_BEFORE_GOD</zType>
+		<ja>{CHARACTER-0}は神の言葉を受け入れ、{RELIGION-2,1}の宗派に入るための洗礼を受ける準備ができている。{G0:彼:彼女}の再誕に立ち会うため、川のほとりには氏族や宮廷の人々が集まっている。
+
+しかし、最後にもう一段階必要だ。新しい信徒が、どうかあなたが{G0:彼:彼女}に洗礼を施してはくれないかと尋ねてきた。通常、これは{CHARACTER-SHORT-1}の役割である。{TITLE-1}はこんな軽率な行いに納得しないだろうが、{CHARACTER-SHORT-0}との距離は縮まるだろう。川まで降りようか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_GIFTED_OF_MANI</zType>
+		<ja>{CHARACTER-1}は改宗者に対し、肉体世界と精神世界の関係についての理解を深めるため、祈り、瞑想、断食などの厳しいスケジュールに則った生活を強いており、{CHARACTER-0}の修行は過酷を極めている。しかし、{CHARACTER-SHORT-0}は新しい生活を嫌がる様子もなく、むしろそれを受け入れ、行者のような哲学者や聖人の生涯を研究している。
+
+{S2.PRIEST,2}は{CHARACTER-SHORT-0}の成長と献身に感銘を受けているが、宮廷の中には{G0:彼:彼女}の影響を心配する者もおり、彼らはあなたに仲介を依頼している。この物質的な拒絶を促そうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_HELP_OF_ANOTHER</zType>
+		<ja>{RELIGION-2,1}の様々な慣習を研究する中、{CHARACTER-0}は、{CHARACTER-1}から派遣された{S2.PRIEST,2}の一団の助けを借りた。{CHARACTER-SHORT-0}は、特にその中の1人が、沢山の細かい箇所について手助けしてくれ、形式張ったものから宗教的問題に至るまで、素晴らしい理解力を誇っている、と言っている。
+
+この才能ある{S2.PRIEST}を手放すよう、{CHARACTER-1}を説得することが出来るかもしれない…報酬と引き換えにはなるが。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNEXPECTED_REVELATION</zType>
+		<ja>{CHARACTER-1}はかろうじて興奮を抑え、あなたの謁見の間へ駆け込んできた。半狂乱の{TITLE-1}が、改宗したばかりの{CHARACTER-0}が都に戻る途中に{S2.GOD}の啓示を受けた、としどろもどろに説明しながら、右往左往している。
+
+この{THEOLOGY-3}の概念に含まれる意味は、まさしく{RELIGION-2}の知力を言い表すものである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FREE_OF_SIN</zType>
+		<ja>{CHARACTER-0}と{CHARACTER-1}が広間に踏み込んでくる。「我が{TITLE-3}よ、王冠と{S2.GOD}の忠実なる下僕である{CHARACTER-SHORT-0}が貴方様の元へと戻ります」と重々しく言った。
+
+多くの者が、あなたの臣下の気質はどこか他と違っているようだ、と話すなど、宮廷の声は賛同的である。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FORGOTTEN_PROPHET_1</zType>
+		<ja>様々な学者に相談しても、宮殿の図書館を探しても徒労に終わる。そんな預言者など存在しないと言わんばかりだ。
+
+それから何週間もしないうちに、偶然訪問中の商人が売りに出していた珍しい掘り出し物に出会った。それは廃墟となった寺院から出土した石板で、あなたが研究の中で出逢ったものと同じ物語が描かれている。絵の周りには、古めかしい{S1.LANGUAGE}の文字が書かれている。
+
+商人に更に詰め寄ると、{random_R1:彼:彼女}は、英雄は{CHARACTER-1}の末裔であり{RELIGION-3,2}の預言者ではなく{RELIGION-2,4}の預言者であるという解釈であるものの、これは{PLAYER-1}ではよく知られた物語だと教えてくれた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FORGOTTEN_PROPHET_2_1</zType>
+		<ja>{p.is_sub.S1=SUBJECT_PLAYER_WAR:戦火の中、あ:あ}なたが発見した内容を宮廷へと伝える伝令が{CITY-1}の宮殿になんとか辿り着く。謁見は成せず、{p.is_sub.S1=SUBJECT_PLAYER_MIN_PLEASED:普段は親切な:}{PLAYER-1,3}は{TITLE-1}の前で伝令を敵として扱い、彼に立ち去るよう簡潔に言い放つ。
+
+しかし、伝令が街を離れようとした時、別の人物に声をかけられる。不満を抱える大臣であるその人物から事の顛末を聞かされる。{CHARACTER-SHORT-1}の祖先は預言者だったが、国が{RELIGION-2}を採用した後、彼らの王室は彼らの祖先が{RELIGION-3,1}を信仰していたという記録をすべて破棄することに全力を注いだ、ということのようだ。
+
+廷臣は、{PLAYER-0}の宮廷に入れてくれるなら、その預言者が住んでいた洞窟の場所を教えると申し出てくる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TO_TAKE_THE_CLOTH</zType>
+		<ja>{CHARACTER-1}は{CHARACTER-0}の面倒を見ており、熱心な弟子に{RELIGION-2,1}の信仰を醸成する儀式や儀礼について教えている。
+
+{CHARACTER-SHORT-1}は{CHARACTER-SHORT-0}の類まれなる学習能力に感心し、{G0:彼:彼女}を{S1.PRIEST,1}として鍛えるため、さらに一緒に時間を過ごしたいと言っている。新しい{S1.PRIEST}は、廷臣としてあなたの宮廷に留まりながら、{CHARACTER-1}にも仕えることとなる。
+
+{CHARACTER-SHORT-0}は聖職者の一員となることが許可されるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BISHOP</zType>
+		<ja>{RELIGION-0,1}の長老たちは、若い宗教の熱心な信者であり、地域の人々がキリストの道に従うように導いている。貧しい人々、傷ついた人々が互いに助け合えるようにと{CITY-1}で活動を続けている、才能とカリスマ性にあふれた指導者がいるという知らせがあなたに届く。
+
+あなたの助言者は、{CHARACTER-2}を宮廷に招き入れるよう申し出るべきであり、そうすれば{G2:彼:彼女}はより多くの者の助けとなる、と提案した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_ELECT</zType>
+		<ja>{CITY-1}市民は{RELIGION-0,1}の選良民をあなたの宮廷に遣わせ、街に新しい寺院を建てて欲しいと請願している。面会の最中、簡素な格好をした信徒が、あなたの{TITLE-3}という地位にも関わらず、あまりに正直かつはっきりと物を申すので、あなたはあっけにとられてしまう。
+
+臆することなく自分の意見を言える人材がいれば、宮廷でも間違いなく役に立つはずだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FINAL_CONFESSION</zType>
+		<ja>あなたがベッドで{p.is_sub.S0=SUBJECT_SEVERELY_ILL:発熱と体の震え:}{p.is_sub.S0=SUBJECT_SEVERELY_WOUNDED:傷口から広がり始めた感染症:}{p.is_sub.S0=SUBJECT_POISONED:体中に回ってしまった毒:}に苦しんでいると、氏族、回復を願う人、政府要人などの重苦しい雰囲気の一団があなたを見舞いにくる。最後の1人は{S1.PRIEST,1}で、他の者が出ていった後も部屋に残っていた。
+
+彼は、あなたが{S1.GOD}の目にlink(THEOLOGY_REDEMPTION)を求めるため、過去の罪を打ち明けることを望むか、と優しく尋ねる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_PLOT</zType>
+		<ja>{S1.PRIEST,1}が行方不明になったことを心配して、{RELIGION-1,1}の指導者たちから声をかけられた事が最初の危険信号であった。
+
+やがてあなたは、{CHARACTER-0}が亡くなる前に様々な罪について自白したという噂を{CHARACTER-3}が流し始めたと耳にする。そのような主張は、あなたの権威を失墜させ、王朝の評判を落とそうとするものだ。
+
+この恥知らずな相手をどう対処しようか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FINAL_INHERITANCE</zType>
+		<ja>あなたがベッドに寝たきりになっている間、浮かない様子の継承者の{CHARACTER-3}は、あなたの周りで行われている、幾度もの祈祷、回復祈願、早すぎる哀悼などに全く興味を示さずに側にいる。
+
+{CHARACTER-2}はあなただけに聞こえるように身を乗り出して囁いた。「{p.is_sub.S0=SUBJECT_CHARACTER_MAX_CAUTIOUS:私の心配とは裏腹に、:}{RELIGION-1}の信者はあなたを十分に信頼しています。もしあなたが継承の件について変更を望めば、{S1.PRIEST,2}はあなたが選んだ後継者も{S1.GOD}に選ばれし者である、と皆が信じるように仕向ける用意があります」
+
+このような行動は{CHARACTER-SHORT-3}の怒りを買うだろうが、あなたの王朝の正統性を疑われずに済むチャンスは滅多にない。{CHARACTER-SHORT-3}は後継者のままにしておこうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FINAL_REMEMBRANCE</zType>
+		<ja>{CHARACTER-0}の葬儀の行列は、首都まで続いており、哀悼者は深く悲しみ打ちひしがれている。あなたは、逝去した信者の生涯を自分たちの年代記に記したいという{RELIGION-1,1}の指導者たちの代表団から相談を受ける。
+
+{CHARACTER-SHORT-0}はどのように記憶されるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_NEWFOUND_FAITH_SAME</zType>
+		<ja>{p.is_sub.S0=SUBJECT_HEIR_US:あなたの継承者である:}{CHARACTER-0}からの伝言により事態は変化を見せ、研究の実際的な問題より、むしろ{RELIGION-2,1}の神学的な鍛錬が多く論じられた。
+
+アカデミーの指導員の一人である{S2.PRIEST}が、新たに見いだされた神の重要性について広めようとしているようだ。あなたは、{CHARACTER-SHORT-0}があなたのように{RELIGION-2}の信奉者になるところを見て心地良い誇らしさを感じている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_NEWFOUND_FAITH_DIFF</zType>
+		<ja>{p.is_sub.S0=SUBJECT_HEIR_US:あなたの継承者である:}{CHARACTER-0}からの伝言により事態は変化を見せ、研究の実際的な問題より、むしろ神学的な鍛錬が多く論じられた。
+
+アカデミーの指導員の1人である{S2.PRIEST,2}が、新たに見いだされた神の重要性について広めようとしているようだ。しかし今、その若い{G0:男:女}はあなたが信仰する{RELIGION-3}に従うのではなく、{RELIGION-2,1}に改宗している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_ON_TRIAL</zType>
+		<ja>{RELIGION-0,1}のlink(MISSION_HIGH_SYNOD)が、あなたに彼らの集会で演説するように求めてきた。最初こそ敬意を表しての訪問だと思われたが、{RELIGION-0,1}の指導者たちは、宗教的信条から少しでも外れたあなたの一挙一動に疑問を問いかけ、むしろあなたに対する裁判のようであった。
+
+あなたの不品行の数々を読み上げた後、彼らは気まずい沈黙の中で、あなたの返答を待っている。この新興宗教団体にどう対処するべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEMANDS_OF_THE_SYNOD</zType>
+		<ja>{RELIGION-0}の指導者たちが、神学と国家に関する問題について議論のため、高等評議会に集まっている。あなたの統治への評価は概ね良好のようだが、{S0.PRIEST,2}たちは、{S0.GOD}にしかるべき敬意を払えるよう、より多くの礼拝所が必要との判断を下した。
+
+{RELIGION-0}のために、新しい礼拝所を増やすことを約束すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_TEMPTATION_OF_MARRIAGE</zType>
+		<ja>あなたが行った結婚の提案については理解を示してくれたが、{CHARACTER-0}には一つ条件があるようだ。信心深い廷臣である{G0:彼:彼女}は、自身が信仰する{RELIGION-2}へ改宗するよう、あなたに求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RAISED_IN_RELIGION</zType>
+		<ja>{CHARACTER-SHORT-0}が歳を重ねるにつれて、{G0:彼:彼女}の宗教的な教育方針への疑問が噴出してきた。国教である{RELIGION-2}に従って{G0:彼:彼女}を育てるべきか、はたまた、あなた自身が信仰する{RELIGION-3,1}の信条にもとづいて育てるべきなのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MANI_IN_EXILE</zType>
+		<ja>もはや{CHARACTER-2}の宮廷は、{CHARACTER-2}を歓迎していない。彼らの{RELIGION-5,1}の指導者である{CHARACTER-4}は、{RELIGION-0,3}に対して厳しい迫害を行って国外追放し、その信仰を否定しているのだ。
+
+{PLAYER-4}のもとを追放された{CHARACTER-SHORT-2}は、{p.is_sub.S2=SUBJECT_CHARACTER_MAX_UPSET:あなたとの関係に不安を感じながらも:保護を提供してくれることを望みながら}、あなたのもとへ援助を求めにやってきた。この宗教的理由による亡命者を匿うべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_TRAVELS_OF_MANI</zType>
+		<ja>{CHARACTER-0}があなたのもとに訪れ、旅をしながら世界を周りたいと頼んできた。何年も前、link(RELIGION_MANICHAEISM,1)の予言者は最初に東へ行き、そこで神の霊感を得たという。
+
+{CHARACTER-SHORT-0}は次の旅でも同様の体験をし、これまで以上に神の啓示に近づけるのではないかと期待しているのだ。預言者に旅立ちの許可を与えるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BOOK_AND_THE_SWORD</zType>
+		<ja>あなたの部屋に{CHARACTER-0}が飛び込んできた。彼の瞳は聖なる正義に満ち溢れている。活動的な信者は、{RELIGION-5}とは別の宗教を信じる人々の多さに不満を抱き、神の御言葉を広める努力をより一層強めようとしていた。
+
+彼の信仰心が、他の人々を改宗させる旅に出ることを要求しているのだ。{CHARACTER-SHORT-0}はその目的地として、{CITY-3}と{CITY-4}を選んだようである。彼の使命を支援すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INCIDENT_AT_ANTIOCH</zType>
+		<ja>{RELIGION-1}が普及するにつれて、新興宗教のこれからをめぐって、どの教えを根本から守り、どの教えを残すべきかという議論が続いている。評議会は穏やかに開催されているとは言えず、{CHARACTER-0}が関わっている場合はなおのことである。
+
+{CITY-3}の評議会で、{CHARACTER-0}は{CHARACTER-2}を相手に激しい公開討論を繰り広げ、「他の{RELIGION-1,3}に対して、{G2:彼自身:彼女自身}が行わない習慣を押し付けるのは偽善である」と非難している。
+
+この2人の指導者が争っているという噂は教会内でも広まり、明確な決断を下すに至っていない。だが、王都に戻った{CHARACTER-SHORT-0}は、どうしてもあなたの意見を聞きたいようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CLERGY_MISSION_EXECUTION</zType>
+		<ja>{CITY-1}から暗い報せが届いている。当初は順調だったが、{CHARACTER-0}は敵意と懐疑に見舞われていた。{G0:彼:彼女}は熱心に改宗させようとしすぎたのかもしれない。緊張が限界に達した結果、{CHARACTER-SHORT-0}は平和を乱したかどで、都市の役人に捕らえられ、処刑されてしまった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNDERCOVER_PRIESTS</zType>
+		<ja>{S2.GOD}の信奉者でありながら、{CHARACTER-0}は冷酷で、計算高い陰湿さを持つ{G0:男:女}だ。幸い、君は{S2.PRIEST}に気に入られたようで、{S2.PRIEST}はその都市にいる知人に声を掛けて情報網を構築してやると持ち掛けてきた。
+
+またとない機会だが、どうすべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUMORS_OF_OSTANES</zType>
+		<ja>{PLAYER-1}の宮廷には、元素の力を操り、死者と対話できる者すらいるといわれている。このような魔法を実際に使うのは、マギといえど、並ならぬことである。おそらくはそのためだろう、錬金術に関する数多くの論文がこの魔法使いの手によるものだといわれているが、伝説のオスタネスに会った者はいないようである。
+
+今、彼の名を冠した新しい論説が宮廷の者たちの間で広まりつつある。魔術の実践に関する内容で、あなたの部下たちは想像力をかきたてられているようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MIRACULOUS_RECOVERY_ILL</zType>
+		<ja>{CHARACTER-0}の死期が迫っており、{S2.PRIEST,2}や医師、あるいは長老たちが何をしても持ち直させることはできない。{CHARACTER-1}が現れた時、ついに為す術がなくなったと思われた。{G1:彼:彼女}はいかなる人間の入室も禁じ、{CHARACTER-SHORT-0}の部屋に一日中こもった。
+
+それから、どんな行為が中で行われていようが、とかく阻止しようと守衛を送り込む決定が下されたその時、{CHARACTER-0}が部屋から歩み出てきた。{G0:彼:彼女}はこれまで以上に健康そうな姿を見せている。そして不敵な笑みを浮かべた{CHARACTER-SHORT-1}が続いて出てきたのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MIRACULOUS_RECOVERY_WOUNDED</zType>
+		<ja>{CHARACTER-0}の死期が迫っており、{S2.PRIEST,2}や医師、あるいは長老たちが何をしても持ち直させることはできない。{CHARACTER-1}が現れた時、ついに為す術がなくなったと思われた。{G1:彼:彼女}はいかなる人間の入室も禁じ、{CHARACTER-SHORT-0}の部屋に一日中こもった。
+
+それから、どんな行為が中で行われていようが、とかく阻止しようと守衛を送り込む決定が下されたその時、{CHARACTER-0}が部屋から歩み出てきた。{G0:彼:彼女}はこれまで以上に健康そうな姿を見せている。そして不敵な笑みを浮かべた{CHARACTER-SHORT-1}が続いて出てきたのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_VOICE_IN_YOUR_EAR</zType>
+		<ja>{CHARACTER-1}は、{CHARACTER-0}が注目を浴び、そして特別扱いを受けていることに憤慨し、魔術師は{TITLE-2}に助言する立場にあるべきではないと主張している。
+
+{S4.PRIEST}は、宮廷から魔術を追放するべきだと要求している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DRAW_OF_THE_OCCULT</zType>
+		<ja>{CHARACTER-1}が{RELIGION-0,1}の研究中に風変わりな{S0.PRIEST}と過ごしているのを、学院の教師が心配して報告を寄越してきた。いわく、その聖職者は、{CHARACTER-SHORT-1}に、{RELIGION-0,1}の指導者によって禁止されている儀式や実践方法について記された難解かつ異端の文書で指導しているらしい。
+
+教師は、若者がその秘密の教えに興味を惹かれ、禁断の知識を求めるようになるのではないかと懸念している。どうすべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AGAINST_THE_UNHOLY</zType>
+		<ja>{CHARACTER-3}と{CHARACTER-4}は信仰の話となれば、往々にして意見をぶつけ合っているが、{CHARACTER-0}に対する意見は一致している。この思いもよらぬ同盟は、{RELIGION-1}と{RELIGION-2}の食い違いを脇に置いて、宮廷における魔術師の好まれざる影響力について話し合い、次に{G0:彼:彼女}がどんな不道徳を働くかを推測しているようだ。
+
+そして、あなたはある計画が立てられている事に気付く。それはある晩、{CHARACTER-0}が帰宅する道中で「盗賊」に襲われてしまう、というものだった。魔術師を保護するために仲裁に入るべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FOURTH_PHILOSOPHY</zType>
+		<ja>{CHARACTER-0}が手掛けた{RELIGION-1}の歴史に関する文書内で、彼は{CITY-2}の{RELIGION-1,1}信者の集団を「第四の哲学」と呼び、特に敵対視していた。街が抱える様々な問題の原因を彼らとし、「第四の哲学」は追いはぎや盗賊に過ぎないと非難しているのだ。
+
+しかし彼らの考えも同じで、{CHARACTER-0}は宗教の裏切り者に過ぎず、その信念を貫くにはあまりにも弱すぎると、反論した。この宗派は、熱狂的な信念のために戦うことを恐れていないようである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_MADNESS_OF_MAGIC</zType>
+		<ja>{CHARACTER-1}は{CHARACTER-0}と意見が対立し、魔術のその危険性と、「悪魔的な技術」への追求がもたらす邪悪な影響についての演説原稿を書いている。
+
+link(COURTIER_SCIENTIST)は特に国の哲学者たちに対して辛辣な意見を持ち、多くの哲学者たちはその知識を学ぶべきではなく、このような知識を避けることこそが賢人の選択であると述べている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_SUITOR_ZEALOT</zType>
+		<ja>春の収穫を祝う宴で、あなたの{RELATIVE-1}は、あまり名の知れていない{CHARACTER-2}という貴族を連れていた。その晩、その{G2:男:女}の極端な信仰心にあなたは驚かされることとなった。皆の食事中、{G2:彼:彼女}は大きな声で注目を集め、教義や宗教的解釈の違いについての議論に臆することなく飛び込んでいくのである。
+
+その宴が終わる頃、{CHARACTER-1}は{CHARACTER-SHORT-2}を紹介したかったこと、そしてその狂信者と結婚するつもりであることを明かした。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_SUITOR_DIFF</zType>
+		<ja>{RELIGION-0}と{RELIGION-1}の信者がそれぞれ、あなたが自分たちの信者から{G4:花嫁:花婿}を選ぶことを望んでいるというのは、秘密でもなんでもない。
+
+それぞれの宗教を支持する貴族たちは、あなたの目に留まれば幸いとばかりに、好みの候補者を宮廷に連れてくる有様である。いずれかの信者を結婚相手として受け入れるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_SUITOR_FAMILY</zType>
+		<ja>{FAMILY-1}家から縁談の申し出があり、{CHARACTER-2}は、優秀な{RELIGION-0,1}徒の{G3:男:女}である{CHARACTER-3}と結婚すべきだと提案している。
+
+話に挙がっているその氏族は、すでに{S0.PRIEST,2}の祝福を受けているようだ。この結婚を進めるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_KING_AND_THE_GOD</zType>
+		<ja>外交を目的として{CHARACTER-0}が首都を訪れているが、あなたの助言者は、{G0:彼:彼女}をどう待遇すれば良いのかを決めかねている。外国の指導者は{TITLE-0}かもしれないが、{PLAYER-2}の法律によると、あなたはその上を行く存在。ただ一つの神とならず、「神々」に選ばれた神聖なる統治者なのである。
+
+{CHARACTER-SHORT-0}を対等な存在として歓迎するか？あるいは、{G0:彼:彼女}にあなたの神性を認めるように強要すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OTHER_NATION_RELIGION</zType>
+		<ja>{RELIGION-1,4}の同志である{CHARACTER-2}が、{S1.PRIEST,2}や占術師の行列を引き連れ、外交を行いにやってきている。信仰について議論していると、{S1.GOD}への崇拝方法は、他国と自国のものでは、驚くほどの違いがあることに気付かされた。
+
+{p.is_sub.S2=SUBJECT_HIGH_WISDOM:賢明なる:}{TITLE-2}は、二元論の考え方について、そして、物質世界と精神世界がいかに別物であるかを延々と語っている。それから{G2:彼:彼女}は、我々の信仰の道を共に形成できるのはないかと提案する。あなたの宮廷の{S1.PRIEST,2}は、その考えに懐疑的なようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_HOLY_PLACES</zType>
+		<ja>{CHARACTER-0}は、{CITY-2}に敬意を払うため、そして、{random_R1:過去の過ちの慈悲を得るため:最も神聖な場所を見るため:聖水を口にするため:信者の中で休息するため:他の巡礼者と言葉を交わすため:将来の祝福を求めるため}に、{RELIGION-1,1}の聖都{CITY-2}への巡礼を希望している。
+
+この宮廷人に、巡礼の旅に出ることを許すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILGRIMAGE_1</zType>
+		<ja>{CITY-2}への道中、{CHARACTER-0}は{PLAYER-3,1}の商人団と遭遇し、その者たちと仲良くなった。全く縁のなさそうな一行となった彼らは、歌を唄い、語らいながらに道中の日々を過ごしていく。やがて、一行は行き道を分かった。やや不信心だが、とても愉快な気晴らしになったと{CHARACTER-SHORT-0}は喜ぶのであった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILGRIMAGE_3</zType>
+		<ja>{CHARACTER-0}は{CITY-2}への道中、街に立ち寄った。そこで泊まった宿が、同じ巡礼の道を歩む者たちの共通の安息所であると知り、{G0:彼:彼女}は喜んでいた。その晩、{CHARACTER-SHORT-0}は他の巡礼者たちとともに酒を楽しんでいたが、それも{G0:彼:彼女}とその他の3人全員がある事実を知るまでのことだった。{RELIGION-1}の創始者が持っていたとされる「聖人の手」が売られていたのだ･･･。
+
+その遺物がために、{CHARACTER-SHORT-0}は最後の資金を使い込んでしまい、巡礼者は頭を垂らし、不本意ながらも追加の資金を求む伝言を送った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILGRIMAGE_4</zType>
+		<ja>{CHARACTER-0}の{CITY-2}への旅は順調に進んでいるが、{G0:彼:彼女}の心は、聖都に辿り着いてから起きることに固執してしまっていた。他の巡礼者たちが、{S1.GOD}に声を届けるためには行う必要があるといわれている、複雑な儀式や呪文について説明してくれたのである。しかし、それぞれが聞いた方法はどれも異なるもので、{CHARACTER-SHORT-0}はすぐに、アミュレットと儀式の呪文に埋もれてしまうのだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILGRIMAGE_6</zType>
+		<ja>{CITY-2}への旅路は、{CHARACTER-0}に神の本質について考える時間をとくと与える。日々を歩くことに費やし、その一歩、そのまた一歩が{S1.GOD}への献身なのである。そして夜というものは休息と、聖都を夢想するがためにあるのだ…。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_1</zType>
+		<ja>ついに{CITY-2}に辿り着いた{CHARACTER-0}は、そこで1週間かけて聖地を巡り、厳粛たる内省をしながら過ごした。{PLAYER-3}に帰ってきた{CHARACTER-SHORT-0}は、まるで人が変わったようで、神の恩寵を受けたと言うのである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_ARMY_OF_DIVINE</zType>
+		<ja>{PLAYER-1}の軍では、戦に備えて新しい{UNIT-0,2}の準備を整えている。はじめて戦場に臨む彼らのために、{RELIGION-2,1}の{S2.PRIEST,2}は軍隊じゅうをまわって、祝福を与え、&lt;p.is_sub.S2=SUBJECT_CHRISTIANITY&gt;の祈りで&lt;p=SUBJECT_JUDAISM&gt;の経典を読むことで&lt;p=SUBJECT_MANICHAEISM&gt;を崇拝し、熟考することで&lt;else&gt;{S2.GOD}に捧げる犠牲で&lt;end&gt;、{UNIT-0,2}を導いている。
+
+部隊はその様子を見て大いに心を打たれ、ある士官にいたっては{S2.GOD}の名を唱えながら行軍できるよう部隊の名前を変えてほしいと願い出るほどである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FALLEN_GODDESS</zType>
+		<ja>女司祭長は堂々と立っている。紫色のローブは色褪せ、ショールの裾は破れているが、その存在感は見る者に敬意を抱かせる。{CHARACTER-4}は自身が奉じる女神について語る。その女神は{CHARACTER-2}時代の高級娼婦で、死ぬ前に{PLAYER-3}の民に資産を分け与えたのだという。
+
+{CITY-1}の外れにある小さな神殿で神格化され、長年にわたって崇拝を集めていた女神の神殿は、今ではすっかり荒廃してしまっている。資源も少なく、このままでは女神はすぐに消えてしまうだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CURSED</zType>
+		<ja>怒りと憎しみに駆られた{CHARACTER-1}はあなたを呪い、{S0.PAGANGOD}にあなたの名を告げて倒すよう生け贄を捧げたという報せが届いた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACTS_OF_THE_PAGAN_MARTYRS</zType>
+		<ja>{CITY-3}で生まれた新しい形式の文学作品について、注意するよう宮廷から通達を受けた。その作品では、{RELIGION-0}徒があなたの支配下で虐げられ、あなたに立ち向かう異教徒の指導者の勇気を賞賛しているというのである。
+
+作者たちはあなたとその子孫に激しい敵意を抱いており、あなたを極めて残酷だと決めつけているようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_MAN_OF_REEDS</zType>
+		<ja>{CITY-1}の住民があなたを地元カルトの式典に招待した。蘆の男は数年前にその都市を救ったといわれており、式典は今後もその男に都市を守ってもらいたいと願う住民でにぎわっている。
+
+実際の礼拝は夜に行われる。若い雄牛が低い祭壇の上で屠られ、血がその今代の英雄の墓があるといわれている聖地を流れていく。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_TRAIL_OF_HEROES</zType>
+		<ja>あなたは目撃情報を届けてくれた{UNIT-0,2}の協力を絵ながら、何日もその生物を追跡している。とうとう、「いたぞ！」という声が上がった。
+
+だがあなたに見えたのは、森へと消えていくぼんやりとした影だけだった。急がなくては逃げられてしまう！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EVENTSTORY_ELUDED_BY_THE_BEAST</zType>
+		<ja>あなたは辺境の地で獣を追い続けるが、獣は常に一歩先を逃げていく。川に差し掛かったところで、他の生き物との足跡に混じって標的の足跡を見失ってしまった。
+
+この非情な試練をどう乗り越えればいいのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_HERO_APPEARS</zType>
+		<ja>予想どおり、あなたの計画は成功した。大勢の求婚者が失敗するなかで、1人だけ成功した者がいた。{CHARACTER-3}である。
+
+約束では、{CHARACTER-3}は{CHARACTER-1}と結婚することになる。この結婚を勧めるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_HAND_WITHDRAWN</zType>
+		<ja>求婚者が現われては失敗して去っていくのを見ているうちに、{CHARACTER-1}は自分が結婚できる可能性は低いとますます諦めそうになるのだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_TEMPLE_BESIEGED</zType>
+		<ja>{CITY-2}は混沌としている。支配力を誇示しようと、{CHARACTER-0}は暴徒と化した{RELIGION-1,1}を都市の中心部に引き入れ、神殿を包囲した。都市の衛兵たちが神殿内にいた人々を脱出させたものの、{RELIGION-2,1}の神像は引きずり出され、燃やされた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FLIGHT_FROM_THE_BODY</zType>
+		<ja>この1週間ずっと{CHARACTER-0}は宮廷の会談で、倫理の本質、形のない神を模倣するという新プラトン主義者の願望について演説している。この神に関する思索と物質世界から切り離された精神世界を強調する考えは、{CITY-2}の{RELIGION-1}徒たちに大きな影響を与えた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIVINE_HARMONY</zType>
+		<ja>研究中の{CHARACTER-0}を見掛けると、山のような数学論文とさまざまな星座盤に囲まれていた。彼女は大きなため息をつくと、顔も上げずに、「私が神学や儀式を教えないことについて、{CHARACTER-3}は信心が足りないからだという。だがそのような儀式を教えれば、むしろ{RELIGION-2,1}の生徒を遠ざけることになりかねない。私の望みはさまざまな宗教が調和して生きていく世界。それは実現しえない望みなのだろうか？」と尋ねた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONFLICT_IN_HYPATIAS_CITY</zType>
+		<ja>{S1.PRIEST}が死去すると、{CITY-3}で激しい権力闘争が起こった。3日にわたって暴徒たちが路上で交戦した結果、{CHARACTER-5}が後任の座を勝ち取った。新しい{S1.PRIEST}の支持者の1人が治安を乱したというかどで{CHARACTER-4}に捕縛され、今は都市の指導者2人が急速に激化する対立に巻き込まれている。
+
+{CHARACTER-4}が宗教をめぐる暴動を鎮めようとして{S1.PRIEST}に襲撃され、石で頭を殴られたという報せが届いた。その行政官は市民によってからくも救助されたが、聡明な賢者ならこの対立をとめられることに期待して、助言を得るべく{CHARACTER-0}に戻ってきている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHIELDS_UNDER_THE_STARS</zType>
+		<ja>暗闇の中、あなたの{UNIT-0,2}は、火がちらつくのを警戒しながらゆっくりと廃墟への距離を詰めていく。近づくにつれて、金属が回転するきらめきを火がとらえた。鋭い叫び声が聞こえるが、争っているふうではない。遺跡の中に身を伏せた兵士たちは、星空の下で輪になって踊る女の一団を目にした。
+
+武器が回転を重ねるにつれて、テンポが上がっていった。やがて音楽がとまり、{UNIT-0,2}が立ち去ろうとすると、女性たちの指導者と思しき{CHARACTER-SHORT-1}が制止した。「儀式を最後まで続けさせてくれて感謝します。ここはかつての女戦士、神聖なアルテミスを称える墓所なのです」と言った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SACRED_CHASTITY</zType>
+		<ja>{G0:彼:彼女}の{RELIGION-1,1}への信仰に感化され、信仰に触発され、{CHARACTER-0}は{S1.GOD}に仕えるには純潔でなければならないと考えるに至った。宗教一般における話ではないが、宗教と道徳の対話の一環として、貞操観念に対する神性という考えが広まろうとしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TAUGHT_OF_GOD</zType>
+		<ja>{CHARACTER-SHORT-0}の教師の1人は、その若者の心に多大なる影響を与えた。独学で研鑽を積んだ哲学者であるその教師は、{RELIGION-2,2}の教えを受けて育ち、人生の半ばを過ぎて{RELIGION-1}に改宗するという人生を歩んでいた。
+
+{CHARACTER-SHORT-0}は道徳的に板挟みとなり、あなたに手紙を書いて寄越した。若い学生は、彼の教えにすっかり心を奪われ、世界に広めたいと考えているようだが、老いた教師は学生全員に秘密を守るよう約束させている。
+
+どう助言すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FACE_OF_GOLD</zType>
+		<ja>現在進行中のlink(LAW_MONETARY_REFORM)にともない、{CHARACTER-3}と{CHARACTER-4}は、新たに製造される硬貨にどんな意匠を採用するのかという問題で意見を戦わせている。双方が自分たちの信じる宗教の象徴こそ新しい意匠にふさわしいと主張しているからである。
+
+新しい硬貨にはどのような意匠がふさわしいだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FALLEN_TO_THE_RIVER</zType>
+		<ja>あなたの恋人、{CHARACTER-SHORT-0}は亡くなった。その事実をあなたはまだ受け入れられず、冷たく、暗い真実として留まっている。{CITY-1}を流れる川に、2人はともに船でこぎ出したが、{CHARACTER-SHORT-0}は川に落ち、救助が間に合わずに命を落としたのだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LUCKY_IN_LOVE</zType>
+		<ja>{CHARACTER-SHORT-0}の声は実に魅力的だ。愛の女神である{S1.LOVEGOD}が{S1.PAGANGOD}に頼み込んだおかげで、長らく離ればなれになっていた恋人たちが再開を果たすという物語を、心地よいリズムに載せて語り聞かせてくれる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_END_OF_ALL_THINGS</zType>
+		<ja>link(THEOLOGY_REVELATION)の考えは、{RELIGION-0}に大きな影響を与えた。匿名の作家たちが、神々から受け取ったとして終末期の展望を語るようになったのである。
+
+その驚くべき物語は、神々が世界中に流出するという熱に浮かされたような夢を集めたもので、時にある種の恐怖を催すものである。その考えは、一部の信者たちを、世界の終わりは近づいており、間近に迫っているとさえ思わせるほどに至っている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNDER_A_SPELL</zType>
+		<ja>あなたの子ども、{CHARACTER-0}は、自身の{G3:夫:妻}としたいと思える{G3:男:女}に出会った。{G3:花婿:花嫁}となるのは、{FAMILY-1}家の疎遠となっている者である。あなたは{CHARACTER-2}から、{CHARACTER-SHORT-3}は魔術を使うことで知られていると警告を受けた。
+
+往々にして助けにもなるが、神から授かったそのような力は容易に人を堕落させるといい、{CHARACTER-SHORT-3}が出世できるよう{CHARACTER-SHORT-0}は魔法で操られているのではないかと{CHARACTER-SHORT-2}がほのめかしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOR_VICTORY</zType>
+		<ja>{PLAYER-4,1}軍最後の部隊を切り崩している最中に、あなたは血と汗ににじむ目で、敵を蹂躙する自軍の上に炎の冠の幻影を見た。これはあなたの勝利が{S2.GOD}に運命づけられているという証だろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STEED_OF_THE_GODS</zType>
+		<ja>link(RESOURCE_HORSE)を収穫中に、あなたの{UNIT-0,2}は真っ黒な毛並みの1頭の馬を見つけた。その馬はどの馬よりも速く駆け、神々の血を引く牡馬だと{UNIT-0,2}が認めたほどである。
+
+あなたの部下は数日かけてようやくその馬を捕らえることができた。その高貴な馬の命運はどうなるのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_OTHER_SIDE</zType>
+		<ja>あなたはずっと同じ夢にうなされている。毎晩、水嵩が増し、周りの人々がゆっくりと呑まれていき、あなただけが残る様子を、じっと動かずに見つめている夢だ。目が覚めても首筋に水の跡を感じられるほどだった。
+
+とうとう、{CHARACTER-1}が自身の集めた夢に関する本のなかから類似の事例を見つけた。いわく、その夢は神々からの伝言であり、これまでの事例では、夢の主に親しい者が命を落としているそうだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_POETESS_IN_EXILE</zType>
+		<ja>{FAMILY-3,1}家は、熾烈な政治闘争に巻き込まれて亡命中の詩人、{CHARACTER-2}を保護している。
+
+その氏族が{CHARACTER-SHORT-2}に演奏させるべく宮殿に連れて来た。あなたは、彼女が他の女性の好意を得られるようアフロディーテに願う歌にうっとりと耳を傾けた。それは、叙事詩や讃美歌とは構造も言葉遣いも異なる愛の歌で、宮廷でそのような歌が唄われるのは初めてだった。
+
+{CHARACTER-SHORT-2}の歌は、神々を語るにせよ、人間の欲望を語るにせよ、他の詩人の作とは一線を画し、すでに評判を呼びつつある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHRISTIAN_ASCETICISM</zType>
+		<ja>肉体と精神の関係とは？{PLAYER-3}がこれまで当然だと思っていたことが、{RELIGION-0,1}によって試されようとしている。物質的に欠乏すること、肉体を維持するための飲食を否定することが、今や道徳的に優れ、高貴な生き方だとみなされるようになったのである。
+
+{CHARACTER-1}は事故の改善を求め、導きを求めて{CHARACTER-2}に手紙を書いている。あなたの子どもまでもが{S0.GOD}に身を捧げたいと考えている。どう提案すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LED_BY_THE_STARS</zType>
+		<ja>{CHARACTER-2}は最近{CITY-1}を旅し、その行く末を心配している。そこでは民の間で占星術による予言が広く信じられており、人々は公式の勅令よりも占い師の言葉を重視している。廷臣は、占星術師がこれ以上力をつける前に都市から追放すべきだと提案している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BASILICA</zType>
+		<ja>{CITY-0}の中心には、裕福な{PLAYER-4,1}の政治家によって建てられた壮大な公共の建物がそびえる。都市を手に入れたあなたのもとでバシリカは空になり、ほこりが収まる前に、{CHARACTER-3}と{CHARACTER-2}はその建物の運命を巡って議論となっている。
+
+双方がその施設の使用方法について主張しており、{RELIGION-1,3}はそこを寺院として、{FAMILY-2}家は公開討論場として使いたいという。争いが解決する気配はなく、両者はあなたの裁定を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BETROTHAL_ENDED</zType>
+		<ja>{CHARACTER-0}の死去により、婚約は解消となった。{CHARACTER-2}は結婚がかなわなくて残念だという弔辞を送る。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WHERE_LIGHTNING_STRIKES</zType>
+		<ja>{CITY-1}の近くで雷鳴が轟き、ユピテルがそのすさまじい怒りを見せつける。嵐に巻き込まれた{CHARACTER-2}は雷に打たれ、その場で絶命した。
+
+{S0.PRIEST,2}はユピテルを祀る神殿を建設し、そこが近づいてはならない呪われた地であることを知らしめたいそうだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_DAYS</zType>
+		<ja>{RELIGION-0}の聖なる日は、祝賀と黙想を行う日であり、信者たちが{PLAYER-1}の通りという通りに出て列を作る。
+
+だがその聖なる日は増え続けており、あなたの評議会は、このまま勝利と聖誕があるたびに新しい聖なる日が追加されてはどうなるのかと懸念している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRAYING_FOR_SAFETY</zType>
+		<ja>{CITY-2}の寺院では、{S2.PRIEST,2}たちが神を理解し、対話するために不断の努力を続けている。
+
+{CHARACTER-4}は彼らのもとを訪ね、{S2.GOD}に{p.is_sub.S2=SUBJECT_ZOROASTRIANISM:生け贄:祈り}を奉げれば、{p.is_sub.S0=SUBJECT_EXPLORING:遠方を探索中の:宮廷から行方不明になっている}{CHARACTER-0}が無事に帰還すると示唆している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BUBASTIS</zType>
+		<ja>あなたに仕える大使、{CHARACTER-1}は{PLAYER-0}への旅から帰ったばかりである。そこで{G1:彼:彼女}は、{CITY-3}でうっかり猫を殺してしまったという商人の後始末に追われていた。商人はどうにか私刑を免れたものの、{CHARACTER-SHORT-1}が市外に連れ出すまで身を潜めていなくてはならなかった。
+
+仕事熱心な大使はできるだけのことをしたが、エジプトの聖職者のなかには、今なお世間を苛立たせようとする不埒な者がいる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CARMEN</zType>
+		<ja>{CHARACTER-0}には、短い歌を作り、ひとりで何度も繰り返して唄う癖がある。歌詞には{RELIGION-1}のさまざまな神の名前や謎に包まれた者たちの名前が使われている。宮廷にいる者たちがその若い被後見人が、自分たちに呪いをかけようとしていると思っても不思議ではない。
+
+{CHARACTER-2}は、歌詞と呪詛の境界線は曖昧だと警告しつつも、詩作の趣味を奨励すべきだと提案している。大多数の者は魔術師を使うところだが、そのような習慣や魔術師を支援する者は、潮の流れのように頻繁に変わる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MY_BROTHER_IN_CHRIST</zType>
+		<ja>あなたの国教で{TITLE-1}を務める{CHARACTER-1}を含め、宮廷には重要人物からの手紙が定期的に届く。だが、{CHARACTER-SHORT-1}からの手紙はあなたの地位や階級の例によらず、辛辣で、あなたの指導者としての在り方を公然と批判することも珍しくない。{TITLE-1}に親しいあなたの事務官が、&lt;p.is_sub.S2=SUBJECT_TACTICIAN&gt;link(TRAIT_COMMANDER_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は前線で指揮を執るよりも、あなたの戦術を研究するのは嫌いらしい。&lt;p=SUBJECT_JUDGE&gt;link(TRAIT_SCHEMER_ARCHETYPE),として言うには、{CHARACTER-SHORT-1}は、あなたが規則を厳格に順守し、他人にも従うよう主張するのがい嫌いらしい。&lt;p=SUBJECT_ORATOR&gt;link(TRAIT_DIPLOMAT_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、あなたには人々をまとめ上げる力があるのに、裏のある言葉を駆使して私腹を肥やしているのが気に食わないらしい。&lt;p=SUBJECT_SCHOLAR&gt;link(TRAIT_ZEALOT_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、あなたが行動するよりも、読書や研究を好むのが気に食わないらしい。&lt;p=SUBJECT_BUILDER&gt;link(TRAIT_HERO_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、あなたが戦場に繰り出すより都市計画や建築を好むのが気に食わないらしい。&lt;p=SUBJECT_SCHEMER&gt;link(TRAIT_JUDGE_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、他の者と同じ規則に従わず、無視するのが気に食わないらしい。&lt;p=SUBJECT_COMMANDER&gt;link(TRAIT_TACTICIAN_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、戦場であろうとなかろうと、あなたに戦術的思考が欠けているのが気に食わないらしい。&lt;p=SUBJECT_HERO&gt;link(TRAIT_BUILDER_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、あなたが着実な都市構想よりも、即断したり、英雄的好意を好むのが気に食わないらしい。&lt;p=SUBJECT_ZEALOT&gt;link(TRAIT_SCHOLAR_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、あなたが結果をほとんど考えずに大義のために参戦しようとするのが気に食わないらしい。&lt;p=SUBJECT_DIPLOMAT&gt;link(TRAIT_ORATOR_ARCHETYPE)として言うには、{CHARACTER-SHORT-1}は、あなたが特に言葉を選ぶふうでもなく、話術に優れるわけでもないのに、すぐに友達を作れるのが妬ましいらしい。&lt;else&gt;指導者として言うには、{CHARACTER-SHORT-1}あなたとの関わり方に悩んでいるらしい。&lt;end&gt;あなたはこの溝を修復すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROTECT_THE_HOLY_LAND_US</zType>
+		<ja>{CITY-0}にある{RELIGION-1,1}のlink(CONCEPT_HOLY_CITY)が襲撃を受けているとの報せは瞬く間に{PLAYER-4}を駆け巡った。夜空に火の手が上がり、{RELIGION-1,1}の指導者たちは信者を集めると、聖都を守るべく、&lt;p.is_sub.S1=SUBJECT_ZOROASTRIANISM&gt;生け贄&lt;p=SUBJECT_RELIGION_PAGAN&gt;生け贄&lt;else&gt;祈り&lt;end&gt;を捧げるよう指揮を執った。
+
+{CHARACTER-2}は宮廷の前で熱弁を振るい、力を貸してほしいと嘆願した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROTECT_THE_HOLY_LAND_THEM</zType>
+		<ja>{CITY-0}にある{RELIGION-1,1}のlink(CONCEPT_HOLY_CITY)が襲撃を受けているとの報せは瞬く間に{PLAYER-4}を駆け巡った。夜空に火の手が上がり、{RELIGION-1,1}の指導者たちは信者を集めると、聖都を守るべく、&lt;p.is_sub.S1=SUBJECT_ZOROASTRIANISM&gt;生け贄&lt;p=SUBJECT_RELIGION_PAGAN&gt;生け贄&lt;else&gt;祈り&lt;end&gt;を捧げるよう指揮を執った。
+
+{CHARACTER-3}は宮廷の前で熱弁を振るい、今こそ聖都防衛に{PLAYER-4}の力を貸してほしいと嘆願した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_TEACHERS</zType>
+		<ja>{CHARACTER-1}は常々、神についてもっと知りたいと思っており、徳が高いと評判の教師を定期的に探している。{G1:彼:彼女}は、異なる見解に触れることで信仰心が試され、{S0.GOD}に対する理解が深まると主張している。
+
+直近の旅から帰ってきたばかりの{CHARACTER-SHORT-1}は、{THEOLOGY-2}の思想と、それが{S0.HOLYTEXT}をどのように再構築したのかについて、熱狂的ともいえる関心を寄せている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COLLEGIA</zType>
+		<ja>{CHARACTER-2}は問題を抱えている。{RELIGION-1}における地位は、聖職者の階級ではなく、大学に選出された裕福な市民が占められているからだ。
+
+宗教が中心でありながら、その大学では生徒たちが友情を築き、社会活動を行う上で重要な拠点となっている。今年の信者たちは、酒宴を行うばかりで、宗教的な義務は放棄していると、{CHARACTER-SHORT-2}は訴えている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NOBLE_CLERGY</zType>
+		<ja>{FAMILY-1}家があなたの助力を乞うている。その氏族の若い一員は{RELIGION-0,1}の{S0.PRIEST}であり、現在進められている宗教に対する迫害の標的になっている。彼らは恐怖におびえる貴族をあなたの王権のもとで保護してほしいそうだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNWORTHY_CLERIC</zType>
+		<ja>{CHARACTER-0}は不名誉な行為を責められ、{RELIGION-1,1}の聖職者の座を追われた。{TITLE-0}は&lt;p.is_sub.S0=SUBJECT_IMPIOUS&gt;で知られ、{G0:彼:彼女}は神聖な儀式を進んで蔑ろにし、侮蔑を隠そうともしなかったという。&lt;p=SUBJECT_DRUNK&gt;たいていの場合は泥酔して話をし、宗教とは無関係な話題で支離滅裂なことを口走ったという。&lt;else&gt;たいはんの時間を不埒な場所で過ごしたという。&lt;end&gt;
+
+そのような品性に欠ける{CHARACTER-SHORT-0}が、職権を回復させるために、あなたに介入を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MOCKING_THE_MYSTERIES</zType>
+		<ja>{CITY-0}の住民から、都市を恐怖に陥れたとある詩人に裁きを下すよう要請があった。その詩人、{CHARACTER-SHORT-3}は、最初に{S1.PAGANGOD}の木像を切り刻んで火にくべ、地元カルトの謎を堂々と暴露したのである。
+
+しかも{CHARACTER-3}は微塵も反省しておらず、神々の存在そのものを否定している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DANGEROUS_TIDE</zType>
+		<ja>link(IMPROVEMENT_ORACLE)には、{RELIGION-2}が{PLAYER-0}にとって脅威となり、何としてでも排除せねばならないという兆候が現われていた。司祭は、{RELIGION-2,3}徒たちは{S1.PAGANGOD}が満足するまで迫害されねばならないと心を決めた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NATIONAL_UNITY</zType>
+		<ja>あなたの国で{RELIGION-0}という機関の重要性が増しているが、それだけが唯一の宗教ではない。{PLAYER-3}ではさまざまな信仰を持つ者たちが、通常なら時折議論をかわす程度で共存しているが、{CHARACTER-2}は、{RELIGION-1}が普及すればあなたの統治に好ましからぬ影響を及ぼすと考え、国家の統一を揺るがしかねないと主張している。
+
+{CHARACTER-2}は、国家の統一には毅然と対処するのが裁量であると示唆している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UPSTART_DRUID</zType>
+		<ja>{CHARACTER-1}が{TITLE-1}の地位を維持しようと固執するあまり、{TRIBE-0}内で混乱が生じている。その指導者は、人気を博している&lt;p.is_sub.S0=SUBJECT_TRIBE_GAULS&gt;ドルイド&lt;p=SUBJECT_TRIBE_SCYTHIANS&gt;アナリャ&lt;else&gt;司祭&lt;end&gt;である{CHARACTER-3}の武装蜂起に直面し、あなたの宮廷にやって来て、権力を得るために{PLAYER-4,1}の力を貸してほしいと要求している。
+
+忠実な指導者との約束に、あなたは応じるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_WHORE_OF_BABYLON</zType>
+		<ja>{CITY-1}の{RELIGION-0,1}の過激派に、新たな指導者として{CHARACTER-2}が現われた。その{S0.PRIEST}は、{PLAYER-1}の統治を『黙示録』に出てくる大悪魔に、そして{CITY-3}を地上を支配する都市になぞらえ、彼の説教を聞こうと集まる信者たちの怒りを駆り立てるべく、暴力的なレトリックを使っている。
+
+{CHARACTER-2}曰く、そのような悪は何を犠牲にしても阻まねばならないらしい。一つはっきりしているのは、この強情な聖職者の影響を絶たねばならないということである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RETURNING_TO_THE_MYSTERIES</zType>
+		<ja>{CITY-0}で年に1回開催される儀式、link(IMPROVEMENT_CULT_OF_THE_MOTHER)の日がやって来た。以前は目隠しをされて熟練の導き手によってカルトの秘密に触れたあなただが、今回はあなたが入門者を導く番だ。
+
+かつてのあなたのように戸惑い、未知のものを知ろうとする新しい信者たちを見れば、あなたも今まで以上に密儀宗教への理解を深められるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANIMAL_WORSHIP</zType>
+		<ja>{CITY-2}で、女神、バステトが生まれ変わった。かつては獅子の戦士であったが、今は猫の頭を持ち、女性と家庭を守る女神として崇拝を集め、住民の日常生活において重要な役割を担っている。
+
+その{CITY-2}からの報せが届いた。この女神を称える祭りを開催するという。そこでは猫頭の女神の加護を得るために、女性が家事から解放される。さらに、ミイラ化した猫をカルトの施設に届けてほしいそうだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ISIS_AND_SERAPIS</zType>
+		<ja>港を備えた{CITY-1}には、遠方から危険を冒してでも海を渡ってこようとする商人や外交団が次々と訪れる。なかでもひときわ目立つのが、やって来たばかりのとある住民だ。イシスとセラピスという二神が{PLAYER-0}からの訪問者によって持ち込まれ、その神を崇拝するカルトのために、神殿の建設を求める声が上がるほど、市内で信者を増やしている。
+
+あなたの助言者がいうには、{CHARACTER-0}が他の土地で影響力を増すために、意図的にその教えを広めようとしているという噂があるそうだ。あなたはその信仰を許可するのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RITUAL_IN_THE_DARK</zType>
+		<ja>あなたはミトラ神殿に降り立った。
+
+薄暗い部屋は物音ひとつせず、信者たちはあなたがゆっくりと祭壇に近づくのを固唾を飲んで見守っている。祭壇に描かれているのは、すっかりおなじみとなった光景だ。制服されぬ太陽であるミトラが月の象徴である雄牛を倒し、その周囲には宇宙の配置と神の聖なる居所を現わす複雑な占星術の表象である。
+
+父親が弓を引き、あなたの心臓を狙う。弓がきしむ。そして静寂。脈動を10数えると、彼は再び弓を引く。儀式はそれで終わりだ。ワインが注がれた途端に神妙な気分が途切れる。ミトラが雄牛の上で食事をしたように、あなたもまた入門者たちとともに儀式の馳走を囲み、気の置けない会話を楽しむのだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WANDERING_GODS</zType>
+		<ja>{CITY-0}と{CITY-3}の間を行き交う者は多く、物や習慣、文化の交換が活発に行われている。
+
+{PLAYER-2,3}を訪れる者のなかには、{RELIGION-1}の神殿に心を打たれたという者もいる。彼らは{S1.PAGANGOD}と、故郷の神々を融合させた神を崇拝し、新しいカルトを設立した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OUR_PANTHEON_SPREADS</zType>
+		<ja>{PLAYER-0,3}には独自の神が大勢いるが、{CITY-2}で近頃人気が増しているのは、あなたの{CITY-2}の象徴をあしらったアミュレットや硬貨だという。都市の市場には既に{PLAYER-3,1}のアミュレットと{PLAYER-0,1}の複製品が行き渡っているが、{CHARACTER-0}は使者を送り、今イチオシの小物を安定供給させようとしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OATH_TO_MELQART</zType>
+		<ja>あなたの{G2:息子:娘}である{CHARACTER-2}は、{PLAYER-1,3}が{PLAYER-0}で行った残虐なふるまいに嫌悪感を抱いている。一日の訓練が終わると、その若い兵士があなたのもとを訪れて、メルカト神に誓って、{G2:彼:彼女}が成人となり次第、剣を取り、永遠に{PLAYER-1}の敵となると宣言した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DESCENDED_FROM_ASTARTE</zType>
+		<ja>{PLAYER-0}の伝説によると、ディードー女王は、アスタルテの高司祭を海の向こうから連れてきた。女王の新しい都市で、彼とその子孫に高司祭の地位を提供することが条件であった。{RELIGION-1}の新しい長である{CHARACTER-2}は、その職務に付随する権利が、時が流れるにつれて失われてきたと主張し、その地位を復興させようとしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_GODS</zType>
+		<ja>{CITY-2}の創立にともない、移住者たちは周辺に暮らす{TRIBE-3}と頻繁に接触するようになった。{FAMILY-2,1}家は、{TRIBE-3}の崇拝する神々のなかに、ユピテルに類似した者がいることを気にしている。だが彼らがその神に捧げる儀式は、ローマの道徳的観点に立てば見苦しいものである。
+
+{CHARACTER-4}は、ローマの伝統的価値を守るか、そのような不敬をユピテルに対する侮辱と取るか、あなたの意見を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CLAIMS_OF_DIVERGENCE</zType>
+		<ja>{CHARACTER-0}は長らくあなたの統治に対する脅威であった。その棘を断ち切る絶好の機会が訪れた。{CHARACTER-SHORT-0}と親しい者が、{RELIGION-1,1}分派の信者だと発覚したのだ。{PLAYER-2}のlink(LAW_ORTHODOXY)の法によると、その信者は歯に衣着せぬ物言い、そして危険性から死刑に処すと記されている。
+
+2人の友情を理由に、{CHARACTER-SHORT-0}を同じ罪で告発することは用意だろう。この極端な手段に頼るべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FAITH_DIVIDED</zType>
+		<ja>{S1.PRIEST,2}の反乱者たちが声を上げるなか、{CHARACTER-0}はlink(MISSION_HIGH_SYNOD)を制御するのに四苦八苦している。{RELIGION-1,1}の指導者たちは、教義の根幹にかかわる重要な儀式をどのように行うかについて、完全に分裂している。
+
+反乱側の{S1.PRIEST,2}たちは、{THEOLOGY-4}こそ{RELIGION-1,1}信仰の中枢であると主張し、話を聞くよう要請している。その神学を否定することはすなわち{S1.GOD}に対する攻撃であり、その攻撃は暴力をともなって行われるだろうと血気盛んな派閥が主張している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_DAY_OF_REST</zType>
+		<ja>{CHARACTER-3}軍は{CITY-0}に包囲攻撃を試み、連日部隊を送り込んでいるものの、包囲攻撃兵器や土塁の設営を阻もうとする防衛軍の行動によって作戦に遅れが生じている。
+
+だが、{CHARACTER-3}は毎週1日だけ攻撃が行われない日があることに気付いた。将官の顧問が、「神に敬意を表すために一日中労働をしない{RELIGION-1,1}徒のせいだ」と教えると、{G3:彼:彼女}はすぐにあなたのもとに計画を書き送った。もちろん、新しい作戦とは、軍に安息日は建築に専念し、包囲戦を途切れさせることなく続けるというものである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ENDEARED_TO_THE_FAITH</zType>
+		<ja>{CITY-0}で{RELIGION-1,1}徒の勢力が拡大するにつれて、彼らの指導者は都市の管理を担う{FAMILY-2}家の当主と取り引きをするようになった。両者の関係は驚くほど順調で、礼拝所の確保に必要な法的手続きも滞りなく終わり、衝突することはほとんどなかった。
+
+あなたの顧問は、{RELIGION-1,3}との良好な関係をうまく使えば、{FAMILY-2,1}に対して優位に立てるのではないかと進言している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_HALF_OBOL</zType>
+		<ja>{CITY-1}に滞在中、{CHARACTER-0}は奇妙な噂を耳にした。無限の金を持つという商人の噂である。{G2:彼:彼女}が持つ魔法の硬貨は、使っても一日の終わりに使用者のもとに戻って来るというのだ。
+
+{CHARACTER-2}はその話を聞いて、自分に商才があるゆえにそのような噂が立ったのだと笑って答えた。魔法の硬貨が事実にせよ、虚構にせよ、{CHARACTER-SHORT-2}を宮廷に入れるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EYES_OF_GREEN</zType>
+		<ja>神々ですら死は避けられない。はるか彼方の土地で丘陵を切り拓いていた{CHARACTER-0}は、長年の風雨で失われていた、破損した神像を見つけた。
+
+{CHARACTER-SHORT-0}は古代の神像に強く引かれるのを感じた。そして、磨き込まれた緑石の目を持つ神像の、物思いに更けるような表情について長い記録を書き残した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIAL_OF_IMPIETY</zType>
+		<ja>あなたの不信心さはついに知られるところとなり、とりわけ{CHARACTER-2}はあなたの醜聞をつかんで地位を危うくしようと、一挙一動を監視している。{CHARACTER-1}いわく、{G2:彼:彼女}はあなたの不信心ふるまいは{TITLE-0}の職位にふさわしくないと言う状況を作り上げようとしているのだと進言する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_EPIC_CYCLE</zType>
+		<ja>詩人の{CHARACTER-1}は、{CITY-0}に滞在中、例を見ない規模の作品の曲作りに取り組んでいる。{S2.PAGANGOD}が神々を統べるために天に上るところから、{S0.HERO}に至るまで、{PLAYER-0}の神話をふるいをかけるのに数か月を要した。
+
+{CHARACTER-1}はこれらの多種多様な神話を1つにまとめ、全体をとおして整然とした、物語性をもたせようとしている。そのような作品を読めば人々の神に対する味方は一転するだろうし、すでに忘れられかけている物語が注目を集めつつある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EPIGRAPHY_REFORM</zType>
+		<ja>{PLAYER-2}の寺院や神殿では、碑文、中でも石板や金属板に司祭と施設の活動に関する法や規範を彫ったものを飾るのが一般的になっている。
+
+一部の司祭が、制度の変化に対応できる正式な制度を導入すべきだと声をあげている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ONE_ABOVE_ALL</zType>
+		<ja>あなたと{S0.PAGANGOD}との結びつきは、両者の存在を際立たせるものである。あなたは万人の上に立つ正当性を与えられ、{S0.PAGANGOD}は他の神々の上に立つ存在だと印象づけられるからである。
+
+その影響だろうか、{RELIGION-0}の司祭たちが宗教の儀式を劇的に変更し続けており、{S0.PAGANGOD}だけが昇格している。宮廷のなかには、これでは他の神々が邪神となり、その怒りを買うのではと懸念する者がいる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUPPRESSED_SUPPORTERS</zType>
+		<ja>{RELIGION-2}は迫害にさらされ、信仰を禁じる規則が敷かれたにも関わらず、民衆を中心に信者の数を増やしている。{CITY-0}には路上で堂々と教えを実践する者がいるという報告が届いた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTENDER</zType>
+		<ja>怒りに駆られた{CHARACTER-1}は、{RELIGION-0}を強力な味方とした。{G1:彼:彼女}が王位につけば、{RELIGION-0}の待遇を良くすると約束したと聞きつけた者たちが動揺し、その宗教に入信しようとしている。
+
+{CHARACTER-SHORT-1}には大胆な最後通牒を突きつけられるだけの十分な後ろ盾がある。後継者に選ばれなければ、{G1:彼:彼女}は{RELIGION-0,3}の不満をかき立てるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CIVIL_WAR</zType>
+		<ja>{PLAYER-4}に内戦の脅威がただよっている。あなたの統治を熱烈に支持する{FAMILY-1,1}家と反対する{FAMILY-0,1}家の間の対立は、日に日に強まっている。些細な衝突ですら本格的な開戦へと発展しかねい状況である。
+
+{CHARACTER-3}はそのような諍いが破滅へとつながりかねないと察し、不満を抱く{CHARACTER-3}家をなだめてほしいとあなたの介入を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STATUE_OF_THE_GODS_COMPLETE</zType>
+		<ja>寺院は完成した。神聖な広間には、{S0.PAGANGOD}の像がそびえ立ち、オイルランプが金と象牙をあしらった細部を照らし、まるで生きているかのようである。
+
+この{S0.PAGANGOD}の物語はやがて{PLAYER-3}領を超えて世界じゅうに広まっていくだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THEIR_DEATHLESS_GAZE</zType>
+		<ja>話題が法の本質になるまで、{FAMILY-1}家の晩餐は和やかな雰囲気で過ぎていった。{CHARACTER-1}は、神々は人間すべてに対する審判者であり、究極の法源あると、長く印象的な演説を披露した。だがその後、{CHARACTER-SHORT-0}は「それなら我らはみな呪われてしまう！」と言い放ち、「神々は邪悪な者死すべしと断じ、さもなければ自ら手を下す」と続けた。{G1:彼:彼女}は言い返そうと口を開いたが、考え直し、考え事に沈み込むかのように沈黙してワイングラスを見つめる。その姿はまるで、これまで信じていた世界が取り返しがつかないほど揺るがされてしまったかのようだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LANDS_OF_THE_DEAD</zType>
+		<ja>{CHARACTER-0}は死んだ。&lt;p.is_sub.S1=SUBJECT_RELIGION_GREECE&gt;遺体は{RELIGION-1}の女&lt;else&gt;{S1.PRIEST,2}&lt;end&gt;の手によって整えられ、来世に向かう旅路についた。
+
+&lt;p.is_sub.S1=SUBJECT_RELIGION_ASSYRIA&gt;死後に裁きはなく、死者が粘土以外なにもないところで支えられながら永遠を求めてさまよう、冷たく暗い平原におもむく。それはすべての人を待ち受ける過酷な運命であり、この儀式があるからこそ、人は生前、地上での時間を最大限に活用するよう意識づけられているのである。&lt;p=SUBJECT_RELIGION_BABYLONIA&gt;死後に裁きはなく、死者が粘土以外なにもないところで支えられながら永遠を求めてさまよう、冷たく暗い平原がある。それはすての人を待ち受ける過酷な運命であり、この儀式があるからこそ、人は生前、地上での時間を最大限に活用するよう意識づけられているのである。&lt;p=SUBJECT_RELIGION_CARTHAGE&gt;死者はまず香油を塗られ、黄土と辰砂で赤く染められた後、焼くか埋葬されるかする。墓地で宴が開かれるのは、死者の最後を見送るためであり、最後の食事に使う食器は不浄なものとみなされ、叩き割られた後に埋葬される。&lt;p=SUBJECT_RELIGION_EGYPT&gt;儀式のために遺体の準備が整えられると、故人の分身であるカーが、審判であるオシリスとともに心の重さを測る難解な旅に出る。そして葦の原野にたどり着いて初めて、ともに埋葬された使用人や道具とともに永遠に生きることができるのである。&lt;p=SUBJECT_RELIGION_GREECE&gt;神官たちは死によって汚された家に入れないため、遺体は一族の女性によって整えられる。遺体の口の中には、冥界の川の渡し守、カロンに払うための硬貨が入れられる。冥界に入ると、善良な魂はエリュシオンに、邪悪な魂はタルタロスに落ちる。生者からの硬貨は、死者を助ける重要な役割りをもっており、硬貨を持ってこなかった魂は永遠に冥界をさまようことになる。&lt;p=SUBJECT_RELIGION_HITTITE&gt;死後については所説さまざまだが、どの説も心安らかならぬものである。14日間にわたる儀式は死者が正しい場所に行きつくための準備であり、2日目に遺体を焼いた後、続いて{G0:彼:彼女}が旅の途中で「黒い大地」を避けられるよう、魂を導くためにさらなる儀式と生け贄が行われる。&lt;p=SUBJECT_RELIGION_PERSIA&gt;死後、魂は3日間地上をさまようと考えられている。この間、遺族は儀式を行ったり、生け贄を捧げたりして魂が害されることのないよう援護する。&lt;p=SUBJECT_RELIGION_ROME&gt;死者の影が生者の世界を離れ、冥界の川を渡るとされる前に、遺体を焼いて埋葬しなければならない。生者が催す儀式の宴には、自分たちはこれからも前を向いて生きていけると死者に見せるという目的がある。&lt;else&gt;儀式の準備も遺体の準備も整っている。&lt;end&gt;
+
+{S1.PRIEST,2}司祭は、あなたが{CHARACTER-SHORT-0}のために葬儀を完璧に取り仕切るつもりなのか知りたがっている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSECUTIONS_OF_NATION</zType>
+		<ja>{CITY-1}が炎に包まれ、夜空をオレンジ色の光で染めているとの報せが届いた。新たな統治者、{CHARACTER-0}は民を率いて{PLAYER-0}の{RELIGION-2,1}徒を襲撃し、放火と他にもかの国の悪事をなすりつけたのだった。
+
+宮廷にいる{RELIGION-2,1}徒たちは、{CITY-1}の民を救うべく援軍を出してほしいと願い出ている。どうすべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_WARRIOR</zType>
+		<ja>{CHARACTER-0}は才能ある廷臣を探しており、あなたの国教の長、{CHARACTER-2}に会った。{RELIGION-1,1}の{TITLE-2}が、有能で信仰心の厚い兵士を1人、{G2:彼:彼女}の護衛につけようと申し出た。
+
+あなたはこの聖なる戦士を受け入れるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHUNNED_CLERGY</zType>
+		<ja>{CHARACTER-0}は、{RELIGION-1,1}の聖職者のなかに、あなたの宮廷で博識かつ才能豊かな大臣になりそうな人物に出会った。だがその{S1.PRIEST}は、近ごろ、エキュメニズムについて{CHARACTER-2}と激しい論争を繰り広げ、{G4:彼:彼女}によって職位を剥奪されてしまっていた。
+
+この大臣候補者が、あなたの影響力をもって聖職者に復帰させてほしいと頼んできた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MEETING_THE_DRUIDS</zType>
+		<ja>{FAMILY-4,1}家が{TRIBE-0}と呼ばれる人々と初めて遭遇すると、彼らは宗教的な使節団である&lt;p.is_sub.S0=SUBJECT_TRIBE_GAULS&gt;ドルイド&lt;p=SUBJECT_TRIBE_SCYTHIANS&gt;アナリャ&lt;else&gt;司祭&lt;end&gt;を{CITY-4}に送り込んできた。
+
+{CHARACTER-4}はあなたの指示を仰ごうと、{S2.PRIEST}を使者に寄越した。{FAMILY-4}家は古の神々を称える使節団をどう対処すべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSIAN_ZOROASTRIANISM</zType>
+		<ja>{RELIGION-1}の思想は、{CITY-2}に暮らすゾロアスターという予言者によって革新された。彼は司祭階級の父のもとに生まれ、唯一神、アフラ・マズダの使者であるウォフ・マナフの啓示を受けたという。
+
+神官たちはこの新興宗教をどう扱えばいいのかわからず、あなたの指示を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_SEVEN_BOOKS_OF_MANI</zType>
+		<ja>{RELIGION-0}は他のいかなる宗教よりも、本との関りが強い宗教である。『マニ教駁論集』全7巻は、光の世界について記された、マニの知恵の聖なる源泉であり、楽園への道を示している。だが、{CHARACTER-1}は、これらの聖なる教えがマニの技に関する本を含むのかについては不明だとする。
+
+{TITLE-1}は、聖職者間の分裂を避けるために、あなたに助言を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORSHIP_ON_THE_STREETS</zType>
+		<ja>{S1.GOD}の崇拝が{CITY-0}じゅうに広がっている。信者たちは{FAMILY-2}家の公的な支援によって、信仰の安全が保証されていることに喜びで浮足立っている。{FAMILY-2}家の長老が、{S1.PRIEST,1}たちがいかに都市の運営に貢献できるのかに触れ、国家と宗教の結びつきは、万人に益するものだと示唆している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUPPORT_OF_THE_CLERGY</zType>
+		<ja>{PLAYER-2}に暮らす{RELIGION-1,1}徒たちはあなたの統治に満足している。その都市では敬意を得られ、身の安全が確保されているからだ。この善行はその宗教の聖職者や{S1.PRIEST,2}の間にも広まり、彼らは今、あなたの統治を最も熱心に支持する勢力の1つとなっている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PERSECUTED_FAITH</zType>
+		<ja>{CHARACTER-2}があなたのもとにやって来て、{RELIGION-0}に対する迫害をやめるように懇願している。{G2:彼:彼女}はあなたに対する義務と神に対する義務との間で板挟みになり、自身の民への同情が勝ったようだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_TUTOR_KARTIR</zType>
+		<ja>{CHARACTER-2}には大勢の教師がついているが、{RELIGION-0,1}の司祭が群を抜いて優秀なようだ。{CHARACTER-3}は飽くなき野心を持ち、{PLAYER-4}の国教として{RELIGION-0}を採用させるのが使命だと公言している。
+
+そのような展望と意欲はあっても無駄ではないだろうが、この司祭を宮廷に置くべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_SOUL_OF_SACRIFICE</zType>
+		<ja>{CHARACTER-0}は宮廷で高い地位についており、{RELIGION-1,1}内でも非常に強い影響力を持っている。
+
+その司祭は異教徒が神々に動物を生け贄に捧げていることに狙いを定め、{FAMILY-3,1}家はその見苦しい風習をやめるよう不平を申し立てている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTEMPLATION_THROUGH_MUSIC</zType>
+		<ja>{CHARACTER-0}の信奉者のなかには、教師が音楽と詩を愛好していることに困惑している者がいるようだ。敬愛されているかの哲学者は、「芸術は社会を繁栄させる上で重要な要素であり、倫理や感情、そして天と地の摂理について理解を深めてくれる」という考えを宮廷で強く主張した。
+
+{FAMILY-1,1}家はこの考え方を気に入り、{PLAYER-2,1}の子ども全員の教育に詩を取り入れるよう提案している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IN_HEAVEN_AS_ON_EARTH</zType>
+		<ja>評議会が{RELIGION-1,1}の活性化に効果を発揮している。{CHARACTER-0}が、教会と聖職者を、地上の帝国の浮き沈みに影響されない神の都市と印象を改めさせる熱意あふれる演説を行い、教会を集結させたのである。
+
+長老たちがそれぞれの地方に戻ると、新しい考え方の波はすでに広がっており、信者たちの間にこれまでにはなかった熱気が漂っていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SACRED_SCRIPTURE</zType>
+		<ja>神聖な言葉とは？{CHARACTER-1}は、まさにこの問題に取り組んでいた。{RELIGION-0}の{S0.PRIEST,2}たちは、{S0.HOLYTEXT}の一部としてどの節や文を載せるかについて議論を交わしている。
+
+ある節には{THEOLOGY-3}をほのめかす文言があり、さまざまな階級の聖職者たちはそれを削除することを認めたものの、{CITY-2}の{S0.PRIEST,2}たちはそれを含ませようとして戦っている。すっかり疲弊した{CHARACTER-SHORT-1}は、頑固な聖職者たちに譲歩するよう助言するつもりはあるのかと問うてきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LIKE_HEROES_OF_OLD</zType>
+		<ja>戦いに突入すると、{S2.PAGANGOD}の力が体に満ちてくるかのようだった。戦闘中、あなたの目を覆っていたヴェールを神々が持ち上げてくれたかのようで、あなたには、神々がともに戦い、殺戮へと導いているのが見えていた。
+
+戦闘が終わるとあなたは倒れてしまうが、兵士たちがいうには、あなたは{S0.HERO}や古い英雄たちのように獅子奮迅の活躍ぶりだったそうだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRAVASHI</zType>
+		<ja>毎年、年末が近づくと、フラバシの力を借りようとする祭りが開催される。フラバシとはアフラ・マズダとともに戦って命を落とした戦士の霊であり、敬虔で強い正義感を持っていた先祖たちがなれるものである。
+
+あなたは食事や霊への供物を用意しながら、何を願おうかと考えている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EASTER</zType>
+		<ja>イエス・キリストの最初の弟子たちがそうして以来、彼が墓から甦った日を祝うのは伝統的な祝日となっており、それが次第に{RELIGION-0,3}の信徒たちの間でlink(RELIGION_JUDAISM,1)の過越に置き換わっていった。だがどの日に、どう祝えばいいのかについては明確な定めがない。
+
+所説さまざまだが、この件については今まで真剣に議論されたことがなかった。{CHARACTER-1}は{CITY-2}の長老がその日は途中だと発言したという理由で追放されてしまう。すると、その長老が{RELIGION-0,1}の指導者と上手く取りなすよう、あなたに仲裁を求めてきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CROWNED_IN_FAITH</zType>
+		<ja>{PLAYER-0}の新しい{TITLE-0}となったあなたは今や{PLAYER-0,3}の全住民を統べる指導者である。これには国教である{RELIGION-1}の長としての役割りも含まれるのだが、問題は、あなたが{RELIGION-2,1}徒であることだ。
+
+国家の東井鬱のために自身の信仰を捨てるべきだろうか？それとも{PLAYER-0}に新たな道をもたらすべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_DEFECTOR</zType>
+		<ja>戦のさなか、{CHARACTER-1}は{PLAYER-2,1}の士官、{CHARACTER-3}に発見された。そして戦うことなく、{S2.WEAPON}をかの将官の足元に投げだし、捕虜の身となった。
+
+戦いが終わり、士官が{CHARACTER-SHORT-1}を尋問したところ、{G3:彼:彼女}は{RELIGION-0,1}を離反しており、生まれ故郷よりも自身が信仰する宗教を奉じる国のために戦いたいと主張しているという。{CHARACTER-SHORT-1}はその話を疑っているが、かの裏切り者の処遇についてあなたの意見を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHRINE_OF_THE_HEALING_GOD</zType>
+		<ja>{CHARACTER-3}が、あなたが病だと聞いて飛び込んできた。{G3:彼:彼女}が意味ありげにささやくには、{CITY-2}のとあるカルトでは、{S1.PRIEST,2}が治療効果のある聖なる泉に通っているそうだ。
+
+問い合わせると、その{S1.PRIEST,2}は大金を要求してきた。金を払えば泉を市民に開放するという。あなたはその提案を受け入れるのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_ART_OF_ALLEGORY</zType>
+		<ja>あなたは、{CHARACTER-2}と{CHARACTER-3}が{RELIGION-0}の物語や{RELIGION-1,1}の{PLAYER-0}における地位について激しく言い争っていることに気付いた。{CHARACTER-SHORT-2}は物語を寓話的に解釈しており、どれも初期の詩人たちが道徳的な枠付けを行ったものだと言う。
+
+{CHARACTER-SHORT-3}は一歩も引かず、{CHARACTER-SHORT-2}は初期の神話を書いた者たちがいかに不道徳であったたかについてかばおうとしていていると主張している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TANIT</zType>
+		<ja>メルカートは最高の神と称えられることもある神だが、近年、その称号は別の神に与えられている。三角形の上に円を組み合わせた女神タニトの象徴をあしらった碑文やモザイク画、宝飾品が国じゅうで見られるようになったのだ。
+
+代々メルカートを信奉している{FAMILY-3}家は、{PLAYER-0}の助けを得るには誰を生け贄にするのか尋ねてきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IMMORAL_GODS</zType>
+		<ja>{PLAYER-0}の神々は模範となるべき存在ではない。時に卑屈、時に不誠実で恨みがましく、{RELIGION-1}の物語はぞっとするような人間性を強調するようなものばかりである。{CHARACTER-2}は神々の道徳性、あるいはその欠如について書き記しており、神々は完璧な存在であるため、そのような物語は偽りに違いないと主張している。
+
+この神々の役割と善悪の本質を巡る論争は宮廷にまで波及している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NAOS</zType>
+		<ja>神々はどこに住んでいるのか？{PLAYER-0,1}が考えるには、普段は神殿や寺院で暮らしており、あるいは、儀式の間だけそこを訪れる。だが儀式を行うには、生け贄や供物を捧げる祭壇を備えた開けた場所が屋外に必要となる。
+
+そのような聖なる場所を維持するには金銭の寄付が必要である。{CITY-1}の司祭が神殿の荒廃を食い止めることを名目に、寄付を求めてやって来た。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FIRES_AND_ALTARS</zType>
+		<ja>{PLAYER-0}への訪問者は火を崇拝する人々にまつわる話を世界中じゅうに広めているが、そのような話は真実ではない。{RELIGION-1}の儀式の中心となるのは、火が象徴する、アタルという神性である。
+
+だが、{CITY-2}の火は弱まりつつある。司祭のなかには、祠を建てたことを神々は侮辱だと考えているのではと主張する者がいる。彼らは、本来、人の建てた建物に縛られる神はいない、正確には、そのような神がいてはならないと主張している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_KARPANS</zType>
+		<ja>{PLAYER-0}では{RELIGION-2}の普及に抵抗を持つ市民がいた。{RELIGION-1}の聖職者階級に属する者のなかにカラパンがおり、彼らは新宗教の改革に激しく反発している。そしてどうにか{FAMILY-3,1}家を説得し、自身の主張を支持させようとしているのだった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GAYOMARTAN</zType>
+		<ja>{RELIGION-1}の伝説によると、アフラ・マズダは、全ての動物を生み出した雄牛の死体から最初の人間、ガヤ・マルタンを創造したといわれている。ガヤ・マルタンはあまりに美しかったため、アンラ・マンユは彼を殺し、そこから死を免れない人間たちが生まれた。この人間たちは、アンラ・マンユの嘘にそそのかされ、加護を失ってしまった。
+
+アンラ・マンユの騒乱があったにせよ、それを支持するか否かの問題は残った人類に託された。あなたはどのように支持をするのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SINS_OF_INGRATITUDE</zType>
+		<ja>死後の世界でオシリスの審判を通過するには、その者の魂はマアトの羽1枚と同程度に軽くなければならない。そして、「ハトホルの5つの贈り物」と呼ばれる新しい習慣が生まれた。手の指を使って、感謝している5つの項目を数えるのだ。
+
+だが、このような一致は容易に由来が忘れ去られてしまう。人の心は感謝の気持ちを失うと、闇の力によって罪へと導かれるという。まずは宮廷からその習慣を再開するようにいわれたものの、{CHARACTER-2}は、そのような謙虚さは{TITLE-0}であるあなたにふさわしくないという。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_BEAUTIFUL_FESTIVAL</zType>
+		<ja>{CITY-2}の人々はアムンを称える壮大な祭りを開催している。神の像が箱舟に載せられて{CITY-2}じゅうを巡り、人々は祝、司祭たちは請願者の声に耳を傾ける。
+
+この命と暮らしの祝祭に、あなたは出席を要請されている。美しい祭りでどう過ごすべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_VESTAL</zType>
+		<ja>飽くなき征服欲をもつ{CHARACTER-0}は、ヴェスタの巫女を追い求めたという罪で糾弾されている。巫女たちは純潔を神聖な誓約とみなしている。
+
+{CHARACTER-SHORT-0}の企みは失敗におわったが、昨夜、巫女たちのもとから聖なる火が消え去った。{CHARACTER-1}は巫女たちが務めを果たせなかったとして罰し、これは女神の怒りのしるしであると主張している。{G1:彼:彼女}は、侮辱された巫女たちをなだめるために、あなたに{CHARACTER-SHORT-0}を罰するよう要請している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_KING_FOR_A_DAY</zType>
+		<ja>「{TITLE-0}よ、恐ろしい前兆が出ております」。{CHARACTER-2}が学者と書記官をともなってあなたの前に進み出た。{TITLE-1}は神々が送ってくる兆候を注視している。最近起きた日蝕が、王国を暗くし、強大な力をもつ{TITLE-0}といえど、すぐに死んでしまうことを示唆していると心配しているようだ。
+
+{CHARACTER-SHORT-2}はあなたの命を守るために、身代わりの儀式を行うよう勧めてきた。身代わりが見つかれば、{G0:彼:彼女}があなたに代わって100日間統治した後に殺される。
+
+この身代わりに確実にしるしが下されるようにするには、その間、あなたは身を潜めねばならない。命を守るために隠れるべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FEEDING_THE_GODS</zType>
+		<ja>{PLAYER-0}では、毎日司祭たちが神像の服を洗い、その服を着せている。さらに、足に香油を塗り、食べ物やビールが供物として足元に並べられる。
+
+{CHARACTER-2}は、そのような食べ物を備蓄品として寺院に保管しておくべきだと主張している。だが供物をやめれば、神々は都市を見放し、災いと破壊が訪れるかもしれない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FIRST_CONVERT</zType>
+		<ja>{PLAYER-4}のもとに、新興宗教の{RELIGION-3}とその最初の改宗者に関する報せが届いた。ゾロアスター教の説教を初めて聞いた{CHARACTER-1}は、すぐに予言者を投獄させた。だが、その予言者が{CHARACTER-SHORT-1}の愛馬の傷をいやすと、彼を解放し、{G1:彼:彼女}自身もゾロアスター教の信者となった。
+
+宮廷にいる者の多くはこのような神秘主義的な出来事に懐疑的で、この新興宗教をどう扱えばいいのか、あなたの指示に関心を寄せている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COUNTING_OF_THE_OMER</zType>
+		<ja>「汝、祝福されし者よ。神々の主にして宇宙の王、戒律によって我らを聖別し、オマーを数えるよう命じる者よ」
+
+穀物の束、オマーが{CITY-1}に運ばれてくると、夜風に乗って祝福の声が流れてくる。その祭りの間は、トーラーを受け取る祭りに備えて、日を数えて過ごす。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BEMA</zType>
+		<ja>{RELIGION-0}の戒律をいくら忠実に守ろうとしても、完全無欠の聖者のような暮らしを続けるのは不可能だ。それが人間というものである。その欠陥を贖うために、選良民と平信徒は毎週儀式化した浄化を受け、告解を行うのである。
+
+この贖罪の儀式のなかでも最上位とされるのが、1か月間の断食を終えた後、4日間続くベーマ祭である。人々はマニの玉座の周りに集まり、讃美歌と食事の儀式をとおして告解を行い、過去の罪を許されるのである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FOLLOWERS_OF_CHRIST</zType>
+		<ja>{CITY-1}の{RELIGION-0,1}徒のなかに、イエス・キリストを新たな予言者のように扱い、従い始める者が現われた始めたことで、内紛が起きている。当初は同じような信仰を持っていた信者たちも、その救世主の死後、{RELIGION-0,1}への信仰からますます離れて行っている。
+
+都市の指導者たちは、2つの団体は、特にink(RELIGION_CHRISTIANITY,3)として{RELIGION-0,1}の集会場所で集まり続けていることから、指導者たちは彼らが衝突しないか心配している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_HOLY_BAKERS</zType>
+		<ja>{CITY-1}のパン屋は空っぽだ。{CHARACTER-0}によると、労働者の多くが楽な暮らしを求めて{RELIGION-2,1}の僧や司祭へと食替えしたせいである。
+
+この労働者の大量流出が、都市の暮らしを支える絶妙なバランスを脅かしつつある。どんな解決策を提案できるだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TALES_OF_LEADERS_PAST</zType>
+		<ja>怒りに駆られた{CHARACTER-0}が、あなたの前任者である{CHARACTER-1}の生涯を詳細に伝える新作を書いたと知って、あなたは最初驚いた。詩の大半は、{CHARACTER-SHORT-0}がなぜ知りえたのかわからない{TITLE-1}の不名誉な私生活に言及しているものの、見事な傑作である。
+
+詩人はこの作品を{CITY-2}で上演しており、{PLAYER-2}周辺にも広めようとしている。高貴な諸家は、前統治者の思い出を汚しかねないと懸念し、あなたに行動を起こすよう促している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ZOROASTRIAN_DISSENT</zType>
+		<ja>{CITY-1}の路上では、{RELIGION-0,1}徒の不満が噴出し、{random_R1:ズルワーン教の教えに感化され、より広範な信仰との議論が繰り広げられている。:あなたの政敵のともに身を寄せたマギが反乱分子を指揮している。:アフラ・マズダの信者たちがあなたの統治は不正だと抗議している。}あなたの統治に不満を持つ現地の{S0.PRIEST,2}は、信者を率いて衛兵を襲撃し、王権に抵抗するよう奨励している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JEWISH_DISSENT</zType>
+		<ja>{CITY-1}の路上では、{RELIGION-0,1}徒の不満が噴出し、{random_R1:コハニムが現在の方は不正だとして反乱を起こしている。:都市の信者とともにその待遇に反感を抱いている。}あなたの統治に不満を持つ現地の{S0.PRIEST,2}は、信者を率いて衛兵を襲撃し、王権に抵抗するよう奨励している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHRISTIAN_DISSENT</zType>
+		<ja>{CITY-1}の路上では、{RELIGION-0,1}徒の不満が噴出し、{random_R1:教会の分裂が激化し、暴力的な抗争へと発展している。:都市の司教たちは、ほかの協会からの独立を宣言した。}あなたの統治に不満を持つ現地の{S0.PRIEST,2}は、信者を率いて衛兵を襲撃し、王権に抵抗するよう奨励している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MANICHAEISM_DISSENT</zType>
+		<ja>{CITY-1}の路上では、{RELIGION-0,1}徒の不満が噴出し、{random_R1:普段は温厚なマニ教徒たちが不当な扱いに怒り、暴動を起こしている。:平信徒と選良民がともにあなたの国の規則に従おうとしない。}あなたの統治に不満を持つ現地の{S0.PRIEST,2}は、信者を率いて衛兵を襲撃し、王権に抵抗するよう奨励している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CLERGY</zType>
+		<ja>{PLAYER-3}じゅうにさまざまな神々への信仰が広まるにつれて、神に仕え、神の言葉を解釈すると自称する者も増えてきました。link(CONCEPT_CLERGY)のキャラクターは、異教徒のlink(TRAIT_CLERGY_PAGAN_ASSYRIA,2)、link(TRAIT_CLERGY_ZOROASTRIAN,2)、link(TRAIT_CLERGY_JEWISH,2)、link(TRAIT_CLERGY_CHRISTIAN,2)、link(TRAIT_CLERGY_MANICHAEAN,2)でそれぞれ違いがあります。
+
+link(CONCEPT_CLERGY)のキャラクターに自身の宮廷での仕事を与えると、その宗教からあなたに対する評価が上がり、その特定宗教のlink(CONCEPT_RELIGIOUS_DISSENT)を鎮めることができます。link(MISSION_MAKE_CLERGY)ミッションでは、宗教の長が、あなたが選んだキャラクターを聖職者の一員にすることも可能です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGIOUS_DISSENT_CLERGY</zType>
+		<ja>{CITY-0}でlink(CONCEPT_RELIGIOUS_DISSENT)が勃発しました！この計画は、イベントをとおして追加され、ある宗教があなたの国内であなたに逆上逆上しているときに発生する可能性があります。反乱が起きる確率が上昇するとともに、訓練率が上昇します。
+
+link(CONCEPT_RELIGIOUS_DISSENT)は、{CHARACTER-2}のような、同じ宗教のlink(CONCEPT_CLERGY)であるキャラクターによって、都市から排除されます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EVENTSTORY_TUTORIAL_RELIGIOUS_DISSENT_NO_CLERGY</zType>
+		<ja>{CITY-0}でlink(CONCEPT_RELIGIOUS_DISSENT)が勃発しました！この計画は、イベントをとおして追加され、ある宗教があなたの国内であなたに逆上逆上しているときに発生する可能性があります。反乱が起きる確率が上昇するとともに、都市内で宗教がランダムに普及しなくなります。
+
+link(CONCEPT_RELIGIOUS_DISSENT)は、宗教の長のlink(MISSION_MAKE_CLERGY)ミッションによって作られる、同じ宗教のlink(CONCEPT_CLERGY)であるキャラクターによって都市から排除されます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRIKE_THEM_DOWN</zType>
+		<ja>{CHARACTER-0}は、{RELIGION-1}は国家の存亡にかかわる脅威であると警告し、{RELIGION-1}の{S1.PRIEST,2}を指揮して{RELIGION-2}の普及に対抗してきた。{RELIGION-1}の司祭たちはますます自律性を強め、何かにつけて{RELIGION-2}に反発するようになり、その{RELIGION-2}徒たちを迫害するよう先導し始めた。その脅威から逃れる支援を求めて{CHARACTER-SHORT-0}があなたのもとにやってきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BETROTHAL_COMPLETE_DECISION</zType>
+		<ja>{CHARACTER-0}と{CHARACTER-3}はとうとう成人を迎え、つまり結婚できるようになった。運命の相手と結ばれるのだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STEADY_HANDS</zType>
+		<ja>よい{TITLE-6}とはどのようなものか？{PLAYER-6}の国民にはそれぞれの考えがあり、国の将来について考えを嘆願する代表団を送ってきた。
+
+だが、{PLAYER-6}が進むべき道を最終的に決めるのはあなただ。あなたは{PLAYER-6}をどこに導こうとしているのか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_NEW_DECREE</zType>
+		<ja>{PLAYER-6}が成長するにつれて、国の法令や法律が整備されてきた。その氏族は、{PLAYER-6}の未来のために新しい法令を制定してほしいという。
+
+国の進むべき道を正式に表明するべきだろうか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_EYES_OF_GOD</zType>
+		<ja>{CHARACTER-0}は盲目であるために、宮廷で大半の役職を担うことが許されていない。それでも野心的な{FAMILY-2}の子孫は{S1.GOD}にその人生を捧げ、{RELIGION-1,1}の聖職者となるように嘆願している。
+
+{FAMILY-2,1}の{CHARACTER-2}はその考えに不満を抱いており、一家の運営において{CHARACTER-SHORT-0}は重要な役割を果たしていると主張していた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GENERAL_DEVOTION</zType>
+		<ja>{CHARACTER-SHORT-1}将軍は{CITY-0}のカルト教団の儀式に参加することに熱中し、&lt;p.is_sub.S0=SUBJECT_CITY_CULT_HEALER&gt;link(IMPROVEMENT_CULT_OF_THE_HEALER)&lt;p=SUBJECT_CITY_CULT_MITHRAS&gt;link(IMPROVEMENT_CULT_OF_MITHRAS)&lt;p=SUBJECT_CITY_CULT_ISIS&gt;link(IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS)&lt;p=SUBJECT_CITY_CULT_MOTHER&gt;link(IMPROVEMENT_CULT_OF_THE_MOTHER)&lt;p=SUBJECT_CITY_CULT_ECSTATIC&gt;link(IMPROVEMENT_ECSTATIC_CULT)&lt;p=SUBJECT_CITY_CULT_ANGELIC_DIVINE&gt;link(IMPROVEMENT_CULT_OF_THE_ANGELIC_DIVINE)&lt;p=SUBJECT_CITY_CULT_DUAL&gt;link(IMPROVEMENT_DUAL_CULT)&lt;p=SUBJECT_CITY_CULT_MARTYR&gt;link(IMPROVEMENT_MARTYR_CULT)&lt;p=SUBJECT_CITY_CULT_AMAZON&gt;link(IMPROVEMENT_AMAZON_CULT)&lt;p=SUBJECT_CITY_CULT_CAVALRY&gt;link(IMPROVEMENT_CAVALRY_CULT)&lt;p=SUBJECT_CITY_CULT_FALLEN&gt;link(IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS)&lt;p=SUBJECT_CITY_CULT_HERO&gt;link(IMPROVEMENT_SHRINE_OF_THE_HERO)&lt;p=SUBJECT_CITY_CULT_SWORD&gt;link(IMPROVEMENT_SWORD_CULT)&lt;p=SUBJECT_CITY_CULT_CONSORT&gt;link(IMPROVEMENT_GODS_CONSORT_SHRINE)&lt;else&gt;local cult&lt;end&gt;その指揮権を将官に委譲してしまっていた。統率の取れていない兵士たちは手に負えなくなった。焦燥感に駆られ、酒を飲んだり、野営地内で乱闘騒ぎを起こしたりしている。
+
+秩序を取り戻して欲しいと助けを求めて、士官たちがあなたの元を訪れた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FUGITIVE_FROM_GOD</zType>
+		<ja>{p.is_sub.S0=SUBJECT_EXILED:亡命:逃亡}生活中にも関わらず、{CHARACTER-0}は{TITLE-0}としての地位を維持しようとしている。しかし、{RELIGION-3}の{S3.PRIEST,2}は、その不在の指導者が彼らの要求基準を満たしていないということで意見が一致している。
+
+{S3.PRIEST,2}は、彼らが選んだ候補者{CHARACTER-2}を任命するために、あなたの支援を求めている。{CHARACTER-0}に対する、この最後の侮辱を見過ごすのか？</ja>
+	</Entry>
+</Root>

@@ -1,0 +1,10 @@
+<Root>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_NONE_HELP</zType>
+		<ja>砂漠は内陸にあり、大きな水域はない。注：これはマップモードとしては極端なものです。海上部隊は編成できず、全ての都市を道路や貿易網で結ぶこともできません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_NONE_HELP</zType>
+		<ja>マップは内陸部で、大きな水域は存在していません。注意:海軍ユニットは訓練不能で、当初は全ての都市を道路、交易網で接続することは不可能かもしれません。</ja>
+	</Entry>
+</Root>

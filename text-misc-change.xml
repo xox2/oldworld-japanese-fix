@@ -1,0 +1,34 @@
+<Root>
+	<Entry>
+		<zType>TEXT_PLAYER_NUMBER</zType>
+		<ja>プレイヤー{0_number}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_STAMP_VOLCANO_7</zType>
+		<ja>火山7</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RUINS_SPACE</zType>
+		<ja>廃墟</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TURN</zType>
+		<ja>ターン{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TURN_EVENT</zType>
+		<ja>-イベント-</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EMAIL_SUBJECT_YOUR_TURN</zType>
+		<ja>Old World {0} -あなたのターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EMAIL_SUBJECT_DEFEAT</zType>
+		<ja>Old World {0} -あなたは敗北しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EMAIL_SUBJECT_REMINDER</zType>
+		<ja>Old World {0} :リマインダー</ja>
+	</Entry>
+</Root>

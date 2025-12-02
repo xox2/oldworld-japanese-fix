@@ -1,0 +1,10 @@
+<Root>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
+		<ja>{CHARACTER-SUBJECT}は追跡部隊から逃れ、国外に逃亡した！{masculine_CHARACTER-SUBJECT:彼:彼女}は今、あなたの手の届かないところに隠れている...。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
+		<ja>朗報！{CHARACTER-TARGET}があなたの結婚の申し込みに同意した。おめでとう！</ja>
+	</Entry>
+</Root>

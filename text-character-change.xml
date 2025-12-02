@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>TEXT_CHARACTER_FULL_NAME_EXTRA</zType>
+		<ja>({0_data})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_GAINS_TRAIT_ITEM</zType>
+		<ja>{0_character}:が{1_trait}になりました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_NO_LONGER</zType>
+		<ja>（もう{0}ではない）</ja>
+	</Entry>
+</Root>

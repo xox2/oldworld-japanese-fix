@@ -1,0 +1,30 @@
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_LAST_REQUEST_OPTION_1</zType>
+		<ja>{CHARACTER-SHORT-0}が、どんなに豪華な墓に入ろうとも気にしない。{CHARACTER-SHORT-1}が私の後を追うことはないだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_EXTRAVAGANT_CONDUCT_OPTION_0</zType>
+		<ja>深いため息をつく。「愛すべき{PLAYER-0}のために、いくつか…大胆で厳しめな案を提案しよう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_RISING_STAR_0</zType>
+		<ja>{CHARACTER-SHORT-0}の処遇については、よく検討しておく…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_AMBITION_STRESS_VOLUNTEERS_OPTION_1</zType>
+		<ja>{CHARACTER-SHORT-2}の言葉にはっとする。{PLAYER-0}が本当に必要としているものを考え直さなければ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_PUT_TO_THE_SWORD_OPTION_0</zType>
+		<ja>{PLAYER-3}には{CHARACTER-SHORT-3}のような者が必要なのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_RISING_RECOGNITION_OPTION_0</zType>
+		<ja>{CHARACTER-SHORT-1}を{G1:息子:娘}と呼べる栄誉を預かれば、光栄だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_PLOT_TAKES_SHAPE_OPTION_1</zType>
+		<ja>宮廷は{CHARACTER-SHORT-POSS-0}の命運を握っている…私の胸は痛むばかりだ。{G1:彼:彼女}にとって、全てそれは遊戯の駒のようなものだった。確かに後ろ暗い才能だが、私の中にある一部は憧れすら抱いている。</ja>
+	</Entry>
+</Root>

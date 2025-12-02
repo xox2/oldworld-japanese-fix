@@ -1,0 +1,10 @@
+<Root>
+	<Entry>
+		<zType>TEXT_HINT_62</zType>
+		<ja>都市のlink(YIELD_HAPPINESS)バーが満タンになると、全体のlink(YIELD_HAPPINESS)レベルが上がり、link(YIELD_GROWTH,1)が増加し、link(YIELD_MAINTENANCE,1)は減少します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_91</zType>
+		<ja>link(CONCEPT_FAMILY)の主導者たちを幸せな状態に保ちましょう！link(MISSION_INFLUENCE)を彼らに直接与えたり、他の重要なキャラクターにあなたの代わりに仲裁に入らせたりしましょう。</ja>
+	</Entry>
+</Root>
