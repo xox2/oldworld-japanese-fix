@@ -2,10 +2,10 @@
 <Root>
 	<Entry>
 		<zType>LANGUAGE_TRANSLATION</zType>
-		<Name>TEXT_LANGUAGE_FIXJAPANESE</Name>
-		<zFieldName>fixja</zFieldName>
+		<Name>TEXT_LANGUAGE_JAPANESE</Name>
+		<zFieldName>ja</zFieldName>
 		<zFieldNameSecondary>Japanese</zFieldNameSecondary>
-		<zISOCode>fixja</zISOCode>
+		<zISOCode>ja</zISOCode>
 		<iExportColumn>7</iExportColumn>
 		<bPublicBuild>1</bPublicBuild>
 		<zSingularExpression>x==1</zSingularExpression>
