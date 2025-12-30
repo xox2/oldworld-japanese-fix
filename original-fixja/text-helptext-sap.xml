@@ -18,113 +18,49 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LOCAL_CULT</zType>
 		<en-US>Cults are Improvements built via certain events. Each has a powerful effect, however having too many in your Nation may start to cause problems...</en-US>
-		<es>Los cultos son proyectos de ciudad con efectos poderosos. Eso sí, tener demasiados en tu nación podría acarrear problemas...</es>
-		<de>Kulte sind Erweiterungen, die durch bestimmte Ereignisse entstehen und starke Auswirkungen haben. Existieren zu viele Kulte in einer Nation, kann dies Probleme verursachen …</de>
-		<fr>Les cultes sont des aménagements construits via certains événements. Ils disposent chacun d'un effet puissant, mais en avoir trop dans votre nation risque de causer des problèmes...</fr>
 		<ja>「カルト」は特定のイベントをとおして形成される改善策です。いずれのカルトも影響力が大きく、あまりにたくさんのカルトを擁すると、国家に問題が発生する可能性があります。</ja>
-		<zh-TW>教派是通過特定事件創造的改良設施，具有強大效應。然而，如果你的國家擁有太多的教派，可能會帶來一些問題…</zh-TW>
-		<ru>Культы — это улучшения, которые можно построить при помощи событий. Они очень эффективны, но если их становится слишком много, они начинают создавать проблемы…</ru>
-		<zh-CN>教派是通过特定事件创造的改良设施，具有强大效应。然而，如果你的国家拥有太多的教派，可能会带来一些问题…</zh-CN>
-		<pt-BR>Os cultos são melhorias construídas através de certos eventos. Cada um deles tem efeitos poderosos, mas ter cultos demais em sua nação pode começar a causar problemas...</pt-BR>
-		<ko>교단은 특정한 사건을 통해 건설되는 시설입니다. 모두 강력한 효과를 보유하고 있지만 국가에 너무 많은 교단이 생기면 문제가 발생할 수 있습니다...</ko>
 		<fixja>「カルト」は特定のイベントをとおして形成される改善策です。いずれのカルトも影響力が大きく、あまりにたくさんのカルトを擁すると、国家に問題が発生する可能性があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POTENTIAL_CLERGY</zType>
 		<en-US>Clergy Types:</en-US>
-		<es>Tipos de miembro del clero:</es>
-		<de>Kleriker-Typen:</de>
-		<fr>Types de clergé :</fr>
 		<ja>聖職者のタイプ:</ja>
-		<zh-TW>神職人員類型：</zh-TW>
-		<ru>Типы священнослужителей:</ru>
-		<zh-CN>神职人员类型：</zh-CN>
-		<pt-BR>Tipos de membros do clero:</pt-BR>
-		<ko>성직자 유형:</ko>
 		<fixja>聖職者のタイプ:</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PAGAN_CLERGY</zType>
 		<en-US>In addition to link(CONCEPT_CLERGY) effects, Pagan Clergy can use the link(MISSION_PAGAN_SACRIFICES) Mission to increase link(YIELD_HAPPINESS) in Pagan Cities and have an increased chance to become the next Religion Head.</en-US>
-		<es>Además de los efectos del link(CONCEPT_CLERGY), un miembro del clero pagano puede usar misiones de link(MISSION_PAGAN_SACRIFICES) para aumentar la link(YIELD_HAPPINESS) en ciudades paganas y tener mayores probabilidades de convertirse en el próximo líder de religión.</es>
-		<de>Neben link(CONCEPT_CLERGY)-Effekten gewährt Heidnischer Klerus die Möglichkeit, sich der Mission „link(MISSION_PAGAN_SACRIFICES)“ zu bedienen, um die link(YIELD_HAPPINESS) in heidnischen Städten zu erhöhen. Außerdem hat der Klerus eine höhere Chance, zum nächsten Religionsoberhaupt zu werden.</de>
-		<fr>En plus des effets du link(CONCEPT_CLERGY), le clergé païen peut utiliser la mission link(MISSION_PAGAN_SACRIFICES) pour augmenter le link(YIELD_HAPPINESS) dans les cités païennes et ont une chance accrue de devenir le prochain chef religieux.</fr>
 		<ja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</ja>
-		<zh-TW>除了link(CONCEPT_CLERGY)效果之外，異教神職人員可以通過link(MISSION_PAGAN_SACRIFICES)任務來提高異教城市的link(YIELD_HAPPINESS)，還能提高成為下一任宗教領袖的機率。</zh-TW>
-		<ru>Помимо эффектов {lowercase:link(CONCEPT_CLERGY,1)}, языческое духовенство может выполнять задание «link(MISSION_PAGAN_SACRIFICES)» и увеличивать {lowercase:link(YIELD_HAPPINESS,3)} в языческих городах. Также повышается вероятность, что языческий жрец станет следующим верховными священником.</ru>
-		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，异教神职人员可以通过link(MISSION_PAGAN_SACRIFICES)任务来提高异教城市的link(YIELD_HAPPINESS)，还能提高成为下一任宗教领袖的几率。</zh-CN>
-		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero pagão podem usar a missão de link(MISSION_PAGAN_SACRIFICES) para aumentar a link(YIELD_HAPPINESS) em cidades pagãs e têm uma chance maior de se tornarem o próximo líder religioso.</pt-BR>
-		<ko>다신교 성직자는 link(CONCEPT_CLERGY) 효과가 제공고, 다신교 도시에서 link(MISSION_PAGAN_SACRIFICES) 임무를 통해 link(YIELD_HAPPINESS)를 늘릴 수 있으며, 차기 교주가 될 확률이 증가합니다.</ko>
 		<fixja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_WORLD_CLERGY</zType>
 		<en-US>In addition to link(CONCEPT_CLERGY) effects, World Clergy can use the link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) Mission to remove link(CONCEPT_RELIGIOUS_DISSENT) from Cities without causing link(YIELD_DISCONTENT) and can also act as link(CONCEPT_AGENT,2) in Cities of their Religion.</en-US>
-		<es>Además de los efectos del link(CONCEPT_CLERGY), el clero mundial puede usar la misión de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) para eliminar la link(CONCEPT_RELIGIOUS_DISSENT) de las ciudades sin crear link(YIELD_DISCONTENT) y además puede actuar como link(CONCEPT_AGENT) en ciudades de su religión.</es>
-		<de>Neben link(CONCEPT_CLERGY)-Effekten gewährt Weltklerus die Möglichkeit, die Mission link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) zu verwenden, um link(CONCEPT_RELIGIOUS_DISSENT,2) aus den Städten zu entfernen, ohne für zusätzliche link(YIELD_DISCONTENT) zu sorgen. Außerdem besteht die Möglichkeit, in Städten dieser Religion als link(CONCEPT_AGENT) zu fungieren.</de>
-		<fr>En plus des effets du link(CONCEPT_CLERGY), le clergé du monde peut utiliser la mission link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) pour supprimer le link(CONCEPT_RELIGIOUS_DISSENT) des cités sans causer de link(YIELD_DISCONTENT) et peut aussi agir en tant qu’link(CONCEPT_AGENT,2) dans les cités de la même religion.</fr>
 		<ja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</ja>
-		<zh-TW>除了link(CONCEPT_CLERGY)效果之外，世界神職人員可以透過link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)任務平定城市中的link(CONCEPT_RELIGIOUS_DISSENT)，而不會引起link(YIELD_DISCONTENT)，還可以在相應宗教的城市中作為link(CONCEPT_AGENT,2)。</zh-TW>
-		<ru>Помимо эффектов {lowercase:link(CONCEPT_CLERGY,1)}, священнослужитель мировой религии может выполнять задание «link(MISSION_QUELL_DISSENT_ZOROASTRIANISM)» и прекращать {lowercase:link(CONCEPT_RELIGIOUS_DISSENT)} в городах, не вызывая {lowercase:link(YIELD_DISCONTENT,1)}. Кроме того, такие священнослужители могут быть {lowercase:link(CONCEPT_AGENT,10)} в городах, где главенствует их религия.</ru>
-		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，世界神职人员可以通过link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)任务平定城市中的link(CONCEPT_RELIGIOUS_DISSENT)，而不会引起link(YIELD_DISCONTENT)，还可以在相应宗教的城市中充当link(CONCEPT_AGENT,2)。</zh-CN>
-		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero das religiões mundiais podem usar a missão de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) para remover link(CONCEPT_RELIGIOUS_DISSENT) de cidades sem provocar link(YIELD_DISCONTENT) e também podem atuar como link(CONCEPT_AGENT,2) em cidades de sua religião</pt-BR>
-		<ko>세계 종교 성직자는 link(CONCEPT_CLERGY) 효과가 제공되고, link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) 임무를 통해 link(YIELD_DISCONTENT) 증가 없이 도시의 link(CONCEPT_RELIGIOUS_DISSENT)을 제거할 수 있으며, 같은 종교를 믿는 도시에서 link(CONCEPT_AGENT,2)으로 활용할 수 있습니다.</ko>
 		<fixja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CLERGY_LIMIT</zType>
 		<en-US>Max 2 per Nation</en-US>
-		<es>Máx. 2 por nación</es>
-		<de>Max. 2 pro Nation</de>
-		<fr>Max 2 par nation</fr>
 		<ja>1国につき最大2人まで</ja>
-		<zh-TW>每個國家最多 2 個</zh-TW>
-		<ru>Не более 2 на нацию</ru>
-		<zh-CN>每个国家最多 2 个</zh-CN>
-		<pt-BR>Máx. de 2 por nação</pt-BR>
-		<ko>국가당 최대 2명</ko>
 		<fixja>1国につき最大2人まで</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PAGAN_CLERGY_TRAIT</zType>
 		<en-US>Part of the link(CONCEPT_PAGAN_CLERGY)</en-US>
-		<es>Parte del link(CONCEPT_PAGAN_CLERGY)</es>
-		<de>Teil des link(CONCEPT_PAGAN_CLERGY)</de>
-		<fr>Fait partie du link(CONCEPT_PAGAN_CLERGY)</fr>
 		<ja>link(CONCEPT_PAGAN_CLERGY)の一部</ja>
-		<zh-TW>link(CONCEPT_PAGAN_CLERGY)的一部分</zh-TW>
-		<ru>Принадлежит к link(CONCEPT_PAGAN_CLERGY,2)</ru>
-		<zh-CN>link(CONCEPT_PAGAN_CLERGY)的一部分</zh-CN>
-		<pt-BR>Membro do link(CONCEPT_PAGAN_CLERGY)</pt-BR>
-		<ko>link(CONCEPT_PAGAN_CLERGY)의 일부</ko>
 		<fixja>link(CONCEPT_PAGAN_CLERGY)の一部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WORLD_CLERGY_TRAIT</zType>
 		<en-US>Part of the link(CONCEPT_WORLD_CLERGY)</en-US>
-		<es>Parte del link(CONCEPT_WORLD_CLERGY)</es>
-		<de>Teil des link(CONCEPT_WORLD_CLERGY)</de>
-		<fr>Fait partie du link(CONCEPT_WORLD_CLERGY)</fr>
 		<ja>link(CONCEPT_WORLD_CLERGY)の一部</ja>
-		<zh-TW>link(CONCEPT_WORLD_CLERGY)的一部分</zh-TW>
-		<ru>Принадлежит к link(CONCEPT_WORLD_CLERGY,2)</ru>
-		<zh-CN>link(CONCEPT_WORLD_CLERGY)的一部分</zh-CN>
-		<pt-BR>Membro do link(CONCEPT_WORLD_CLERGY)</pt-BR>
-		<ko>link(CONCEPT_WORLD_CLERGY)의 일부</ko>
 		<fixja>link(CONCEPT_WORLD_CLERGY)の一部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CLERGY_TRAIT</zType>
 		<en-US>Part of the link(CONCEPT_CLERGY)</en-US>
-		<es>Parte del link(CONCEPT_CLERGY)</es>
-		<de>Teil des link(CONCEPT_CLERGY)</de>
-		<fr>Fait partie du link(CONCEPT_CLERGY)</fr>
 		<ja>link(CONCEPT_CLERGY)の一部</ja>
-		<zh-TW>link(CONCEPT_CLERGY)的一部分</zh-TW>
-		<ru>Принадлежит к link(CONCEPT_CLERGY,2)</ru>
-		<zh-CN>link(CONCEPT_CLERGY)的一部分</zh-CN>
-		<pt-BR>Membro do link(CONCEPT_CLERGY)</pt-BR>
-		<ko>link(CONCEPT_CLERGY)의 일부</ko>
 		<fixja>link(CONCEPT_CLERGY)の一部</fixja>
 	</Entry>
 	<Entry>
@@ -134,51 +70,11 @@
 But this is a time of change, when not even divinity is constant. New gods and heroes attract followers to their social and mystical link(CONCEPT_LOCAL_CULT), while world religions emerge and spread, seeking to establish their legal and theological footing among the common people and the courts of royalty alike. New leaders, the link(CONCEPT_CLERGY), guide the faithful, whose reverent passion can spill into the streets as link(CONCEPT_RELIGIOUS_DISSENT) if not appeased.
 
 Tread carefully as you navigate these rituals and religions; the beliefs of a nation may see it rise or fall. </en-US>
-		<es>Los dioses nos vigilan de cerca. La religión no es solo cosa de fe, sino un acto de la vida cotidiana, una colección de rituales y ritos con los que evitar la ruina que provoca la ira de un dios.
-
-Sin embargo, es hora del cambio, pues ni siquiera la divinidad es constante. Hay nuevos dioses y héroes que atraen seguidores a sus link(CONCEPT_LOCAL_CULT,2), rebosantes de socialización y misticismo. Las nuevas religiones se extienden por todo el mundo e intentan apoderarse de los principios legales y teológicos tanto del pueblo común como de la corte y la realeza. Los nuevos líderes, el link(CONCEPT_CLERGY), guían a los fieles, que extienden su fervor por las calles en forma de link(CONCEPT_RELIGIOUS_DISSENT) si no se los apacigua.
-
-Estos rituales y religiones son un asunto delicado: las creencias de una nación pueden suponer su auge, o su caída. </es>
-		<de>Die Götter beobachten uns zu jeder Zeit. Die Religion ist noch keine Frage des Glaubens, sondern ein Teil des täglichen Lebens – eine Sammlung von Ritualen und Riten, die weiterentwickelt werden, um nicht den Zorn eines Gottes auf uns zu ziehen.
-
-Doch wir leben in einer Zeit des Wandels, in der nicht einmal das Göttliche Bestand hat. Neue Götter und Helden locken Anhänger für ihre sozialen und mystischen link(CONCEPT_LOCAL_CULT) an, während Weltreligionen entstehen, sich ausbreiten und versuchen, sich sowohl beim einfachen Volk als auch an den Höfen der Könige rechtlich und theologisch zu verankern. Neue Oberhäupter, die link(CONCEPT_CLERGY), leiten die Gläubigen an, deren religiöser Eifer als link(CONCEPT_RELIGIOUS_DISSENT) auf die Straßen überschwappen kann, wenn sie nicht besänftigt werden.
-
-Geht mit Bedacht vor, wenn Ihr Euch für Rituale und Religionen entscheidet, denn der Glaube einer Nation kann ihren Aufstieg oder ihren Untergang bedeuten. </de>
-		<fr>Les dieux observent attentivement. La question de la foi ne définit pas encore la religion. Il s'agit d'un acte de la vie quotidienne, d'un ensemble de rites et rituels élaborés voués à contenter les divinités, dans l'espoir d'éviter les cataclysmes.
-
-Mais en cette période de changement, même ce qui est divin ne saurait être constant. Tandis que les link(CONCEPT_LOCAL_CULT) voués à de nouveaux dieux et héros, par leurs aspects sociaux et mystiques, rassemblent toujours des adeptes, les religions mondiales émergent et se propagent, désireuses d'imposer leurs fondements juridiques et théologiques au petit peuple comme à leurs souverains. Les nouveaux dirigeants, membres du link(CONCEPT_CLERGY), guident des fidèles, dont la passion révérencieuse se répand dans les rues en créant du link(CONCEPT_RELIGIOUS_DISSENT) si nul ne l'apaise.
-
-Approchez ces rituels et religions avec prudence, car les croyances d'une nation peuvent la mener au triomphe ou à la chute. </fr>
 		<ja>神々が注意深く見ている。宗教は信仰の問題というよりは、神の怒りによる災厄を避けるための試みとして発展した。そして日常生活の中での営み、様々な儀式や礼拝の集合体から成り立っている。
 
 だが、今は変化の時代である。その神性でさえ不変ではない。新たな神々と英雄たちが、社会的かつ神秘的なlink(CONCEPT_LOCAL_CULT)に信者を引きつける一方で、世界では新たな宗教が出現し、大きな広がりを見せている。このような宗教は平民と王族の宮廷の双方において、その法的及び神学的な基盤を築こうとしていた。新たな指導者──link(CONCEPT_CLERGY)は、敬虔で熱心な信者たちを導く。しかし、その情熱が満たされないと、link(CONCEPT_RELIGIOUS_DISSENT)として街頭へ流出してしまうこともある。
 
 こういった儀式や宗教を扱う場合は慎重に。国の信仰は、その興亡を左右することもある。 </ja>
-		<zh-TW>眾神密切注視著發生的一切。當前，宗教並不是一個信仰問題，而是日常生活的一種行為，是各種儀式的集合，目的是為了避免神的憤怒帶來毀滅性的災難。
-
-但這是一個巨變的時代，甚至連神性都不是永恆的。新的神和新的英雄們吸引著他們的追隨者進入他們的社會，加入神聖的link(CONCEPT_LOCAL_CULT)。同時，世界宗教出現並得到傳播，想要在平民和皇室中都建立起他們的法律和神學基礎。新的領袖，link(CONCEPT_CLERGY)，引導著虔誠的信徒，如果不加以安撫，他們信仰的激情會演變成link(CONCEPT_RELIGIOUS_DISSENT)湧上街頭。
-
-在與這些儀式和宗教打交道時，請小心行事，一個國家的興衰取決於其的信仰。</zh-TW>
-		<ru>Боги не сводят с вас глаз. Религия — это по-прежнему не вопрос веры, а неотъемлемая часть жизни, набор ритуалов, призванных отвести божественный гнев.
-
-Но времена меняются, а вместе с ними меняются и небесные силы. Новые боги и герои привлекают сторонников в таинственные {lowercase:link(CONCEPT_LOCAL_CULT,8)}, а мировые религии распространяются все больше и больше, укореняясь среди простого люда и аристократии. Должность {lowercase:link(CONCEPT_CLERGY,1)} становится важнее, чем когда-либо. Эти новые лидеры ведут за собой верующих, и нередко их энтузиазм вызывает {lowercase:link(CONCEPT_RELIGIOUS_DISSENT,8)}.
-
-Действуйте осмотрительно: в сложном мире верований, ритуалов и культов выживание и процветание государства нередко зависит от богов и их воли. </ru>
-		<zh-CN>众神密切注视着发生的一切。当前，宗教并不是一个信仰问题，而是日常生活的一种行为，是各种仪式的集合，目的是为了避免神的愤怒带来毁灭性的灾难。
-
-但这是一个巨变的时代，甚至连神性都不是永恒的。新的神和新的英雄们吸引着他们的追随者进入他们的社会，加入神圣的link(CONCEPT_LOCAL_CULT)。同时，世界宗教出现并得到传播，想要在平民和皇室中都建立起他们的法律和神学基础。新的领袖，link(CONCEPT_CLERGY)，引导着虔诚的信徒，如果不加以安抚，他们虔诚的激情会演变成link(CONCEPT_RELIGIOUS_DISSENT)涌上街头。
-
-在与这些仪式和宗教打交道时，请小心行事，一个国家的兴衰取决于它的信仰。 </zh-CN>
-		<pt-BR>Os deuses observam de perto. A religião ainda não é uma questão de fé, mas sim uma parte do dia a dia, conjuntos de ritos e rituais desenvolvidos como tentativas de evitar a ruína trazida pela raiva de algum deus.
-
-Mas estes são momentos de mudanças, nos quais nem mesmo a divindade é uma certeza. Novos deuses e heróis atraem seguidores a seus link(CONCEPT_LOCAL_CULT), enquanto as religiões mundiais surgem e se difundem buscando estabelecer seu controle legal e teológico entre as massas e as cortes reais. Novos líderes, os membros do link(CONCEPT_CLERGY), guiam os fieis cujo fervor pode acabar chegando às ruas como link(CONCEPT_RELIGIOUS_DISSENT) se não for acalmado.
-
-Prossiga com cautela enquanto navega através dos rituais e religiões. As crenças de uma nação podem acompanhá-la na glória ou na queda. </pt-BR>
-		<ko>신들께서는 우리를 굽어살피십니다. 종교는 신앙의 문제가 아닌 일상 생활의 행위로, 신의 분노로 인한 재앙적인 파멸을 피하기 위해 발전하는 의식과 의례의 집합체입니다.
-
-하지만 지금은 변화의 시대로, 신성조차도 불변이 아닙니다. 새로운 신들과 영웅들이 추종자들을 사회적이고 신비한 link(CONCEPT_LOCAL_CULT)에 끌어당기고 있으며, 세계 종교들이 출현하고 퍼지면서 대중과 궁정의 왕족들 사이에서 법적, 신학적 기반을 확립하려고 합니다. 세로운 지도자인 link(CONCEPT_CLERGY)들은 link(CONCEPT_RELIGIOUS_DISSENT)가 충족되지 않는 신자들이 경건한 열정을 거리로 쏟게끔 인도합니다.
-
-이러한 의식들과 종교들을 다룰 때는 신중을 기하십시오. 국가의 신념에 따라 이들이 성장하거나 쇠퇴할 수 있습니다. </ko>
 		<fixja>神々が注意深く見ている。宗教は信仰の問題というよりは、神の怒りによる災厄を避けるための試みとして発展した。そして日常生活の中での営み、様々な儀式や礼拝の集合体から成り立っている。
 
 だが、今は変化の時代である。その神性でさえ不変ではない。新たな神々と英雄たちが、社会的かつ神秘的なlink(CONCEPT_LOCAL_CULT)に信者を引きつける一方で、世界では新たな宗教が出現し、大きな広がりを見せている。このような宗教は平民と王族の宮廷の双方において、その法的及び神学的な基盤を築こうとしていた。新たな指導者──link(CONCEPT_CLERGY)は、敬虔で熱心な信者たちを導く。しかし、その情熱が満たされないと、link(CONCEPT_RELIGIOUS_DISSENT)として街頭へ流出してしまうこともある。
@@ -188,29 +84,13 @@ Prossiga com cautela enquanto navega através dos rituais e religiões. As cren�
 	<Entry>
 		<zType>TEXT_HELPTEXT_EACH_CLERGY</zType>
 		<en-US>Each Clergy: {0_yieldValue} per {1_turnScale}</en-US>
-		<es>Cada miembro del clero: {0_yieldValue} por {1_turnScale}</es>
-		<de>Jeder Kleriker: {0_yieldValue} pro {1_turnScale}</de>
-		<fr>Chaque clergé : {0_yieldValue} par {1_turnScale}</fr>
 		<ja>各聖職者: {1_turnScale}ごとに{0_yieldValue}</ja>
-		<zh-TW>每位神職人員：{0_yieldValue}每{1_turnScale}</zh-TW>
-		<ru>Каждый священнослужитель: {0_yieldValue} за {1_turnScale}</ru>
-		<zh-CN>每位神职人员：{0_yieldValue}每{1_turnScale}</zh-CN>
-		<pt-BR>Cada membro do clero: {0_yieldValue} por {1_turnScale}</pt-BR>
-		<ko>각 성직자: {1_turnScale}당 {0_yieldValue}</ko>
 		<fixja>各聖職者: {1_turnScale}ごとに{0_yieldValue}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
 		<en-US>Clergy are representatives of their link(CONCEPT_RELIGION) in your court. Each Clergy member gives a bonus to their Religion's Opinion, increased or decreased by their personal opinion of you. Clergy can be created through the link(MISSION_MAKE_CLERGY) Mission. They can act as link(CONCEPT_TUTOR,1) and have extra abilities depending on if they are link(CONCEPT_PAGAN_CLERGY) or link(CONCEPT_WORLD_CLERGY).</en-US>
-		<es>El clero hace de representantes de la {lowercase:link(CONCEPT_RELIGION)} en la corte. Cada miembro del clero otorga una bonificación a la opinión de su religión, que aumenta o disminuye según la opinión que tenga de ti. Puedes crear clero con la misión link(MISSION_MAKE_CLERGY). Los miembros del clero pueden actuar como {lowercase:link(CONCEPT_TUTOR,2)} y disponen de habilidades adicionales dependiendo de si son parte del {lowercase:link(CONCEPT_PAGAN_CLERGY)} o del {lowercase:link(CONCEPT_WORLD_CLERGY)}.</es>
-		<de>Kleriker sind Vertreter ihrer jeweiligen link(CONCEPT_RELIGION) am Hofe. Jedes Mitglied des Klerus erhöht die Meinung seiner spezifischen Religion Euch gegenüber. Dieser Bonus erhöht oder verringert sich auf Grundlage der persönlichen Meinung der betreffenden Person. Kleriker können mithilfe der Mission link(MISSION_MAKE_CLERGY) erzeugt werden. Sie können als link(CONCEPT_TUTOR) fungieren und besitzen zusätzliche Fähigkeiten basierend auf ihrer Ausrichtung – link(CONCEPT_PAGAN_CLERGY) oder link(CONCEPT_WORLD_CLERGY).</de>
-		<fr>Le clergé représente sa link(CONCEPT_RELIGION) dans votre cour. Chacun des membres du clergé donnent un bonus à l'opinion sur sa religion, augmenté ou réduit par leurs opinions de vous. Le clergé peut être créé au moyen de la mission link(MISSION_MAKE_CLERGY). Les membres du clergé peuvent agir en tant que link(CONCEPT_TUTOR,1) et avoir des capacités supplémentaires en fonction de leur appartenance au link(CONCEPT_PAGAN_CLERGY) ou au link(CONCEPT_WORLD_CLERGY).</fr>
 		<ja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</ja>
-		<zh-TW>神職人員是宮廷中link(CONCEPT_RELIGION)的代表。每位神職人員都能為其信仰的好感度提供獎勵，並根據他們對你的好感度增加或減少獎勵。可透過link(MISSION_MAKE_CLERGY)創立神職人員。他們可作為link(CONCEPT_TUTOR,1)，並根據是否為link(CONCEPT_PAGAN_CLERGY)或link(CONCEPT_WORLD_CLERGY)具備額外能力。</zh-TW>
-		<ru>Духовенство представляет различные {lowercase:link(CONCEPT_RELIGION,9)} при вашем дворе. Каждый его представитель влияет на мнение последователей своей религии о вашем правлении, исходя из собственного мнения о вас. Привлекать новых священнослужителей можно с помощью задания «link(MISSION_MAKE_CLERGY)». Они могут выступать в качестве {lowercase:link(CONCEPT_TUTOR,7)} и обладать дополнительными способностями в зависимости от того, являются они {lowercase:link(CONCEPT_PAGAN_CLERGY,4)} или {lowercase:link(CONCEPT_WORLD_CLERGY,4)}.</ru>
-		<zh-CN>神职人员是你宫廷中代表其link(CONCEPT_RELIGION)的人员。每名神职人员对你的个人看法，会提高或降低其宗教对你的好感。你可以通过link(MISSION_MAKE_CLERGY)任务任命神职人员。他们可以作为link(CONCEPT_TUTOR,1)活动，如果他们是link(CONCEPT_PAGAN_CLERGY)或link(CONCEPT_WORLD_CLERGY)还会拥有额外的能力。</zh-CN>
-		<pt-BR>Os clero é composto por representantes de suas respectivas link(CONCEPT_RELIGION,2) em sua corte. Cada membro do clero concede um bônus à opinião da religião deles, aumentado ou diminuído de acordo com a opinião pessoal deles sobre você. O clero pode ser formado coma missão link(MISSION_MAKE_CLERGY). Eles podem trabalhar como link(CONCEPT_TUTOR,2) e ter habilidades adicionais a depender se são link(CONCEPT_PAGAN_CLERGY) ou link(CONCEPT_WORLD_CLERGY).</pt-BR>
-		<ko>성직자는 당신 궁정의 link(CONCEPT_RELIGION)를 대표하는 사람입니다. 각 성직자는 종교의 태도에 보정을 주며 당신에 대한 개인적인 태도에 따라 증가하거나 감소합니다. 성직자는 link(MISSION_MAKE_CLERGY) 임무를 통해 생성할 수 있습니다. 성직자는 link(CONCEPT_TUTOR,1)가 될 수 있으며 link(CONCEPT_PAGAN_CLERGY) 혹은 link(CONCEPT_WORLD_CLERGY)에 따라 추가 능력이 있습니다.</ko>
 		<fixja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</fixja>
 	</Entry>
 </Root>

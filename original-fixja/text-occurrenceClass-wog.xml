@@ -4,15 +4,7 @@
 	<Entry>
 		<zType>TEXT_OCCURRENCECLASS_CALAMITIES</zType>
 		<en-US>Calamities</en-US>
-		<es>Calamidades</es>
-		<de>Katastrophen</de>
-		<fr>Calamités</fr>
 		<ja>自然災害</ja>
-		<zh-TW>自然災害</zh-TW>
-		<ru>Бедствия</ru>
-		<zh-CN>自然灾害</zh-CN>
-		<pt-BR>Calamidades</pt-BR>
-		<ko>재난</ko>
 		<fixja>自然災害</fixja>
 	</Entry>
 </Root>

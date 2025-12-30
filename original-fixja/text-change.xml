@@ -3,43 +3,19 @@
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_HORSE</zType>
 		<en-US>Horse Supply</en-US>
-		<es>Importar caballos</es>
-		<de>Pferde importieren</de>
-		<fr>Importer des chevaux</fr>
 		<ja>輸入馬</ja>
-		<zh-TW>進口馬匹</zh-TW>
-		<ru>ввоз лошадей~ввоза лошадей~ввозу лошадей~ввоз лошадей~ввозом лошадей~ввозе лошадей</ru>
-		<zh-CN>进口马匹</zh-CN>
-		<pt-BR>Importar Cavalos</pt-BR>
-		<ko>말 수입</ko>
 		<fixja>輸入馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_ELEPHANT</zType>
 		<en-US>Elephant Supply</en-US>
-		<es>Importar elefantes</es>
-		<de>Elefanten importieren</de>
-		<fr>Importer des éléphants</fr>
 		<ja>輸入象</ja>
-		<zh-TW>進口大象</zh-TW>
-		<ru>ввоз слонов~ввоза слонов~ввозу слонов~ввоз слонов~ввозом слонов~ввозе слонов</ru>
-		<zh-CN>进口大象</zh-CN>
-		<pt-BR>Importar Elefantes</pt-BR>
-		<ko>코끼리 수입</ko>
 		<fixja>輸入象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_CAMEL</zType>
 		<en-US>Camel Supply</en-US>
-		<es>Importar camellos</es>
-		<de>Kamele importieren</de>
-		<fr>Importer des chameaux</fr>
 		<ja>輸入ラクダ</ja>
-		<zh-TW>進口駱駝</zh-TW>
-		<ru>ввоз верблюдов~ввоза верблюдов~ввозу верблюдов~ввоз верблюдов~ввозом верблюдов~ввозе верблюдов</ru>
-		<zh-CN>进口骆驼</zh-CN>
-		<pt-BR>Importar Camelos</pt-BR>
-		<ko>낙타 수입</ko>
 		<fixja>輸入ラクダ</fixja>
 	</Entry>
 	<Entry>
@@ -47,33 +23,9 @@
 		<en-US>Once you have a link(COUNCIL_SPYMASTER), link(UNIT_SCOUT,1) can create an Agent Network in a foreign city. The link(UNIT_SCOUT) will remain unavailable for int(AGENT_NETWORK_TURNS) turns.
 		
 A character can then be sent to the city to serve as an link(CONCEPT_AGENT), gaining yields, visibility of the city's territory, and access to missions like link(MISSION_TREACHERY).</en-US>
-		<es>Una vez que dispongas de {lowercase:link(COUNCIL_SPYMASTER,1)}, tus {lowercase:link(UNIT_SCOUT,2)} podrán crear una red de agentes en una ciudad extranjera. El {lowercase:link(UNIT_SCOUT)} empleado no estará disponible durante al menos int(AGENT_NETWORK_TURNS), y podría tardar más si sufre daño.
-		
-. Es posible enviar a un personaje a la ciudad para que sirva de {lowercase:link(CONCEPT_AGENT)}, ayudándote a conseguir recursos, a ganar visibilidad en el territorio y a acceder a misiones como, por ejemplo, de {lowercase:link(MISSION_TREACHERY)}.</es>
-		<de>Sobald Ihr einen link(COUNCIL_SPYMASTER) besitzt, kann ein link(UNIT_SCOUT) ein Spionagenetzwerk in einer ausländischen Stadt einrichten. In dem Fall ist der link(UNIT_SCOUT) für mindestens int(AGENT_NETWORK_TURNS) Züge nicht verfügbar – sogar länger, falls er verletzt ist.
-		
-Ein Charakter kann dann in die Stadt entsendet werden, um dort als link(CONCEPT_AGENT) zu fungieren, um Erträge abzuzweigen, das städtische Territorium auszuspähen und Missionen wie link(MISSION_TREACHERY) freizuschalten.</de>
-		<fr>Une fois que vous avez un link(COUNCIL_SPYMASTER), link(UNIT_SCOUT,1) peut créer un réseau d'agents dans une cité étrangère. L'link(UNIT_SCOUT) sera indisponible pendant au moins int(AGENT_NETWORK_TURNS) tours, plus encore s'il a subi des dégâts. 
-		
-Un personnage peut être envoyé dans cette cité pour servir d'link(CONCEPT_AGENT), ce qui permet d'obtenir du rendement, de la visibilité sur le territoire et même de débloquer des missions comme les missions de link(MISSION_TREACHERY).</fr>
 		<ja>link(COUNCIL_SPYMASTER)がいれば、link(UNIT_SCOUT,1)は外国都市に「諜報網」を作成することができる。link(UNIT_SCOUT)はその後int(AGENT_NETWORK_TURNS)ターンの間、利用できなくなる。このターン数はダメージを受けているとさらに増加する。
 		
 諜報網の作成後はキャラクターをlink(CONCEPT_AGENT)として都市に派遣できるようになり、これを実行すると産出と都市の視界を獲得し、さらにlink(MISSION_TREACHERY)のようなミッションが実行可能になる。</ja>
-		<zh-TW>一旦擁有了link(COUNCIL_SPYMASTER)，link(UNIT_SCOUT,1)就能在外國城市建立密探網路，以獲得該城市的圖塊視野。link(UNIT_SCOUT)將會在之後的至少 int(AGENT_NETWORK_TURNS) 個回合中無法行動，如果受到損傷，還會持續更久。
-		
-然後就可以派一個角色潛入城市，成為link(CONCEPT_AGENT)，獲得收益、偵察城市領土的情況，還可以執行link(MISSION_TREACHERY)等任務。</zh-TW>
-		<ru>Как только у вас появится {lowercase:link(COUNCIL_SPYMASTER)}, вы сможете создавать сеть агентов в зарубежном городе. После этого {lowercase:link(UNIT_SCOUT)} будет недоступен как минимум в течение int(AGENT_NETWORK_TURNS) х., а в случае повреждений — ещё дольше.
-		
-Затем вы сможете назначить персонажа {lowercase:link(CONCEPT_AGENT,4)}. Это позволит вам видеть территорию города, получать прибыль и выполнять особые задания — например, «link(MISSION_TREACHERY)».</ru>
-		<zh-CN>一旦拥有了link(COUNCIL_SPYMASTER)，link(UNIT_SCOUT,1)就能在外国城市建立密探网络，以获得该城市的图块视野。link(UNIT_SCOUT)将会在之后的至少 int(AGENT_NETWORK_TURNS) 个回合中无法行动，如果受到损伤，还会持续更久。
-		
-然后就可以派一个角色潜入城市，成为link(CONCEPT_AGENT)，获得收益、侦察城市领土的情况，还可以执行link(MISSION_TREACHERY)等任务。</zh-CN>
-		<pt-BR>Quando você tiver um link(COUNCIL_SPYMASTER), um link(UNIT_SCOUT) pode ser usado para criar uma rede de agentes em uma cidade estrangeira. O link(UNIT_SCOUT) ficará indisponível por, pelo menos, int(AGENT_NETWORK_TURNS) turnos em seguida, e mais se sofrer dano.
-		
-Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para que você ganhe visibilidade do território da cidade inimiga, obtenha produções e possa acessar missões como link(MISSION_TREACHERY).</pt-BR>
-		<ko>link(COUNCIL_SPYMASTER)을 배정하면 link(UNIT_SCOUT,1) 유닛을 통해 타국 도시에 첩보망을 구축할 수 있습니다(link(UNIT_SCOUT) 유닛은 int(AGENT_NETWORK_TURNS)턴 이후까지 사용할 수 없으며, 피해를 본 경우 턴이 증가할 수 있습니다).
-		
-첩보망이 구축되면 인물 하나를 link(CONCEPT_AGENT)으로 지정해 해당 도시로 보내 생산량을 얻고, 도시의 지리 정보를 알아내고 link(MISSION_TREACHERY)과 같은 임무에 접근할 수 있습니다.</ko>
 		<fixja>link(COUNCIL_SPYMASTER)がいれば、link(UNIT_SCOUT,1)は外国都市に「諜報網」を作成することができる。link(UNIT_SCOUT)はその後int(AGENT_NETWORK_TURNS)ターンの間、利用できなくなる。このターン数はダメージを受けているとさらに増加する。
 		
 諜報網の作成後はキャラクターをlink(CONCEPT_AGENT)として都市に派遣できるようになり、これを実行すると産出と都市の視界を獲得し、さらにlink(MISSION_TREACHERY)のようなミッションが実行可能になる。</fixja>
@@ -81,449 +33,193 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY</zType>
 		<en-US>Contextual Map Tacks</en-US>
-		<es>Mostrar marcadores del mapa solo para unidades determinadas</es>
-		<de>Kartenmarkierungen nur für Arbeiter anzeigen</de>
-		<fr>Afficher uniquement les épingles sur la carte pour l’ouvrier</fr>
 		<ja>労働者：地図鋲のみ表示</ja>
-		<zh-TW>只顯示工人的地圖標記</zh-TW>
-		<ru>Показывать только метки на карте для рабочих</ru>
-		<zh-CN>只显示工人的地图标记</zh-CN>
-		<pt-BR>Mostrar pontos do mapa apenas por trabalhadores</pt-BR>
-		<ko>일꾼 유닛에게만 맵 핀 표시</ko>
 		<fixja>労働者：地図鋲のみ表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY_DESC</zType>
 		<en-US>Improvement Reminder Pings appear only when Units are selected that can build Improvements or found Cities.</en-US>
-		<es>Las marcas de recordatorio de los desarrollos solo aparecerán cuando se seleccione una unidad que pueda elaborar ese desarrollo.</es>
-		<de>Erweiterungsbenachrichtigungen werden nur dann angezeigt, wenn eine Einheit ausgewählt ist, die diese Verbesserung auch tatsächlich produzieren kann.</de>
-		<fr>Les pings de rappel d’amélioration s’afficheront uniquement lorsqu’une unité éligible pour la construction de cette amélioration est sélectionnée</fr>
 		<ja>改修リマインダーの通知は、建設可能なユニットが選択された場合にのみ表示される。</ja>
-		<zh-TW>改良設施提醒標記只會在選中符合建造條件的單位時出現</zh-TW>
-		<ru>Сообщения с напоминанием об улучшениях будут появляться только, когда выбран отряд, способный создать это улучшение.</ru>
-		<zh-CN>改良设施提醒标记只会在选中符合建造条件的单位时出现</zh-CN>
-		<pt-BR>Os alertas de lembrete de melhoria só aparecerão quando uma unidade elegível para construir a melhoria estiver selecionada</pt-BR>
-		<ko>시설 고지 신호는 해당 시설을 건설할 수 있는 유닛이 선택되었을 때만 나타납니다.</ko>
 		<fixja>改修リマインダーの通知は、建設可能なユニットが選択された場合にのみ表示される。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH</zType>
 		<en-US>Maximum</en-US>
-		<es>Máximo</es>
-		<de>Unbegrenzt</de>
-		<fr>Illimité</fr>
 		<ja>制限なし</ja>
-		<zh-TW>無限制</zh-TW>
-		<ru>Неограниченное</ru>
-		<zh-CN>无限制</zh-CN>
-		<pt-BR>Ilimitados</pt-BR>
-		<ko>제한 없음</ko>
 		<fixja>制限なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM</zType>
 		<en-US>9 per Player</en-US>
-		<es>Restringido</es>
-		<de>Begrenzt</de>
-		<fr>Limité</fr>
 		<ja>制限あり</ja>
-		<zh-TW>受限制</zh-TW>
-		<ru>Ограниченное</ru>
-		<zh-CN>受限制</zh-CN>
-		<pt-BR>Limitados</pt-BR>
-		<ko>제한됨</ko>
 		<fixja>制限あり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW</zType>
 		<en-US>3 per Player</en-US>
-		<es>Sedes de la familia</es>
-		<de>Familiensitze</de>
-		<fr>Sièges familiaux</fr>
 		<ja>居城</ja>
-		<zh-TW>家族席位</zh-TW>
-		<ru>Семейные резиденции</ru>
-		<zh-CN>家族席位</zh-CN>
-		<pt-BR>Sedes familiares</pt-BR>
-		<ko>가문 영지</ko>
 		<fixja>居城</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE</zType>
 		<en-US>1 per Player</en-US>
-		<es>Capitales</es>
-		<de>Hauptstädte</de>
-		<fr>Capitales</fr>
 		<ja>首都</ja>
-		<zh-TW>首都</zh-TW>
-		<ru>Столицы</ru>
-		<zh-CN>首都</zh-CN>
-		<pt-BR>Capitais</pt-BR>
-		<ko>수도</ko>
 		<fixja>首都</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY</zType>
 		<en-US>City Site Spacing</en-US>
-		<es>Densidad de la ciudad</es>
-		<de>Stadtstandort-Dichte</de>
-		<fr>Densité des emplacements de cité</fr>
 		<ja>街の敷地密度</ja>
-		<zh-TW>城市據點密度</zh-TW>
-		<ru>Плотность мест под города</ru>
-		<zh-CN>城市据点密度</zh-CN>
-		<pt-BR>Densidade do assentamento de cidade</pt-BR>
-		<ko>도시 부지 밀도</ko>
 		<fixja>街の敷地密度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH</zType>
 		<en-US>Tight</en-US>
-		<es>Alta</es>
-		<de>Hoch</de>
-		<fr>Élevée</fr>
 		<ja>高</ja>
-		<zh-TW>高</zh-TW>
-		<ru>Высокая</ru>
-		<zh-CN>高</zh-CN>
-		<pt-BR>Alta</pt-BR>
-		<ko>높음</ko>
 		<fixja>高</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW</zType>
 		<en-US>Sparse</en-US>
-		<es>Baja</es>
-		<de>Niedrig</de>
-		<fr>Faible</fr>
 		<ja>低</ja>
-		<zh-TW>低</zh-TW>
-		<ru>Низкая</ru>
-		<zh-CN>低</zh-CN>
-		<pt-BR>Baixa</pt-BR>
-		<ko>낮음</ko>
 		<fixja>低</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_NEW_DESCRIPTION</zType>
 		<en-US>Suitable for a first experience. You begin with a healthy stockpile of resources and will only end up at war if you want to. AI Nations are significantly weakened.</en-US>
-		<es>Apto para una primera experiencia. Solo desatarás una guerra si eso es lo que quieres. Los enemigos controlados por el ordenador están muy debilitados.</es>
-		<de>Für ein erstes Spielerlebnis geeignet. Es kommt nur zu einem Krieg, wenn Ihr das möchtet. Die KI ist absichtlich geschwächt.</de>
-		<fr>Adapté pour une première expérience. Vous ne vous retrouverez en guerre que si vous le souhaitez et l’IA est volontairement affaiblie.</fr>
 		<ja>初めてのプレイに向いている。戦争になるのは、あなたがそれを望んだときだけだ。AIの力は大幅に弱体化している。</ja>
-		<zh-TW>適合初次體驗遊戲。你可以依照意願，選擇只會在最終發生戰爭。AI 會被明顯削弱。</zh-TW>
-		<ru>Подходит для первой игры. В войну вы ввяжетесь, только если сами этого захотите. ИИ значительно ослаблен.</ru>
-		<zh-CN>适合初次体验游戏。你可以依照意愿，选择最终只会发生战争。AI 会被显著削弱。</zh-CN>
-		<pt-BR>Adequada para uma primeira experiência. Você só entrará em guerra se quiser, a IA será consideravelmente mais fraca.</pt-BR>
-		<ko>처음 플레이하는 경우에 적합한 난이도입니다. 전쟁은 플레이어가 원할 때에만 일어납니다. AI가 매우 약합니다.</ko>
 		<fixja>初めてのプレイに向いている。戦争になるのは、あなたがそれを望んだときだけだ。AIの力は大幅に弱体化している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_ABLE_DESCRIPTION</zType>
 		<en-US>Suitable for an easy experience. You begin with a healthy stockpile of resources and will only end up at war if you want to. AI Nations are somewhat weakened.</en-US>
-		<es>Adecuado para una partida fácil de estilo libre. Solo acabarás en guerra si quieres, la IA es más débil.</es>
-		<de>Geeignet für ein einfaches Sandbox-Spiel. Ihr müsst nur Krieg führen, wenn Ihr es möchtet, da die KI absichtlich geschwächt ist.</de>
-		<fr>Adapté aux parties sandbox faciles. Vous ne vous retrouverez en guerre que si vous le souhaitez et l’IA est volontairement affaiblie.</fr>
 		<ja>簡単なゲームを遊びたい人に適しています。あなたが戦争したい場合にのみ戦争が起き、AIも意図的に弱めています。</ja>
-		<zh-TW>適合簡單的沙盒遊戲。你可以依照意願選擇最終只發生戰爭，系統會刻意降低電腦實力。</zh-TW>
-		<ru>Подходит для легкой игры в режиме «песочницы». В войну вы ввяжетесь, только если сами этого захотите, ИИ здесь специально ослаблен.</ru>
-		<zh-CN>适合简单的沙盒游戏。你可以依照意愿选择最终只发生战争，系统会刻意降低电脑实力。</zh-CN>
-		<pt-BR>Adequado para uma partida fácil de estilo livre. Você só entrará em guerra se quiser, a IA será mais fraca de propósito.</pt-BR>
-		<ko>가볍고 자유로운 게임에 적합한 난이도입니다. 전쟁은 플레이어의 선전포고로만 일어나며, AI의 능력이 약화되어 있습니다.</ko>
 		<fixja>簡単なゲームを遊びたい人に適しています。あなたが戦争したい場合にのみ戦争が起き、AIも意図的に弱めています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_JUST_DESCRIPTION</zType>
 		<en-US>A good choice for learning the game mechanics. You start in a better position than AI Nations, who will rarely attack and whose Units are slightly weakened.</en-US>
-		<es>Una buena opción para aprender las mecánicas del juego. Comienzas en una posición aventajada con respecto a la IA, que rara vez atacará.</es>
-		<de>Eine gute Wahl, falls du die Spielmechanik erlernen möchtest. Du beginnst in einer besseren Position als die KI, die dich nur selten angreifen wird.</de>
-		<fr>Bon choix pour vous familiariser avec les mécaniques du jeu. Vous commencez en meilleure position que l’IA qui n’attaquera que rarement.</fr>
 		<ja>ゲームの仕組みを学ぶ上で、ちょうど良い難易度です。AIよりも有利な場所で開始することができ、AIは滅多に攻撃を仕掛けてきません。</ja>
-		<zh-TW>有助於瞭解遊戲機制，你一開始會擁有優於電腦的地位，而電腦很少會發動攻擊。</zh-TW>
-		<ru>Хороший вариант для изучения игровых механик. Вы начинаете в лучшей позиции, чем ИИ, а ИИ редко нападает на вас.</ru>
-		<zh-CN>有助于了解游戏机制，你一开始会拥有优于电脑的地位，而电脑很少会发动攻击。</zh-CN>
-		<pt-BR>É uma boa escolha para aprender as mecânicas do jogo. Você começará em uma posição melhor do que a IA e ela raramente irá atacar.</pt-BR>
-		<ko>게임의 구조를 배우기 좋은 난이도입니다. 플레이어는 AI보다 유리한 위치에서 시작하고 AI는 플레이어를 거의 공격하지 않습니다.</ko>
 		<fixja>ゲームの仕組みを学ぶ上で、ちょうど良い難易度です。AIよりも有利な場所で開始することができ、AIは滅多に攻撃を仕掛けてきません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_GOOD_DESCRIPTION</zType>
 		<en-US>AI Nations start with some development, according to the game's premise that you are a new nation in a world of established nations. AI Nations at this difficulty are inclined to be peaceful but may eventually declare war.</en-US>
-		<es>La dificultad ideada para el juego. Las naciones de la IA comienzan algo desarrolladas, de acuerdo a la premisa del juego: manejas una nueva nación en un viejo mundo con naciones ya desarrolladas. Tu economía es la misma que la de la IA, que todavía se decanta por la paz.</es>
-		<de>Die Grundschwierigkeit des Spiels. KI-Nationen starten angesichts der Tatsache, dass du eine neue Nation in einer alten Welt etablierter Nationen führst, mit einem geringen Entwicklungsgrad. Deine Wirtschaft entspricht jener der KI, die immer noch zur Friedfertigkeit neigt.</de>
-		<fr>Cette difficulté est la difficulté de référence du jeu. Les nations jouée par des IA débutent avec un certain développement en fonction du préambule du jeu selon lequel vous êtes une nouvelle nation dans un vieux monde rempli de nations développées. Votre économie est identique à celle de la nation jouée par l’IA qui tend à être pacifique.</fr>
 		<ja>このゲームのノーマル難易度です。「あなたは古代世界の数ある発展国の中の新興国」というゲームのテーマ通り、AIが操る国家はある程度発展した状態で開始されます。しかし、自国の経済力はAIのものと変わらず、まだまだ平和的と言えるでしょう。</ja>
-		<zh-TW>遊戲的難度基準。遊戲會預設背景是由已開發國家組成的舊世界，而你是一個新興國家，因此電腦國家具備一定的發展程度。你的經濟水準與電腦相同，而電腦會傾向維持和平。</zh-TW>
-		<ru>Стандартный уровень сложности для игры. ИИ-нации изначально имеют определенный уровень развития, поскольку вы здесь являетесь новым игроком на устоявшейся мировой арене. Ваша экономика аналогична экономике ИИ, а сам он склонен к мирному сосуществованию.</ru>
-		<zh-CN>游戏的难度基准。游戏会预设背景是由已开发国家组成的旧世界，而你是一个新兴国家，因此电脑国家具备一定的发展程度。你的经济水准与电脑相同，而电脑会倾向维持和平。</zh-CN>
-		<pt-BR>Esta é a dificuldade padrão do jogo. Nações da IA começam já um pouco desenvolvidas, de acordo com a premissa do jogo: você é uma nova nação começando no Velho Mundo que já possui nações desenvolvidas. A sua economia será igual a da IA e ela ainda terá tendências pacíficas.</pt-BR>
-		<ko>게임의 기본 난이도입니다. 플레이어의 국가는 고대 세계에 새로이 탄생한 국가라는 설정을 따라 AI 국가들은 어느 정도 발전한 상태로 시작합니다. 플레이어와 AI의 경제 수준은 동등하며 세계는 전반적으로 평화롭습니다.</ko>
 		<fixja>このゲームのノーマル難易度です。「あなたは古代世界の数ある発展国の中の新興国」というゲームのテーマ通り、AIが操る国家はある程度発展した状態で開始されます。しかし、自国の経済力はAIのものと変わらず、まだまだ平和的と言えるでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_STRONG_DESCRIPTION</zType>
 		<en-US>This is the baseline difficulty of the game and the first difficulty level at which AI Nations are not restricted in warfare. They will declare war more freely and will use link(CONCEPT_MARCH). Tribal raids also become more common, and Cities near the map edges are no longer safe from distant tribal raids. Your baseline economy is the same as that of AI nations.</en-US>
-		<es>El primer nivel de dificultad en el que la IA no tiene restricciones bélicas. Declarará la guerra con mayor libertad y usará la link(CONCEPT_MARCH). Las incursiones tribales también serán más frecuentes.</es>
-		<de>Der erste Schwierigkeitsgrad, bei dem die KI in Sachen Kriegsführung nicht eingeschränkt ist. KI-Gegner erklären eher den Krieg und können link(CONCEPT_MARCH) verwenden. Auch Stammesüberfälle finden häufiger statt.</de>
-		<fr>Le premier niveau de difficulté dans lequel l’IA n’est pas restreinte par la guerre. Elle déclarera la guerre plus librement et utilisera link(CONCEPT_MARCH). Les pillages tribaux deviendront également plus fréquents.</fr>
 		<ja>AIが戦争面で制限されない初段階の難易度です。AIはより自由に宣戦布告を行い、link(CONCEPT_MARCH)を使用してきます。また、部族襲撃もより頻繁に発生します。</ja>
-		<zh-TW>第一個難度等級，此難度的電腦在戰爭中不受限制，可以更自由發動戰爭和使用link(CONCEPT_MARCH)。此難度也會更常發生部落突襲。</zh-TW>
-		<ru>Первый уровень сложности, где ИИ не ограничен в методах ведения войны. Он будет свободнее объявлять войну и применять {lowercase:link(CONCEPT_MARCH,3)}. Также в этом режиме учащаются налеты племен.</ru>
-		<zh-CN>第一个难度等级，此难度的电脑在战争中不受限制，可以更自由发动战争和使用link(CONCEPT_MARCH)。此难度也会更常发生部落突袭。</zh-CN>
-		<pt-BR>A primeira dificuldade na qual a IA não tem limitações de guerra. Ela irá declarar guerra com mais liberdade e usará link(CONCEPT_MARCH). Incursões tribais também são mais comuns.</pt-BR>
-		<ko>AI가 자유롭게 전쟁을 선포하고 link(CONCEPT_MARCH)을 명령할 수 있는 첫 번째 난이도입니다. 부족이 더 자주 침입합니다.</ko>
 		<fixja>AIが戦争面で制限されない初段階の難易度です。AIはより自由に宣戦布告を行い、link(CONCEPT_MARCH)を使用してきます。また、部族襲撃もより頻繁に発生します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_NOBLE_DESCRIPTION</zType>
 		<en-US>Harder difficulties begin here. AI Nations begin the game with more Cities and with a slightly stronger economy.</en-US>
-		<es>Las dificultades más altas comienzan con esta: las naciones existentes de la IA están más desarrolladas y los bordes el mapa ya no son un lugar seguro ante las incursiones tribales.</es>
-		<de>An dieser Stelle beginnen die härteren Schwierigkeitsgrade. Bestehende KI-Nationen sind höher entwickelt und Städte an den Kartenrändern sind nicht länger sicher vor Stammesüberfällen.</de>
-		<fr>Les difficultés les plus dures commencent ici. Les nations existantes de l’IA sont plus développées et les cités situées à proximité des coins de la carte ne sont plus protégées des pillages tribaux.</fr>
 		<ja>ここからが難しい難易度となります。既存のAI国家はより発展した状態で始まり、マップ端に近い都市でも部族襲撃に狙われてしまいます。</ja>
-		<zh-TW>此階段的難度更高，現有電腦國家的發展更完善，而靠近地圖邊界的城市會開始遭到部落突襲。</zh-TW>
-		<ru>Здесь начинаются повышенные уровни сложности. Нации ИИ более развиты, а города у краев карты больше не защищены от налетов племен.</ru>
-		<zh-CN>此阶段的难度更高，现有电脑国家的发展更完善，而靠近地图边界的城市会开始遭到部落突袭。</zh-CN>
-		<pt-BR>As dificuldades maiores começam a partir desta. As nações da IA são mais desenvolvidas e as cidades perto das bordas do mapa já não estão a salvo das incursões tribais.</pt-BR>
-		<ko>여기부터 고난이도가 시작됩니다. AI 국가는 플레이어 국가보다 더 발전된 상태로 시작하며 맵 가장자리에 있는 도시도 더 이상 부족의 침입에서 벗어날 수 없습니다.</ko>
 		<fixja>ここからが難しい難易度となります。既存のAI国家はより発展した状態で始まり、マップ端に近い都市でも部族襲撃に狙われてしまいます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_GLORIOUS_DESCRIPTION</zType>
 		<en-US>AI Nations are more aggressive than on lower difficulties and can attack earlier. They also gain a small advantage to Research and economy. Tribal Units get an additional Fatigue point, making raiders considerably more dangerous than at lower difficulties.</en-US>
-		<es>La IA es más agresiva que en dificultades inferiores y puede atacar más temprano. Las unidades tribales tienen un punto adicional de cansancio, por lo que las incursiones serán todavía más peligrosas.</es>
-		<de>Die KI ist aggressiver als auf niedrigeren Schwierigkeitsgraden und kann früher attackieren. Stammeseinheiten erhalten einen zusätzlichen Erschöpfungspunkt, wodurch Räuber deutlich gefährlicher sind als zuvor.</de>
-		<fr>L’IA est plus agressive que dans les difficultés plus basses et peut attaquer plus tôt. Les unités tribales obtiennent un point de fatigue supplémentaire ce qui rend les pillards bien plus dangereux qu’avant.</fr>
 		<ja>AIがこれまでの難易度より攻撃的になり、より早い段階で攻撃を仕掛けてきます。部族ユニットは追加の疲弊ポイントを獲得し、襲撃隊が今まで以上に危険な存在となります。</ja>
-		<zh-TW>電腦的侵略性比之前的難度更高，且會更快發動攻擊。部落單位會增加一點力竭點數，因此突襲者比以往更加危險。</zh-TW>
-		<ru>ИИ более агрессивен, чем на низких уровнях сложности, и может атаковать раньше. Племенные юниты получают дополнительное очко утомления, что делает их гораздо опаснее.</ru>
-		<zh-CN>电脑的侵略性比之前的难度更高，且会更快发动攻击。部落单位会增加一点力竭点数，因此突袭者比以往更加危险。</zh-CN>
-		<pt-BR>A IA é mais agressiva do que nas dificuldades mais baixas e pode atacar mais cedo na partida. As unidades tribais têm um ponto adicional de fatiga, o que torna as incursões mais perigosas.</pt-BR>
-		<ko>낮은 난이도와 비교해 AI가 더욱 호전적으로 변하여 더 이른 시기에 플레이어를 공격합니다. 부족 유닛의 탈진 한계 또한 늘어나므로 침입자들의 위협이 매우 커집니다.</ko>
 		<fixja>AIがこれまでの難易度より攻撃的になり、より早い段階で攻撃を仕掛けてきます。部族ユニットは追加の疲弊ポイントを獲得し、襲撃隊が今まで以上に危険な存在となります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_MAGNIFICENT_DESCRIPTION</zType>
 		<en-US>A very challenging difficulty in which your economy is weaker than that of AI Nations, who begin the game with multiple Cities and researched Technologies. Avoiding early war is critical, as AI Nations start with enough power to easily crush you.</en-US>
-		<es>Un modo de dificultad muy duro en el que tu economía es más débil y las naciones de la IA comienzan con un desarrollo robusto. Evitar la guerra es primordial, y las naciones de la IA tienen la capacidad de aplastarte sin complicaciones desde el principio.</es>
-		<de>Ein äußerst fordernder Schwierigkeitsgrad, bei dem deine Wirtschaft schwächer ist und KI-Nationen mit hohem Entwicklungsgrad ins Spiel starten. Hier ist es von größter Wichtigkeit, frühe Kriege zu vermeiden, da KI-Nationen dich zu Beginn mit Leichtigkeit überrennen werden.</de>
-		<fr>Cette difficulté représente un vrai défi, votre économie est affaiblie et les nations jouée par des IA débutent avec un développement solide. Éviter les guerres prématurées est indispensable, les nations jouée par des IA débutent avec les moyens de vous écraser facilement.</fr>
 		<ja>自国の経済力がより弱く、AI国家は強大に発展した状態で開始される、非常に難しい難易度となります。AI国家は、あなたの国を壊滅させるのに十分な強さで開始され、序盤での戦争を避けていくことが重要となります。</ja>
-		<zh-TW>令人棘手的難度。你的經濟水準更低，而電腦國家一開始就擁有完善的發展。避免在初期陷入戰爭很重要，因為電腦國家起始擁有的資源足以輕鬆擊潰你。</zh-TW>
-		<ru>Уровень сложности, предполагающий значительное испытание. Ваша экономика слабее, а ИИ-нации изначально развиты сильнее. Здесь важно избегать ранней войны: ИИ-нации на старте имеют достаточно ресурсов, чтобы сокрушить вас.</ru>
-		<zh-CN>令人棘手的难度。你的经济水准更低，而电脑国家一开始就拥有完善的发展。避免在初期陷入战争很重要，因为电脑国家起始拥有的资源足以轻松击溃你。</zh-CN>
-		<pt-BR>Uma dificuldade muito desafiadora na qual a sua economia é mais fraca e as nações da IA começam já bem desenvolvidas. Evitar guerras no início da partida é fundamental, pois as nações da IA começam com força o suficiente para lhe derrotar facilmente.</pt-BR>
-		<ko>아주 어려운 난이도입니다. AI 국가는 강대국 수준으로 발전한 채 시작하지만 플레이어 국가의 경제는 부실해집니다. AI가 쉽게 플레이어를 무너뜨릴 수 있으므로 초반에는 전쟁을 피하는 것이 중요합니다.</ko>
 		<fixja>自国の経済力がより弱く、AI国家は強大に発展した状態で開始される、非常に難しい難易度となります。AI国家は、あなたの国を壊滅させるのに十分な強さで開始され、序盤での戦争を避けていくことが重要となります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_GREAT_DESCRIPTION</zType>
 		<en-US>The highest difficulty. AI Nations get a moderate economy bonus in addition to being well established at the game's start. They will not wait long before demanding tribute or attacking you outright. You will face many tribal raids and an increased chance of domestic rebels.</en-US>
-		<es>La dificultad más alta de todas. La IA tiene una bonificación moderada a la economía además de su progreso inicial y no tardará mucho en exigirte tributo, o atacarte directamente. Te enfrentarás a muchas incursiones tribales y rebeliones interiores.</es>
-		<de>Der höchste Schwierigkeitsgrad. Die KI erhält einen mittleren Wirtschaftsbonus zusätzlich zur Startentwicklung und wird nicht lange warten, ehe sie Tribute von dir fordert oder direkt zum Angriff übergeht. Du wirst es mit zahlreichen Stammesüberfällen und Rebellen im eigenen Land zu tun bekommen.</de>
-		<fr>Difficulté la plus haute. L’IA bénéficie d’un bonus d’économie modéré en plus de son développement de départ et ne tardera pas à vous demander des tributs ou à vous attaquer. Vous ferez face à de nombreux pillages tribaux et rebelles locaux.</fr>
 		<ja>最高難易度です。AIは開始時の発展レベルに加え、中程度の経済力ボーナスを獲得します。また、貢物を要求してきたり、全面攻撃を仕掛けてくるまでに時間はかかりません。多くの部族襲撃や自国内の反乱者とも対峙することになります。</ja>
-		<zh-TW>最高難度。除了起始的發展程度之外，電腦還會擁有部分經濟紅利，而且很快就會直接要求進貢或發動攻擊。你會遭遇許多部落突襲和國內叛亂。</zh-TW>
-		<ru>Максимальный уровень сложности. ИИ получает средний бонус к экономике и стартовому развитию, а также легко выдвигает требования и нападает на вас. Вас ждет много налетов племен и бунтов на собственной территории.</ru>
-		<zh-CN>最高难度。除了起始的发展程度之外，电脑还会拥有部分经济红利，而且很快就会直接要求进贡或发动攻击。你会遭遇许多部落突袭和国内叛乱。</zh-CN>
-		<pt-BR>A dificuldade mais alta. A IA tem um bônus econômico moderado além de seu desenvolvimento inicial e não irá esperar muito antes de começar a exigir tributos ou a lhe atacar. Você enfrentará muitas incursões tribais e rebeldes da sua própria nação.</pt-BR>
-		<ko>가장 어려운 난이도입니다. 이미 발전한 AI 국가에 적정한 경제 보정까지 추가됩니다. 공물을 요구한 AI 국가는 오래 기다려 주지 않으며, 시간이 지나면 바로 플레이어를 공격합니다. 내란과 부족의 침입이 자주 발생합니다.</ko>
 		<fixja>最高難易度です。AIは開始時の発展レベルに加え、中程度の経済力ボーナスを獲得します。また、貢物を要求してきたり、全面攻撃を仕掛けてくるまでに時間はかかりません。多くの部族襲撃や自国内の反乱者とも対峙することになります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS_DESC</zType>
 		<en-US>Show Family colors for Foreign Units and Cities</en-US>
-		<es>Muestra los colores de las familias en unidades extranjeras</es>
-		<de>Familienfarben bei ausländischen Einheiten anzeigen</de>
-		<fr>Affichez les couleurs des familles pour les unités étrangères</fr>
 		<ja>外国ユニットの氏族カラーを表示します</ja>
-		<zh-TW>顯示異邦單位的家族顏色</zh-TW>
-		<ru>Показывать цвета семей у иностранных юнитов.</ru>
-		<zh-CN>显示异邦单位的家族颜色</zh-CN>
-		<pt-BR>Mostra as cores das famílias nas unidades estrangeiras</pt-BR>
-		<ko>타국 유닛에 가문의 색을 표시합니다.</ko>
 		<fixja>外国ユニットの氏族カラーを表示します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
 		<en-US>Attack from {0_unit} on {1_terrain}: {2_attackValue} (Melee Combat)</en-US>
-		<es>Contra {0_unit} en {1_terrain}: {2_attackValue} (combate cuerpo a cuerpo)</es>
-		<de>Für {0,5_unit} auf {1_terrain}: {2_attackValue} (Nahkampf)</de>
-		<fr>Contre {0_unit} sur {1_terrain} : {2_attackValue} (Combat de mêlée)</fr>
 		<ja>対 {1_terrain}上の{0_unit}：{2_attackValue}（近接戦闘）</ja>
-		<zh-TW>於{1_terrain}對決{0_unit}：{2_attackValue} (近戰戰鬥)</zh-TW>
-		<ru>Против {0,1_unit} (местность: {1_terrain}): {2_attackValue} (ближний бой)</ru>
-		<zh-CN>于{1_terrain}对决{0_unit}：{2_attackValue} (近战战斗)</zh-CN>
-		<pt-BR>Contra {0_unit} sobre terreno tipo {1_terrain}: {2_attackValue} (combate Corpo a Corpo)</pt-BR>
-		<ko>{1_terrain} 위의 {0_unit} 유닛 상대: {2_attackValue} (근거리 전투)</ko>
 		<fixja>対 {1_terrain}上の{0_unit}：{2_attackValue}（近接戦闘）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_DEFENDING_CLEAR</zType>
 		<en-US>Attack from {0_unit} (if link(CONCEPT_CLEAR)): {1_value} (Melee Combat)</en-US>
-		<es>Contra {0_unit} (si está link(CONCEPT_CLEAR)): {1} (combate cuerpo a cuerpo)</es>
-		<de>Gg. {0_unit} (bei link(CONCEPT_CLEAR)): {1} (Nahkampf)</de>
-		<fr>Contre {0_unit} (si link(CONCEPT_CLEAR)) : {1} (combat de mêlée)</fr>
 		<ja>対 {0_unit}（link(CONCEPT_CLEAR)の場合）：{1}(近接戦闘)</ja>
-		<zh-TW>對決{0_unit} (若link(CONCEPT_CLEAR))：{1} (近戰戰鬥)</zh-TW>
-		<ru>Против {0,1_unit} на {lowercase:link(CONCEPT_CLEAR,5)}: {1} (ближний бой)</ru>
-		<zh-CN>对决{0_unit} (若link(CONCEPT_CLEAR))：{1} (近战战斗)</zh-CN>
-		<pt-BR>Contra {0_unit} (se link(CONCEPT_CLEAR)): {1_value} (combate corpo a corpo)</pt-BR>
-		<ko>{0_unit}(link(CONCEPT_CLEAR) 상태라면) 상대: {1_value} (근거리 전투)</ko>
 		<fixja>対 {0_unit}（link(CONCEPT_CLEAR)の場合）：{1}(近接戦闘)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_OPTION_TEAM_NATIONS_CHARACTERS_WARNING</zType>
 		<en-US>Nations must be unique when two or more players have chosen the same Dynasty</en-US>
-		<es>Las naciones deben ser únicas cuando los personajes sin líderes aleatorios están activados</es>
-		<de>Nationen müssen individuell besetzt werden, wenn Charakteroptionen ohne zufällig ausgewählte Oberhäupter aktiv sind.</de>
-		<fr>Les nations doivent être uniques quand les personnages avec des Souverains non aléatoires sont activés</fr>
 		<ja>指導者のランダム化を無効にしている場合、国家は特有のものでなければなりません</ja>
-		<zh-TW>啟用非隨機領袖人物時，國家不得重複。</zh-TW>
-		<ru>Нации не должны повторяться, если разрешены персонажи с неслучайными лидерами</ru>
-		<zh-CN>启用非随机领袖人物时，国家不得重复。</zh-CN>
-		<pt-BR>As nações devem ser únicas na partida quando personagens com líderes não aleatórios estiverem habilitados</pt-BR>
-		<ko>무작위 지도자 설정을 활성화하지 않았다면 플레이어의 국가는 중복될 수 없습니다.</ko>
 		<fixja>指導者のランダム化を無効にしている場合、国家は特有のものでなければなりません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ENLIST</zType>
 		<en-US>Enlist~Enlistment</en-US>
-		<es>Alistar</es>
-		<de>Rekrutieren~Rekrutierung</de>
-		<fr>Enrôler</fr>
 		<ja>入隊</ja>
-		<zh-TW>入伍從軍</zh-TW>
-		<ru>Призвать</ru>
-		<zh-CN>入伍从军</zh-CN>
-		<pt-BR>Alistar</pt-BR>
-		<ko>포섭</ko>
 		<fixja>入隊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_LEADER</zType>
 		<en-US>link(CONCEPT_TUTOR) Child (as Leader)</en-US>
-		<es>link(CONCEPT_TUTOR,5) hijo</es>
-		<de>Kind link(CONCEPT_TUTOR,4)</de>
-		<fr><![CDATA[<sentencecase>link(CONCEPT_TUTOR,4)</sentencecase> enfant]]></fr>
 		<ja>子供のlink(CONCEPT_TUTOR)</ja>
-		<zh-TW>link(CONCEPT_TUTOR)孩子</zh-TW>
-		<ru>link(CONCEPT_TUTOR) для ребенка</ru>
-		<zh-CN>link(CONCEPT_TUTOR)孩子</zh-CN>
-		<pt-BR>link(CONCEPT_TUTOR,4) Criança</pt-BR>
-		<ko>자손 link(CONCEPT_TUTOR)</ko>
 		<fixja>子供のlink(CONCEPT_TUTOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_COURTIER</zType>
 		<en-US>link(CONCEPT_TUTOR) Child</en-US>
-		<es>link(CONCEPT_TUTOR,5) hijo (como miembro de la corte)</es>
-		<de>Kind link(CONCEPT_TUTOR,4) (als Hofmitglied)</de>
-		<fr><![CDATA[<sentencecase>link(CONCEPT_TUTOR,4)</sentencecase> enfant (en tant que courtisan)]]></fr>
 		<ja>子供をlink(CONCEPT_TUTOR)する（廷臣として）</ja>
-		<zh-TW>link(CONCEPT_TUTOR)孩子 (作為朝臣)</zh-TW>
-		<ru>link(CONCEPT_TUTOR) для ребенка (придворный)</ru>
-		<zh-CN>link(CONCEPT_TUTOR)孩子 (作为朝臣)</zh-CN>
-		<pt-BR>link(CONCEPT_TUTOR,4) Criança (como membro da corte)</pt-BR>
-		<ko>자손 link(CONCEPT_TUTOR) (신하로)</ko>
 		<fixja>子供をlink(CONCEPT_TUTOR)する（廷臣として）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MARCH_CONFIRM</zType>
 		<en-US>[Hold hotkey(HOTKEY_CTRL) to Enable]</en-US>
-		<es>[Mantén hotkey(HOTKEY_CTRL) para confirmar]</es>
-		<de>[Zum Bestätigen hotkey(HOTKEY_CTRL) halten]</de>
-		<fr>[Maintenir hotkey(HOTKEY_CTRL) pour confirmer]</fr>
 		<ja>［hotkey(HOTKEY_CTRL)長押しで決定します］</ja>
-		<zh-TW>[按住hotkey(HOTKEY_CTRL)以確認]</zh-TW>
-		<ru>[Удерживайте hotkey(HOTKEY_CTRL), чтобы подтвердить]</ru>
-		<zh-CN>[按住hotkey(HOTKEY_CTRL)以确认]</zh-CN>
-		<pt-BR>[Segure hotkey(HOTKEY_CTRL) para confirmar]</pt-BR>
-		<ko>[hotkey(HOTKEY_CTRL) 길게 눌러 승인]</ko>
 		<fixja>［hotkey(HOTKEY_CTRL)長押しで決定します］</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENLIST_NEXT</zType>
 		<en-US>Enlisting</en-US>
-		<es>Alistar a la siguiente unidad matada.</es>
-		<de>Nächste bezw. Einh. bekehren</de>
-		<fr>Enrôler suivant</fr>
 		<ja>次の撃破時に徴兵</ja>
-		<zh-TW>招募下一個擊殺目標</zh-TW>
-		<ru>Вербовка при следующем убийстве</ru>
-		<zh-CN>招募下一个击杀者</zh-CN>
-		<pt-BR>Alistar próximo abate</pt-BR>
-		<ko>다음 처치한 유닛 포섭</ko>
 		<fixja>次の撃破時に徴兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENLIST_NEXT_F</zType>
 		<en-US>Enlisting</en-US>
-		<es>Alistar a la siguiente unidad matada.</es>
-		<de>Nächste bezw. Einh. bekehren</de>
-		<fr>Enrôler suivant</fr>
 		<ja>次の撃破時に徴兵</ja>
-		<zh-TW>招募下一個擊殺目標</zh-TW>
-		<ru>Вербовка при следующем убийстве</ru>
-		<zh-CN>招募下一个击杀者</zh-CN>
-		<pt-BR>Alistar próximo abate</pt-BR>
-		<ko>다음 처치한 유닛 포섭</ko>
 		<fixja>次の撃破時に徴兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_SELF</zType>
 		<en-US>Can apply {0_value} to own Unit</en-US>
-		<es>Se puede aplicar {0_value}a esta unidad</es>
-		<de>Kann {0_value} auf diese Einheit wirken</de>
-		<fr>Peut appliquer {0_value} à cette unité</fr>
 		<ja>このユニットに{0_value}適用可能</ja>
-		<zh-TW>可以對此單位應用 {0_value}</zh-TW>
-		<ru>Может вызвать {0,3_value} у этого отряда</ru>
-		<zh-CN>可以对此单位应用 {0_value}</zh-CN>
-		<pt-BR>Pode aplicar {0_value} a esta unidade</pt-BR>
-		<ko>이 유닛에게 {0_value} 적용 가능</ko>
 		<fixja>このユニットに{0_value}適用可能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_0_SELF</zType>
 		<en-US>Can apply {0_value} to own Unit until the start of next turn</en-US>
-		<es>Se puede aplicar {0_value} a esta unidad hasta que llegue su turno</es>
-		<de>Kann auf diese Einheit bis zum Start ihres nächsten Zugs {0_value} wirken</de>
-		<fr>Peut appliquer {0_value} à cette unité jusqu’au démarrage du tour suivant</fr>
 		<ja>次のターンの開始時まで、このユニットに{0_value}を適用可能</ja>
-		<zh-TW>可以對此單位應用 {0_value}，直到下一回合開始</zh-TW>
-		<ru>Может вызвать {0,3_value} у этого отряда до начала следующего хода</ru>
-		<zh-CN>可以对此单位应用 {0_value}，直到下一回合开始</zh-CN>
-		<pt-BR>Pode aplicar {0_value} a esta unidade até o início do próximo turno</pt-BR>
-		<ko>다음 턴이 시작될 때까지 이 유닛에게 {0_value} 적용 가능</ko>
 		<fixja>次のターンの開始時まで、このユニットに{0_value}を適用可能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_NUM_SELF</zType>
 		<en-US>Can apply {0_value} to own Unit for {1_num} {2_turnScale}</en-US>
-		<es>Se puede aplicar {0_value} a esta unidad durante {1_num} {2_turnScale}</es>
-		<de>Kann {1_num} {2_turnScale} lang {0_value} auf diese Einheit wirken</de>
-		<fr>Peut appliquer {0_value} à cette unité pendant {1_num} {2_turnScale}</fr>
 		<ja>{1_num} {2_turnScale}、このユニットに{0_value}適用可能</ja>
-		<zh-TW>可以對此單位應用 {0_value}，持續 {1_num}{2_turnScale}</zh-TW>
-		<ru>Может вызвать у этого отряда {0,3_value} сроком на {1_num} {2_turnScale}</ru>
-		<zh-CN>可以对此单位应用 {0_value}，持续 {1_num}{2_turnScale}</zh-CN>
-		<pt-BR>Pode aplicar {0_value} a esta unidade por {1_num} {2_turnScale}</pt-BR>
-		<ko>{1_num}{2_turnScale} 동안 이 유닛에게 {0_value} 적용 가능</ko>
 		<fixja>{1_num} {2_turnScale}、このユニットに{0_value}適用可能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ONE_CITY_CHALLENGE</zType>
 		<en-US>The One City Challenge (OCC for short) is a game mode in which Human players are limited to one City, their link(CONCEPT_CAPITAL). Human players are not able to build link(UNIT_SETTLER,2), found more than one City, or capture Cities from other link(CONCEPT_NATION,2) (Cities captured by Human players are automatically razed). To play an OCC game, enable the "One City Challenge" toggle from the Advanced Setup menu when creating a new game.</en-US>
-		<es>El desafío de una sola ciudad (OCC según sus siglas en inglés) es un modo de juego en el que los jugadores humanos están limitados a una ciudad, su link(CONCEPT_CAPITAL). Los jugadores humanos no pueden crear link(UNIT_SETTLER,2), fundar más de una ciudad o capturar ciudades de otras link(CONCEPT_NATION,2) (las ciudades capturadas por humanos se quedan en anarquía). Para jugar una partida OCC, activa la opción «desafío de una sola ciudad» en el menú de configuración avanzada cuando estés creando una nueva partida.</es>
-		<de>Die Eine-Stadt-Herausforderung (abgekürzt: ESH) ist ein Spielmodus, bei dem die menschlichen Spieler nur eine Stadt, ihre link(CONCEPT_CAPITAL), haben können. Sie können keine link(UNIT_SETTLER,5) generieren, mehr als eine Stadt gründen oder Städte anderer link(CONCEPT_NATION,3) erobern (in Städten, die durch menschliche Spieler erobert wurde, herrscht dauerhaft Anarchie). Ein ESH-Spiel kann mit der Option „Eine-Stadt-Herausforderung“ im Erweiterten Setup beim Erstellen eines neuen Spiels gestartet werden.</de>
-		<fr>Le One City Challenge (OCC) est un mode de jeu dans lequel les joueurs humains sont limités à une seule cité, leur link(CONCEPT_CAPITAL). Les joueurs humains ne peuvent pas former de link(UNIT_SETTLER,2), fonder plus d'une cité, ou capturer les cités des autres link(CONCEPT_NATION,2) (les cités capturées par des joueurs humains restent en état d'anarchie). Pour jouer une partie OCC, activez l'option « One City Challenge » dans le menu avancé lors de la création d'une nouvelle partie.</fr>
 		<ja>「1都市チャレンジ」は、人間のプレイヤーの都市の所持上限を1つにします。つまりlink(CONCEPT_CAPITAL)のみでプレイをするゲームモードです。人間のプレイヤーはlink(UNIT_SETTLER,2)の生産、1つ以上の都市の設立、または他のlink(CONCEPT_NATION,2)の都市の占拠が行えません（人間のプレイヤーが占拠した都市は、無政府状態のままとなります）。このモードを遊ぶには、新規ゲームを作成する際に、「詳細設定」のメニューから「1都市チャレンジ」を有効にしてください。</ja>
-		<zh-TW>單城挑戰 (One City Challenge，簡稱 OCC) 是限制真人玩家僅可建造link(CONCEPT_CAPITAL)一個城市的遊戲模式。真人玩家無法建立link(UNIT_SETTLER,2)、建造超過一個城市，或佔領其他link(CONCEPT_NATION,2)的城市 (真人玩家佔領的城市會停留在無政府狀態)。若要遊玩 OCC 遊戲，請在建立新遊戲時，在進階設定選單開啟「單城挑戰」開關。</zh-TW>
-		<ru>Испытание «Один город» — это игровой режим, в котором у игроков-людей в распоряжении может находиться только один город. Они не могут создавать {lowercase:link(UNIT_SETTLER,9)}, основывать или захватывать другие города. Города, захваченные игроками, будут находиться в состоянии анархии. Чтобы выбрать этот режим, включите соответствующую опцию в меню дополнительных настроек при создании новой игры.</ru>
-		<zh-CN>单城挑战 (One City Challenge，简称 OCC) 是限制真人玩家仅可建造link(CONCEPT_CAPITAL)一个城市的游戏模式。真人玩家无法建立link(UNIT_SETTLER,2)、建造超过一个城市，或占领其他link(CONCEPT_NATION,2)的城市 (真人玩家占领的城市会停留在无政府状态)。若要游玩 OCC 游戏，请在建立新游戏时，在进阶设定选单开启「单城挑战」开关。</zh-CN>
-		<pt-BR><![CDATA[O desafio de uma cidade (OCC, <i>one city challenge</i> em inglês) é um modo de jogo no qual jogadores humanos estão limitados a ter apenas uma cidade, sua link(CONCEPT_CAPITAL). Jogadores humanos não serão capazes de criar link(UNIT_SETTLER,2), fundar mais de uma cidade ou tomar cidades de outras link(CONCEPT_NATION,2) (cidades tomadas por jogadores humanos permanecerão anárquicas). Para jogar uma partida OCC, ative a opção "desafio de uma cidade" no menu de configurações avançadas quando estiver criando uma nova partida.]]></pt-BR>
-		<ko>단일 도시 도전(흔히 OCC/원시티로 불립니다)은 link(CONCEPT_CAPITAL)로 설정할 도시 단 하나만으로 게임을 플레이할 수 있는 제한 설정입니다. 플레이어는 link(UNIT_SETTLER,2) 유닛을 생산하거나 또 다른 도시를 설립할 수 없고, 다른 link(CONCEPT_NATION,2)의 도시를 점령할 수도 없습니다(플레이어가 점거한 도시는 무정부 상태로 유지됩니다). 단일 도시에 도전하려면, 새로운 게임을 시작할 때 고급 설정 메뉴에서 "단일 도시 도전" 설정을 켜십시오.</ko>
 		<fixja>「1都市チャレンジ」は、人間のプレイヤーの都市の所持上限を1つにします。つまりlink(CONCEPT_CAPITAL)のみでプレイをするゲームモードです。人間のプレイヤーはlink(UNIT_SETTLER,2)の生産、1つ以上の都市の設立、または他のlink(CONCEPT_NATION,2)の都市の占拠が行えません（人間のプレイヤーが占拠した都市は、無政府状態のままとなります）。このモードを遊ぶには、新規ゲームを作成する際に、「詳細設定」のメニューから「1都市チャレンジ」を有効にしてください。</fixja>
 	</Entry>
 	<Entry>
@@ -531,33 +227,9 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<en-US>The choice of link(LAW_ICONOGRAPHY) or link(LAW_CALLIGRAPHY) is between a bonus for your Monasteries (+2 link(YIELD_TRAINING,1) per turn), Cathedrals (+2 link(YIELD_HAPPINESS,1) per turn) and Temples (+20 link(YIELD_MONEY,1) per turn), OR a simple direct +10 link(YIELD_CULTURE,1) per turn in all cities, while your Elder Specialists yield +1 link(YIELD_HAPPINESS,1).
 
 These laws often present an easy choice based on your previous investments. If you’ve invested heavily in religious buildings, Iconography can pay dividends, while if you have many cities with low link(YIELD_CULTURE,1), Calligraphy can vault you ahead. Keep in mind also that Iconography has a per turn upkeep paid in link(YIELD_CIVICS,1), while Calligraphy has one paid in link(YIELD_MONEY,1). </en-US>
-		<es>Elegir {lowercase:link(LAW_ICONOGRAPHY,1)} proporciona una bonificación por cada turno de 2 de {lowercase:link(YIELD_TRAINING,1)} en tus monasterios, 2 de {lowercase:link(YIELD_HAPPINESS,1)} en tus catedrales y 20 de {lowercase:link(YIELD_MONEY,1)} en tus templos, mientras que elegir {lowercase:link(LAW_CALLIGRAPHY,1)} genera 4 de {lowercase:link(YIELD_CULTURE,1)} por cada turno en tus bibliotecas, academias y universidades y 1 de {lowercase:link(YIELD_HAPPINESS,1)} por cada turno y especialista veterano.
-
-De acuerdo con tus inversiones previas, ambas leyes pueden parecer una elección fácil. Si has invertido bastante en construcciones religiosas, la iconografía puede proporcionar beneficios. En cambio, si te has centrado más en desarrollar bibliotecas y {lowercase:link(YIELD_CULTURE,1)}, la caligrafía te puede ayudar a avanzar. Ten en cuenta que la iconografía exige el pago de su mantenimiento por cada turno con {lowercase:link(YIELD_MONEY,1)}; el mantenimiento de la caligrafía se remunera una sola vez con {lowercase:link(YIELD_CIVICS,1)}.</es>
-		<de>Wenn Ihr link(LAW_ICONOGRAPHY) erlasst, erhaltet Ihr einen Bonus für Eure Klöster (+2 link(YIELD_TRAINING,1) pro Runde), Kathedralen (+2 link(YIELD_HAPPINESS,1) pro Runde) und Tempel (+20 link(YIELD_MONEY,1) pro Runde). Wenn Ihr dagegen link(LAW_CALLIGRAPHY) verabschiedet, erhaltet Ihr für Eure Bibliotheken, einschließlich Akademien und Universitäten, +4 link(YIELD_CULTURE,1) pro Runde, und Eure Spezialistenältesten gewähren Euch +1 link(YIELD_HAPPINESS,1) pro Runde.
-
-Welches dieser Gesetze für Euch von Vorteil ist, hängt zumeist von Euren bereits getätigten Investitionen ab. Wenn Ihr massiv in religiöse Gebäude investiert habt, kann Ikonographie überaus wertvoll sein. Wenn Ihr Euch hingegen auf Bibliotheken und link(YIELD_CULTURE,1) konzentriert habt, kann Kalligraphie Euch ganz nach vorne katapultieren. Gleichzeitig solltet Ihr berücksichtigen, dass Ihr Unterhaltskosten für Ikonographie in link(YIELD_MONEY,1) bezahlen müsst, die Unterhaltskosten für Kalligraphie hingegen in link(YIELD_CIVICS,1). </de>
-		<fr>Le choix entre link(LAW_ICONOGRAPHY) et link(LAW_CALLIGRAPHY) revient à choisir entre un bonus pour vos Monastères (+2 link(YIELD_TRAINING,1) par tour), vos Cathédrales (+2 link(YIELD_HAPPINESS,1) par tour) et vos Temples (+20 link(YIELD_MONEY,1) par tour), OU vos Bibliothèques (qui incluent les Académies et les Universités) rapportent +4 link(YIELD_CULTURE,1) par tour, tandis que vos Spécialistes ainés rapportent +1 link(YIELD_HAPPINESS,1) par tour.
-
-C’est souvent facile de choisir entre ces lois en fonction de vos précédents investissements. Si vous avez beaucoup investi dans les bâtiments religieux, l’iconographie peut rapporter des dividendes, alors que si vous avez mis l’accent sur les bibliothèques et la link(YIELD_CULTURE,1), la calligraphie vous permettra de progresser. Gardez à l’esprit que l’iconographie a une maintenance par tour payée en link(YIELD_MONEY,1), alors que pour la calligraphie, elle se paie en link(YIELD_CIVICS,1). </fr>
 		<ja>修道院（毎ターンlink(YIELD_TRAINING,1)+2）、大聖堂（毎ターンlink(YIELD_HAPPINESS,1)+2）、寺院（毎ターンlink(YIELD_MONEY,1)+20）のボーナスを獲得するか、あるいは図書館（アカデミーと大学を含む）毎ターン+4、link(YIELD_CULTURE,1)を生み出し、老専門家が毎ターンlink(YIELD_HAPPINESS,1)+1を得るか。それらは、link(LAW_ICONOGRAPHY)とlink(LAW_CALLIGRAPHY)のどちらを選ぶかで決まる。
 
 これらの法律は、これまでの投資によって簡単に選択できることが多い。宗教建築への投資が多い場合、「イコノグラフィー（図像学）」が有益に働くことがある。また、図書館やlink(YIELD_CULTURE,1)に注力している場合は、「カリグラフィ」が大きく国を前進させるだろう。「イコノグラフィー」は毎ターン、維持費をlink(YIELD_MONEY,1)で支払い、「カリグラフィ」はlink(YIELD_CIVICS,1)で支払わなければならない点も頭に入れておくべきだ。 </ja>
-		<zh-TW>選擇link(LAW_ICONOGRAPHY)或link(LAW_CALLIGRAPHY)的效果分別是為你的修道院(+2 link(YIELD_TRAINING,1)每回合)、大教堂(+2 link(YIELD_HAPPINESS,1)每回合)和神殿(+20 link(YIELD_MONEY,1)每回合)提供紅利；或是你的圖書館（包括學院和大學）收益每回合+4 link(YIELD_CULTURE,1)，並且你的資深專家收益每回合+1 link(YIELD_HAPPINESS,1)。
-
-選擇這些法令通常會比較簡單，只需根據你之前的投資來考慮即可。如果你在宗教建築上投入了大量資源，那麼「肖像學」可以帶來收益，而如果你專注於圖書館和link(YIELD_CULTURE,1)，那麼「書法學」可以讓你獲得優勢。此外還要考慮：「肖像學」在每回合都要用link(YIELD_MONEY,1)支付維持費用，而「書法學」要用link(YIELD_CIVICS,1)來支付。</zh-TW>
-		<ru>Делая выбор между link(LAW_ICONOGRAPHY,4) и link(LAW_CALLIGRAPHY,4), вы решаете, получить +2 к link(YIELD_TRAINING,2) за ход для монастырей, +2 к link(YIELD_HAPPINESS,2) за ход для соборов и +20 к link(YIELD_MONEY,2) за ход для храмов ИЛИ +4 к link(YIELD_CULTURE,2) за ход для библиотек, академий и университетов и +1 к link(YIELD_HAPPINESS,2) за ход для старших специалистов.
-
-Выбирая между этими законами, учитывайте, что вы развивали раньше. Если вы вложили значительные ресурсы в религиозные постройки, иконопись принесет вам выгоду, а если вы сосредоточились на библиотеках и link(YIELD_CULTURE,5), каллиграфия поможет совершить рывок вперед. Также имейте в виду, что на иконопись каждый ход тратятся link(YIELD_MONEY,0), а на каллиграфию — link(YIELD_CIVICS,0). </ru>
-		<zh-CN>选择link(LAW_ICONOGRAPHY)或link(LAW_CALLIGRAPHY)的效果分别是为你的修道院(+2 link(YIELD_TRAINING,1)每回合)、大教堂(+2 link(YIELD_HAPPINESS,1)每回合)和神殿(+20 link(YIELD_MONEY,1)每回合)提供红利；或是你的图书馆（包括学院和大学）收益每回合+4 link(YIELD_CULTURE,1)，并且你的资深专家收益每回合+1 link(YIELD_HAPPINESS,1)。
-
-选择这些法令通常会比较简单，只需根据你之前的投资来考虑即可。如果你在宗教建筑上投入了大量资源，那么“肖像学”可以带来收益，而如果你专注于图书馆和link(YIELD_CULTURE,1)，那么“书法学”可以让你获得优势。此外还要考虑：“肖像学”在每回合都要用link(YIELD_MONEY,1)支付维持费用，而“书法学”要用link(YIELD_CIVICS,1)来支付。 </zh-CN>
-		<pt-BR>A escolha entre as leis de link(LAW_ICONOGRAPHY) ou de link(LAW_CALLIGRAPHY) está entre, respectivamente, um bônus para seus monastérios (+2 link(YIELD_TRAINING,1) por turno), catedrais (+2 link(YIELD_HAPPINESS,1) por turno) e templos (+20 link(YIELD_MONEY,1) por turno), ou para suas bibliotecas (incluindo academias e universidades), que produzirão +4 link(YIELD_CULTURE,1) por turno, enquanto que seus especialistas veteranos produzirão +1 link(YIELD_HAPPINESS,1) por turno.
-
-E escolha entre essas leis normalmente será fácil de acordo com seus investimentos prévios. Se você já investiu bastante em edifícios religiosos, os dividendos da iconografia podem valer a pena, enquanto que se você se concentrou em bibliotecas e em link(YIELD_CULTURE,1), a caligrafia pode lhe dar vantagem. Tenha em mente que a iconografia tem um custo de manutenção por turno cobrado em link(YIELD_MONEY,1) e a caligrafia um custo cobrado em link(YIELD_CIVICS,1). </pt-BR>
-		<ko>link(LAW_ICONOGRAPHY)과 link(LAW_CALLIGRAPHY)는 "수도원 보정 (매 턴 +2 link(YIELD_TRAINING)), 대성당 보정 (매 턴 +2 link(YIELD_HAPPINESS)), 사원 보정 (매 턴 +20 link(YIELD_MONEY))"과 "도서관, 학술원, 대학이 매 턴 +4 link(YIELD_CULTURE)를 생산 및 원로 전문직이 매 턴 +1 link(YIELD_HAPPINESS)를 생산" 중 하나를 선택하는 법률입니다.
-
-이 법률들은 이전 투자에 따라 쉽게 선택을 내릴 수 있습니다. 만약 종교 건물에 많이 투자했다면 도상학에서 오는 이익이 클 것이고, 도서관과 link(YIELD_CULTURE)에 집중했다면 서예를 제정해 더욱 성장할 수 있을 것입니다. 도상학은 매 턴 유지비로 link(YIELD_MONEY)을, 서예는 link(YIELD_CIVICS)을 지불해야 한다는 것 또한 고려해야 합니다. </ko>
 		<fixja>修道院（毎ターンlink(YIELD_TRAINING,1)+2）、大聖堂（毎ターンlink(YIELD_HAPPINESS,1)+2）、寺院（毎ターンlink(YIELD_MONEY,1)+20）のボーナスを獲得するか、あるいは図書館（アカデミーと大学を含む）毎ターン+4、link(YIELD_CULTURE,1)を生み出し、老専門家が毎ターンlink(YIELD_HAPPINESS,1)+1を得るか。それらは、link(LAW_ICONOGRAPHY)とlink(LAW_CALLIGRAPHY)のどちらを選ぶかで決まる。
 
 これらの法律は、これまでの投資によって簡単に選択できることが多い。宗教建築への投資が多い場合、「イコノグラフィー（図像学）」が有益に働くことがある。また、図書館やlink(YIELD_CULTURE,1)に注力している場合は、「カリグラフィ」が大きく国を前進させるだろう。「イコノグラフィー」は毎ターン、維持費をlink(YIELD_MONEY,1)で支払い、「カリグラフィ」はlink(YIELD_CIVICS,1)で支払わなければならない点も頭に入れておくべきだ。 </fixja>
@@ -567,31 +239,9 @@ E escolha entre essas leis normalmente será fácil de acordo com seus investime
 		<en-US>The choice of link(LAW_GUILDS) or link(LAW_ELITES) is between building Elder Specialists directly (bypassing apprentices and masters) and 10 link(YIELD_MONEY,1) for each link(CONCEPT_SPECIALIST) type, OR the ability to store up to 100 link(YIELD_ORDERS,1) between turns, and +2 link(YIELD_ORDERS,1) for every city with Legendary Culture.
 
 For a peaceful game, Guilds provides a powerful end game tool to develop cities. However, the ability from Elites to store link(YIELD_ORDERS,1) represents an unparalleled advantage in a late game war, particularly paired with order generating abilities such as those of link(NATION_ASSYRIA).</en-US>
-		<es>Elegir {lowercase:link(LAW_GUILDS,1)} aumenta en 1 la {lowercase:link(YIELD_HAPPINESS,1)} por cada {lowercase:link(IMPROVEMENT_TOWN)} y reduce un 10 % la probabilidad de que aparezcan rebeldes, mientras que elegir {lowercase:link(LAW_ELITES,1)} proporciona la habilidad de almacenar hasta 100 {lowercase:link(YIELD_ORDERS,1)} entre un turno y otro, además de 2 {lowercase:link(YIELD_ORDERS,1)} por cada ciudad con cultura legendaria.
-
-Los gremios proporcionan una poderosa herramienta contra el descontento en partidas pacíficas. Sin embargo, la habilidad de las élites de almacenar {lowercase:link(YIELD_ORDERS,1)} implica una gran ventaja en una guerra tardía, sobre todo si se combina con las habilidades para generar órdenes como sucede en link(NATION_ASSYRIA).</es>
-		<de>Wenn Ihr link(LAW_GUILDS) verabschiedet, erhaltet Ihr +1 link(YIELD_HAPPINESS,1) für jedes link(IMPROVEMENT_TOWN) und die Chance auf Rebellionen sinkt um 10 %. Wenn Ihr dagegen link(LAW_ELITES) erlasst, erhaltet Ihr die Fähigkeit, bis zu 100 link(YIELD_ORDERS,1) in die nächste Runde mitzunehmen, und +2 link(YIELD_ORDERS,1) für jede Stadt mit einer Legendären Kultur.
-
-Im Falle eines friedlichen Spiels stellen Zünfte im späteren Spiel ein mächtiges Werkzeug gegen Unzufriedenheit dar. Allerdings stellt die Möglichkeit von Eliten, link(YIELD_ORDERS,1) anzuhäufen, einen unvergleichlichen Vorteil in Kriegen im späteren Spielverlauf dar, vor allem in Kombination mit befehlsgenerierenden Fähigkeiten, wie im Falle von link(NATION_ASSYRIA).</de>
-		<fr>Le choix entre link(LAW_GUILDS) et link(LAW_ELITES) revient à choisir entre +1 link(YIELD_HAPPINESS,1) pour chaque link(IMPROVEMENT_TOWN) et -10 % de chance de rebelles, OU la capacité de stocker jusqu’à 100 link(YIELD_ORDERS,1) entre les tours et +2 link(YIELD_ORDERS,1) pour chaque cité avec une culture légendaire.
-
-Pour un jeu paisible, les guildes sont un outil puissant contre le mécontentement. Cependant, la capacité des élites de stocker des link(YIELD_ORDERS,1) représente un avantage inégalé lors d’une guerre à un stade avancé du jeu, en particulier lorsqu’elle est associée aux capacités de génération de commandes comme celles de l’link(NATION_ASSYRIA).</fr>
 		<ja>各link(IMPROVEMENT_TOWN)につき、link(YIELD_HAPPINESS,1)+1と反乱の確率を10%減少させるか、またはターン間に最大link(YIELD_ORDERS,1)を100蓄積する能力と、伝説の文化を持つ都市ごとにlink(YIELD_ORDERS,1)を2得るか。これらは、link(LAW_GUILDS)かlink(LAW_ELITES)のどちらを選ぶかで決まる。
 
 平和なゲーム展開を望む場合、ギルドはゲーム終盤の不満対策として強力な手段となり得る。しかしながら、「精鋭」からのlink(YIELD_ORDERS,1)を保持する能力──特にlink(NATION_ASSYRIA)のような命令生成能力と組み合わせると、終盤の戦争においては比類無き力を振るえる。</ja>
-		<zh-TW>選擇link(LAW_GUILDS)或link(LAW_ELITES)的效果分別是每有一個link(IMPROVEMENT_TOWN)就能+1 link(YIELD_HAPPINESS,1)，並且反叛幾率-10%；或是在每個回合之間都能儲存上限為100個的link(YIELD_ORDERS,1)，並且每有一座具有傳說文化的城市就能+2 link(YIELD_ORDERS,1)。
-
-如果局勢比較和平，那麼「公會」就能提供一個強大的終盤手段來消解不滿情緒。然而，「精英」儲存link(YIELD_ORDERS,1)的能力可以在遊戲後期的戰爭中帶來無可比擬的優勢，特別是與生成命令點的能力（例如link(NATION_ASSYRIA)）相結合的時候。</zh-TW>
-		<ru>Делая выбор между link(LAW_GUILDS,4) и link(LAW_ELITES,4), вы решаете, получить +1 к link(YIELD_HAPPINESS,2) за каждый link(IMPROVEMENT_TOWN,3) и снижение вероятности появления мятежников на -10% ИЛИ возможность сохранять до 100 link(YIELD_ORDERS,1) между ходами и +2 к link(YIELD_ORDERS,2) за каждый город с легендарной культурой.
-
-При мирной игре гильдии дают эффективный инструмент для борьбы с недовольством на поздних этапах. С другой стороны, способность знати накапливать link(YIELD_ORDERS,3) дает огромное преимущество на войне, особенно в сочетании со способностями, генерирующими приказы. К примеру, такие способности есть у link(NATION_ASSYRIA,1).</ru>
-		<zh-CN>选择link(LAW_GUILDS)或link(LAW_ELITES)的效果分别是每有一个link(IMPROVEMENT_TOWN)就能+1 link(YIELD_HAPPINESS,1)，并且反叛几率-10%；或是在每个回合之间都能储存上限为100个的link(YIELD_ORDERS,1)，并且每有一座具有传说文化的城市就能+2 link(YIELD_ORDERS,1)。
-
-如果局势比较和平，那么“行会”就能提供一个强大的终盘手段来消解不满情绪。然而，“精英”储存link(YIELD_ORDERS,1)的能力可以在游戏后期的战争中带来无可比拟的优势，特别是与生成命令点的能力（例如link(NATION_ASSYRIA)）相结合的时候。</zh-CN>
-		<pt-BR>A escolha entre as leis de link(LAW_GUILDS) ou de link(LAW_ELITES) está entre, respectivamente, +1 link(YIELD_HAPPINESS,1) para cada link(IMPROVEMENT_TOWN) e uma chance de -10% rebeldes, e a capacidade de acumular até 100 link(YIELD_ORDERS,1) entre turnos e +2 link(YIELD_ORDERS,1) por cada cidade com cultura lendária.
-
-Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a insatisfação. Porém, a habilidade das elites em acumular link(YIELD_ORDERS,1) representa uma vantagem incomparável para guerras em jogos já avançados, especialmente se combinada com habilidades que geram ordens, como as da link(NATION_ASSYRIA).</pt-BR>
-		<ko>link(LAW_GUILDS)과 link(LAW_ELITES)는 "link(IMPROVEMENT_TOWN) 하나당 +1 link(YIELD_HAPPINESS) 및 반란 확률 -1%"와 "턴마다 최대 100 link(YIELD_ORDERS)을 저장 가능 및 전설 문화를 보유한 도시마다 +2 link(YIELD_ORDERS)" 중 하나를 선택하는 법률입니다.평화로운 플레이를 원한다면 장인 조합을 선택해 불만도를 잠재울 수 있습니다. 하지만 정예의 link(YIELD_ORDERS) 저장 기능은 게임 후반에 일어나는 전쟁에서 대단히 유용하게 사용할 수 있습니다. 특히 link(NATION_ASSYRIA)의 명령권 생성 등과 상승효과가 큽니다.</ko>
 		<fixja>各link(IMPROVEMENT_TOWN)につき、link(YIELD_HAPPINESS,1)+1と反乱の確率を10%減少させるか、またはターン間に最大link(YIELD_ORDERS,1)を100蓄積する能力と、伝説の文化を持つ都市ごとにlink(YIELD_ORDERS,1)を2得るか。これらは、link(LAW_GUILDS)かlink(LAW_ELITES)のどちらを選ぶかで決まる。
 
 平和なゲーム展開を望む場合、ギルドはゲーム終盤の不満対策として強力な手段となり得る。しかしながら、「精鋭」からのlink(YIELD_ORDERS,1)を保持する能力──特にlink(NATION_ASSYRIA)のような命令生成能力と組み合わせると、終盤の戦争においては比類無き力を振るえる。</fixja>
@@ -599,155 +249,67 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
 		<en-US>Relatives</en-US>
-		<es>Parientes</es>
-		<de>Familienmitglieder</de>
-		<fr>Parents</fr>
 		<ja>親族</ja>
-		<zh-TW>親屬</zh-TW>
-		<ru/>
-		<zh-CN>亲属</zh-CN>
-		<pt-BR>Parentes</pt-BR>
-		<ko/>
 		<fixja>親族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_DAMAGED_OCCURRENCE_LOG_DATA</zType>
 		<en-US>{0_unit} damaged ({2_hp} HP) by {1_occurrence}</en-US>
-		<es>{0_unit} ha recibido daños por {1,1_occurrence} (PG restantes: {2}).</es>
-		<de>{0_unit} Beschädigt durch {1,1_occurrence} (noch {2} TP).</de>
-		<fr>{0_unit} endommagée par {1,1_occurrence} ({2} PV restants).</fr>
 		<ja>{0_unit}が{1,1_occurrence}によって、損害を受けた。（残りHP{2}）</ja>
-		<zh-TW>{0_unit}被{1,1_occurrence}毀壞 (剩餘生命值{2})。</zh-TW>
-		<ru>{0_unit} поврежден {1,4_occurrence} (осталось {2} ОЗ).</ru>
-		<zh-CN>{0_unit}被{1,1_occurrence}毁坏 (剩余生命值{2})。</zh-CN>
-		<pt-BR>{0,3_unit} sofreu dano devido a {1,1_occurrence} (restam {2_hp} PD).</pt-BR>
-		<ko>{0_unit} 유닛이 {1,1_occurrence}(으)로 손상되었습니다.</ko>
 		<fixja>{0_unit}が{1,1_occurrence}によって、損害を受けた。（残りHP{2}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
 		<en-US>{0_unit} damaged ({3_hp} HP) by {1,1_owner} {2_unit}</en-US>
-		<es>Tu {0_unit} recibió un ataque de {2,1_unit} de {1,0_owner}.</es>
-		<de>{0_unit} wurde angegriffen von: {2_unit} {1,8_player}.</de>
-		<fr>{0_unit} a subi une attaque de l'unité {2_unit} {1,2_owner}.</fr>
 		<ja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました。</ja>
-		<zh-TW>{0_unit}遭到{1,2_owner}{2_unit}的攻擊。</zh-TW>
-		<ru>{0_unit} — атакованы {1,22_owner} {2,10_unit}.</ru>
-		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}的攻击。</zh-CN>
-		<pt-BR>{0,3_unit} foi atacada por {2,1_unit} ({1_owner}).</pt-BR>
-		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 공격당했습니다.</ko>
 		<fixja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_CRITICAL_LOG_DATA</zType>
 		<en-US>{0_unit} link(CONCEPT_CRITICAL_HIT) ({3_hp} HP) by {1,1_owner} {2_unit}</en-US>
-		<es>{0_unit} link(CONCEPT_CRITICAL_HIT) de {2_unit} de {1,0_owner}</es>
-		<de>{0_unit}: link(CONCEPT_CRITICAL_HIT) durch: {2_unit} {1,8_player}</de>
-		<fr>{0_unit} link(CONCEPT_CRITICAL_HIT) pour l'unité {2_unit} {1,2_owner}</fr>
 		<ja>{0_unit}は、{1,2_owner}の{2_unit}からlink(CONCEPT_CRITICAL_HIT)を受けました。</ja>
-		<zh-TW>{0_unit}遭到{1,2_owner}{2_unit}的link(CONCEPT_CRITICAL_HIT)。</zh-TW>
-		<ru>{0_unit} — {lowercase:link(CONCEPT_CRITICAL_HIT)} {1,22_owner} {2,10_unit}</ru>
-		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}的link(CONCEPT_CRITICAL_HIT)</zh-CN>
-		<pt-BR>{0,3_unit} recebeu link(CONCEPT_CRITICAL_HIT) de {2,1_unit} ({1_owner})</pt-BR>
-		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 link(CONCEPT_CRITICAL_HIT)를 맞았습니다</ko>
 		<fixja>{0_unit}は、{1,2_owner}の{2_unit}からlink(CONCEPT_CRITICAL_HIT)を受けました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_LOG_UNIT_REVEALED</zType>
 		<en-US>Unit visibility</en-US>
-		<es>Ahora la unidad es visible</es>
-		<de>Einheit jetzt sichtbar</de>
-		<fr>Unité maintenant visible</fr>
 		<ja>ユニット表示中</ja>
-		<zh-TW>單位不可見</zh-TW>
-		<ru>Отряд теперь видим</ru>
-		<zh-CN>当前可视单位</zh-CN>
-		<pt-BR>Unidade agora visível</pt-BR>
-		<ko>이제 유닛이 보입니다</ko>
 		<fixja>ユニット表示中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PAGAN_CLERGY</zType>
 		<en-US>In addition to link(CONCEPT_CLERGY) effects, Pagan Clergy can use the link(MISSION_PAGAN_SACRIFICES) Mission to increase link(YIELD_HAPPINESS) in Pagan Cities and have an increased chance to become the next Religion Head, although cannot be appointed as a link(CONCEPT_GENERAL) or a link(CONCEPT_GOVERNOR).</en-US>
-		<es>Además de los efectos del link(CONCEPT_CLERGY), un miembro del clero pagano puede usar misiones de link(MISSION_PAGAN_SACRIFICES) para aumentar la link(YIELD_HAPPINESS) en ciudades paganas y tener mayores probabilidades de convertirse en el próximo líder de religión.</es>
-		<de>Neben link(CONCEPT_CLERGY)-Effekten gewährt Heidnischer Klerus die Möglichkeit, sich der Mission „link(MISSION_PAGAN_SACRIFICES)“ zu bedienen, um die link(YIELD_HAPPINESS) in heidnischen Städten zu erhöhen. Außerdem hat der Klerus eine höhere Chance, zum nächsten Religionsoberhaupt zu werden.</de>
-		<fr>En plus des effets du link(CONCEPT_CLERGY), le clergé païen peut utiliser la mission link(MISSION_PAGAN_SACRIFICES) pour augmenter le link(YIELD_HAPPINESS) dans les cités païennes et ont une chance accrue de devenir le prochain chef religieux.</fr>
 		<ja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</ja>
-		<zh-TW>除了link(CONCEPT_CLERGY)效果之外，異教神職人員可以通過link(MISSION_PAGAN_SACRIFICES)任務來提高異教城市的link(YIELD_HAPPINESS)，還能提高成為下一任宗教領袖的機率。</zh-TW>
-		<ru>Помимо эффектов {lowercase:link(CONCEPT_CLERGY,1)}, языческое духовенство может выполнять задание «link(MISSION_PAGAN_SACRIFICES)» и увеличивать {lowercase:link(YIELD_HAPPINESS,3)} в языческих городах. Также повышается вероятность, что языческий жрец станет следующим верховными священником.</ru>
-		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，异教神职人员可以通过link(MISSION_PAGAN_SACRIFICES)任务来提高异教城市的link(YIELD_HAPPINESS)，还能提高成为下一任宗教领袖的几率。</zh-CN>
-		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero pagão podem usar a missão de link(MISSION_PAGAN_SACRIFICES) para aumentar a link(YIELD_HAPPINESS) em cidades pagãs e têm uma chance maior de se tornarem o próximo líder religioso.</pt-BR>
-		<ko>다신교 성직자는 link(CONCEPT_CLERGY) 효과가 제공고, 다신교 도시에서 link(MISSION_PAGAN_SACRIFICES) 임무를 통해 link(YIELD_HAPPINESS)를 늘릴 수 있으며, 차기 교주가 될 확률이 증가합니다.</ko>
 		<fixja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_WORLD_CLERGY</zType>
 		<en-US>In addition to link(CONCEPT_CLERGY) effects, World Clergy can use the link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) Mission to remove link(CONCEPT_RELIGIOUS_DISSENT) from Cities without causing link(YIELD_DISCONTENT) or act as link(CONCEPT_AGENT,2) in Cities of their Religion, although cannot be appointed as a link(CONCEPT_GENERAL), link(CONCEPT_GOVERNOR) or as a link(CONCEPT_FAMILY) Head.</en-US>
-		<es>Además de los efectos del link(CONCEPT_CLERGY), el clero mundial puede usar la misión de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) para eliminar la link(CONCEPT_RELIGIOUS_DISSENT) de las ciudades sin crear link(YIELD_DISCONTENT) y además puede actuar como link(CONCEPT_AGENT) en ciudades de su religión.</es>
-		<de>Neben link(CONCEPT_CLERGY)-Effekten gewährt Weltklerus die Möglichkeit, die Mission link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) zu verwenden, um link(CONCEPT_RELIGIOUS_DISSENT,2) aus den Städten zu entfernen, ohne für zusätzliche link(YIELD_DISCONTENT) zu sorgen. Außerdem besteht die Möglichkeit, in Städten dieser Religion als link(CONCEPT_AGENT) zu fungieren.</de>
-		<fr>En plus des effets du link(CONCEPT_CLERGY), le clergé du monde peut utiliser la mission link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) pour supprimer le link(CONCEPT_RELIGIOUS_DISSENT) des cités sans causer de link(YIELD_DISCONTENT) et peut aussi agir en tant qu’link(CONCEPT_AGENT,2) dans les cités de la même religion.</fr>
 		<ja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</ja>
-		<zh-TW>除了link(CONCEPT_CLERGY)效果之外，世界神職人員可以透過link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)任務平定城市中的link(CONCEPT_RELIGIOUS_DISSENT)，而不會引起link(YIELD_DISCONTENT)，還可以在相應宗教的城市中作為link(CONCEPT_AGENT,2)。</zh-TW>
-		<ru>Помимо эффектов {lowercase:link(CONCEPT_CLERGY,1)}, священнослужитель мировой религии может выполнять задание «link(MISSION_QUELL_DISSENT_ZOROASTRIANISM)» и прекращать {lowercase:link(CONCEPT_RELIGIOUS_DISSENT)} в городах, не вызывая {lowercase:link(YIELD_DISCONTENT,1)}. Кроме того, такие священнослужители могут быть {lowercase:link(CONCEPT_AGENT,10)} в городах, где главенствует их религия.</ru>
-		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，世界神职人员可以通过link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)任务平定城市中的link(CONCEPT_RELIGIOUS_DISSENT)，而不会引起link(YIELD_DISCONTENT)，还可以在相应宗教的城市中充当link(CONCEPT_AGENT,2)。</zh-CN>
-		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero das religiões mundiais podem usar a missão de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) para remover link(CONCEPT_RELIGIOUS_DISSENT) de cidades sem provocar link(YIELD_DISCONTENT) e também podem atuar como link(CONCEPT_AGENT,2) em cidades de sua religião</pt-BR>
-		<ko>세계 종교 성직자는 link(CONCEPT_CLERGY) 효과가 제공되고, link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) 임무를 통해 link(YIELD_DISCONTENT) 증가 없이 도시의 link(CONCEPT_RELIGIOUS_DISSENT)을 제거할 수 있으며, 같은 종교를 믿는 도시에서 link(CONCEPT_AGENT,2)으로 활용할 수 있습니다.</ko>
 		<fixja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
 		<en-US>Clergy are representatives of their link(CONCEPT_RELIGION) in your court. Each Clergy member gives a bonus to their Religion's Opinion, increased or decreased by their personal opinion of you. Clergy can be created through the link(MISSION_MAKE_CLERGY) Mission. They can act as link(CONCEPT_TUTOR,1) and have extra abilities depending on if they are link(CONCEPT_PAGAN_CLERGY) or link(CONCEPT_WORLD_CLERGY), although cannot act as a link(CONCEPT_GENERAL) or a link(CONCEPT_GOVERNOR). Clergy also have an increased chance to be picked as the Head of their Religion when the current one dies.</en-US>
-		<es>El clero hace de representantes de la {lowercase:link(CONCEPT_RELIGION)} en la corte. Cada miembro del clero otorga una bonificación a la opinión de su religión, que aumenta o disminuye según la opinión que tenga de ti. Puedes crear clero con la misión link(MISSION_MAKE_CLERGY). Los miembros del clero pueden actuar como {lowercase:link(CONCEPT_TUTOR,2)} y disponen de habilidades adicionales dependiendo de si son parte del {lowercase:link(CONCEPT_PAGAN_CLERGY)} o del {lowercase:link(CONCEPT_WORLD_CLERGY)}.</es>
-		<de>Kleriker sind Vertreter ihrer jeweiligen link(CONCEPT_RELIGION) am Hofe. Jedes Mitglied des Klerus erhöht die Meinung seiner spezifischen Religion Euch gegenüber. Dieser Bonus erhöht oder verringert sich auf Grundlage der persönlichen Meinung der betreffenden Person. Kleriker können mithilfe der Mission link(MISSION_MAKE_CLERGY) erzeugt werden. Sie können als link(CONCEPT_TUTOR) fungieren und besitzen zusätzliche Fähigkeiten basierend auf ihrer Ausrichtung – link(CONCEPT_PAGAN_CLERGY) oder link(CONCEPT_WORLD_CLERGY).</de>
-		<fr>Le clergé représente sa link(CONCEPT_RELIGION) dans votre cour. Chacun des membres du clergé donnent un bonus à l'opinion sur sa religion, augmenté ou réduit par leurs opinions de vous. Le clergé peut être créé au moyen de la mission link(MISSION_MAKE_CLERGY). Les membres du clergé peuvent agir en tant que link(CONCEPT_TUTOR,1) et avoir des capacités supplémentaires en fonction de leur appartenance au link(CONCEPT_PAGAN_CLERGY) ou au link(CONCEPT_WORLD_CLERGY).</fr>
 		<ja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</ja>
-		<zh-TW>神職人員是宮廷中link(CONCEPT_RELIGION)的代表。每位神職人員都能為其信仰的好感度提供獎勵，並根據他們對你的好感度增加或減少獎勵。可透過link(MISSION_MAKE_CLERGY)創立神職人員。他們可作為link(CONCEPT_TUTOR,1)，並根據是否為link(CONCEPT_PAGAN_CLERGY)或link(CONCEPT_WORLD_CLERGY)具備額外能力。</zh-TW>
-		<ru>Духовенство представляет различные {lowercase:link(CONCEPT_RELIGION,9)} при вашем дворе. Каждый его представитель влияет на мнение последователей своей религии о вашем правлении, исходя из собственного мнения о вас. Привлекать новых священнослужителей можно с помощью задания «link(MISSION_MAKE_CLERGY)». Они могут выступать в качестве {lowercase:link(CONCEPT_TUTOR,7)} и обладать дополнительными способностями в зависимости от того, являются они {lowercase:link(CONCEPT_PAGAN_CLERGY,4)} или {lowercase:link(CONCEPT_WORLD_CLERGY,4)}.</ru>
-		<zh-CN>神职人员是你宫廷中代表其link(CONCEPT_RELIGION)的人员。每名神职人员对你的个人看法，会提高或降低其宗教对你的好感。你可以通过link(MISSION_MAKE_CLERGY)任务任命神职人员。他们可以作为link(CONCEPT_TUTOR,1)活动，如果他们是link(CONCEPT_PAGAN_CLERGY)或link(CONCEPT_WORLD_CLERGY)还会拥有额外的能力。</zh-CN>
-		<pt-BR>Os clero é composto por representantes de suas respectivas link(CONCEPT_RELIGION,2) em sua corte. Cada membro do clero concede um bônus à opinião da religião deles, aumentado ou diminuído de acordo com a opinião pessoal deles sobre você. O clero pode ser formado coma missão link(MISSION_MAKE_CLERGY). Eles podem trabalhar como link(CONCEPT_TUTOR,2) e ter habilidades adicionais a depender se são link(CONCEPT_PAGAN_CLERGY) ou link(CONCEPT_WORLD_CLERGY).</pt-BR>
-		<ko>성직자는 당신 궁정의 link(CONCEPT_RELIGION)를 대표하는 사람입니다. 각 성직자는 종교의 태도에 보정을 주며 당신에 대한 개인적인 태도에 따라 증가하거나 감소합니다. 성직자는 link(MISSION_MAKE_CLERGY) 임무를 통해 생성할 수 있습니다. 성직자는 link(CONCEPT_TUTOR,1)가 될 수 있으며 link(CONCEPT_PAGAN_CLERGY) 혹은 link(CONCEPT_WORLD_CLERGY)에 따라 추가 능력이 있습니다.</ko>
 		<fixja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_GOAL_HELP_COMPLETE_MISSIONS</zType>
 		<en-US>Complete {0_num} {singular_0:Mission:Missions}: {1_mission}</en-US>
-		<es>Completar {0_num} {singular_0:misión:misiones} de {1_mission}</es>
-		<de>{0_num} „{1_mission}“-{singular_0:Mission:Missionen} abschließen</de>
-		<fr>Terminer {0_num} {singular_0:Mission:Missions} {1_mission}</fr>
 		<ja>{1_mission}ミッションを{0_num}回完了</ja>
-		<zh-TW>完成{0_num} {1_mission} {singular_0:Mission:Missions}</zh-TW>
-		<ru>Завершить {0_num} {singular_0:задание:задания:заданий} «{1_mission}»</ru>
-		<zh-CN>完成 {0_num} 项{1_mission}{singular_0:任务:任务}</zh-CN>
-		<pt-BR>Complete {0_num} {1_mission} {singular_0:missão:missões}</pt-BR>
-		<ko>{1_mission} 임무 {0_num}개를 완료</ko>
 		<fixja>{1_mission}ミッションを{0_num}回完了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_0</zType>
 		<en-US>{THEOLOGY-4} is the true path.</en-US>
-		<es>El link(THEOLOGY_GNOSTICISM) es el camino verdadero.</es>
-		<de>Der link(THEOLOGY_GNOSTICISM) ist der einzig wahre Weg.</de>
-		<fr>Le link(THEOLOGY_GNOSTICISM) est la seule voie.</fr>
 		<ja>link(THEOLOGY_GNOSTICISM)こそ真実の道である。</ja>
-		<zh-TW>link(THEOLOGY_GNOSTICISM)才能引領人們通往真理。</zh-TW>
-		<ru>link(THEOLOGY_GNOSTICISM) — единственный путь.</ru>
-		<zh-CN>link(THEOLOGY_GNOSTICISM)才能引领人们通往真理。</zh-CN>
-		<pt-BR>O link(THEOLOGY_GNOSTICISM) é o caminho da verdade.</pt-BR>
-		<ko>link(THEOLOGY_GNOSTICISM)가 진리의 길이다.</ko>
 		<fixja>link(THEOLOGY_GNOSTICISM)こそ真実の道である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_1</zType>
 		<en-US>{THEOLOGY-5} shows the true order of the world.</en-US>
-		<es>El link(THEOLOGY_DUALISM) muestra el orden real del mundo.</es>
-		<de>Der link(THEOLOGY_DUALISM) repräsentiert die wahre Weltordnung.</de>
-		<fr>Le link(THEOLOGY_DUALISM) montre le monde sous son vrai jour.</fr>
 		<ja>link(THEOLOGY_DUALISM)は世に真の秩序をもたらしている。</ja>
-		<zh-TW>link(THEOLOGY_DUALISM)展示了世界的真實秩序。</zh-TW>
-		<ru>link(THEOLOGY_DUALISM) указывает на истинный порядок вещей.</ru>
-		<zh-CN>link(THEOLOGY_DUALISM)展示了世界的真实秩序。</zh-CN>
-		<pt-BR>O link(THEOLOGY_DUALISM) mostra a verdadeira ordem do mundo.</pt-BR>
-		<ko>세상의 진정한 질서는 link(THEOLOGY_DUALISM)에 있다.</ko>
 		<fixja>link(THEOLOGY_DUALISM)は世に真の秩序をもたらしている。</fixja>
 	</Entry>
 	<Entry>
@@ -755,33 +317,9 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<en-US>{CHARACTER-1} has come to you, warning of a dangerous divide splitting the {RELIGION-0,1} community. The {S0.PRIEST,2} of {CITY-2} are championing the ideals of {THEOLOGY-4}, while the {S0.PRIEST,2} of {CITY-3} support the doctrine of {THEOLOGY-5}.
 
 {CHARACTER-1} has been unable to bridge the divide and looks to you for support.</en-US>
-		<es>{CHARACTER-1} se aproxima a ti para advertirte de una peligrosa fracción que se expande entre la comunidad {RELIGION_F-0,1}. Los {lowercase:{S0.PRIEST,2}} de {CITY-2} ahora defienden los ideales del link(THEOLOGY_GNOSTICISM), mientras los {lowercase:{S0.PRIEST,2}} de {CITY-3} apoyan la doctrina del link(THEOLOGY_DUALISM).
-
-{CHARACTER-SHORT-1} no ha podido impedir la expansión de esta fracción y solicita tu ayuda.</es>
-		<de>{CHARACTER-1} warnt Euch vor einer gefährlichen Spaltung innerhalb {RELIGION-0,1}. Die {S0.PRIEST,2} aus {CITY-2} treten für die Ideale des link(THEOLOGY_GNOSTICISM,1) ein, während die {S0.PRIEST,2} aus {CITY-3} die Lehre des link(THEOLOGY_DUALISM,1) unterstützen.
-
-{CHARACTER-1} war nicht in der Lage, die Kluft zu überbrücken und bittet Euch daher um Unterstützung.</de>
-		<fr>{CHARACTER-1} vient vous avertir d’une division dangereuse dans la communauté {RELIGION-0,3}. Les {S0.PRIEST,2} de {CITY-2} avancent les idéaux du link(THEOLOGY_GNOSTICISM), alors que les {S0.PRIEST,2} de {CITY-3} soutiennent la doctrine du link(THEOLOGY_DUALISM).
-
-{CHARACTER-1} n’arrive pas à réduire le clivage entre les deux camps et vous demande votre aide.</fr>
 		<ja>{CHARACTER-1}があなたのもとに、{RELIGION-0,1}の信者たちが危険なかたちで分裂しそうだと警告しに来た。{CITY-2}の{S0.PRIEST,2}たちは、link(THEOLOGY_GNOSTICISM)を理想と掲げているが、{CITY-3}の{S0.PRIEST,2}たちはlink(THEOLOGY_DUALISM)の考え方を支持している。
 
 {CHARACTER-1}にはその溝を埋めることができず、あなたの助力を求めている。</ja>
-		<zh-TW>{CHARACTER-1}前來，提醒你{RELIGION-0,1}社群中出現了危險的分裂傾向。 {CITY-2}的{S0.PRIEST,2}擁護link(THEOLOGY_GNOSTICISM)的理想，而{CITY-3}的{S0.PRIEST,2}神父則支持link(THEOLOGY_DUALISM)的教義。
-
-{CHARACTER-1}一直無法彌合他們的分歧，因此前來尋求你的援助。</zh-TW>
-		<ru>{CHARACTER-1} {G1:пришел:пришла} к вам на аудиенцию, чтобы предупредить об опасном расколе в {RELIGION-0,5}. Жрецы {CITY-2,1} отстаивают идеалы {lowercase:link(THEOLOGY_GNOSTICISM,1)}, в то время как жрецы {CITY-3,1} выступают за доктрину {lowercase:link(THEOLOGY_DUALISM,1)}.
-
-{CHARACTER-1} не {G1:смог:смогла} предотвратить раскол и теперь просит у вас помощи.</ru>
-		<zh-CN>{CHARACTER-1}前来，提醒你{RELIGION-0,1}社群中出现了危险的分裂倾向。{CITY-2}的{S0.PRIEST,2}拥护link(THEOLOGY_GNOSTICISM)的理想，而{CITY-3}的{S0.PRIEST,2}神父则支持link(THEOLOGY_DUALISM)的教义。
-
-{CHARACTER-1}一直无法弥合他们的分歧，因此前来寻求你的援助。</zh-CN>
-		<pt-BR>{CHARACTER-SHORT-1} veio a você com um aviso sobre uma perigosa desavença que está dividindo a comunidade {RELIGION_F-0,1}. Os {lowercase:{S0.PRIEST,2}} de {CITY-2} estão defendendo os ideais do link(THEOLOGY_GNOSTICISM), enquanto os {lowercase:{S0.PRIEST,2}} de {CITY-3} apoiam a doutrina do link(THEOLOGY_DUALISM).
-
-{CHARACTER-SHORT-1} não conseguiu aproximar essa distância e busca o seu apoio.</pt-BR>
-		<ko>{CHARACTER-1}(이)가 당신을 찾아와 {RELIGION-0,1} 공동체를 갈라놓은 위험한 분열을 경고하였습니다. {CITY-2}의 {S0.PRIEST,2}들이 link(THEOLOGY_GNOSTICISM)의 이상을 옹호하는 동안 {CITY-3}의 {S0.PRIEST,2}들은 link(THEOLOGY_DUALISM)의 원칙을 지지하고 있습니다.
-
-이 분열을 봉합할 수 없었던 {CHARACTER-1}(이)가 당신의 지원을 바랍니다.</ko>
 		<fixja>{CHARACTER-1}があなたのもとに、{RELIGION-0,1}の信者たちが危険なかたちで分裂しそうだと警告しに来た。{CITY-2}の{S0.PRIEST,2}たちは、link(THEOLOGY_GNOSTICISM)を理想と掲げているが、{CITY-3}の{S0.PRIEST,2}たちはlink(THEOLOGY_DUALISM)の考え方を支持している。
 
 {CHARACTER-1}にはその溝を埋めることができず、あなたの助力を求めている。</fixja>
@@ -789,15 +327,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_MIRROR_HELP</zType>
 		<en-US>East-West symmetric map.</en-US>
-		<es>Mapa con simetría Este-Oeste.</es>
-		<de>Symmetrische Ost-West-Karte.</de>
-		<fr>Carte symétrique est-ouest.</fr>
 		<ja>東西対称のマップ。</ja>
-		<zh-TW>東西對稱地圖。</zh-TW>
-		<ru>Карта с симметрией «восток-запад».</ru>
-		<zh-CN>东西对称地图。</zh-CN>
-		<pt-BR>Mapa simétrico Leste-Oeste.</pt-BR>
-		<ko>동쪽과 서쪽이 대칭을 이루는 맵입니다.</ko>
 		<fixja>東西対称のマップ。</fixja>
 	</Entry>
 </Root>
