@@ -26,6 +26,7 @@
 		<zh-CN>停用教学</zh-CN>
 		<pt-BR>Desativar tutorial</pt-BR>
 		<ko>튜토리얼 비활성화</ko>
+		<fixja>チュートリアル無効</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_NO_TUTORIAL_DESC</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>教学事件未启动</zh-CN>
 		<pt-BR>Eventos de tutorial não serão exibidos</pt-BR>
 		<ko>튜토리얼 사건이 발생하지 않습니다.</ko>
+		<fixja>チュートリアルのイベントが発生しないようになります</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_INSTANT_UNIT_MOVEMENT</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>立即单位行动</zh-CN>
 		<pt-BR>Movimento instantâneo das unidades</pt-BR>
 		<ko>유닛 즉시 이동</ko>
+		<fixja>ユニットの移動アニメーション省略</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_INSTANT_UNIT_MOVEMENT_DESC</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>不要显示你队伍的单位行动</zh-CN>
 		<pt-BR>O movimento das unidades do seu time não será animado</pt-BR>
 		<ko>팀 유닛의 이동 동작을 재생하지 않습니다.</ko>
+		<fixja>チームのユニット移動時のアニメーションを表示しません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_UNIT_CYCLING</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>单位循环</zh-CN>
 		<pt-BR>Revezar unidades</pt-BR>
 		<ko>유닛 전환</ko>
+		<fixja>ユニットサイクル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_UNIT_CYCLING_DESC</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>采取冷却动作后，自动循环至下一个link(CONCEPT_IDLE)单位</zh-CN>
 		<pt-BR>Depois de realizar uma ação que resulte em tempo de recarga, o jogo passará automaticamente para a próxima unidade link(CONCEPT_IDLE,1)</pt-BR>
 		<ko>재활성 대기가 끝나면 자동으로 다음 link(CONCEPT_IDLE) 유닛으로 전환합니다.</ko>
+		<fixja>ユニットがクールダウンした後に、自動的に次のlink(CONCEPT_IDLE)ユニットに切り替えます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_FATIGUE_CYCLING</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>疲惫单位循环</zh-CN>
 		<pt-BR>Revezar com unidades fatigadas</pt-BR>
 		<ko>탈진한 유닛 전환</ko>
+		<fixja>疲弊ユニットサイクル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_FATIGUE_CYCLING_DESC</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>疲惫单位已纳入选取循环</zh-CN>
 		<pt-BR>Unidades fatigadas são incluídas no revezamento de unidades</pt-BR>
 		<ko>전환 시 선택되는 유닛에 탈진한 유닛을 포합니다.</ko>
+		<fixja>疲弊したユニットを切り替えの選択肢に含めます</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISABLE_EDGE_SCROLLING</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>停用边缘滚动</zh-CN>
 		<pt-BR>Desativar rolagem nas bordas</pt-BR>
 		<ko>모서리 이동 비활성화</ko>
+		<fixja>画面端スクロール無効</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISABLE_EDGE_SCROLLING_DESC</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>滑鼠位于荧幕边缘时，请勿卷动地图 (仅限全荧幕模式)</zh-CN>
 		<pt-BR>Não rola o mapa ao posicionar o mouse em uma das bordas da tela (apenas no modo de exibição tela cheia)</pt-BR>
 		<ko>마우스를 화면 모서리에 두어도 맵을 움직이지 않습니다. (전체 화면 모드에만 적용)</ko>
+		<fixja>マウスを画面端に移動した際にスクロールしないようになります（フルスクリーンモードのみ）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_ORDERS_COST</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>显示命令花费</zh-CN>
 		<pt-BR>Mostrar custo em ordens</pt-BR>
 		<ko>명령권 소비량 표시</ko>
+		<fixja>命令書のコスト表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_ORDERS_COST_DESC</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>显示命令花费而非每次行动后剩下的命令</zh-CN>
 		<pt-BR>Mostra o custo em ordens em vez da quantidade de ordens restantes para cada movimento</pt-BR>
 		<ko>이동 후 남는 명령권 대신 소비되는 명령권 양을 표시합니다.</ko>
+		<fixja>移動ごとの残り命令書ではなく命令書のコストを表示します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_MINI_TECH_CARDS</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>使用最低科技卡牌</zh-CN>
 		<pt-BR>Usar cartas de tecnologia em miniatura</pt-BR>
 		<ko>최소화된 기술 카드 사용</ko>
+		<fixja>技術カードの最小表示使用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_MINI_TECH_CARDS_DESC</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>永远显示最低科技卡牌而非选择研究弹出视窗</zh-CN>
 		<pt-BR>Sempre mostra as cartas de tecnologia minimizadas em vez da janela de escolha de pesquisa</pt-BR>
 		<ko>연구를 선택할 때 팝업 창을 표시하지 않고 최소화된 기술 카드만 표시합니다.</ko>
+		<fixja>技術カード選択用の研究ポップアップ表示ではなくミニ表示を常に使用します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_SYSTEM_TIME</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>显示系统时间</zh-CN>
 		<pt-BR>Mostrar hora do sistema</pt-BR>
 		<ko>시스템 시간 표시</ko>
+		<fixja>システム時間表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_SYSTEM_TIME_DESC</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>在界面中显示系统时间</zh-CN>
 		<pt-BR>Mostra a hora do sistema na interface</pt-BR>
 		<ko>인터페이스에 시스템 시간을 표시합니다.</ko>
+		<fixja>インターフェイスにシステム時間を表示します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_HIDE_LANDMARK_NAMES</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>隐藏地标名称</zh-CN>
 		<pt-BR>Ocultar nomes dos marcos</pt-BR>
 		<ko>명소 이름 비표시</ko>
+		<fixja>ランドマーク名非表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_HIDE_LANDMARK_NAMES_DESC</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>隐藏地图元素名称 (例：山脉、火山等等)</zh-CN>
 		<pt-BR>Oculta os nomes dos elementos do mapa (como montanhas, vulcões, etc.)</pt-BR>
 		<ko>지형 요소 이름을 표시하지 않습니다. (예: 산맥, 화산 등)</ko>
+		<fixja>マップ要素名（山地、火山など）を非表示にします</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DEFAULT_LANDMARK_NAMES</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>预设地标名称</zh-CN>
 		<pt-BR>Nomes de marcos predefinidos</pt-BR>
 		<ko>기본 명소 이름 사용</ko>
+		<fixja>デフォルトのランドマーク名</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DEFAULT_LANDMARK_NAMES_DESC</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>跳过重命名已发现地目标提示</zh-CN>
 		<pt-BR>Desativa a opção de renomear os marcos descobertos</pt-BR>
 		<ko>발견한 명소의 명명 과정을 생략합니다.</ko>
+		<fixja>発見したランドマークを改名するプロンプトをスキップする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_FLIP_UNIT_COLORS</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>切换单位颜色</zh-CN>
 		<pt-BR>Inverter cores das unidades</pt-BR>
 		<ko>유닛 색깔 전환</ko>
+		<fixja>ユニットカラー入れ替え</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_FLIP_UNIT_COLORS_DESC</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>切换单位主要和次要颜色</zh-CN>
 		<pt-BR>Inverte as cores primárias e secundárias das unidades</pt-BR>
 		<ko>유닛의 주 색상과 부 색상을 전환합니다.</ko>
+		<fixja>ユニットの主カラーと副カラーを入れ替えます</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>显示异邦家族颜色</zh-CN>
 		<pt-BR>Mostrar cores das famílias estrangeiras</pt-BR>
 		<ko>타국 가문 색깔 표시</ko>
+		<fixja>外国の氏族のカラーを表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS_DESC</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>显示异邦单位的家族颜色</zh-CN>
 		<pt-BR>Mostra as cores das famílias nas unidades estrangeiras</pt-BR>
 		<ko>타국 유닛에 가문의 색을 표시합니다.</ko>
+		<fixja>外国ユニットの氏族カラーを表示します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>隐藏单位行动步骤</zh-CN>
 		<pt-BR>Ocultar passos ao movimentar unidades</pt-BR>
 		<ko>유닛 이동 범위 숨김</ko>
+		<fixja>ユニット移動ステップを非表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS_DESC</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>隐藏所选单位每一步骤的行动范围</zh-CN>
 		<pt-BR>Oculta o alcance de movimentos para cada passo da unidade selecionada</pt-BR>
 		<ko>선택한 유닛의 이동 범위를 숨깁니다.</ko>
+		<fixja>選択したユニットのステップごとの移動範囲を非表示にします</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_MUTE_AUDIO</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>静音</zh-CN>
 		<pt-BR>Silenciar</pt-BR>
 		<ko>음소거</ko>
+		<fixja>ミュート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_MUTE_AUDIO_DESC</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>不播放任何音效</zh-CN>
 		<pt-BR>Nenhum áudio será tocado</pt-BR>
 		<ko>소리를 재생하지 않습니다.</ko>
+		<fixja>音声をすべてオフにします</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_PLAY_AUDIO</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>播放</zh-CN>
 		<pt-BR>Tocar</pt-BR>
 		<ko>재생</ko>
+		<fixja>再生</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHUFFLE_TO_NEXT_TRACK</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>随机播放下一音轨</zh-CN>
 		<pt-BR>Próxima faixa em modo aleatório</pt-BR>
 		<ko>다음 음악을 무작위로 재생합니다.</ko>
+		<fixja>次のトラックをシャッフル再生します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SKIP_LICENSED_MUSIC_TRACKS</zType>
@@ -426,6 +456,8 @@ Mode sécurité des droits d'auteurs</fr>
 para gravação e streaming de música</pt-BR>
 		<ko>음악: 녹화 및 방송용
 저작권 보호 설정</ko>
+		<fixja>音楽：録音と配信
+著作権セーフモード</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SKIP_LICENSED_MUSIC_TRACKS_DESC</zType>
@@ -439,6 +471,7 @@ para gravação e streaming de música</pt-BR>
 		<zh-CN>适用于直播串流或录制影片的玩家：启用时，游戏会跳过在影片分享网站上已知有版权标记问题的所有有版权的音轨。这有助于降低影片中音乐相关的内容问题。</zh-CN>
 		<pt-BR>Para jogadores que estejam gravando vídeos ou transmitindo ao vivo. Quando ativado, o jogo irá pular quaisquer faixas de música que sejam licenciadas e possam causar problemas por uso de conteúdo em sites de compartilhamento de vídeos. Isso irá diminuir problemas relacionados a conteúdo musical nos seus vídeos.</pt-BR>
 		<ko>생방송이나 영상 녹화를 진행 중인 플레이어들께: 이 설정을 활성화하면 보호받는 음악을 건너뛰어 온라인 영상이나 생방송에서 발생하는 음악 저작권 문제를 줄일 수 있습니다.</ko>
+		<fixja>動画のライブ配信や録画を行うプレイヤー向け：有効にすると、動画共有サイトで既知の著作権フラグが設定された、ライセンスを要する音楽トラックがゲームでスキップされます。この機能により、動画の音楽に関連するコンテンツの問題が発生する可能性を低減できます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JUKEBOX_EXPLANATION</zType>
@@ -462,6 +495,8 @@ Ci-dessous, vous pouvez jouer ou désactiver des pistes musicales spécifiques.<
 Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<ko>link(TECH_DRAMA)을 연구하면 게임에서 음악이 재생됩니다. 
 아래에서 특정한 음악을 재생하거나 비활성화할 수 있습니다.</ko>
+		<fixja>link(TECH_DRAMA)の研究を実施すると、ゲーム内音楽が始まります。
+下部では、特定の音楽トラックの再生または無効化ができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DONT_MUTE_FOCUS</zType>
@@ -475,6 +510,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>失去焦点时继续播放音效</zh-CN>
 		<pt-BR>Reproduzir áudio sem foco</pt-BR>
 		<ko>백그라운드 소리 재생</ko>
+		<fixja>常時音声再生</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DONT_MUTE_FOCUS_DESC</zType>
@@ -488,6 +524,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>即便是切换到另一个应用程式，游戏音效依然会持续在背景中播放 (对串流或录制用途来说能派上用场)。</zh-CN>
 		<pt-BR>O áudio do jogo continuará tocando como música de fundo, mesmo quando você estiver na janela de outro programa (útil para gravação ou transmissão de vídeos)</pt-BR>
 		<ko>게임을 백그라운드에 놓고 다른 작업을 수행할 때에도 소리가 게임 소리가 재생됩니다(방송 및 녹화에 추천).</ko>
+		<fixja>他のアプリケーションに切り替えた場合でも、ゲームの音声が引き続きバックグラウンドで再生されます（配信や録画を行う場合に便利です）。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_CONTINUE_TRACK_FULLSCREEN_TAB</zType>
@@ -501,6 +538,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>切换画面时继续播放音乐</zh-CN>
 		<pt-BR>Continuar tocando música ao trocar de telas</pt-BR>
 		<ko>화면 전환 시 음악 재생 지속</ko>
+		<fixja>画面切り替え時にもBGMを継続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_CONTINUE_TRACK_FULLSCREEN_TAB_DESC</zType>
@@ -514,6 +552,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>切换画面叠图时继续播放当前曲目（例如：科技树）</zh-CN>
 		<pt-BR>A música que está tocando no momento continuará tocando mesmo ao alternar entre camadas ou janelas (por exemplo, ao abrir a árvore de tecnologia)</pt-BR>
 		<ko>화면 오버레이 (예: 기술 계보) 전환 시 현재 음악 재생 지속</ko>
+		<fixja>オーバーレイ(技術ツリーなど)を変更した際も現在再生中のBGMを続けて流します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_AZERTY_KEYBOARD</zType>
@@ -527,6 +566,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>AZERTY 键盘</zh-CN>
 		<pt-BR>Teclado AZERTY</pt-BR>
 		<ko>AZERTY 키보드</ko>
+		<fixja>AZERTYキーボード</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_AZERTY_KEYBOARD_DESC</zType>
@@ -540,6 +580,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>将快捷键安排到 AZERTY键盘上的位置</zh-CN>
 		<pt-BR>Mapear as teclas de atalho para seu equivalente em teclado AZERTY</pt-BR>
 		<ko>단축키를 AZERTY 키보드에 맞추어 재설정합니다.</ko>
+		<fixja>AZERTYキーボードの配列でホットキーを登録します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SLOW</zType>
@@ -553,6 +594,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>慢速 AI</zh-CN>
 		<pt-BR>IA lenta</pt-BR>
 		<ko>느린 AI</ko>
+		<fixja>低速AI</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SLOW_DESC</zType>
@@ -566,6 +608,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>禁用全面占用 CPU 核心，这样会导致电脑回合的时间变长，但是可以改善电池寿命，还能增强部分 CPU 的运行稳定性，并为直播等其他任务保留更多计算资源。</zh-CN>
 		<pt-BR>Desativa o uso total nos núcleos do processador, resultando em turnos mais longos da IA, mas melhorando a vida útil da bateria, dando mais estabilidade a alguns processadores e dando mais poder computacional para outras tarefas, como gravação.</pt-BR>
 		<ko>모든 CPU 코어 사용을 사용하지 않아 AI 턴이 길어지지만 배터리 수명이 개선되고 일부 CPU의 안정성이 높아지고 스트리밍과 같은 다른 기능 수행에 연산 능력을 사용할 수 있습니다.</ko>
+		<fixja>CPUコアをフル活用しないことでAIのターン待ちは長くなるものの、バッテリー消費が軽減されまたいくつかのCPUでの安定性が向上します。またストリーミングなど同時に行っている他の作業の処理速度が向上します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DEBUG_HELP</zType>
@@ -579,6 +622,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>侦错协助</zh-CN>
 		<pt-BR>Ajuda para depurar</pt-BR>
 		<ko>디버그 도우미</ko>
+		<fixja>デバッグのヘルプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DEBUG_HELP_DESC</zType>
@@ -592,6 +636,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>启用提示框进行侦错</zh-CN>
 		<pt-BR>Ativa quadros de dicas para depuração</pt-BR>
 		<ko>디버그 도움말을 표시합니다.</ko>
+		<fixja>デバッグ用のツールチップを有効にします</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_ADVANCED_HELP</zType>
@@ -605,6 +650,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>高级帮助文本</zh-CN>
 		<pt-BR>Texto de Ajuda Avançado</pt-BR>
 		<ko>고급 도움말</ko>
+		<fixja>高度なヘルプテキスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_ADVANCED_HELP_DESC</zType>
@@ -618,6 +664,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>提示会显示额外信息，对资深玩家可能有用</zh-CN>
 		<pt-BR>Os quadros de dicas exibem informações adicionais que podem ser úteis para jogadores experientes</pt-BR>
 		<ko>툴팁에 경험이 많은 플레이어에게 유용한 추가 정보를 표시합니다.</ko>
+		<fixja>熟練したプレイヤーにとって有益な追加情報をツールチップに表示する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISABLE_CORSAIR_ICUE_HELP</zType>
@@ -631,6 +678,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>停用 Corsair iCUE</zh-CN>
 		<pt-BR>Desativar Corsair iCUE</pt-BR>
 		<ko>Corsair iCUE 비활성화</ko>
+		<fixja>Corsair iCUE無効</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISABLE_CORSAIR_ICUE_HELP_DESC</zType>
@@ -644,6 +692,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>停用游戏和 iCUE 光线效果同步</zh-CN>
 		<pt-BR>Desativa a sincronização da jogabilidade com os efeitos de iluminação iCUE</pt-BR>
 		<ko>게임 플레이 동기화와 iCUE 광원 효과를 비활성화합니다.</ko>
+		<fixja>ゲームのプレイ状況とiCUEのライトエフェクトの同期を無効にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_HIDE_NEW_ANNOUNCEMENTS</zType>
@@ -657,6 +706,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>隐藏公告</zh-CN>
 		<pt-BR>Ocultar anúncios</pt-BR>
 		<ko>새 소식 비활성화</ko>
+		<fixja>告知を非表示にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_HIDE_NEW_ANNOUNCEMENTS_DESC</zType>
@@ -670,6 +720,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>默认新公告不会出现在主画面</zh-CN>
 		<pt-BR>Os novos anúncios não serão mostrados na tela principal</pt-BR>
 		<ko>메인 화면에 새 소식이 표시되지 않습니다.</ko>
+		<fixja>デフォルトでは、新しい告知はメインスクリーンに表示されません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_STEAMDECK_SHOW_KEYBOARD_HOTKEYS</zType>
@@ -683,6 +734,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>显示键盘快捷键</zh-CN>
 		<pt-BR>Mostrar atalhos do teclado</pt-BR>
 		<ko>키보드 단축키 표시</ko>
+		<fixja>キーボードショートカットの表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_STEAMDECK_SHOW_KEYBOARD_HOTKEYS_DESC</zType>
@@ -696,6 +748,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>在提示框中显示未绑定至Steam Deck按键的操作快捷键</zh-CN>
 		<pt-BR>Mostra os atalhos do teclado nos quadros de dicas para as ações que não estiverem associadas a botões do Steam Deck</pt-BR>
 		<ko>Steam Deck 버튼에 할당되지 않은 행동의 키보드 단축키를 도움말 창으로 표시</ko>
+		<fixja>Steam Deckのボタンにバインドされていないアクションのツールチップにキーボードショートカットを表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_BUTTON_NAVIGATION</zType>
@@ -709,6 +762,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>允许使用键盘按键导航</zh-CN>
 		<pt-BR>Permitir navegação dos botões com o teclado</pt-BR>
 		<ko>키보드 버튼 이동 허용</ko>
+		<fixja>キーボードボタン・ナビゲーションを許可する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_BUTTON_NAVIGATION_DESC</zType>
@@ -722,6 +776,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>已选择的WASD键和方向键将尝试选择该方向上最近的按键</zh-CN>
 		<pt-BR>WASD e as setas direcionais com um botão selecionado tentarão selecionar o botão mais próximo naquela direção</pt-BR>
 		<ko>버튼을 선택한 채 WASD와 화살표 키를 누르면 해당 방향에 있는 가장 가까운 버튼을 선택</ko>
+		<fixja>ボタンを選んだ状態でWASDキーと矢印キーを押すと、その方向に最も近いボタンが選択される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISCARD_REPLAY_DATA</zType>
@@ -735,6 +790,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>已保存的游戏中没有回放数据</zh-CN>
 		<pt-BR>Sem dados de repetição em jogos salvos</pt-BR>
 		<ko>저장된 게임에 리플레이 데이터 없음</ko>
+		<fixja>セーブしたゲームにリプレイデータがありません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISCARD_REPLAY_DATA_DESC</zType>
@@ -748,6 +804,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>不会将操作历史记录附加到已保存的游戏文件中。这样生成的存档文件会小得多，但是在重新加载时无法撤销和回放保存之前的操作。</zh-CN>
 		<pt-BR>Não guarda um histórico das ações realizadas no arquivo de jogo salvo. Esse arquivo será consideravelmente menor, mas ações de desfazer e a repetição de ações antes do momento em que o jogo foi salvo não estarão disponíveis ao recarregar.</pt-BR>
 		<ko>저장된 게임 파일에 행동을 기록하지 않습니다. 이 설정을 활성화하면 파일 크기가 확연히 줄어들지만 게임을 저장하기 전에 취한 행동은 파일을 다시 불러왔을 때 취소하거나 리플레이할 수 없게 됩니다.</ko>
+		<fixja>セーブされたゲームファイルに行動履歴を埋め込まない。これによってファイルサイズは大幅に小さくなるが、リロード時に以前のファイルやセーブ前のアクションを再度行うことはできなくなる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY</zType>
@@ -761,6 +818,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>只显示工人的地图标记</zh-CN>
 		<pt-BR>Mostrar pontos do mapa apenas por trabalhadores</pt-BR>
 		<ko>일꾼 유닛에게만 맵 핀 표시</ko>
+		<fixja>労働者：地図鋲のみ表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY_DESC</zType>
@@ -774,6 +832,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>改良设施提醒标记只会在选中符合建造条件的单位时出现</zh-CN>
 		<pt-BR>Os alertas de lembrete de melhoria só aparecerão quando uma unidade elegível para construir a melhoria estiver selecionada</pt-BR>
 		<ko>시설 고지 신호는 해당 시설을 건설할 수 있는 유닛이 선택되었을 때만 나타납니다.</ko>
+		<fixja>改修リマインダーの通知は、建設可能なユニットが選択された場合にのみ表示される。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_NO_IMPROVEMENT_SUGGESTIONS</zType>
@@ -787,6 +846,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>关闭行动建议</zh-CN>
 		<pt-BR>Sem sugestão de ação</pt-BR>
 		<ko>제안 행동 없음</ko>
+		<fixja>アクションの推奨なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_NO_IMPROVEMENT_SUGGESTIONS_DESC</zType>
@@ -800,6 +860,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>若有推荐的单位行动、城市建造和研究选择，不会以星星的形式标记出来。当你选择工人单位时，不会显示图块改良设施工具窗口。开启该选项可改善UI的响应速度。</zh-CN>
 		<pt-BR>As recomendações de ações de unidades, construções na cidade e escolhas de pesquisa não serão marcadas com uma estrela. As janelas de melhoria de casa não aparecerão quando você selecionar um trabalhador. Esta opção pode melhorar a velocidade de resposta da interface.</pt-BR>
 		<ko>유닛 행동 추천, 도시 건축, 연구 선택지를 별로 표시되지 않습니다. 일꾼 유닛을 선택했을 때 시설 위젯이 나타나지 않습니다. 이 옵션을 통해 UI 반응도가 개선될 수 있습니다.</ko>
+		<fixja>推奨されるアクション、都市の建設、研究の候補に対して星が表示されなくなる。作業員ユニットを選択した際、タイル改修ウィジェットが非表示になる。この設定によりUIの応答性が改善される可能性がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_ONE_CLICK_MAP_CENTERING</zType>
@@ -813,6 +874,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>点击居中地图</zh-CN>
 		<pt-BR>Centralizar o mapa com clique</pt-BR>
 		<ko>클릭 시 맵 중앙 정렬</ko>
+		<fixja>クリック時に中央に表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_ONE_CLICK_MAP_CENTERING_DESC</zType>
@@ -826,6 +888,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>点击左键，将视角放置在悬停的图块中央</zh-CN>
 		<pt-BR>Clique com o botão esquerdo para centralizar a câmera na casa selecionada</pt-BR>
 		<ko>왼쪽 클릭으로 탐색 중인 타일에 카메라 고정</ko>
+		<fixja>左クリックすると選択中のタイルを画面中央に表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISABLE_AMBIENT_SFX</zType>
@@ -839,6 +902,7 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>禁用环境音效</zh-CN>
 		<pt-BR>Desativar sons do ambiente</pt-BR>
 		<ko>환경 소음 제거</ko>
+		<fixja>環境音を無効にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_DISABLE_AMBIENT_SFX_DESC</zType>
@@ -852,5 +916,6 @@ Abaixo você pode tocar ou desativar faixas específicas.</pt-BR>
 		<zh-CN>禁用地图上的环境音效，例如地图边缘的雷声、资源音效等。</zh-CN>
 		<pt-BR>Desativa os efeitos sonoros do ambiente no mapa, como trovões na borda do mapa, sons feitos pelos recursos, etc.</pt-BR>
 		<ko>맵 가장자리에서 치는 천둥, 자원 소리 등 주변 환경에서 발생하는 각종 소음을 차단합니다.</ko>
+		<fixja>マップ端からの雷や資源関係の音、マップ上の環境音効果などを無効にする。</fixja>
 	</Entry>
 </Root>

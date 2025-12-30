@@ -13,6 +13,7 @@
 		<zh-CN>真正的富裕</zh-CN>
 		<pt-BR>Verdadeira Opulência</pt-BR>
 		<ko>진정한 풍요</ko>
+		<fixja>贅の極地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_DIDNT_NEED_IT_ANYWAY_TITLE</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>给你又何妨？</zh-CN>
 		<pt-BR>Eu Nem Precisava Mesmo</pt-BR>
 		<ko>어차피 필요 없었다</ko>
+		<fixja>はじめから無用だった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_WHATS_THE_WORST_THAT_HAPPENS_TITLE</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>让暴风雨来得更猛烈些吧！</zh-CN>
 		<pt-BR>Qual o Pior que Pode Acontecer?</pt-BR>
 		<ko>뭐가 얼마나 잘못되겠어?</ko>
+		<fixja>最悪の事態とは</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_PRAGMATIST_TITLE</zType>
@@ -52,6 +55,7 @@
 		<zh-CN>实用主义者</zh-CN>
 		<pt-BR>Pragmatismo</pt-BR>
 		<ko>실용주의자</ko>
+		<fixja>プラグマティスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_THATS_MY_QUEUE_TITLE</zType>
@@ -65,6 +69,7 @@
 		<zh-CN>时机已到！</zh-CN>
 		<pt-BR>Grã-Oportunidade</pt-BR>
 		<ko>이제 내 차례!</ko>
+		<fixja>それが私からの合図だ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_JACKPOT_TITLE</zType>
@@ -78,6 +83,7 @@
 		<zh-CN>头奖</zh-CN>
 		<pt-BR>Grande Prêmio</pt-BR>
 		<ko>당첨</ko>
+		<fixja>ジャックポット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_REFORMER_TITLE</zType>
@@ -91,6 +97,7 @@
 		<zh-CN>改革者</zh-CN>
 		<pt-BR>Reformista</pt-BR>
 		<ko>개혁가</ko>
+		<fixja>改革者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_OPULENCE</zType>
@@ -104,6 +111,7 @@
 		<zh-CN>与一位奢侈的领袖一起完成富裕项目（王冠的阴影）</zh-CN>
 		<pt-BR>Complete um projeto de opulência com um líder extravagante (Behind the Throne)</pt-BR>
 		<ko>사치스러운 지도자로 풍요 사업을 완료한다 (왕실의 흑막)</ko>
+		<fixja>煌びやかな指導者の下、豪奢なプロジェクトを完遂する（王座の陰）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_DIDNT_NEED_IT_ANYWAY</zType>
@@ -117,6 +125,7 @@
 		<zh-CN>在赌输一座城市的情况下取得胜利（王冠的阴影）</zh-CN>
 		<pt-BR>Perca uma aposta e vença o jogo sem a cidade apostada (Behind the Throne)</pt-BR>
 		<ko>내기로 건 도시를 잃고 게임에서 승리한다 (왕실의 흑막)</ko>
+		<fixja>賭けに負け、その都市無しでもゲームに勝つ（王座の陰）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_WHATS_THE_WORST_THAT_HAPPENS</zType>
@@ -130,6 +139,7 @@
 		<zh-CN>冲动地宣战（王冠的阴影）</zh-CN>
 		<pt-BR>Declare uma guerra impulsivamente (Behind the Throne)</pt-BR>
 		<ko>충동적으로 전쟁을 선포한다 (왕실의 흑막)</ko>
+		<fixja>衝動的な宣戦布告（王座の陰）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_PRAGMATIST</zType>
@@ -143,6 +153,7 @@
 		<zh-CN>欢迎特别大使（王冠的阴影）</zh-CN>
 		<pt-BR>Receba o embaixador especial (Behind the Throne)</pt-BR>
 		<ko>특별 대사를 맞이한다 (왕실의 흑막)</ko>
+		<fixja>特別大使の迎え入れ（王座の陰）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_THATS_MY_QUEUE</zType>
@@ -156,6 +167,7 @@
 		<zh-CN>凭借密谋任务除掉一名首席大臣（王冠的阴影）</zh-CN>
 		<pt-BR>Remova um grão-vizir com uma missão de tramar contra um rival (Behind the Throne)</pt-BR>
 		<ko>계략 임무로 대재상을 축출한다 (왕실의 흑막)</ko>
+		<fixja>陰謀を企む大宰相を排除せよ（王座の陰）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_JACKPOT</zType>
@@ -169,6 +181,7 @@
 		<zh-CN>赢下赌博任务（王冠的阴影）</zh-CN>
 		<pt-BR>Vença em uma missão de apostar (Behind the Throne)</pt-BR>
 		<ko>도박 임무에서 승리한다 (왕실의 흑막)</ko>
+		<fixja>「賭博ミッション」で勝つ（王座の陰）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEHIND_THE_THRONE_REFORMER</zType>
@@ -182,5 +195,6 @@
 		<zh-CN>完成首席大臣的改革计划（王冠的阴影）</zh-CN>
 		<pt-BR>Complete um programa de reforma de um grão-vizir (Behind the Throne)</pt-BR>
 		<ko>대재상의 개혁 과제를 완료한다 (왕실의 흑막)</ko>
+		<fixja>大宰相の改革案を完遂する（王座の陰）</fixja>
 	</Entry>
 </Root>

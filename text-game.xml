@@ -25,6 +25,7 @@
 		<zh-CN>{0_team}与{1_team}现在是link(CONCEPT_ALLIANCE_PLAYER)。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_team}} agora tem uma link(CONCEPT_ALLIANCE_PLAYER) com {1,4_team}.</pt-BR>
 		<ko>{0_team}(은)는 {1_team}(과)와 link(CONCEPT_ALLIANCE_PLAYER) 관계입니다.</ko>
+		<fixja>{0_team}は現在、{1_team}とlink(CONCEPT_ALLIANCE_PLAYER)を結んでいます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAINED_TEAM_ALLIANCE_PLAYER</zType>
@@ -38,6 +39,7 @@
 		<zh-CN>你与{0_team}现在是link(CONCEPT_ALLIANCE_PLAYER)。</zh-CN>
 		<pt-BR>Você agora tem uma link(CONCEPT_ALLIANCE_PLAYER) com {0,4_team}.</pt-BR>
 		<ko>당신은 {0_team}(과)와 link(CONCEPT_ALLIANCE_PLAYER) 관계입니다.</ko>
+		<fixja>あなたは現在、{0_team}とlink(CONCEPT_ALLIANCE_PLAYER)を結んでいます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOST_TEAM_ALLIANCE</zType>
@@ -51,6 +53,7 @@
 		<zh-CN>{0_team}与{1_team}不再是link(CONCEPT_ALLIANCE_PLAYER)。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_team}} não tem mais uma link(CONCEPT_ALLIANCE_PLAYER) com {1,4_team}.</pt-BR>
 		<ko>{0_team}(과)와 {1_team}(은)는 더 이상 link(CONCEPT_ALLIANCE_PLAYER) 관계가 아닙니다.</ko>
+		<fixja>{0_team}は、{1_team}とのlink(CONCEPT_ALLIANCE_PLAYER)を解消しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOST_TEAM_ALLIANCE_PLAYER</zType>
@@ -64,6 +67,7 @@
 		<zh-CN>你与{0_team}不再是link(CONCEPT_ALLIANCE_PLAYER)。</zh-CN>
 		<pt-BR>Você não tem mais uma link(CONCEPT_ALLIANCE_PLAYER) com {0,4_team}.</pt-BR>
 		<ko>더 이상 {0_team}(과)와 link(CONCEPT_ALLIANCE_PLAYER) 관계가 아닙니다.</ko>
+		<fixja>あなたは、{0_team}とのlink(CONCEPT_ALLIANCE_PLAYER)を解消しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE</zType>
@@ -77,6 +81,7 @@
 		<zh-CN>{0_team}与{1_tribe}现在是link(CONCEPT_ALLIANCE_TRIBE)。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_team}} agora tem uma link(CONCEPT_ALLIANCE_TRIBE) com os {1_tribe}.</pt-BR>
 		<ko>{0_team}(은)는 {1_tribe}(과)와 link(CONCEPT_ALLIANCE_TRIBE) 관계입니다.</ko>
+		<fixja>{0_team}は現在、{1_tribe}とlink(CONCEPT_ALLIANCE_TRIBE)を結んでいます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE_PLAYER</zType>
@@ -90,6 +95,7 @@
 		<zh-CN>你与{0_tribe}现在是link(CONCEPT_ALLIANCE_TRIBE)。</zh-CN>
 		<pt-BR>Você tem uma link(CONCEPT_ALLIANCE_TRIBE) com os {0_tribe}.</pt-BR>
 		<ko>당신은 {0_tribe}과 link(CONCEPT_ALLIANCE_TRIBE) 관계입니다.</ko>
+		<fixja>あなたは現在、{0_tribe}とlink(CONCEPT_ALLIANCE_TRIBE)を結んでいます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOST_TRIBE_ALLIANCE</zType>
@@ -103,6 +109,7 @@
 		<zh-CN>{0_team}与{1_tribe}不再是link(CONCEPT_ALLIANCE_TRIBE)。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_team}} não tem mais uma link(CONCEPT_ALLIANCE_TRIBE) com os {1_tribe}.</pt-BR>
 		<ko>{0_team}(과)와 {1_tribe}은 더 이상 link(CONCEPT_ALLIANCE_TRIBE) 관계가 아닙니다.</ko>
+		<fixja>{0_team}は、{1_tribe}とのlink(CONCEPT_ALLIANCE_TRIBE)を解消しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LOST_TRIBE_ALLIANCE_PLAYER</zType>
@@ -116,6 +123,7 @@
 		<zh-CN>你与{0_tribe}不再是link(CONCEPT_ALLIANCE_TRIBE)。</zh-CN>
 		<pt-BR>Você não tem mais uma link(CONCEPT_ALLIANCE_TRIBE) com os {0_tribe}.</pt-BR>
 		<ko>더 이상 {0_tribe}과 link(CONCEPT_ALLIANCE_TRIBE) 관계가 아닙니다.</ko>
+		<fixja>あなたは、{0_tribe}とのlink(CONCEPT_ALLIANCE_TRIBE)を解消しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_MET_TRIBE</zType>
@@ -129,6 +137,7 @@
 		<zh-CN>你已经与{0_tribe}会合。</zh-CN>
 		<pt-BR>Você encontrou os {0_tribe}.</pt-BR>
 		<ko>{0_tribe}과 접촉했습니다.</ko>
+		<fixja>あなたは{0_tribe}に遭遇しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_NEW_DIPLOMACY</zType>
@@ -142,6 +151,7 @@
 		<zh-CN>{0_team}与{2_tribe}之间现在的情况是{1_newDiplomacy}。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_team}} e os {2_tribe} agora estão em {1_newDiplomacy}.</pt-BR>
 		<ko>{0_team}(과)와 {2_tribe}은 {1_newDiplomacy} 상태입니다.</ko>
+		<fixja>{0_team}は現在、{2_tribe}と{1_newDiplomacy}状態にあります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_DIPLOMACY_LOG_DATA</zType>
@@ -155,6 +165,7 @@
 		<zh-CN>{0_tribe}：{1_newDiplomacy}</zh-CN>
 		<pt-BR>{0_tribe}: {1_newDiplomacy}</pt-BR>
 		<ko>{0_tribe}: {1_newDiplomacy}</ko>
+		<fixja>{0_tribe}：{1_newDiplomacy}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_CONTACT_LOG_DATA</zType>
@@ -168,6 +179,7 @@
 		<zh-CN>你已经与{0_team}会合</zh-CN>
 		<pt-BR>Você se encontrou com {0,4_team}</pt-BR>
 		<ko>{0_team}(과)와 접촉했습니다</ko>
+		<fixja>あなたは{0_team}に遭遇しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
@@ -181,6 +193,7 @@
 		<zh-CN>{true_3:{0_team}宣布了对{2_team}的{1_newDiplomacy}:{0_team}与{2_team}之间现在的情况是{1_newDiplomacy}。 }</zh-CN>
 		<pt-BR>{true_3:{sentencecase:{0,4_team}} declara {1_newDiplomacy} {2,5_team}.:{sentencecase:{0,4_team}} agora está em {1_newDiplomacy} com {2,4_team}.}</pt-BR>
 		<ko>{true_3:{0_team}(이)가 {2_team}에게 {1_newDiplomacy}(을)를 선포합니다.:{0_team}(과)와 {2_team}(은)는 {1_newDiplomacy} 상태입니다.}</ko>
+		<fixja>{true_3:{0_team}が{2_team}との{1_newDiplomacy}を宣言しました。:{0_team}は現在、{2_team}と{1_newDiplomacy}状態にあります。}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_FROM_DIPLOMACY_LOG_DATA</zType>
@@ -194,6 +207,7 @@
 		<zh-CN>{true_2:宣布对{0_team}的{1_newDiplomacy}:与{0_team}建立{1_newDiplomacy}}</zh-CN>
 		<pt-BR>{true_2:Declarada {1_newDiplomacy} {0,5_team}:Agora há {1_newDiplomacy} com {0,4_team}}</pt-BR>
 		<ko>{true_2:{0_team}에게 {1_newDiplomacy}(을)를 선포했습니다.:{0_team}(과)와 {1_newDiplomacy}(을)를 맺었습니다.}</ko>
+		<fixja>{true_2:{0_team}との{1_newDiplomacy}を宣言しました。:{0_team}と{1_newDiplomacy}状態になりました。}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_TO_DIPLOMACY_LOG_DATA</zType>
@@ -207,6 +221,7 @@
 		<zh-CN>{true_2:{0_team}对我们宣布{1_newDiplomacy}:与{0_team}建立{1_newDiplomacy}}</zh-CN>
 		<pt-BR>{true_2:{sentencecase:{0,4_team}} nos declarou {1_newDiplomacy}:Estamos em {1_newDiplomacy} com {0,4_team}}</pt-BR>
 		<ko>{true_2:{0_team}(이)가 우리에게 {1_newDiplomacy}(을)를 선포했습니다.:{0_team}(과)와 {1_newDiplomacy}(을)를 맺었습니다.}</ko>
+		<fixja>{true_2:{0_team}が我々に{1_newDiplomacy}を宣言しました。:{0_team}と{1_newDiplomacy}状態になりました。}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
@@ -220,6 +235,7 @@
 		<zh-CN>由于与{0_team}是link(CONCEPT_ALLIANCE_PLAYER)，{1_player}以{3_diplomacy}响应由{2_team}宣布的{3_diplomacy}！</zh-CN>
 		<pt-BR>Devido a uma link(CONCEPT_ALLIANCE_PLAYER) com {0,4_team}, {1,4_player} respondeu à declaração de {3_diplomacy} {2,6_team} com {3_diplomacy}!</pt-BR>
 		<ko>{0_team}(과)와 link(CONCEPT_ALLIANCE_PLAYER)을 맺었기 때문에 {1_player}(은)는 {2_team}의 {3_diplomacy} 선포에 {3_diplomacy}(으)로 대응합니다!</ko>
+		<fixja>{0_team}とlink(CONCEPT_ALLIANCE_PLAYER)を結んでいることから、{1_player}は{2_team}の{3_diplomacy}宣言に対して、{3_diplomacy}で応じました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_ALLIANCE_WAR</zType>
@@ -233,6 +249,7 @@
 		<zh-CN>由于与{0_team}是link(CONCEPT_ALLIANCE_TRIBE)，{1_tribe}以{3_diplomacy}响应由{2_team}宣布的{3_diplomacy}！</zh-CN>
 		<pt-BR>Devido a uma link(CONCEPT_ALLIANCE_TRIBE) com {0,4_team}, os {1_tribe} responderam à declaração de {3_diplomacy} {2,6_team} com {3_diplomacy}!</pt-BR>
 		<ko>{0_team}(과)와 link(CONCEPT_ALLIANCE_TRIBE)을 맺었기 때문에 {1_tribe}(은)는 {2_team}의 {3_diplomacy} 선포에 {3_diplomacy}(으)로 대응합니다!</ko>
+		<fixja>{0_team}とlink(CONCEPT_ALLIANCE_TRIBE)を結んでいることから、{1_tribe}は{2_team}の{3_diplomacy}宣言に対して、{3_diplomacy}で応じました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_THEOLOGY</zType>
@@ -246,6 +263,7 @@
 		<zh-CN>{0_religion}建立了{1_theology}神学理论。</zh-CN>
 		<pt-BR>O {0_religion} instaurou a teologia de {1_theology}.</pt-BR>
 		<ko>{0_religion}가 {1_theology} 신학을 도입했습니다.</ko>
+		<fixja>{0_religion}は、{1_theology}の神学を確立させた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GAME_OVER_POPUP</zType>
@@ -259,6 +277,7 @@
 		<zh-CN>游戏结束了。</zh-CN>
 		<pt-BR>Você chegou ao fim da partida.</pt-BR>
 		<ko>게임을 끝까지 플레이하셨습니다.</ko>
+		<fixja>あなたのゲームは終焉を迎えました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_VICTORY</zType>
@@ -272,6 +291,7 @@
 		<zh-CN>{0_team}达成了{1,1_victory}的条件！</zh-CN>
 		<pt-BR>{0_team} alcançou as condições de {1,1_victory}!</pt-BR>
 		<ko>{0_team} 팀이 {1,1_victory} 조건을 만족했습니다!</ko>
+		<fixja>{0_team}が{1,1_victory}の条件を満たした！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP</zType>
@@ -285,6 +305,7 @@
 		<zh-CN>{0_player}的国家已被消灭！</zh-CN>
 		<pt-BR>A nação {0,6_player} foi eliminada!</pt-BR>
 		<ko>{0_player}(이)가 멸망했습니다!</ko>
+		<fixja>{0_player}国が淘汰されました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP_NO_HEIR</zType>
@@ -298,6 +319,7 @@
 		<zh-CN>{0_player}的王朝已结束！</zh-CN>
 		<pt-BR>A dinastia real {0,6_player} chegou ao seu fim!</pt-BR>
 		<ko>{0_player} 왕조의 막이 내렸습니다!</ko>
+		<fixja>{0_player}の王朝が終焉を迎えました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_SURRENDER_POPUP</zType>
@@ -311,6 +333,7 @@
 		<zh-CN>{0_player}已经投降了！</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} se rendeu!</pt-BR>
 		<ko>{0_player}(이)가 항복했습니다!</ko>
+		<fixja>{0_player}が降伏しました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_FOUNDED</zType>
@@ -324,6 +347,7 @@
 		<zh-CN>{0_religion}创立于{1_city}。</zh-CN>
 		<pt-BR>O {0_religion} foi fundado em {1_city}.</pt-BR>
 		<ko>{1_city}에 {0_religion}가 설립되었습니다.</ko>
+		<fixja>{1_city}にて{0_religion}が設立されました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_HEAD</zType>
@@ -337,6 +361,7 @@
 		<zh-CN>{0_character}现在是{1_religion}的领袖。 {true_2:(他们对你的好感度已从{2_opinion}转变为{3_opinion}。)}</zh-CN>
 		<pt-BR>{0_character} agora é líder do {1_religion}.{true_2: (A opinião que tinha de você passou de {2_opinion} para {3_opinion})}</pt-BR>
 		<ko>{0_character}(은)는 {1_religion}의 수장이 되었습니다.{true_2: (당신에 대한 태도가 {2_opinion}에서 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_character}が{1_religion}の首長となりました。{true_2:（あなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_FAMILY</zType>
@@ -350,6 +375,7 @@
 		<zh-CN>{0_family}家族已经改信{1_religion}。 {true_2:(他们对你的好感度已从{2_opinion}转变为{3_opinion}。)}</zh-CN>
 		<pt-BR>A família {0_family} se converteu ao {1_religion}.{true_2: (A opinião que tinham de você passou de {2_opinion} para {3_opinion})}</pt-BR>
 		<ko>{0_family} 가문이 {1_religion}로 개종했습니다.{true_2: (당신에 대한 태도가 {2_opinion}에서 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_family}が{1_religion}に改宗しました。{true_2:（彼らのあなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_TRIBE</zType>
@@ -363,6 +389,7 @@
 		<zh-CN>{0_tribe}已经改信{1_religion}。 {true_2:(他们对你的好感度已从{2_opinion}转变为{3_opinion}。)}</zh-CN>
 		<pt-BR>Os {0_tribe} se converteram ao {1_religion}.{true_2: (A opinião que tinham de você passou de {2_opinion} para {3_opinion})}</pt-BR>
 		<ko>{0_tribe}이 {1_religion}로 개종했습니다.{true_2: (당신에 대한 태도가 {2_opinion}에서 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_tribe}が{1_religion}に改宗しました。{true_2:（彼らのあなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_PLAYER_US</zType>
@@ -376,6 +403,7 @@
 		<zh-CN>{0_player}已经以{1_religion}作为其link(CONCEPT_STATE_RELIGION)。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} adotou o {1_religion} como a sua link(CONCEPT_STATE_RELIGION).</pt-BR>
 		<ko>{0_player}(이)가 {1_religion}를 link(CONCEPT_STATE_RELIGION)로 받아들였습니다.</ko>
+		<fixja>{0_player}が{1_religion}をlink(CONCEPT_STATE_RELIGION)として採用しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_PLAYER</zType>
@@ -389,6 +417,7 @@
 		<zh-CN>{0_player}已经改信{1_religion}。 {true_2:(他们对你的好感度已从{2_opinion}转变为{3_opinion}。)}</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} se converteu ao {1_religion}.{true_2: (A opinião que tinham de você passou de {2_opinion} para {3_opinion})}</pt-BR>
 		<ko>{0_player}(이)가 {1_religion}로 개종했습니다.{true_2: (당신에 대한 태도가 {2_opinion}에서 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_player}が{1_religion}に改宗しました。{true_2:（あなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NO_RELIGION_PLAYER</zType>
@@ -402,6 +431,7 @@
 		<zh-CN>{0_player}已不再有国家宗教。 {true_1:(他们对你的好感度已从{1_opinion}转变为{2_opinion}。)}</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} já não tem uma Religião Oficial.{true_1: (A opinião que tinham de você passou de {1_opinion} para {2_opinion})}</pt-BR>
 		<ko>{0_player}에는 더 이상 국교가 없습니다.{true_1: (당신에 대한 태도가 {1_opinion}에서 {2_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_player}が国教を持つのをやめました。{true_1:（彼らのあなたに対する評価は、{1_opinion}から{2_opinion}に変わりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FAMILY_HEAD</zType>
@@ -415,6 +445,7 @@
 		<zh-CN>{0_character}现在是{1_family}家族的领袖。 {true_2:(他们对你的好感度已从{2_opinion}转变为{3_opinion}。)}</zh-CN>
 		<pt-BR>{0_character} agora é líder da família {1_family}.{true_2: (A opinião que tinham de você passou de {2_opinion} para {3_opinion})}</pt-BR>
 		<ko>{0_character}(은)는 {1_family} 가문의 수장이 되었습니다.{true_2: (당신에 대한 태도가 {2_opinion}에서 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_character}が{1_family}の首長となりました。{true_2:（あなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_PILLAGED</zType>
@@ -428,6 +459,7 @@
 		<zh-CN>{0_improvement}将会于{1}{2_turnScale}消失</zh-CN>
 		<pt-BR>{0_improvement} irá desaparecer em {1_turns} {2_turnScale}</pt-BR>
 		<ko>{0_improvement}(이)가 {1_turns}{2_turnScale} 뒤 사라집니다</ko>
+		<fixja>{0_improvement}は{1}{2_turnScale}で消滅します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_STARTED</zType>
@@ -441,6 +473,7 @@
 		<zh-CN>{0_player}已开始建造{1_improvement}</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} começou a construir {1_improvement}</pt-BR>
 		<ko>{0_player}(이)가 {1_improvement} 건설을 시작했습니다</ko>
+		<fixja>{0_player}が{1_improvement}の建設に着手しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_SCRAPPED</zType>
@@ -454,6 +487,7 @@
 		<zh-CN>{0_player}的{1_improvement}建造工作已被废弃</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} cancelou a construção de: {1_improvement}</pt-BR>
 		<ko>{0_player}의 {1_improvement} 건설이 취소되었습니다</ko>
+		<fixja>{0_player}での{1_improvement}の建設が廃止されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_COMPLETED</zType>
@@ -467,6 +501,7 @@
 		<zh-CN>{1_player}完成{0_improvement}了！</zh-CN>
 		<pt-BR>{sentencecase:{1,4_player}} completou {0_improvement}!</pt-BR>
 		<ko>{1_player}가 {0_improvement} 건설을 완료했습니다!</ko>
+		<fixja>{1_player}での{0_improvement}が完成しました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY</zType>
@@ -480,6 +515,7 @@
 		<zh-CN>{0_religion}已传播到{1_city}</zh-CN>
 		<pt-BR>O {0_religion} foi difundido em {1_city}</pt-BR>
 		<ko>{0_religion}가 {1_city}에 전파되었습니다</ko>
+		<fixja>{1_city}に{0_religion}が広まっています</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY_DISCIPLE</zType>
@@ -493,6 +529,7 @@
 		<zh-CN>来自{2_player}的一名门徒已将{0_religion}传播到{1_city}</zh-CN>
 		<pt-BR>Um discípulo vindo {2,6_player} difundiu o {0_religion} em {1_city}</pt-BR>
 		<ko>{2_player}에서 온 신도가 {1_city}에 {0_religion}를 전파했습니다</ko>
+		<fixja>{2_player}からの信徒が{1_city}に入り、{0_religion}を広めています</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DOOMED_POPUP</zType>
@@ -506,6 +543,7 @@
 		<zh-CN>你的医生与占卜师已经警告过你终点即将来临！是时候把你的事情安排妥当了。（你现在具有{0_trait}。）</zh-CN>
 		<pt-BR>Seus médicos e adivinhos lhe avisaram que o fim já se aproxima! É hora de deixar tudo em ordem. (Seu futuro está {0_trait}.)</pt-BR>
 		<ko>의사와 예언들이 당신에게 시간이 얼마 남지 않았다고 합니다! 처리하지 않은 일들을 정리합시다. (당신은 이제 {0_trait} 특성입니다.)</ko>
+		<fixja>あなたの医師や占い師たちが、もう先は長くないと通告しています！身辺整理をしておく時期でしょう。(あなたは現在{0_trait}です)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_ABDICATION</zType>
@@ -519,6 +557,7 @@
 		<zh-CN>{0_oldLeader}已经退位</zh-CN>
 		<pt-BR>{0_oldLeader} renunciou ao trono</pt-BR>
 		<ko>{0_oldLeader}(이)가 퇴위했습니다</ko>
+		<fixja>{0_oldLeader}が王座を退位しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NEW_RULER</zType>
@@ -532,6 +571,7 @@
 		<zh-CN>新的统治者{0_newLeader}已经继位</zh-CN>
 		<pt-BR>{0_newLeader} assumiu o trono</pt-BR>
 		<ko>새로운 지도자 {0_newLeader}(이)가 왕좌를 차지했습니다</ko>
+		<fixja>{0_newLeader}が王座に就き、新たな統治者となりました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
@@ -545,6 +585,7 @@
 		<zh-CN>{1_oldLeader}死去的消息从{0_player}传来。新的统治者{2_newLeader}已经继位。{true_3: (现在他们对你的好感度是{3_opinion}。)}</zh-CN>
 		<pt-BR>Recebemos notícias {0,6_player} sobre a morte de {1_oldLeader}. {2_newLeader} assumiu o trono.{true_3: (A opinião que tem de você é {3_opinion})}</pt-BR>
 		<ko>{0_player}에서 {1_oldLeader}(이)가 사망했다는 소식을 전했습니다. 새로운 지도자 {2_newLeader}(이)가 왕좌를 이어받습니다. {true_3: (당신에 대한 태도가 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_player}から、{1_oldLeader}が亡くなったとの知らせが届きました。{2_newLeader}が王座に就き、新たな統治者となりました。{true_3:（彼らのあなたに対する評価は、{3_opinion}になりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_ABDICATE_POPUP</zType>
@@ -558,6 +599,7 @@
 		<zh-CN>{1_oldLeader}退位的消息从{0_player}传来。新的统治者{2_newLeader}已经继位。{true_3: (现在他们对你的好感度是{3_opinion}。)}</zh-CN>
 		<pt-BR>Recebemos notícias {0,6_player} sobre a renúncia de {1_oldLeader}. {2_newLeader} assumiu o trono.{true_3: (A opinião que tem de você é {3_opinion})}</pt-BR>
 		<ko>{0_player}에서 {1_oldLeader}(이)가 퇴위했다는 소식을 전했습니다. 새로운 지도자 {2_newLeader}(이)가 왕좌를 이어받습니다.{true_3: (당신에 대한 태도가 {3_opinion} 상태로 바뀌었습니다.)}</ko>
+		<fixja>{0_player}から、{1_oldLeader}が退位したとの知らせが届きました。{2_newLeader}が王座に就き、新たな統治者となりました。{true_3:（彼らのあなたに対する評価は、{3_opinion}になりました）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_NEW_RULER_PREVIOUS_DEAD_POPUP</zType>
@@ -571,6 +613,7 @@
 		<zh-CN>{0_oldLeader}死去的消息从国外传来。现在由{1_newLeader}领导{2_tribe}。</zh-CN>
 		<pt-BR>Recebemos notícias sobre a morte de {0_oldLeader}. Agora é {1_newLeader} quem lidera os {2_tribe}.</pt-BR>
 		<ko>해외에서 {0_oldLeader}(이)가 사망했다는 소식을 전달받았습니다. 이제 {1_newLeader}(이)가 {2_tribe}을 이끕니다.</ko>
+		<fixja>異国の地から{0_oldLeader}が亡くなったとの知らせが届きました。現在、{1_newLeader}が{2_tribe}を率いています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
@@ -584,6 +627,7 @@
 		<zh-CN>消息从国外传来，现在{1_tribe}由{0_newLeader}领导。</zh-CN>
 		<pt-BR>Recebemos notícias do estrangeiro: {0_newLeader} agora é quem lidera os {1_tribe}.</pt-BR>
 		<ko>이제 {0_newLeader}이(가) {1_tribe} 부족을 이끈다는 소식이 도착했습니다.</ko>
+		<fixja>海外から{0_newLeader}が{1_tribe}を率いているとの知らせが届く。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_ORGANIZED</zType>
@@ -597,6 +641,7 @@
 		<zh-CN>{0_tribe}占领了{1_city}，并且正在改变军事策略，以期成为一个真正的国家。</zh-CN>
 		<pt-BR>Os {0_tribe} tomaram {1_city} e estão mudando suas táticas militares na esperança de se estabelecerem como uma verdadeira nação.</pt-BR>
 		<ko>{0_tribe}이 {1_city}(을)를 점령하였고 군사 전략을 바꿔 진정한 국가를 설립하고자 합니다.</ko>
+		<fixja>{0_tribe}は真の国家を樹立すべく、戦術を変更し、{1_city}を占領した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
@@ -610,6 +655,7 @@
 		<zh-CN>因为根据旧有的律法，你的王朝没有合法继承人，所以改而采用{0_law}，好让{1_character}能够登上王位。</zh-CN>
 		<pt-BR>Como sua dinastia não possui herdeiros legítimos sob as leis antigas, a lei de {0_law} foi decretada para permitir a ascensão de {1_character} ao trono.</pt-BR>
 		<ko>이전 법 때문에 적법한 왕조의 후계자가 없었으므로 {0_law} 법률로 개정해 {1_character}의 승계를 승인합니다.</ko>
+		<fixja>従来の制度では、正統なる後継者があなたの王朝にいないので、{1_character}の即位を可能にさせるため、{0_law}に切り替わりました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_START_AMBITION</zType>
@@ -623,6 +669,7 @@
 		<zh-CN>{0_character}开始了一项新的link(CONCEPT_AMBITION)：{1_ambition}。</zh-CN>
 		<pt-BR>{0_character} deu início a uma nova link(CONCEPT_AMBITION): {1_ambition}.</pt-BR>
 		<ko>{0_character}(이)가 새로운 link(CONCEPT_AMBITION)을 품었습니다: {1_ambition}.</ko>
+		<fixja>{0_character}が新たなlink(CONCEPT_AMBITION)に着手しました：{1_ambition}。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_START_GOAL</zType>
@@ -636,6 +683,7 @@
 		<zh-CN>你已开始一项目标：{0}{true_1:({1}回合之内)}。</zh-CN>
 		<pt-BR>Você deu início a um objetivo: {0_goals}{true_1: (em {1_turns} turnos)}.</pt-BR>
 		<ko>새로운 목표가 시작되었습니다: {0_goal}{true_1: ({1_turns} 턴 안에 완료)}.</ko>
+		<fixja>あなたは目的を開始させました：{0}{true_1:（{1}ターン内）}。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FINISH_AMBITION</zType>
@@ -649,6 +697,7 @@
 		<zh-CN>你已完成一项link(CONCEPT_AMBITION)：{0}</zh-CN>
 		<pt-BR>Você completou uma link(CONCEPT_AMBITION): {0_ambition}</pt-BR>
 		<ko>link(CONCEPT_AMBITION)을 이루었습니다: {0_ambition}</ko>
+		<fixja>あなたはlink(CONCEPT_AMBITION)を完了しました：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FINISH_LEGACY</zType>
@@ -662,6 +711,7 @@
 		<zh-CN>你已完成：{true_1:{1_character}的link(CONCEPT_LEGACY):一项link(CONCEPT_LEGACY)}：{0}</zh-CN>
 		<pt-BR>Você completou {true_1:o link(CONCEPT_LEGACY) de {1_character}:um link(CONCEPT_LEGACY)}: {0_legacy}</pt-BR>
 		<ko>{true_1:{1_character}의 link(CONCEPT_LEGACY)를:link(CONCEPT_LEGACY)를} 이루었습니다: {0_legacy}</ko>
+		<fixja>あなたは{true_1:{1_character}からのlink(CONCEPT_LEGACY)を完了しました:link(CONCEPT_LEGACY)を完了しました}：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FINISH_GOAL</zType>
@@ -675,6 +725,7 @@
 		<zh-CN>你已完成一项目标：{0}</zh-CN>
 		<pt-BR>Você completou um objetivo: {0_goal}</pt-BR>
 		<ko>목표를 달성했습니다: {0_goal}</ko>
+		<fixja>あなたは目的を遂行させました：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FAIL_AMBITION</zType>
@@ -688,6 +739,7 @@
 		<zh-CN>{true_1:一项link(CONCEPT_LEGACY):一项link(CONCEPT_AMBITION)}失败了：{0}。</zh-CN>
 		<pt-BR>Você falhou em completar {true_1:um link(CONCEPT_LEGACY):uma link(CONCEPT_AMBITION)}: {0_ambition}.</pt-BR>
 		<ko>{true_1:link(CONCEPT_LEGACY)를: link(CONCEPT_AMBITION)을} 이루지 못했습니다: {0_ambition}.</ko>
+		<fixja>あなたの{true_1:link(CONCEPT_LEGACY)は失敗に終わりました:link(CONCEPT_AMBITION)は失敗に終わりました}：{0}。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FAIL_GOAL</zType>
@@ -701,6 +753,7 @@
 		<zh-CN>你的目标失败了：{0}。</zh-CN>
 		<pt-BR>Você falhou em completar um objetivo: {0_goal}.</pt-BR>
 		<ko>목표를 달성하지 못했습니다: {0_goal}.</ko>
+		<fixja>あなたの目的は失敗に終わりました：{0}。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_MAKE_LEGACY</zType>
@@ -714,6 +767,7 @@
 		<zh-CN>过去的link(CONCEPT_AMBITION)，{0_ambition}如今成为link(CONCEPT_LEGACY)。你将有{1}{2_turnScale}来完成这项目标。</zh-CN>
 		<pt-BR>A antiga link(CONCEPT_AMBITION) de {0_ambition} agora passou a ser um link(CONCEPT_LEGACY), você tem {1_turns} {2_turnScale} para completá-lo.</pt-BR>
 		<ko>오래된 link(CONCEPT_AMBITION)인 {0_ambition}(은)는 link(CONCEPT_LEGACY)가 되었습니다. 완수할 때까지 {1_turns}{2_turnScale}이 주어집니다.</ko>
+		<fixja>長らく掲げていたlink(CONCEPT_AMBITION)、{0_ambition}はlink(CONCEPT_LEGACY)となりました。完了まで後、{1}{2_turnScale}あります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_MAKE_LEGACIES</zType>
@@ -727,6 +781,7 @@
 		<zh-CN>以下link(CONCEPT_AMBITION,2)，如今成为link(CONCEPT_LEGACY,2)：</zh-CN>
 		<pt-BR>As link(CONCEPT_AMBITION,2) seguintes agora são link(CONCEPT_LEGACY,2):</pt-BR>
 		<ko>다음 link(CONCEPT_AMBITION,2)은 link(CONCEPT_LEGACY,2)가 되었습니다:</ko>
+		<fixja>次のlink(CONCEPT_AMBITION,2)はlink(CONCEPT_LEGACY,2)となります：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_MAKE_LEGACIES_GOAL</zType>
@@ -740,6 +795,7 @@
 		<zh-CN>{0_goal}(剩余：{1}{2_turnScale})</zh-CN>
 		<pt-BR>{0_goal} (restam {1_turns} {2_turnScale})</pt-BR>
 		<ko>{0_goal} ({1_turns}{2_turnScale} 남음)</ko>
+		<fixja>{0_goal}（残り{1}{2_turnScale}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GOAL_NAME</zType>
@@ -753,6 +809,7 @@
 		<zh-CN>{true_1:icon(YIELD_LEGITIMACY) }{0_goal}</zh-CN>
 		<pt-BR>{true_1:icon(YIELD_LEGITIMACY) }{0_goal}</pt-BR>
 		<ko>{true_1:icon(YIELD_LEGITIMACY) }{0_goal}</ko>
+		<fixja>{true_1:icon(YIELD_LEGITIMACY) }{0_goal}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_AMBITION_IMPOSSIBLE</zType>
@@ -766,6 +823,7 @@
 		<zh-CN>这项{true_1:link(CONCEPT_LEGACY):link(CONCEPT_AMBITION)}目前不可行，并已移除：{0}</zh-CN>
 		<pt-BR>Já não se pode completar {true_1:este link(CONCEPT_LEGACY):esta link(CONCEPT_AMBITION)} e {true_1:ele:ela} está indisponível: {0_ambition}</pt-BR>
 		<ko>다음 {true_1:link(CONCEPT_LEGACY)는:link(CONCEPT_AMBITION)은} 더 이상 완수할 수 없어 제거되었습니다: {0_ambition}</ko>
+		<fixja>この{true_1:link(CONCEPT_LEGACY):link(CONCEPT_AMBITION)}は進行不可能なので放棄されました：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GOAL_IMPOSSIBLE</zType>
@@ -779,6 +837,7 @@
 		<zh-CN>这项目标目前不可行，并已移除：{0}</zh-CN>
 		<pt-BR>Já não se pode completar este objetivo e ele foi removido: {0_goal}</pt-BR>
 		<ko>다음 목표는 더 이상 완수할 수 없어 제거되었습니다: {0_goal}</ko>
+		<fixja>この目的は進行不可能なので放棄されました：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_COURTIER_JOINED_POPUP</zType>
@@ -792,6 +851,7 @@
 		<zh-CN>{0_character}已加入你的宫廷。</zh-CN>
 		<pt-BR>{0_character} juntou-se à sua corte.</pt-BR>
 		<ko>{0_character}(이)가 궁정에 합류했습니다.</ko>
+		<fixja>{0_character}があなたの宮廷に加入しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_TUTORS_AGE</zType>
@@ -805,6 +865,7 @@
 		<zh-CN>{0_character}的年纪已经足够受到{1,2_Courtier}的link(CONCEPT_TUTOR,3)了。</zh-CN>
 		<pt-BR>{0_character} já tem idade suficiente para receber link(CONCEPT_TUTOR,5) dos {1,2_Courtier}.</pt-BR>
 		<ko>{0_character}(은)는 {1,2_Courtier}에게 link(CONCEPT_TUTOR,3)받을 수 있을 만큼 성장했습니다.</ko>
+		<fixja>{0_character}は、{1,2_Courtier}のlink(CONCEPT_TUTOR,3)を受けられる年齢になりました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_ADULT_LOG_DATA</zType>
@@ -818,6 +879,7 @@
 		<zh-CN>{0_character}现在是成年人了</zh-CN>
 		<pt-BR>{0_character} agora é maior de idade</pt-BR>
 		<ko>{0_character}(은)는 성인이 되었습니다</ko>
+		<fixja>{0_character}が成人しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_MARRIAGE</zType>
@@ -831,6 +893,7 @@
 		<zh-CN>{0_character}与{1_character}结婚了</zh-CN>
 		<pt-BR>{0_character} se casou com {1_character}</pt-BR>
 		<ko>{0_character}(이)가 {1_character}(과)와 결혼했습니다</ko>
+		<fixja>{0_character}が{1_character}と結婚しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_LEAVES_RELIGION</zType>
@@ -844,6 +907,7 @@
 		<zh-CN>{0_character}已离开{1_religion}。</zh-CN>
 		<pt-BR>{0_character} deixou o {1_religion}.</pt-BR>
 		<ko>{0_character}이(가) {1_religion}를 떠났습니다.</ko>
+		<fixja>{0_character}は{1_religion}を去った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_CHOOSES_RELIGION</zType>
@@ -857,6 +921,7 @@
 		<zh-CN>{0_character}已经改信{1_religion}。</zh-CN>
 		<pt-BR>{0_character} se converteu ao {1_religion}.</pt-BR>
 		<ko>{0_character}(이)가 {1_religion}로 개종했습니다.</ko>
+		<fixja>{0_character}が{1_religion}に改宗しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_COVER_DEBTS_LOG_DATA</zType>
@@ -870,6 +935,7 @@
 		<zh-CN>出售{0_goodsList}以偿还债务</zh-CN>
 		<pt-BR>Vendeu-se {0_goodsList} para encobrir dívidas</pt-BR>
 		<ko>빚을 갚기 위해 {0_goodsList}(을)를 판매했습니다</ko>
+		<fixja>負債補填のため、{0_goodsList}を売却しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_SHORTFALL_LOG_DATA</zType>
@@ -883,6 +949,7 @@
 		<zh-CN>在{1_city}建造{0_project}，以避免{2_yield}短缺</zh-CN>
 		<pt-BR>Fez-se {0,1_project} em {1_city} para evitar déficit em {2_yield}</pt-BR>
 		<ko>{2_yield} 부족을 해결하기 위해 {1_city}에서 {0_project}(이)가 시작되었습니다</ko>
+		<fixja>{2_yield}不足を解消するため、{1_city}に{0_project}を建設しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_QUEUED_BUILD_BUY_GOODS_LOG_DATA</zType>
@@ -896,6 +963,7 @@
 		<zh-CN>伫列动作：花费{0_money}购买{1_yields} ({2_improvement})</zh-CN>
 		<pt-BR>Ação em fila: gastou-se {0_money} para comprar {1_yields} ({2_improvement})</pt-BR>
 		<ko>대기열 등록: {0_money}을 소비해 {1_yields}(을)를 구매했습니다 ({2_improvement})</ko>
+		<fixja>実行待ちのアクション：{0_money}を消費して、{1_yields}（{2_improvement}）を購入しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FOUNDED_CITY_LOG_DATA</zType>
@@ -909,6 +977,7 @@
 		<zh-CN>已创立{0_city}</zh-CN>
 		<pt-BR>Fundou-se {0_city}</pt-BR>
 		<ko>{0_city}(을)를 설립했습니다</ko>
+		<fixja>{0_city}が設立されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DISCOVERED_TECH</zType>
@@ -922,6 +991,7 @@
 		<zh-CN>已发现{0_tech}。</zh-CN>
 		<pt-BR>Descobriu-se: {0_tech}.</pt-BR>
 		<ko>{0_tech}(을)를 발견했습니다.</ko>
+		<fixja>{0_tech}を発見しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_STARTED_LAW_LOG_DATA</zType>
@@ -935,6 +1005,7 @@
 		<zh-CN>采纳了{0_law}</zh-CN>
 		<pt-BR>Adotou {0_law}</pt-BR>
 		<ko>{0_law} 법률 제정</ko>
+		<fixja>{0_law}の採択</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
@@ -948,6 +1019,7 @@
 		<zh-CN>{0_city}已完成link(CONCEPT_PROJECT)：{1_project}</zh-CN>
 		<pt-BR>{0_city} terminou link(CONCEPT_PROJECT,1): {1_project}</pt-BR>
 		<ko>{0_city}의 link(CONCEPT_PROJECT)이 완료되었습니다: {1_project}</ko>
+		<fixja>{0_city}がlink(CONCEPT_PROJECT)を完了させました：{1_project}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_DEVELOPED_SPECIALIST_LOG_DATA</zType>
@@ -961,6 +1033,7 @@
 		<zh-CN>{0_city}已发展link(CONCEPT_SPECIALIST)：{1_specialist}</zh-CN>
 		<pt-BR>{0_city} produziu link(CONCEPT_SPECIALIST,1): {1_specialist}</pt-BR>
 		<ko>{0_city}에서 link(CONCEPT_SPECIALIST)을 육성했습니다: {1_specialist}</ko>
+		<fixja>{0_city}がlink(CONCEPT_SPECIALIST)を育成しました：{1_specialist}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_TRAINED_UNIT_LOG_DATA</zType>
@@ -974,6 +1047,7 @@
 		<zh-CN>{0_city}已训练一个单位：{1_unit}</zh-CN>
 		<pt-BR>{0_city} produziu uma unidade: {1_unit}</pt-BR>
 		<ko>{0_city}에서 유닛을 육성했습니다: {1_unit}</ko>
+		<fixja>{0_city}がユニットを訓練しました：{1_unit}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_GAINS_TRAIT</zType>
@@ -987,6 +1061,7 @@
 		<zh-CN>{0_character}现在已具备{1_trait}这项特质</zh-CN>
 		<pt-BR>{0_character} agora tem o atributo {1_trait}</pt-BR>
 		<ko>{0_character}에게 {1_trait} 특성이 부여되었습니다</ko>
+		<fixja>{0_character}は現在、{1_trait}の特性を持っています</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_LOSES_TRAIT</zType>
@@ -1000,6 +1075,7 @@
 		<zh-CN>{0_character}不再具备{1_trait}这项特质</zh-CN>
 		<pt-BR>{0_character} não tem mais o atributo {1_trait}</pt-BR>
 		<ko>{0_character}에게서 {1_trait} 특성이 사라졌습니다</ko>
+		<fixja>{0_character}についていた、{1_trait}の特性が無くなりました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_RATING_CHANGE</zType>
@@ -1013,6 +1089,7 @@
 		<zh-CN>{0_character}：{1_value}{2_rating}</zh-CN>
 		<pt-BR>{0_character}: {1_value} {2_rating}</pt-BR>
 		<ko>{0_character}: {1_value} {2_rating}</ko>
+		<fixja>{0_character}：{1_value}{2_rating}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LANDMARK_DISCOVERED</zType>
@@ -1026,6 +1103,7 @@
 		<zh-CN>发现地标：{0_name}</zh-CN>
 		<pt-BR>Marco descoberto: {0_name}</pt-BR>
 		<ko>명소를 발견했습니다: {0_name}</ko>
+		<fixja>ランドマークを発見しました：{0_name}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LANDMARK_DISCOVERED_NEW</zType>
@@ -1039,6 +1117,7 @@
 		<zh-CN>发现新地标：{0_name}</zh-CN>
 		<pt-BR>Novo marco descoberto: {0_name}</pt-BR>
 		<ko>새로운 명소를 발견했습니다: {0_name}</ko>
+		<fixja>新しいランドマークを発見した: {0_name}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LANDMARK_NAMED</zType>
@@ -1052,6 +1131,7 @@
 		<zh-CN>你是第一个发现这个地标的人。你想要如何命名呢？</zh-CN>
 		<pt-BR>Você é a primeira pessoa a descobrir este marco. Como irá nomeá-lo?</pt-BR>
 		<ko>이 명소를 최초로 발견했습니다. 어떤 이름을 붙이겠습니까?</ko>
+		<fixja>このランドマークを最初に発見したのはあなたです。なんと名付けますか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_RAID_WARNING</zType>
@@ -1065,6 +1145,7 @@
 		<zh-CN>来自{2_city}附近的{0,2_tribe}{1_improvement}的link(CONCEPT_TRIBE_RAID)报告！</zh-CN>
 		<pt-BR>Chegaram notícias de uma link(CONCEPT_TRIBE_RAID)! Ela vem de {1,1_improvement} dos {0_tribe} perto de {2_city}!</pt-BR>
 		<ko>link(CONCEPT_TRIBE_RAID)이 보고되었습니다. {0,2_tribe}이 {2_city} 근처의 {1_improvement}(을)를 습격합니다!</ko>
+		<fixja>{2_city}近郊の{1_improvement}にて、{0,2_tribe}のlink(CONCEPT_TRIBE_RAID)との報告があります！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_BOUNDARY_RAID_WARNING</zType>
@@ -1078,6 +1159,7 @@
 		<zh-CN>来自{0_city}附近偏远地方的link(CONCEPT_TRIBE_RAID)报告！</zh-CN>
 		<pt-BR>Chegaram notícias de uma link(CONCEPT_TRIBE_RAID) vinda de terras distantes perto de {0_city}!</pt-BR>
 		<ko>{0_city} 근처에서 외부 link(CONCEPT_TRIBE_RAID)이 보고되었습니다!</ko>
+		<fixja>{0_city}近郊にて、遠方の地からlink(CONCEPT_TRIBE_RAID)との報告があります！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_LOG_DATA</zType>
@@ -1091,6 +1173,7 @@
 		<zh-CN>{0_childName}出生了</zh-CN>
 		<pt-BR>{0_childName} nasceu</pt-BR>
 		<ko>{0_childName}(이)가 태어났습니다</ko>
+		<fixja>{0_childName}が産まれました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_LEADER</zType>
@@ -1104,6 +1187,7 @@
 		<zh-CN>{true_0:你:你的妻子}生了一个{masculine_1:儿子:女儿}，{1_childName}！</zh-CN>
 		<pt-BR>{true_0:Você:Sua esposa} deu a luz {masculine_1:a um filho:a uma filha}, {1_childName}!</pt-BR>
 		<ko>{true_0:당신은:당신의 아내가} {masculine_1:아들:딸} {1_childName}(을)를 낳았습니다!</ko>
+		<fixja>{true_0:あなたは:あなたの妻が}{masculine_1:男の子:女の子}を出産し、{1_childName}と名付けました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_LEADER_ILLEGITIMATE</zType>
@@ -1117,6 +1201,7 @@
 		<zh-CN>你有了一个新的私生{masculine_1:子:女}，{1_childName}！</zh-CN>
 		<pt-BR>Você tem {masculine_1:um novo filho ilegítimo:uma nova filha ilegítima}: {1_childName}!</pt-BR>
 		<ko>사생아 {masculine_1:아들:딸} {1_childName}(이)가 태어났습니다!</ko>
+		<fixja>あなたに新たな非嫡出子の{masculine_1:息子:娘}ができました。名は{1_childName}です！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER</zType>
@@ -1130,6 +1215,7 @@
 		<zh-CN>{0_father}和{1_mother}生了一个{masculine_2:儿子:女儿}，{2_childName}！</zh-CN>
 		<pt-BR>{0_father} e {1_mother} tiveram {masculine_2:um filho:uma filha}, {2_childName}!</pt-BR>
 		<ko>{0_father}(과)와 {1_mother} 사이에서 {masculine_2:아들:딸} {2_childName}(이)가 태어났습니다!</ko>
+		<fixja>{0_father}と{1_mother}の間に{masculine_2:男の子:女の子}が産まれました。名は{2_childName}です！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER_ILLEGITIMATE</zType>
@@ -1143,6 +1229,7 @@
 		<zh-CN>{0_father}有了一个新的私生{masculine_1:子:女}，{1_childName}！</zh-CN>
 		<pt-BR>{0_father} tem {masculine_1:um novo filho ilegítimo:uma nova filha ilegítima}: {1_childName}!</pt-BR>
 		<ko>{0_father}의 사생아 {masculine_1:아들:딸} {1_childName}(이)가 태어났습니다!</ko>
+		<fixja>{0_father}に新たな非嫡出子の{masculine_1:息子:娘}ができました。名は{1_childName}です！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_EVENT_CITY_LOG_DATA</zType>
@@ -1156,6 +1243,7 @@
 		<zh-CN>{0_event}发生在{1_city}</zh-CN>
 		<pt-BR>{0_event} em {1_city}</pt-BR>
 		<ko>{1_city}에서 {0_event} 발생</ko>
+		<fixja>{1_city}にて{0_event}が発生</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TEAM</zType>
@@ -1169,6 +1257,7 @@
 		<zh-CN>第{0_teamNum}团队</zh-CN>
 		<pt-BR>Time {0_teamNum}</pt-BR>
 		<ko>팀 {0_teamNum}</ko>
+		<fixja>チーム {0_teamNum}</fixja>
 	</Entry>
 	<!-- Decisions -->
 	<Entry>
@@ -1183,6 +1272,7 @@
 		<zh-CN>退役link(CONCEPT_GENERAL)</zh-CN>
 		<pt-BR>Remover link(CONCEPT_GENERAL)</pt-BR>
 		<ko>link(CONCEPT_GENERAL) 사임</ko>
+		<fixja>link(CONCEPT_GENERAL)の退任</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>{0_character}，{1_unit}的link(CONCEPT_GENERAL)，因为年纪太大，已经从战场上退役了。</zh-CN>
 		<pt-BR>{0_character}, link(CONCEPT_GENERAL) da {1,3_unit}, já tem uma idade avançada e se aposentou do campo de batalha.</pt-BR>
 		<ko>{1_unit}의 link(CONCEPT_GENERAL) {0_character}(이)가 노쇠하여 전장에서 물러났습니다.</ko>
+		<fixja>{1_unit}のlink(CONCEPT_GENERAL)、{0_character}は高齢のため、現役を退きました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_PROMPT</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>选择新任link(CONCEPT_GENERAL)</zh-CN>
 		<pt-BR>Escolher novo link(CONCEPT_GENERAL)</pt-BR>
 		<ko>새로운 link(CONCEPT_GENERAL)을 배정한다</ko>
+		<fixja>新たなlink(CONCEPT_GENERAL)の選択</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_TITLE</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>{0_council}之死</zh-CN>
 		<pt-BR>Morte de {0_council}</pt-BR>
 		<ko>{0_council} 사망</ko>
+		<fixja>{0_council}の死去</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL</zType>
@@ -1235,6 +1328,7 @@
 		<zh-CN>{0_character}，我们的{1_council}，已经死于岗位上。</zh-CN>
 		<pt-BR>{0_character}, que era {1_council}, morreu em serviço.</pt-BR>
 		<ko>{1_council} {0_character}(이)가 재직 중 사망했습니다.</ko>
+		<fixja>我々の{1_council}、{0_character}が任期中に死亡しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_PROMPT</zType>
@@ -1248,6 +1342,7 @@
 		<zh-CN>选择新任{0_council}</zh-CN>
 		<pt-BR>Escolher {0_council}</pt-BR>
 		<ko>새로운 {0_council}을 배정한다</ko>
+		<fixja>新たな{0_council}の選択</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_GENERAL</zType>
@@ -1261,6 +1356,7 @@
 		<zh-CN>{0_character}，{1_unit}的link(CONCEPT_GENERAL)，已经死于战场上。</zh-CN>
 		<pt-BR>{0_character}, link(CONCEPT_GENERAL) da {1,3_unit}, morreu no campo de batalha.</pt-BR>
 		<ko>{1_unit}의 link(CONCEPT_GENERAL) {0_character}(이)가 전사했습니다.</ko>
+		<fixja>{1_unit}のlink(CONCEPT_GENERAL)、{0_character}が戦死しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_EXPLORER</zType>
@@ -1274,6 +1370,7 @@
 		<zh-CN>{0_character}，随行{1_unit}的探险家，已经死于战场上。</zh-CN>
 		<pt-BR>{0_character}, explorando com a {1,3_unit}, morreu em campo.</pt-BR>
 		<ko>{1_unit} 유닛이 있는 탐험가 {0_character}(이)가 전사했습니다.</ko>
+		<fixja>{0_unit}に同行する探検家の{0_character}が任務中に死亡した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_TITLE</zType>
@@ -1287,6 +1384,7 @@
 		<zh-CN>link(CONCEPT_GOVERNOR)之死</zh-CN>
 		<pt-BR>Morte de link(CONCEPT_GOVERNOR)</pt-BR>
 		<ko>link(CONCEPT_GOVERNOR) 사망</ko>
+		<fixja>link(CONCEPT_GOVERNOR)の死去</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR</zType>
@@ -1300,6 +1398,7 @@
 		<zh-CN>{0_character}，{1_city}的link(CONCEPT_GOVERNOR)，已经死于岗位上。</zh-CN>
 		<pt-BR>{0_character}, que era {masculine_0:link(CONCEPT_GOVERNOR):link(CONCEPT_GOVERNOR,F)} de {1_city}, morreu ainda em serviço.</pt-BR>
 		<ko>{1_city}의 link(CONCEPT_GOVERNOR) {0_character}(이)가 재직 중 사망했습니다.</ko>
+		<fixja>{1_city}のlink(CONCEPT_GOVERNOR)、{0_character}が任期中に死亡しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_PROMPT</zType>
@@ -1313,6 +1412,7 @@
 		<zh-CN>选择新任link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>Escolher novo link(CONCEPT_GOVERNOR)</pt-BR>
 		<ko>새로운 link(CONCEPT_GOVERNOR)을 배정한다</ko>
+		<fixja>新たなlink(CONCEPT_GOVERNOR)の選択</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_AGENT_TITLE</zType>
@@ -1326,6 +1426,7 @@
 		<zh-CN>link(CONCEPT_AGENT)之死</zh-CN>
 		<pt-BR>Morte de link(CONCEPT_AGENT)</pt-BR>
 		<ko>link(CONCEPT_AGENT) 사망</ko>
+		<fixja>link(CONCEPT_AGENT)の死去</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_AGENT</zType>
@@ -1339,6 +1440,7 @@
 		<zh-CN>{0_character}，{1_city}的link(CONCEPT_AGENT)，已在值勤时死亡。</zh-CN>
 		<pt-BR>{0_character}, link(CONCEPT_AGENT) em {1_city}, morreu enquanto ainda estava em serviço.</pt-BR>
 		<ko>{1_city}의 link(CONCEPT_AGENT) {0_character}(이)가 활동 중 사망했습니다.</ko>
+		<fixja>{1_city}にいるlink(CONCEPT_AGENT)、{0_character}が任務中に死亡しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DECISION_DEAD_AGENT_PROMPT</zType>
@@ -1352,6 +1454,7 @@
 		<zh-CN>选择新任link(CONCEPT_AGENT)</zh-CN>
 		<pt-BR>Escolher novo link(CONCEPT_AGENT)</pt-BR>
 		<ko>새로운 link(CONCEPT_AGENT)을 배정한다</ko>
+		<fixja>新たなlink(CONCEPT_AGENT)の選択</fixja>
 	</Entry>
 	<!-- Do Bonus -->
 	<Entry>
@@ -1366,6 +1469,7 @@
 		<zh-CN>所有国家：{0_memory}，好感度{1_value}</zh-CN>
 		<pt-BR>Todas as nações: {0_memory}, {1_value} de opinião</pt-BR>
 		<ko>모든 국가: {0_memory}. 태도 {1_value}</ko>
+		<fixja>全国家：{0_memory}、評価{1_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_TRIBES</zType>
@@ -1379,6 +1483,7 @@
 		<zh-CN>所有部落：{0_memory}，好感度{1_value}</zh-CN>
 		<pt-BR>Todas as tribos: {0_memory}, {1_value} de opinião</pt-BR>
 		<ko>모든 부족: {0_memory}. 태도 {1_value}</ko>
+		<fixja>全部族：{0_memory}、評価{1_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_FAMILIES</zType>
@@ -1392,6 +1497,7 @@
 		<zh-CN>所有家族：{0_memory}，好感度{1_value}</zh-CN>
 		<pt-BR>Todas as famílias: {0_memory}, {1_value} de opinião</pt-BR>
 		<ko>모든 가문: {0_memory}. 태도 {1_value}</ko>
+		<fixja>全一族：{0_memory}、評価{1_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT</zType>
@@ -1405,6 +1511,7 @@
 		<zh-CN>{0_subject}：{1_memory}，好感度{2_value}</zh-CN>
 		<pt-BR>{0_subject}: {1_memory}, {2_value} de opinião</pt-BR>
 		<ko>{0_subject}: {1_memory}. 태도 {2_value}</ko>
+		<fixja>{0_subject}：{1_memory}、評価{2_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT_TURNS</zType>
@@ -1418,6 +1525,7 @@
 		<zh-CN>{0_turns}{1_turnScale}</zh-CN>
 		<pt-BR>{1_turnScale} {0_turns}</pt-BR>
 		<ko>{0_turns}{1_turnScale}</ko>
+		<fixja>{0_turns}{1_turnScale}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
@@ -1431,6 +1539,7 @@
 		<zh-CN>{0_subject}：忘记{1_memory} (目前好感度{2_value})</zh-CN>
 		<pt-BR>{0_subject}: esquece {1_memory} (atualmente {2_value} de opinião)</pt-BR>
 		<ko>{0_subject}: {1_memory}(라)는 것을 잊음 (현재 태도 {2_value})</ko>
+		<fixja>{0_subject}：「{1_memory}」の忘却 (現在の評価 {2_value})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT_NO_OPINION</zType>
@@ -1444,6 +1553,7 @@
 		<zh-CN>{0_subject}：忘记{1_memory}</zh-CN>
 		<pt-BR>{0_subject}: esquece {1_memory}</pt-BR>
 		<ko>{0_subject}: {1_memory}(라)는 것을 잊음</ko>
+		<fixja>{0_subject}：「{1_memory}」の忘却</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RENAME</zType>
@@ -1457,6 +1567,7 @@
 		<zh-CN>重新命名为{0_name}</zh-CN>
 		<pt-BR>Novo nome: {0_name}</pt-BR>
 		<ko>{0_name}(으)로 개명함</ko>
+		<fixja>{0_name}の名前変更</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_END_ALLIANCE</zType>
@@ -1470,6 +1581,7 @@
 		<zh-CN>结束与{1_subject}的{0_alliance}</zh-CN>
 		<pt-BR>Termina a {0_alliance} com {1_subject}</pt-BR>
 		<ko>{1_subject}(과)와 {0_alliance} 파기</ko>
+		<fixja>{1_subject}との{0_alliance}を終了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_WITH_PLAYER</zType>
@@ -1483,6 +1595,7 @@
 		<zh-CN>与{1_player}{0_diplomacy}</zh-CN>
 		<pt-BR>{0_diplomacy} com {1,4_player}</pt-BR>
 		<ko>{1_player}(과)와 {0_diplomacy} 상태</ko>
+		<fixja>{1_player}と{0_diplomacy}状態</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_HOSTILE_FROM</zType>
@@ -1496,6 +1609,7 @@
 		<zh-CN>宣布对{1_player}的{0_diplomacy}</zh-CN>
 		<pt-BR>Declara {0_diplomacy} {1,5_player}</pt-BR>
 		<ko>{1_player}에게 {0_diplomacy} 선포</ko>
+		<fixja>{1_player}に{0_diplomacy}を布告</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_HOSTILE_TO</zType>
@@ -1509,6 +1623,7 @@
 		<zh-CN>{1_player}宣布{0_diplomacy}</zh-CN>
 		<pt-BR>{sentencecase:{1,4_player}} declara {0_diplomacy}</pt-BR>
 		<ko>{1_player}(이)가 {0_diplomacy} 선포</ko>
+		<fixja>{1_player}が{0_diplomacy}を宣言</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ALLIANCE_WITH</zType>
@@ -1522,6 +1637,7 @@
 		<zh-CN>{0_player}与{1_other}结为联盟</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} tem uma aliança com {1_other}</pt-BR>
 		<ko>{0_player}(과)와 {1_other} 동맹 체결</ko>
+		<fixja>{0_player}は{1_other}と同盟中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER</zType>
@@ -1535,6 +1651,7 @@
 		<zh-CN>从{1_player}获得{0_yield}</zh-CN>
 		<pt-BR>Receber {0_yield} {1,6_player}</pt-BR>
 		<ko>{1_player}에게서 {0_yield} 획득</ko>
+		<fixja>{1_player}から{0_yield}を獲得</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SEND_PLAYER</zType>
@@ -1548,6 +1665,7 @@
 		<zh-CN>送出{0_yield}给{1_player}</zh-CN>
 		<pt-BR>Enviar {0_yield} {1,5_player}</pt-BR>
 		<ko>{1_player}에게 {0_yield} 전달</ko>
+		<fixja>{1_player}に{0_yield}を送る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER_DIPLOMACY</zType>
@@ -1561,6 +1679,7 @@
 		<zh-CN>{0_other}与{2_target}处于{1_diplomacy}</zh-CN>
 		<pt-BR>{0_other} em {1_diplomacy} com {2_target}</pt-BR>
 		<ko>{0_other}(과)와 {2_target} {1_diplomacy} 상태</ko>
+		<fixja>{0_other}は{2_target}と{1_diplomacy}状態中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_TRIBE</zType>
@@ -1574,6 +1693,7 @@
 		<zh-CN>与{1_tribe}{0_diplomacy}</zh-CN>
 		<pt-BR>{0_diplomacy} com {1_tribe}</pt-BR>
 		<ko>{1_tribe}(과)와 {0_diplomacy} 상태</ko>
+		<fixja>{1_tribe}と{0_diplomacy}状態</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TRIBE_DIPLOMACY_PLAYER</zType>
@@ -1587,6 +1707,7 @@
 		<zh-CN>{0_tribe}：与{2_player}{1_diplomacy}</zh-CN>
 		<pt-BR>{0_tribe}: {1_diplomacy} com {2,4_player}</pt-BR>
 		<ko>{0_tribe}: {2_player}(과)와 {1_diplomacy} 상태</ko>
+		<fixja>{0_tribe}：{2_player}と{1_diplomacy}状態</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
@@ -1600,6 +1721,7 @@
 		<zh-CN>以{0_religion}作为link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>Adota o {0_religion} como link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>{0_religion}를 link(CONCEPT_STATE_RELIGION)로 지정</ko>
+		<fixja>{0_religion}をlink(CONCEPT_STATE_RELIGION)として採用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
@@ -1613,6 +1735,7 @@
 		<zh-CN>{0_religion}传播到{1_city}</zh-CN>
 		<pt-BR>O {0_religion} é difundido a {1_city}</pt-BR>
 		<ko>{1_city}에 {0_religion} 전파</ko>
+		<fixja>{0_religion}を{1_city}に布教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REMOVE_RELIGION</zType>
@@ -1626,6 +1749,7 @@
 		<zh-CN>从{1_city}废除{0_religion}</zh-CN>
 		<pt-BR>Remove o {0_religion} de {1_city}</pt-BR>
 		<ko>{1_city}에서 {0_religion} 제명</ko>
+		<fixja>{1_city}から{0_religion}を排除</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CONVERT_RELIGION</zType>
@@ -1639,6 +1763,7 @@
 		<zh-CN>{0_character}改信{true_1:至{1_religion}:link(CONCEPT_RELIGION)}</zh-CN>
 		<pt-BR>{0_character} se converte {true_1:ao {1_religion}:à link(CONCEPT_RELIGION)}</pt-BR>
 		<ko>{0_character} {true_1:{1_religion}로:link(CONCEPT_RELIGION)} 개종</ko>
+		<fixja>{0_character}が{true_1:{1_religion}に改宗:link(CONCEPT_RELIGION)を採用}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_UNIT_CONVERT_RELIGION</zType>
@@ -1652,6 +1777,7 @@
 		<zh-CN>{0_unit}改信{true_1:至{1_religion}:link(CONCEPT_RELIGION)}</zh-CN>
 		<pt-BR>{0_unit} se converteu {true_1:ao {1_religion}:à link(CONCEPT_RELIGION)}</pt-BR>
 		<ko>{0_unit} {true_1:{1_religion}로:link(CONCEPT_RELIGION)} 개종</ko>
+		<fixja>{0_unit}が{true_1:{1_religion}に改宗:link(CONCEPT_RELIGION)を採用}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
@@ -1665,6 +1791,7 @@
 		<zh-CN>{0_character}成为{1_religion}的领袖</zh-CN>
 		<pt-BR>{0_character} torna-se líder do {1_religion}</pt-BR>
 		<ko>{0_character}(이)가 {1_religion} 수장이 됨</ko>
+		<fixja>{0_character}が{1_religion}の首長になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HEAD_FAMILY</zType>
@@ -1678,6 +1805,7 @@
 		<zh-CN>{0_character}成为{1_family}的领袖</zh-CN>
 		<pt-BR>{0_character} torna-se líder dos {1,1_family}</pt-BR>
 		<ko>{0_character}(이)가 {1_family} 가문 수장이 됨</ko>
+		<fixja>{0_character}が{1_family}の首長になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
@@ -1691,6 +1819,7 @@
 		<zh-CN>{0_family}：{1_law}好感度{2_value}</zh-CN>
 		<pt-BR>{0_family}: {1_law}, {2_value} de opinião</pt-BR>
 		<ko>{0_family}: {1_law} 태도 {2_value}</ko>
+		<fixja>{0_family}：{1_law}により評価{2_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_START_LAW</zType>
@@ -1704,6 +1833,7 @@
 		<zh-CN>启用{0_law}</zh-CN>
 		<pt-BR>Começar {0_law}</pt-BR>
 		<ko>{0_law} 적용</ko>
+		<fixja>{0_law}の開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_END_LAW</zType>
@@ -1717,6 +1847,7 @@
 		<zh-CN>结束{0_law}</zh-CN>
 		<pt-BR>Terminar lei de {0_law}</pt-BR>
 		<ko>{0_law} 중단</ko>
+		<fixja>{0_law}終了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FREE_LAW</zType>
@@ -1730,6 +1861,7 @@
 		<zh-CN>解除{0_law}</zh-CN>
 		<pt-BR>{0_law} grátis</pt-BR>
 		<ko>무상 {0_law}</ko>
+		<fixja>無償の{0_law}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FREE_THEOLOGY</zType>
@@ -1743,6 +1875,7 @@
 		<zh-CN>解除{0_theology} ({1_religion})</zh-CN>
 		<pt-BR>{0_theology} ({1_religion}) grátis</pt-BR>
 		<ko>무상 {0_theology} ({1_religion})</ko>
+		<fixja>無償の{0_theology}（{1_religion}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION_CITY</zType>
@@ -1756,6 +1889,7 @@
 		<zh-CN>创立{0_religion}</zh-CN>
 		<pt-BR>Fundar o {0_religion}</pt-BR>
 		<ko>{0_religion} 설립</ko>
+		<fixja>{0_religion}の設立</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADD_X</zType>
@@ -1769,6 +1903,7 @@
 		<zh-CN>增加{0}</zh-CN>
 		<pt-BR>Adicionar {0_improvementOrResource}</pt-BR>
 		<ko>{0_improvementOrResource} 추가</ko>
+		<fixja>追加の{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADD_RANDOM_X</zType>
@@ -1782,6 +1917,7 @@
 		<zh-CN>添加随机{0_improvementOrResource}</zh-CN>
 		<pt-BR>Adicionar {0_improvementOrResource} aleatório</pt-BR>
 		<ko>무작위 {0_improvementOrResource} 추가</ko>
+		<fixja>ランダムな{0_improvementOrResource}を追加</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
@@ -1795,6 +1931,7 @@
 		<zh-CN>{0_value}{singular_0:{1_citizenLink}:{1,2_citizenLink}}</zh-CN>
 		<pt-BR>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}}</pt-BR>
 		<ko>{singular_0:{1_citizenLink}:{1,2_citizenLink}} {0_value}</ko>
+		<fixja>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}} </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
@@ -1808,6 +1945,7 @@
 		<zh-CN>{0_value}边境{singular_0:图块:图块}</zh-CN>
 		<pt-BR>{0_value} {singular_0:Casa:Casas} de fronteira</pt-BR>
 		<ko>국경 {singular_0:타일:타일} {0_value}</ko>
+		<fixja>{0_value} 国境{singular_0:タイル:タイル} </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
@@ -1821,6 +1959,7 @@
 		<zh-CN>{0_value}{singular_0:{1_culture}:{1,2_culture}}</zh-CN>
 		<pt-BR>{0_value} {singular_0:{1_culture}:{1,2_culture}}</pt-BR>
 		<ko>{singular_0:{1_culture}:{1,2_culture}} {0_value}</ko>
+		<fixja>{0_value} {singular_0:{1_culture}:{1,2_culture}} </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HAPPINESS_LEVELS</zType>
@@ -1834,6 +1973,7 @@
 		<zh-CN>{0_value}link(YIELD_HAPPINESS){singular_0:等级:等级}</zh-CN>
 		<pt-BR>{0_value} {singular_0:Nível:Níveis} de link(YIELD_HAPPINESS)</pt-BR>
 		<ko>link(YIELD_HAPPINESS) {0_value}{singular_0:단계:단계}</ko>
+		<fixja>{0_value} link(YIELD_HAPPINESS){singular_0:レベル:レベル}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DISCONTENT_LEVELS</zType>
@@ -1847,6 +1987,7 @@
 		<zh-CN>{0_value} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</zh-CN>
 		<pt-BR>{0_value} {singular_0:Nível:Níveis} de link(YIELD_DISCONTENT)</pt-BR>
 		<ko>link(YIELD_DISCONTENT) {0_value}{singular_0:단계:단계}</ko>
+		<fixja>{0_value} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_YIELD_LEVELS</zType>
@@ -1860,6 +2001,7 @@
 		<zh-CN>{0_value}{1_yield}{singular_0:等级:等级}</zh-CN>
 		<pt-BR>{0_value} {singular_0:Nível:Níveis} de {1_yield}</pt-BR>
 		<ko>{1_yield} {singular_0:단계:단계} {0_value}</ko>
+		<fixja>{0_value} {1_yield}{singular_0:レベル:レベル}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
@@ -1873,6 +2015,7 @@
 		<zh-CN>{0_value}{1_rebel}{singular_0:单位:单位}</zh-CN>
 		<pt-BR>{0_value} {singular_0:Unidade:Unidades} {singular_0:{1,1_rebel}:{1_rebel}}</pt-BR>
 		<ko>{1_rebel} {singular_0:유닛:유닛} {0_value}</ko>
+		<fixja>{0_value} {1_rebel}{singular_0:ユニット:ユニット} </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
@@ -1886,6 +2029,7 @@
 		<zh-CN>{0_value}{singular_0:改良设施:改良设施}已摧毁</zh-CN>
 		<pt-BR>{0_value} {singular_0:Maravilha Destruída:Maravilhas Destruídas}</pt-BR>
 		<ko>{singular_0:시설:시설} {0_value}개 소멸됨</ko>
+		<fixja>{0_value}個の破壊された{singular_0:建設物:建設物}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HP</zType>
@@ -1899,6 +2043,7 @@
 		<zh-CN>{0_damage}生命值{true_1:(至{1_final}生命值)}</zh-CN>
 		<pt-BR>{0_damage} PD {true_1:(a {1_final} PD)}</pt-BR>
 		<ko>{0_damage} HP {true_1:({1_final} HP까지)}</ko>
+		<fixja>{0_damage}HP{true_1:（{1_final}HPに対して）}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HP_ADJACENT</zType>
@@ -1912,6 +2057,7 @@
 		<zh-CN>对邻近单位造成 {0_damage} 点生命值伤害</zh-CN>
 		<pt-BR>{0_damage} PD a unidades adjacentes</pt-BR>
 		<ko>인접한 유닛에게 {0_damage} HP</ko>
+		<fixja>隣接ユニットのHPに{0_damage}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
@@ -1925,6 +2071,7 @@
 		<zh-CN>{0_character}成为link(CONCEPT_AGENT)</zh-CN>
 		<pt-BR>{0_character} torna-se link(CONCEPT_AGENT)</pt-BR>
 		<ko>{0_character}(을)를 link(CONCEPT_AGENT)으로 배정</ko>
+		<fixja>{0_character}がlink(CONCEPT_AGENT)になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_BONUS_MOVE_AGENT_NETWORK_CITY</zType>
@@ -1938,6 +2085,7 @@
 		<zh-CN>将link(CONCEPT_AGENT_NETWORK)从{0_city}转移{true_1: 到{1_city}}</zh-CN>
 		<pt-BR>Mover link(CONCEPT_AGENT_NETWORK) de {0_city}{true_1: para {1_city}}</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK)을 {0_city}에서 {true_1:{1_city}(으)로} 이동</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)を{0_city}から{true_1: {1_city}へ}移転させる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MOVE_AGENT_NETWORK_CITY</zType>
@@ -1951,6 +2099,7 @@
 		<zh-CN>将link(CONCEPT_AGENT_NETWORK)从{0_city}转移</zh-CN>
 		<pt-BR>Mover link(CONCEPT_AGENT_NETWORK) de {0_city}</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK)을 {0_city}(으)로 이동</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)を{0_city}から移転させる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHANGE_THEOLOGY</zType>
@@ -1964,6 +2113,7 @@
 		<zh-CN>用{1_theology}（{2_religion}）替代{0_theology}</zh-CN>
 		<pt-BR>Substitui {0_theology} por {1_theology} ({2_religion})</pt-BR>
 		<ko>{0_theology}(을)를 {1_theology}(으)로 교체 ({2_religion})</ko>
+		<fixja>{0_theology}を{1_theology}（{2_religion}）に変更する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DISTANT_RAID</zType>
@@ -1977,6 +2127,7 @@
 		<zh-CN>遥远的link(CONCEPT_TRIBE_RAID)</zh-CN>
 		<pt-BR>link(CONCEPT_TRIBE_RAID) distante</pt-BR>
 		<ko>먼 link(CONCEPT_TRIBE_RAID)</ko>
+		<fixja>遠方のlink(CONCEPT_TRIBE_RAID)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADD_AGENT_NETWORK</zType>
@@ -1990,6 +2141,7 @@
 		<zh-CN>新增link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>Adicionar link(CONCEPT_AGENT_NETWORK)</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK) 추가</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)を追加</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOSE_AGENT_NETWORK</zType>
@@ -2003,6 +2155,7 @@
 		<zh-CN>失去link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>link(CONCEPT_AGENT_NETWORK) perdida</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK) 손실</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)が消失</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK</zType>
@@ -2016,6 +2169,7 @@
 		<zh-CN>揭露外国link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>Expor link(CONCEPT_AGENT_NETWORK) estrangeira</pt-BR>
 		<ko>타국의 link(CONCEPT_AGENT_NETWORK)을 색출함</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)を異国に公開する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_VEGETATION_TERRITORY</zType>
@@ -2029,6 +2183,7 @@
 		<zh-CN>{0_value}{1_vegetation}{singular_0:图块:图块}邻近{2_city}</zh-CN>
 		<pt-BR>{0_value} {singular_0:casa:casas} de {1_vegetation} perto de {2_city}</pt-BR>
 		<ko>{2_city} 근처 {1_vegetation} {singular_0:타일:타일} {0_value}개</ko>
+		<fixja>{2_city}の近くに{0_value} {1_vegetation} {singular_0:Tile:Tiles}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_YES</zType>
@@ -2042,6 +2197,7 @@
 		<zh-CN>{0_player}的link(CONCEPT_AGENT_NETWORK)被揭露了</zh-CN>
 		<pt-BR>Uma link(CONCEPT_AGENT_NETWORK) {0,6_player} foi exposta</pt-BR>
 		<ko>{0_player}의 link(CONCEPT_AGENT_NETWORK) 발각됨</ko>
+		<fixja>{0_player}のlink(CONCEPT_AGENT_NETWORK)を公開しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_NO</zType>
@@ -2055,6 +2211,7 @@
 		<zh-CN>未发现link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>Nenhuma link(CONCEPT_AGENT_NETWORK) foi encontrada</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK) 색출 실패</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)が見つかりません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_TARGET</zType>
@@ -2068,6 +2225,7 @@
 		<zh-CN>你在{0_city}的link(CONCEPT_AGENT_NETWORK)已经暴露了！</zh-CN>
 		<pt-BR>A sua link(CONCEPT_AGENT_NETWORK) em {0_city} foi exposta!</pt-BR>
 		<ko>{0_city}에 있는 link(CONCEPT_AGENT_NETWORK)이 발각되었습니다!</ko>
+		<fixja>{0_city}内のlink(CONCEPT_AGENT_NETWORK)が公開されました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
@@ -2081,6 +2239,7 @@
 		<zh-CN>+1{0}</zh-CN>
 		<pt-BR>+1 {0_projectOrSpecialist}</pt-BR>
 		<ko>+1 {0_projectOrSpecialist}</ko>
+		<fixja>+1 {0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MINUS_ONE</zType>
@@ -2094,6 +2253,7 @@
 		<zh-CN>-1{0}</zh-CN>
 		<pt-BR>-1 {0_project}</pt-BR>
 		<ko>-1 {0_project}</ko>
+		<fixja>-1 {0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MEMORY_CHARACTER</zType>
@@ -2107,6 +2267,7 @@
 		<zh-CN>{0_memory}，好感度{1_value}</zh-CN>
 		<pt-BR>{0_memory}, {1_value} de opinião</pt-BR>
 		<ko>{0_memory}. 태도 {1_value}</ko>
+		<fixja>{0_memory}、評価{1_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FORGET_CHARACTER</zType>
@@ -2120,6 +2281,7 @@
 		<zh-CN>忘记{0_memory} (目前好感度{1_value})</zh-CN>
 		<pt-BR>Esquece {0_memory} (atualmente tem {1_value} de opinião)</pt-BR>
 		<ko>{0_memory}(라)는 것을 잊음 (현재 태도 {1_value})</ko>
+		<fixja>「{0_memory}」の忘却 (現在の評価 {1_value})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RANDOM_RELATIONSHIP_LEADER</zType>
@@ -2133,6 +2295,7 @@
 		<zh-CN>{0_character}现在是{1_relationship}{2_leader}</zh-CN>
 		<pt-BR>{0_character} agora está {lowercase:{1_relationship}} {2_leader}</pt-BR>
 		<ko>{0_character}: {1_relationship} {2_leader}</ko>
+		<fixja>{0_character}は現在、{2_leader}にとって{1_relationship}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
@@ -2146,6 +2309,7 @@
 		<zh-CN>成为{0}</zh-CN>
 		<pt-BR>torna-se {0_trait}</pt-BR>
 		<ko>{0_trait} 특성 획득</ko>
+		<fixja>{0}になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOSES</zType>
@@ -2159,6 +2323,7 @@
 		<zh-CN>不再{0}</zh-CN>
 		<pt-BR>Já não é/está {0_trait}</pt-BR>
 		<ko>{0_trait} 특성 상실</ko>
+		<fixja>{0}ではなくなる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
@@ -2172,6 +2337,7 @@
 		<zh-CN>{0_character}展开任务：{1_mission}</zh-CN>
 		<pt-BR>{0_character} inicia uma missão: {1_mission}</pt-BR>
 		<ko>{0_character}(이)가 임무 시작: {1_mission}</ko>
+		<fixja>{0_character}がミッションを開始：{1_mission}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION_FREE</zType>
@@ -2185,6 +2351,7 @@
 		<zh-CN>解除</zh-CN>
 		<pt-BR>Grátis</pt-BR>
 		<ko>무료</ko>
+		<fixja>無償</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TARGET_CITY</zType>
@@ -2198,6 +2365,7 @@
 		<zh-CN>{0_player}打算袭击{1_city}</zh-CN>
 		<pt-BR>{0,4_player} se prepara para atacar {1_city}</pt-BR>
 		<ko>{0_player}(이)가 {1_city}에 대한 공격 준비</ko>
+		<fixja>{0_player}：{1_city}への攻撃準備</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_DEFEAT</zType>
@@ -2211,6 +2379,7 @@
 		<zh-CN>玩家战败</zh-CN>
 		<pt-BR>Derrota do jogador</pt-BR>
 		<ko>플레이어 패배</ko>
+		<fixja>プレイヤーの敗北</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADD_COURTIER_OTHER</zType>
@@ -2224,6 +2393,7 @@
 		<zh-CN>{0,1_player}{1_courtier}</zh-CN>
 		<pt-BR>{1_courtier} {0,6_player}</pt-BR>
 		<ko>{0,1_player} {1_courtier}</ko>
+		<fixja>{0,1_player}の{1_courtier}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
@@ -2237,6 +2407,7 @@
 		<zh-CN>{0_player}：启用{1_law}</zh-CN>
 		<pt-BR>{0_player}: começa {1_law}</pt-BR>
 		<ko>{0_player}: {1_law} 적용</ko>
+		<fixja>{0_player}：{1_law}を開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
@@ -2250,6 +2421,7 @@
 		<zh-CN>{0_player}：结束{1_law}</zh-CN>
 		<pt-BR>{0_player}: termina {1_law}</pt-BR>
 		<ko>{0_player}: {1_law} 해제</ko>
+		<fixja>{0_player}：{1_law}を終了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
@@ -2263,6 +2435,7 @@
 		<zh-CN>{0_player}：解除{1_law}</zh-CN>
 		<pt-BR>{0_player}: {1_law} grátis</pt-BR>
 		<ko>{0_player}: 무상 {1_law}</ko>
+		<fixja>{0_player}：{1_law}を無償解放</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_GOVERNOR</zType>
@@ -2276,6 +2449,7 @@
 		<zh-CN>{0_city}的link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>{masculine_1:link(CONCEPT_GOVERNOR):link(CONCEPT_GOVERNOR,F)} de {0_city}</pt-BR>
 		<ko>{0_city}의 link(CONCEPT_GOVERNOR)</ko>
+		<fixja>{0_unit}のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
@@ -2289,6 +2463,7 @@
 		<zh-CN>{0_unit}的link(CONCEPT_GENERAL)</zh-CN>
 		<pt-BR>link(CONCEPT_GENERAL) da {0,3_unit}</pt-BR>
 		<ko>{0_unit}의 link(CONCEPT_GENERAL)</ko>
+		<fixja>{0_unit}のlink(CONCEPT_GENERAL)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_EXPLORER</zType>
@@ -2302,6 +2477,7 @@
 		<zh-CN>随行{0_unit}的link(CONCEPT_EXPLORER)</zh-CN>
 		<pt-BR>link(CONCEPT_EXPLORER) com uma {0,3_unit}</pt-BR>
 		<ko>{0_unit} 유닛이 있는 link(CONCEPT_EXPLORER)</ko>
+		<fixja>{0_unit}に同行するlink(CONCEPT_EXPLORER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ADOPTION</zType>
@@ -2315,6 +2491,7 @@
 		<zh-CN>被{0_parent}收养</zh-CN>
 		<pt-BR>{masculine_1:Adotado:Adotada} por {0_parent}</pt-BR>
 		<ko>{0_parent}(이)가 입양함</ko>
+		<fixja>{0_parent}の養子縁組</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CONVERTED_BY</zType>
@@ -2328,6 +2505,7 @@
 		<zh-CN>改信{true_0:至{0_religion}:link(CONCEPT_RELIGION)}</zh-CN>
 		<pt-BR>Converte-se {true_0:ao {0_religion}:à link(CONCEPT_RELIGION)}</pt-BR>
 		<ko>{true_0:{0_religion}로:link(CONCEPT_RELIGION)} 개종</ko>
+		<fixja>{true_0:{0_religion}に改宗:link(CONCEPT_RELIGION)を採用}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_CHILD_BORN</zType>
@@ -2341,6 +2519,7 @@
 		<zh-CN>{0_child}出生</zh-CN>
 		<pt-BR>{0_child} nasceu.</pt-BR>
 		<ko>{0_child}이(가) 태어남.</ko>
+		<fixja>{0_child}が生まれた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_NEW_POSITION</zType>
@@ -2354,6 +2533,7 @@
 		<zh-CN>取代{0_job}的位置。</zh-CN>
 		<pt-BR>Assumiu a posição de {0_job}.</pt-BR>
 		<ko>{0_job} 자리를 맡음.</ko>
+		<fixja>{0_job}の立場を得る。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MARRIES</zType>
@@ -2367,6 +2547,7 @@
 		<zh-CN>与{0_suitor}结婚</zh-CN>
 		<pt-BR>Casa-se com {0_suitor}</pt-BR>
 		<ko>{0_suitor}(과)와 결혼</ko>
+		<fixja>{0_suitor}と結婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_FAMILY_HEAD</zType>
@@ -2380,6 +2561,7 @@
 		<zh-CN>{0,1_family}首领。</zh-CN>
 		<pt-BR>Líder dos {0,1_family}.</pt-BR>
 		<ko>{0,1_family}의 수장.</ko>
+		<fixja>{0,1_family}の長。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_RELIGION_HEAD</zType>
@@ -2393,6 +2575,7 @@
 		<zh-CN>{0_religion}首领。</zh-CN>
 		<pt-BR>Líder do {0_religion}.</pt-BR>
 		<ko>{0_religion}의 교주.</ko>
+		<fixja>{0_religion}の長。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_DIVORCED_BY</zType>
@@ -2406,6 +2589,7 @@
 		<zh-CN>{0_relationship}{1_spouse}</zh-CN>
 		<pt-BR>{0_relationship} {1_spouse}</pt-BR>
 		<ko>{0_relationship} {1_spouse}</ko>
+		<fixja>{0_relationship}の{1_spouse}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_BIRTH_WITH</zType>
@@ -2419,6 +2603,7 @@
 		<zh-CN>与{0_parent}有了孩子</zh-CN>
 		<pt-BR>Tem uma criança com {0_parent}</pt-BR>
 		<ko>{0_parent}(과)와 아이를 낳음</ko>
+		<fixja>{0_parent}との間に子供が生まれる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
@@ -2432,6 +2617,7 @@
 		<zh-CN>退位</zh-CN>
 		<pt-BR>Renuncia</pt-BR>
 		<ko>퇴위함</ko>
+		<fixja>退位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
@@ -2445,6 +2631,7 @@
 		<zh-CN>是选定的继承人</zh-CN>
 		<pt-BR>É {masculine_0:Herdeiro Escolhido:Herdeira Escolhida}</pt-BR>
 		<ko>후계자로 임명됨</ko>
+		<fixja>選ばれた後継者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_ROYAL</zType>
@@ -2458,6 +2645,7 @@
 		<zh-CN>成为link(CONCEPT_ROYAL)</zh-CN>
 		<pt-BR>torna-se link(CONCEPT_ROYAL)</pt-BR>
 		<ko>link(CONCEPT_ROYAL) 특성 획득</ko>
+		<fixja>link(CONCEPT_ROYAL)になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_KILL_CHARACTER</zType>
@@ -2471,6 +2659,7 @@
 		<zh-CN>死亡</zh-CN>
 		<pt-BR>Morre</pt-BR>
 		<ko>사망</ko>
+		<fixja>死亡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HAS_ILLEGITIMATE_CHILD</zType>
@@ -2484,6 +2673,7 @@
 		<zh-CN>有一名私生子女</zh-CN>
 		<pt-BR>Tem uma criança ilegítima</pt-BR>
 		<ko>사생아 출생함</ko>
+		<fixja>非嫡出子がいる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
@@ -2497,6 +2687,7 @@
 		<zh-CN>{0} (移除{1_list})</zh-CN>
 		<pt-BR>{0_relationship} (remove {1_listOfRelationships})</pt-BR>
 		<ko>{0_relationship} ({1_listOfRelationships} 관계 해제)</ko>
+		<fixja>{0}（{1_list}の除去）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
@@ -2510,6 +2701,7 @@
 		<zh-CN>不再{0_relationship}{1_character}</zh-CN>
 		<pt-BR>Não está mais {0_relationship} {1_character}</pt-BR>
 		<ko>더 이상 {0_relationship}({1_character}) 상태가 아님</ko>
+		<fixja>{1_character}とは{0_relationship}ではなくなった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITHOUT_DELAY</zType>
@@ -2523,6 +2715,7 @@
 		<zh-CN>有{0_prob}%几率变得{1_trait}</zh-CN>
 		<pt-BR>{0_prob}% chance de se tornar {1_trait}</pt-BR>
 		<ko>{1_trait}이(가) 될 확률 {0_prob}%</ko>
+		<fixja>{1_trait}になる確率{0_prob}%</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITHOUT_DELAY_FALLBACK</zType>
@@ -2536,6 +2729,7 @@
 		<zh-CN>有{0_prob}%几率获得{1_trait}</zh-CN>
 		<pt-BR>{0_prob}% chance de {1_trait}</pt-BR>
 		<ko>{1_trait} 확률 {0_prob}%</ko>
+		<fixja>{1_trait}にの確率{0_prob}%</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITH_DELAY</zType>
@@ -2549,6 +2743,7 @@
 		<zh-CN>有{0_prob}%几率变得{1_trait}（在接下来的{2_turn}中）</zh-CN>
 		<pt-BR>{0_prob}% chance de se tornar {1_trait} (próximo {2_turn})</pt-BR>
 		<ko>{1_trait}이(가) 될 확률 {0_prob}% (다음 {2_turn})</ko>
+		<fixja>{0_prob}%の確率で{1_trait}になる(次：{2_turn})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITH_DELAY_FALLBACK</zType>
@@ -2562,6 +2757,7 @@
 		<zh-CN>有{0_prob}%几率获得{1_trait}（在接下来的{2_turn}中）</zh-CN>
 		<pt-BR>{0_prob}% chance de {1_trait} (próximo {2_turn})</pt-BR>
 		<ko>{1_trait} 확률 {0_prob}% (다음 {2_turn})</ko>
+		<fixja>{0_prob}%の確率：{1_trait}(次：{2_turn})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHARACTER_NAME_CHANGE</zType>
@@ -2575,6 +2771,7 @@
 		<zh-CN>现在是{0_character}</zh-CN>
 		<pt-BR>Agora lhe chamam de {0_character}</pt-BR>
 		<ko>{0_character}(으)로 개명함</ko>
+		<fixja>現在、{0_character}という名</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHARACTER_TITLE_CHANGE</zType>
@@ -2588,6 +2785,7 @@
 		<zh-CN>被授予{0_title}的头衔</zh-CN>
 		<pt-BR>Recebeu o título de {0_title}</pt-BR>
 		<ko>{0_title}의 지위를 받음</ko>
+		<fixja>{0_title}の称号を獲得</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHARACTER_COGNOMEN_CHANGE</zType>
@@ -2601,6 +2799,7 @@
 		<zh-CN>现在被称为{0_cognomen}</zh-CN>
 		<pt-BR>Agora lhe chamam de {0_cognomen}</pt-BR>
 		<ko>현재 {0_cognomen}(으)로 알려짐</ko>
+		<fixja>今では{0_cognomen}として知られる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHARACTER_NICKNAME_CHANGE</zType>
@@ -2614,6 +2813,7 @@
 		<zh-CN>现在被称为{0_nickname}</zh-CN>
 		<pt-BR>Agora lhe chamam de {0_nickname}</pt-BR>
 		<ko>현재 {0_nickname}(으)로 알려짐</ko>
+		<fixja>今では{0_nickname}として知られる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_XP</zType>
@@ -2627,6 +2827,7 @@
 		<zh-CN>{0_value}经验值</zh-CN>
 		<pt-BR>{0_value} EXP</pt-BR>
 		<ko>{0_value}XP</ko>
+		<fixja>{0_value} XP</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FATIGUE</zType>
@@ -2640,6 +2841,7 @@
 		<zh-CN>移动{0_value}步</zh-CN>
 		<pt-BR>{0_value} movimentos</pt-BR>
 		<ko>이동 {0_value}</ko>
+		<fixja>{0_value}移動</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CRITICAL_CHANCE</zType>
@@ -2653,6 +2855,7 @@
 		<zh-CN>下一次攻击有{0_value}%几率link(CONCEPT_CRITICAL_HIT)</zh-CN>
 		<pt-BR>{0_value}% de chance de link(CONCEPT_CRITICAL_HIT) no próximo ataque</pt-BR>
 		<ko>다음 공격에서 link(CONCEPT_CRITICAL_HIT) 확률 {0_value}%</ko>
+		<fixja>link(CONCEPT_CRITICAL_HIT) {0_value}%の確率で次の攻撃を行う</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_KILL_UNIT</zType>
@@ -2666,6 +2869,7 @@
 		<zh-CN>死亡</zh-CN>
 		<pt-BR>Morre</pt-BR>
 		<ko>사망</ko>
+		<fixja>死亡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REVEAL_RANGE</zType>
@@ -2679,6 +2883,7 @@
 		<zh-CN>显示{0_dist}{singular_0:图块:图块}内的地图</zh-CN>
 		<pt-BR>Revela o mapa a {0_dist} {singular_0:casa:casas} de distância</pt-BR>
 		<ko>{0_dist}{singular_0:타일:타일} 안에 있는 맵 드러냄</ko>
+		<fixja>{0_dist}{singular_0:タイル:タイル}内のマップを開拓</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHANGE_BUILD_TURNS</zType>
@@ -2692,6 +2897,7 @@
 		<zh-CN>{2_improvement}的建造回合数{true_0:增加:减少}{1_value}</zh-CN>
 		<pt-BR>{true_0:Aumenta:Diminui} os turnos de construção em {1_value} para {2_improvement}</pt-BR>
 		<ko>{2_improvement}의 건설 턴 {1_value} {true_0:증가:감소}</ko>
+		<fixja>{2_improvement}の建築に要するターンが{1_value}ターン延長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_VEGETATION</zType>
@@ -2705,6 +2911,7 @@
 		<zh-CN>在{1_tile}设置{0_vegetation}</zh-CN>
 		<pt-BR>Colocar {0_vegetation} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 {0_vegetation} 배치</ko>
+		<fixja>{1_tile}に{0_vegetation}を設置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_TERRAIN</zType>
@@ -2718,6 +2925,7 @@
 		<zh-CN>在{1_tile}设置{0_terrain}</zh-CN>
 		<pt-BR>Colocar {0_terrain} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 {0_terrain} 배치</ko>
+		<fixja>{1_tile}に{0_terrain}を設置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_HEIGHT</zType>
@@ -2731,6 +2939,7 @@
 		<zh-CN>在{1_tile}设置{0_height}</zh-CN>
 		<pt-BR>Colocar {0_height} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 {0_height} 설정</ko>
+		<fixja>{1_tile}に{0_height}を設置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_RESOURCE</zType>
@@ -2744,6 +2953,7 @@
 		<zh-CN>在{1_tile}设置{0_resource}</zh-CN>
 		<pt-BR>Colocar {0_resource} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 {0_resource} 배치</ko>
+		<fixja>{1_tile}に{0_resource}を設置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_IMPROVEMENT</zType>
@@ -2757,6 +2967,7 @@
 		<zh-CN>在{1_tile}设置{0_improvement}</zh-CN>
 		<pt-BR>Colocar {0_improvement} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 {0_improvement} 배치</ko>
+		<fixja>{1_tile}に{0_improvement}を設置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SET_SPECIALIST</zType>
@@ -2770,6 +2981,7 @@
 		<zh-CN>在{1_tile}设置{0_specialist}</zh-CN>
 		<pt-BR>Colocar {0_specialist} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 {0_specialist} 배치</ko>
+		<fixja>{1_tile}に{0_specialist}を設置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REMOVE_VEGETATION</zType>
@@ -2783,6 +2995,7 @@
 		<zh-CN>移除{1_tile}的{0_vegetation}</zh-CN>
 		<pt-BR>Remover {0_vegetation} de {1_tile}</pt-BR>
 		<ko>{1_tile}에서 {0_vegetation} 제거</ko>
+		<fixja>{1_tile}から{0_vegetation}を除去</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CLEAR_RESOURCE</zType>
@@ -2796,6 +3009,7 @@
 		<zh-CN>清空{1_tile}上的{0_resource}</zh-CN>
 		<pt-BR>Remover {0_resource} de {1_tile}</pt-BR>
 		<ko>{1_tile}에서 {0_resource} 제거</ko>
+		<fixja>{1_tile}から{0_resource}を消去</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CLEAR_IMPROVEMENT</zType>
@@ -2809,6 +3023,7 @@
 		<zh-CN>清除{1_tile}的{0_improvement}</zh-CN>
 		<pt-BR>Remover {0_improvement} de {1_tile}</pt-BR>
 		<ko>{1_tile}에서 {0_improvement} 제거</ko>
+		<fixja>{1_tile}から{0_improvement}を除去</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PILLAGE_IMPROVEMENT</zType>
@@ -2822,6 +3037,7 @@
 		<zh-CN>在{1_tile}掠夺{0_improvement}</zh-CN>
 		<pt-BR>Saquear {0_improvement} em {1_tile}</pt-BR>
 		<ko>{1_tile}에 있는 {0_improvement} 파괴</ko>
+		<fixja>{1_tile}の{0_improvement}を略奪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REPAIR_IMPROVEMENT</zType>
@@ -2835,6 +3051,7 @@
 		<zh-CN>在{1_tile}修复{0_improvement}</zh-CN>
 		<pt-BR>Reparar {0_improvement} sobre {1_tile}</pt-BR>
 		<ko>{1_tile}에 있는 {0_improvement} 복구</ko>
+		<fixja>{1_tile}上の{0_improvement}を修理する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TRIBE_RAID</zType>
@@ -2848,6 +3065,7 @@
 		<zh-CN>来自{2_tile}的{0,1_tribe}{1_improvement}的link(CONCEPT_TRIBE_RAID)</zh-CN>
 		<pt-BR>link(CONCEPT_TRIBE_RAID) vinda de {1,1_improvement} dos {0_tribe} em {2_tile}</pt-BR>
 		<ko>{0,1_tribe}이 {2_tile}에 있는 {1_improvement}에 link(CONCEPT_TRIBE_RAID) 강행</ko>
+		<fixja>{2_tile}の{1_improvement}にて{0,1_tribe}のlink(CONCEPT_TRIBE_RAID)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_THEOLOGY</zType>
@@ -2861,6 +3079,7 @@
 		<zh-CN>{0_player}：解除{1_theology} ({2_religion})</zh-CN>
 		<pt-BR>{0_player}: {1_theology} ({2_religion}) grátis</pt-BR>
 		<ko>{0_player}: 무상 {1_theology} ({2_religion})</ko>
+		<fixja>{0_player}：{1_theology}（{2_religion}）を無償解放</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HOLY_CITY_AGENTS</zType>
@@ -2874,6 +3093,7 @@
 		<zh-CN>{0_player}：在所有圣城释放link(CONCEPT_AGENT)</zh-CN>
 		<pt-BR>{0_player}: link(CONCEPT_AGENT) grátis em todas as Cidades Santas</pt-BR>
 		<ko>{0_player}: 모든 성도에 무상 link(CONCEPT_AGENT)</ko>
+		<fixja>{0_player}：全ての聖都に無償のlink(CONCEPT_AGENT)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>
@@ -2887,6 +3107,7 @@
 		<zh-CN>{0_player}：创立{1_religion}</zh-CN>
 		<pt-BR>{0_player}: funda o {1_religion}</pt-BR>
 		<ko>{0_player}: {1_religion} 설립</ko>
+		<fixja>{0_player}：{1_religion}を設立</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION_END</zType>
@@ -2900,6 +3121,7 @@
 		<zh-CN>{0_player}：结束link(CONCEPT_STATE_RELIGION) ({1_religion})</zh-CN>
 		<pt-BR>{0_player}: desfaz link(CONCEPT_STATE_RELIGION) ({1_religion})</pt-BR>
 		<ko>{0_player}: link(CONCEPT_STATE_RELIGION) 제명 ({1_religion})</ko>
+		<fixja>{0_player}：link(CONCEPT_STATE_RELIGION)（{1_religion}）を廃止</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_TECH</zType>
@@ -2913,6 +3135,7 @@
 		<zh-CN>{0_player}：{1_tech} (科技)</zh-CN>
 		<pt-BR>{0_player}: {1_tech} (tecnologia)</pt-BR>
 		<ko>{0_player}: {1_tech} (기술)</ko>
+		<fixja>{0_player}：{1_tech}（技術）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
@@ -2926,6 +3149,7 @@
 		<zh-CN>{0_player}发现一项新科技：{1_tech}。</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} descobre uma nova tecnologia: {1_tech}</pt-BR>
 		<ko>{0_player}(이)가 새로운 기술을 발견했습니다: {1_tech}</ko>
+		<fixja>{0_player}が新たな技術を発見：{1_tech}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
@@ -2939,6 +3163,7 @@
 		<zh-CN>[{0}]</zh-CN>
 		<pt-BR>[{0}]</pt-BR>
 		<ko>[{0}]</ko>
+		<fixja>［{0}］</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_DELAY</zType>
@@ -2952,6 +3177,7 @@
 		<zh-CN>成为{LIST} (下一个{0_turn})</zh-CN>
 		<pt-BR>torna-se {LIST} ({0_turn} seguinte)</pt-BR>
 		<ko>{LIST} 특성 획득 (다음 {0_turn})</ko>
+		<fixja>{LIST}になる（次の{0_turn}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LIST_WITH_DELAY</zType>
@@ -2965,6 +3191,7 @@
 		<zh-CN>{1_character} {LIST} (下一个{0_turn})</zh-CN>
 		<pt-BR>{LIST} (Próximo {0_turn})</pt-BR>
 		<ko>{LIST} (다음 {0_turn})</ko>
+		<fixja>{1_character} {LIST} (次の{0_turn})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LIST_WITHOUT_DELAY</zType>
@@ -2978,6 +3205,7 @@
 		<zh-CN>{1_character} {LIST}</zh-CN>
 		<pt-BR>{LIST}</pt-BR>
 		<ko>{LIST}</ko>
+		<fixja>{1_character} {LIST}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_WITHOUT_DELAY</zType>
@@ -2991,6 +3219,7 @@
 		<zh-CN>成为 {LIST}</zh-CN>
 		<pt-BR>Se torna {LIST}</pt-BR>
 		<ko>{LIST} 특성 획득</ko>
+		<fixja>{LIST}になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_WITH_DELAY</zType>
@@ -3004,6 +3233,7 @@
 		<zh-CN>成为 {LIST} (下一个{0_turn})</zh-CN>
 		<pt-BR>Se torna {LIST} (Próximo {0_turn})</pt-BR>
 		<ko>{LIST} 특성 획득 (다음 {0_turn})</ko>
+		<fixja>{LIST}になる (()次の{0_turn})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITHOUT_DELAY</zType>
@@ -3017,6 +3247,7 @@
 		<zh-CN>获得 {LIST}</zh-CN>
 		<pt-BR>Obtém {LIST}</pt-BR>
 		<ko>{LIST} 획득</ko>
+		<fixja>{LIST}を獲得</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITH_DELAY</zType>
@@ -3030,6 +3261,7 @@
 		<zh-CN>获得 {LIST} (下一个{0_turn})</zh-CN>
 		<pt-BR>Obtém {LIST} (Próximo {0_turn})</pt-BR>
 		<ko>{LIST} 획득 (다음 {0_turn})</ko>
+		<fixja>{LIST}を獲得 (次の{0_turn})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEM</zType>
@@ -3043,6 +3275,7 @@
 		<zh-CN>获得 {0_trait}</zh-CN>
 		<pt-BR>adquire {0_trait}</pt-BR>
 		<ko>{0_trait} 획득</ko>
+		<fixja>{0_trait}を獲得</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOSES_ITEM</zType>
@@ -3056,6 +3289,7 @@
 		<zh-CN>失去 {0_trait}</zh-CN>
 		<pt-BR>perde {0_trait}</pt-BR>
 		<ko>{0_trait} 상실</ko>
+		<fixja>{0_trait}を失う</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_REPLACES</zType>
@@ -3069,6 +3303,7 @@
 		<zh-CN>取代{0_trait}</zh-CN>
 		<pt-BR>Substitui {0_trait}</pt-BR>
 		<ko>{0_trait} 특성 대체</ko>
+		<fixja>{0_trait}を置き換え</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_OCCURRENCE_START</zType>
@@ -3082,6 +3317,7 @@
 		<zh-CN>{0_occurrence}开始</zh-CN>
 		<pt-BR>{0_occurrence} tem início</pt-BR>
 		<ko>{0_occurrence} 시작</ko>
+		<fixja>{0_occurrence}の始まり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_OCCURRENCE_END</zType>
@@ -3095,6 +3331,7 @@
 		<zh-CN>{0_occurrence}结束</zh-CN>
 		<pt-BR>{0_occurrence} termina</pt-BR>
 		<ko>{0_occurrence} 종료</ko>
+		<fixja>{0_occurrence}の終わり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHARACTER_MISSION_NO_EFFECT</zType>
@@ -3108,6 +3345,7 @@
 		<zh-CN>{0_character}：{1_mission}没有产生效果</zh-CN>
 		<pt-BR>{0_character}: {1_mission} não tem efeito</pt-BR>
 		<ko>{0_character}: {1_mission} 효과 없음</ko>
+		<fixja>{0_character}：{1_mission}の効果なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_CRITICAL</zType>
@@ -3121,6 +3359,7 @@
 		<zh-CN>情况危急！</zh-CN>
 		<pt-BR>Dano crítico!</pt-BR>
 		<ko>치명타!</ko>
+		<fixja>クリティカル！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_CRITICAL_CHANCE</zType>
@@ -3134,6 +3373,7 @@
 		<zh-CN>icon(CRITICAL_STRIKE) {0_criticalPercent}</zh-CN>
 		<pt-BR>icon(CRITICAL_STRIKE) {0_criticalPercent}</pt-BR>
 		<ko>icon(CRITICAL_STRIKE) {0_criticalPercent}</ko>
+		<fixja>icon(CRITICAL_STRIKE) {0_criticalPercent}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_DAMAGE</zType>
@@ -3147,6 +3387,7 @@
 		<zh-CN>-{0_damage}生命值</zh-CN>
 		<pt-BR>-{0_damage} PD</pt-BR>
 		<ko>-{0_damage} HP</ko>
+		<fixja>-{0_damage} HP</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_ENLISTED</zType>
@@ -3160,6 +3401,7 @@
 		<zh-CN>入伍从军！</zh-CN>
 		<pt-BR>Alistado!</pt-BR>
 		<ko>포섭됨!</ko>
+		<fixja>入隊！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACK_ENLIST_CHANCE</zType>
@@ -3173,6 +3415,7 @@
 		<zh-CN>入伍从军：{0_percentChance}</zh-CN>
 		<pt-BR>Alistar: {0_percentChance}</pt-BR>
 		<ko>포섭 확률: {0_percentChance}</ko>
+		<fixja>入隊: {0_percentChance}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_ATTACKED_LOG_DATA</zType>
@@ -3186,6 +3429,7 @@
 		<zh-CN>{0_city}遭到{1,2_owner}{2_unit}的攻击。 {true_3:({3_discontent}):}</zh-CN>
 		<pt-BR>{0_city} foi atacada por uma {2,3_unit} ({1,0_owner}). {true_3:({3_discontent}):}</pt-BR>
 		<ko>{0_city}(이)가 {1,2_owner} {2_unit}에게 공격당했습니다. {true_3:({3_discontent}):}</ko>
+		<fixja>{0_city}が{1,2_owner}の{2_unit}に攻撃されました。 {true_3:({3_discontent}):}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_DAMAGED_OCCURRENCE_LOG_DATA</zType>
@@ -3199,6 +3443,7 @@
 		<zh-CN>{0_city}被{1,1_occurrence}毁坏</zh-CN>
 		<pt-BR>{0_city} sofreu dano devido a {1,1_occurrence}</pt-BR>
 		<ko>{0_city}(이)가 {1,1_occurrence}(으)로 손상되었습니다</ko>
+		<fixja>{0_city}が{1,1_occurrence}によって、損害を受けた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CAMP_DESTROYED_LOG_DATA</zType>
@@ -3212,6 +3457,7 @@
 		<zh-CN>{0_tribe}{1_improvement}已被摧毁</zh-CN>
 		<pt-BR>{1_improvement} dos {0_tribe} destruído</pt-BR>
 		<ko>{0_tribe} {1_improvement}가 소멸되었습니다</ko>
+		<fixja>{0_tribe}の{1_improvement}が破壊されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_RAZED_LOG_DATA</zType>
@@ -3225,6 +3471,7 @@
 		<zh-CN>{0_city}已被夷为平地</zh-CN>
 		<pt-BR>{0_city} foi destruída</pt-BR>
 		<ko>{0_city}(이)가 완전히 괴멸되었습니다</ko>
+		<fixja>{0_city}が壊滅しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_BREACHED_LOG_DATA</zType>
@@ -3238,6 +3485,7 @@
 		<zh-CN>{1_player}攻破了{0_city}</zh-CN>
 		<pt-BR>{0_city} violada por {1_player}</pt-BR>
 		<ko>{1_player}이(가) {0_city} 공략함</ko>
+		<fixja>{0_city}が{1_player}によって破られた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_CAPTURED_LOG_DATA</zType>
@@ -3251,6 +3499,7 @@
 		<zh-CN>{1_player}已占领{0_city}</zh-CN>
 		<pt-BR>{sentencecase:{1,4_player}} tomou {0_city}</pt-BR>
 		<ko>{1_player}에서 {0_city}(을)를 점령했습니다.</ko>
+		<fixja>{0_city}が{1_player}に占拠されました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_YIELD_LEVEL_CHANGE_LOG_DATA</zType>
@@ -3264,6 +3513,7 @@
 		<zh-CN>在{2_city}中，{0_level} {1_yield} {singular_0:等级:等级}</zh-CN>
 		<pt-BR>{0_level} {singular_0:nível:níveis} de {1_yield} em {2_city}</pt-BR>
 		<ko>{2_city}의 {0_level} {1_yield} {singular_0:단계:단계}</ko>
+		<fixja>{2_city}の{0_level} {1_yield} {singular_0:Level:Levels}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_CANCEL_BUILD_LOG_DATA</zType>
@@ -3277,6 +3527,7 @@
 		<zh-CN>已取消在{1_city}的{0_build}</zh-CN>
 		<pt-BR>{1_city} cancelou a construção de: {0_build}</pt-BR>
 		<ko>{1_city}에서 {0_build} 생산이 취소되었습니다.</ko>
+		<fixja>{1_city}での{0_build}がキャンセルされました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_HAPPINESS_CHANGE_LOG_DATA</zType>
@@ -3290,6 +3541,7 @@
 		<zh-CN>在{1_city}的{0_level}link(YIELD_HAPPINESS){singular_0:等级:等级}</zh-CN>
 		<pt-BR>{0_level} {singular_0:Nível:Níveis} de link(YIELD_HAPPINESS) em {1_city}</pt-BR>
 		<ko>{1_city}의 link(YIELD_DISCONTENT): {0_level}{singular_0:단계:단계}</ko>
+		<fixja>(1_city)における(YIELD_HAPPINESS)のレベルは(0_level)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_DISCONTENT_CHANGE_LOG_DATA</zType>
@@ -3303,6 +3555,7 @@
 		<zh-CN>在{1_city}中，{0_level} link(YIELD_DISCONTENT) {singular_0:等级:等级}</zh-CN>
 		<pt-BR>{0_level} {singular_0:Nível:Níveis} de link(YIELD_DISCONTENT) em {1_city}</pt-BR>
 		<ko>{1_city}의 link(YIELD_DISCONTENT): {0_level}{singular_0:단계:단계}</ko>
+		<fixja>{1_city}の{0_level} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_DAMAGED_OCCURRENCE_LOG_DATA</zType>
@@ -3316,6 +3569,7 @@
 		<zh-CN>{0_unit}被{1,1_occurrence}毁坏 (剩余生命值{2})。</zh-CN>
 		<pt-BR>{0,3_unit} sofreu dano devido a {1,1_occurrence} (restam {2_hp} PD).</pt-BR>
 		<ko>{0_unit} 유닛이 {1,1_occurrence}(으)로 손상되었습니다.</ko>
+		<fixja>{0_unit}が{1,1_occurrence}によって、損害を受けた。（残りHP{2}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
@@ -3329,6 +3583,7 @@
 		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}的攻击 (剩余生命值{3})。</zh-CN>
 		<pt-BR>{0,3_unit} foi atacada por {2,1_unit} ({1_owner}) (restam {3_hp} PD).</pt-BR>
 		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 공격당했습니다({3_hp} HP 남음).</ko>
+		<fixja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました。（残りHP{3}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_KILLED_LOG_DATA</zType>
@@ -3342,6 +3597,7 @@
 		<zh-CN>在{2_tile}杀掉{1,2_owner}{0_unit}</zh-CN>
 		<pt-BR>Matou {0_unit} {1,6_owner} em {2_tile}</pt-BR>
 		<ko>{2_tile} 타일에서 {1,2_owner} {0_unit} 유닛 처치</ko>
+		<fixja> {2_tile}にいる{1,2_owner}の{0_unit}を破壊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_CRITICAL_LOG_DATA</zType>
@@ -3355,6 +3611,7 @@
 		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}的link(CONCEPT_CRITICAL_HIT) (剩余生命值{3})。</zh-CN>
 		<pt-BR>{0,3_unit} recebeu link(CONCEPT_CRITICAL_HIT) de {2,1_unit} ({1_owner}) (restam {3_hp} PD).</pt-BR>
 		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 link(CONCEPT_CRITICAL_HIT)를 맞았습니다({3_hp} HP 남음).</ko>
+		<fixja>{0_unit}は、{1,2_owner}の{2_unit}からlink(CONCEPT_CRITICAL_HIT)を受けました。（残りHP{3}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_LOST_LOG_DATA</zType>
@@ -3368,6 +3625,7 @@
 		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}歼灭</zh-CN>
 		<pt-BR>{0,3_unit} foi morta por {2,1_unit} ({1_owner})</pt-BR>
 		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 살해당했습니다</ko>
+		<fixja>{0_unit}は、{1,2_owner}の{2_unit}に撃破されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_CAPTURED_LOG_DATA</zType>
@@ -3381,6 +3639,7 @@
 		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}捕获</zh-CN>
 		<pt-BR>{0,3_unit} capturada por {2,1_unit} ({1_owner})</pt-BR>
 		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 생포당했습니다</ko>
+		<fixja>{0_unit}は、{1,2_owner}の{2_unit}に捕らえられました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_SEEN</zType>
@@ -3394,6 +3653,7 @@
 		<zh-CN>看见敌方的{0_owner}{1_unit}</zh-CN>
 		<pt-BR>{1,3_unit} hostil {0,6_owner} avistada</pt-BR>
 		<ko>적대적인 {0_owner} {1_unit}(이)가 발견되었습니다</ko>
+		<fixja>敵対する{0_owner}の{1_unit}を確認しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_APPLY_EFFECT_UNIT</zType>
@@ -3407,6 +3667,7 @@
 		<zh-CN>+{0_value}</zh-CN>
 		<pt-BR>+{0_value}</pt-BR>
 		<ko>+{0_value}</ko>
+		<fixja>+{0_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_REMOVE_EFFECT_UNIT</zType>
@@ -3420,6 +3681,7 @@
 		<zh-CN>-{0_value}</zh-CN>
 		<pt-BR>-{0_value}</pt-BR>
 		<ko>-{0_value}</ko>
+		<fixja>-{0_value}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_MOVE_CANCELLED</zType>
@@ -3433,6 +3695,7 @@
 		<zh-CN>{0_unit}已取消自动移动</zh-CN>
 		<pt-BR>{0_unit} cancelou o movimento automático</pt-BR>
 		<ko>{0_unit} 유닛이 자동 이동을 취소했습니다.</ko>
+		<fixja>{0_unit}の自動操作がキャンセルされました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LAUNCH_OFFENSIVE</zType>
@@ -3446,6 +3709,7 @@
 		<zh-CN>进攻！</zh-CN>
 		<pt-BR>Ofensiva!</pt-BR>
 		<ko>공격 개시!</ko>
+		<fixja>攻撃開始！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LAUNCH_OFFENSIVE_LOG_DATA</zType>
@@ -3459,6 +3723,7 @@
 		<zh-CN>{0,1_player}{1_unit}发动进攻！</zh-CN>
 		<pt-BR>{1,3_unit} {0,6_player} lança uma ofensiva!</pt-BR>
 		<ko>{0,1_player} {1_unit}(이)가 공격을 개시합니다!</ko>
+		<fixja>{0,1_player}の{1_unit}が攻撃を開始しました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ESTABLISH_THEOLOGY_LOG_DATA</zType>
@@ -3472,6 +3737,7 @@
 		<zh-CN>由{2_player}建立的{0,1_religion}{1_theology}</zh-CN>
 		<pt-BR>{sentencecase:{2,4_player}} estabeleceu {1,1_theology} no {0_religion}</pt-BR>
 		<ko>{2_player}에서 {0,1_religion}의 {1_theology} 신학을 도입했습니다</ko>
+		<fixja>{2_player}によって、{0,1_religion}の{1_theology}が確立されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_TRUCE</zType>
@@ -3485,6 +3751,7 @@
 		<zh-CN>{PLAYER-MISSION}已向你派出一名link(DIPLOMACY_TRUCE)提议的使者。</zh-CN>
 		<pt-BR>{sentencecase:{PLAYER-MISSION,4}} lhe enviou um mensageiro com uma proposta de link(DIPLOMACY_TRUCE).</pt-BR>
 		<ko>{PLAYER-MISSION}(이)가 당신에게 사절을 보내 link(DIPLOMACY_TRUCE) 협정을 제안합니다.</ko>
+		<fixja>{PLAYER-MISSION}はlink(DIPLOMACY_TRUCE)を申し入れるため、あなたに使者を派遣しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_PEACE</zType>
@@ -3498,6 +3765,7 @@
 		<zh-CN>{0_player}已向你派出一名link(DIPLOMACY_PEACE)提议的使者。</zh-CN>
 		<pt-BR>{sentencecase:{PLAYER-MISSION,4}} lhe enviou um mensageiro com uma proposta de link(DIPLOMACY_PEACE).</pt-BR>
 		<ko>{PLAYER-MISSION}(이)가 당신에게 사절을 보내 link(DIPLOMACY_PEACE) 협정을 제안합니다.</ko>
+		<fixja>{PLAYER-MISSION}はlink(DIPLOMACY_PEACE)を申し入れるため、あなたに使者を派遣しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_ALLIANCE</zType>
@@ -3511,6 +3779,7 @@
 		<zh-CN>{PLAYER-MISSION}已向你派出一名link(CONCEPT_ALLIANCE_PLAYER)提议的使者。</zh-CN>
 		<pt-BR>{sentencecase:{PLAYER-MISSION,4}} lhe enviou um mensageiro com uma proposta de link(CONCEPT_ALLIANCE_PLAYER).</pt-BR>
 		<ko>{PLAYER-MISSION}(이)가 당신에게 사절을 보내 link(CONCEPT_ALLIANCE_PLAYER) 협정을 제안합니다.</ko>
+		<fixja>{PLAYER-MISSION}はlink(CONCEPT_ALLIANCE_PLAYER)を申し入れるため、あなたに使者を派遣しました。</fixja>
 	</Entry>
 	<!-- Tile Renderer -->
 	<Entry>
@@ -3525,6 +3794,7 @@
 		<zh-CN>link(CONCEPT_CITY_SITE)</zh-CN>
 		<pt-BR>link(CONCEPT_CITY_SITE)</pt-BR>
 		<ko>link(CONCEPT_CITY_SITE)</ko>
+		<fixja>link(CONCEPT_CITY_SITE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
@@ -3538,6 +3808,7 @@
 		<zh-CN>游戏上传中…</zh-CN>
 		<pt-BR>Fazendo upload da partida...</pt-BR>
 		<ko>게임 업로드 중...</ko>
+		<fixja>ゲームをアップロード中…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_SAVED</zType>
@@ -3551,6 +3822,7 @@
 		<zh-CN>游戏已储存</zh-CN>
 		<pt-BR>Partida salva</pt-BR>
 		<ko>게임 저장됨</ko>
+		<fixja>セーブ完了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FAILED_TO_SAVE</zType>
@@ -3564,6 +3836,7 @@
 		<zh-CN>储存失败</zh-CN>
 		<pt-BR>Erro ao salvar</pt-BR>
 		<ko>저장 실패</ko>
+		<fixja>セーブ失敗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHAT_ALL_TAG</zType>
@@ -3577,6 +3850,7 @@
 		<zh-CN>全部</zh-CN>
 		<pt-BR>TODOS</pt-BR>
 		<ko>전체</ko>
+		<fixja>全て</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
@@ -3590,6 +3864,7 @@
 		<zh-CN>队伍</zh-CN>
 		<pt-BR>TIME</pt-BR>
 		<ko>팀</ko>
+		<fixja>チーム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
@@ -3603,6 +3878,7 @@
 		<zh-CN>{0_fromPlayer}[{1_tag}]：{2_msg}</zh-CN>
 		<pt-BR>{0_fromPlayer}[{1_tag}]: {2_msg}</pt-BR>
 		<ko>{0_fromPlayer}[{1_tag}]: {2_msg}</ko>
+		<fixja>{0_fromPlayer}［{1_tag}］：{2_msg}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOST_NOUN</zType>
@@ -3616,6 +3892,7 @@
 		<zh-CN>发起人</zh-CN>
 		<pt-BR>Anfitrião</pt-BR>
 		<ko>방장</ko>
+		<fixja>ホスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_STUNNED</zType>
@@ -3629,6 +3906,7 @@
 		<zh-CN>晕眩</zh-CN>
 		<pt-BR>Aturdido</pt-BR>
 		<ko>기절</ko>
+		<fixja>気絶</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
@@ -3642,6 +3920,7 @@
 		<zh-CN>尚未卸除前车</zh-CN>
 		<pt-BR>Não Está Armado</pt-BR>
 		<ko>발포 준비되지 않음</ko>
+		<fixja>発射準備が未完了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_REQUIRES_ANCHORED</zType>
@@ -3655,6 +3934,7 @@
 		<zh-CN>需要下锚停泊的船只</zh-CN>
 		<pt-BR>Requer Barco Ancorado</pt-BR>
 		<ko>정박한 배 필요</ko>
+		<fixja>停泊中の船が必要</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_MUST_END_MOVE_ON_LAND</zType>
@@ -3668,6 +3948,7 @@
 		<zh-CN>必须在陆地图块上结束移动</zh-CN>
 		<pt-BR>O movimento deve terminar sobre uma casa de terra</pt-BR>
 		<ko>육상 타일에서 이동을 끝내야 함</ko>
+		<fixja>地上タイル上で移動終了する必要あり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TILE_EVENT</zType>
@@ -3681,6 +3962,7 @@
 		<zh-CN>事件：{0_turns}</zh-CN>
 		<pt-BR>Evento: {0_turns}</pt-BR>
 		<ko>사건: {0_turns}턴</ko>
+		<fixja>イベント：{0_turns}</fixja>
 	</Entry>
 	<!-- Unit -->
 	<Entry>
@@ -3695,6 +3977,7 @@
 		<zh-CN>{0}生命值</zh-CN>
 		<pt-BR>{0_hp} PD</pt-BR>
 		<ko>{0_hp} HP</ko>
+		<fixja>{0} HP</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_LEVEL_UP</zType>
@@ -3708,6 +3991,7 @@
 		<zh-CN>{0}等级</zh-CN>
 		<pt-BR>Nível {0_levelInt}</pt-BR>
 		<ko>{0_levelInt} 레벨</ko>
+		<fixja>{0} LV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_GAIN_XP</zType>
@@ -3721,6 +4005,7 @@
 		<zh-CN>{0}经验值</zh-CN>
 		<pt-BR>{0_xp} EXP</pt-BR>
 		<ko>{0_xp} XP</ko>
+		<fixja>{0} XP</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_TILE_JOIN_CITY</zType>
@@ -3734,6 +4019,7 @@
 		<zh-CN>{0}{1,2_citizenLink}</zh-CN>
 		<pt-BR>{0_populationInt} {1,2_citizenLink}</pt-BR>
 		<ko>{0_populationInt} {1,2_citizenLink}</ko>
+		<fixja>{0} {1,2_citizenLink}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_BURNED_IMPROVEMENT_LOG_DATA</zType>
@@ -3747,6 +4033,7 @@
 		<zh-CN>{0}遭到{1_owner}{2_unit}烧毁</zh-CN>
 		<pt-BR>{2,3_unit} ({1_owner}) queimou: {0_improvement}</pt-BR>
 		<ko>{1_owner} {2_unit}(이)가 {0_improvement}(을)를 불태웠습니다</ko>
+		<fixja>{0}が{1_owner}の{2_unit}に燃やされました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT_LOG_DATA</zType>
@@ -3760,6 +4047,7 @@
 		<zh-CN>{0}遭到{1_owner}{2_unit}掠夺</zh-CN>
 		<pt-BR>{2,3_unit} ({1_owner}) saqueou {0_improvement}</pt-BR>
 		<ko>{1_owner} {2_unit}(이)가 {0_improvement}(을)를 파괴했습니다</ko>
+		<fixja>{0}が{1_owner}の{2_unit}に略奪されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_PILLAGED_OCCURRENCE_LOG_DATA</zType>
@@ -3773,6 +4061,7 @@
 		<zh-CN>{0_improvement}在{2_city}附近被{1,1_occurrence}掠夺</zh-CN>
 		<pt-BR>{0_improvement} sofreu um saque devido a {1,1_occurrence} perto de {2_city}</pt-BR>
 		<ko>{2_city} 근처의 {1,1_occurrence}(으)로 인해{0_improvement}(이)가 파괴되었습니다</ko>
+		<fixja>{2_city}の周辺で、{0_improvement}が{1,1_occurrence}に略奪された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_PILLAGED_NUMBER_OCCURRENCE_LOG_DATA</zType>
@@ -3786,6 +4075,7 @@
 		<zh-CN>{0_value}座改良设施在{2_city}附近被{1,1_occurrence}掠夺</zh-CN>
 		<pt-BR>{0_value} {singular_0:melhoria foi saqueada:melhorias foram saqueadas} devido a {1,1_occurrence} perto de {2_city}</pt-BR>
 		<ko>{2_city} 근처의 {1,1_occurrence}(으)로 인해 {singular_0:시설:시설} {0_value}개가 파괴되었습니다</ko>
+		<fixja>{2_city}の周辺で、{0_value}棟の建設物が{1,1_occurrence}に略奪された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_UNANCHORED_OCCURRENCE_LOG_DATA</zType>
@@ -3799,6 +4089,7 @@
 		<zh-CN>{sentencecase:{0,1_occurrence}}导致{1,1_unit}不再是link(CONCEPT_ANCHORED)状态</zh-CN>
 		<pt-BR>{sentencecase:{0,1_occurrence}} fez com que uma {1,3_unit} já não possa estar link(CONCEPT_ANCHORED,4)</pt-BR>
 		<ko>{sentencecase:{0,1_occurrence}}의 영향으로 {1,1_unit} 유닛이 더는 link(CONCEPT_ANCHORED) 상태가 아닙니다</ko>
+		<fixja>{sentencecase:{0,1_occurrence}}により{1,1_unit}はlink(CONCEPT_ANCHORED)状態ではなくなった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MONEY</zType>
@@ -3812,6 +4103,7 @@
 		<zh-CN>{0_player}的link(CONCEPT_CARAVAN_MISSION)完成：{1_money}</zh-CN>
 		<pt-BR>link(CONCEPT_CARAVAN_MISSION) com {0,4_player} terminada: {1_money}</pt-BR>
 		<ko>{0_player}에 보낸 link(CONCEPT_CARAVAN_MISSION) 완료: {1_money}</ko>
+		<fixja>{0_player}とのlink(CONCEPT_CARAVAN_MISSION)が完了：{1_money}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MEMORY</zType>
@@ -3825,6 +4117,7 @@
 		<zh-CN>{0_player}的{1_memory}：+{2_value}对于{3_value}的好感度 </zh-CN>
 		<pt-BR>{1_memory} em {0_player}: +{2_value} de opinião por {3_value} </pt-BR>
 		<ko>{0_player}에서 {1_memory}: {3_value} 동안 태도 +{2_value}</ko>
+		<fixja>{1_memory}（{0_player}）：{3_value}に評価 +{2_value} </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_RECEIVED_CARAVAN_MISSION</zType>
@@ -3838,6 +4131,7 @@
 		<zh-CN>来自{0_player}的link(CONCEPT_CARAVAN_MISSION)：{1_money}</zh-CN>
 		<pt-BR>link(CONCEPT_CARAVAN_MISSION) vinda {0,6_player}: {1_money}</pt-BR>
 		<ko>{0_player} link(CONCEPT_CARAVAN_MISSION) 완료 및 귀국: {1_money}</ko>
+		<fixja>{0_player}からlink(CONCEPT_CARAVAN_MISSION)が到着：{1_money}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_STUNNED</zType>
@@ -3851,6 +4145,7 @@
 		<zh-CN>晕眩</zh-CN>
 		<pt-BR>Aturdido</pt-BR>
 		<ko>기절</ko>
+		<fixja>気絶</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMMOBILE</zType>
@@ -3864,6 +4159,7 @@
 		<zh-CN>固守</zh-CN>
 		<pt-BR>Imóvel</pt-BR>
 		<ko>이동 불가</ko>
+		<fixja>移動不能</fixja>
 	</Entry>
 	<!-- City -->
 	<Entry>
@@ -3878,6 +4174,7 @@
 		<zh-CN>来自link(YIELD_CULTURE)事件：{0_bonusText}</zh-CN>
 		<pt-BR>Do evento de link(YIELD_CULTURE): {0_bonusText}</pt-BR>
 		<ko>link(YIELD_CULTURE) 사건으로 인한 효과: {0_bonusText}</ko>
+		<fixja>link(YIELD_CULTURE)イベントより: {0_bonusText}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
@@ -3891,6 +4188,7 @@
 		<zh-CN>link(TRIBE_REBELS)已在{1_city}附近建立了一支{0_unit}！</zh-CN>
 		<pt-BR>link(TRIBE_REBELS) criaram {0,1_unit} perto de {1_city}!</pt-BR>
 		<ko>{1_city} 근처에서 link(TRIBE_REBELS)들이 {0,1_unit}(을)를 모았습니다!</ko>
+		<fixja>{1_city}近郊にて、link(TRIBE_REBELS)が{0_unit}を結成させました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_FAMILY_REBEL_UNITS_NEAR_CITY</zType>
@@ -3904,6 +4202,7 @@
 		<zh-CN>{0_family}link(TRIBE_REBELS)，他们对你统治{2_city}的表现感到{1_opinion}，已在城市附近组成{3,1_unit}！</zh-CN>
 		<pt-BR>link(TRIBE_REBELS) da família {0_family}, {1,1_opinion} com o seu governo em {2_city}, criaram uma {3,4_unit} perto da cidade!</pt-BR>
 		<ko>{1_opinion} 상태인 {0_family} 가문의 link(TRIBE_REBELS)이 {2_city} 근처에 {3,1_unit}(을)를 모았습니다!</ko>
+		<fixja>{2_city}の統治を{1_opinion}と評価する{0_family}のlink(TRIBE_REBELS)が、都市近郊にて{3,1_unit}を結成しました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
@@ -3917,6 +4216,7 @@
 		<zh-CN>{0}公民</zh-CN>
 		<pt-BR>{0_populationInt} Cidadão(s)</pt-BR>
 		<ko>시민 {0_populationInt}명</ko>
+		<fixja>市民{0}人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_CITY_HURRY_POPULATION_CITIZENS_COST_ICON</zType>
@@ -3930,6 +4230,7 @@
 		<zh-CN>{0} icon(SPECIALIST)</zh-CN>
 		<pt-BR>{0_populationInt} icon(SPECIALIST)</pt-BR>
 		<ko>{0_populationInt} icon(SPECIALIST)</ko>
+		<fixja>{0} icon(SPECIALIST)</fixja>
 	</Entry>
 	<!-- Player -->
 	<Entry>
@@ -3944,6 +4245,7 @@
 		<zh-CN>成就解锁：{0}</zh-CN>
 		<pt-BR>Conquista desbloqueada: {0_achievement}</pt-BR>
 		<ko>도전 과제 달성: {0_achievement}</ko>
+		<fixja>実績のアンロック：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
@@ -3957,6 +4259,7 @@
 		<zh-CN>资源短缺：花费{0}购买{1}</zh-CN>
 		<pt-BR>Déficit de recursos: gastou-se {0_money} para comprar {1_resource}</pt-BR>
 		<ko>자원 부족: {0_money}를 소비해 {1_resource}(을)를 구매했습니다</ko>
+		<fixja>資源不足：{0}を消費して{1}を購入しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
@@ -3970,6 +4273,7 @@
 		<zh-CN>{0}的任务已取消：{1}</zh-CN>
 		<pt-BR>A missão de {0_character} foi cancelada: {1_mission}</pt-BR>
 		<ko>{0_character}의 임무가 취소되었습니다: {1_mission}</ko>
+		<fixja>{0}のミッションがキャンセル：{1}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
@@ -3983,6 +4287,7 @@
 		<zh-CN>以{1}的价格出售{0}</zh-CN>
 		<pt-BR>Vendeu-se {0_orders} por {1_money}</pt-BR>
 		<ko>{0_orders}을 {1_money}에 판매합니다</ko>
+		<fixja>{0}が{1}で売却されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
@@ -3996,6 +4301,7 @@
 		<zh-CN>{0}已兑换成{1}</zh-CN>
 		<pt-BR>Trocou-se {0_yield} por {1_yield}</pt-BR>
 		<ko>{0_yield}(을)를 {1_yield}(으)로 전환합니다</ko>
+		<fixja>{0}が{1}に変換されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_MAP_REVEALED</zType>
@@ -4009,6 +4315,7 @@
 		<zh-CN>显示{0_tile}附近的地图</zh-CN>
 		<pt-BR>Mapa revelado perto de {0_tile}</pt-BR>
 		<ko>{0_tile} 근처 맵 개척</ko>
+		<fixja>{0_tile}付近のマップが開拓されました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
@@ -4022,6 +4329,7 @@
 		<zh-CN>找不到用户 ID：储存并重新载入，以作为下一名玩家进行游戏。</zh-CN>
 		<pt-BR>ID de usuário não encontrada: salve e recarregue para jogar como o próximo jogador.</pt-BR>
 		<ko>유저 ID를 찾을 수 없습니다. 다음 플레이어로 플레이하려면 저장하고 다시 불러오십시오.</ko>
+		<fixja>ユーザーIDが見つかりません:セーブしてから読み込み直すと、次のプレイヤーとしてプレイできます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
@@ -4035,6 +4343,7 @@
 		<zh-CN>上传失败。请退出游戏，并重新进行你的回合。</zh-CN>
 		<pt-BR>Erro de upload. Por favor, saia e jogue seu turno novamente.</pt-BR>
 		<ko>업로드에 실패했습니다. 돌아가서 턴을 다시 진행하십시오.</ko>
+		<fixja>アップロードに失敗しました。一度終了して、ターンをやり直してください。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
@@ -4048,6 +4357,7 @@
 		<zh-CN>从{2_player}接收了{0_amount}{1_resource}</zh-CN>
 		<pt-BR>Recebido: {0_amount} {1_resource} {2,6_player}</pt-BR>
 		<ko>{2_player}에게서 {1_resource} {0_amount}개를 받았습니다</ko>
+		<fixja>{2_player}から{0_amount}{1_resource}を受け取りました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_UNIT_GIFT_RECIEVED</zType>
@@ -4061,6 +4371,7 @@
 		<zh-CN>从{1_player}接收了{0_unit}</zh-CN>
 		<pt-BR>{sentencecase:{1,4_player}} lhe enviou uma {0,3_unit}</pt-BR>
 		<ko>{1_player}에게서 {0_unit}(을)를 받았습니다</ko>
+		<fixja>{1_player}から{0_unit}を受け取りました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_CITY_GIFT_RECIEVED</zType>
@@ -4074,6 +4385,7 @@
 		<zh-CN>{0_player}已授予你对{1_city}的控制权</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} lhe deu o controle de {1_city}</pt-BR>
 		<ko>{0_player}(이)가 당신에게 {1_city}의 통치를 맡겼습니다</ko>
+		<fixja>{0_player}が、{1_city}の統制権をあなたに与えました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
@@ -4087,6 +4399,7 @@
 		<zh-CN>已对{0_strength}{1}宣战</zh-CN>
 		<pt-BR>Declarou guerra contra {1_tribeOrNation} {0_strength}</pt-BR>
 		<ko>{0_strength} {1_tribeOrNation}에 전쟁을 선포했습니다</ko>
+		<fixja>{1}（{0_strength}）に宣戦布告しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_TRUCE_WITH</zType>
@@ -4100,6 +4413,7 @@
 		<zh-CN>已与{0_strength}{1_player}宣布休战</zh-CN>
 		<pt-BR>Declarou trégua {1,5_player} {0_strength}</pt-BR>
 		<ko>{0_strength} {1_player}(과)와 휴전 협정을 맺었습니다</ko>
+		<fixja>{1_player}（{0_strength}）との停戦宣言しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>
@@ -4113,6 +4427,7 @@
 		<zh-CN>{0_player}赠送{1}未使用的{2_yield}给你</zh-CN>
 		<pt-BR>{sentencecase:{0,4_player}} lhe presenteou com {1_ordersInt} {2_yield} não usada(s)</pt-BR>
 		<ko>{0_player}(이)가 잉여 {2_yield} {1_ordersInt}개를 선물합니다</ko>
+		<fixja>{0_player}が、{1}個の{2_yield}をあなたに送りました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OCCURRENCE_START_LOG_DATA</zType>
@@ -4126,6 +4441,7 @@
 		<zh-CN>{sentencecase:{0,1_occurrence}}已经在{true_2:{2_city}附近:}{true_1:产生:出现}！</zh-CN>
 		<pt-BR>{sentencecase:{0,1_occurrence}} {true_1:teve início:aconteceu}{true_2: perto da cidade de {2_city}:}!</pt-BR>
 		<ko>{sentencecase:{0,1_occurrence}}(이)가 {true_1:시작되었습니다:발생했습니다}!</ko>
+		<fixja>{sentencecase:{0,1_occurrence}}が{true_2: {2_city}付近で{true_1:開始:発生}:}！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OCCURRENCE_END_LOG_DATA</zType>
@@ -4139,6 +4455,7 @@
 		<zh-CN>{sentencecase:{0,1_occurrence}}结束了</zh-CN>
 		<pt-BR>{sentencecase:{0,1_occurrence}} terminou</pt-BR>
 		<ko>{sentencecase:{0,1_occurrence}}(이)가 끝났습니다</ko>
+		<fixja>{sentencecase:{0,1_occurrence}}が終了しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OCCURRENCE_TILE_CHANGE_LOG_DATA</zType>
@@ -4152,6 +4469,7 @@
 		<zh-CN>{sentencecase:{0,1_occurrence}}使 {1_value} 个{singular_1:图块:图块}变为{2_terrainOrHeight}</zh-CN>
 		<pt-BR>{sentencecase:{0,1_occurrence}} fez com que {1_value} {singular_1:casa mudasse:casas mudassem} para {2_terrainOrHeight}</pt-BR>
 		<ko>{0,1_occurrence}의 발생으로 {1_value}개의 {singular_1:타일:타일}이 {2_terrainOrHeight} 지형이 되었음</ko>
+		<fixja>{sentencecase:{0,1_occurrence}}の影響で、{1_value}枚のタイルが{2_terrainOrHeight}に変化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OCCURRENCE_TILE_ADD_LOG_DATA</zType>
@@ -4165,6 +4483,7 @@
 		<zh-CN>{sentencecase:{0,1_occurrence}}已向 {2_value} 个{singular_2:图块:图块}增加{1_vegetationOrResource}</zh-CN>
 		<pt-BR>{sentencecase:{0,1_occurrence}} criou {1_vegetationOrResource} a {2_value} {singular_2:casa:casas}</pt-BR>
 		<ko>{sentencecase:{0,1_occurrence}}(이)가 {2_value} {singular_2:타일:타일}에 {1_vegetationOrResource} 추가</ko>
+		<fixja>{sentencecase:{0,1_occurrence}}により{2_value}タイルに{1_vegetationOrResource}を追加</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_WISDOM_GAIN_1</zType>
@@ -4178,6 +4497,7 @@
 		<zh-CN>{0}最近证明了{masculine_0:他的:她的}良好判断力与洞察力。 {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>Recentemente, {0_character} demonstrou seu bom senso e intuição. {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(이)가 좋은 분별력과 통찰력을 인정받았습니다. {2_ratingName}가 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>近頃、{0}が才覚と洞察力を発揮させています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_WISDOM_GAIN_2</zType>
@@ -4191,6 +4511,7 @@
 		<zh-CN>{0}反省了{masculine_0:他:她}最近的遭遇，并吸取了许多重要的教训。 {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} refletiu sobre suas experiências recentes e aprendeu muitas lições importantes. {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(은)는 자신의 경험을 반성하며 중요한 교훈을 많이 배웠습니다. {2_ratingName}가 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>{0}は最近経験したことを振り返り、大切な教訓を自身のものとしています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_WISDOM_LOSS_1</zType>
@@ -4204,6 +4525,7 @@
 		<zh-CN>{0}最近的行动令人怀疑{masculine_0:他的:她的}判断是否正确合理。 {masculine_0:他:她}失去了{1}{2}。</zh-CN>
 		<pt-BR>As ações recentes de {0_character} fizeram com que os demais questionassem a falta de bom senso {masculine_0:dele:dela}. {masculine_0:Ele:Ela} perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(은)는 최근 판단력에 의심이 갈 만한 행동을 저질렀습니다. {2_ratingName}를 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>最近の{0}の行いは、{masculine_0:彼の:彼女の}判断における堅実性を疑わせるものがあります。{masculine_0:彼:彼女}は{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_WISDOM_LOSS_2</zType>
@@ -4217,6 +4539,7 @@
 		<zh-CN>{0}最近失误连连，许多人开始质疑{masculine_0:他的:她的}判断。 {masculine_0:他:她}失去了{1}{2}。</zh-CN>
 		<pt-BR>Recentemente, {0_character} tem cometido um erro atrás do outro e muitos têm questionado o discernimento {masculine_0:dele:dela}. {masculine_0:Ele:Ela} perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>최근 {0_character}(이)가 연달아 실수하기 시작했고 많은 사람들이 {masculine_0:그:그녀}의 판단력을 의심합니다. {2_ratingName}를 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>近頃、{0}は次から次へと過ちを犯し、多くの人が{masculine_0:彼の:彼女の}判断力を疑い始めています。{masculine_0:彼:彼女}は{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_CHARISMA_GAIN_1</zType>
@@ -4230,6 +4553,7 @@
 		<zh-CN>{0}变得更有自信且更有魅力了。 {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} tem tido mais confiança e charme. {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(은)는 더욱 당당하고 매력적인 사람이 되었습니다. {2_ratingName}이 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>{0}は自信を増し、より魅力的な人物となっています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_CHARISMA_GAIN_2</zType>
@@ -4243,6 +4567,7 @@
 		<zh-CN>凭借着自我肯定与信心，{0}散发出自信的光环。 {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>Com segurança e firmeza, {0_character} transmite uma aura de confiança. {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>여유롭고 적극적인 {0_character}에게서 자신감이 뿜어 나오고 있습니다. {2_ratingName}이 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>{0}は物怖じせず、自己主張も強く、自信に満ち溢れています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_CHARISMA_LOSS_1</zType>
@@ -4256,6 +4581,7 @@
 		<zh-CN>{0}失去了{masculine_0:他的:她的}自信与魅力。 {masculine_0:他:她}失去了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} perdeu um pouco de sua confiança e charme. {masculine_0:Ele:Ela} perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}에게서 자신감과 매력이 조금 사라진 듯합니다. {2_ratingName}을 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>{0}は、自信と魅力の一部を損ねてしまっています。{masculine_0:彼:彼女}は{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_CHARISMA_LOSS_2</zType>
@@ -4269,6 +4595,7 @@
 		<zh-CN>最近发生的事动摇了{0}的自信心，使{masculine_0:他:她}失去了魅力。 {masculine_0:他:她}失去了{1}{2}。</zh-CN>
 		<pt-BR>Eventos recentes abalaram a confiança de {0_character} e fizeram com que {masculine_0:ele:ela} perdesse um pouco de seu charme. {masculine_0:Ele:Ela} perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>최근 일어난 일 때문에 {0_character}의 자신감이 흔들리면서 {masculine_0:그:그녀}의 매력이 줄었습니다. {2_ratingName}을 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>最近の出来事が{0}の自信を揺らがせ、{masculine_0:彼:彼女}は魅力を損ねてしまっています。{masculine_0:彼:彼女}は{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_COURAGE_GAIN_1</zType>
@@ -4282,6 +4609,7 @@
 		<zh-CN>{0}仍然会感到恐惧，就如同任何心智正常的{masculine_0:男人:女人}一样，但不会因此而裹足不前。 {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} sente medo, como qualquer pessoa em sã consciência, porém isso jamais {masculine_0:o:a} impede de agir. {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>평범한 사람처럼 {0_character} 역시 겁을 먹었습니다. 그러나 {masculine_0:그:그녀}는 고작 그런 것으로 멈추지 않습니다. {2_ratingName}가 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>{0}は、まともな{masculine_0:男:女}なら誰でも抱くような恐怖を持ち合わせていますが、恐怖に自身の歩みを止めることは決してありません。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_COURAGE_GAIN_2</zType>
@@ -4295,6 +4623,7 @@
 		<zh-CN>在面对危险时比过去更有自信，{0}获得了{1}{2}。</zh-CN>
 		<pt-BR>Mais confiante do que nunca frente ao perigo, {0_character} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(은)는 위험 앞에서 그 어느 때보다 여유롭습니다. {2_ratingName}가 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>危険に直面してもこれまで以上に自信を持ち、{0}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_COURAGE_LOSS_1</zType>
@@ -4308,6 +4637,7 @@
 		<zh-CN>{0}被恐惧给打败了，且失去了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} foi {masculine_0:tomado:tomada} pelo medo e perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(은)는 공포에 압도되어 {2_ratingName}를 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>{0}は恐怖に呑まれてしまい、{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_COURAGE_LOSS_2</zType>
@@ -4321,6 +4651,7 @@
 		<zh-CN>在最近遭逢危险之后，{0}患了恐惧症，且失去了{1}{2}。</zh-CN>
 		<pt-BR>Depois de passar por situações de perigo recentemente, {0_character} passou a ter novos medos e perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>최근 위험에 처한 후 {0_character}에게는 새로운 공포증이 생겨 {2_ratingName}를 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>近頃、危険に晒されてしまった事が{0}に新たな恐怖症を抱かせ、{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_DISCIPLINE_GAIN_1</zType>
@@ -4334,6 +4665,7 @@
 		<zh-CN>{0}遵守严格的养生方法，坚持最正确的做法，绝不走轻松的捷径。 {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} segue um regime rigoroso, jamais tomando o caminho mais fácil se esse não for o melhor caminho a seguir. {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>엄격한 규칙을 따르는 {0_character}(은)는 최선의 방법이 아닌 이상 절대 편한 길을 택하지 않습니다. {2_ratingName}이 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>{0}は厳しい管理体制に従い、最善手以外の楽な道を決して選びません。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_DISCIPLINE_GAIN_2</zType>
@@ -4347,6 +4679,7 @@
 		<zh-CN>{0}的人生没有过上一天轻松的日子！ {masculine_0:他:她}获得了{1}{2}。</zh-CN>
 		<pt-BR>Não há dia fácil na vida de {0_character}! {masculine_0:Ele:Ela} ganhou {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}의 사전에 대충이라는 단어는 없습니다! {2_ratingName}이 {1_ratingInt} 증가했습니다.</ko>
+		<fixja>{0}の生涯において、安息の日々などありません！ {masculine_0:彼:彼女}は{1} {2}を獲得しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_DISCIPLINE_LOSS_1</zType>
@@ -4360,6 +4693,7 @@
 		<zh-CN>{0}近来更常顺从于{masculine_0:他的:她的}基本欲望。 {masculine_0:他:她}失去了{1}{2}。</zh-CN>
 		<pt-BR>{0_character} tem se deixado levar por seus instintos mais terrenos ultimamente. {masculine_0:Ele:Ela} perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>{0_character}(은)는 최근 원초적인 욕구에 더 자주 굴복하고 있습니다. {2_ratingName}을 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>近頃、{0}は堕落した日々を送ることが多くなってきています。{masculine_0:彼:彼女}は{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_DISCIPLINE_LOSS_2</zType>
@@ -4373,6 +4707,7 @@
 		<zh-CN>{0}变得越来越懒散怠惰，且不再遵循{masculine_0:他的:她的}严格饮食控制与锻炼方法。 {masculine_0:他:她}失去了{1}{2}。</zh-CN>
 		<pt-BR>Cada vez com mais preguiça e desânimo, {0_character} deixou de seguir seu regime rigoroso de dieta e exercício. {masculine_0:Ele:Ela} perdeu {1_ratingInt} {2_ratingName}.</pt-BR>
 		<ko>더욱 나태하고 게을러진 {0_character}(은)는 엄격한 식단 조절과 운동을 그만두었습니다. {2_ratingName}을 {1_ratingInt} 잃었습니다.</ko>
+		<fixja>{0}は、以前にも増して怠惰な無精者となり、厳しい食事療法と運動療法を破るようになっています。{masculine_0:彼:彼女}は{1} {2}を失いました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYINGMP_1</zType>
@@ -4386,6 +4721,7 @@
 		<zh-CN>与其他真人对战</zh-CN>
 		<pt-BR>Lutando contra outros humanos</pt-BR>
 		<ko>다른 사람과 전투</ko>
+		<fixja>対人戦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYINGMP_2</zType>
@@ -4399,6 +4735,7 @@
 		<zh-CN>MP 模式</zh-CN>
 		<pt-BR>Modo MJ</pt-BR>
 		<ko>멀티 플레이 모드</ko>
+		<fixja>マルチプレイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYINGMP_3</zType>
@@ -4412,6 +4749,7 @@
 		<zh-CN>热座模式</zh-CN>
 		<pt-BR>Modo Local</pt-BR>
 		<ko>핫시트 모드</ko>
+		<fixja>ホットシートモード</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYINGSP_1</zType>
@@ -4425,6 +4763,7 @@
 		<zh-CN>战胜 AI</zh-CN>
 		<pt-BR>Conquistando a IA</pt-BR>
 		<ko>AI 정복</ko>
+		<fixja>AI戦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYINGSP_2</zType>
@@ -4438,6 +4777,7 @@
 		<zh-CN>SP 模式</zh-CN>
 		<pt-BR>Modo Um Jogador</pt-BR>
 		<ko>싱글 플레이 모드</ko>
+		<fixja>シングルプレイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_MENUS</zType>
@@ -4451,6 +4791,7 @@
 		<zh-CN>《旧世界》选单</zh-CN>
 		<pt-BR>Menus de Old World</pt-BR>
 		<ko>올드 월드 메뉴</ko>
+		<fixja>Old World メニュー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYING_LEADER</zType>
@@ -4464,6 +4805,7 @@
 		<zh-CN>{0_leader}{1_cognomen}</zh-CN>
 		<pt-BR>{0_leader}, {1_cognomen}</pt-BR>
 		<ko>{1_cognomen} {0_leader}</ko>
+		<fixja>{0_leader}の{1_cognomen}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RICHPRESENCE_PLAYING_NATION</zType>
@@ -4477,5 +4819,6 @@
 		<zh-CN>{0_nation}</zh-CN>
 		<pt-BR>{0_nation}</pt-BR>
 		<ko>{0_nation}</ko>
+		<fixja>{0_nation}</fixja>
 	</Entry>
 </Root>

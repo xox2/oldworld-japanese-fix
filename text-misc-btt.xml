@@ -13,6 +13,7 @@
 		<zh-CN>link(IMPROVEMENT_ESTATES)已建成</zh-CN>
 		<pt-BR>link(IMPROVEMENT_ESTATES) construídas</pt-BR>
 		<ko>link(IMPROVEMENT_ESTATES) 건설</ko>
+		<fixja>link(IMPROVEMENT_ESTATES)の建設</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ESTATES</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>{CITY}经历了乡绅化</zh-CN>
 		<pt-BR>{CITY} está passando por gentrificação</pt-BR>
 		<ko>{CITY}의 빈민가가 고급화되었습니다</ko>
+		<fixja>{CITY}の低所得者居住区は高級化された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HARVEST_WINE</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>收获美酒</zh-CN>
 		<pt-BR>Colher vinho</pt-BR>
 		<ko>포도주 수확</ko>
+		<fixja>豊穣のワイン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_EVENT_RESOURCE_EBONY_BONUS</zType>
@@ -52,6 +55,7 @@
 		<zh-CN>进口黑檀木</zh-CN>
 		<pt-BR>Importar Ébano</pt-BR>
 		<ko>상아 수입</ko>
+		<fixja>エボニーの輸入</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_EVENT_BONUS_RALLY_DEFENSE</zType>
@@ -65,6 +69,7 @@
 		<zh-CN>召集国防军</zh-CN>
 		<pt-BR>Reunir Defesa Nacional</pt-BR>
 		<ko>국가 방어력 소집</ko>
+		<fixja>防衛部隊の結集</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_EVENT_BONUS_RALLY_DEFENSE</zType>
@@ -78,6 +83,7 @@
 		<zh-CN>每损失一个单位，将临时集结新的link(UNIT_MILITIA,2)</zh-CN>
 		<pt-BR>Reúne temporariamente novas link(UNIT_MILITIA,2) para cada unidade perdida.</pt-BR>
 		<ko>잃어버린 유닛 하나마다 일시적으로 새로운 link(UNIT_MILITIA,2)를 소집</ko>
+		<fixja>ユニットを失う度に、一時的に新たなlink(UNIT_MILITIA,2)を呼び集めます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_HARVEST_WINE_HELPTEXT</zType>
@@ -91,6 +97,7 @@
 		<zh-CN>为配偶挑选完美的礼物，满足其对美酒的需求</zh-CN>
 		<pt-BR>Obtenha o presente perfeito para o palato refinado de seu cônjuge.</pt-BR>
 		<ko>배우자의 세련된 포도주 입맛에 맞는 완벽한 선물 구하기</ko>
+		<fixja>洗練されたワインが好きな配偶者にぴったりの贈り物を獲得</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_SCOUTS</zType>
@@ -104,6 +111,7 @@
 		<zh-CN>控制五支link(UNIT_SCOUT,2)</zh-CN>
 		<pt-BR>Controlar cinco link(UNIT_SCOUT,2)</pt-BR>
 		<ko>link(UNIT_SCOUT,2) 유닛 다섯 개를 운용 </ko>
+		<fixja>link(UNIT_SCOUT,2)を5つコントロール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_MILITIA</zType>
@@ -117,6 +125,7 @@
 		<zh-CN>控制五支link(UNIT_MILITIA,2)</zh-CN>
 		<pt-BR>Controlar cinco link(UNIT_MILITIA,2)</pt-BR>
 		<ko>link(UNIT_MILITIA,2) 유닛 다섯 개를 운용</ko>
+		<fixja>link(UNIT_MILITIA,2)を5つコントロール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_MILITIA</zType>
@@ -130,6 +139,7 @@
 		<zh-CN>控制十支link(UNIT_MILITIA,2)</zh-CN>
 		<pt-BR>Controlar dez link(UNIT_MILITIA,2)</pt-BR>
 		<ko>link(UNIT_MILITIA,2) 유닛 열 개를 운용</ko>
+		<fixja>10単位のlink(UNIT_MILITIA,2)をコントロール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_KILL_4_REBELS</zType>
@@ -143,6 +153,7 @@
 		<zh-CN>杀死四个单位</zh-CN>
 		<pt-BR>Matar quatro unidades</pt-BR>
 		<ko>유닛 네 개를 살해</ko>
+		<fixja>4つのユニットを殲滅</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ESTATES</zType>
@@ -156,6 +167,7 @@
 		<zh-CN>控制link(IMPROVEMENT_ESTATES)</zh-CN>
 		<pt-BR>Controlar link(IMPROVEMENT_ESTATES)</pt-BR>
 		<ko>link(IMPROVEMENT_ESTATES)를 보유</ko>
+		<fixja>link(IMPROVEMENT_ESTATES)のコントロール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LOSE_A_CITY</zType>
@@ -169,6 +181,7 @@
 		<zh-CN>失去一座城市</zh-CN>
 		<pt-BR>Perder uma cidade</pt-BR>
 		<ko>도시를 잃다</ko>
+		<fixja>都市を失った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FURIOUS_FAMILY</zType>
@@ -182,6 +195,7 @@
 		<zh-CN>使一个link(CONCEPT_FAMILY) link(OPINIONFAMILY_FURIOUS)</zh-CN>
 		<pt-BR>Deixar uma link(CONCEPT_FAMILY) link(OPINIONFAMILY_FURIOUS)</pt-BR>
 		<ko>link(CONCEPT_FAMILY)을 link(OPINIONFAMILY_FURIOUS) 상태로 만들기</ko>
+		<fixja>link(CONCEPT_FAMILY)をlink(OPINIONFAMILY_FURIOUS)状態にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LAVISH_LIFESTYLE</zType>
@@ -195,6 +209,7 @@
 		<zh-CN>完成一个link(PROJECT_LAVISH_LIFESTYLE)项目</zh-CN>
 		<pt-BR>Completar um projeto de link(PROJECT_LAVISH_LIFESTYLE)</pt-BR>
 		<ko>link(PROJECT_LAVISH_LIFESTYLE) 사업 완료</ko>
+		<fixja>プロジェクト「link(PROJECT_LAVISH_LIFESTYLE)」を完遂する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_3_LAVISH_LIFESTYLE</zType>
@@ -208,6 +223,7 @@
 		<zh-CN>完成三个link(PROJECT_LAVISH_LIFESTYLE)项目</zh-CN>
 		<pt-BR>Completar três projetos de link(PROJECT_LAVISH_LIFESTYLE)</pt-BR>
 		<ko>link(PROJECT_LAVISH_LIFESTYLE) 사업 세 개 완료</ko>
+		<fixja>プロジェクト「link(PROJECT_LAVISH_LIFESTYLE)」を3つ完遂する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_6_LAVISH_LIFESTYLE</zType>
@@ -221,6 +237,7 @@
 		<zh-CN>完成六个link(PROJECT_LAVISH_LIFESTYLE)项目</zh-CN>
 		<pt-BR>Completar seis projetos de link(PROJECT_LAVISH_LIFESTYLE)</pt-BR>
 		<ko>link(PROJECT_LAVISH_LIFESTYLE) 사업 여섯 개 완료</ko>
+		<fixja>プロジェクト「link(PROJECT_LAVISH_LIFESTYLE)」を6つ完遂する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_LAVISH_LIFESTYLE_HELPTEXT</zType>
@@ -234,6 +251,7 @@
 		<zh-CN>link(PROJECT_LAVISH_LIFESTYLE)需要一个link(IMPROVEMENT_ESTATES) link(CONCEPT_IMPROVEMENT)</zh-CN>
 		<pt-BR>A link(PROJECT_LAVISH_LIFESTYLE) exige uma link(CONCEPT_IMPROVEMENT) de link(IMPROVEMENT_ESTATES).</pt-BR>
 		<ko>link(PROJECT_LAVISH_LIFESTYLE)은 link(IMPROVEMENT_ESTATES) link(CONCEPT_IMPROVEMENT) 필요</ko>
+		<fixja>link(PROJECT_LAVISH_LIFESTYLE)を完遂するには、link(IMPROVEMENT_ESTATES)のlink(CONCEPT_IMPROVEMENT)が必要</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_ESTATES_HELPTEXT</zType>
@@ -247,6 +265,7 @@
 		<zh-CN>link(IMPROVEMENT_ESTATES)需要link(EFFECTCITY_LUXURY)进行link(CONCEPT_IMPROVEMENT,1)</zh-CN>
 		<pt-BR>link(IMPROVEMENT_ESTATES) são link(CONCEPT_IMPROVEMENT,2) que exigem link(EFFECTCITY_LUXURY).</pt-BR>
 		<ko>link(IMPROVEMENT_ESTATES)는 link(EFFECTCITY_LUXURY)이 필요한 link(CONCEPT_IMPROVEMENT,1)</ko>
+		<fixja>link(IMPROVEMENT_ESTATES)は、link(EFFECTCITY_LUXURY)のlink(CONCEPT_IMPROVEMENT,1)が必要</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TAKE_HANGING_GARDENS</zType>
@@ -260,6 +279,7 @@
 		<zh-CN>拥有空中花园</zh-CN>
 		<pt-BR>Possui os Jardins Suspensos</pt-BR>
 		<ko>공중 정원 점유</ko>
+		<fixja>「空中庭園」の所有</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TAKE_CITY</zType>
@@ -273,6 +293,7 @@
 		<zh-CN>拥有城市</zh-CN>
 		<pt-BR>Possui cidade</pt-BR>
 		<ko>도시 점유</ko>
+		<fixja>所有している都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KILL_CHARACTER</zType>
@@ -286,6 +307,7 @@
 		<zh-CN>杀死此角色</zh-CN>
 		<pt-BR>Mate este personagem</pt-BR>
 		<ko>이 인물 살해</ko>
+		<fixja>このキャラクターを殺す</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KILL_CHARACTER_HELPTEXT</zType>
@@ -299,6 +321,7 @@
 		<zh-CN>link(MISSION_PLOT_MURDER)已添加至你的领袖任务中</zh-CN>
 		<pt-BR>link(MISSION_PLOT_MURDER) foi adicionada às missões do líder</pt-BR>
 		<ko>link(MISSION_PLOT_MURDER)이 지도자의 임무에 추가됨</ko>
+		<fixja>指導者のミッションに「link(MISSION_PLOT_MURDER)」が追加された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACCEPT_KILL_CHARACTER_HELPTEXT</zType>
@@ -312,6 +335,7 @@
 		<zh-CN>link(MISSION_PLOT_MURDER)将添加至你的领袖任务中</zh-CN>
 		<pt-BR>Missão de link(MISSION_PLOT_MURDER) adicionada às missões do líder</pt-BR>
 		<ko>link(MISSION_PLOT_MURDER)이 지도자의 임무에 추가될 예정임</ko>
+		<fixja>link(MISSION_PLOT_MURDER)が指導者のミッションに追加される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RISING_STAR</zType>
@@ -325,6 +349,7 @@
 		<zh-CN>崛起的新星</zh-CN>
 		<pt-BR>Estrela em Ascensão</pt-BR>
 		<ko>떠오르는 별</ko>
+		<fixja>有望株</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RISING_STAR_F</zType>
@@ -338,6 +363,7 @@
 		<zh-CN>崛起的新星</zh-CN>
 		<pt-BR>Estrela em Ascensão</pt-BR>
 		<ko>떠오르는 별</ko>
+		<fixja>有望株</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HIGH_STRUNG</zType>
@@ -351,6 +377,7 @@
 		<zh-CN>高度紧张</zh-CN>
 		<pt-BR>Tenso</pt-BR>
 		<ko>예민한</ko>
+		<fixja>苛立ち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HIGH_STRUNG_F</zType>
@@ -364,6 +391,7 @@
 		<zh-CN>高度紧张</zh-CN>
 		<pt-BR>Tensa</pt-BR>
 		<ko>예민한</ko>
+		<fixja>苛立ち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THE_UNCROWNED_NICKNAME</zType>
@@ -377,6 +405,7 @@
 		<zh-CN>未加冕的国王</zh-CN>
 		<pt-BR>o Rei sem Coroa</pt-BR>
 		<ko>대관식을 올리지 못한 왕</ko>
+		<fixja>無冠の王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THE_UNCROWNED_NICKNAME_F</zType>
@@ -390,6 +419,7 @@
 		<zh-CN>未加冕的王后</zh-CN>
 		<pt-BR>a Rainha sem Coroa</pt-BR>
 		<ko>대관식을 올리지 못한 여왕</ko>
+		<fixja>無冠の女王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RISING_STAR_NICKNAME</zType>
@@ -403,6 +433,7 @@
 		<zh-CN>崛起的新星</zh-CN>
 		<pt-BR>a Estrela em Ascensão</pt-BR>
 		<ko>떠오르는 별</ko>
+		<fixja>有望株</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RISING_STAR_NICKNAME_F</zType>
@@ -416,6 +447,7 @@
 		<zh-CN>崛起的新星</zh-CN>
 		<pt-BR>a Estrela em Ascensão</pt-BR>
 		<ko>떠오르는 별</ko>
+		<fixja>有望株</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SHARED_POWER</zType>
@@ -429,6 +461,7 @@
 		<zh-CN>共享资源</zh-CN>
 		<pt-BR>Poder Compartilhado</pt-BR>
 		<ko>권력 공유</ko>
+		<fixja>力の分かち合い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PARANOID</zType>
@@ -442,6 +475,7 @@
 		<zh-CN>偏执狂</zh-CN>
 		<pt-BR>Paranóia</pt-BR>
 		<ko>편집증</ko>
+		<fixja>偏執症</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_COUNCIL_VIZIER</zType>
@@ -455,6 +489,7 @@
 		<zh-CN>首席大臣执政</zh-CN>
 		<pt-BR>Governo do Grão-vizir</pt-BR>
 		<ko>대재상 통치</ko>
+		<fixja>大宰相の統治</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PALATIAL_ESTATES</zType>
@@ -468,6 +503,7 @@
 		<zh-CN>宏伟庄园</zh-CN>
 		<pt-BR>Propriedades Palacianas</pt-BR>
 		<ko>궁전 영지</ko>
+		<fixja>壮麗なる私有地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ESTATES</zType>
@@ -481,6 +517,7 @@
 		<zh-CN>庄园</zh-CN>
 		<pt-BR>Propriedades Patrimoniais</pt-BR>
 		<ko>영지</ko>
+		<fixja>私有地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_ESTATES</zType>
@@ -494,6 +531,7 @@
 		<zh-CN>庄园</zh-CN>
 		<pt-BR>Propriedades Patrimoniais</pt-BR>
 		<ko>영지</ko>
+		<fixja>領地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SLUMS</zType>
@@ -507,6 +545,7 @@
 		<zh-CN>贫民窟</zh-CN>
 		<pt-BR>Favelas</pt-BR>
 		<ko>빈민가</ko>
+		<fixja>スラム街</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_SLUMS</zType>
@@ -520,6 +559,7 @@
 		<zh-CN>贫民窟</zh-CN>
 		<pt-BR>Favelas</pt-BR>
 		<ko>빈민가</ko>
+		<fixja>スラム街</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PALATIAL_ESTATES_HELP</zType>
@@ -533,6 +573,7 @@
 		<zh-CN>最富有的城市也是物价最高的城市。</zh-CN>
 		<pt-BR>As cidades mais ricas também são as mais caras.</pt-BR>
 		<ko>제일 부자 도시는 제일 비싸기도 합니다.</ko>
+		<fixja>裕福な都市ほど高い。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_DECADENT_LUXURY</zType>
@@ -546,6 +587,7 @@
 		<zh-CN>放纵的奢华</zh-CN>
 		<pt-BR>Opulência Hedonística</pt-BR>
 		<ko>쾌락주의적 풍요</ko>
+		<fixja>享楽的な暮らし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DECADENT_LUXURY</zType>
@@ -559,6 +601,7 @@
 		<zh-CN>富裕显赫</zh-CN>
 		<pt-BR>Opulência Esplendorosa</pt-BR>
 		<ko>화려한 풍요</ko>
+		<fixja>羨望の的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_DECADENT_LUXURY</zType>
@@ -572,6 +615,7 @@
 		<zh-CN>放纵的生活方式令世人羡慕。</zh-CN>
 		<pt-BR>Um estilo de vida cheio de indulgência invejado pelo mundo!</pt-BR>
 		<ko>세상의 부러움을 사는 탐닉의 생활 방식입니다.</ko>
+		<fixja>世界が羨む贅沢な生活様式。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LAVISH_LIFESTYLE</zType>
@@ -585,6 +629,7 @@
 		<zh-CN>富裕</zh-CN>
 		<pt-BR>Opulência</pt-BR>
 		<ko>풍요</ko>
+		<fixja>羨望の的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SACRED_OBELISKS</zType>
@@ -598,6 +643,7 @@
 		<zh-CN>方尖碑</zh-CN>
 		<pt-BR>Obeliscos</pt-BR>
 		<ko>오벨리스크</ko>
+		<fixja>オベリスク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BUCOLIC_REPUTATION</zType>
@@ -611,6 +657,7 @@
 		<zh-CN>乡间声誉</zh-CN>
 		<pt-BR>Reputação Bucólica</pt-BR>
 		<ko>전원적 명성</ko>
+		<fixja>田舎暮らしの評判</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AUSTERITY</zType>
@@ -624,6 +671,7 @@
 		<zh-CN>节俭</zh-CN>
 		<pt-BR>Austeridade</pt-BR>
 		<ko>금욕</ko>
+		<fixja>緊縮財政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MUSICAL_TRADITION</zType>
@@ -637,6 +685,7 @@
 		<zh-CN>音乐传统</zh-CN>
 		<pt-BR>Tradição Musical</pt-BR>
 		<ko>음악적 전통</ko>
+		<fixja>音楽の伝統</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LUMBER_IMPORTS</zType>
@@ -650,6 +699,7 @@
 		<zh-CN>木材进口</zh-CN>
 		<pt-BR>Importar Madeira</pt-BR>
 		<ko>목재 수입품</ko>
+		<fixja>木材の輸入</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HUNTING_TRADITION</zType>
@@ -663,6 +713,7 @@
 		<zh-CN>狩猎传统</zh-CN>
 		<pt-BR>Tradição de Caça</pt-BR>
 		<ko>사냥의 전통</ko>
+		<fixja>狩猟の伝統</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNCOOPERATIVE_POPULACE</zType>
@@ -676,6 +727,7 @@
 		<zh-CN>拒绝合作的民众</zh-CN>
 		<pt-BR>População Insubordinada</pt-BR>
 		<ko>비협조적인 대중</ko>
+		<fixja>非協力的な者たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_SEIZE_THE_THRONE</zType>
@@ -689,6 +741,7 @@
 		<zh-CN>夺取王位</zh-CN>
 		<pt-BR>Tomar o Trono</pt-BR>
 		<ko>왕좌 탈환</ko>
+		<fixja>王座の奪取</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_SEIZE_THE_THRONE_F</zType>
@@ -702,6 +755,7 @@
 		<zh-CN>夺取王位</zh-CN>
 		<pt-BR>Tomar o Trono</pt-BR>
 		<ko>왕좌 탈환</ko>
+		<fixja>王座の奪取</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SEIZE_THE_THRONE</zType>
@@ -735,6 +789,9 @@ Os indivíduos mais preparados e determinados podem até mesmo chegar a declarar
 		<ko>[link(CONCEPT_BEHIND_THE_THRONE) 개념] link(CONCEPT_SUCCESSION) 대상자만 왕좌에 도전할 수 있는 것은 아닙니다. 다른 인물들도 지도자를 끌어내리고 자신의 왕조를 설립할 수 있습니다.link(TRAIT_RISING_STAR)가 당신의 통치에 불만을 느껴 경험치(link(CONCEPT_XP))를 쌓아 왕좌를 차지하려고 시도할 수 있고, link(TRAIT_POWER_HUNGRY) 인물들은 당신의 통치가 link(TRAIT_UNPOPULAR) 상태일 때 기회를 엿볼지도 모릅니다.
 		
 제일 준비돼 있고 결단력 있는 자들은 원하는 것을 얻으려고 link(OCCURRENCE_CIVIL_WAR)을 일으킬 수도 있습니다.</ko>
+		<fixja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］ 本DLCでは、王座の陰にいる者だけでなく、国のlink(CONCEPT_SUCCESSION)権を持つ者と王位を争うことになります。他のキャラクターたちも指導者を追い落として、自ら王朝を築こうとします。特に「link(TRAIT_RISING_STAR)」と呼ばれる者たちは、あなたの治世に不満を抱くと、その王位を奪取しようとするかもしれません。また、link(TRAIT_POWER_HUNGRY)の強い人物は、指導者がlink(TRAIT_UNPOPULAR)となる機会を窺い、その隙を突こうとするでしょう。
+                
+周到に準備を整え、決意を固めた者たちは、自らの主張を確固たるものとするためならば、link(OCCURRENCE_CIVIL_WAR)を起こすことも厭わないでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_MENTAL_STRAIN</zType>
@@ -748,6 +805,7 @@ Os indivíduos mais preparados e determinados podem até mesmo chegar a declarar
 		<zh-CN>心理压力</zh-CN>
 		<pt-BR>Desgaste Metal</pt-BR>
 		<ko>정신적 부담</ko>
+		<fixja>精神的緊張</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_MENTAL_STRAIN_F</zType>
@@ -761,6 +819,7 @@ Os indivíduos mais preparados e determinados podem até mesmo chegar a declarar
 		<zh-CN>心理压力</zh-CN>
 		<pt-BR>Desgaste Metal</pt-BR>
 		<ko>정신적 부담</ko>
+		<fixja>精神的緊張</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_MENTAL_STRAIN</zType>
@@ -794,6 +853,9 @@ link(TRAIT_STRESSED)可能会随着时间而消失，但更可靠的消除方法
 		<ko>[link(CONCEPT_BEHIND_THE_THRONE) 개념] 사건으로 인해 지도자가 link(TRAIT_STRESSED) 상태가 될 수 있습니다. 압박감은 통치하고 명령하는 능력을 떨어뜨리고 link(YIELD_SCIENCE), link(YIELD_CIVICS), link(YIELD_MONEY)의 수급이 줄어들며 link(MISSION_INFLUENCE)를 사용할 수 없습니다.
 		
 link(TRAIT_STRESSED) 상태는 시간이 흐르면서 사라질 수도 있지만, 확실히 없애는 방법은 link(MISSION_REVEL)이며, 지도자를 선택하고 왼쪽 아래 행동 창에서 선택할 수 있습니다.</ko>
+		<fixja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］ 特定のイベントが発生したとき、指導者がlink(TRAIT_STRESSED)を抱えることがあります。ストレスを受けると、統治及び指揮能力が低下し、特にlink(YIELD_SCIENCE)やlink(YIELD_CIVICS)、link(YIELD_MONEY)などが減少します。また、link(MISSION_INFLUENCE)も利用できなくなります。
+                
+時とともにlink(TRAIT_STRESSED)が解消されることもありますが、「link(MISSION_REVEL)」ことでより確実にlink(TRAIT_STRESSED)を消すことができるでしょう。（link(MISSION_REVEL)：画面左下にあるアクションパネルから選択できます）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_POWERFUL_RIVALS</zType>
@@ -807,6 +869,7 @@ link(TRAIT_STRESSED) 상태는 시간이 흐르면서 사라질 수도 있지만
 		<zh-CN>强劲对手</zh-CN>
 		<pt-BR>Rival Poderoso~Rivais Poderosos</pt-BR>
 		<ko>강력한 정적</ko>
+		<fixja>強力なライバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_POWERFUL_RIVALS_F</zType>
@@ -820,6 +883,7 @@ link(TRAIT_STRESSED) 상태는 시간이 흐르면서 사라질 수도 있지만
 		<zh-CN>强劲对手</zh-CN>
 		<pt-BR>Rival Poderosa~Rivais Poderosas</pt-BR>
 		<ko>강력한 정적</ko>
+		<fixja>強力なライバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_POWERFUL_RIVALS</zType>
@@ -861,6 +925,9 @@ Ambos os tipos de rival podem ser prejudicados pela (talvez arrisacada) missão 
 
 두 정적은 위험 부담이 있는 link(MISSION_SCHEME_AGAINST_RIVAL) 임무로 방해할 수 있으며 당신이 심각하게 link(TRAIT_UNPOPULAR) 상태가 아니어야 합니다.		
 		</ko>
+		<fixja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］ link(TRAIT_RISING_STAR)は、多くの者たちから偉大なことを成し遂げると、未来を嘱望されているキャラクターです。link(TRAIT_RISING_STAR)はlink(CONCEPT_XP)を獲得していくと、国に大きな恩恵をもたらすこともあれば、玉座を奪う脅威にもなり得るでしょう。link(COUNCIL_GRAND_VIZIER)は、link(TRAIT_RISING_STAR)とはまた別種のライバルです。妥協して招くこともあれば、自国に多大な技術的利益をもたらす存在として招くこともあるでしょう。
+
+どちらも、あなたが極端にlink(TRAIT_UNPOPULAR)でない限り、ミッション「link(MISSION_SCHEME_AGAINST_RIVAL)」によって退けることができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_OPULENCE</zType>
@@ -874,6 +941,7 @@ Ambos os tipos de rival podem ser prejudicados pela (talvez arrisacada) missão 
 		<zh-CN>富裕显赫</zh-CN>
 		<pt-BR>Opulência Esplendorosa</pt-BR>
 		<ko>화려한 풍요</ko>
+		<fixja>羨望の的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_OPULENCE_F</zType>
@@ -887,6 +955,7 @@ Ambos os tipos de rival podem ser prejudicados pela (talvez arrisacada) missão 
 		<zh-CN>富裕显赫</zh-CN>
 		<pt-BR>Opulência Esplendorosa</pt-BR>
 		<ko>화려한 풍요</ko>
+		<fixja>羨望の的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_OPULENCE</zType>
@@ -928,6 +997,9 @@ Para desbloquear a habilidade de construir link(IMPROVEMENT_ESTATES), envie link
 
 link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 icon(LuxuryUp) 버튼으로 도시에 link(CONCEPT_LUXURY)을 보내야 합니다.
 	</ko>
+		<fixja>［『link(CONCEPT_BEHIND_THE_THRONE)』の概要］ プロジェクト「link(PROJECT_LAVISH_LIFESTYLE)」を実行することで、あなたの国は世界中の羨望の的となります。link(PROJECT_LAVISH_LIFESTYLE)となった場合、link(CONCEPT_VICTORY_POINT,2)が加算されます。しかし、このプロジェクトは費用がかさむだけでなく、link(IMPROVEMENT_ESTATES)がある都市でしか行えません。
+
+建設機能である「link(IMPROVEMENT_ESTATES)」をアンロックするには、都市画面のicon(LuxuryUp)ボタンを押して、その都市にlink(CONCEPT_LUXURY)を送りましょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_BEHIND_THE_THRONE</zType>
@@ -941,6 +1013,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>王冠的阴影</zh-CN>
 		<pt-BR>Por Trás do Trono</pt-BR>
 		<ko>왕좌의 흑막</ko>
+		<fixja>玉座の陰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_BEHIND_THE_THRONE_F</zType>
@@ -954,6 +1027,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>王冠的阴影</zh-CN>
 		<pt-BR>Por Trás do Trono</pt-BR>
 		<ko>왕좌의 흑막</ko>
+		<fixja>玉座の陰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_BEHIND_THE_THRONE</zType>
@@ -967,6 +1041,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>王室岌岌可危。贵族们在戒备森严的link(IMPROVEMENT_ESTATES)密谋，心怀不满的人聚集在四处的link(IMPROVEMENT_SLUMS)意图不轨。在这个动荡的时代，谁敢link(CONCEPT_SEIZE_THE_THRONE)？</zh-CN>
 		<pt-BR>A posse da coroa está sempre por um fio. Os nobres planejam seus esquemas de suas link(IMPROVEMENT_ESTATES) bem protegidas e os desafetos se acumulam ameaçadoramente nas link(IMPROVEMENT_SLUMS) da nação. Com a chegada de tempos turbulentos, quem ousará link(CONCEPT_SEIZE_THE_THRONE)?</pt-BR>
 		<ko>왕좌가 불안정합니다. 귀족들은 link(IMPROVEMENT_ESTATES)에서 계략을 꾸미고, 불만을 느끼는 자들은 음산한 기운을 풍기며 link(IMPROVEMENT_SLUMS)에 모입니다. 역동의 시기가 오면 누가 link(CONCEPT_SEIZE_THE_THRONE)을 시도할까요?</ko>
+		<fixja>重々しげに置かれている王冠。貴族たちは保護されたlink(IMPROVEMENT_ESTATES)で陰謀を巡らし、国に不満を抱く者たちはlink(IMPROVEMENT_SLUMS)へと集っていた。この荒れ狂う時代に、誰が玉座を奪う勇気を持てるだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_UNPOPULAR_LEADER_REBELS</zType>
@@ -980,6 +1055,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>你的link(TRAIT_UNPOPULAR)统治已经激怒了{2_city}中的link(TRIBE_REBELS,1)势力，赶快集结附近的{3,1_unit}单位吧！</zh-CN>
 		<pt-BR>Seu governo link(TRAIT_UNPOPULAR) deu forças às forças link(TRIBE_REBELS) em {2_city}, que organizaram uma {3,3_unit} nas redondezas!</pt-BR>
 		<ko>link(TRAIT_UNPOPULAR) 통치로 인해 link(TRIBE_REBELS,1) 세력이 {2_city}에 모여 근처에 {3,1_unit} 유닛을 조직하고 있습니다!</ko>
+		<fixja>あなたのlink(TRAIT_UNPOPULAR)な統治は{2_city}付近のlink(TRIBE_REBELS,1)を勢いづけ、{3,1_unit}が出現した！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SLUMS_REBELS</zType>
@@ -993,6 +1069,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>{2_city}的分裂分子link(TRIBE_REBELS)从link(EFFECTCITY_SLUMS)的叛乱者中招募人手，并在城市附近组建了{3,1_unit}部队！</zh-CN>
 		<pt-BR>link(TRIBE_REBELS) separatistas na cidade de {2_city} recrutaram mais unidades dentre os desafetos nas link(EFFECTCITY_SLUMS) e formaram uma {3,3_unit} perto da cidade!</pt-BR>
 		<ko>{2_city}의 분리주의자 link(TRIBE_REBELS)이 link(EFFECTCITY_SLUMS)에서 불만을 품은 자들을 선발했고, 도시 주변에 {3,1_unit} 부대를 형성했습니다!</ko>
+		<fixja>{2_city}にいる{TRIBE_REBELS}分離派が、link(EFFECTCITY_SLUMS)の不満を持つ者たちから人を集め、都市の近くに{3,1_unit}の部隊を結成した！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CIVIL_WAR_REBELS</zType>
@@ -1006,6 +1083,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>{2_city}中的link(OCCURRENCE_CIVIL_WAR)愈演愈烈，已发现忠于link(TRIBE_REBELS,1)的{3,1_unit}部队！</zh-CN>
 		<pt-BR>A link(OCCURRENCE_CIVIL_WAR) está se intensificando na cidade de {2_city}, onde uma {3,3_unit} leal aos link(TRIBE_REBELS) foi avistada!</pt-BR>
 		<ko>{2_city} 내에서 link(OCCURRENCE_CIVIL_WAR)이 깊어지고, link(TRIBE_REBELS,1)이 있는 {3,1_unit} 부대가 충성을 맹세하는 모습이 목격됐습니다!</ko>
+		<fixja>{2_city}のlink(OCCURRENCE_CIVIL_WAR)が激化するなか、{TRIBE_REBELS,1}に忠誠を誓う{3,1_unit}部隊が目撃された！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMBUSHED_BY_REBELS_GAINED</zType>
@@ -1019,6 +1097,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>随着link(OCCURRENCE_CIVIL_WAR)迅速展开，{0_character}发现自己{1_trait}！</zh-CN>
 		<pt-BR>{0_character} foi {lowercase:{1_trait}} em meio à confusão da link(OCCURRENCE_CIVIL_WAR)!</pt-BR>
 		<ko>link(OCCURRENCE_CIVIL_WAR)이 깊어지자 {0_character}(이)가 {1_trait} 특성을 얻었습니다!</ko>
+		<fixja>激化するlink(OCCURRENCE_CIVIL_WAR)の只中において、{0_character}は自らを{1_trait}だと認識している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CIVIL_WAR_WARNING</zType>
@@ -1032,6 +1111,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>王位的挑战者引起了{0_occurrence}！</zh-CN>
 		<pt-BR>Uma {0_occurrence} está sendo declarada por alguém que desafia seu direito ao trono!</pt-BR>
 		<ko>왕좌에 도전하는 자가 {0_occurrence}(을)를 일으킵니다!</ko>
+		<fixja>王座を狙う者が{0_occurrence}を仕掛けている！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NOT_STRAIGHT</zType>
@@ -1045,6 +1125,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>非直接</zh-CN>
 		<pt-BR>Não Hétero</pt-BR>
 		<ko>이성애자 아님</ko>
+		<fixja>歪み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NOT_STRAIGHT_F</zType>
@@ -1058,6 +1139,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>非直接</zh-CN>
 		<pt-BR>Não Hétero</pt-BR>
 		<ko>이성애자 아님</ko>
+		<fixja>歪み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NOT_STRESSED</zType>
@@ -1071,6 +1153,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>不再link(TRAIT_STRESSED)</zh-CN>
 		<pt-BR>Não está link(TRAIT_STRESSED)</pt-BR>
 		<ko>link(TRAIT_STRESSED) 상태가 아님</ko>
+		<fixja>link(TRAIT_STRESSED)状態には入っていない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NOT_STRESSED_F</zType>
@@ -1084,6 +1167,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>不再link(TRAIT_STRESSED)</zh-CN>
 		<pt-BR>Não está link(TRAIT_STRESSED,F)</pt-BR>
 		<ko>link(TRAIT_STRESSED) 상태가 아님</ko>
+		<fixja>link(TRAIT_STRESSED)状態には入っていない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYER_MOST_VP</zType>
@@ -1097,6 +1181,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>获得最多的link(CONCEPT_VICTORY_POINT,2)</zh-CN>
 		<pt-BR>Controla a maioria dos link(CONCEPT_VICTORY_POINT,2)</pt-BR>
 		<ko>link(CONCEPT_VICTORY_POINT,2)이 제일 높음</ko>
+		<fixja>最大link(CONCEPT_VICTORY_POINT,2)のコントロール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYER_MOST_VP_F</zType>
@@ -1110,6 +1195,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>获得最多的link(CONCEPT_VICTORY_POINT,2)</zh-CN>
 		<pt-BR>Controla a maioria dos link(CONCEPT_VICTORY_POINT,2)</pt-BR>
 		<ko>link(CONCEPT_VICTORY_POINT,2)이 제일 높음</ko>
+		<fixja>最大link(CONCEPT_VICTORY_POINT,2)のコントロール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_TINY</zType>
@@ -1123,6 +1209,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>小家伙</zh-CN>
 		<pt-BR>o Miúdo</pt-BR>
 		<ko>작은 자</ko>
+		<fixja>小さき者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_TINY_F</zType>
@@ -1136,6 +1223,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>小家伙</zh-CN>
 		<pt-BR>a Miúda</pt-BR>
 		<ko>작은 자</ko>
+		<fixja>小さき者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_VIPER</zType>
@@ -1149,6 +1237,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>毒蛇</zh-CN>
 		<pt-BR>a Víbora</pt-BR>
 		<ko>독사</ko>
+		<fixja>毒蛇</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_VIPER_F</zType>
@@ -1162,6 +1251,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>毒蛇</zh-CN>
 		<pt-BR>a Víbora</pt-BR>
 		<ko>독사</ko>
+		<fixja>毒蛇</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_RAVEN</zType>
@@ -1175,6 +1265,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>乌鸦</zh-CN>
 		<pt-BR>o Corvídeo</pt-BR>
 		<ko>까마귀</ko>
+		<fixja>カラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_RAVEN_F</zType>
@@ -1188,6 +1279,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>乌鸦</zh-CN>
 		<pt-BR>a Corvídea</pt-BR>
 		<ko>까마귀</ko>
+		<fixja>カラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_SILVER_TONGUED</zType>
@@ -1201,6 +1293,7 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>演说家</zh-CN>
 		<pt-BR>o Língua Afiada</pt-BR>
 		<ko>유창한 자</ko>
+		<fixja>雄弁家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_SILVER_TONGUED_F</zType>
@@ -1214,5 +1307,6 @@ link(IMPROVEMENT_ESTATES) 건설 기능을 해금하려면 도시 화면에서 i
 		<zh-CN>演说家</zh-CN>
 		<pt-BR>a Língua Afiada</pt-BR>
 		<ko>유창한 자</ko>
+		<fixja>雄弁家</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>获得独家贸易权</zh-CN>
 		<pt-BR>Concedeu direitos exclusivos de comércio</pt-BR>
 		<ko>교역 독점권을 부여했다</ko>
+		<fixja>貿易独占権を認めた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_KEPT_OLD_GRUDGE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>拒绝忘记旧仇</zh-CN>
 		<pt-BR>Recusou-se a esquecer uma disputa antiga</pt-BR>
 		<ko>오랜 원한을 잊지 않기로 했다</ko>
+		<fixja>昔の恨みを忘れることを拒んだ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_FORGAVE_OLD_GRUDGE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>原谅了旧仇</zh-CN>
 		<pt-BR>Perdoou uma disputa antiga</pt-BR>
 		<ko>오랜 원한을 용서했다</ko>
+		<fixja>昔の恨みを許した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_GREATEST_CHARIOT_BATTLE</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>对我们的军事实力刮目相看</zh-CN>
 		<pt-BR>Impressionou-se com nossa destreza militar</pt-BR>
 		<ko>우리의 군사 기량에 감탄했다</ko>
+		<fixja>軍事力の高さに感銘を受けた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_MUTUAL_MILITARY_RESPECT_GRANTED</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>值得一战的对手兼可敬的伙伴</zh-CN>
 		<pt-BR>Oponente digno e companheiro respeitado</pt-BR>
 		<ko>호적수이자 존중하는 동업자</ko>
+		<fixja>好敵手であり頼れる味方</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_MUTUAL_MILITARY_RESPECT_DENIED</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>拒绝和我们互相尊重</zh-CN>
 		<pt-BR>Negou-nos respeito mútuo</pt-BR>
 		<ko>상호 존중을 거절했다</ko>
+		<fixja>我々との相互尊重を否定した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_INSTALLED_OUR_FAMILY</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>扶植我们的家族上位</zh-CN>
 		<pt-BR>Instaurou nossa família no trono</pt-BR>
 		<ko>우리 가문 사람을 왕좌에 앉혔다</ko>
+		<fixja>我々の氏族を王座に据えた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_ANCIENT_SACKING</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>在过去洗劫我们的城市</zh-CN>
 		<pt-BR>Saqueou nossa cidade no passado</pt-BR>
 		<ko>과거에 우리 도시를 약탈했다</ko>
+		<fixja>過去に我々の都市を略奪した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_FORGAVE_OLD_GRUDGE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>原谅了旧仇</zh-CN>
 		<pt-BR>Perdoou uma disputa antiga</pt-BR>
 		<ko>오랜 원한을 용서했다</ko>
+		<fixja>昔の恨みを許した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_KEPT_OLD_GRUDGE</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>拒绝忘记旧仇</zh-CN>
 		<pt-BR>Recusou-se a esquecer uma disputa antiga</pt-BR>
 		<ko>오랜 원한을 잊지 않기로 했다</ko>
+		<fixja>昔の恨みを忘れることを拒んだ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_ANCIENT_USURPER</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>试着扶植篡位者上位</zh-CN>
 		<pt-BR>Tentou instaurar usurpadores em nosso trono</pt-BR>
 		<ko>왕위를 찬탈하려 했다</ko>
+		<fixja>我々の王座に簒奪者を据えようとした</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_NAMED_UNIT_MESEDI_CHARACTER</zType>
@@ -169,5 +180,6 @@
 		<zh-CN>将我们命名为加尔·梅赛迪！</zh-CN>
 		<pt-BR>Nomeou-nos Gal Mesedi</pt-BR>
 		<ko>우리에게 갈 메세디라는 이름을 붙였다</ko>
+		<fixja>メセディ長と命名された</fixja>
 	</Entry>
 </Root>

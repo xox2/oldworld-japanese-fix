@@ -26,6 +26,7 @@
 		<zh-CN>哈图西里</zh-CN>
 		<pt-BR>Hatusil</pt-BR>
 		<ko>하투실리</ko>
+		<fixja>ハットゥシリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE02</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>穆尔西里</zh-CN>
 		<pt-BR>Mursili</pt-BR>
 		<ko>무르실리</ko>
+		<fixja>ムルシリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE03</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>穆瓦塔里</zh-CN>
 		<pt-BR>Muwattalli</pt-BR>
 		<ko>무와탈리</ko>
+		<fixja>ムワタリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE04</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>乌尔希泰舒普</zh-CN>
 		<pt-BR>Urhi-Teshub</pt-BR>
 		<ko>우르히-테슈브</ko>
+		<fixja>ウルヒ・テシュプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE05</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>库伦塔</zh-CN>
 		<pt-BR>Kurunta</pt-BR>
 		<ko>쿠룬타</ko>
+		<fixja>クルンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE06</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>哈尔帕苏鲁皮</zh-CN>
 		<pt-BR>Halpasulupi</pt-BR>
 		<ko>할파술루피</ko>
+		<fixja>ハルパスルピ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE07</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>图达利亚</zh-CN>
 		<pt-BR>Tudhaliya</pt-BR>
 		<ko>투드할리야</ko>
+		<fixja>トゥドハリヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE08</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>阿达德尼拉里</zh-CN>
 		<pt-BR>Adad-Nirari</pt-BR>
 		<ko>아다드-니라리</ko>
+		<fixja>アダド・ニラリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE09</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>拉巴尔那</zh-CN>
 		<pt-BR>Labarnas</pt-BR>
 		<ko>라바르나스</ko>
+		<fixja>ラバルナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE10</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>汉提里</zh-CN>
 		<pt-BR>Hantili</pt-BR>
 		<ko>한틸리</ko>
+		<fixja>ハンティリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE11</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>齐丹塔</zh-CN>
 		<pt-BR>Zidanta</pt-BR>
 		<ko>지단타</ko>
+		<fixja>ツィダンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE12</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>阿蒙纳</zh-CN>
 		<pt-BR>Ammuna</pt-BR>
 		<ko>암무나</ko>
+		<fixja>アンムナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE13</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>铁列平</zh-CN>
 		<pt-BR>Telipinu</pt-BR>
 		<ko>텔리피누</ko>
+		<fixja>テリピヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE14</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>阿鲁瓦玛</zh-CN>
 		<pt-BR>Alluwamma</pt-BR>
 		<ko>알루왐나</ko>
+		<fixja>アッルーワンマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE15</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>胡齐亚</zh-CN>
 		<pt-BR>Huzziya</pt-BR>
 		<ko>후지야</ko>
+		<fixja>ハッツィア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE16</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>阿尔努万</zh-CN>
 		<pt-BR>Arnuwanda</pt-BR>
 		<ko>아르누완다</ko>
+		<fixja>アルヌワンダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE17</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>苏庇卢利乌玛</zh-CN>
 		<pt-BR>Suppiluliuma</pt-BR>
 		<ko>수필룰리우마</ko>
+		<fixja>シュッピルリウマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE18</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>穆瓦答里</zh-CN>
 		<pt-BR>Muwatalli</pt-BR>
 		<ko>무와탈리</ko>
+		<fixja>ムワタリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE19</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>阿比特苏普</zh-CN>
 		<pt-BR>Abbi-Tesup</pt-BR>
 		<ko>아비-테숩</ko>
+		<fixja>アビ・テサップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE20</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>图苏拉塔</zh-CN>
 		<pt-BR>Tusuratta</pt-BR>
 		<ko>투슈라타</ko>
+		<fixja>トゥスラッタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE21</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>阿基亚</zh-CN>
 		<pt-BR>Akia</pt-BR>
 		<ko>아키아</ko>
+		<fixja>アキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE22</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>图尔特苏普</zh-CN>
 		<pt-BR>Tur-Tesup</pt-BR>
 		<ko>투르-테숩</ko>
+		<fixja>トゥル・テサップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE23</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>阿拉克桑都斯</zh-CN>
 		<pt-BR>Alaksandu</pt-BR>
 		<ko>알락산두</ko>
+		<fixja>アラクサンドゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE24</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>杜达利亚</zh-CN>
 		<pt-BR>Dudhalia</pt-BR>
 		<ko>두드할리아</ko>
+		<fixja>デュダリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE25</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>苏塔尔那</zh-CN>
 		<pt-BR>Sutarna</pt-BR>
 		<ko>수타르나</ko>
+		<fixja>スッタルナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_MALE26</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>平琵拉</zh-CN>
 		<pt-BR>Pimpira</pt-BR>
 		<ko>핌피라</ko>
+		<fixja>ピンピラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE01</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>加苏拉维亚</zh-CN>
 		<pt-BR>Gassulawiya</pt-BR>
 		<ko>가술라위야</ko>
+		<fixja>ガシュラウィヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE02</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>玛萨努琪</zh-CN>
 		<pt-BR>Massanauzzi</pt-BR>
 		<ko>맛산나우지</ko>
+		<fixja>マサナウッツィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE03</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>塔杜荷帕</zh-CN>
 		<pt-BR>Taduhepa</pt-BR>
 		<ko>타두헤파</ko>
+		<fixja>タドゥキパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE04</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>塔瓦娜娜</zh-CN>
 		<pt-BR>Tawananna</pt-BR>
 		<ko>타와난나</ko>
+		<fixja>タワナアンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE05</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>卡杜希</zh-CN>
 		<pt-BR>Kaddusi</pt-BR>
 		<ko>카두시</ko>
+		<fixja>カドゥシ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE06</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>卡丽</zh-CN>
 		<pt-BR>Kali</pt-BR>
 		<ko>칼리</ko>
+		<fixja>カリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE07</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>哈菈普希里</zh-CN>
 		<pt-BR>Harapsili</pt-BR>
 		<ko>하랍실리</ko>
+		<fixja>ハラプシリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE08</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>伊斯塔帕莉亚</zh-CN>
 		<pt-BR>Istapariya</pt-BR>
 		<ko>이스타파리야</ko>
+		<fixja>イスタパリヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE09</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>哈菈瑟姬</zh-CN>
 		<pt-BR>Harapseki</pt-BR>
 		<ko>하랍세키</ko>
+		<fixja>ハラプセキ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE10</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>伊亚雅</zh-CN>
 		<pt-BR>Iyaya</pt-BR>
 		<ko>이야야</ko>
+		<fixja>イヤヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE11</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>苏米里</zh-CN>
 		<pt-BR>Summiri</pt-BR>
 		<ko>숨미리</ko>
+		<fixja>シュミリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE12</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>妮卡玛蒂</zh-CN>
 		<pt-BR>Nikkalmati</pt-BR>
 		<ko>니칼마티</ko>
+		<fixja>ニカルマティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE13</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>阿苏穆妮卡尔</zh-CN>
 		<pt-BR>Asumunikal</pt-BR>
 		<ko>아수무니칼</ko>
+		<fixja>アスムニカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE14</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>莎坦杜荷帕</zh-CN>
 		<pt-BR>Satanduhepa</pt-BR>
 		<ko>사탄두헤파</ko>
+		<fixja>サタンデュヘパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE15</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>塔努荷帕</zh-CN>
 		<pt-BR>Tanuhepa</pt-BR>
 		<ko>타누헤파</ko>
+		<fixja>タヌヘパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE16</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>汉媞</zh-CN>
 		<pt-BR>Hanti</pt-BR>
 		<ko>한티</ko>
+		<fixja>ハンティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE17</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>加苏拉维亚</zh-CN>
 		<pt-BR>Gassulawiya</pt-BR>
 		<ko>가술라위야</ko>
+		<fixja>ガシュラウィヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE18</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>普达荷帕</zh-CN>
 		<pt-BR>Pudahepa</pt-BR>
 		<ko>푸다헤파</ko>
+		<fixja>プダヘパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE19</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>哈雅斯塔</zh-CN>
 		<pt-BR>Hayastar</pt-BR>
 		<ko>하야스타르</ko>
+		<fixja>ハヤスター</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HITTITE_FEMALE20</zType>
@@ -611,5 +656,6 @@
 		<zh-CN>哈斯塔贾拉</zh-CN>
 		<pt-BR>Hastajaras</pt-BR>
 		<ko>하스타하라스</ko>
+		<fixja>ハスタハラス</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>雕像神庙</zh-CN>
 		<pt-BR>Templo da Estátua</pt-BR>
 		<ko>조각상 사원</ko>
+		<fixja>像のある神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_OF_VICTORY</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>胜利神祠</zh-CN>
 		<pt-BR>Santuário da Vitória</pt-BR>
 		<ko>승리의 신전</ko>
+		<fixja>勝利の神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_OF_THE_HERO</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>保护者英雄崇拜</zh-CN>
 		<pt-BR>Culto Heroico do Protetor~o Culto Heroico do Protetor</pt-BR>
 		<ko>수호자 영웅 교단</ko>
+		<fixja>守護者の英雄のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>堕落女神崇拜</zh-CN>
 		<pt-BR>Culto da Deusa Caída~o Culto da Deusa Caída</pt-BR>
 		<ko>타락한 여신 교단</ko>
+		<fixja>堕ちた神々のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CAVALRY_CULT</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>骑兵崇拜</zh-CN>
 		<pt-BR>Culto da Cavalaria~o Culto da Cavalaria</pt-BR>
 		<ko>기병 교단</ko>
+		<fixja>騎兵隊のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AMAZON_CULT</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>亚马逊崇拜</zh-CN>
 		<pt-BR>Culto das Amazonas~o Culto das Amazonas</pt-BR>
 		<ko>아마존 교단</ko>
+		<fixja>女戦士のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARTYR_CULT</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>殉道者崇拜</zh-CN>
 		<pt-BR>Culto do Mártir~o Culto do Mártir</pt-BR>
 		<ko>순교자 교단</ko>
+		<fixja>殉教者のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_DUAL_CULT</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>联合众神崇拜</zh-CN>
 		<pt-BR>Culto dos Deuses Unidos~o Culto dos Deuses Unidos</pt-BR>
 		<ko>합일된 신 교단</ko>
+		<fixja>神々の結びつきのカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CULT_OF_THE_ANGELIC_DIVINE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>神圣天使崇拜</zh-CN>
 		<pt-BR>Culto do Divino Angelical~o Culto do Divino Angelical</pt-BR>
 		<ko>신성 천사 교단</ko>
+		<fixja>天使の神性のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ECSTATIC_CULT</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>狂喜崇拜</zh-CN>
 		<pt-BR>Culto Extasiado~o Culto Extasiado</pt-BR>
 		<ko>황홀 교단</ko>
+		<fixja>熱狂的なカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CULT_OF_THE_MOTHER</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>母亲崇拜</zh-CN>
 		<pt-BR>Culto da Mãe~o Culto da Mãe</pt-BR>
 		<ko>모성 교단</ko>
+		<fixja>聖母のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>伊西斯与塞拉比斯崇拜</zh-CN>
 		<pt-BR>Culto de Ísis e Serapis~o Culto de Ísis e Serapis</pt-BR>
 		<ko>이시스와 세라피스 교단</ko>
+		<fixja>イシスとセラピスのカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CULT_OF_MITHRAS</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>密特拉崇拜</zh-CN>
 		<pt-BR>Culto de Mitras~o Culto de Mitras</pt-BR>
 		<ko>미트라 교단</ko>
+		<fixja>ミスラのカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CULT_OF_THE_HEALER</zType>
@@ -195,5 +208,6 @@
 		<zh-CN>治疗师崇拜</zh-CN>
 		<pt-BR>Culto do Curandeiro~o Culto do Curandeiro</pt-BR>
 		<ko>치유자 교단</ko>
+		<fixja>癒術師のカルト</fixja>
 	</Entry>
 </Root>

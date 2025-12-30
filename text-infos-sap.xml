@@ -40,6 +40,7 @@
 		<zh-CN>不敬虔之人</zh-CN>
 		<pt-BR>a Ímpia</pt-BR>
 		<ko>불경한 자</ko>
+		<fixja>不信心者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHASTE_NICKNAME</zType>
@@ -53,6 +54,7 @@
 		<zh-CN>贞洁之人</zh-CN>
 		<pt-BR>o Casto</pt-BR>
 		<ko>순결한 자</ko>
+		<fixja>貞淑な者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHASTE_NICKNAME_F</zType>
@@ -66,6 +68,7 @@
 		<zh-CN>贞洁之人</zh-CN>
 		<pt-BR>a Casta</pt-BR>
 		<ko>순결한 자</ko>
+		<fixja>貞淑な者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POET_NICKNAME</zType>
@@ -79,6 +82,7 @@
 		<zh-CN>诗人</zh-CN>
 		<pt-BR>o Poeta</pt-BR>
 		<ko>시인</ko>
+		<fixja>詩人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POET_NICKNAME_F</zType>
@@ -92,6 +96,7 @@
 		<zh-CN>女诗人</zh-CN>
 		<pt-BR>a Poetisa</pt-BR>
 		<ko>시인</ko>
+		<fixja>詩人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARTYR_NICKNAME</zType>
@@ -105,6 +110,7 @@
 		<zh-CN>殉道者</zh-CN>
 		<pt-BR>o Mártir</pt-BR>
 		<ko>순교자</ko>
+		<fixja>殉教者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARTYR_NICKNAME_F</zType>
@@ -118,6 +124,7 @@
 		<zh-CN>殉道者</zh-CN>
 		<pt-BR>a Mártir</pt-BR>
 		<ko>순교자</ko>
+		<fixja>殉教者</fixja>
 	</Entry>
 	<!-- Stats -->
 	<Entry>
@@ -132,6 +139,7 @@
 		<zh-CN>link(CONCEPT_LOCAL_CULT)</zh-CN>
 		<pt-BR>link(CONCEPT_LOCAL_CULT)</pt-BR>
 		<ko>link(CONCEPT_LOCAL_CULT)</ko>
+		<fixja>link(CONCEPT_LOCAL_CULT)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_STAT_CLERGY_ADDED</zType>
@@ -145,6 +153,7 @@
 		<zh-CN>神职人员已添加</zh-CN>
 		<pt-BR>Clero adicionado</pt-BR>
 		<ko>성직자 추가됨</ko>
+		<fixja>聖職者が追加されました</fixja>
 	</Entry>
 	<!-- Goals -->
 	<Entry>
@@ -159,6 +168,7 @@
 		<zh-CN>掌管四个link(IMPROVEMENTCLASS_SHRINE,2)</zh-CN>
 		<pt-BR>Controlar quatro link(IMPROVEMENTCLASS_SHRINE,2)</pt-BR>
 		<ko>link(IMPROVEMENTCLASS_SHRINE,2) 네 개를 보유</ko>
+		<fixja>link(IMPROVEMENTCLASS_SHRINE,2)を4個管理する</fixja>
 	</Entry>
 	<!-- Concepts -->
 	<Entry>
@@ -173,6 +183,7 @@
 		<zh-CN>宗教异议</zh-CN>
 		<pt-BR>Dissidência Religiosa</pt-BR>
 		<ko>종교의 반발</ko>
+		<fixja>宗教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_LOCAL_CULT</zType>
@@ -186,6 +197,7 @@
 		<zh-CN>神祠</zh-CN>
 		<pt-BR>Santuários Cultistas</pt-BR>
 		<ko>교단 신전</ko>
+		<fixja>カルトの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CLERGY</zType>
@@ -199,6 +211,7 @@
 		<zh-CN>神职人员</zh-CN>
 		<pt-BR>Clero</pt-BR>
 		<ko>성직자</ko>
+		<fixja>聖職者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CLERGY_F</zType>
@@ -212,5 +225,6 @@
 		<zh-CN>神职人员</zh-CN>
 		<pt-BR>Clero</pt-BR>
 		<ko>성직자</ko>
+		<fixja>聖職者</fixja>
 	</Entry>
 </Root>

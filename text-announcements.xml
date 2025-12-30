@@ -12,6 +12,7 @@
 		<zh-CN>《旧世界》社群决斗大赛</zh-CN>
 		<pt-BR>Torneiro de Duelistas da Comunidade de Old World</pt-BR>
 		<ko>올드 월드 커뮤니티 결투 토너먼트</ko>
+		<fixja>Old World コミュニティ決闘チャレンジ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COMMUNITY_TOURNAMENT_2025_H2</zType>
@@ -98,5 +99,13 @@ A glória espera!]]></pt-BR>
 	icon(bullet) <color="lightblue"><link="https://discord.com/invite/YpuqQ6p3CS">디스코드 커뮤니티에 합류하세요.</link></color>
 
 영광을 누리세요!]]></ko>
+		<fixja><![CDATA[
+Old Worldプレイヤーの皆さん、こんにちは。この度、コミュニティメンバー主導の新たなイベント「Old World コミュニティ決闘チャレンジ」が開催されることになりました。これはオンラインでの1対1の対戦を続けて行うというもので、ゲームの所有者であれば誰でも自由にご参加いただけます。
+
+	icon(bullet) <color="lightblue">詳しくはこちらの<link="https://www.youtube.com/watch?v=ofxMwDD-TPY">コミュニティ製トレイラー</link>をご覧ください。</color>
+	icon(bullet) <color="lightblue"><link="https://challonge.com/tournaments/signup/lTD18dP5kB.html">このページ</link>より参加申し込みとルールの確認が行えます。</color>
+	icon(bullet) <color="lightblue"><link="https://discord.com/invite/YpuqQ6p3CS">Discord</link>サーバーにもご参加ください。</color>
+
+勝者の栄光があなたを待っています！]]></fixja>
 	</Entry>
 </Root>

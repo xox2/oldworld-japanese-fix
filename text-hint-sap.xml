@@ -26,6 +26,7 @@
 		<zh-CN>link(CONCEPT_CLERGY)中的一员可以消除城市中的link(CONCEPT_RELIGIOUS_DISSENT)，例如通过link(MISSION_QUELL_DISSENT_ZOROASTRIANISM)任务。</zh-CN>
 		<pt-BR>Um link(CONCEPT_CLERGY) pode eliminar a link(CONCEPT_RELIGIOUS_DISSENT) de uma cidade usando a missão de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM), por exemplo.</pt-BR>
 		<ko>link(CONCEPT_CLERGY) 가문의 구성원은 link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) 임무를 통해 도시의 link(CONCEPT_RELIGIOUS_DISSENT)을 없앨 수 있습니다.</ko>
+		<fixja>link(CONCEPT_CLERGY)はlink(MISSION_QUELL_DISSENT_ZOROASTRIANISM)のようなミッションを実行することで、都市からlink(CONCEPT_RELIGIOUS_DISSENT)を排除できます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAP_HINT_3</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>link(CONCEPT_GOVERNOR)可以消除城市中的link(CONCEPT_RELIGIOUS_DISSENT)，例如完成link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM)项目。</zh-CN>
 		<pt-BR>Um link(CONCEPT_GOVERNOR) pode eliminar a link(CONCEPT_RELIGIOUS_DISSENT) da cidade a qual governa com o projeto de link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM), por exemplo.</pt-BR>
 		<ko>link(CONCEPT_GOVERNOR)은 link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) 사업을 통해 도시의 link(CONCEPT_RELIGIOUS_DISSENT)을 없앨 수 있습니다.</ko>
+		<fixja>link(CONCEPT_GOVERNOR)はlink(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM)のようなプロジェクトを実行することで、都市からlink(CONCEPT_RELIGIOUS_DISSENT)を排除できます。</fixja>
 	</Entry>
 	<!-- <Entry>
 		<zType>TEXT_SAP_HINT_4</zType>
@@ -51,5 +53,6 @@
 		<ru>Глава вашей религии может выполнить миссию «link(MISSION_MAKE_CLERGY)», чтобы наделить персонажа чертами {lowercase:link(CONCEPT_CLERGY,1)}.</ru>
 		<zh-CN>宗教领袖可以通过link(MISSION_MAKE_CLERGY)任务赋予角色link(CONCEPT_CLERGY)特征。</zh-CN>
 		<pt-BR>Os personagens podem receber o atributo de link(CONCEPT_CLERGY) do líder da sua religião com a missão para link(MISSION_MAKE_CLERGY).</pt-BR>
+		<fixja>宗教の長のlink(MISSION_MAKE_CLERGY)ミッションでは、キャラクターにlink(CONCEPT_CLERGY)特性を与えることができます。</fixja>
 	</Entry> -->
 </Root>

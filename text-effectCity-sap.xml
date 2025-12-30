@@ -39,6 +39,7 @@
 		<zh-CN>犹太教异议</zh-CN>
 		<pt-BR>Dissidência Judaica</pt-BR>
 		<ko>유대교의 반발</ko>
+		<fixja>ユダヤ教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DISSENT_CHRISTIANITY</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>基督教异议</zh-CN>
 		<pt-BR>Dissidência Cristã</pt-BR>
 		<ko>기독교의 반발</ko>
+		<fixja>キリスト教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DISSENT_MANICHAEISM</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>摩尼教异议</zh-CN>
 		<pt-BR>Dissidência Maniqueísta</pt-BR>
 		<ko>마니교의 반발</ko>
+		<fixja>マニ教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_ZOROASTRIAN_DISSENT_REBELS</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>受到link(EFFECTCITY_DISSENT_ZOROASTRIANISM)的启发，{2_city}的{0_family}link(TRIBE_REBELS)为了捍卫自己的宗教，纷纷拿起武器，在城市周边组成了{3,1_unit}！</zh-CN>
 		<pt-BR>Inspirados pela link(EFFECTCITY_DISSENT_ZOROASTRIANISM), link(TRIBE_REBELS) da família {0_family} de {2_city} se armaram em nome da religião e criaram uma {3,3_unit} perto da cidade!</pt-BR>
 		<ko>link(EFFECTCITY_DISSENT_ZOROASTRIANISM)에 고취된 {2_city}의 {0_family} 가문 link(TRIBE_REBELS)이 도시 근처에 {3,1_unit}(을)를 모아 봉기를 일으켰습니다!</ko>
+		<fixja>link(EFFECTCITY_DISSENT_ZOROASTRIANISM)に啓発され、{2_city}の{0_family} link(TRIBE_REBELS)家が、自身が奉じる宗教のために武器を取り、都市の周辺で{3,1_unit}を集結させている！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_JEWISH_DISSENT_REBELS</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>受到link(EFFECTCITY_DISSENT_JUDAISM)的启发，{2_city}的{0_family}link(TRIBE_REBELS)为了捍卫自己的宗教，纷纷拿起武器，在城市周边组成了{3,1_unit}！</zh-CN>
 		<pt-BR>Inspirados pela link(EFFECTCITY_DISSENT_JUDAISM), link(TRIBE_REBELS) da família {0_family} de {2_city} se armaram em nome da religião e criaram uma {3,3_unit} perto da cidade!</pt-BR>
 		<ko>link(EFFECTCITY_DISSENT_JUDAISM)에 고취된 {2_city}의 {0_family} 가문 link(TRIBE_REBELS)이 도시 근처에 {3,1_unit}(을)를 모아 봉기를 일으켰습니다!</ko>
+		<fixja>link(EFFECTCITY_DISSENT_JUDAISM)に啓発され、{2_city}の{0_family} link(TRIBE_REBELS)家が、自身が奉じる宗教のために武器を取り、都市の周辺で{3,1_unit}を集結させている！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CHRISTIAN_DISSENT_REBELS</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>受到link(EFFECTCITY_DISSENT_CHRISTIANITY)的启发，{2_city}的{0_family}link(TRIBE_REBELS)为了捍卫自己的宗教，纷纷拿起武器，在城市周边组成了{3,1_unit}！</zh-CN>
 		<pt-BR>Inspirados pela link(EFFECTCITY_DISSENT_CHRISTIANITY), link(TRIBE_REBELS) da família {0_family} de {2_city} se armaram em nome da religião e criaram uma {3,3_unit} perto da cidade!</pt-BR>
 		<ko>link(EFFECTCITY_DISSENT_CHRISTIANITY)에 고취된 {2_city}의 {0_family} 가문 link(TRIBE_REBELS)이 도시 근처에 {3,1_unit}(을)를 모아 봉기를 일으켰습니다!</ko>
+		<fixja>link(EFFECTCITY_DISSENT_CHRISTIANITY)に啓発され、{2_city}の{0_family} link(TRIBE_REBELS)家が、自身が奉じる宗教のために武器を取り、都市の周辺で{3,1_unit}を集結させている！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_MANICHAEAN_DISSENT_REBELS</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>受到link(EFFECTCITY_DISSENT_MANICHAEISM)的启发，{2_city}的{0_family}link(TRIBE_REBELS)为了捍卫自己的宗教，纷纷拿起武器，在城市周边组成了{3,1_unit}！</zh-CN>
 		<pt-BR>Inspirados pela link(EFFECTCITY_DISSENT_MANICHAEISM), link(TRIBE_REBELS) da família {0_family} de {2_city} se armaram em nome da religião e criaram uma {3,3_unit} perto da cidade!</pt-BR>
 		<ko>link(EFFECTCITY_DISSENT_MANICHAEISM)에 고취된 {2_city}의 {0_family} 가문 link(TRIBE_REBELS)이 도시 근처에 {3,1_unit}(을)를 모아 봉기를 일으켰습니다!</ko>
+		<fixja>link(EFFECTCITY_DISSENT_MANICHAEISM)に啓発され、{2_city}の{0_family} link(TRIBE_REBELS)家が、自身が奉じる宗教のために武器を取り、都市の周辺で{3,1_unit}を集結させている！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_OF_THE_HERO</zType>
@@ -130,6 +137,7 @@
 		<zh-CN>保护者英雄崇拜</zh-CN>
 		<pt-BR>Culto do Protetor Heroico</pt-BR>
 		<ko>수호자의 영웅 교단</ko>
+		<fixja>守護者の英雄のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
@@ -143,6 +151,7 @@
 		<zh-CN>堕落女神崇拜</zh-CN>
 		<pt-BR>Culto da Deusa Caída</pt-BR>
 		<ko>타락한 여신 교단</ko>
+		<fixja>堕ちた神々のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MONASTIC_TRADITIONS</zType>
@@ -156,6 +165,7 @@
 		<zh-CN>改革修道传统</zh-CN>
 		<pt-BR>Tradições Monásticas Reformadas</pt-BR>
 		<ko>개혁파 수도승 교단</ko>
+		<fixja>改革派修道士の伝統</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CAVALRY_CULT</zType>
@@ -169,6 +179,7 @@
 		<zh-CN>骑兵崇拜</zh-CN>
 		<pt-BR>Culto da Cavalaria</pt-BR>
 		<ko>기병 교단</ko>
+		<fixja>騎兵隊のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_AMAZON_CULT</zType>
@@ -182,6 +193,7 @@
 		<zh-CN>亚马逊崇拜</zh-CN>
 		<pt-BR>Culto das Amazonas</pt-BR>
 		<ko>아마존 교단</ko>
+		<fixja>女戦士のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_DIVINE_STEED</zType>
@@ -195,6 +207,7 @@
 		<zh-CN>神马</zh-CN>
 		<pt-BR>Cavalos Nascidos do Divino</pt-BR>
 		<ko>신성 준마</ko>
+		<fixja>神から授かった馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ECSTATIC_CULT</zType>
@@ -208,6 +221,7 @@
 		<zh-CN>狂喜崇拜</zh-CN>
 		<pt-BR>Culto Extático</pt-BR>
 		<ko>황홀 교단</ko>
+		<fixja>熱狂的なカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_THE_MOTHER</zType>
@@ -221,6 +235,7 @@
 		<zh-CN>母亲崇拜</zh-CN>
 		<pt-BR>Culto da Mãe</pt-BR>
 		<ko>어머니교신단</ko>
+		<fixja>聖母のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS</zType>
@@ -234,6 +249,7 @@
 		<zh-CN>伊西斯与塞拉比斯崇拜</zh-CN>
 		<pt-BR>Culto de Ísis e Serapis</pt-BR>
 		<ko>이시스와 세라피스 교단</ko>
+		<fixja>イシスとセラピスのカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_MITHRAS</zType>
@@ -247,6 +263,7 @@
 		<zh-CN>密特拉崇拜</zh-CN>
 		<pt-BR>Culto de Mitras</pt-BR>
 		<ko>미트라 교단</ko>
+		<fixja>ミスラのカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_THE_HEALER</zType>
@@ -260,6 +277,7 @@
 		<zh-CN>治疗师崇拜</zh-CN>
 		<pt-BR>Culto do Curandeiro</pt-BR>
 		<ko>치유자 교단</ko>
+		<fixja>癒術師のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_UNTAXED_TEMPLES</zType>
@@ -273,6 +291,7 @@
 		<zh-CN>免税神殿</zh-CN>
 		<pt-BR>Templos não tributados</pt-BR>
 		<ko>비과세 사원</ko>
+		<fixja>非課税の寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PAGAN_STATUE_TEMPLE</zType>
@@ -286,6 +305,7 @@
 		<zh-CN>雕像神庙</zh-CN>
 		<pt-BR>Templo da Estátua</pt-BR>
 		<ko>동상 사원</ko>
+		<fixja>象の神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PIOUS</zType>
@@ -299,6 +319,7 @@
 		<zh-CN>link(TRAIT_PIOUS)link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) link(TRAIT_PIOUS)</pt-BR>
 		<ko>link(TRAIT_PIOUS) link(CONCEPT_GOVERNOR)</ko>
+		<fixja>link(TRAIT_PIOUS)のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CLERGY_PAGAN</zType>
@@ -312,5 +333,6 @@
 		<zh-CN>异教神职人员link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) Clérigo Pagão</pt-BR>
 		<ko>다신교 성직자 link(CONCEPT_GOVERNOR)</ko>
+		<fixja>多神教の聖職者であるlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 </Root>

@@ -28,6 +28,7 @@
 		<zh-CN>修复伤害</zh-CN>
 		<pt-BR>Reparar dano</pt-BR>
 		<ko>손상 복구</ko>
+		<fixja>ダメージ修復</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FOUND_RELIGION</zType>
@@ -41,6 +42,7 @@
 		<zh-CN>创立宗教</zh-CN>
 		<pt-BR>Fundar religião</pt-BR>
 		<ko>종교 설립</ko>
+		<fixja>宗教の発見</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_HORSE</zType>
@@ -54,6 +56,7 @@
 		<zh-CN>进口马匹</zh-CN>
 		<pt-BR>Importar Cavalos</pt-BR>
 		<ko>말 수입</ko>
+		<fixja>輸入馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_ELEPHANT</zType>
@@ -67,6 +70,7 @@
 		<zh-CN>进口大象</zh-CN>
 		<pt-BR>Importar Elefantes</pt-BR>
 		<ko>코끼리 수입</ko>
+		<fixja>輸入象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_CAMEL</zType>
@@ -80,6 +84,7 @@
 		<zh-CN>进口骆驼</zh-CN>
 		<pt-BR>Importar Camelos</pt-BR>
 		<ko>낙타 수입</ko>
+		<fixja>輸入ラクダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GOVERNOR</zType>
@@ -93,6 +98,7 @@
 		<zh-CN>总督~总督~总督</zh-CN>
 		<pt-BR>Governador~um Governador~Governadores</pt-BR>
 		<ko>총독~총독~총독</ko>
+		<fixja>統治者~統治者~統治者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WALLS</zType>
@@ -106,6 +112,7 @@
 		<zh-CN>墙</zh-CN>
 		<pt-BR>Muralhas</pt-BR>
 		<ko>방벽</ko>
+		<fixja>壁</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MOAT</zType>
@@ -119,6 +126,7 @@
 		<zh-CN>护城河~护城河~护城河</zh-CN>
 		<pt-BR>Fosso~um Fosso~Fossos</pt-BR>
 		<ko>해자~해자~해자</ko>
+		<fixja>堀~堀~堀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TOWERS</zType>
@@ -132,6 +140,7 @@
 		<zh-CN>塔</zh-CN>
 		<pt-BR>Torres</pt-BR>
 		<ko>탑</ko>
+		<fixja>塔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TREASURY_1</zType>
@@ -145,6 +154,7 @@
 		<zh-CN>国库一~国库一~国库一</zh-CN>
 		<pt-BR>Tesouro I~um Tesouro I~Tesouros I</pt-BR>
 		<ko>국고 I~국고 I~국고 I</ko>
+		<fixja>国庫I~国庫I~国庫I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TREASURY_2</zType>
@@ -158,6 +168,7 @@
 		<zh-CN>国库二~国库二~国库二</zh-CN>
 		<pt-BR>Tesouro II~um Tesouro II~Tesouros II</pt-BR>
 		<ko>국고 II~국고 II~국고 II</ko>
+		<fixja>国庫II~国庫II~国庫II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TREASURY_3</zType>
@@ -171,6 +182,7 @@
 		<zh-CN>国库三~国库三~国库三</zh-CN>
 		<pt-BR>Tesouro III~um Tesouro III~Tesouros III</pt-BR>
 		<ko>국고 III~국고 III~국고 III</ko>
+		<fixja>国庫III~国庫III~国庫III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TREASURY_4</zType>
@@ -184,6 +196,7 @@
 		<zh-CN>国库四~国库四~国库四</zh-CN>
 		<pt-BR>Tesouro IV~um Tesouro IV~Tesouros IV</pt-BR>
 		<ko>국고 IV~국고 IV~국고 IV</ko>
+		<fixja>国庫IV~国庫IV~国庫IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORUM_1</zType>
@@ -197,6 +210,7 @@
 		<zh-CN>公共广场一~公共广场一~公共广场一~公共广场</zh-CN>
 		<pt-BR>Fórum I~um Fórum I~Fóruns I</pt-BR>
 		<ko>토론장 I~토론장 I~토론장 I~토론장</ko>
+		<fixja>フォーラムI~フォーラムI~フォーラムI~フォーラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORUM_2</zType>
@@ -210,6 +224,7 @@
 		<zh-CN>公共广场二~公共广场二~公共广场二</zh-CN>
 		<pt-BR>Fórum II~um Fórum II~Fóruns II</pt-BR>
 		<ko>토론장 II~토론장 II~토론장 II</ko>
+		<fixja>フォーラムII~フォーラムII~フォーラムII</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORUM_3</zType>
@@ -223,6 +238,7 @@
 		<zh-CN>公共广场三~公共广场三~公共广场三</zh-CN>
 		<pt-BR>Fórum III~um Fórum III~Fóruns III</pt-BR>
 		<ko>토론장 III~토론장 III~토론장 III</ko>
+		<fixja>フォーラムIII~フォーラムIII~フォーラムIII</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORUM_4</zType>
@@ -236,6 +252,7 @@
 		<zh-CN>公共广场四~公共场四~公共广场四</zh-CN>
 		<pt-BR>Fórum IV~um Fórum IV~Fóruns IV</pt-BR>
 		<ko>토론장 IV~토론장 IV~토론장 IV</ko>
+		<fixja>フォーラムIV~フォーラムIV~フォーラムIV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ARCHIVE_1</zType>
@@ -249,6 +266,7 @@
 		<zh-CN>档案库一~档案库一~档案库一</zh-CN>
 		<pt-BR>Arquivo I~um Arquivo I~Arquivos I</pt-BR>
 		<ko>기록실 I~기록실 I~기록실 I</ko>
+		<fixja>保管庫I~保管庫I~保管庫I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ARCHIVE_2</zType>
@@ -262,6 +280,7 @@
 		<zh-CN>档案库二~档案库二~档案库二</zh-CN>
 		<pt-BR>Arquivo II~um Arquivo II~Arquivos II</pt-BR>
 		<ko>기록실 II~기록실 II~기록실 II</ko>
+		<fixja>保管庫II~保管庫II~保管庫II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ARCHIVE_3</zType>
@@ -275,6 +294,7 @@
 		<zh-CN>档案库三~档案库三~档案库三</zh-CN>
 		<pt-BR>Arquivo III~um Arquivo III~Arquivos III</pt-BR>
 		<ko>기록실 III~기록실 III~기록실 III</ko>
+		<fixja>保管庫III~保管庫III~保管庫III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ARCHIVE_4</zType>
@@ -288,6 +308,7 @@
 		<zh-CN>档案库四~档案库四~档案库四</zh-CN>
 		<pt-BR>Arquivo IV~um Arquivo IV~Arquivos IV</pt-BR>
 		<ko>기록실 IV~기록실 IV~기록실 IV</ko>
+		<fixja>保管庫IV~保管庫IV~保管庫IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DECREE_1</zType>
@@ -301,6 +322,7 @@
 		<zh-CN>法令一~法令一~法令一</zh-CN>
 		<pt-BR>Decreto I~um Decreto I~Decretos I</pt-BR>
 		<ko>칙령 I~칙령 I~칙령 I</ko>
+		<fixja>法令I~法令I~法令I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DECREE_2</zType>
@@ -314,6 +336,7 @@
 		<zh-CN>法令二~法令二~法令二</zh-CN>
 		<pt-BR>Decreto II~um Decreto II~Decretos II</pt-BR>
 		<ko>칙령 II~칙령 II~칙령 II</ko>
+		<fixja>法令II~法令II~法令II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DECREE_3</zType>
@@ -327,6 +350,7 @@
 		<zh-CN>法令三~法令三~法令三</zh-CN>
 		<pt-BR>Decreto III~um Decreto III~Decretos III</pt-BR>
 		<ko>칙령 III~칙령 III~칙령 III</ko>
+		<fixja>法令III~法令III~法令III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DECREE_4</zType>
@@ -340,6 +364,7 @@
 		<zh-CN>法令四~法令四~法令四</zh-CN>
 		<pt-BR>Decreto IV~um Decreto IV~Decretos IV</pt-BR>
 		<ko>칙령 IV~칙령 IV~칙령 IV</ko>
+		<fixja>法令IV~法令IV~法令IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL</zType>
@@ -353,6 +378,7 @@
 		<zh-CN>庆典~庆典~庆典</zh-CN>
 		<pt-BR>Festival~um Festival~Festivais</pt-BR>
 		<ko>축제~축제~축제</ko>
+		<fixja>祝祭~祝祭~祝祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL_1</zType>
@@ -366,6 +392,7 @@
 		<zh-CN>庆典一~庆典一~庆典一</zh-CN>
 		<pt-BR>Festival I~um Festival I~Festivais I</pt-BR>
 		<ko>축제 I~축제 I~축제 I</ko>
+		<fixja>祝祭I~祝祭I~祝祭I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL_2</zType>
@@ -379,6 +406,7 @@
 		<zh-CN>庆典二~庆典二~庆典二</zh-CN>
 		<pt-BR>Festival II~um Festival II~Festivais II</pt-BR>
 		<ko>축제 II~축제 II~축제 II</ko>
+		<fixja>祝祭II~祝祭II~祝祭II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL_3</zType>
@@ -392,6 +420,7 @@
 		<zh-CN>庆典三~庆典三~庆典三</zh-CN>
 		<pt-BR>Festival III~um Festival III~Festivais III</pt-BR>
 		<ko>축제 III~축제 III~축제 III</ko>
+		<fixja>祝祭III~祝祭III~祝祭III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FESTIVAL_4</zType>
@@ -405,6 +434,7 @@
 		<zh-CN>庆典四~庆典四~庆典四</zh-CN>
 		<pt-BR>Festival IV~um Festival IV~Festivais IV</pt-BR>
 		<ko>축제 IV~축제 IV~축제 IV</ko>
+		<fixja>祝祭IV~祝祭IV~祝祭IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY</zType>
@@ -418,6 +448,7 @@
 		<zh-CN>调查~调查~调查</zh-CN>
 		<pt-BR>Investigação~uma Investigação~Investigações</pt-BR>
 		<ko>탐구~탐구~탐구</ko>
+		<fixja>探究~探究~探究</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_1</zType>
@@ -431,6 +462,7 @@
 		<zh-CN>调查一~调查一~调查一</zh-CN>
 		<pt-BR>Investigação I~uma Investigação I~Investigações I</pt-BR>
 		<ko>탐구 I~탐구 I~탐구 I</ko>
+		<fixja>探究I~探究I~探究I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_2</zType>
@@ -444,6 +476,7 @@
 		<zh-CN>调查二~调查二~调查二</zh-CN>
 		<pt-BR>Investigação II~uma Investigação II~Investigações II</pt-BR>
 		<ko>탐구 II~탐구 II~탐구 II</ko>
+		<fixja>探究II~探究II~探究II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_3</zType>
@@ -457,6 +490,7 @@
 		<zh-CN>调查三~调查三~调查三</zh-CN>
 		<pt-BR>Investigação III~uma Investigação III~Investigações III</pt-BR>
 		<ko>탐구 III~탐구 III~탐구 III</ko>
+		<fixja>探究III~探究III~探究III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_4</zType>
@@ -470,6 +504,7 @@
 		<zh-CN>调查四~调查四~调查四</zh-CN>
 		<pt-BR>Investigação IV~uma Investigação IV~Investigações IV</pt-BR>
 		<ko>탐구 IV~탐구 IV~탐구 IV</ko>
+		<fixja>探究IV~探究IV~探究IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT</zType>
@@ -483,6 +518,7 @@
 		<zh-CN>狩猎~狩猎~狩猎</zh-CN>
 		<pt-BR>Caça~uma Caça~Caças</pt-BR>
 		<ko>사냥~사냥~사냥</ko>
+		<fixja>狩り~狩り~狩り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT_1</zType>
@@ -496,6 +532,7 @@
 		<zh-CN>狩猎一~狩猎一~狩猎一</zh-CN>
 		<pt-BR>Caça I~uma Caça I~Caças I</pt-BR>
 		<ko>사냥 I~사냥 I~사냥 I</ko>
+		<fixja>狩りI~狩りI~狩りI</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT_2</zType>
@@ -509,6 +546,7 @@
 		<zh-CN>狩猎二~狩猎二~狩猎二</zh-CN>
 		<pt-BR>Caça II~uma Caça II~Caças II</pt-BR>
 		<ko>사냥 II~사냥 II~사냥 II</ko>
+		<fixja>狩りII~狩りII~狩りII</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT_3</zType>
@@ -522,6 +560,7 @@
 		<zh-CN>狩猎三~狩猎三~狩猎三</zh-CN>
 		<pt-BR>Caça III~uma Caça III~Caças III</pt-BR>
 		<ko>사냥 III~사냥 III~사냥 III</ko>
+		<fixja>狩りIII~狩りIII~狩りIII</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT_4</zType>
@@ -535,6 +574,7 @@
 		<zh-CN>狩猎四~狩猎四~狩猎四</zh-CN>
 		<pt-BR>Caça IV~uma Caça IV~Caças IV</pt-BR>
 		<ko>사냥 IV~사냥 IV~사냥 IV</ko>
+		<fixja>狩りIV~狩りIV~狩りIV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OLYMPICS</zType>
@@ -548,6 +588,7 @@
 		<zh-CN>奥林匹亚~奥林匹亚~奥林匹亚</zh-CN>
 		<pt-BR>Olimpíada~uma Olimpíada~Olimpíadas</pt-BR>
 		<ko>올림피아 제전~올림피아 제전~올림피아 제전</ko>
+		<fixja>オリンピック大会~オリンピック大会~オリンピック大会</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OLYMPICS_1</zType>
@@ -561,6 +602,7 @@
 		<zh-CN>奥林匹亚一~奥林匹亚一~奥林匹亚一</zh-CN>
 		<pt-BR>Olimpíada I~uma Olimpíada I~Olimpíadas I</pt-BR>
 		<ko>올림피아 제전 I~올림피아 제전 I~올림피아 제전 I</ko>
+		<fixja>オリンピック大会I~オリンピック大会I~オリンピック大会I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OLYMPICS_2</zType>
@@ -574,6 +616,7 @@
 		<zh-CN>奥林匹亚二~奥林匹亚二~奥林匹亚二</zh-CN>
 		<pt-BR>Olimpíada II~uma Olimpíada II~Olimpíadas II</pt-BR>
 		<ko>올림피아 제전 II~올림피아 제전 II~올림피아 제전 II</ko>
+		<fixja>オリンピック大会II~オリンピック大会II~オリンピック大会II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OLYMPICS_3</zType>
@@ -587,6 +630,7 @@
 		<zh-CN>奥林匹亚三~奥林匹亚三~奥林匹亚三</zh-CN>
 		<pt-BR>Olimpíada III~uma Olimpíada III~Olimpíadas III</pt-BR>
 		<ko>올림피아 제전 III~올림피아 제전 III~올림피아 제전 III</ko>
+		<fixja>オリンピック大会III~オリンピック大会III~オリンピック大会III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OLYMPICS_4</zType>
@@ -600,6 +644,7 @@
 		<zh-CN>奥林匹亚四~奥林匹亚四~奥林匹亚四</zh-CN>
 		<pt-BR>Olimpíada IV~uma Olimpíada IV~Olimpíadas IV</pt-BR>
 		<ko>올림피아 제전 IV~올림피아 제전 IV~올림피아 제전 IV</ko>
+		<fixja>オリンピック大会IV~オリンピック大会IV~オリンピック大会IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONVOY</zType>
@@ -613,6 +658,7 @@
 		<zh-CN>护卫队~护卫队~护卫队</zh-CN>
 		<pt-BR>Comboio~um Comboio~Comboios</pt-BR>
 		<ko>수송대~수송대~수송대</ko>
+		<fixja>護送船団~護送船団~護送船団</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONVOY_1</zType>
@@ -626,6 +672,7 @@
 		<zh-CN>护卫队一~护卫队一~护卫队一</zh-CN>
 		<pt-BR>Comboio I~um Comboio I~Comboios I</pt-BR>
 		<ko>수송대 I~수송대 I~수송대 I</ko>
+		<fixja>護送船団I~護送船団I~護送船団I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONVOY_2</zType>
@@ -639,6 +686,7 @@
 		<zh-CN>护卫队二~护卫队二~护卫队二</zh-CN>
 		<pt-BR>Comboio II~um Comboio II~Comboios II</pt-BR>
 		<ko>수송대 II~수송대 II~수송대 II</ko>
+		<fixja>護送船団II~護送船団II~護送船団II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONVOY_3</zType>
@@ -652,6 +700,7 @@
 		<zh-CN>护卫队三~护卫队三~护卫队三</zh-CN>
 		<pt-BR>Comboio III~um Comboio III~Comboios III</pt-BR>
 		<ko>수송대 III~수송대 III~수송대 III</ko>
+		<fixja>護送船団III~護送船団III~護送船団III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONVOY_4</zType>
@@ -665,6 +714,7 @@
 		<zh-CN>护卫队四~护卫队四~护卫队四</zh-CN>
 		<pt-BR>Comboio IV~um Comboio IV~Comboios IV</pt-BR>
 		<ko>수송대 IV~수송대 IV~수송대 IV</ko>
+		<fixja>護送船団IV~護送船団IV~護送船団IV</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_COUNCIL_1</zType>
@@ -678,6 +728,7 @@
 		<zh-CN>理事会一~理事会一~理事会一</zh-CN>
 		<pt-BR>Conselho I~um Conselho I~Conselhos I</pt-BR>
 		<ko>평의회 I~평의회 I~평의회 I</ko>
+		<fixja>評議会I~評議会I~評議会I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_COUNCIL_2</zType>
@@ -691,6 +742,7 @@
 		<zh-CN>理事会二~理事会二~理事会二</zh-CN>
 		<pt-BR>Conselho II~um Conselho II~Conselhos II</pt-BR>
 		<ko>평의회 II~평의회 II~평의회 II</ko>
+		<fixja>評議会II~評議会II~評議会II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_COUNCIL_3</zType>
@@ -704,6 +756,7 @@
 		<zh-CN>理事会三~理事会三~理事会三</zh-CN>
 		<pt-BR>Conselho III~um Conselho III~Conselhos III</pt-BR>
 		<ko>평의회 III~평의회 III~평의회 III</ko>
+		<fixja>評議会III~評議会III~評議会III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_COUNCIL_4</zType>
@@ -717,5 +770,6 @@
 		<zh-CN>理事会四~理事会四~理事会四</zh-CN>
 		<pt-BR>Conselho IV~um Conselho IV~Conselhos IV</pt-BR>
 		<ko>평의회 IV~평의회 IV~평의회 IV</ko>
+		<fixja>評議会IV~評議会IV~評議会IV</fixja>
 	</Entry>
 </Root>

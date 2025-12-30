@@ -27,6 +27,7 @@
 		<zh-CN>战斗</zh-CN>
 		<pt-BR>Combate</pt-BR>
 		<ko>전투</ko>
+		<fixja>戦闘</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT1</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>战斗一</zh-CN>
 		<pt-BR>Combate I</pt-BR>
 		<ko>전투 I</ko>
+		<fixja>戦闘 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT2</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>战斗二</zh-CN>
 		<pt-BR>Combate II</pt-BR>
 		<ko>전투 II</ko>
+		<fixja>戦闘 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT3</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>战斗三</zh-CN>
 		<pt-BR>Combate III</pt-BR>
 		<ko>전투 III</ko>
+		<fixja>戦闘 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNITCLASS_STRIKE</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>攻击</zh-CN>
 		<pt-BR>Ataque</pt-BR>
 		<ko>공격</ko>
+		<fixja>攻撃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STRIKE1</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>攻击一</zh-CN>
 		<pt-BR>Ataque I</pt-BR>
 		<ko>공격 I</ko>
+		<fixja>攻撃 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STRIKE2</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>攻击二</zh-CN>
 		<pt-BR>Ataque II</pt-BR>
 		<ko>공격 II</ko>
+		<fixja>攻撃 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STRIKE3</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>攻击三</zh-CN>
 		<pt-BR>Ataque III</pt-BR>
 		<ko>공격 III</ko>
+		<fixja>攻撃 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNITCLASS_GUARD</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>防守</zh-CN>
 		<pt-BR>Defesa</pt-BR>
 		<ko>수비</ko>
+		<fixja>守衛</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD1</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>防守一</zh-CN>
 		<pt-BR>Defesa I</pt-BR>
 		<ko>수비 I</ko>
+		<fixja>守衛 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD2</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>防守二</zh-CN>
 		<pt-BR>Defesa II</pt-BR>
 		<ko>수비 II</ko>
+		<fixja>守衛 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD3</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>防守三</zh-CN>
 		<pt-BR>Defesa III</pt-BR>
 		<ko>수비 III</ko>
+		<fixja>守衛 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNITCLASS_FOCUS</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>专注</zh-CN>
 		<pt-BR>Foco</pt-BR>
 		<ko>집중</ko>
+		<fixja>集中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS1</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>专注一</zh-CN>
 		<pt-BR>Foco I</pt-BR>
 		<ko>집중 I</ko>
+		<fixja>集中 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS2</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>专注二</zh-CN>
 		<pt-BR>Foco II</pt-BR>
 		<ko>집중 II</ko>
+		<fixja>集中 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS3</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>专注三</zh-CN>
 		<pt-BR>Foco III</pt-BR>
 		<ko>집중 III</ko>
+		<fixja>集中 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>追踪专家</zh-CN>
 		<pt-BR>Rastreador</pt-BR>
 		<ko>추적자</ko>
+		<fixja>追跡家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER_F</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>追踪专家</zh-CN>
 		<pt-BR>Rastreadora</pt-BR>
 		<ko>추적자</ko>
+		<fixja>追跡家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER_ALL</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>追踪专家领袖</zh-CN>
 		<pt-BR>Líder Rastreador</pt-BR>
 		<ko>추적자 지도자</ko>
+		<fixja>追跡家の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER_ALL_F</zType>
@@ -274,6 +293,7 @@
 		<zh-CN>追踪专家领袖</zh-CN>
 		<pt-BR>Líder Rastreadora</pt-BR>
 		<ko>추적자 지도자</ko>
+		<fixja>追跡家の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWIFT</zType>
@@ -287,6 +307,7 @@
 		<zh-CN>迅速敏捷</zh-CN>
 		<pt-BR>Veloz</pt-BR>
 		<ko>신속한</ko>
+		<fixja>機敏</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWIFT_F</zType>
@@ -300,6 +321,7 @@
 		<zh-CN>迅速敏捷</zh-CN>
 		<pt-BR>Veloz</pt-BR>
 		<ko>신속한</ko>
+		<fixja>機敏</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWIFT_ALL</zType>
@@ -313,6 +335,7 @@
 		<zh-CN>迅速敏捷领袖</zh-CN>
 		<pt-BR>Líder Veloz</pt-BR>
 		<ko>신속한 지도자</ko>
+		<fixja>機敏の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWIFT_ALL_F</zType>
@@ -326,6 +349,7 @@
 		<zh-CN>迅速敏捷领袖</zh-CN>
 		<pt-BR>Líder Veloz</pt-BR>
 		<ko>신속한 지도자</ko>
+		<fixja>機敏の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
@@ -339,6 +363,7 @@
 		<zh-CN>鹰眼</zh-CN>
 		<pt-BR>Olhos de Águia</pt-BR>
 		<ko>매의 눈</ko>
+		<fixja>炯眼</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EAGLE_EYE_F</zType>
@@ -352,6 +377,7 @@
 		<zh-CN>鹰眼</zh-CN>
 		<pt-BR>Olhos de Águia</pt-BR>
 		<ko>매의 눈</ko>
+		<fixja>炯眼</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
@@ -365,6 +391,7 @@
 		<zh-CN>神射手</zh-CN>
 		<pt-BR>Atirador</pt-BR>
 		<ko>명사수</ko>
+		<fixja>射手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MARKSMAN_F</zType>
@@ -378,6 +405,7 @@
 		<zh-CN>神射手</zh-CN>
 		<pt-BR>Atiradora</pt-BR>
 		<ko>명사수</ko>
+		<fixja>射手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_AMPHIBIOUS</zType>
@@ -391,6 +419,7 @@
 		<zh-CN>两栖</zh-CN>
 		<pt-BR>Anfíbio</pt-BR>
 		<ko>수륙 양용</ko>
+		<fixja>水陸両用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_AMPHIBIOUS_F</zType>
@@ -404,6 +433,7 @@
 		<zh-CN>两栖</zh-CN>
 		<pt-BR>Anfíbia</pt-BR>
 		<ko>수륙 양용</ko>
+		<fixja>水陸両用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MARINES</zType>
@@ -417,6 +447,7 @@
 		<zh-CN>海军</zh-CN>
 		<pt-BR>Marinho</pt-BR>
 		<ko>해병</ko>
+		<fixja>海兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MARINES_F</zType>
@@ -430,6 +461,7 @@
 		<zh-CN>海军</zh-CN>
 		<pt-BR>Marinha</pt-BR>
 		<ko>해병</ko>
+		<fixja>海兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BESIEGER</zType>
@@ -443,6 +475,7 @@
 		<zh-CN>攻城专家</zh-CN>
 		<pt-BR>Assediador</pt-BR>
 		<ko>공성병</ko>
+		<fixja>包囲屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BESIEGER_F</zType>
@@ -456,6 +489,7 @@
 		<zh-CN>攻城专家</zh-CN>
 		<pt-BR>Assediadora</pt-BR>
 		<ko>공성병</ko>
+		<fixja>包囲屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BESIEGER_ALL</zType>
@@ -469,6 +503,7 @@
 		<zh-CN>攻城专家领袖</zh-CN>
 		<pt-BR>Líder Assediador</pt-BR>
 		<ko>공성 전문가 지도자</ko>
+		<fixja>包囲屋の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BESIEGER_ALL_F</zType>
@@ -482,6 +517,7 @@
 		<zh-CN>攻城专家领袖</zh-CN>
 		<pt-BR>Líder Assediadora</pt-BR>
 		<ko>공성 전문가 지도자</ko>
+		<fixja>包囲屋の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_WARDEN</zType>
@@ -495,6 +531,7 @@
 		<zh-CN>狱吏</zh-CN>
 		<pt-BR>Guardião</pt-BR>
 		<ko>감시원</ko>
+		<fixja>張番</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_WARDEN_F</zType>
@@ -508,6 +545,7 @@
 		<zh-CN>狱吏</zh-CN>
 		<pt-BR>Guardiã</pt-BR>
 		<ko>감시원</ko>
+		<fixja>張番</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TOUGH</zType>
@@ -521,6 +559,7 @@
 		<zh-CN>坚毅不拔</zh-CN>
 		<pt-BR>Durão</pt-BR>
 		<ko>굳센</ko>
+		<fixja>頑健</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TOUGH_F</zType>
@@ -534,6 +573,7 @@
 		<zh-CN>坚毅不拔</zh-CN>
 		<pt-BR>Durona</pt-BR>
 		<ko>굳센</ko>
+		<fixja>頑健</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TOUGH_ALL</zType>
@@ -547,6 +587,7 @@
 		<zh-CN>坚毅不拔领袖</zh-CN>
 		<pt-BR>Líder Durão</pt-BR>
 		<ko>굳센 지도자</ko>
+		<fixja>頑健の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TOUGH_ALL_F</zType>
@@ -560,6 +601,7 @@
 		<zh-CN>坚毅不拔领袖</zh-CN>
 		<pt-BR>Líder Durona</pt-BR>
 		<ko>굳센 지도자</ko>
+		<fixja>頑健の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
@@ -573,6 +615,7 @@
 		<zh-CN>残忍嗜血</zh-CN>
 		<pt-BR>Sanguinário</pt-BR>
 		<ko>피에 굶주린</ko>
+		<fixja>残忍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY_F</zType>
@@ -586,6 +629,7 @@
 		<zh-CN>残忍嗜血</zh-CN>
 		<pt-BR>Sanguinária</pt-BR>
 		<ko>피에 굶주린</ko>
+		<fixja>残忍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY_ALL</zType>
@@ -599,6 +643,7 @@
 		<zh-CN>残忍嗜血领袖</zh-CN>
 		<pt-BR>Líder Sanguinário</pt-BR>
 		<ko>피에 굶주린 지도자</ko>
+		<fixja>残忍の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY_ALL_F</zType>
@@ -612,6 +657,7 @@
 		<zh-CN>残忍嗜血领袖</zh-CN>
 		<pt-BR>Líder Sanguinária</pt-BR>
 		<ko>피에 굶주린 지도자</ko>
+		<fixja>残忍の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HECKLER</zType>
@@ -625,6 +671,7 @@
 		<zh-CN>扰乱分子</zh-CN>
 		<pt-BR>Atrevido</pt-BR>
 		<ko>방해꾼</ko>
+		<fixja>不平屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HECKLER_F</zType>
@@ -638,6 +685,7 @@
 		<zh-CN>扰乱分子</zh-CN>
 		<pt-BR>Atrevida</pt-BR>
 		<ko>방해꾼</ko>
+		<fixja>不平屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HECKLER_ALL</zType>
@@ -651,6 +699,7 @@
 		<zh-CN>扰乱分子领袖</zh-CN>
 		<pt-BR>Líder Atrevido</pt-BR>
 		<ko>방해꾼 지도자</ko>
+		<fixja>不平屋の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HECKLER_ALL_F</zType>
@@ -664,6 +713,7 @@
 		<zh-CN>扰乱分子领袖</zh-CN>
 		<pt-BR>Líder Atrevida</pt-BR>
 		<ko>방해꾼 지도자</ko>
+		<fixja>不平屋の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEADFAST</zType>
@@ -677,6 +727,7 @@
 		<zh-CN>坚定不移</zh-CN>
 		<pt-BR>Resoluto</pt-BR>
 		<ko>꿋꿋한</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEADFAST_F</zType>
@@ -690,6 +741,7 @@
 		<zh-CN>坚定不移</zh-CN>
 		<pt-BR>Resoluta</pt-BR>
 		<ko>꿋꿋한</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEADFAST_ALL</zType>
@@ -703,6 +755,7 @@
 		<zh-CN>坚定不移领袖</zh-CN>
 		<pt-BR>Líder Resoluto</pt-BR>
 		<ko>꿋꿋한 지도자</ko>
+		<fixja>不屈の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEADFAST_ALL_F</zType>
@@ -716,6 +769,7 @@
 		<zh-CN>坚定不移领袖</zh-CN>
 		<pt-BR>Líder Resoluta</pt-BR>
 		<ko>꿋꿋한 지도자</ko>
+		<fixja>不屈の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERBALIST</zType>
@@ -729,6 +783,7 @@
 		<zh-CN>草药专家</zh-CN>
 		<pt-BR>Herborista</pt-BR>
 		<ko>약초사</ko>
+		<fixja>薬草医</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERBALIST_F</zType>
@@ -742,6 +797,7 @@
 		<zh-CN>草药专家</zh-CN>
 		<pt-BR>Herborista</pt-BR>
 		<ko>약초사</ko>
+		<fixja>薬草医</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERBALIST_ALL</zType>
@@ -755,6 +811,7 @@
 		<zh-CN>草药专家领袖</zh-CN>
 		<pt-BR>Líder Herborista</pt-BR>
 		<ko>약초사 지도자</ko>
+		<fixja>薬草医の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERBALIST_ALL_F</zType>
@@ -768,6 +825,7 @@
 		<zh-CN>草药专家领袖</zh-CN>
 		<pt-BR>Líder Herborista</pt-BR>
 		<ko>약초사 지도자</ko>
+		<fixja>薬草医の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HEALER</zType>
@@ -781,6 +839,7 @@
 		<zh-CN>治疗师</zh-CN>
 		<pt-BR>Curandeiro</pt-BR>
 		<ko>치유사</ko>
+		<fixja>ヒーラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HEALER_F</zType>
@@ -794,6 +853,7 @@
 		<zh-CN>治疗专家</zh-CN>
 		<pt-BR>Curandeira</pt-BR>
 		<ko>치유사</ko>
+		<fixja>ヒーラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_NOMAD</zType>
@@ -807,6 +867,7 @@
 		<zh-CN>游牧民族</zh-CN>
 		<pt-BR>Nômade</pt-BR>
 		<ko>유목민</ko>
+		<fixja>遊牧民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_NOMAD_F</zType>
@@ -820,6 +881,7 @@
 		<zh-CN>游牧民族</zh-CN>
 		<pt-BR>Nômade</pt-BR>
 		<ko>유목민</ko>
+		<fixja>遊牧民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COLD</zType>
@@ -833,6 +895,7 @@
 		<zh-CN>寒冷</zh-CN>
 		<pt-BR>Frio</pt-BR>
 		<ko>차가운</ko>
+		<fixja>冷淡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COLD_F</zType>
@@ -846,6 +909,7 @@
 		<zh-CN>寒冷</zh-CN>
 		<pt-BR>Fria</pt-BR>
 		<ko>차가운</ko>
+		<fixja>冷淡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
@@ -859,6 +923,7 @@
 		<zh-CN>高地人</zh-CN>
 		<pt-BR>Montanhês</pt-BR>
 		<ko>산악인</ko>
+		<fixja>高地の民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HIGHLANDER_F</zType>
@@ -872,6 +937,7 @@
 		<zh-CN>高地人</zh-CN>
 		<pt-BR>Montanhêsa</pt-BR>
 		<ko>산악인</ko>
+		<fixja>高地の民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HIGHLANDER_ALL</zType>
@@ -885,6 +951,7 @@
 		<zh-CN>高地人领袖</zh-CN>
 		<pt-BR>Líder Montanhês</pt-BR>
 		<ko>산악인 지도자</ko>
+		<fixja>高地の民の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HIGHLANDER_ALL_F</zType>
@@ -898,6 +965,7 @@
 		<zh-CN>高地人领袖</zh-CN>
 		<pt-BR>Líder Montanhêsa</pt-BR>
 		<ko>산악인 지도자</ko>
+		<fixja>高地の民の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER</zType>
@@ -911,6 +979,7 @@
 		<zh-CN>游侠</zh-CN>
 		<pt-BR>Guardião Silvestre</pt-BR>
 		<ko>파수꾼</ko>
+		<fixja>レンジャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER_F</zType>
@@ -924,6 +993,7 @@
 		<zh-CN>游侠</zh-CN>
 		<pt-BR>Líder Guardião Silvestre</pt-BR>
 		<ko>파수꾼</ko>
+		<fixja>レンジャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER_ALL</zType>
@@ -937,6 +1007,7 @@
 		<zh-CN>游侠领袖</zh-CN>
 		<pt-BR>Guardiã Silvestre</pt-BR>
 		<ko>파수꾼 지도자</ko>
+		<fixja>レンジャーの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER_ALL_F</zType>
@@ -950,6 +1021,7 @@
 		<zh-CN>游侠领袖</zh-CN>
 		<pt-BR>Líder Guardiã Silvestre</pt-BR>
 		<ko>파수꾼 지도자</ko>
+		<fixja>レンジャーの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BRAVE</zType>
@@ -963,6 +1035,7 @@
 		<zh-CN>勇敢无畏</zh-CN>
 		<pt-BR>Valente</pt-BR>
 		<ko>용감한</ko>
+		<fixja>勇敢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BRAVE_F</zType>
@@ -976,6 +1049,7 @@
 		<zh-CN>勇敢无畏</zh-CN>
 		<pt-BR>Valente</pt-BR>
 		<ko>용감한</ko>
+		<fixja>勇敢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BRAVE_ALL</zType>
@@ -989,6 +1063,7 @@
 		<zh-CN>勇敢无畏领袖</zh-CN>
 		<pt-BR>Líder Valente</pt-BR>
 		<ko>용감한 지도자</ko>
+		<fixja>勇敢の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BRAVE_ALL_F</zType>
@@ -1002,6 +1077,7 @@
 		<zh-CN>勇敢无畏领袖</zh-CN>
 		<pt-BR>Líder Valente</pt-BR>
 		<ko>용감한 지도자</ko>
+		<fixja>勇敢の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
@@ -1015,6 +1091,7 @@
 		<zh-CN>执盾兵</zh-CN>
 		<pt-BR>Porta-Escudo</pt-BR>
 		<ko>방패지기</ko>
+		<fixja>盾使い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIELDBEARER_F</zType>
@@ -1028,6 +1105,7 @@
 		<zh-CN>执盾兵</zh-CN>
 		<pt-BR>Porta-Escudo</pt-BR>
 		<ko>방패지기</ko>
+		<fixja>盾使い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIELDBEARER_ALL</zType>
@@ -1041,6 +1119,7 @@
 		<zh-CN>执盾兵领袖</zh-CN>
 		<pt-BR>Líder Porta-Escudo</pt-BR>
 		<ko>방패지기 지도자</ko>
+		<fixja>盾使いの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIELDBEARER_ALL_F</zType>
@@ -1054,6 +1133,7 @@
 		<zh-CN>执盾兵领袖</zh-CN>
 		<pt-BR>Líder Porta-Escudo</pt-BR>
 		<ko>방패지기 지도자</ko>
+		<fixja>盾使いの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIERCE</zType>
@@ -1067,6 +1147,7 @@
 		<zh-CN>暴躁好斗</zh-CN>
 		<pt-BR>Feroz</pt-BR>
 		<ko>사나운</ko>
+		<fixja>剛気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIERCE_F</zType>
@@ -1080,6 +1161,7 @@
 		<zh-CN>暴躁好斗</zh-CN>
 		<pt-BR>Feroz</pt-BR>
 		<ko>사나운</ko>
+		<fixja>剛気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIERCE_ALL</zType>
@@ -1093,6 +1175,7 @@
 		<zh-CN>暴躁好斗领袖</zh-CN>
 		<pt-BR>Líder Feroz</pt-BR>
 		<ko>사나운 지도자</ko>
+		<fixja>剛気の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIERCE_ALL_F</zType>
@@ -1106,6 +1189,7 @@
 		<zh-CN>暴躁好斗领袖</zh-CN>
 		<pt-BR>Líder Feroz</pt-BR>
 		<ko>사나운 지도자</ko>
+		<fixja>剛気の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
@@ -1119,6 +1203,7 @@
 		<zh-CN>骑兵终结者</zh-CN>
 		<pt-BR>Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽</ko>
+		<fixja>馬殺し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE_F</zType>
@@ -1132,6 +1217,7 @@
 		<zh-CN>毒水芹</zh-CN>
 		<pt-BR>Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽</ko>
+		<fixja>馬殺し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE_ALL</zType>
@@ -1145,6 +1231,7 @@
 		<zh-CN>骑兵终结者领袖</zh-CN>
 		<pt-BR>Líder Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽 지도자</ko>
+		<fixja>馬殺しの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE_ALL_F</zType>
@@ -1158,6 +1245,7 @@
 		<zh-CN>骑兵终结者领袖</zh-CN>
 		<pt-BR>Líder Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽 지도자</ko>
+		<fixja>馬殺しの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ENGINEER</zType>
@@ -1171,6 +1259,7 @@
 		<zh-CN>工程师</zh-CN>
 		<pt-BR>Engenheiro</pt-BR>
 		<ko>기술자</ko>
+		<fixja>技師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ENGINEER_F</zType>
@@ -1184,6 +1273,7 @@
 		<zh-CN>工程师</zh-CN>
 		<pt-BR>Engenheira</pt-BR>
 		<ko>기술자</ko>
+		<fixja>技師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ENGINEER_ALL</zType>
@@ -1197,6 +1287,7 @@
 		<zh-CN>工程师领袖</zh-CN>
 		<pt-BR>Líder Engenheiro</pt-BR>
 		<ko>기술자 지도자</ko>
+		<fixja>技師の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ENGINEER_ALL_F</zType>
@@ -1210,6 +1301,7 @@
 		<zh-CN>工程师领袖</zh-CN>
 		<pt-BR>Líder Engenheira</pt-BR>
 		<ko>기술자 지도자</ko>
+		<fixja>技師の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHRAPNEL</zType>
@@ -1223,6 +1315,7 @@
 		<zh-CN>弹片</zh-CN>
 		<pt-BR>Estilhaço</pt-BR>
 		<ko>유산탄</ko>
+		<fixja>榴散弾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHRAPNEL_F</zType>
@@ -1236,6 +1329,7 @@
 		<zh-CN>弹片</zh-CN>
 		<pt-BR>Estilhaço</pt-BR>
 		<ko>유산탄</ko>
+		<fixja>榴散弾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COCKSWAIN</zType>
@@ -1249,6 +1343,7 @@
 		<zh-CN>舵手</zh-CN>
 		<pt-BR>Timoneiro</pt-BR>
 		<ko>조타수</ko>
+		<fixja>舵手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COCKSWAIN_F</zType>
@@ -1262,6 +1357,7 @@
 		<zh-CN>舵手</zh-CN>
 		<pt-BR>Timoneira</pt-BR>
 		<ko>조타수</ko>
+		<fixja>舵手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GRAPPLER</zType>
@@ -1275,6 +1371,7 @@
 		<zh-CN>抓钩</zh-CN>
 		<pt-BR>Lutador</pt-BR>
 		<ko>갈고리</ko>
+		<fixja>武術士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GRAPPLER_F</zType>
@@ -1288,6 +1385,7 @@
 		<zh-CN>抓钩</zh-CN>
 		<pt-BR>Lutadora</pt-BR>
 		<ko>갈고리</ko>
+		<fixja>武術士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SEABORN</zType>
@@ -1301,6 +1399,7 @@
 		<zh-CN>水性极佳</zh-CN>
 		<pt-BR>Filho do Mar</pt-BR>
 		<ko>해전 체질</ko>
+		<fixja>海士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SEABORN_F</zType>
@@ -1314,6 +1413,7 @@
 		<zh-CN>浪里白条</zh-CN>
 		<pt-BR>Filha do Mar</pt-BR>
 		<ko>해전 체질</ko>
+		<fixja>海士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OVERWHELM</zType>
@@ -1327,6 +1427,7 @@
 		<zh-CN>压倒性</zh-CN>
 		<pt-BR>Sobrecarga</pt-BR>
 		<ko>압도</ko>
+		<fixja>圧倒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OVERWHELM_F</zType>
@@ -1340,6 +1441,7 @@
 		<zh-CN>围攻</zh-CN>
 		<pt-BR>Sobrecarga</pt-BR>
 		<ko>압도</ko>
+		<fixja>圧倒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIRESHIP</zType>
@@ -1353,6 +1455,7 @@
 		<zh-CN>火船</zh-CN>
 		<pt-BR>Brulote</pt-BR>
 		<ko>화공선</ko>
+		<fixja>火船</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIRESHIP_F</zType>
@@ -1366,6 +1469,7 @@
 		<zh-CN>火船</zh-CN>
 		<pt-BR>Brulote</pt-BR>
 		<ko>화공선</ko>
+		<fixja>火船</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_LADING</zType>
@@ -1379,6 +1483,7 @@
 		<zh-CN>船货</zh-CN>
 		<pt-BR>Carregamento</pt-BR>
 		<ko>선적</ko>
+		<fixja>積載</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_LADING_F</zType>
@@ -1392,6 +1497,7 @@
 		<zh-CN>船货</zh-CN>
 		<pt-BR>Carregamento</pt-BR>
 		<ko>선적</ko>
+		<fixja>積載</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MANEUVERS</zType>
@@ -1405,6 +1511,7 @@
 		<zh-CN>战术调动</zh-CN>
 		<pt-BR>Manobras</pt-BR>
 		<ko>기동 훈련</ko>
+		<fixja>計略</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MANEUVERS_F</zType>
@@ -1418,6 +1525,7 @@
 		<zh-CN>战术调动</zh-CN>
 		<pt-BR>Manobras</pt-BR>
 		<ko>기동 훈련</ko>
+		<fixja>計略</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_INGENUITY</zType>
@@ -1431,6 +1539,7 @@
 		<zh-CN>独创性</zh-CN>
 		<pt-BR>Engenhosidade</pt-BR>
 		<ko>재간</ko>
+		<fixja>智謀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_INGENUITY_F</zType>
@@ -1444,6 +1553,7 @@
 		<zh-CN>独创性</zh-CN>
 		<pt-BR>Engenhosidade</pt-BR>
 		<ko>재간</ko>
+		<fixja>智謀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
@@ -1457,6 +1567,7 @@
 		<zh-CN>天才骑手</zh-CN>
 		<pt-BR>Filho da Montaria</pt-BR>
 		<ko>기병 체질</ko>
+		<fixja>騎士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SADDLEBORN_F</zType>
@@ -1470,6 +1581,7 @@
 		<zh-CN>天才骑手</zh-CN>
 		<pt-BR>Filha da Montaria</pt-BR>
 		<ko>기병 체질</ko>
+		<fixja>騎士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SENTINEL</zType>
@@ -1483,6 +1595,7 @@
 		<zh-CN>哨兵</zh-CN>
 		<pt-BR>Sentinela</pt-BR>
 		<ko>보초병</ko>
+		<fixja>歩哨</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SENTINEL_F</zType>
@@ -1496,6 +1609,7 @@
 		<zh-CN>哨兵</zh-CN>
 		<pt-BR>Sentinela</pt-BR>
 		<ko>보초병</ko>
+		<fixja>歩哨</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SURVEYOR</zType>
@@ -1509,6 +1623,7 @@
 		<zh-CN>测量师</zh-CN>
 		<pt-BR>Supervisor</pt-BR>
 		<ko>측량사</ko>
+		<fixja>測量士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SURVEYOR_F</zType>
@@ -1522,6 +1637,7 @@
 		<zh-CN>测量师</zh-CN>
 		<pt-BR>Supervisora</pt-BR>
 		<ko>측량사</ko>
+		<fixja>測量士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ROUT</zType>
@@ -1535,6 +1651,7 @@
 		<zh-CN>击溃</zh-CN>
 		<pt-BR>Encalçar</pt-BR>
 		<ko>연파</ko>
+		<fixja>制圧</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ROUT_F</zType>
@@ -1548,6 +1665,7 @@
 		<zh-CN>击溃</zh-CN>
 		<pt-BR>Encalçar</pt-BR>
 		<ko>연파</ko>
+		<fixja>制圧</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PANIC</zType>
@@ -1561,6 +1679,7 @@
 		<zh-CN>恐慌</zh-CN>
 		<pt-BR>Pânico</pt-BR>
 		<ko>공황</ko>
+		<fixja>パニック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PANIC_F</zType>
@@ -1574,6 +1693,7 @@
 		<zh-CN>恐慌</zh-CN>
 		<pt-BR>Pânico</pt-BR>
 		<ko>공황</ko>
+		<fixja>パニック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
@@ -1587,6 +1707,7 @@
 		<zh-CN>隐身</zh-CN>
 		<pt-BR>Furtividade</pt-BR>
 		<ko>은신</ko>
+		<fixja>隠密</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEALTH_F</zType>
@@ -1600,6 +1721,7 @@
 		<zh-CN>隐身</zh-CN>
 		<pt-BR>Furtividade</pt-BR>
 		<ko>은신</ko>
+		<fixja>隠密</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TORSION_SPRING</zType>
@@ -1613,6 +1735,7 @@
 		<zh-CN>扭力弹簧</zh-CN>
 		<pt-BR>Mola de Torção</pt-BR>
 		<ko>뒤틀림 용수철</ko>
+		<fixja>ねじりバネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TORSION_SPRING_F</zType>
@@ -1626,6 +1749,7 @@
 		<zh-CN>扭力弹簧</zh-CN>
 		<pt-BR>Mola de Torção</pt-BR>
 		<ko>뒤틀림 용수철</ko>
+		<fixja>ねじりバネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RAPID_FIRE</zType>
@@ -1639,6 +1763,7 @@
 		<zh-CN>连发</zh-CN>
 		<pt-BR>Fogo Rápido</pt-BR>
 		<ko>속사</ko>
+		<fixja>速射</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RAPID_FIRE_F</zType>
@@ -1652,6 +1777,7 @@
 		<zh-CN>连发</zh-CN>
 		<pt-BR>Fogo Rápido</pt-BR>
 		<ko>속사</ko>
+		<fixja>速射</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ASSAULT</zType>
@@ -1665,6 +1791,7 @@
 		<zh-CN>进攻</zh-CN>
 		<pt-BR>Assalto</pt-BR>
 		<ko>돌격</ko>
+		<fixja>襲撃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ASSAULT_F</zType>
@@ -1678,6 +1805,7 @@
 		<zh-CN>进攻</zh-CN>
 		<pt-BR>Assalto</pt-BR>
 		<ko>돌격</ko>
+		<fixja>襲撃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FORMATION</zType>
@@ -1691,6 +1819,7 @@
 		<zh-CN>阵势</zh-CN>
 		<pt-BR>Formação</pt-BR>
 		<ko>진형</ko>
+		<fixja>陣形</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FORMATION_F</zType>
@@ -1704,6 +1833,7 @@
 		<zh-CN>阵势</zh-CN>
 		<pt-BR>Formação</pt-BR>
 		<ko>진형</ko>
+		<fixja>陣形</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CENTURION</zType>
@@ -1717,6 +1847,7 @@
 		<zh-CN>百夫长</zh-CN>
 		<pt-BR>Centurião</pt-BR>
 		<ko>백인대장</ko>
+		<fixja>百人隊長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CENTURION_F</zType>
@@ -1730,6 +1861,7 @@
 		<zh-CN>百夫长</zh-CN>
 		<pt-BR>Centurião</pt-BR>
 		<ko>백인대장</ko>
+		<fixja>百人隊長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CRIPPLED</zType>
@@ -1743,6 +1875,7 @@
 		<zh-CN>伤残</zh-CN>
 		<pt-BR>Aleijado</pt-BR>
 		<ko>불구</ko>
+		<fixja>不具</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CRIPPLED_F</zType>
@@ -1756,6 +1889,7 @@
 		<zh-CN>伤残</zh-CN>
 		<pt-BR>Aleijada</pt-BR>
 		<ko>불구</ko>
+		<fixja>不具</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SOLDIER</zType>
@@ -1769,6 +1903,7 @@
 		<zh-CN>士兵</zh-CN>
 		<pt-BR>Soldado</pt-BR>
 		<ko>군인</ko>
+		<fixja>兵士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SOLDIER_F</zType>
@@ -1782,6 +1917,7 @@
 		<zh-CN>士兵</zh-CN>
 		<pt-BR>Soldado</pt-BR>
 		<ko>군인</ko>
+		<fixja>兵士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PROPHET</zType>
@@ -1795,6 +1931,7 @@
 		<zh-CN>预言家</zh-CN>
 		<pt-BR>Profeta</pt-BR>
 		<ko>예언가</ko>
+		<fixja>預言者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PROPHET_F</zType>
@@ -1808,6 +1945,7 @@
 		<zh-CN>预言家</zh-CN>
 		<pt-BR>Profeta</pt-BR>
 		<ko>예언가</ko>
+		<fixja>預言者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EPICS</zType>
@@ -1821,6 +1959,7 @@
 		<zh-CN>link(LAW_EPICS)</zh-CN>
 		<pt-BR>link(LAW_EPICS)</pt-BR>
 		<ko>link(LAW_EPICS)</ko>
+		<fixja>link(LAW_EPICS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ASSYRIA</zType>
@@ -1834,6 +1973,7 @@
 		<zh-CN>link(NATION_ASSYRIA)</zh-CN>
 		<pt-BR>link(NATION_ASSYRIA)</pt-BR>
 		<ko>link(NATION_ASSYRIA)</ko>
+		<fixja>link(NATION_ASSYRIA)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ROME</zType>
@@ -1847,6 +1987,7 @@
 		<zh-CN>link(NATION_ROME)</zh-CN>
 		<pt-BR>link(NATION_ROME)</pt-BR>
 		<ko>link(NATION_ROME)</ko>
+		<fixja>link(NATION_ROME)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO</zType>
@@ -1860,6 +2001,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_HERO_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO_F</zType>
@@ -1873,6 +2015,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_HERO_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO_LEADER</zType>
@@ -1886,6 +2029,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_HERO_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO_LEADER_F</zType>
@@ -1899,6 +2043,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_HERO_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO_ALL</zType>
@@ -1912,6 +2057,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)领袖 (所有单位)</zh-CN>
 		<pt-BR>Líder link(TRAIT_HERO_ARCHETYPE) (todas as unidades)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 지도자 (모든 유닛)</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の指導者（すべてのユニット）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO_ALL_F</zType>
@@ -1925,6 +2071,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)领袖 (所有单位)</zh-CN>
 		<pt-BR>Líder link(TRAIT_HERO_ARCHETYPE,F) (todas as unidades)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 지도자 (모든 유닛)</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の指導者（すべてのユニット）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER</zType>
@@ -1938,6 +2085,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_COMMANDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER_F</zType>
@@ -1951,6 +2099,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_COMMANDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER_LEADER</zType>
@@ -1964,6 +2113,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_COMMANDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER_LEADER_F</zType>
@@ -1977,6 +2127,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_COMMANDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER_INFANTRY</zType>
@@ -1990,6 +2141,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)领袖 (link(UNITTRAIT_INFANTRY))</zh-CN>
 		<pt-BR>Líder link(TRAIT_COMMANDER_ARCHETYPE) (link(UNITTRAIT_INFANTRY))</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 지도자 (link(UNITTRAIT_INFANTRY))</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の指導者（link(UNITTRAIT_INFANTRY)）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER_INFANTRY_F</zType>
@@ -2003,6 +2155,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)领袖(link(UNITTRAIT_INFANTRY))</zh-CN>
 		<pt-BR>Líder link(TRAIT_COMMANDER_ARCHETYPE) (link(UNITTRAIT_INFANTRY))</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 지도자 (link(UNITTRAIT_INFANTRY))</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の指導者（link(UNITTRAIT_INFANTRY)）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
@@ -2016,6 +2169,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_TACTICIAN_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN_F</zType>
@@ -2029,6 +2183,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_TACTICIAN_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER</zType>
@@ -2042,6 +2197,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_TACTICIAN_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER_F</zType>
@@ -2055,6 +2211,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_TACTICIAN_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN_RANGED</zType>
@@ -2068,6 +2225,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)领袖 (link(UNITTRAIT_RANGED))</zh-CN>
 		<pt-BR>Líder link(TRAIT_TACTICIAN_ARCHETYPE) (link(UNITTRAIT_RANGED))</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 지도자 (link(UNITTRAIT_RANGED))</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の指導者（link(UNITTRAIT_RANGED)）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN_RANGED_F</zType>
@@ -2081,6 +2239,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)领袖(link(UNITTRAIT_RANGED))</zh-CN>
 		<pt-BR>Líder link(TRAIT_TACTICIAN_ARCHETYPE) (link(UNITTRAIT_RANGED))</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 지도자 (link(UNITTRAIT_RANGED))</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の指導者（link(UNITTRAIT_RANGED)）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT</zType>
@@ -2094,6 +2253,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT_F</zType>
@@ -2107,6 +2267,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)将军</zh-CN>
 		<pt-BR>General link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 장군</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT_LEADER</zType>
@@ -2120,6 +2281,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT_LEADER_F</zType>
@@ -2133,6 +2295,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)将军领袖</zh-CN>
 		<pt-BR>Líder General link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자 장군</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者の将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT_ALL</zType>
@@ -2146,6 +2309,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)领袖 (所有单位)</zh-CN>
 		<pt-BR>Líder link(TRAIT_ZEALOT_ARCHETYPE) (todas as unidades)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자 (모든 유닛)</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者（すべてのユニット）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT_ALL_F</zType>
@@ -2159,6 +2323,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)领袖 (所有单位)</zh-CN>
 		<pt-BR>Líder link(TRAIT_ZEALOT_ARCHETYPE,F) (todas as unidades)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자 (모든 유닛)</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者（すべてのユニット）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENLIST_NEXT</zType>
@@ -2172,6 +2337,7 @@
 		<zh-CN>招募下一个击杀者</zh-CN>
 		<pt-BR>Alistar próximo abate</pt-BR>
 		<ko>다음 처치한 유닛 포섭</ko>
+		<fixja>次の撃破時に徴兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENLIST_NEXT_F</zType>
@@ -2185,6 +2351,7 @@
 		<zh-CN>招募下一个击杀者</zh-CN>
 		<pt-BR>Alistar próximo abate</pt-BR>
 		<ko>다음 처치한 유닛 포섭</ko>
+		<fixja>次の撃破時に徴兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
@@ -2198,6 +2365,7 @@
 		<zh-CN>link(OPINIONFAMILY_FURIOUS)家族</zh-CN>
 		<pt-BR>Família link(OPINIONFAMILY_FURIOUS)</pt-BR>
 		<ko>가문의 태도: link(OPINIONFAMILY_FURIOUS)</ko>
+		<fixja>link(OPINIONFAMILY_FURIOUS)氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
@@ -2211,6 +2379,7 @@
 		<zh-CN>link(OPINIONFAMILY_ANGRY)家族</zh-CN>
 		<pt-BR>Família link(OPINIONFAMILY_ANGRY)</pt-BR>
 		<ko>가문의 태도: link(OPINIONFAMILY_ANGRY)</ko>
+		<fixja>link(OPINIONFAMILY_ANGRY)氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
@@ -2224,6 +2393,7 @@
 		<zh-CN>link(OPINIONFAMILY_UPSET)家族</zh-CN>
 		<pt-BR>Família link(OPINIONFAMILY_UPSET)</pt-BR>
 		<ko>가문의 태도: link(OPINIONFAMILY_UPSET)</ko>
+		<fixja>link(OPINIONFAMILY_UPSET)氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
@@ -2237,6 +2407,7 @@
 		<zh-CN>link(OPINIONFAMILY_PLEASED)家族</zh-CN>
 		<pt-BR>Família link(OPINIONFAMILY_PLEASED)</pt-BR>
 		<ko>가문의 태도: link(OPINIONFAMILY_PLEASED)</ko>
+		<fixja>link(OPINIONFAMILY_PLEASED)氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
@@ -2250,6 +2421,7 @@
 		<zh-CN>link(OPINIONFAMILY_FRIENDLY)家族</zh-CN>
 		<pt-BR>Família link(OPINIONFAMILY_FRIENDLY)</pt-BR>
 		<ko>가문의 태도: link(OPINIONFAMILY_FRIENDLY)</ko>
+		<fixja>link(OPINIONFAMILY_FRIENDLY)氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
@@ -2263,6 +2435,7 @@
 		<zh-CN>诸神之剑</zh-CN>
 		<pt-BR>Espada dos Deuses</pt-BR>
 		<ko>신들의 칼날</ko>
+		<fixja>神々の剣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GENERAL_HOPPING</zType>
@@ -2276,6 +2449,7 @@
 		<zh-CN>弹性领导</zh-CN>
 		<pt-BR>Liderança Flexível</pt-BR>
 		<ko>유연한 지도력</ko>
+		<fixja>機転の利く指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIMELEE</zType>
@@ -2289,6 +2463,7 @@
 		<zh-CN>反近战</zh-CN>
 		<pt-BR>Contra corpo a corpo</pt-BR>
 		<ko>대 근거리</ko>
+		<fixja>対近接ユニット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIRANGED</zType>
@@ -2302,6 +2477,7 @@
 		<zh-CN>反远程</zh-CN>
 		<pt-BR>Contra a distância</pt-BR>
 		<ko>대 원거리</ko>
+		<fixja>対遠隔ユニット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIPOLEARM</zType>
@@ -2315,6 +2491,7 @@
 		<zh-CN>反长柄武器</zh-CN>
 		<pt-BR>Contra arma de haste</pt-BR>
 		<ko>대 장병기</ko>
+		<fixja>対長柄ユニット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIINFANTRY1</zType>
@@ -2328,6 +2505,7 @@
 		<zh-CN>反步兵一</zh-CN>
 		<pt-BR>Contra infantaria I</pt-BR>
 		<ko>대 보병 I</ko>
+		<fixja>対歩兵ユニット I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIINFANTRY2</zType>
@@ -2341,6 +2519,7 @@
 		<zh-CN>反步兵二</zh-CN>
 		<pt-BR>Contra infantaria II</pt-BR>
 		<ko>대 보병 II</ko>
+		<fixja>対歩兵ユニット II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIMOUNTED1</zType>
@@ -2354,6 +2533,7 @@
 		<zh-CN>反骑兵一</zh-CN>
 		<pt-BR>Contra montaria I</pt-BR>
 		<ko>대 기병 I</ko>
+		<fixja>対騎兵ユニット I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIMOUNTED2</zType>
@@ -2367,6 +2547,7 @@
 		<zh-CN>反骑兵二</zh-CN>
 		<pt-BR>Contra montaria II</pt-BR>
 		<ko>대 기병 II</ko>
+		<fixja>対騎兵ユニット II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ANTIMOUNTED3</zType>
@@ -2380,6 +2561,7 @@
 		<zh-CN>反骑兵三</zh-CN>
 		<pt-BR>Contra montaria III</pt-BR>
 		<ko>대 기병 III</ko>
+		<fixja>対騎兵ユニット III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PIERCE1</zType>
@@ -2393,6 +2575,7 @@
 		<zh-CN>穿刺一</zh-CN>
 		<pt-BR>Perfurar I</pt-BR>
 		<ko>관통 I</ko>
+		<fixja>貫通 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PIERCE2</zType>
@@ -2406,6 +2589,7 @@
 		<zh-CN>穿刺二</zh-CN>
 		<pt-BR>Perfurar II</pt-BR>
 		<ko>관통 II</ko>
+		<fixja>貫通 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PIERCE3</zType>
@@ -2419,6 +2603,7 @@
 		<zh-CN>穿刺三</zh-CN>
 		<pt-BR>Perfurar III</pt-BR>
 		<ko>관통 III</ko>
+		<fixja>貫通 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CLEAVE1</zType>
@@ -2432,6 +2617,7 @@
 		<zh-CN>劈砍一</zh-CN>
 		<pt-BR>Fenda I</pt-BR>
 		<ko>절단 I</ko>
+		<fixja>劈開 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CLEAVE2</zType>
@@ -2445,6 +2631,7 @@
 		<zh-CN>劈砍二</zh-CN>
 		<pt-BR>Fenda II</pt-BR>
 		<ko>절단 II</ko>
+		<fixja>劈開 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CIRCLE</zType>
@@ -2458,6 +2645,7 @@
 		<zh-CN>圆形</zh-CN>
 		<pt-BR>Circular</pt-BR>
 		<ko>원형</ko>
+		<fixja>円形</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SPLASH1</zType>
@@ -2471,6 +2659,7 @@
 		<zh-CN>散射一</zh-CN>
 		<pt-BR>Disperso I</pt-BR>
 		<ko>산개 I</ko>
+		<fixja>巻き込み I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SPLASH2</zType>
@@ -2484,6 +2673,7 @@
 		<zh-CN>散射二</zh-CN>
 		<pt-BR>Disperso II</pt-BR>
 		<ko>산개 II</ko>
+		<fixja>巻き込み II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PILLAGE</zType>
@@ -2497,6 +2687,7 @@
 		<zh-CN>掠夺</zh-CN>
 		<pt-BR>Saquear</pt-BR>
 		<ko>파괴</ko>
+		<fixja>略奪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PILLAGE_F</zType>
@@ -2510,6 +2701,7 @@
 		<zh-CN>掠夺</zh-CN>
 		<pt-BR>Saquear</pt-BR>
 		<ko>파괴</ko>
+		<fixja>略奪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ADEPT</zType>
@@ -2523,6 +2715,7 @@
 		<zh-CN>内行</zh-CN>
 		<pt-BR>Adepto</pt-BR>
 		<ko>달인</ko>
+		<fixja>達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PERICLES_LEADER</zType>
@@ -2536,6 +2729,7 @@
 		<zh-CN>第一公民</zh-CN>
 		<pt-BR>Primeiro Cidadão</pt-BR>
 		<ko>일등 시민</ko>
+		<fixja>第一市民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_LEONIDAS_LEADER</zType>
@@ -2549,6 +2743,7 @@
 		<zh-CN>不屈不挠</zh-CN>
 		<pt-BR>Indomável</pt-BR>
 		<ko>불굴</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_VOLLEY</zType>
@@ -2562,6 +2757,7 @@
 		<zh-CN>齐射</zh-CN>
 		<pt-BR>Salva</pt-BR>
 		<ko>일제 사격</ko>
+		<fixja>一斉発射</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_VOLLEY_F</zType>
@@ -2575,6 +2771,7 @@
 		<zh-CN>齐射</zh-CN>
 		<pt-BR>Salva</pt-BR>
 		<ko>일제 사격</ko>
+		<fixja>一斉発射</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_NATION_KUSH</zType>
@@ -2588,6 +2785,7 @@
 		<zh-CN>link(NATION_KUSH)</zh-CN>
 		<pt-BR>link(NATION_KUSH)</pt-BR>
 		<ko>link(NATION_KUSH)</ko>
+		<fixja>link(NATION_KUSH)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOOLS_RING</zType>
@@ -2601,6 +2799,7 @@
 		<zh-CN>愚人之环</zh-CN>
 		<pt-BR>Anel da Tolice</pt-BR>
 		<ko>우둔한 자의 반지</ko>
+		<fixja>愚人のリング</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EXTRA_VISION</zType>
@@ -2614,6 +2813,7 @@
 		<zh-CN>高视野</zh-CN>
 		<pt-BR>Ótima Visão</pt-BR>
 		<ko>우수한 시야</ko>
+		<fixja>ハイビジョン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BULWARK_ARMOR</zType>
@@ -2627,6 +2827,7 @@
 		<zh-CN>堡垒胸甲</zh-CN>
 		<pt-BR>Couraça Baluarte</pt-BR>
 		<ko>단단한 흉갑</ko>
+		<fixja>ブルワーク・キュイラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BULWARK_ARMOR_F</zType>
@@ -2640,6 +2841,7 @@
 		<zh-CN>堡垒胸甲</zh-CN>
 		<pt-BR>Couraça Baluarte</pt-BR>
 		<ko>단단한 흉갑</ko>
+		<fixja>ブルワーク・キュイラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DISARM</zType>
@@ -2653,6 +2855,7 @@
 		<zh-CN>缴械</zh-CN>
 		<pt-BR>Desarmar</pt-BR>
 		<ko>무장 해제</ko>
+		<fixja>武装解除</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DISARM_F</zType>
@@ -2666,6 +2869,7 @@
 		<zh-CN>缴械</zh-CN>
 		<pt-BR>Desarmar</pt-BR>
 		<ko>무장 해제</ko>
+		<fixja>武装解除</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DISARMED</zType>
@@ -2679,6 +2883,7 @@
 		<zh-CN>已被缴械</zh-CN>
 		<pt-BR>Desarmado</pt-BR>
 		<ko>무장 해제됨</ko>
+		<fixja>武装解除された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DISARMED_F</zType>
@@ -2692,6 +2897,7 @@
 		<zh-CN>已被缴械</zh-CN>
 		<pt-BR>Desarmada</pt-BR>
 		<ko>무장 해제됨</ko>
+		<fixja>武装解除された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIP_FORMATION</zType>
@@ -2705,6 +2911,7 @@
 		<zh-CN>圆形阵形</zh-CN>
 		<pt-BR>Formação em Círculo</pt-BR>
 		<ko>원형 전형</ko>
+		<fixja>円陣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HARVESTER</zType>
@@ -2718,6 +2925,7 @@
 		<zh-CN>采收者</zh-CN>
 		<pt-BR>Coletor</pt-BR>
 		<ko>수확자</ko>
+		<fixja>収穫者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HARVESTER_F</zType>
@@ -2731,5 +2939,6 @@
 		<zh-CN>采收者</zh-CN>
 		<pt-BR>Coletora</pt-BR>
 		<ko>수확자</ko>
+		<fixja>収穫者</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>为我们选择配偶</zh-CN>
 		<pt-BR>Escolheu um cônjuge para mim</pt-BR>
 		<ko>우리를 위해 배우자를 선택해 주었다</ko>
+		<fixja>我らがために選ばれた配偶者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_PRAISED_SUCCESS</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>赞美我们的成功</zh-CN>
 		<pt-BR>Elogiou nosso sucesso</pt-BR>
 		<ko>우리의 성공을 축하했다</ko>
+		<fixja>称えられし成功</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_UNFLINCHING_CONTEMPT</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>毫不畏缩的蔑视</zh-CN>
 		<pt-BR>Desprezo aberto</pt-BR>
 		<ko>수그러들지 않는 경멸</ko>
+		<fixja>冷淡なる軽蔑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_SILENCED</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>遭灭口</zh-CN>
 		<pt-BR>Silenciado</pt-BR>
 		<ko>임막음당했다</ko>
+		<fixja>黙った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_MOODY</zType>
@@ -78,6 +82,7 @@
 		<zh-CN><![CDATA[“这种<i>情绪</i>叫作责任感。”]]></zh-CN>
 		<pt-BR><![CDATA["Esse <i>mal humor</i> se chama responsabilidade."]]></pt-BR>
 		<ko><![CDATA["이 <i>기분</i>은 책임이라고 하는 것이다."]]></ko>
+		<fixja>「この心境こそ、“責任”と呼ばれるものだ。」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_DENIED_OPPORTUNITY</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>放弃一个机会</zh-CN>
 		<pt-BR>Negou uma oportunidade</pt-BR>
 		<ko>기회를 저버렸다</ko>
+		<fixja>奪われた機会</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_VENGEANCE_TARGET</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>活该被我们报复</zh-CN>
 		<pt-BR>Merece nossa vingança</pt-BR>
 		<ko>우리의 복수를 받아 마땅하다</ko>
+		<fixja>我々の復讐を受けるべき相手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_PREFERED_VIZIER</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>与前首席大臣建立关系</zh-CN>
 		<pt-BR>Tem laços com o grão-vizir anterior</pt-BR>
 		<ko>이전 대재상과 연이 있다</ko>
+		<fixja>前大宰相との繋がり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_STAYED_OUT_OF_FAMILY_POLITICS</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>远离家族政治</zh-CN>
 		<pt-BR>Não se meteu em políticas familiares</pt-BR>
 		<ko>가족 정치에 관여하지 않았다</ko>
+		<fixja>氏族政治には未干渉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_LAVISH_LIFESTYLES</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>奢侈的生活方式</zh-CN>
 		<pt-BR>Estilo de vida de copiosa opulência </pt-BR>
 		<ko>호화로운 생활 방식</ko>
+		<fixja>豪華絢爛な生活様式</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_EXILED_BY_PLOTTING</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>因阴谋构陷而遭到放逐</zh-CN>
 		<pt-BR>Sofreu exílio por tramar</pt-BR>
 		<ko>음모를 꾀해 추방당했다</ko>
+		<fixja>陰謀を企てたことで追放</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_CONFISCATED_FAMILY_FORTUNE</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>没收我们的家族财产</zh-CN>
 		<pt-BR>Confiscou a fortuna de nossa família</pt-BR>
 		<ko>우리 가문의 재산을 몰수했다</ko>
+		<fixja>家財の没収</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_DID_NOT_PRESIDE_OVER_CASE</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>不审理我们的家族案件</zh-CN>
 		<pt-BR>Não decidiu em favor de nossa família em um caso legal</pt-BR>
 		<ko>우리 가족의 법적 사건을 주재하지 않았다</ko>
+		<fixja>我が氏族の法的紛争を裁かず</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_SNUBBED_AT_DINNER</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>晚宴上冷落我们</zh-CN>
 		<pt-BR>Nos ignorou no jantar</pt-BR>
 		<ko>저녁 식사 때 우리를 무시했다</ko>
+		<fixja>夕食の席で私たちを無視</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_DISTANCED_HEIR</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>让你的继承人远离家族的影响</zh-CN>
 		<pt-BR>Distanciou seu herdeiro da influência da família</pt-BR>
 		<ko>당신의 후계자를 가족의 영향력으로부터 멀리 했다</ko>
+		<fixja>後継者を氏族の影響力から遠ざけた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_DERIDED_MUSIC</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>嘲笑我的音乐</zh-CN>
 		<pt-BR>Zombou da minha música</pt-BR>
 		<ko>내 음악을 조롱했다</ko>
+		<fixja>嘲笑されし我が音楽</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_DISTANT_RELATIONSHIP</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>疏远的关系</zh-CN>
 		<pt-BR>Relação distante</pt-BR>
 		<ko>소원한 관계</ko>
+		<fixja>遠距離</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_COOPERATED</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>已合作</zh-CN>
 		<pt-BR>Cooperou</pt-BR>
 		<ko>협조했다</ko>
+		<fixja>協調した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_NOBILITY_DISAPPOINTED</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>失望的贵族</zh-CN>
 		<pt-BR>Nobreza desapontada</pt-BR>
 		<ko>귀족이 실망했다</ko>
+		<fixja>貴族たちの失望</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_IMPRISONED_LEADER</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>囚禁我们的领袖</zh-CN>
 		<pt-BR>Aprisionou nosso líder</pt-BR>
 		<ko>우리 지도자를 투옥했다</ko>
+		<fixja>指導者の投獄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_REFUSED_TO_PAY_DEBTS</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>拒绝还债</zh-CN>
 		<pt-BR>Negou-se a pagar dívidas</pt-BR>
 		<ko>빚 변제를 거절했다</ko>
+		<fixja>債務支払い拒否</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_SLIGHTED_NATIONAL_PRIDE</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>民族自豪感被轻视</zh-CN>
 		<pt-BR>Desprezou o orgulho nacional</pt-BR>
 		<ko>나라에 대한 자긍심을 무시했다</ko>
+		<fixja>傷つけられた国家の誇り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYRELIGION_IMPRISONED_HEAD</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>囚禁我们的宗教领袖</zh-CN>
 		<pt-BR>Aprisionou nosso líder religioso</pt-BR>
 		<ko>우리 종교의 수장을 투옥했다</ko>
+		<fixja>投獄された教祖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_GRANTED_CONCESSIONS</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>向我们做出让步</zh-CN>
 		<pt-BR>Fez concessões para nós</pt-BR>
 		<ko>우리에게 양보했다</ko>
+		<fixja>認められた譲歩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_PUNISHED_LAW_VIOLATION</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>惩罚我们的违法行为</zh-CN>
 		<pt-BR>Nos puniu por violar a lei</pt-BR>
 		<ko>우리의 법을 위반하여 처벌했다</ko>
+		<fixja>法律違反で罰された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_RANSACKED_CITY</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>洗劫我们的城市</zh-CN>
 		<pt-BR>Saqueou nossa cidade</pt-BR>
 		<ko>우리 도시를 약탈했다</ko>
+		<fixja>我が都市の略奪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_DOWNPLAYED_VICTORIES</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>贬低我的胜利</zh-CN>
 		<pt-BR>Minimizou minhas vitórias</pt-BR>
 		<ko>나의 승리를 하찮게 여겼다</ko>
+		<fixja>我が国の勝利を過小評価</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_FULL_REBELLION</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>彻底的叛乱</zh-CN>
 		<pt-BR>Rebelião completa</pt-BR>
 		<ko>완전한 반란</ko>
+		<fixja>完全なる反乱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_EXILED_RISING_STAR</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>放逐我国的新星</zh-CN>
 		<pt-BR>Exilou a estrela em ascensão de nossa nação</pt-BR>
 		<ko>우리 나라의 떠오르는 별을 추방했다</ko>
+		<fixja>我が国の有望株を追放</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_SIDELINED_RISING_STAR</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>排挤我国的新星</zh-CN>
 		<pt-BR>Ignorou a estrela em ascensão de nossa nação</pt-BR>
 		<ko>우리 나라의 떠오르는 별을 배제했다</ko>
+		<fixja>我が国の有望株を冷遇</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_SIDELINED</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>在宫廷中排挤我</zh-CN>
 		<pt-BR>Me ignorou na corte</pt-BR>
 		<ko>나를 궁정에서 배제했다</ko>
+		<fixja>宮廷で冷遇される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_NO_LONGER_ALLIED</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>我们不再是盟友了</zh-CN>
 		<pt-BR>Já não somos aliados</pt-BR>
 		<ko>우리는 이제 동맹이 아니다</ko>
+		<fixja>我々はもはや仲間ではない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYTRIBE_REFUSED_REFUGEES</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>拒绝寻求庇护的难民</zh-CN>
 		<pt-BR>Recusou refugiados buscando abrigo</pt-BR>
 		<ko>피난처를 찾는 난민을 거절했다</ko>
+		<fixja>避難先を求める難民を門前払い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_REFUSED_HELP</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>拒绝我的帮助</zh-CN>
 		<pt-BR>Recusou minha ajuda</pt-BR>
 		<ko>나의 도움을 거절했다</ko>
+		<fixja>協力の拒否</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYTRIBE_HUNTING_COMPETITION</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>相互尊重</zh-CN>
 		<pt-BR>Respeito mútuo</pt-BR>
 		<ko>상호 존중</ko>
+		<fixja>相互尊重</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_CATERED_TO_DEMANDS</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>满足内战期间的需求</zh-CN>
 		<pt-BR>Atendeu exigências durante a guerra civil</pt-BR>
 		<ko>내전 중에 요구를 들어주었다</ko>
+		<fixja>内戦中の要求に応える</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_FAILED_TO_MAINTAIN_LUXURIES</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>未能维持奢侈品的供应</zh-CN>
 		<pt-BR>Falhou em manter uma abastecimento de luxos</pt-BR>
 		<ko>사치품 공급 유지에 실패했다</ko>
+		<fixja>贅沢品の供給維持に失敗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_WITLESSNESS</zType>
@@ -507,5 +544,6 @@
 		<zh-CN>无知</zh-CN>
 		<pt-BR>Falta de julgamento</pt-BR>
 		<ko>지혜가 없음</ko>
+		<fixja>愚鈍</fixja>
 	</Entry>
 </Root>

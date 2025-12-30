@@ -26,6 +26,7 @@
 		<zh-CN>以不复原的方式获胜</zh-CN>
 		<pt-BR>Vença no modo sem desfazer</pt-BR>
 		<ko>철회 없이 승리한다</ko>
+		<fixja>取り消しを使用せずに勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>以随机领袖获胜</zh-CN>
 		<pt-BR>Vença no modo líder aleatório</pt-BR>
 		<ko>무작위 지도자 설정으로 승리한다</ko>
+		<fixja>ランダムに選ばれた指導者に勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>以随机家族获胜</zh-CN>
 		<pt-BR>Vença no modo famílias aleatórias</pt-BR>
 		<ko>무작위 가문 설정으로 승리한다</ko>
+		<fixja>ランダムに選ばれた家族に勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_ROLE_PLAYING</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>以角色扮演事件获胜</zh-CN>
 		<pt-BR>Vença no modo eventos imersivos</pt-BR>
 		<ko>역할극 설정으로 승리한다</ko>
+		<fixja>ロールプレイのイベントで勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>赢得一次城市挑战</zh-CN>
 		<pt-BR>Vença no modo desafio de uma cidade</pt-BR>
 		<ko>단일 도시 도전 설정으로 승리한다</ko>
+		<fixja>1都市チャレンジで勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_NO_CHARACTERS</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>以没有人物的方式获胜</zh-CN>
 		<pt-BR>Vença no modo sem personagens</pt-BR>
 		<ko>인물 없음 설정으로 승리한다</ko>
+		<fixja>キャラクターなしで勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_ALL_NATIONS</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>赢得一次与所有国家的竞赛</zh-CN>
 		<pt-BR>Vença uma partida contra todas as nações</pt-BR>
 		<ko>모든 국가를 상대로 승리한다</ko>
+		<fixja>すべての国との対戦に勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_POINTS</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>赢得积分胜利</zh-CN>
 		<pt-BR>Vença com uma vitória por pontos</pt-BR>
 		<ko>점수 승리를 달성한다</ko>
+		<fixja>スコア勝利を勝ち取った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_DOUBLE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>赢得双重胜利</zh-CN>
 		<pt-BR>Vença com uma vitória por dobro de pontos</pt-BR>
 		<ko>두 배 승리를 달성한다</ko>
+		<fixja>ダブルスコア勝利を勝ち取った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_AMBITION</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>赢得抱负胜利</zh-CN>
 		<pt-BR>Vença com uma vitória por ambição</pt-BR>
 		<ko>야망 승리를 달성한다</ko>
+		<fixja>野望勝利を勝ち取った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_TIME</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>赢得时间胜利</zh-CN>
 		<pt-BR>Vença com uma vitória por tempo</pt-BR>
 		<ko>시간 승리를 달성한다</ko>
+		<fixja>時間勝利を勝ち取った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_VICTORY_CONQUEST</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>赢得征服胜利</zh-CN>
 		<pt-BR>Vença com uma vitória por conquista</pt-BR>
 		<ko>정복 승리를 달성한다</ko>
+		<fixja>征服勝利を勝ち取った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ALLIANCE_VICTORY</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>帮助盟军赢得竞赛</zh-CN>
 		<pt-BR>Ajude um aliado a vencer uma partida</pt-BR>
 		<ko>동맹이 승리할 수 있도록 돕는다</ko>
+		<fixja>味方が対戦に勝利するのに貢献した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_EVENTLEVEL_HIGH</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>以高事件等级获胜</zh-CN>
 		<pt-BR>Vença com nível de eventos alto</pt-BR>
 		<ko>높은 사건 발생률 설정으로 승리한다</ko>
+		<fixja>「高」イベントレベルで勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_MORTALITY_REALISTIC</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>以实际死亡率获胜</zh-CN>
 		<pt-BR>Vença com mortalidade realística</pt-BR>
 		<ko>현실적 사망률 설정으로 승리한다</ko>
+		<fixja>「現実的」死亡率で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_NEW</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>以新难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Novo</pt-BR>
 		<ko>새로운 자 난이도로 승리한다</ko>
+		<fixja>新たな難易度で勝利</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_ABLE</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>以「平庸」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Capaz</pt-BR>
 		<ko>유능한 자 난이도로 승리한다</ko>
+		<fixja>難易度「有能者」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_JUST</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>以「尚佳」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Justo</pt-BR>
 		<ko>공정한 자 난이도로 승리한다</ko>
+		<fixja>難易度「優良者」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_GOOD</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>以「优秀」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Bom</pt-BR>
 		<ko>선한 자 난이도로 승리한다</ko>
+		<fixja>難易度「優秀者」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_STRONG</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>以「强大」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Forte</pt-BR>
 		<ko>강대한 자 난이도로 승리한다</ko>
+		<fixja>難易度「強者」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_NOBLE</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>以「卓越」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Nobre</pt-BR>
 		<ko>고귀한 자 난이도로 승리한다</ko>
+		<fixja>難易度「高貴なる者」に勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_GLORIOUS</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>以「荣耀」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Glorioso</pt-BR>
 		<ko>영예로운 자 난이도로 승리한다</ko>
+		<fixja>難易度「栄誉ある者」に勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_MAGNIFICENT</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>以「枭雄」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Magnífico</pt-BR>
 		<ko>장엄한 자 난이도로 승리한다</ko>
+		<fixja>難易度「崇高なる者」に勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DIFFICULTY_GREAT</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>以「伟大」难度获胜</zh-CN>
 		<pt-BR>Vença na dificuldade Grande</pt-BR>
 		<ko>위대한 자 난이도로 승리한다</ko>
+		<fixja>難易度「偉大なる者」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_ASSYRIA</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>以亚述获胜</zh-CN>
 		<pt-BR>Vença jogando como Assíria</pt-BR>
 		<ko>아시리아로 승리한다</ko>
+		<fixja>アッシリアとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_BABYLONIA</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>以巴比伦尼亚获胜</zh-CN>
 		<pt-BR>Vença jogando como Babilônia</pt-BR>
 		<ko>바빌로니아로 승리한다</ko>
+		<fixja>バビロニアとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_CARTHAGE</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>以迦太基获胜</zh-CN>
 		<pt-BR>Vença jogando como Cartago</pt-BR>
 		<ko>카르타고로 승리한다</ko>
+		<fixja>カルタゴとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_EGYPT</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>以埃及获胜</zh-CN>
 		<pt-BR>Vença jogando como Egito</pt-BR>
 		<ko>이집트로 승리한다</ko>
+		<fixja>エジプトとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_GREECE</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>以希腊获胜</zh-CN>
 		<pt-BR>Vença jogando como Grécia</pt-BR>
 		<ko>그리스로 승리한다</ko>
+		<fixja>ギリシャとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_PERSIA</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>以波斯获胜</zh-CN>
 		<pt-BR>Vença jogando como Pérsia</pt-BR>
 		<ko>페르시아로 승리한다</ko>
+		<fixja>ペルシャとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_ROME</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>以罗马获胜</zh-CN>
 		<pt-BR>Vença jogando como Roma</pt-BR>
 		<ko>로마로 승리한다</ko>
+		<fixja>ローマとして勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_LANDOWNERS</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>以地主获胜</zh-CN>
 		<pt-BR>Vença com Latifundiários</pt-BR>
 		<ko>지주 가문으로 승리한다</ko>
+		<fixja>「地主」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_CHAMPIONS</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>以斗士获胜</zh-CN>
 		<pt-BR>Vença com Campeões</pt-BR>
 		<ko>투사 가문으로 승리한다</ko>
+		<fixja>「闘士」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_STATESMEN</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>以政治家获胜</zh-CN>
 		<pt-BR>Vença com Estadistas</pt-BR>
 		<ko>정치가 가문으로 승리한다</ko>
+		<fixja>「政治家」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_PATRONS</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>以赞助人获胜</zh-CN>
 		<pt-BR>Vença com Patronos</pt-BR>
 		<ko>후원자 가문으로 승리한다</ko>
+		<fixja>「パトロン」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_CLERICS</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>以教士获胜</zh-CN>
 		<pt-BR>Vença com Clérigos</pt-BR>
 		<ko>성직자 가문으로 승리한다</ko>
+		<fixja>「宗教家」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_SAGES</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>以智者获胜</zh-CN>
 		<pt-BR>Vença com Eruditos</pt-BR>
 		<ko>현자 가문으로 승리한다</ko>
+		<fixja>「賢者」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_TRADERS</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>以商人获胜</zh-CN>
 		<pt-BR>Vença com Mercadores</pt-BR>
 		<ko>교역상 가문으로 승리한다</ko>
+		<fixja>「貿易商」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_ARTISANS</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>以工匠获胜</zh-CN>
 		<pt-BR>Vença com Artesãos</pt-BR>
 		<ko>장인 가문으로 승리한다</ko>
+		<fixja>「工匠」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_RIDERS</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>以骑士获胜</zh-CN>
 		<pt-BR>Vença com Cavaleiros</pt-BR>
 		<ko>기수 가문으로 승리한다</ko>
+		<fixja>「騎手」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILYCLASS_HUNTERS</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>以猎人获胜</zh-CN>
 		<pt-BR>Vença com Caçadores</pt-BR>
 		<ko>사냥꾼 가문으로 승리한다</ko>
+		<fixja>「狩人」で勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GOTW</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>赢得一次本周游戏</zh-CN>
 		<pt-BR>Vença uma Partida da Semana</pt-BR>
 		<ko>금주의 게임에서 승리한다</ko>
+		<fixja>ゲーム・オブ・ザ・ウィークに勝利した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_HARDCORE</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>困难 (以高事件等级、实际死亡率、锁定储存、对战电脑及不复原的方式，在「伟大」难度中对抗所有国家获胜)</zh-CN>
 		<pt-BR>Vença uma partida na dificuldade Grande contra todas as nações usando nível de eventos alto, mortalidade realística, salvar bloqueado, IA implacável e sem desfazer</pt-BR>
 		<ko>위대한 자 난이도로 높은 사건 발생률, 현실적 사망률, 저장 잠금, 무자비한 AI, 철회 없음 설정을 활성화하고 모든 국가를 상대해 승리한다</ko>
+		<fixja>ハードコア（「高」イベントレベル、「現実的」死亡率で、セーブをロックし、Play to Win AIを有効にし、取り消しを使用せずに、難易度「偉大なる者」で、すべての国を相手に勝利を収めた場合）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_WARRIOR</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>成为战士</zh-CN>
 		<pt-BR>Ganhe o cognome de Guerreiro</pt-BR>
 		<ko>전사가 된다</ko>
+		<fixja>戦士になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_BRAVE</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>成为教官</zh-CN>
 		<pt-BR>Ganhe o cognome de Instrutor</pt-BR>
 		<ko>교관이 된다</ko>
+		<fixja>教練官になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_VALIANT</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>成为勇士</zh-CN>
 		<pt-BR>Ganhe o cognome de Valente</pt-BR>
 		<ko>용감한 자가 된다</ko>
+		<fixja>勇者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_MIGHTY</zType>
@@ -624,6 +670,7 @@
 		<zh-CN>成为强者</zh-CN>
 		<pt-BR>Ganhe o cognome de Poderoso</pt-BR>
 		<ko>강력한 자가 된다</ko>
+		<fixja>強大なる者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_VICTORIOUS</zType>
@@ -637,6 +684,7 @@
 		<zh-CN>成为胜利者</zh-CN>
 		<pt-BR>Ganhe o cognome de Vitorioso</pt-BR>
 		<ko>승리자가 된다</ko>
+		<fixja>勝者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_LION</zType>
@@ -650,6 +698,7 @@
 		<zh-CN>成为雄狮</zh-CN>
 		<pt-BR>Ganhe o cognome de Leão</pt-BR>
 		<ko>용맹한 자가 된다</ko>
+		<fixja>勇猛なる者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_INVINCIBLE</zType>
@@ -663,6 +712,7 @@
 		<zh-CN>成为不败者</zh-CN>
 		<pt-BR>Ganhe o cognome de Invencível</pt-BR>
 		<ko>천하무적이 된다</ko>
+		<fixja>無敵者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_CAPABLE</zType>
@@ -676,6 +726,7 @@
 		<zh-CN>成为可胜任之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Capacitado</pt-BR>
 		<ko>실력자가 된다</ko>
+		<fixja>実力者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_READY</zType>
@@ -689,6 +740,7 @@
 		<zh-CN>成为准备就绪之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Preparado</pt-BR>
 		<ko>민완이 된다</ko>
+		<fixja>用意周到者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_DESTROYER</zType>
@@ -702,6 +754,7 @@
 		<zh-CN>成为破坏者</zh-CN>
 		<pt-BR>Ganhe o cognome de Destruidor</pt-BR>
 		<ko>파괴자가 된다</ko>
+		<fixja>破壊者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_AVENGER</zType>
@@ -715,6 +768,7 @@
 		<zh-CN>成为复仇者</zh-CN>
 		<pt-BR>Ganhe o cognome de Vingador</pt-BR>
 		<ko>복수자가 된다</ko>
+		<fixja>復讐者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_WHITE_DEATH</zType>
@@ -728,6 +782,7 @@
 		<zh-CN>成为白色死神</zh-CN>
 		<pt-BR>Ganhe o cognome de Morte Branca</pt-BR>
 		<ko>하얀 사신이 된다</ko>
+		<fixja>白い死神になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_INTERCESSOR</zType>
@@ -741,6 +796,7 @@
 		<zh-CN>成为仲裁者</zh-CN>
 		<pt-BR>Ganhe o cognome de Mediador</pt-BR>
 		<ko>중재자가 된다</ko>
+		<fixja>仲裁者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_PEACEMAKER</zType>
@@ -754,6 +810,7 @@
 		<zh-CN>成为维和者</zh-CN>
 		<pt-BR>Ganhe o cognome de Pacificador</pt-BR>
 		<ko>조정자가 된다</ko>
+		<fixja>平和調停者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_CONQUEROR</zType>
@@ -767,6 +824,7 @@
 		<zh-CN>成为征服者</zh-CN>
 		<pt-BR>Ganhe o cognome de Conquistador</pt-BR>
 		<ko>정복자가 된다</ko>
+		<fixja>征服者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_SUBJUGATOR</zType>
@@ -780,6 +838,7 @@
 		<zh-CN>成为镇压者</zh-CN>
 		<pt-BR>Ganhe o cognome de Subjugador</pt-BR>
 		<ko>패왕이 된다</ko>
+		<fixja>覇者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_RESTORER</zType>
@@ -793,6 +852,7 @@
 		<zh-CN>成为恢复者</zh-CN>
 		<pt-BR>Ganhe o cognome de Restaurador</pt-BR>
 		<ko>수복자가 된다</ko>
+		<fixja>修復者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_LIBERATOR</zType>
@@ -806,6 +866,7 @@
 		<zh-CN>成为解放者</zh-CN>
 		<pt-BR>Ganhe o cognome de Libertador</pt-BR>
 		<ko>해방자가 된다</ko>
+		<fixja>解放者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_SETTLER</zType>
@@ -819,6 +880,7 @@
 		<zh-CN>成为开拓者</zh-CN>
 		<pt-BR>Ganhe o cognome de Colonizador</pt-BR>
 		<ko>개척자가 된다</ko>
+		<fixja>入植者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_PIONEER</zType>
@@ -832,6 +894,7 @@
 		<zh-CN>成为先驱者</zh-CN>
 		<pt-BR>Ganhe o cognome de Pioneiro</pt-BR>
 		<ko>선구자가 된다</ko>
+		<fixja>開拓者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_AMBITIOUS</zType>
@@ -845,6 +908,7 @@
 		<zh-CN>成为雄心勃勃之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Ambicioso</pt-BR>
 		<ko>야심가가 된다</ko>
+		<fixja>野心家になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_BRILLIANT</zType>
@@ -858,6 +922,7 @@
 		<zh-CN>成为辉煌成功之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Brilhante</pt-BR>
 		<ko>명석한 자가 된다</ko>
+		<fixja>頭脳明晰になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_BELOVED</zType>
@@ -871,6 +936,7 @@
 		<zh-CN>成为深受爱戴之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Amado</pt-BR>
 		<ko>사랑받는 자가 된다</ko>
+		<fixja>愛されし者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_REBUILDER</zType>
@@ -884,6 +950,7 @@
 		<zh-CN>成为重建者</zh-CN>
 		<pt-BR>Ganhe o cognome de Reconstrutor</pt-BR>
 		<ko>재건자가 된다</ko>
+		<fixja>再建者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_MASON</zType>
@@ -897,6 +964,7 @@
 		<zh-CN>成为石匠</zh-CN>
 		<pt-BR>Ganhe o cognome de Alveneiro</pt-BR>
 		<ko>석수가 된다</ko>
+		<fixja>石屋になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_ARCHITECT</zType>
@@ -910,6 +978,7 @@
 		<zh-CN>成为建筑师</zh-CN>
 		<pt-BR>Ganhe o cognome de Arquiteto</pt-BR>
 		<ko>건축자가 된다</ko>
+		<fixja>設計者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_KEYSTONE</zType>
@@ -923,6 +992,7 @@
 		<zh-CN>成为奠基者</zh-CN>
 		<pt-BR>Ganhe o cognome de Pedra Angular</pt-BR>
 		<ko>중추가 된다</ko>
+		<fixja>傑士になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD</zType>
@@ -936,6 +1006,7 @@
 		<zh-CN>成为源泉</zh-CN>
 		<pt-BR>Ganhe o cognome de Fonte</pt-BR>
 		<ko>근원이 된다</ko>
+		<fixja>始祖になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_DEVOUT</zType>
@@ -949,6 +1020,7 @@
 		<zh-CN>成为虔诚之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Devoto</pt-BR>
 		<ko>독실한 자가 된다</ko>
+		<fixja>信者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_HOLY</zType>
@@ -962,6 +1034,7 @@
 		<zh-CN>成为圣者</zh-CN>
 		<pt-BR>Ganhe o cognome de Santo</pt-BR>
 		<ko>성자가 된다</ko>
+		<fixja>聖者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_EXPLORER</zType>
@@ -975,6 +1048,7 @@
 		<zh-CN>成为探险家</zh-CN>
 		<pt-BR>Ganhe o cognome de Explorador</pt-BR>
 		<ko>탐험가가 된다</ko>
+		<fixja>探検家になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_INTREPID</zType>
@@ -988,6 +1062,7 @@
 		<zh-CN>成为刚毅之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Intrépido</pt-BR>
 		<ko>대담한 자가 된다</ko>
+		<fixja>豪勇になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_LEARNED</zType>
@@ -1001,6 +1076,7 @@
 		<zh-CN>成为博学之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Entendido</pt-BR>
 		<ko>지식인이 된다</ko>
+		<fixja>有識者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_ENLIGHTENED</zType>
@@ -1014,6 +1090,7 @@
 		<zh-CN>成为启蒙之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Iluminado</pt-BR>
 		<ko>계몽자가 된다</ko>
+		<fixja>啓蒙者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_WISE</zType>
@@ -1027,6 +1104,7 @@
 		<zh-CN>成为智慧之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Sábio</pt-BR>
 		<ko>현자가 된다</ko>
+		<fixja>賢人になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_OLD</zType>
@@ -1040,6 +1118,7 @@
 		<zh-CN>成为年迈之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Velho</pt-BR>
 		<ko>천세가 된다</ko>
+		<fixja>古参になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_ANCIENT</zType>
@@ -1053,6 +1132,7 @@
 		<zh-CN>成为古老之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Antigo</pt-BR>
 		<ko>만세가 된다</ko>
+		<fixja>最古参になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_ABLE</zType>
@@ -1066,6 +1146,7 @@
 		<zh-CN>成为有能之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Capaz</pt-BR>
 		<ko>유능한 자가 된다</ko>
+		<fixja>有能者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_JUST</zType>
@@ -1079,6 +1160,7 @@
 		<zh-CN>成为正直之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Justo</pt-BR>
 		<ko>공정한 자가 된다</ko>
+		<fixja>優良者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_GOOD</zType>
@@ -1092,6 +1174,7 @@
 		<zh-CN>成为优秀之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Bom</pt-BR>
 		<ko>선한 자가 된다</ko>
+		<fixja>優秀者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_STRONG</zType>
@@ -1105,6 +1188,7 @@
 		<zh-CN>成为强大之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Forte</pt-BR>
 		<ko>강대한 자가 된다</ko>
+		<fixja>強者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_NOBLE</zType>
@@ -1118,6 +1202,7 @@
 		<zh-CN>成为高贵之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Nobre</pt-BR>
 		<ko>고귀한 자가 된다</ko>
+		<fixja>高貴なる者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_GLORIOUS</zType>
@@ -1131,6 +1216,7 @@
 		<zh-CN>成为荣耀之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Glorioso</pt-BR>
 		<ko>영예로운 자가 된다</ko>
+		<fixja>栄誉ある者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_MAGNIFICENT</zType>
@@ -1144,6 +1230,7 @@
 		<zh-CN>成为卓绝之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Magnífico</pt-BR>
 		<ko>장엄한 자가 된다</ko>
+		<fixja>崇高なる者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COGNOMEN_GREAT</zType>
@@ -1157,6 +1244,7 @@
 		<zh-CN>成为伟大之人</zh-CN>
 		<pt-BR>Ganhe o cognome de Grande</pt-BR>
 		<ko>위대한 자가 된다</ko>
+		<fixja>偉大なる者になった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_ZOROASTRIANISM</zType>
@@ -1170,6 +1258,7 @@
 		<zh-CN>创立祆教</zh-CN>
 		<pt-BR>Funde o Zoroastrismo</pt-BR>
 		<ko>조로아스터교를 설립한다</ko>
+		<fixja>ゾロアスター教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_JUDAISM</zType>
@@ -1183,6 +1272,7 @@
 		<zh-CN>创立犹太教</zh-CN>
 		<pt-BR>Funde o Judaísmo</pt-BR>
 		<ko>유대교를 설립한다</ko>
+		<fixja>ユダヤ教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_CHRISTIANITY</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>创立基督教</zh-CN>
 		<pt-BR>Funde o Cristianismo</pt-BR>
 		<ko>기독교를 설립한다</ko>
+		<fixja>キリスト教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_MANICHAEISM</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>创立摩尼教</zh-CN>
 		<pt-BR>Funde o Maniqueísmo</pt-BR>
 		<ko>마니교를 설립한다</ko>
+		<fixja>マニ教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>创立亚述万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Assírio</pt-BR>
 		<ko>아시리아 다신교를 설립한다</ko>
+		<fixja>アッシリア多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA</zType>
@@ -1235,6 +1328,7 @@
 		<zh-CN>创立巴比伦万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Babilônico</pt-BR>
 		<ko>바빌로니아 다신교를 설립한다</ko>
+		<fixja>バビロニア多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE</zType>
@@ -1248,6 +1342,7 @@
 		<zh-CN>创立迦太基万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Cartaginês</pt-BR>
 		<ko>카르타고 다신교를 설립한다</ko>
+		<fixja>カルタゴ多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_EGYPT</zType>
@@ -1261,6 +1356,7 @@
 		<zh-CN>创立埃及万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Egípcio</pt-BR>
 		<ko>이집트 다신교를 설립한다</ko>
+		<fixja>エジプト多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_GREECE</zType>
@@ -1274,6 +1370,7 @@
 		<zh-CN>创立希腊万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Grego</pt-BR>
 		<ko>그리스 다신교를 설립한다</ko>
+		<fixja>ギリシャ多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_PERSIA</zType>
@@ -1287,6 +1384,7 @@
 		<zh-CN>创立波斯万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Persa</pt-BR>
 		<ko>페르시아 다신교를 설립한다</ko>
+		<fixja>ペルシャ多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_ROME</zType>
@@ -1300,6 +1398,7 @@
 		<zh-CN>创立罗马万神教</zh-CN>
 		<pt-BR>Funde o Paganismo Romano</pt-BR>
 		<ko>로마 다신교를 설립한다</ko>
+		<fixja>ローマ多神教を創始した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_MYTHOLOGY</zType>
@@ -1313,6 +1412,7 @@
 		<zh-CN>建立神话</zh-CN>
 		<pt-BR>Instaure a Mitologia</pt-BR>
 		<ko>신화를 도입한다</ko>
+		<fixja>神話を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_VENERATION</zType>
@@ -1326,6 +1426,7 @@
 		<zh-CN>建立敬奉观</zh-CN>
 		<pt-BR>Instaure a Veneração</pt-BR>
 		<ko>숭배를 도입한다</ko>
+		<fixja>崇拝を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_LEGALISM</zType>
@@ -1339,6 +1440,7 @@
 		<zh-CN>建立法制主义</zh-CN>
 		<pt-BR>Instaure o Legalismo</pt-BR>
 		<ko>율법주의를 도입한다</ko>
+		<fixja>律法主義を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_REVELATION</zType>
@@ -1352,6 +1454,7 @@
 		<zh-CN>建立启示录</zh-CN>
 		<pt-BR>Instaure a Revelação</pt-BR>
 		<ko>계시를 도입한다</ko>
+		<fixja>啓示を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_DUALISM</zType>
@@ -1365,6 +1468,7 @@
 		<zh-CN>建立二元论</zh-CN>
 		<pt-BR>Instaure o Dualismo</pt-BR>
 		<ko>이원론을 도입한다</ko>
+		<fixja>二元論を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_GNOSTICISM</zType>
@@ -1378,6 +1482,7 @@
 		<zh-CN>建立诺斯底主义</zh-CN>
 		<pt-BR>Instaure o Gnosticismo</pt-BR>
 		<ko>영지주의를 도입한다</ko>
+		<fixja>グノーシス主義を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_REDEMPTION</zType>
@@ -1391,6 +1496,7 @@
 		<zh-CN>建立救赎观</zh-CN>
 		<pt-BR>Instaure a Redenção</pt-BR>
 		<ko>구원을 도입한다</ko>
+		<fixja>贖罪を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT</zType>
@@ -1404,6 +1510,7 @@
 		<zh-CN>建立启蒙运动</zh-CN>
 		<pt-BR>Instaure a Iluminação</pt-BR>
 		<ko>계몽을 도입한다</ko>
+		<fixja>啓蒙を確立した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ONE_TRUE_FAITH</zType>
@@ -1417,6 +1524,7 @@
 		<zh-CN>唯一真正信仰 (拥有至少 3 座城市，并将你的国教传播于你的所有城市)</zh-CN>
 		<pt-BR>Tenha no mínimo 3 cidades e espalhe sua religião oficial para todas as suas cidades</pt-BR>
 		<ko>최소 3개의 도시를 보유하고 모든 도시에 국교를 전파한다</ko>
+		<fixja>一神教（少なくとも3つの都市を持ち、自国の国教を自国のすべての都市に広めた場合）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
@@ -1430,6 +1538,7 @@
 		<zh-CN>已建造阿杜尔伯赞米尔</zh-CN>
 		<pt-BR>Construa o Adur Burzen-Mihr</pt-BR>
 		<ko>아두르 부르젠미흐르를 건설한다</ko>
+		<fixja>アドゥー・ファーンバッグを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
@@ -1443,6 +1552,7 @@
 		<zh-CN>已建造所罗门神殿</zh-CN>
 		<pt-BR>Construa o Templo de Salomão</pt-BR>
 		<ko>솔로몬 사원을 건설한다</ko>
+		<fixja>ソロモン神殿を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
@@ -1456,6 +1566,7 @@
 		<zh-CN>已建造圣墓教堂</zh-CN>
 		<pt-BR>Construa a Igreja do Santo Sepulcro</pt-BR>
 		<ko>성묘교회를 건설한다</ko>
+		<fixja>聖墳墓教会を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
@@ -1469,6 +1580,7 @@
 		<zh-CN>已建造摩尼教草庵</zh-CN>
 		<pt-BR>Construa o Cao'an</pt-BR>
 		<ko>초암를 건설한다</ko>
+		<fixja>草庵寺を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_PYRAMIDS</zType>
@@ -1482,6 +1594,7 @@
 		<zh-CN>已建造金字塔群</zh-CN>
 		<pt-BR>Construa as Pirâmides</pt-BR>
 		<ko>피라미드를 건설한다</ko>
+		<fixja>ピラミッドを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
@@ -1495,6 +1608,7 @@
 		<zh-CN>建造神塔</zh-CN>
 		<pt-BR>Construa o Zigurate</pt-BR>
 		<ko>대지구라트를 건설한다</ko>
+		<fixja>ジッグラトを建てる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ORACLE</zType>
@@ -1508,6 +1622,7 @@
 		<zh-CN>已建造大神庙</zh-CN>
 		<pt-BR>Construa o Oráculo</pt-BR>
 		<ko>신탁소를 건설한다</ko>
+		<fixja>信託神殿を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS</zType>
@@ -1521,6 +1636,7 @@
 		<zh-CN>已建造空中花园</zh-CN>
 		<pt-BR>Construa os Jardins Suspensos</pt-BR>
 		<ko>공중 정원을 건설한다</ko>
+		<fixja>空中庭園を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_NECROPOLIS</zType>
@@ -1534,6 +1650,7 @@
 		<zh-CN>已建造帝王谷</zh-CN>
 		<pt-BR>Construa a Necrópole</pt-BR>
 		<ko>네크로폴리스를 건설한다</ko>
+		<fixja>ネクロポリスを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE</zType>
@@ -1547,6 +1664,7 @@
 		<zh-CN>已建造伊丝塔城门</zh-CN>
 		<pt-BR>Construa a Porta de Ishtar</pt-BR>
 		<ko>이슈타르의 문을 건설한다</ko>
+		<fixja>イシュタル門を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE</zType>
@@ -1560,6 +1678,7 @@
 		<zh-CN>已建造大灯塔</zh-CN>
 		<pt-BR>Construa o Farol</pt-BR>
 		<ko>등대를 건설한다</ko>
+		<fixja>灯台を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_APADANA</zType>
@@ -1573,6 +1692,7 @@
 		<zh-CN>已建造阿帕达纳宫</zh-CN>
 		<pt-BR>Construa a Apadana</pt-BR>
 		<ko>아파다나를 건설한다</ko>
+		<fixja>アパダーナを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM</zType>
@@ -1586,6 +1706,7 @@
 		<zh-CN>已建造陵墓</zh-CN>
 		<pt-BR>Construa o Mausoléu</pt-BR>
 		<ko>영묘를 건설한다</ko>
+		<fixja>霊廟を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ACROPOLIS</zType>
@@ -1599,6 +1720,7 @@
 		<zh-CN>已建造卫城</zh-CN>
 		<pt-BR>Construa a Acrópole</pt-BR>
 		<ko>아크로폴리스를 건설한다</ko>
+		<fixja>アクロポリスを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_COLOSSUS</zType>
@@ -1612,6 +1734,7 @@
 		<zh-CN>已建造巨人像</zh-CN>
 		<pt-BR>Construa o Colosso</pt-BR>
 		<ko>거상을 건설한다</ko>
+		<fixja>巨像を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_MUSAEUM</zType>
@@ -1625,6 +1748,7 @@
 		<zh-CN>已建造博物院</zh-CN>
 		<pt-BR>Construa o Mouseion</pt-BR>
 		<ko>무세이온을 건설한다</ko>
+		<fixja>ムセイオンを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
@@ -1638,6 +1762,7 @@
 		<zh-CN>已建造马克西穆斯竞技场</zh-CN>
 		<pt-BR>Construa o Circo Máximo</pt-BR>
 		<ko>키르쿠스 막시무스를 건설한다</ko>
+		<fixja>チルコ・マッシモを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_PANTHEON</zType>
@@ -1651,6 +1776,7 @@
 		<zh-CN>已建造万神殿</zh-CN>
 		<pt-BR>Construa o Panteão</pt-BR>
 		<ko>판테온을 건설한다</ko>
+		<fixja>パンテオンを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA</zType>
@@ -1664,6 +1790,7 @@
 		<zh-CN>已建造圣索菲亚大教堂</zh-CN>
 		<pt-BR>Construa Santa Sofia</pt-BR>
 		<ko>하기아 소피아를 건설한다</ko>
+		<fixja>アヤソフィアを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
@@ -1677,6 +1804,7 @@
 		<zh-CN>已建造大马士革直街市集</zh-CN>
 		<pt-BR>Construa o Soco da Rua Direita</pt-BR>
 		<ko>직가를 건설한다</ko>
+		<fixja>ビア・レクタのスークを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS</zType>
@@ -1690,6 +1818,7 @@
 		<zh-CN>已研究工业进步</zh-CN>
 		<pt-BR>Pesquise a tecnologia de Progresso Industrial</pt-BR>
 		<ko>산업 진보를 연구한다</ko>
+		<fixja>産業発展を研究した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_TECH_MILITARY_PRESTIGE</zType>
@@ -1703,6 +1832,7 @@
 		<zh-CN>已研究军事威望</zh-CN>
 		<pt-BR>Pesquise a tecnologia de Prestígio Militar</pt-BR>
 		<ko>군위를 연구한다</ko>
+		<fixja>武威を研究した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_TECH_ECONOMIC_REFORM</zType>
@@ -1716,6 +1846,7 @@
 		<zh-CN>已研究经济革新</zh-CN>
 		<pt-BR>Pesquise a tecnologia de Reforma Econômica</pt-BR>
 		<ko>경제 개혁을 연구한다</ko>
+		<fixja>経済改革を研究した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_SIEGE_TOWER</zType>
@@ -1729,6 +1860,7 @@
 		<zh-CN>已训练一个攻城塔</zh-CN>
 		<pt-BR>Treine uma Torre de Cerco</pt-BR>
 		<ko>공성탑을 육성한다</ko>
+		<fixja>攻囲塔を訓練した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER</zType>
@@ -1742,6 +1874,7 @@
 		<zh-CN>已训练一名西米里族弓兵</zh-CN>
 		<pt-BR>Treine um Arqueiro Cimério</pt-BR>
 		<ko>킴메르족 궁병을 육성한다</ko>
+		<fixja>キムメリオス弓兵を訓練した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_TURRETED_ELEPHANT</zType>
@@ -1755,6 +1888,7 @@
 		<zh-CN>已训练一只炮塔大象</zh-CN>
 		<pt-BR>Treine um Elefante com Torre</pt-BR>
 		<ko>망루 코끼리를 육성한다</ko>
+		<fixja>やぐら象を訓練した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_MOUNTED_LANCER</zType>
@@ -1768,6 +1902,7 @@
 		<zh-CN>训练一名长矛骑兵</zh-CN>
 		<pt-BR>Treine um Lanceiro Montado</pt-BR>
 		<ko>창기병을 육성한다</ko>
+		<fixja>クシュ騎兵の訓練</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_PHALANGITE</zType>
@@ -1781,6 +1916,7 @@
 		<zh-CN>已训练一名方阵步兵</zh-CN>
 		<pt-BR>Treine um Falangista</pt-BR>
 		<ko>장창 보병대를 육성한다</ko>
+		<fixja>ファランクス兵を訓練した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER</zType>
@@ -1794,6 +1930,7 @@
 		<zh-CN>已训练一名重甲骑兵弓兵</zh-CN>
 		<pt-BR>Treine um Arqueiro Catafractário</pt-BR>
 		<ko>철갑 궁기병을 육성한다</ko>
+		<fixja>カタフラクト弓兵を訓練した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_LEGIONARY</zType>
@@ -1807,6 +1944,7 @@
 		<zh-CN>已训练一名军团士兵</zh-CN>
 		<pt-BR>Treine um Legionário</pt-BR>
 		<ko>군단병을 육성한다</ko>
+		<fixja>レギオンを訓練した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CULTURE_DEVELOPING</zType>
@@ -1820,6 +1958,7 @@
 		<zh-CN>控制了五座发展中城市 (单场)</zh-CN>
 		<pt-BR>Controle cinco cidades em Expansão (em uma partida)</pt-BR>
 		<ko>중견 도시 5개를 보유한다 (단일 게임)</ko>
+		<fixja>5つの「発展中」都市を管理した（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CULTURE_STRONG</zType>
@@ -1833,6 +1972,7 @@
 		<zh-CN>控制了四座强大城市 (单场)</zh-CN>
 		<pt-BR>Controle quatro cidades Fortes (em uma partida)</pt-BR>
 		<ko>강대 도시 4개를 보유한다 (단일 게임)</ko>
+		<fixja>4つの「高度」都市を管理した（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CULTURE_LEGENDARY</zType>
@@ -1846,6 +1986,7 @@
 		<zh-CN>控制了三座著名城市 (单场)</zh-CN>
 		<pt-BR>Controle três cidades Lendárias (em uma partida)</pt-BR>
 		<ko>전설 도시 3개를 보유한다 (단일 게임)</ko>
+		<fixja>3つの「伝説的」都市を管理した（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED</zType>
@@ -1859,6 +2000,7 @@
 		<zh-CN>占领了十座城市 (单场)</zh-CN>
 		<pt-BR>Tome dez cidades (em uma partida)</pt-BR>
 		<ko>도시 10개를 점령한다 (단일 게임)</ko>
+		<fixja>10都市を占拠した（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME</zType>
@@ -1872,6 +2014,7 @@
 		<zh-CN>命名了十座地标 (单场)</zh-CN>
 		<pt-BR>Nomeie dez marcos (em uma partida)</pt-BR>
 		<ko>명소 10개에 이름을 붙인다 (단일 게임)</ko>
+		<fixja>10のランドマークを名付けた（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_STAT_TEN_LEADERS</zType>
@@ -1885,6 +2028,7 @@
 		<zh-CN>拥有了十名领袖 (单场)</zh-CN>
 		<pt-BR>Tenha dez líderes (em uma partida)</pt-BR>
 		<ko>지도자 10명을 보유한다 (단일 게임)</ko>
+		<fixja>10人の指導者を所有した（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_STAT_SEVEN_WONDERS</zType>
@@ -1898,6 +2042,7 @@
 		<zh-CN>建造了七大奇迹 (单场)</zh-CN>
 		<pt-BR>Construa sete maravilhas (em uma partida)</pt-BR>
 		<ko>불가사의 7개를 건설한다 (단일 게임)</ko>
+		<fixja>7つの記念物を建設した（1ゲーム）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_TRADE_CARAVAN</zType>
@@ -1911,6 +2056,7 @@
 		<zh-CN>完成了一个商队贸易代表团</zh-CN>
 		<pt-BR>Complete uma missão de caravana comercial</pt-BR>
 		<ko>행상 교역 임무를 완료한다</ko>
+		<fixja>キャラバンの交易ミッションを完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER</zType>
@@ -1924,6 +2070,7 @@
 		<zh-CN>弑君 (刺杀其他国家的领袖)</zh-CN>
 		<pt-BR>Assassine o líder de outra nação</pt-BR>
 		<ko>다른 국가의 지도자를 암살한다</ko>
+		<fixja>国王殺し（他国の指導者を暗殺）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ASSASSINATED_HEIR</zType>
@@ -1937,6 +2084,7 @@
 		<zh-CN>诛杀未来之君 (刺杀你的继承人)</zh-CN>
 		<pt-BR>Assassine seu herdeiro</pt-BR>
 		<ko>후계자를 암살한다</ko>
+		<fixja>将来の国王殺し（自分の後継者を暗殺）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ASSASSINATED_BY_HEIR</zType>
@@ -1950,6 +2098,7 @@
 		<zh-CN>被诛之日 (被你的继承人刺杀)</zh-CN>
 		<pt-BR>Seja assassinado por seu herdeiro</pt-BR>
 		<ko>후계자에게 암살당한다</ko>
+		<fixja>悪しき世継ぎの日（自分の後継者に暗殺された）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BLADE_OF_THE_MONKEY</zType>
@@ -1963,6 +2112,7 @@
 		<zh-CN>猴子之刃 (被猴子刺杀)</zh-CN>
 		<pt-BR>Seja assassinado por um macaco</pt-BR>
 		<ko>원숭이에게 암살당한다</ko>
+		<fixja>猿の剣（猿に暗殺された）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_1</zType>
@@ -1976,6 +2126,7 @@
 		<zh-CN>已完成「玩法教学」情境 1</zh-CN>
 		<pt-BR>Complete o cenário Aprenda a Jogar 1</pt-BR>
 		<ko>플레이 방법 배우기 1을 완료한다</ko>
+		<fixja>遊び方のシナリオ1を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_2</zType>
@@ -1989,6 +2140,7 @@
 		<zh-CN>已完成「玩法教学」情境 2</zh-CN>
 		<pt-BR>Complete o cenário Aprenda a Jogar 2</pt-BR>
 		<ko>플레이 방법 배우기 2를 완료한다</ko>
+		<fixja>遊び方のシナリオ2を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_3</zType>
@@ -2002,6 +2154,7 @@
 		<zh-CN>已完成「玩法教学」情境 3</zh-CN>
 		<pt-BR>Complete o cenário Aprenda a Jogar 3</pt-BR>
 		<ko>플레이 방법 배우기 3을 완료한다</ko>
+		<fixja>遊び方のシナリオ3を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_4</zType>
@@ -2015,6 +2168,7 @@
 		<zh-CN>已完成「玩法教学」情境 4</zh-CN>
 		<pt-BR>Complete o cenário Aprenda a Jogar 4</pt-BR>
 		<ko>플레이 방법 배우기 4를 완료한다</ko>
+		<fixja>遊び方のシナリオ4を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_5</zType>
@@ -2028,6 +2182,7 @@
 		<zh-CN>已完成「玩法教学」情境 5</zh-CN>
 		<pt-BR>Complete o cenário Aprenda a Jogar 5</pt-BR>
 		<ko>플레이 방법 배우기 5를 완료한다</ko>
+		<fixja>遊び方のシナリオ5を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION</zType>
@@ -2041,6 +2196,7 @@
 		<zh-CN>在蛮族部落中幸存下来</zh-CN>
 		<pt-BR>Sobreviva à Horda Bárbara</pt-BR>
 		<ko>야만인 떼의 침공에서 살아남는다</ko>
+		<fixja>バーバリアンの軍勢を耐え抜いた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING</zType>
@@ -2054,6 +2210,7 @@
 		<zh-CN>以「伟大」难度对战猛暴部落，在蛮族部落中幸存下来</zh-CN>
 		<pt-BR>Sobreviva à Horda Bárbara na dificuldade Grande contra tribos Furiosas</pt-BR>
 		<ko>위대한 자 난이도에서 맹렬함 상태의 부족에 맞서면서 야만인 떼의 침공을 버틴다</ko>
+		<fixja>バーバリアンの軍勢を、難易度「偉大なる者」で「獰猛」な部族に対して耐え抜いた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER</zType>
@@ -2067,6 +2224,7 @@
 		<zh-CN>与好友一起在蛮族部落中幸存下来</zh-CN>
 		<pt-BR>Sobreviva à Horda Bárbara com amigos</pt-BR>
 		<ko>친구들과 야만인 떼의 침공에서 살아남는다</ko>
+		<fixja>友人と一緒にバーバリアンの軍勢を耐え抜いた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_1</zType>
@@ -2080,6 +2238,7 @@
 		<zh-CN>已完成「迦太基」情境 1</zh-CN>
 		<pt-BR>Complete o Cenário de Cartago 1</pt-BR>
 		<ko>카르타고 시나리오 1에서 승리한다</ko>
+		<fixja>カルタゴのシナリオ1を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_1_BRONZE</zType>
@@ -2093,6 +2252,7 @@
 		<zh-CN>铜级胜利 (「迦太基」情境 1)</zh-CN>
 		<pt-BR>Vitória de Bronze (Cenário de Cartago 1)</pt-BR>
 		<ko>카르타고 시나리오 1에서 청동 승리를 달성한다</ko>
+		<fixja>ブロンズ勝利（カルタゴ：シナリオ1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_1_SILVER</zType>
@@ -2106,6 +2266,7 @@
 		<zh-CN>银级胜利 (「迦太基」情境 1)</zh-CN>
 		<pt-BR>Vitória de Prata (Cenário de Cartago 1)</pt-BR>
 		<ko>카르타고 시나리오 1에서 백은 승리를 달성한다</ko>
+		<fixja>シルバー勝利（カルタゴ：シナリオ1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_1_GOLD</zType>
@@ -2119,6 +2280,7 @@
 		<zh-CN>金级胜利 (「迦太基」情境 1)</zh-CN>
 		<pt-BR>Vitória de Ouro (Cenário de Cartago 1)</pt-BR>
 		<ko>카르타고 시나리오 1에서 황금 승리를 달성한다</ko>
+		<fixja>ゴールド勝利（カルタゴ：シナリオ1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_1_EPIC</zType>
@@ -2132,6 +2294,7 @@
 		<zh-CN>史诗级胜利 (「迦太基」情境 1)</zh-CN>
 		<pt-BR>Vitória Épica (Cenário de Cartago 1)</pt-BR>
 		<ko>카르타고 시나리오 1에서 영웅 승리를 달성한다</ko>
+		<fixja>エピック勝利（カルタゴ：シナリオ1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_2</zType>
@@ -2145,6 +2308,7 @@
 		<zh-CN>已完成「迦太基」情境 2</zh-CN>
 		<pt-BR>Complete o Cenário de Cartago 2</pt-BR>
 		<ko>카르타고 시나리오 2에서 승리한다</ko>
+		<fixja>カルタゴのシナリオ2を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_2_BRONZE</zType>
@@ -2158,6 +2322,7 @@
 		<zh-CN>铜级胜利 (「迦太基」情境 2)</zh-CN>
 		<pt-BR>Vitória de Bronze (Cenário de Cartago 2)</pt-BR>
 		<ko>카르타고 시나리오 2에서 청동 승리를 달성한다</ko>
+		<fixja>ブロンズ勝利（カルタゴ：シナリオ2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_2_SILVER</zType>
@@ -2171,6 +2336,7 @@
 		<zh-CN>银级胜利 (「迦太基」情境 2)</zh-CN>
 		<pt-BR>Vitória de Prata (Cenário de Cartago 2)</pt-BR>
 		<ko>카르타고 시나리오 2에서 백은 승리를 달성한다</ko>
+		<fixja>シルバー勝利（カルタゴ：シナリオ2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_2_GOLD</zType>
@@ -2184,6 +2350,7 @@
 		<zh-CN>金级胜利 (「迦太基」情境 2)</zh-CN>
 		<pt-BR>Vitória de Ouro (Cenário de Cartago 2)</pt-BR>
 		<ko>카르타고 시나리오 2에서 황금 승리를 달성한다</ko>
+		<fixja>ゴールド勝利（カルタゴ：シナリオ2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_2_EPIC</zType>
@@ -2197,6 +2364,7 @@
 		<zh-CN>史诗级胜利 (「迦太基」情境 2)</zh-CN>
 		<pt-BR>Vitória Épica (Cenário de Cartago 2)</pt-BR>
 		<ko>카르타고 시나리오 2에서 영웅 승리를 달성한다</ko>
+		<fixja>エピック勝利（カルタゴ：シナリオ2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_3</zType>
@@ -2210,6 +2378,7 @@
 		<zh-CN>已完成「迦太基」情境 3</zh-CN>
 		<pt-BR>Complete o Cenário de Cartago 3</pt-BR>
 		<ko>카르타고 시나리오 3에서 승리한다</ko>
+		<fixja>カルタゴのシナリオ3を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_3_BRONZE</zType>
@@ -2223,6 +2392,7 @@
 		<zh-CN>铜级胜利 (「迦太基」情境 3)</zh-CN>
 		<pt-BR>Vitória de Bronze (Cenário de Cartago 3)</pt-BR>
 		<ko>카르타고 시나리오 3에서 청동 승리를 달성한다</ko>
+		<fixja>ブロンズ勝利（カルタゴ：シナリオ3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_3_SILVER</zType>
@@ -2236,6 +2406,7 @@
 		<zh-CN>银级胜利 (「迦太基」情境 3)</zh-CN>
 		<pt-BR>Vitória de Prata (Cenário de Cartago 3)</pt-BR>
 		<ko>카르타고 시나리오 3에서 백은 승리를 달성한다</ko>
+		<fixja>シルバー勝利（カルタゴ：シナリオ3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_3_GOLD</zType>
@@ -2249,6 +2420,7 @@
 		<zh-CN>金级胜利 (「迦太基」情境 3)</zh-CN>
 		<pt-BR>Vitória de Ouro (Cenário de Cartago 3)</pt-BR>
 		<ko>카르타고 시나리오 3에서 황금 승리를 달성한다</ko>
+		<fixja>ゴールド勝利（カルタゴ：シナリオ3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_3_EPIC</zType>
@@ -2262,6 +2434,7 @@
 		<zh-CN>史诗级胜利 (「迦太基」情境 3)</zh-CN>
 		<pt-BR>Vitória Épica (Cenário de Cartago 3)</pt-BR>
 		<ko>카르타고 시나리오 3에서 영웅 승리를 달성한다</ko>
+		<fixja>エピック勝利（カルタゴ：シナリオ3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_4</zType>
@@ -2275,6 +2448,7 @@
 		<zh-CN>已完成「迦太基」情境 4</zh-CN>
 		<pt-BR>Complete o Cenário de Cartago 4</pt-BR>
 		<ko>카르타고 시나리오 4에서 승리한다</ko>
+		<fixja>カルタゴのシナリオ4を完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_4_BRONZE</zType>
@@ -2288,6 +2462,7 @@
 		<zh-CN>铜级胜利 (「迦太基」情境 4)</zh-CN>
 		<pt-BR>Vitória de Bronze (Cenário de Cartago 4)</pt-BR>
 		<ko>카르타고 시나리오 4에서 청동 승리를 달성한다</ko>
+		<fixja>ブロンズ勝利（カルタゴ：シナリオ4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_4_SILVER</zType>
@@ -2301,6 +2476,7 @@
 		<zh-CN>银级胜利 (「迦太基」情境 4)</zh-CN>
 		<pt-BR>Vitória de Prata (Cenário de Cartago 4)</pt-BR>
 		<ko>카르타고 시나리오 4에서 백은 승리를 달성한다</ko>
+		<fixja>シルバー勝利（カルタゴ：シナリオ4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_4_GOLD</zType>
@@ -2314,6 +2490,7 @@
 		<zh-CN>金级胜利 (「迦太基」情境 4)</zh-CN>
 		<pt-BR>Vitória de Ouro (Cenário de Cartago 4)</pt-BR>
 		<ko>카르타고 시나리오 4에서 황금 승리를 달성한다</ko>
+		<fixja>ゴールド勝利（カルタゴ：シナリオ4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_4_EPIC</zType>
@@ -2327,6 +2504,7 @@
 		<zh-CN>史诗级胜利 (「迦太基」情境 4)</zh-CN>
 		<pt-BR>Vitória Épica (Cenário de Cartago 4)</pt-BR>
 		<ko>카르타고 시나리오 4에서 영웅 승리를 달성한다</ko>
+		<fixja>エピック勝利（カルタゴ：シナリオ4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CARTHAGE_CAMPAIGN</zType>
@@ -2340,6 +2518,7 @@
 		<zh-CN>已完成迦太基战役</zh-CN>
 		<pt-BR>Complete a Campanha de Cartago</pt-BR>
 		<ko>카르타고 시나리오를 모두 끝낸다</ko>
+		<fixja>カルタゴのキャンペーンを完了した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_100_YEARS</zType>
@@ -2353,6 +2532,7 @@
 		<zh-CN>百岁人瑞 (活到百岁的领袖)</zh-CN>
 		<pt-BR>Seu líder deve viver por 100 anos</pt-BR>
 		<ko>지도자가 100세까지 생존한다</ko>
+		<fixja>百寿（指導者が100歳まで生存）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ROMAN_PAPACY</zType>
@@ -2366,6 +2546,7 @@
 		<zh-CN>扮演罗马皇帝，在罗马建立基督教圣地</zh-CN>
 		<pt-BR>Jogando como Roma, construa o local sagrado cristão em Roma</pt-BR>
 		<ko>로마에 기독교 성지를 건설한다</ko>
+		<fixja>ローマとして、キリスト教の聖地をローマに築く</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILY_FRIENDLY</zType>
@@ -2379,6 +2560,7 @@
 		<zh-CN>友好的家族 (与你友好的家族)</zh-CN>
 		<pt-BR>Alcance o nível de melhor opinião familiar</pt-BR>
 		<ko>당신에 대한 가문의 태도가 가장 긍정적인 상태에 도달한다</ko>
+		<fixja>好意的な氏族（自分に好意的な氏族）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FAMILY_FURIOUS</zType>
@@ -2392,6 +2574,7 @@
 		<zh-CN>盛怒的家族 (对你盛怒的家族)</zh-CN>
 		<pt-BR>Alcance o nível de pior opinião familiar</pt-BR>
 		<ko>당신에 대한 가문의 태도가 가장 부정적인 상태에 도달한다</ko>
+		<fixja>激怒した氏族（自分に激怒する氏族）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_MEMPHIS_PYRAMIDS</zType>
@@ -2405,6 +2588,7 @@
 		<zh-CN>在孟非斯建造了金字塔群</zh-CN>
 		<pt-BR>Construa as Pirâmides em Mênfis</pt-BR>
 		<ko>멘네페르에 피라미드를 짓는다</ko>
+		<fixja>メネファーにピラミッドを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UR_GREAT_ZIGGURAT</zType>
@@ -2418,6 +2602,7 @@
 		<zh-CN>在乌尔建造神塔</zh-CN>
 		<pt-BR>Construa o Zigurate em Ur</pt-BR>
 		<ko>우르에 대지구라트를 건설한다</ko>
+		<fixja>ウルのジッグラトを建てる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DELPHI_ORACLE</zType>
@@ -2431,6 +2616,7 @@
 		<zh-CN>在德尔菲建造了大神庙</zh-CN>
 		<pt-BR>Construa o Oráculo em Delfos</pt-BR>
 		<ko>델포이에 신탁소를 건설한다</ko>
+		<fixja>デルファイに信託神殿を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BABYLON_HANGING_GARDENS</zType>
@@ -2444,6 +2630,7 @@
 		<zh-CN>在巴比伦建造了空中花园</zh-CN>
 		<pt-BR>Construa os Jardins Suspensos na Babilônia</pt-BR>
 		<ko>바빌론에 공중 정원을 건설한다</ko>
+		<fixja>バビロンに空中庭園を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WASET_NECROPOLIS</zType>
@@ -2457,6 +2644,7 @@
 		<zh-CN>在瓦瑟特建造了帝王谷</zh-CN>
 		<pt-BR>Construa a Necrópole em Uaset</pt-BR>
 		<ko>와세트에 네크로폴리스를 건설한다</ko>
+		<fixja>ワセットにネクロポリスを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BABYLON_ISHTAR_GATE</zType>
@@ -2470,6 +2658,7 @@
 		<zh-CN>在巴比伦建造了伊丝塔城门</zh-CN>
 		<pt-BR>Construa a Porta de Ishtar na Babilônia</pt-BR>
 		<ko>바빌론에 이슈타르의 문을 건설한다</ko>
+		<fixja>バビロンにイシュタル門を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE</zType>
@@ -2483,6 +2672,7 @@
 		<zh-CN>在亚历山大港建造了大灯塔</zh-CN>
 		<pt-BR>Construa o Farol em Alexandria</pt-BR>
 		<ko>알렉산드리아에 등대를 건설한다</ko>
+		<fixja>アレクサンドリアに灯台を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PERSEPOLIS_APADANA</zType>
@@ -2496,6 +2686,7 @@
 		<zh-CN>在波斯波利斯建造了阿帕达纳宫</zh-CN>
 		<pt-BR>Construa a Apadana em Parsa</pt-BR>
 		<ko>파르사에 아파다나를 건설한다</ko>
+		<fixja>ペルセポリスにアパダーナを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_HALICARNASSUS_MAUSOLEUM</zType>
@@ -2509,6 +2700,7 @@
 		<zh-CN>在哈利卡那索斯建造了陵墓</zh-CN>
 		<pt-BR>Construa o Mausoléu em Halicarnasso</pt-BR>
 		<ko>할리카르나소스에 영묘를 건설한다</ko>
+		<fixja>ハリカルナッソスに霊廟を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ATHENS_ACROPOLIS</zType>
@@ -2522,6 +2714,7 @@
 		<zh-CN>在雅典建造了卫城</zh-CN>
 		<pt-BR>Construa a Acrópole em Atenas</pt-BR>
 		<ko>아테네에 아크로폴리스를 건설한다</ko>
+		<fixja>アテナイにアクロポリスを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RHODES_COLOSSUS</zType>
@@ -2535,6 +2728,7 @@
 		<zh-CN>在罗德岛建造了巨人像</zh-CN>
 		<pt-BR>Construa o Colosso em Rodes</pt-BR>
 		<ko>로도스에 거상을 설치한다</ko>
+		<fixja>ロードスに巨像を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ALEXANDRIA_MUSAEUM</zType>
@@ -2548,6 +2742,7 @@
 		<zh-CN>在亚历山大港建造了博物院</zh-CN>
 		<pt-BR>Construa o Mouseion em Alexandria</pt-BR>
 		<ko>알렉산드리아에 무세이온을 건설한다</ko>
+		<fixja>アレクサンドリアにムセイオンを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS</zType>
@@ -2561,6 +2756,7 @@
 		<zh-CN>在罗马建造了马克西穆斯竞技场</zh-CN>
 		<pt-BR>Construa o Circo Máximo em Roma</pt-BR>
 		<ko>로마에 키르쿠스 막시무스를 건설한다</ko>
+		<fixja>ローマにチルコ・マッシモを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ROMA_PANTHEON</zType>
@@ -2574,6 +2770,7 @@
 		<zh-CN>在罗马建造了万神殿</zh-CN>
 		<pt-BR>Construa o Panteão em Roma</pt-BR>
 		<ko>로마에 판테온을 건설한다</ko>
+		<fixja>ローマにパンテオンを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA</zType>
@@ -2587,6 +2784,7 @@
 		<zh-CN>在拜占庭建造了圣索菲亚大教堂</zh-CN>
 		<pt-BR>Construa a Santa Sofia em Bizâncio</pt-BR>
 		<ko>비잔티온에 하기아 소피아를 건설한다</ko>
+		<fixja>ビザンティオンにアヤソフィアを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK</zType>
@@ -2600,6 +2798,7 @@
 		<zh-CN>在大马士革建造了直街市集</zh-CN>
 		<pt-BR>Construa o Soco da Rua Direita em Damasco</pt-BR>
 		<ko>다마스쿠스에 직가를 건설한다</ko>
+		<fixja>ダマスカスにビア・レクタのスークを建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_OLD_WORLD_ORDER</zType>
@@ -2613,6 +2812,7 @@
 		<zh-CN>旧世界秩序 (史诗、奴隶制与专制暴政律法同时存在)</zh-CN>
 		<pt-BR>Tenha as leis de Épica, Escravidão e Tirania ativas ao mesmo tempo</pt-BR>
 		<ko>서사시, 노예, 독재 법을 동시에 제정한다</ko>
+		<fixja>Old Worldの秩序（史詩、奴隷、君主の法律を同時に施行した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_POWER_TO_THE_PEOPLE</zType>
@@ -2626,6 +2826,7 @@
 		<zh-CN>人民的权利 (自由权、宪法、法典与宽容律法同时存在)</zh-CN>
 		<pt-BR>Tenha as leis de Liberdade, Constituição, Código Legal e Tolerância ativas ao mesmo tempo</pt-BR>
 		<ko>자유, 헌법, 법전, 관용 법을 동시에 제정한다</ko>
+		<fixja>民衆への権力（解放、律令、法典、寛容の法律を同時に施行した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PANTHEON_OF_GODS</zType>
@@ -2639,6 +2840,7 @@
 		<zh-CN>诸神之殿 (多神教、君权神授论与圣战律法同时存在)</zh-CN>
 		<pt-BR>Tenha as leis de Politeísmo, Direito Divino e Guerra Santa ativas ao mesmo tempo</pt-BR>
 		<ko>다신교, 정교일치, 성전 법을 동시에 제정한다</ko>
+		<fixja>神々のパンテオン（多神教、神権統治、聖戦の法律を同時に施行した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THE_WORD_OF_GOD</zType>
@@ -2652,6 +2854,7 @@
 		<zh-CN>上帝之道 (一神教、东正教、圣像与朝圣律法同时存在)</zh-CN>
 		<pt-BR>Tenha as leis de Monoteísmo, Ortodoxia, Iconografia e Peregrinação ativas ao mesmo tempo</pt-BR>
 		<ko>일신교, 정통, 도상학, 순례 법을 동시에 제정한다</ko>
+		<fixja>神のお告げ（一神教、正統信仰、図像、巡礼の法律を同時に施行した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ELEPHANTINE_ELEPHANT</zType>
@@ -2665,6 +2868,7 @@
 		<zh-CN>象岛的大象 (在象岛训练大象)</zh-CN>
 		<pt-BR>Treine um elefante em Elefantina</pt-BR>
 		<ko>엘레판티네에서 코끼리를 육성한다</ko>
+		<fixja>エレファンティネの象（エレファンティネで象を訓練した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ALEXANDER_THE_GREAT</zType>
@@ -2678,6 +2882,7 @@
 		<zh-CN>亚历山大大帝 (作为希腊亚历山大大帝，消灭波斯)</zh-CN>
 		<pt-BR>Elimine a Pérsia como Alexandre, o Grande da Grécia</pt-BR>
 		<ko>그리스의 알렉산드로스 대왕으로 페르시아를 제거한다</ko>
+		<fixja>アレクサンドロス大王（ギリシャのアレクサンドロス大王として、ペルシャを排除した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PUNIC_WARS</zType>
@@ -2691,6 +2896,7 @@
 		<zh-CN>布匿战争 (作为罗马，消灭迦太基)</zh-CN>
 		<pt-BR>Elimine Cartago jogando como Roma</pt-BR>
 		<ko>로마로 카르타고를 제거한다</ko>
+		<fixja>ポエニ戦争（ローマ側として、カルタゴを排除した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_MACEDONIAN_WARS</zType>
@@ -2704,6 +2910,7 @@
 		<zh-CN>马其顿战争 (作为罗马，消灭希腊)</zh-CN>
 		<pt-BR>Elimine a Grécia jogando como Roma</pt-BR>
 		<ko>로마로 그리스를 제거한다</ko>
+		<fixja>マケドニア戦争（ローマ側として、ギリシャを排除した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BATTLE_OF_OPIS</zType>
@@ -2717,6 +2924,7 @@
 		<zh-CN>欧庇斯之战 (作为波斯，消灭巴比伦尼亚)</zh-CN>
 		<pt-BR>Eimine a Babilônia jogando como Pérsia</pt-BR>
 		<ko>페르시아로 바빌로니아를 제거한다</ko>
+		<fixja>オピスの戦い（ペルシャ側として、バビロニアを排除した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST</zType>
@@ -2730,6 +2938,7 @@
 		<zh-CN>米底与巴比伦联合战役 (作为巴比伦尼亚，消灭亚述)</zh-CN>
 		<pt-BR>Elimine a Assíria jogando como Babilônia</pt-BR>
 		<ko>바빌로니아로 아시리아를 제거한다</ko>
+		<fixja>メドバビロニア征服（バビロニア側として、アッシリアを排除した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FERTILE_CRESCENT</zType>
@@ -2743,6 +2952,7 @@
 		<zh-CN>新月沃土之战 (作为亚述、巴比伦尼亚或波斯，击败其他两国)</zh-CN>
 		<pt-BR>Jogue como Assíria, Babilônia ou Pérsia e elimine as outras duas nações</pt-BR>
 		<ko>아시리아, 바빌로니아, 혹은 페르시아 중 하나로 나머지 두 진영을 제거한다</ko>
+		<fixja>肥沃な三日月地帯の戦い（アッシリア、バビロニア、ペルシャのいずれか側として、他の2つを倒した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_CLEOPATRAS_LOVE</zType>
@@ -2756,6 +2966,7 @@
 		<zh-CN>克丽奥佩特拉之爱 (作为埃及女王，与罗马联婚)</zh-CN>
 		<pt-BR>Sendo Rainha do Egito, se case com um Romano</pt-BR>
 		<ko>이집트 여왕으로 로마인 배우자를 맞이한다</ko>
+		<fixja>クレオパトラの愛（エジプトの女王がローマ人と結婚した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ALEXANDER_THE_WHO</zType>
@@ -2769,6 +2980,7 @@
 		<zh-CN>谁是亚历山大 (在亚历山大成为领袖之前将其刺杀)</zh-CN>
 		<pt-BR>Assassine Alexandre antes que ele se torne líder</pt-BR>
 		<ko>인물 중 한 명으로 지도자 알렉산드로스를 암살한다</ko>
+		<fixja>未知なるアレクサンドロス（指導者になる前のアレクサンドロスを暗殺した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_MERCHANTS_LEVANT</zType>
@@ -2782,6 +2994,7 @@
 		<zh-CN>黎凡特的商人 (作为商人家族赢得一场 OCC 竞赛)</zh-CN>
 		<pt-BR>Vença uma partida de Desafio de Uma Cidade com uma família de Mercadores</pt-BR>
 		<ko>교역상 가문으로 단일 도시 도전에서 승리한다</ko>
+		<fixja>レバントの商人（「貿易商」氏族で、「1都市チャレンジ」ゲームに勝利した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_BEFORE_MONGOL_HORDE</zType>
@@ -2795,6 +3008,7 @@
 		<zh-CN>在蒙古部落很酷之前 (仅使用骑士家族获胜)</zh-CN>
 		<pt-BR>Vença usando apenas uma família de Cavaleiros</pt-BR>
 		<ko>기수 가문만을 사용해서 승리한다</ko>
+		<fixja>モンゴルの軍勢が冷静になる前に（「騎手」氏族のみで勝利した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_KNOWLEDGE_ANCIENTS</zType>
@@ -2808,6 +3022,7 @@
 		<zh-CN>古代人的知识 (在图特摩斯 (智者)亚历山大港建造了一座图书馆与博物院)</zh-CN>
 		<pt-BR>Construa uma Biblioteca e o Mouseion com os Tutmosidas (Eruditos) em Alexandria</pt-BR>
 		<ko>투트모세(현자) 가문이 다스리는 알렉산드리아에 도서관과 무세이온을 건설한다</ko>
+		<fixja>古代人の知識（アレクサンドリアのサトモシド（賢者）に図書館とムセイオンを建設した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_KUSHITE_PYRAMIDS</zType>
@@ -2821,6 +3036,7 @@
 		<zh-CN>以库什建造库希特金字塔群</zh-CN>
 		<pt-BR>Jogando como Cuxe, construa as Pirâmides Cuxitas</pt-BR>
 		<ko>쿠시로 쿠시 피라미드를 설치한다</ko>
+		<fixja>クシュ人、クシテのピラミッドを建設</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_COUNCIL_OF_MADNESS</zType>
@@ -2834,6 +3050,7 @@
 		<zh-CN>疯狂的理事会 (让全部三名理事会成员发疯)</zh-CN>
 		<pt-BR>Faça com que seus três conselheiros fiquem loucos</pt-BR>
 		<ko>평의원 세 명을 모두 미친 상태로 만든다</ko>
+		<fixja>狂気の評議会（3人の評議員全員を錯乱状態にさせた）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ET_TU_BRUTUS</zType>
@@ -2847,6 +3064,7 @@
 		<zh-CN>布鲁图斯，连你也是吗？ (作为罗马，领袖被另一个罗马家族刺杀)</zh-CN>
 		<pt-BR>Como Roma, tenha seu Líder assassinado por outra família Romana</pt-BR>
 		<ko>로마 가문의 인물으로 로마의 지도자를 암살한다</ko>
+		<fixja>ブルータス、お前もか？（ローマ側として、指導者が他のローマの氏族に暗殺された）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FIVE_ROUTS</zType>
@@ -2860,6 +3078,7 @@
 		<zh-CN>五次击溃 (一个军队在同一回合内连续进行五次击溃任务)</zh-CN>
 		<pt-BR>Realize cinco encalços seguidos com uma única unidade no mesmo turno</pt-BR>
 		<ko>한 유닛으로 한 턴에 연파 다섯 번을 해낸다</ko>
+		<fixja>5回の制圧（1つのユニットが同じターンで5回の制圧を続けて実行した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_ETHNIC_DIVERSITY</zType>
@@ -2873,6 +3092,7 @@
 		<zh-CN>民族多样性 (拥有全部 7 个民族的领袖)</zh-CN>
 		<pt-BR>Tenha um líder com todas as sete etnias</pt-BR>
 		<ko>총 7개 민족 출신의 지도자를 보유한다</ko>
+		<fixja>民族の多様性（7つの民族すべての指導者を所有した）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE1_RUN</zType>
@@ -2886,6 +3106,7 @@
 		<zh-CN>完成斯巴达之跑 (爱琴海英雄 1)</zh-CN>
 		<pt-BR>Complete a corrida até Esparta (Heroes of the Aegean 1)</pt-BR>
 		<ko>스파르타로 질주를 완료한다 (에게해의 영웅들 1)</ko>
+		<fixja>スパルタへの道程を走破する（エーゲの英雄たち1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE1_WIN</zType>
@@ -2899,6 +3120,7 @@
 		<zh-CN>在马拉松情境中获胜 (爱琴海英雄 1)</zh-CN>
 		<pt-BR>Vença o cenário de Maratona (Heroes of the Aegean 1)</pt-BR>
 		<ko>마라톤 시나리오에서 승리한다 (에게해의 영웅들 1)</ko>
+		<fixja>マラトンのシナリオをクリアする（エーゲの英雄たち1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE1_ALTERNATE_WIN</zType>
@@ -2912,6 +3134,7 @@
 		<zh-CN>找到另一种方式在马拉松情境中获胜 (爱琴海英雄 1)</zh-CN>
 		<pt-BR>Encontre outra forma de vencer o cenário de Maratona (Heroes of the Aegean 1)</pt-BR>
 		<ko>마라톤 시나리오에서 승리할 수 있는 다른 방법을 발견한다 (에게해의 영웅들 1)</ko>
+		<fixja>マラトンのシナリオを違う方法でクリアする（エーゲの英雄たち1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE1_LOSE</zType>
@@ -2925,6 +3148,7 @@
 		<zh-CN>在马拉松情境中落败 (爱琴海英雄 1)</zh-CN>
 		<pt-BR>Sofra uma derrota no cenário de Maratona (Heroes of the Aegean 1)</pt-BR>
 		<ko>마라톤 시나리오에서 패배한다 (에게해의 영웅들 1)</ko>
+		<fixja>マラトンのシナリオを失敗する（エーゲの英雄たち1）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_10</zType>
@@ -2938,6 +3162,7 @@
 		<zh-CN>在温泉关击杀 10 个波斯单位 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Mate 10 unidades persas em Termópilas (Heroes of the Aegean 2)</pt-BR>
 		<ko>테르모필레에서 페르시아 유닛을 10개 처치한다 (에게해의 영웅들 2)</ko>
+		<fixja>テルモピュライにて、ペルシャのユニットを10体倒す（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_20</zType>
@@ -2951,6 +3176,7 @@
 		<zh-CN>在温泉关击杀 20 个波斯单位 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Mate 20 unidades persas em Termópilas (Heroes of the Aegean 2)</pt-BR>
 		<ko>테르모필레에서 페르시아 유닛을 20개 처치한다 (에게해의 영웅들 2)</ko>
+		<fixja>テルモピュライにて、ペルシャのユニットを20体倒す（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_30</zType>
@@ -2964,6 +3190,7 @@
 		<zh-CN>在温泉关击杀 30 个波斯单位 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Mate 30 unidades persas em Termópilas (Heroes of the Aegean 2)</pt-BR>
 		<ko>테르모필레에서 페르시아 유닛을 30개 처치한다 (에게해의 영웅들 2)</ko>
+		<fixja>テルモピュライにて、ペルシャのユニットを30体倒す（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_40</zType>
@@ -2977,6 +3204,7 @@
 		<zh-CN>在温泉关击杀 40 个波斯单位 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Mate 40 unidades persas em Termópilas (Heroes of the Aegean 2)</pt-BR>
 		<ko>테르모필레에서 페르시아 유닛을 40개 처치한다 (에게해의 영웅들 2)</ko>
+		<fixja>テルモピュライにて、ペルシャのユニットを40体倒す（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_50</zType>
@@ -2990,6 +3218,7 @@
 		<zh-CN>在温泉关击杀 50 个波斯单位 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Mate 50 unidades persas em Termópilas (Heroes of the Aegean 2)</pt-BR>
 		<ko>테르모필레에서 페르시아 유닛을 50개 처치한다 (에게해의 영웅들 2)</ko>
+		<fixja>テルモピュライにて、ペルシャのユニットを50体倒す（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN</zType>
@@ -3003,6 +3232,7 @@
 		<zh-CN>完成温泉关之役 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Complete a Batalha de Termópilas (Heroes of the Aegean 2)</pt-BR>
 		<ko>테르모필레 전투를 완료한다 (에게해의 영웅들 2)</ko>
+		<fixja>テルモピュライの戦いを完了する（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_SALAMIS_WIN</zType>
@@ -3016,6 +3246,7 @@
 		<zh-CN>打赢萨拉米斯之役 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Complete a Batalha de Salamina (Heroes of the Aegean 2)</pt-BR>
 		<ko>살라미스 해전에서 승리한다 (에게해의 영웅들 2)</ko>
+		<fixja>サラミスの戦いに勝利する（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_SALAMIS_PERFECT</zType>
@@ -3029,6 +3260,7 @@
 		<zh-CN>在萨拉米斯之役中，不要失去任何船只 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Não perca nenhum barco na Batalha de Salamina (Heroes of the Aegean 2)</pt-BR>
 		<ko>살라미스 해전에서 함선을 한 척도 잃지 않는다 (에게해의 영웅들 2)</ko>
+		<fixja>サラミスの海戦で船を一隻も失わない（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE2_PLATAEA_WIN</zType>
@@ -3042,6 +3274,7 @@
 		<zh-CN>打赢普拉提亚之役 (爱琴海英雄 2)</zh-CN>
 		<pt-BR>Complete a Batalha de Plateias (Heroes of the Aegean 2)</pt-BR>
 		<ko>플라타이아이 전투에서 승리한다 (에게해의 영웅들 2)</ko>
+		<fixja>プラタイアの戦いに勝利する（エーゲの英雄たち2）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_PAIONIA</zType>
@@ -3055,6 +3288,7 @@
 		<zh-CN>夺回培奥尼亚 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Reconquiste a Peônia (Heroes of the Aegean 3)</pt-BR>
 		<ko>파이오니아를 탈환한다 (에게해의 영웅들 3)</ko>
+		<fixja>パイオニアを奪還する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_THRACIANS</zType>
@@ -3068,6 +3302,7 @@
 		<zh-CN>用你的名字命名两个城市 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Nomeie duas cidades em homenagem a si mesmo (Heroes of the Aegean 3)</pt-BR>
 		<ko>도시 두 개를 자신의 이름을 따 명명한다 (에게해의 영웅들 3)</ko>
+		<fixja>自身の名前を2つの都市に名付ける（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_ATHENS</zType>
@@ -3081,6 +3316,7 @@
 		<zh-CN>征服雅典 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Subjugue Atenas (Heroes of the Aegean 3)</pt-BR>
 		<ko>아테네를 평정한다 (에게해의 영웅들 3)</ko>
+		<fixja>アテナイを征服する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_SPARTA</zType>
@@ -3094,6 +3330,7 @@
 		<zh-CN>征服斯巴达 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Subjugue Esparta (Heroes of the Aegean 3)</pt-BR>
 		<ko>스파르타를 평정한다 (에게해의 영웅들 3)</ko>
+		<fixja>アテナイを征服する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_NO_WOUND</zType>
@@ -3107,6 +3344,7 @@
 		<zh-CN>在腓力不失去眼睛的情况下获胜 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Vença sem que Filipe perca um olho (Heroes of the Aegean 3)</pt-BR>
 		<ko>필리포스의 눈을 잃지 않고 승리한다 (에게해의 영웅들 3)</ko>
+		<fixja>フィリポを失明させずに勝利する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_THREE_WIVES</zType>
@@ -3120,6 +3358,7 @@
 		<zh-CN>作为腓力拥有三位妻子 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Tenha três esposas jogando como Filipe (Heroes of the Aegean 3)</pt-BR>
 		<ko>필리포스로 배우자를 세 명 둔다 (에게해의 영웅들 3)</ko>
+		<fixja>フィリポを使って、3人の妻を持つ（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_OLYMPICS</zType>
@@ -3133,6 +3372,7 @@
 		<zh-CN>在一场奥林匹克竞赛中获胜 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Vença uma corrida Olímpica (Heroes of the Aegean 3)</pt-BR>
 		<ko>올림픽 경주에서 승리한다 (에게해의 영웅들 3)</ko>
+		<fixja>オリンピックのレースで勝利する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_ALEXANDER_KILL</zType>
@@ -3146,6 +3386,7 @@
 		<zh-CN>以年轻的亚历山大作为将军击杀一个单位 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Mate uma unidade com o jovem Alexandre como general (Heroes of the Aegean 3)</pt-BR>
 		<ko>젊은 알렉산드로스를 장군으로 배정해 유닛 하나를 처치한다 (에게해의 영웅들 3)</ko>
+		<fixja>将官の若きアレクサンドロスを使って、ユニットを1体倒す（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY</zType>
@@ -3159,6 +3400,7 @@
 		<zh-CN>在腓力的情境中获胜 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Vença o cenário de Filipe (Heroes of the Aegean 3)</pt-BR>
 		<ko>필리포스 시나리오에서 승리한다 (에게해의 영웅들 3)</ko>
+		<fixja>フィリポのシナリオをクリアする（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_BRONZE</zType>
@@ -3172,6 +3414,7 @@
 		<zh-CN>作为腓力完成主要的胜利目标 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Complete os principais objetivos de vitória como Filipe (Heroes of the Aegean 3)</pt-BR>
 		<ko>필리포스로 주요 승리 목표를 달성한다 (에게해의 영웅들 3)</ko>
+		<fixja>フィリポを使って、メインの勝利目標を達成する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_SILVER</zType>
@@ -3185,6 +3428,7 @@
 		<zh-CN>作为腓力完成两个非必要胜利目标 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Complete dois dos objetivos de vitória opcionais como Filipe (Heroes of the Aegean 3)</pt-BR>
 		<ko>필리포스로 추가 승리 목표 두 개를 달성한다 (에게해의 영웅들 3)</ko>
+		<fixja>フィリポを使って、オプションの勝利目標を2つ達成する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_GOLD</zType>
@@ -3198,6 +3442,7 @@
 		<zh-CN>作为腓力完成所有非必要胜利目标 (爱琴海英雄 3)</zh-CN>
 		<pt-BR>Complete todos os objetivos de vitória opcionais como Filipe (Heroes of the Aegean 3)</pt-BR>
 		<ko>필리포스로 모든 추가 승리 목표를 달성한다 (에게해의 영웅들 3)</ko>
+		<fixja>フィリポを使って、オプションの勝利目標を全て達成する（エーゲの英雄たち3）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE4_INTRIGUE</zType>
@@ -3211,6 +3456,7 @@
 		<zh-CN>完成阴谋树 (爱琴海英雄 4)</zh-CN>
 		<pt-BR>Complete a Árvore da Intriga (Heroes of the Aegean 4)</pt-BR>
 		<ko>음모 계보를 완료한다 (에게해의 영웅들 4)</ko>
+		<fixja>陰謀の系譜をクリアする（エーゲの英雄たち4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE4_CITIES</zType>
@@ -3224,6 +3470,7 @@
 		<zh-CN>取得所有城市的控制 (爱琴海英雄 4)</zh-CN>
 		<pt-BR>Controle todas as cidades (Heroes of the Aegean 4)</pt-BR>
 		<ko>모든 도시를 지배한다 (에게해의 영웅들 4)</ko>
+		<fixja>すべての都市を支配する（エーゲの英雄たち4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE4_WIN_OLYMPIAS_STORYLINE</zType>
@@ -3237,6 +3484,7 @@
 		<zh-CN>在腓力被奥林匹亚丝杀死后获胜 (爱琴海英雄 4)</zh-CN>
 		<pt-BR>Vença depois que Filipe for morto por Olímpia (Heroes of the Aegean 4)</pt-BR>
 		<ko>필리포스가 올림피아스에게 살해당한 후 승리한다 (에게해의 영웅들 4)</ko>
+		<fixja>オリュンピアスにフィリポを殺害された後に勝利する（エーゲの英雄たち4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE</zType>
@@ -3250,6 +3498,7 @@
 		<zh-CN>在腓力被保萨尼亚斯杀死后获胜 (爱琴海英雄 4)</zh-CN>
 		<pt-BR>Vença depois que Filipe for morto por Pausânias (Heroes of the Aegean 4)</pt-BR>
 		<ko>필리포스가 파우사니아스에게 살해당한 후 승리한다 (에게해의 영웅들 4)</ko>
+		<fixja>パウサニアスにフィリポを殺害された後に勝利する（エーゲの英雄たち4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE</zType>
@@ -3263,6 +3512,7 @@
 		<zh-CN>在腓力被波斯人杀死后获胜 (爱琴海英雄 4)</zh-CN>
 		<pt-BR>Vença depois que Filipe for morto pelos persa (Heroes of the Aegean 4)</pt-BR>
 		<ko>필리포스가 페르시아인에게 살해당한 후 승리한다 (에게해의 영웅들 4)</ko>
+		<fixja>ペルシャにフィリポを殺害された後に勝利する（エーゲの英雄たち4）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS</zType>
@@ -3276,6 +3526,7 @@
 		<zh-CN>让亚历山大骑着布西发拉斯击杀 10 个波斯单位 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Mate 10 unidades com Alexandre montado em Bucéfalo (Heroes of the Aegean 5)</pt-BR>
 		<ko>알렉산드로스를 부케팔로스에 태워 유닛 10개를 처치한다 (에게해의 영웅들 5)</ko>
+		<fixja>ブケパロスに乗ったアレクサンドロスを使って、ユニットを10体倒す（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_TYRE</zType>
@@ -3289,6 +3540,7 @@
 		<zh-CN>完成提尔攻城 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Complete o Cerco de Tiro (Heroes of the Aegean 5)</pt-BR>
 		<ko>티레 공성전을 완료한다 (에게해의 영웅들 5)</ko>
+		<fixja>テュロスの攻囲戦をクリアする（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_PHARAOH</zType>
@@ -3302,6 +3554,7 @@
 		<zh-CN>让亚历山大被认可为法老 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Faça com que Alexandre seja reconhecido como faraó (Heroes of the Aegean 5)</pt-BR>
 		<ko>알렉산드로스가 파라오로 인정받는다 (에게해의 영웅들 5)</ko>
+		<fixja>アレクサンドロスをファラオとして公認させる（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_GORDIAN_KNOT</zType>
@@ -3315,6 +3568,7 @@
 		<zh-CN>切断戈耳狄俄斯之结 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Corte o Nó Górdio (Heroes of the Aegean 5)</pt-BR>
 		<ko>고르디우스의 매듭을 자른다 (에게해의 영웅들 5)</ko>
+		<fixja>ゴルディアスの結び目を断ち切る（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_PERSIAN_GATE</zType>
@@ -3328,6 +3582,7 @@
 		<zh-CN>打赢波斯门之役 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Vença a Batalha do Portão Persa (Heroes of the Aegean 5)</pt-BR>
 		<ko>페르시아 관문 전투에서 승리한다 (에게해의 영웅들 5)</ko>
+		<fixja>ペルシャ門の戦いに勝利する（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY</zType>
@@ -3341,6 +3596,7 @@
 		<zh-CN>击败波斯帝国 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Derrote o Império Persa (Heroes of the Aegean 5)</pt-BR>
 		<ko>페르시아 제국에게 승리한다 (에게해의 영웅들 5)</ko>
+		<fixja>ペルシャ帝国を倒す（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_BETTER</zType>
@@ -3354,6 +3610,7 @@
 		<zh-CN>在 60 回合内击败波斯帝国 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Derrote o Império Persa em menos de 60 turnos (Heroes of the Aegean 5)</pt-BR>
 		<ko>60턴 이하로 페르시아 제국에게 승리한다 (에게해의 영웅들 5)</ko>
+		<fixja>59ターン以内にペルシャ帝国を倒す（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_BEST</zType>
@@ -3367,6 +3624,7 @@
 		<zh-CN>在 50 回合内击败波斯帝国并成为法老 (爱琴海英雄 5)</zh-CN>
 		<pt-BR>Derrote o Império Persa e se torne o faraó em menos de 50 turnos (Heroes of the Aegean 5)</pt-BR>
 		<ko>파라오가 된 채 50턴 이하로 페르시아 제국에게 승리한다 (에게해의 영웅들 5)</ko>
+		<fixja>49ターン以内にペルシャ帝国を倒し、ファラオになる（エーゲの英雄たち5）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE6_MACEDONIA</zType>
@@ -3380,6 +3638,7 @@
 		<zh-CN>作为马其顿的卡山德，在继业者情境中获胜 (爱琴海英雄 6)</zh-CN>
 		<pt-BR>Vença o cenário de Diádocos como Cassandro da Macedônia (Heroes of the Aegean 6)</pt-BR>
 		<ko>마케도니아의 카산드로스로 후계자들 시나리오에서 승리한다 (에게해의 영웅들 6)</ko>
+		<fixja>マケドニアのカッサンドロスを使って、ディアドコイのシナリオをクリアする（エーゲの英雄たち6）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE6_PTOLEMY</zType>
@@ -3393,6 +3652,7 @@
 		<zh-CN>作为托勒密王国，在继业者情境中获胜 (爱琴海英雄 6)</zh-CN>
 		<pt-BR>Vença o cenário de Diádocos como o reino Ptolemaico (Heroes of the Aegean 6)</pt-BR>
 		<ko>프톨레마이오스 왕국으로 후계자들 시나리오에서 승리한다 (에게해의 영웅들 6)</ko>
+		<fixja>プトレマイオス王国を使って、ディアドコイのシナリオをクリアする（エーゲの英雄たち6）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE6_ANTIGONID</zType>
@@ -3406,6 +3666,7 @@
 		<zh-CN>作为安提柯帝国，在继业者情境中获胜 (爱琴海英雄 6)</zh-CN>
 		<pt-BR>Vença o cenário de Diádocos como o império Antigônida (Heroes of the Aegean 6)</pt-BR>
 		<ko>안티고노스 제국으로 후계자들 시나리오에서 승리한다 (에게해의 영웅들 6)</ko>
+		<fixja>アンティゴノス帝国を使って、ディアドコイのシナリオをクリアする（エーゲの英雄たち6）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_GREECE6_SELEUCUS</zType>
@@ -3419,6 +3680,7 @@
 		<zh-CN>作为塞琉古帝国，在继业者情境中获胜 (爱琴海英雄 6)</zh-CN>
 		<pt-BR>Vença o cenário de Diádocos como o império Selêucida (Heroes of the Aegean 6)</pt-BR>
 		<ko>셀레우코스 제국으로 후계자들 시나리오에서 승리한다 (에게해의 영웅들 6)</ko>
+		<fixja>セレウコス帝国を使って、ディアドコイのシナリオをクリアする（エーゲの英雄たち6）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_HITTITE</zType>
@@ -3432,6 +3694,7 @@
 		<zh-CN>以西台获胜</zh-CN>
 		<pt-BR>Vença jogando com os hititas</pt-BR>
 		<ko>히타이트로 승리한다</ko>
+		<fixja>ヒッタイトとして勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_KUSH</zType>
@@ -3445,6 +3708,7 @@
 		<zh-CN>以库什获胜</zh-CN>
 		<pt-BR>Vença jogando como Cuxe</pt-BR>
 		<ko>쿠시로 승리한다</ko>
+		<fixja>クシュで勝利</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_NATION_AKSUM</zType>
@@ -3458,6 +3722,7 @@
 		<zh-CN>以阿克苏姆获胜</zh-CN>
 		<pt-BR>Vença jogando como Axum</pt-BR>
 		<ko>악숨으로 승리한다</ko>
+		<fixja>アクスムで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_AKSUMITE_MAJOR_STELE</zType>
@@ -3471,6 +3736,7 @@
 		<zh-CN>游玩阿克苏姆，竖立一座传奇石碑</zh-CN>
 		<pt-BR>Jogando como Axum, construa uma estela lendária</pt-BR>
 		<ko>악숨으로 전설 스텔라를 세운다</ko>
+		<fixja>アクスムとして壮大なステッレを建設する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_HITTITE</zType>
@@ -3484,6 +3750,7 @@
 		<zh-CN>建立西台异教</zh-CN>
 		<pt-BR>Funde o Paganismo Hitita</pt-BR>
 		<ko>히타이트 다신교를 설립한다</ko>
+		<fixja>ヒッタイト多神教を創始する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_KUSH</zType>
@@ -3497,6 +3764,7 @@
 		<zh-CN>建立库希特异教</zh-CN>
 		<pt-BR>Funde o Paganismo Cuxita</pt-BR>
 		<ko>쿠시 다신교를 설립한다</ko>
+		<fixja>クシテ異教の発見</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_AKSUM</zType>
@@ -3510,6 +3778,7 @@
 		<zh-CN>建立阿克苏姆异教</zh-CN>
 		<pt-BR>Funde o Paganismo Axumita</pt-BR>
 		<ko>악숨 다신교를 설립한다</ko>
+		<fixja>アクスム多神教を創始する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_HITTITE_CHARIOT</zType>
@@ -3523,6 +3792,7 @@
 		<zh-CN>训练一辆三人战车</zh-CN>
 		<pt-BR>Treine uma Biga de Três Homens</pt-BR>
 		<ko>삼인전차병을 육성한다</ko>
+		<fixja>三人乗り戦車を訓練する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_UNIT_SHOTELAI</zType>
@@ -3536,6 +3806,7 @@
 		<zh-CN>训练一名弯刀手</zh-CN>
 		<pt-BR>Treine um Shotelai</pt-BR>
 		<ko>쇼텔라이를 육성한다</ko>
+		<fixja>ショーテル兵を訓練する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_HITTITE_IRON</zType>
@@ -3549,6 +3820,7 @@
 		<zh-CN>作为西台，建造一座矿场</zh-CN>
 		<pt-BR>Construa uma mina jogando com os hititas</pt-BR>
 		<ko>히타이트로 광산을 건설한다</ko>
+		<fixja>ヒッタイトとして、鉱山を創設する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_FIRST_PEACE_TREATY</zType>
@@ -3562,6 +3834,7 @@
 		<zh-CN>作为西台，与埃及求和</zh-CN>
 		<pt-BR>Jogando com os hititas faça um acordo de paz com o Egito</pt-BR>
 		<ko>히타이트로 이집트와 평화 협정을 맺는다</ko>
+		<fixja>ヒッタイトとして、エジプトと和平を築く</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LBP1</zType>
@@ -3575,6 +3848,7 @@
 		<zh-CN>完成边学边练 1 - 平庸</zh-CN>
 		<pt-BR>Complete o cenário Aprenda Jogando 1 - Capaz</pt-BR>
 		<ko>플레이하며 배우기 1을 완료한다 - 유능한 자</ko>
+		<fixja>「プレイを通して学ぶ1－有能者」をクリアする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LBP2</zType>
@@ -3588,6 +3862,7 @@
 		<zh-CN>完成边学边练 2 - 尚佳</zh-CN>
 		<pt-BR>Complete o cenário Aprenda Jogando 2 - Justo</pt-BR>
 		<ko>플레이하며 배우기 2를 완료한다 - 공정한 자</ko>
+		<fixja>「プレイを通して学ぶ－優良者」をクリアする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LBP3</zType>
@@ -3601,6 +3876,7 @@
 		<zh-CN>完成边学边练 3 - 优秀</zh-CN>
 		<pt-BR>Complete o cenário Aprenda Jogando 3 - Bom</pt-BR>
 		<ko>플레이하며 배우기 3을 완료한다 - 선한 자</ko>
+		<fixja>「プレイを通して学ぶ3－優秀者」をクリアする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_LBP4</zType>
@@ -3614,6 +3890,7 @@
 		<zh-CN>完成边学边练 4 - 强大</zh-CN>
 		<pt-BR>Complete o cenário Aprenda Jogando 4 - Forte</pt-BR>
 		<ko>플레이하며 배우기 4를 완료한다 - 강대한 자</ko>
+		<fixja>「プレイを通して学ぶ4－強者」をクリアする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_SINGLEPLAYER</zType>
@@ -3627,6 +3904,7 @@
 		<zh-CN>进行一场单人游戏</zh-CN>
 		<pt-BR>Jogue uma partida para um jogador</pt-BR>
 		<ko>싱글 플레이 게임을 플레이한다</ko>
+		<fixja>シングルプレイヤーでプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_NETWORK</zType>
@@ -3640,6 +3918,7 @@
 		<zh-CN>进行一场在线游戏</zh-CN>
 		<pt-BR>Jogue uma partida em rede</pt-BR>
 		<ko>네트워크 게임을 플레이한다</ko>
+		<fixja>ネットワークゲームをプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_LAN</zType>
@@ -3653,6 +3932,7 @@
 		<zh-CN>进行一场联机游戏</zh-CN>
 		<pt-BR>Jogue uma partida em rede local</pt-BR>
 		<ko>LAN 게임을 플레이한다</ko>
+		<fixja>LANゲームをプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_PLAYBYCLOUD</zType>
@@ -3666,6 +3946,7 @@
 		<zh-CN>进行一场云端游戏</zh-CN>
 		<pt-BR>Jogue uma partida pela nuvem</pt-BR>
 		<ko>클라우드 플레이로 플레이한다</ko>
+		<fixja>Play-By-Cloudゲームをプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_HOTSEAT</zType>
@@ -3679,6 +3960,7 @@
 		<zh-CN>进行一场热座游戏</zh-CN>
 		<pt-BR>Jogue uma partida em multijogador local</pt-BR>
 		<ko>핫시트 게임을 플레이한다</ko>
+		<fixja>ホットシートゲームをプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_FFA</zType>
@@ -3692,6 +3974,7 @@
 		<zh-CN>进行一场先抢先赢游戏 ({gt}2 玩家)</zh-CN>
 		<pt-BR>Jogue uma partida todos contra todos ({gt}2 jogadores)</pt-BR>
 		<ko>데스 매치를 플레이한다({gt} 플레이어 2명)</ko>
+		<fixja>参加自由型ゲームをプレイする（{gt}プレイヤー2人）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_MPTEAMS</zType>
@@ -3705,6 +3988,7 @@
 		<zh-CN>进行一场 MP 队伍游戏</zh-CN>
 		<pt-BR>Jogue uma partida multijogador em equipes</pt-BR>
 		<ko>멀티 플레이 협력 게임을 플레이한다</ko>
+		<fixja>マルチプレイヤーゲームをプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_PLAY_1V1</zType>
@@ -3718,6 +4002,7 @@
 		<zh-CN>进行一场 1-v-1 游戏</zh-CN>
 		<pt-BR>Jogue uma partida 1-v-1</pt-BR>
 		<ko>일대일 게임을 플레이한다</ko>
+		<fixja>1vs1でプレイする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_SINGLEPLAYER</zType>
@@ -3731,6 +4016,7 @@
 		<zh-CN>在一场单人游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida para um jogador</pt-BR>
 		<ko>싱글 플레이 게임에서 승리한다</ko>
+		<fixja>シングルプレイヤーゲームで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_NETWORK</zType>
@@ -3744,6 +4030,7 @@
 		<zh-CN>在一场在线游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida em rede</pt-BR>
 		<ko>네트워크 게임에서 승리한다</ko>
+		<fixja>ネットワークゲームで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_LAN</zType>
@@ -3757,6 +4044,7 @@
 		<zh-CN>在一场联机游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida em rede local</pt-BR>
 		<ko>LAN 게임에서 승리한다</ko>
+		<fixja>LANゲームで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_PLAYBYCLOUD</zType>
@@ -3770,6 +4058,7 @@
 		<zh-CN>在一场云端游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida pela nuvem</pt-BR>
 		<ko>클라우드 플레이 게임에서 승리한다</ko>
+		<fixja>Play-by-Cloudゲームで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_HOTSEAT</zType>
@@ -3783,6 +4072,7 @@
 		<zh-CN>在一场热座游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida em multijogador local</pt-BR>
 		<ko>핫시트 게임에서 승리한다</ko>
+		<fixja>ホットシートゲームで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_FFA</zType>
@@ -3796,6 +4086,7 @@
 		<zh-CN>在一场先抢先赢游戏中获胜 ({gt}2 玩家)</zh-CN>
 		<pt-BR>Vença uma partida todos contra todos ({gt}2 jogadores)</pt-BR>
 		<ko>데스 매치({gt} 플레이어 2명)에서 승리한다</ko>
+		<fixja>参加自由型ゲームで勝利する（{gt}プレイヤー2人）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_MPTEAMS</zType>
@@ -3809,6 +4100,7 @@
 		<zh-CN>在一场 MP 队伍游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida multijogador em equipes</pt-BR>
 		<ko>멀티 플레이 협력 게임에서 승리한다</ko>
+		<fixja>マルチプレイヤーゲームで勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_WIN_1V1</zType>
@@ -3822,6 +4114,7 @@
 		<zh-CN>在一场 1-v-1 游戏中获胜</zh-CN>
 		<pt-BR>Vença uma partida 1-v-1</pt-BR>
 		<ko>일대일 게임에서 승리한다</ko>
+		<fixja>1vs1で勝利する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_THE_ROYAL_COUPLE</zType>
@@ -3835,6 +4128,7 @@
 		<zh-CN>让旧世界两位最著名的人成婚并统治你的国家。</zh-CN>
 		<pt-BR>Faça as duas figuras mais famosas do velho mundo se casarem e governarem a sua nação.</pt-BR>
 		<ko>올드 월드에서 가장 유명한 두 인물을 결혼시키고 통치자로 임명한다.</ko>
+		<fixja>この世界で最も有名な2人を結婚させ、あなたの国を統治させる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_FIVE_CULTS</zType>
@@ -3848,6 +4142,7 @@
 		<zh-CN>拥有五个教派（神圣与亵渎）</zh-CN>
 		<pt-BR>Tenha cinco cultos (The Sacred and the Profane)</pt-BR>
 		<ko>교단 다섯 개를 보유한다 (신성한 자와 불경한 자)</ko>
+		<fixja>5つのカルトを擁する（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_ST_PAUL</zType>
@@ -3861,6 +4156,7 @@
 		<zh-CN>任圣保罗为基督教宗主教（神圣与亵渎）</zh-CN>
 		<pt-BR>Nomeie São Paulo como o patriarca do cristianismo (The Sacred and the Profane)</pt-BR>
 		<ko>성 파울을 기독교 대주교로 삼는다 (신성한 자와 불경한 자)</ko>
+		<fixja>キリスト教の聖人パウロを総大司教にする（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA</zType>
@@ -3874,6 +4170,7 @@
 		<zh-CN>让希帕提亚指导一名角色（神圣与亵渎）</zh-CN>
 		<pt-BR>Use Hipátia como tutora de um personagem (The Sacred and the Profane)</pt-BR>
 		<ko>히파티아로 인물 한 명을 교육한다 (신성한 자와 불경한 자)</ko>
+		<fixja>ヒュパティアとともにキャラクターを指導する（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE</zType>
@@ -3887,6 +4184,7 @@
 		<zh-CN>寻找一位伟大的法师（神圣与亵渎）</zh-CN>
 		<pt-BR>Encontre um grande mago (The Sacred and the Profane)</pt-BR>
 		<ko>위대한 마법사를 발견한다 (신성한 자와 불경한 자)</ko>
+		<fixja>大魔術師を見つける（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL</zType>
@@ -3900,6 +4198,7 @@
 		<zh-CN>同时对世界四大宗教持不同意见（神圣与亵渎）</zh-CN>
 		<pt-BR>Tenha dissidência de todas as quatro religiões mundiais ao mesmo tempo (The Sacred and the Profane)</pt-BR>
 		<ko>세계 종교 4개의 반발을 동시에 일으킨다 (신성한 자와 불경한 자)</ko>
+		<fixja>4つの世界宗教から同時に反対意見が発生する（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST</zType>
@@ -3913,6 +4212,7 @@
 		<zh-CN>跟踪神兽（神圣与亵渎）</zh-CN>
 		<pt-BR>Siga o rastro de uma criatura mítica (The Sacred and the Profane)</pt-BR>
 		<ko>신화적인 짐승의 자취를 따른다 (신성한 자와 불경한 자)</ko>
+		<fixja>神話の獣の痕跡を追う（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_POET_LEADER</zType>
@@ -3926,6 +4226,7 @@
 		<zh-CN>拥有一位带有诗人特质的领袖（神圣与亵渎）</zh-CN>
 		<pt-BR>Tenha um líder com o atributo poeta (The Sacred and the Profane)</pt-BR>
 		<ko>시인 특성을 인물을 지도자로 삼는다 (신성한 자와 불경한 자)</ko>
+		<fixja>詩人の特性を持つ指導者を擁する（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE</zType>
@@ -3939,6 +4240,7 @@
 		<zh-CN>帮助一名祭司废黜一位部落领袖（神圣与亵渎）</zh-CN>
 		<pt-BR>Ajude um sacerdote a depor um líder tribal (The Sacred and the Profane)</pt-BR>
 		<ko>사제가 부족 지도자를 물러나게 한다 (신성한 자와 불경한 자)</ko>
+		<fixja>司祭が部族の指導者を追放するのに手を貸す（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE</zType>
@@ -3952,6 +4254,7 @@
 		<zh-CN>让一名角色完成一次朝圣（神圣与亵渎）</zh-CN>
 		<pt-BR>Faça com que um personagem termine uma peregrinação (The Sacred and the Profane)</pt-BR>
 		<ko>한 인물로 순례를 완료한다 (신성한 자와 불경한 자)</ko>
+		<fixja>キャラクターに巡礼の旅を完遂させる（『神聖と冒涜』）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT</zType>
@@ -3965,5 +4268,6 @@
 		<zh-CN>让一名神职人员进入宫廷（神圣与亵渎）</zh-CN>
 		<pt-BR>Faça com que um membro do clero se junte à sua corte (The Sacred and the Profane)</pt-BR>
 		<ko>성직자를 궁정에 들인다 (신성한 자와 불경한 자)</ko>
+		<fixja>聖職者のひとりを宮廷入りさせる（『神聖と冒涜』）</fixja>
 	</Entry>
 </Root>

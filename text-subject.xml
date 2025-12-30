@@ -26,6 +26,7 @@
 		<zh-CN>现有外交任务</zh-CN>
 		<pt-BR>Missão diplomática ativa</pt-BR>
 		<ko>외교 임무 진행 중</ko>
+		<fixja>アクティブな外交ミッション</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_WAR</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR)</ko>
+		<fixja>link(DIPLOMACY_WAR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_TRUCE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE)</pt-BR>
 		<ko>link(DIPLOMACY_TRUCE)</ko>
+		<fixja>link(DIPLOMACY_TRUCE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_PEACE</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE)</ko>
+		<fixja>link(DIPLOMACY_PEACE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_TRUCE_OR_WAR</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>link(DIPLOMACY_TRUCE)或link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) ou link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_TRUCE) 혹은 link(DIPLOMACY_WAR)</ko>
+		<fixja>link(DIPLOMACY_TRUCE)か link(DIPLOMACY_WAR)か</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_PEACE_OR_TRUCE</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>link(DIPLOMACY_PEACE)或link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) ou link(DIPLOMACY_TRUCE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 혹은 link(DIPLOMACY_TRUCE)</ko>
+		<fixja>link(DIPLOMACY_PEACE)またはlink(DIPLOMACY_TRUCE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_NO_ALLIANCE</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>没有link(CONCEPT_ALLIANCE_PLAYER)</zh-CN>
 		<pt-BR>Sem link(CONCEPT_ALLIANCE_PLAYER)</pt-BR>
 		<ko>link(CONCEPT_ALLIANCE_PLAYER) 없음</ko>
+		<fixja>link(CONCEPT_ALLIANCE_PLAYER)なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_PEACE_FRIENDLY</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>link(DIPLOMACY_PEACE)与link(OPINIONPLAYER_FRIENDLY)最小值</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) e link(OPINIONPLAYER_FRIENDLY) mín.</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 및 최소 link(OPINIONPLAYER_FRIENDLY)</ko>
+		<fixja>link(DIPLOMACY_PEACE)および最小link(OPINIONPLAYER_FRIENDLY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MAX_ANGRY</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>link(OPINIONPLAYER_ANGRY)最大值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_ANGRY) máx.</pt-BR>
 		<ko>최대 link(OPINIONPLAYER_ANGRY)</ko>
+		<fixja>最大link(OPINIONPLAYER_ANGRY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MAX_UPSET</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>link(OPINIONPLAYER_UPSET)最大值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_UPSET) máx.</pt-BR>
 		<ko>최대 link(OPINIONPLAYER_UPSET)</ko>
+		<fixja>最大link(OPINIONPLAYER_UPSET)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MAX_CAUTIOUS</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>link(OPINIONPLAYER_CAUTIOUS)最大值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_CAUTIOUS) máx.</pt-BR>
 		<ko>최대 link(OPINIONPLAYER_CAUTIOUS)</ko>
+		<fixja>最大link(OPINIONPLAYER_CAUTIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MAX_PLEASED</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>link(OPINIONPLAYER_PLEASED)最大值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_PLEASED) máx.</pt-BR>
 		<ko>최대 link(OPINIONPLAYER_PLEASED)</ko>
+		<fixja>最大link(OPINIONPLAYER_PLEASED)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_ANGRY</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>link(OPINIONPLAYER_ANGRY)最小值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_ANGRY) mín.</pt-BR>
 		<ko>최대 link(OPINIONPLAYER_ANGRY)</ko>
+		<fixja>最小link(OPINIONPLAYER_ANGRY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_UPSET</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>link(OPINIONPLAYER_UPSET)最小值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_UPSET) mín.</pt-BR>
 		<ko>최소 link(OPINIONPLAYER_UPSET)</ko>
+		<fixja>最小link(OPINIONPLAYER_UPSET)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_CAUTIOUS</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>link(OPINIONPLAYER_CAUTIOUS)最小值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_CAUTIOUS) mín.</pt-BR>
 		<ko>최소 link(OPINIONPLAYER_CAUTIOUS)</ko>
+		<fixja>最小link(OPINIONPLAYER_CAUTIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_PLEASED</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>link(OPINIONPLAYER_PLEASED)最小值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_PLEASED) mín.</pt-BR>
 		<ko>최소 link(OPINIONPLAYER_PLEASED)</ko>
+		<fixja>最小link(OPINIONPLAYER_PLEASED)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_FRIENDLY</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>link(OPINIONPLAYER_FRIENDLY)最小值</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_FRIENDLY) mín.</pt-BR>
 		<ko>최소 link(OPINIONPLAYER_FRIENDLY)</ko>
+		<fixja>最小link(OPINIONPLAYER_FRIENDLY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_ANGRY_PLEASED</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>link(OPINIONPLAYER_ANGRY)至link(OPINIONPLAYER_PLEASED)</zh-CN>
 		<pt-BR>de link(OPINIONPLAYER_ANGRY) a link(OPINIONPLAYER_PLEASED)</pt-BR>
 		<ko>link(OPINIONPLAYER_ANGRY)에서 link(OPINIONPLAYER_PLEASED)까지</ko>
+		<fixja>link(OPINIONPLAYER_ANGRY)からlink(OPINIONPLAYER_PLEASED)に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_ANGRY_CAUTIOUS</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>link(OPINIONPLAYER_ANGRY)至link(OPINIONPLAYER_CAUTIOUS)</zh-CN>
 		<pt-BR>de link(OPINIONPLAYER_ANGRY) a link(OPINIONPLAYER_CAUTIOUS)</pt-BR>
 		<ko>link(OPINIONPLAYER_ANGRY)에서 link(OPINIONPLAYER_CAUTIOUS)까지</ko>
+		<fixja>link(OPINIONPLAYER_ANGRY)からlink(OPINIONPLAYER_CAUTIOUS)に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_ANGRY_UPSET</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>link(OPINIONPLAYER_ANGRY)至link(OPINIONPLAYER_UPSET)</zh-CN>
 		<pt-BR>de link(OPINIONPLAYER_ANGRY) a link(OPINIONPLAYER_UPSET)</pt-BR>
 		<ko>link(OPINIONPLAYER_ANGRY)에서 link(OPINIONPLAYER_UPSET)까지</ko>
+		<fixja>link(OPINIONPLAYER_ANGRY)からlink(OPINIONPLAYER_UPSET)に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_UPSET_PLEASED</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>link(OPINIONPLAYER_UPSET)至link(OPINIONPLAYER_PLEASED)</zh-CN>
 		<pt-BR>de link(OPINIONPLAYER_UPSET) a link(OPINIONPLAYER_PLEASED)</pt-BR>
 		<ko>link(OPINIONPLAYER_UPSET)에서 link(OPINIONPLAYER_PLEASED)까지</ko>
+		<fixja>link(OPINIONPLAYER_UPSET)からlink(OPINIONPLAYER_PLEASED)に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_UPSET_CAUTIOUS</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>link(OPINIONPLAYER_UPSET)至link(OPINIONPLAYER_CAUTIOUS)</zh-CN>
 		<pt-BR>de link(OPINIONPLAYER_UPSET) a link(OPINIONPLAYER_CAUTIOUS)</pt-BR>
 		<ko>link(OPINIONPLAYER_UPSET)에서 link(OPINIONPLAYER_CAUTIOUS)까지</ko>
+		<fixja>link(OPINIONPLAYER_UPSET)からlink(OPINIONPLAYER_CAUTIOUS)に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_CAUTIOUS_PLEASED</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>link(OPINIONPLAYER_CAUTIOUS)至link(OPINIONPLAYER_PLEASED)</zh-CN>
 		<pt-BR>de link(OPINIONPLAYER_CAUTIOUS) a link(OPINIONPLAYER_PLEASED)</pt-BR>
 		<ko>link(OPINIONPLAYER_CAUTIOUS)에서 link(OPINIONPLAYER_PLEASED)까지</ko>
+		<fixja>link(OPINIONPLAYER_CAUTIOUS)からlink(OPINIONPLAYER_PLEASED)に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_PLEASED_NO_WARS</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>link(OPINIONPLAYER_PLEASED)最小值，无战争</zh-CN>
 		<pt-BR>link(OPINIONPLAYER_PLEASED) mín. e sem guerras</pt-BR>
 		<ko>최소 link(OPINIONPLAYER_PLEASED) 및 전쟁 없음</ko>
+		<fixja>最小link(OPINIONPLAYER_PLEASED)および戦争なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MIN_COMPETENT</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>纯熟 (link(CONCEPT_KNOWLEDGE)) 最小值</zh-CN>
 		<pt-BR>Competente (link(CONCEPT_KNOWLEDGE)) mín. </pt-BR>
 		<ko>최소 대등 (link(CONCEPT_KNOWLEDGE))</ko>
+		<fixja>有能度最小(link(CONCEPT_KNOWLEDGE))</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MAX_NAIVE</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>雉嫩 (link(CONCEPT_KNOWLEDGE)) 最大值</zh-CN>
 		<pt-BR>Aprendiz (link(CONCEPT_KNOWLEDGE)) máx.</pt-BR>
 		<ko>최소 미약 (link(CONCEPT_KNOWLEDGE))</ko>
+		<fixja>未熟度最大(link(CONCEPT_KNOWLEDGE))</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_NO_ADOPTED_RELIGION</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>近期并未改信link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>Não adotou uma link(CONCEPT_STATE_RELIGION) recentemente</pt-BR>
 		<ko>최근 link(CONCEPT_STATE_RELIGION)를 지정하지 않았음</ko>
+		<fixja>最近link(CONCEPT_STATE_RELIGION)を採用していない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_DEMANDED_TRIBUTE</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>最近要求进贡</zh-CN>
 		<pt-BR>Exigiu tributo recentemente</pt-BR>
 		<ko>최근 공물을 요구함</ko>
+		<fixja>近ごろ要求された貢物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_STATE_RELIGION</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>拥有link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>Possui link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>link(CONCEPT_STATE_RELIGION) 보유</ko>
+		<fixja>link(CONCEPT_STATE_RELIGION)を得ている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_MAX_1_CLERGY</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>神职人员少于 2 人</zh-CN>
 		<pt-BR>Tem menos de 2 membros do clero</pt-BR>
 		<ko>성직자 2명 미만 보유 가능</ko>
+		<fixja>聖職者が2名未満</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_NO_CHARACTER_DIPLOMACY_FOUND</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>已进行外交</zh-CN>
 		<pt-BR>Conduziu relações diplomáticas</pt-BR>
 		<ko>외교를 수행함</ko>
+		<fixja>外交を行った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_HAS_HEIRS</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>拥有继承人</zh-CN>
 		<pt-BR>Tem herdeiro(s)</pt-BR>
 		<ko>후계자 있음</ko>
+		<fixja>後継者あり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>上一场link(DIPLOMACY_WAR)后，还有多于int(MIN_TREATY_TURNS)回合</zh-CN>
 		<pt-BR>Fazem mais de int(MIN_TREATY_TURNS) turnos desde a última link(DIPLOMACY_WAR)</pt-BR>
 		<ko>마지막 link(DIPLOMACY_WAR)으로부터 int(MIN_TREATY_TURNS)턴 초과</ko>
+		<fixja>前回のlink(DIPLOMACY_WAR)以降のint(MIN_TREATY_TURNS)ターン数より長い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS_HUMAN</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>上一场link(DIPLOMACY_WAR)后，还有多于int(MIN_TREATY_TURNS)回合</zh-CN>
 		<pt-BR>Fazem mais de int(MIN_TREATY_TURNS) turnos desde a última link(DIPLOMACY_WAR)</pt-BR>
 		<ko>마지막 link(DIPLOMACY_WAR)으로부터 int(MIN_TREATY_TURNS)턴 초과</ko>
+		<fixja>前回のlink(DIPLOMACY_WAR)以降のint(MIN_TREATY_TURNS)ターン数より長い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_PEACE</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE)</ko>
+		<fixja>link(DIPLOMACY_PEACE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_PEACE_OR_TRUCE</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>link(DIPLOMACY_PEACE)或link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) ou link(DIPLOMACY_TRUCE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 혹은 link(DIPLOMACY_TRUCE)</ko>
+		<fixja>link(DIPLOMACY_PEACE)またはlink(DIPLOMACY_TRUCE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_NO_ALLIANCE_TEAM</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>没有link(CONCEPT_ALLIANCE_TRIBE)</zh-CN>
 		<pt-BR>Sem link(CONCEPT_ALLIANCE_TRIBE)</pt-BR>
 		<ko>link(CONCEPT_ALLIANCE_TRIBE) 없음</ko>
+		<fixja>link(CONCEPT_ALLIANCE_TRIBE)なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_PEACE_FRIENDLY</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>link(DIPLOMACY_PEACE)与link(OPINIONTRIBE_FRIENDLY)最小值</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) e link(OPINIONTRIBE_FRIENDLY) mín.</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 및 최소 link(OPINIONTRIBE_FRIENDLY)</ko>
+		<fixja>link(DIPLOMACY_PEACE)および最小link(OPINIONTRIBE_FRIENDLY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_MAX_ANGRY</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>link(OPINIONTRIBE_ANGRY)最大值</zh-CN>
 		<pt-BR>link(OPINIONTRIBE_ANGRY) máx.</pt-BR>
 		<ko>최대 link(OPINIONTRIBE_ANGRY)</ko>
+		<fixja>最大link(OPINIONTRIBE_ANGRY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_MAX_UPSET</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>link(OPINIONTRIBE_UPSET)最大值</zh-CN>
 		<pt-BR>link(OPINIONTRIBE_UPSET) máx.</pt-BR>
 		<ko>최대 link(OPINIONTRIBE_UPSET)</ko>
+		<fixja>最大link(OPINIONTRIBE_UPSET)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_MAX_CAUTIOUS</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>link(OPINIONTRIBE_CAUTIOUS)最大值</zh-CN>
 		<pt-BR>link(OPINIONTRIBE_CAUTIOUS) máx.</pt-BR>
 		<ko>최대 link(OPINIONTRIBE_CAUTIOUS)</ko>
+		<fixja>最大link(OPINIONTRIBE_CAUTIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_MIN_CAUTIOUS</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>link(OPINIONTRIBE_CAUTIOUS)最小值</zh-CN>
 		<pt-BR>link(OPINIONTRIBE_CAUTIOUS) mín.</pt-BR>
 		<ko>최소 link(OPINIONTRIBE_CAUTIOUS)</ko>
+		<fixja>最小link(OPINIONTRIBE_CAUTIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_MIN_PLEASED</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>link(OPINIONTRIBE_PLEASED)最小值</zh-CN>
 		<pt-BR>link(OPINIONTRIBE_PLEASED) mín.</pt-BR>
 		<ko>최소 link(OPINIONTRIBE_PLEASED)</ko>
+		<fixja>最小link(OPINIONTRIBE_PLEASED)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_MIN_FRIENDLY</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>link(OPINIONTRIBE_FRIENDLY)最小值</zh-CN>
 		<pt-BR>link(OPINIONTRIBE_FRIENDLY) mín.</pt-BR>
 		<ko>최소 link(OPINIONTRIBE_FRIENDLY)</ko>
+		<fixja>最小link(OPINIONTRIBE_FRIENDLY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRIBE_NOT_MIN_CONFLICT_TURNS</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>上一场link(DIPLOMACY_WAR)后，还有多于int(MIN_TREATY_TURNS)回合</zh-CN>
 		<pt-BR>Fazem mais de int(MIN_TREATY_TURNS) turnos desde a última link(DIPLOMACY_WAR)</pt-BR>
 		<ko>마지막 link(DIPLOMACY_WAR)으로부터 int(MIN_TREATY_TURNS)턴 초과</ko>
+		<fixja>前回のlink(DIPLOMACY_WAR)以降のint(MIN_TREATY_TURNS)ターン数より長い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_STAT_TRIBE_DECLARED_WAR</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>对{singular_0:部落:部落}的{singular_0:宣战:宣战}</zh-CN>
 		<pt-BR>{singular_0:Declaração:Declarações} de guerra contra {singular_0:uma tribo:tribos}</pt-BR>
 		<ko>{singular_0:부족:부족들}에 대한 전쟁 {singular_0:선포:선포}</ko>
+		<fixja>部族に対する宣戦布告</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_RELIGION_UNLOCKED</zType>
@@ -624,6 +670,7 @@
 		<zh-CN>世界宗教或link(LAW_DIVINE_RULE)</zh-CN>
 		<pt-BR>Religião mundial ou link(LAW_DIVINE_RULE)</pt-BR>
 		<ko>세계 종교 혹은 link(LAW_DIVINE_RULE)</ko>
+		<fixja>世界宗教またはlink(LAW_DIVINE_RULE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CITY_POSITIVE_HAPPINESS</zType>
@@ -637,6 +684,7 @@
 		<zh-CN>{true_0:城市:城市}拥有正link(YIELD_HAPPINESS)等级</zh-CN>
 		<pt-BR>{true_0:Cidade:Cidades} com um nível positivo de link(YIELD_HAPPINESS)</pt-BR>
 		<ko>link(YIELD_HAPPINESS) 수준이 0보다 큰 {true_0:도시:도시}</ko>
+		<fixja>link(YIELD_HAPPINESS)度が高い{true_0:都市:都市}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_SEAT_EIGHT_ELDER_SPECIALISTS</zType>
@@ -650,6 +698,7 @@
 		<zh-CN>{true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)}拥有至少八名资深专家</zh-CN>
 		<pt-BR>{true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)} com pelo menos 8 especialistas veteranos</pt-BR>
 		<ko>원로 전문직을 적어도 8명 보유한 {true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)}</ko>
+		<fixja>{true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)}：最低8人以上の古老専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_SEAT_FOUR_ELDER_ACOLYTES</zType>
@@ -663,6 +712,7 @@
 		<zh-CN>{true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)}拥有至少四名资深侍僧</zh-CN>
 		<pt-BR>{true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)} com pelo menos 4 acólitos veteranos</pt-BR>
 		<ko>원로 보좌 사제를 적어도 8명 보유한 {true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)}</ko>
+		<fixja>{true_0:link(CONCEPT_FAMILY_SEAT):link(CONCEPT_FAMILY_SEAT,2)}：最低4人以上の古老侍祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRAIT_MILITARY_ARCHETYPE</zType>
@@ -676,6 +726,7 @@
 		<zh-CN>军事</zh-CN>
 		<pt-BR>Militar</pt-BR>
 		<ko>군사주의</ko>
+		<fixja>軍事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRAIT_MILITARY_ARCHETYPE_F</zType>
@@ -689,6 +740,7 @@
 		<zh-CN>军事</zh-CN>
 		<pt-BR>Militar</pt-BR>
 		<ko>군사주의</ko>
+		<fixja>軍事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRAIT_PEACEFUL_ARCHETYPE</zType>
@@ -702,6 +754,7 @@
 		<zh-CN>和平</zh-CN>
 		<pt-BR>Pacifista</pt-BR>
 		<ko>평화주의</ko>
+		<fixja>平和的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TRAIT_PEACEFUL_ARCHETYPE_F</zType>
@@ -715,6 +768,7 @@
 		<zh-CN>和平</zh-CN>
 		<pt-BR>Pacifista</pt-BR>
 		<ko>평화주의</ko>
+		<fixja>平和的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER</zType>
@@ -728,6 +782,7 @@
 		<zh-CN>任意领袖</zh-CN>
 		<pt-BR>Qualquer Líder</pt-BR>
 		<ko>아무 지도자</ko>
+		<fixja>いずれかの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_US</zType>
@@ -741,6 +796,7 @@
 		<zh-CN>我们的领袖</zh-CN>
 		<pt-BR>Nosso líder</pt-BR>
 		<ko>우리의 지도자</ko>
+		<fixja>指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_US_F</zType>
@@ -754,6 +810,7 @@
 		<zh-CN>我们的领袖</zh-CN>
 		<pt-BR>Nossa líder</pt-BR>
 		<ko>우리의 지도자</ko>
+		<fixja>指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_ALLIANCE</zType>
@@ -767,6 +824,7 @@
 		<zh-CN>与我们站在一边的link(CONCEPT_ALLIANCE_PLAYER)的领袖</zh-CN>
 		<pt-BR>Líder em link(CONCEPT_ALLIANCE_PLAYER) conosco</pt-BR>
 		<ko>우리와 link(CONCEPT_ALLIANCE_PLAYER)인 지도자</ko>
+		<fixja>我らとlink(CONCEPT_ALLIANCE_PLAYER)関係にある指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_ALLIANCE_F</zType>
@@ -780,6 +838,7 @@
 		<zh-CN>与我们站在一边的link(CONCEPT_ALLIANCE_PLAYER)的领袖</zh-CN>
 		<pt-BR>Líder em link(CONCEPT_ALLIANCE_PLAYER) conosco</pt-BR>
 		<ko>우리와 link(CONCEPT_ALLIANCE_PLAYER)인 지도자</ko>
+		<fixja>我らとlink(CONCEPT_ALLIANCE_PLAYER)関係にある指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NON_LEADER</zType>
@@ -793,6 +852,7 @@
 		<zh-CN>并非国家领袖</zh-CN>
 		<pt-BR>Não é líder nacional</pt-BR>
 		<ko>국가 지도자 아님</ko>
+		<fixja>国家の指導者ではない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NON_LEADER_SUCCESSOR</zType>
@@ -806,6 +866,7 @@
 		<zh-CN>没有领袖或在link(CONCEPT_SUCCESSION)中</zh-CN>
 		<pt-BR>Não é líder nem está na link(CONCEPT_SUCCESSION)</pt-BR>
 		<ko>지도자나 link(CONCEPT_SUCCESSION)자가 아님</ko>
+		<fixja>指導者ではありません、またはlink(CONCEPT_SUCCESSION)に指導者がいません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_RELIGION_HEAD</zType>
@@ -819,6 +880,7 @@
 		<zh-CN>宗教领导人</zh-CN>
 		<pt-BR>Líder religioso</pt-BR>
 		<ko>종교 수장</ko>
+		<fixja>宗教の長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_OF_STATE_RELIGION</zType>
@@ -832,6 +894,7 @@
 		<zh-CN>信仰国家宗教</zh-CN>
 		<pt-BR>Segue a religião oficial</pt-BR>
 		<ko>국교 추종</ko>
+		<fixja>国教の信徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_SCHEMER</zType>
@@ -845,6 +908,7 @@
 		<zh-CN>link(TRAIT_SCHEMER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_SCHEMER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_SCHEMER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_SCHEMER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_DIPLOMAT</zType>
@@ -858,6 +922,7 @@
 		<zh-CN>link(TRAIT_DIPLOMAT_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_DIPLOMAT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_DIPLOMAT_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_DIPLOMAT_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_JUDGE</zType>
@@ -871,6 +936,7 @@
 		<zh-CN>link(TRAIT_JUDGE_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_JUDGE_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_JUDGE_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_JUDGE_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_SCHOLAR</zType>
@@ -884,6 +950,7 @@
 		<zh-CN>link(TRAIT_SCHOLAR_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_SCHOLAR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_SCHOLAR_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_SCHOLAR_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_HERO</zType>
@@ -897,6 +964,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_HERO_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_COMMANDER</zType>
@@ -910,6 +978,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_COMMANDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_TACTICIAN</zType>
@@ -923,6 +992,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_TACTICIAN_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_ZEALOT</zType>
@@ -936,6 +1006,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_ORATOR</zType>
@@ -949,6 +1020,7 @@
 		<zh-CN>link(TRAIT_ORATOR_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ORATOR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ORATOR_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_ORATOR_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_BUILDER</zType>
@@ -962,6 +1034,7 @@
 		<zh-CN>link(TRAIT_BUILDER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_BUILDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_BUILDER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_BUILDER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LEADER_OR_DESCENDANT</zType>
@@ -975,6 +1048,7 @@
 		<zh-CN>领袖或后裔</zh-CN>
 		<pt-BR>Líder ou descendente</pt-BR>
 		<ko>지도자 혹은 자손</ko>
+		<fixja>指導者または子孫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MAX_CAUTIOUS</zType>
@@ -988,6 +1062,7 @@
 		<zh-CN>link(OPINIONCHARACTER_CAUTIOUS)最大值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_CAUTIOUS) máx.</pt-BR>
 		<ko>최대 link(OPINIONCHARACTER_CAUTIOUS)</ko>
+		<fixja>最大link(OPINIONCHARACTER_CAUTIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MAX_UPSET</zType>
@@ -1001,6 +1076,7 @@
 		<zh-CN>link(OPINIONCHARACTER_UPSET)最大值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_UPSET) máx.</pt-BR>
 		<ko>최대 link(OPINIONCHARACTER_UPSET)</ko>
+		<fixja>最大link(OPINIONCHARACTER_UPSET)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MAX_ANGRY</zType>
@@ -1014,6 +1090,7 @@
 		<zh-CN>link(OPINIONCHARACTER_ANGRY)最大值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_ANGRY) máx.</pt-BR>
 		<ko>최대 link(OPINIONCHARACTER_ANGRY)</ko>
+		<fixja>最大link(OPINIONCHARACTER_ANGRY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MAX_FURIOUS</zType>
@@ -1027,6 +1104,7 @@
 		<zh-CN>link(OPINIONCHARACTER_FURIOUS)最大值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_FURIOUS) máx.</pt-BR>
 		<ko>최대 link(OPINIONCHARACTER_FURIOUS)</ko>
+		<fixja>最大link(OPINIONCHARACTER_FURIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MIN_UPSET</zType>
@@ -1040,6 +1118,7 @@
 		<zh-CN>link(OPINIONCHARACTER_UPSET)最小值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_UPSET) mín.</pt-BR>
 		<ko>최소 link(OPINIONCHARACTER_UPSET)</ko>
+		<fixja>最小link(OPINIONCHARACTER_UPSET)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MIN_CAUTIOUS</zType>
@@ -1053,6 +1132,7 @@
 		<zh-CN>link(OPINIONCHARACTER_CAUTIOUS)最小值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_CAUTIOUS) mín.</pt-BR>
 		<ko>최소 link(OPINIONCHARACTER_CAUTIOUS)</ko>
+		<fixja>最小link(OPINIONCHARACTER_CAUTIOUS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_MIN_PLEASED</zType>
@@ -1066,6 +1146,7 @@
 		<zh-CN>link(OPINIONCHARACTER_PLEASED)最小值</zh-CN>
 		<pt-BR>link(OPINIONCHARACTER_PLEASED) mín.</pt-BR>
 		<ko>최소 link(OPINIONCHARACTER_PLEASED)</ko>
+		<fixja>最小link(OPINIONCHARACTER_PLEASED)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_INTERCEDED_FOR_LEADER</zType>
@@ -1079,6 +1160,7 @@
 		<zh-CN>为你调解</zh-CN>
 		<pt-BR>Intercedeu por você</pt-BR>
 		<ko>당신과 관계 중재됨</ko>
+		<fixja>あなたのために仲裁した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_FAMILY_HEAD</zType>
@@ -1092,6 +1174,7 @@
 		<zh-CN>家族领导人</zh-CN>
 		<pt-BR>Líder da família</pt-BR>
 		<ko>가문 수장</ko>
+		<fixja>氏族の長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NON_FAMILY_HEAD</zType>
@@ -1105,6 +1188,7 @@
 		<zh-CN>没有link(CONCEPT_FAMILY)领袖</zh-CN>
 		<pt-BR>Não é líder de link(CONCEPT_FAMILY)</pt-BR>
 		<ko>link(CONCEPT_FAMILY) 수장 아님</ko>
+		<fixja>link(CONCEPT_FAMILY)の家長なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_INFLUENCED_BY_LEADER</zType>
@@ -1118,6 +1202,7 @@
 		<zh-CN>受你影响</zh-CN>
 		<pt-BR>Influenciado por você</pt-BR>
 		<ko>당신에게 영향받음</ko>
+		<fixja>あなたに影響を受けた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TERRIFIED_OF_LEADER</zType>
@@ -1131,6 +1216,7 @@
 		<zh-CN>惧怕于你</zh-CN>
 		<pt-BR>Apavorado por você</pt-BR>
 		<ko>당신을 두려워함</ko>
+		<fixja>あなたを恐れている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TERRIFIED_OF_LEADER_F</zType>
@@ -1144,6 +1230,7 @@
 		<zh-CN>惧怕于你</zh-CN>
 		<pt-BR>Apavorada por você</pt-BR>
 		<ko>당신을 두려워함</ko>
+		<fixja>あなたを恐れている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_VENGEFUL_AGAINST_LEADER</zType>
@@ -1157,6 +1244,7 @@
 		<zh-CN>向领袖复仇</zh-CN>
 		<pt-BR>Vingativo contra o líder</pt-BR>
 		<ko>지도자에게 복수심을 느낌</ko>
+		<fixja>指導者への復讐心</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_VENGEFUL_AGAINST_LEADER_F</zType>
@@ -1170,6 +1258,7 @@
 		<zh-CN>向领袖复仇</zh-CN>
 		<pt-BR>Vingativa contra o líder</pt-BR>
 		<ko>지도자에게 복수심을 느낌</ko>
+		<fixja>指導者への復讐心</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_HEALTHY</zType>
@@ -1183,6 +1272,7 @@
 		<zh-CN>健康</zh-CN>
 		<pt-BR>Saudável</pt-BR>
 		<ko>건강함</ko>
+		<fixja>健康</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_BABY</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>最大年龄 1</zh-CN>
 		<pt-BR>Idade máxima 1</pt-BR>
 		<ko>1세 이하</ko>
+		<fixja>最大年齢1歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TODDLER</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>年龄 2-5</zh-CN>
 		<pt-BR>Idade 2-5</pt-BR>
 		<ko>2-5세</ko>
+		<fixja>2-5歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHILD</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>年龄 6-11</zh-CN>
 		<pt-BR>Idade 6-11</pt-BR>
 		<ko>6-11세</ko>
+		<fixja>6-11歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TEENAGER</zType>
@@ -1235,6 +1328,7 @@
 		<zh-CN>年龄 12-17</zh-CN>
 		<pt-BR>Idade 12-17</pt-BR>
 		<ko>12-17세</ko>
+		<fixja>12-17歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LATE_TEENAGER</zType>
@@ -1248,6 +1342,7 @@
 		<zh-CN>年龄 16-17</zh-CN>
 		<pt-BR>Idade 16-17</pt-BR>
 		<ko>16-17세</ko>
+		<fixja>16-17歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_ADULT</zType>
@@ -1261,6 +1356,7 @@
 		<zh-CN>最小年龄 18</zh-CN>
 		<pt-BR>Idade mínima 18</pt-BR>
 		<ko>18세 이상</ko>
+		<fixja>最小年齢18歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NOT_ADULT</zType>
@@ -1274,6 +1370,7 @@
 		<zh-CN>未成年领袖</zh-CN>
 		<pt-BR>Não é adulto</pt-BR>
 		<ko>성인 아님</ko>
+		<fixja>未成人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHILD_OR_TEENAGER</zType>
@@ -1287,6 +1384,7 @@
 		<zh-CN>年龄 6-17</zh-CN>
 		<pt-BR>Idade 6-17</pt-BR>
 		<ko>6-17세</ko>
+		<fixja>6-17歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHILD_OR_EARLY_TEENAGER</zType>
@@ -1300,6 +1398,7 @@
 		<zh-CN>年龄 6-13</zh-CN>
 		<pt-BR>Idade 6-13</pt-BR>
 		<ko>6-13세</ko>
+		<fixja>6-13歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TEENAGER_OR_ADULT</zType>
@@ -1313,6 +1412,7 @@
 		<zh-CN>最小年龄 12</zh-CN>
 		<pt-BR>Idade mínima 12</pt-BR>
 		<ko>12세 이상</ko>
+		<fixja>最小年齢12歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_LATE_TEEN_OR_ADULT</zType>
@@ -1326,6 +1426,7 @@
 		<zh-CN>年龄 16-40</zh-CN>
 		<pt-BR>Idade 16-40</pt-BR>
 		<ko>16-40세</ko>
+		<fixja>16-40歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_MIDDLE_AGE</zType>
@@ -1339,6 +1440,7 @@
 		<zh-CN>年龄 18-40</zh-CN>
 		<pt-BR>Idade 18-40</pt-BR>
 		<ko>18-40세</ko>
+		<fixja>18-40歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_OLD</zType>
@@ -1352,6 +1454,7 @@
 		<zh-CN>最小年龄 40</zh-CN>
 		<pt-BR>Idade mínima 40</pt-BR>
 		<ko>40세 이상</ko>
+		<fixja>最小年齢40歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_ADULT_UNDER_30</zType>
@@ -1365,6 +1468,7 @@
 		<zh-CN>年龄 18-30</zh-CN>
 		<pt-BR>Idade 18-30</pt-BR>
 		<ko>18-30세</ko>
+		<fixja>18-30歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_ADULT_UNDER_40</zType>
@@ -1378,6 +1482,7 @@
 		<zh-CN>年龄 18-40</zh-CN>
 		<pt-BR>Idade 18-40</pt-BR>
 		<ko>18-40세</ko>
+		<fixja>18-40歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_OVER_30</zType>
@@ -1391,6 +1496,7 @@
 		<zh-CN>最小年龄 30</zh-CN>
 		<pt-BR>Idade mínima 30</pt-BR>
 		<ko>30세 이상</ko>
+		<fixja>最小年齢30歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_OVER_40</zType>
@@ -1404,6 +1510,7 @@
 		<zh-CN>最小年龄 40</zh-CN>
 		<pt-BR>Idade mínima 40</pt-BR>
 		<ko>40세 이상</ko>
+		<fixja>最小年齢40歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_OVER_50</zType>
@@ -1417,6 +1524,7 @@
 		<zh-CN>最小年龄 50</zh-CN>
 		<pt-BR>Idade mínima 50</pt-BR>
 		<ko>50세 이상</ko>
+		<fixja>最小年齢50歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_OCTOGENARIAN</zType>
@@ -1430,6 +1538,7 @@
 		<zh-CN>最小年龄 80</zh-CN>
 		<pt-BR>Idade mínima 80</pt-BR>
 		<ko>80세 이상</ko>
+		<fixja>最小年齢80歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CENTENARIAN</zType>
@@ -1443,6 +1552,7 @@
 		<zh-CN>最小年龄 100</zh-CN>
 		<pt-BR>Idade mínima 100</pt-BR>
 		<ko>100세 이상</ko>
+		<fixja>最小年齢100歳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_NO_JOB</zType>
@@ -1456,6 +1566,7 @@
 		<zh-CN>无工作</zh-CN>
 		<pt-BR>Sem trabalho</pt-BR>
 		<ko>무직</ko>
+		<fixja>役職なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_AMBASSADOR</zType>
@@ -1469,6 +1580,7 @@
 		<zh-CN>link(COUNCIL_AMBASSADOR)</zh-CN>
 		<pt-BR>link(COUNCIL_AMBASSADOR)</pt-BR>
 		<ko>link(COUNCIL_AMBASSADOR)</ko>
+		<fixja>link(COUNCIL_AMBASSADOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_AMBASSADOR_F</zType>
@@ -1482,6 +1594,7 @@
 		<zh-CN>link(COUNCIL_AMBASSADOR,F)</zh-CN>
 		<pt-BR>link(COUNCIL_AMBASSADOR,F)</pt-BR>
 		<ko>link(COUNCIL_AMBASSADOR,F)</ko>
+		<fixja>link(COUNCIL_AMBASSADOR,F)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHANCELLOR</zType>
@@ -1495,6 +1608,7 @@
 		<zh-CN>link(COUNCIL_CHANCELLOR)</zh-CN>
 		<pt-BR>link(COUNCIL_CHANCELLOR)</pt-BR>
 		<ko>link(COUNCIL_CHANCELLOR)</ko>
+		<fixja>link(COUNCIL_CHANCELLOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHANCELLOR_F</zType>
@@ -1508,6 +1622,7 @@
 		<zh-CN>link(COUNCIL_CHANCELLOR,F)</zh-CN>
 		<pt-BR>link(COUNCIL_CHANCELLOR,F)</pt-BR>
 		<ko>link(COUNCIL_CHANCELLOR,F)</ko>
+		<fixja>link(COUNCIL_CHANCELLOR,F)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_SPYMASTER</zType>
@@ -1521,6 +1636,7 @@
 		<zh-CN>link(COUNCIL_SPYMASTER)</zh-CN>
 		<pt-BR>link(COUNCIL_SPYMASTER)</pt-BR>
 		<ko>link(COUNCIL_SPYMASTER)</ko>
+		<fixja>link(COUNCIL_SPYMASTER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_SPYMASTER_F</zType>
@@ -1534,6 +1650,7 @@
 		<zh-CN>link(COUNCIL_SPYMASTER,F)</zh-CN>
 		<pt-BR>link(COUNCIL_SPYMASTER,F)</pt-BR>
 		<ko>link(COUNCIL_SPYMASTER,F)</ko>
+		<fixja>link(COUNCIL_SPYMASTER,F)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CAN_MARRY</zType>
@@ -1547,6 +1664,7 @@
 		<zh-CN>可以联姻</zh-CN>
 		<pt-BR>Pode casar-se</pt-BR>
 		<ko>결혼 가능</ko>
+		<fixja>結婚可</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CAN_MARRY_F</zType>
@@ -1560,6 +1678,7 @@
 		<zh-CN>可以联姻</zh-CN>
 		<pt-BR>Pode casar-se</pt-BR>
 		<ko>결혼 가능</ko>
+		<fixja>結婚可</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_STUDY_ANY</zType>
@@ -1573,6 +1692,7 @@
 		<zh-CN>学生</zh-CN>
 		<pt-BR>Estudante</pt-BR>
 		<ko>학생</ko>
+		<fixja>弟子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_STUDY_ANY_F</zType>
@@ -1586,6 +1706,7 @@
 		<zh-CN>学生</zh-CN>
 		<pt-BR>Estudante</pt-BR>
 		<ko>학생</ko>
+		<fixja>弟子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_HONORABLE</zType>
@@ -1599,6 +1720,7 @@
 		<zh-CN>光荣的</zh-CN>
 		<pt-BR>Honrado</pt-BR>
 		<ko>명예로운</ko>
+		<fixja>高潔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_HONORABLE_F</zType>
@@ -1612,6 +1734,7 @@
 		<zh-CN>光荣</zh-CN>
 		<pt-BR>Honrada</pt-BR>
 		<ko>명예로운</ko>
+		<fixja>高潔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_VILLAINOUS</zType>
@@ -1625,6 +1748,7 @@
 		<zh-CN>恶毒的</zh-CN>
 		<pt-BR>Vilanesco</pt-BR>
 		<ko>악독한</ko>
+		<fixja>悪徳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_VILLAINOUS_F</zType>
@@ -1638,6 +1762,7 @@
 		<zh-CN>恶毒</zh-CN>
 		<pt-BR>Vilanesca</pt-BR>
 		<ko>악독한</ko>
+		<fixja>悪徳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_STRONG</zType>
@@ -1651,6 +1776,7 @@
 		<zh-CN>强大的</zh-CN>
 		<pt-BR>Forte</pt-BR>
 		<ko>강대한</ko>
+		<fixja>強い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_STRONG_F</zType>
@@ -1664,6 +1790,7 @@
 		<zh-CN>强大</zh-CN>
 		<pt-BR>Forte</pt-BR>
 		<ko>강대한</ko>
+		<fixja>強い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_WEAK</zType>
@@ -1677,6 +1804,7 @@
 		<zh-CN>弱小的</zh-CN>
 		<pt-BR>Fraco</pt-BR>
 		<ko>약한</ko>
+		<fixja>弱い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_WEAK_F</zType>
@@ -1690,6 +1818,7 @@
 		<zh-CN>弱小</zh-CN>
 		<pt-BR>Fraca</pt-BR>
 		<ko>약한</ko>
+		<fixja>弱い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_CARNAL</zType>
@@ -1703,6 +1832,7 @@
 		<zh-CN>肉欲的</zh-CN>
 		<pt-BR>Carnal</pt-BR>
 		<ko>욕정적인</ko>
+		<fixja>俗物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_CARNAL_F</zType>
@@ -1716,6 +1846,7 @@
 		<zh-CN>肉欲</zh-CN>
 		<pt-BR>Carnal</pt-BR>
 		<ko>욕정적인</ko>
+		<fixja>俗物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_PRODUCTIVE</zType>
@@ -1729,6 +1860,7 @@
 		<zh-CN>有生产力的</zh-CN>
 		<pt-BR>Produtivo</pt-BR>
 		<ko>생산적인</ko>
+		<fixja>生産的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_PRODUCTIVE_F</zType>
@@ -1742,6 +1874,7 @@
 		<zh-CN>有生产力</zh-CN>
 		<pt-BR>Produtiva</pt-BR>
 		<ko>생산적인</ko>
+		<fixja>生産的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_RELIGIOUS</zType>
@@ -1755,6 +1888,7 @@
 		<zh-CN>虔诚</zh-CN>
 		<pt-BR>Devoto</pt-BR>
 		<ko>독실한</ko>
+		<fixja>信心深い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_RELIGIOUS_F</zType>
@@ -1768,6 +1902,7 @@
 		<zh-CN>虔诚</zh-CN>
 		<pt-BR>Devota</pt-BR>
 		<ko>독실한</ko>
+		<fixja>信心深い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_INQUISITIVE</zType>
@@ -1781,6 +1916,7 @@
 		<zh-CN>好奇的</zh-CN>
 		<pt-BR>Inquisitivo</pt-BR>
 		<ko>탐구적인</ko>
+		<fixja>知りたがり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_INQUISITIVE_F</zType>
@@ -1794,6 +1930,7 @@
 		<zh-CN>好奇</zh-CN>
 		<pt-BR>Inquisitiva</pt-BR>
 		<ko>탐구적인</ko>
+		<fixja>知りたがり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_URBAN</zType>
@@ -1807,6 +1944,7 @@
 		<zh-CN>都市的</zh-CN>
 		<pt-BR>Urbanita</pt-BR>
 		<ko>도회인</ko>
+		<fixja>都会的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_URBAN_F</zType>
@@ -1820,6 +1958,7 @@
 		<zh-CN>都市</zh-CN>
 		<pt-BR>Urbanita</pt-BR>
 		<ko>도회인</ko>
+		<fixja>都会的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_SYLVAN</zType>
@@ -1833,6 +1972,7 @@
 		<zh-CN>多树的</zh-CN>
 		<pt-BR>Silvano</pt-BR>
 		<ko>자연인</ko>
+		<fixja>自然を好む</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_SYLVAN_F</zType>
@@ -1846,6 +1986,7 @@
 		<zh-CN>多树</zh-CN>
 		<pt-BR>Silvana</pt-BR>
 		<ko>자연인</ko>
+		<fixja>自然を好む</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_VAIN</zType>
@@ -1859,6 +2000,7 @@
 		<zh-CN>空虚的</zh-CN>
 		<pt-BR>Vaidoso</pt-BR>
 		<ko>허영심 많은</ko>
+		<fixja>思い上がり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_VAIN_F</zType>
@@ -1872,6 +2014,7 @@
 		<zh-CN>空虚</zh-CN>
 		<pt-BR>Vaidosa</pt-BR>
 		<ko>허영심 많은</ko>
+		<fixja>思い上がり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_TRADITIONAL</zType>
@@ -1885,6 +2028,7 @@
 		<zh-CN>传统的</zh-CN>
 		<pt-BR>Tradicional</pt-BR>
 		<ko>전통적인</ko>
+		<fixja>古風</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_TRADITIONAL_F</zType>
@@ -1898,6 +2042,7 @@
 		<zh-CN>传统</zh-CN>
 		<pt-BR>Tradicional</pt-BR>
 		<ko>전통적인</ko>
+		<fixja>古風</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_CHARMING</zType>
@@ -1911,6 +2056,7 @@
 		<zh-CN>迷人的</zh-CN>
 		<pt-BR>Charmoso</pt-BR>
 		<ko>매력적인</ko>
+		<fixja>魅力的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_CHARMING_F</zType>
@@ -1924,6 +2070,7 @@
 		<zh-CN>迷人</zh-CN>
 		<pt-BR>Charmosa</pt-BR>
 		<ko>매력적인</ko>
+		<fixja>魅力的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_DILIGENT</zType>
@@ -1937,6 +2084,7 @@
 		<zh-CN>勤奋的</zh-CN>
 		<pt-BR>Diligente</pt-BR>
 		<ko>성실한</ko>
+		<fixja>勤勉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_DILIGENT_F</zType>
@@ -1950,6 +2098,7 @@
 		<zh-CN>勤奋</zh-CN>
 		<pt-BR>Diligente</pt-BR>
 		<ko>성실한</ko>
+		<fixja>勤勉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_CONSPIRATOR</zType>
@@ -1963,6 +2112,7 @@
 		<zh-CN>阴谋的</zh-CN>
 		<pt-BR>Conspirativo</pt-BR>
 		<ko>음모하는</ko>
+		<fixja>腹黒い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_CONSPIRATOR_F</zType>
@@ -1976,6 +2126,7 @@
 		<zh-CN>阴谋</zh-CN>
 		<pt-BR>Conspirativa</pt-BR>
 		<ko>음모하는</ko>
+		<fixja>腹黒い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_TERRIFYING</zType>
@@ -1989,6 +2140,7 @@
 		<zh-CN>可怕的</zh-CN>
 		<pt-BR>Aterrorizante</pt-BR>
 		<ko>두려운</ko>
+		<fixja>凶悪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_TERRIFYING_F</zType>
@@ -2002,6 +2154,7 @@
 		<zh-CN>可怕</zh-CN>
 		<pt-BR>Aterrorizante</pt-BR>
 		<ko>두려운</ko>
+		<fixja>凶悪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_SEVEN_SINS</zType>
@@ -2015,6 +2168,7 @@
 		<zh-CN>七宗罪的</zh-CN>
 		<pt-BR>Pecador capital</pt-BR>
 		<ko>칠죄종</ko>
+		<fixja>七つの大罪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_SEVEN_SINS_F</zType>
@@ -2028,6 +2182,7 @@
 		<zh-CN>七宗罪</zh-CN>
 		<pt-BR>Pecadora capital</pt-BR>
 		<ko>칠죄종</ko>
+		<fixja>七つの大罪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_SEVEN_VIRTUES</zType>
@@ -2041,6 +2196,7 @@
 		<zh-CN>七美德的</zh-CN>
 		<pt-BR>Virtuoso capital</pt-BR>
 		<ko>칠주덕</ko>
+		<fixja>七元徳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_SEVEN_VIRTUES_F</zType>
@@ -2054,6 +2210,7 @@
 		<zh-CN>七美德</zh-CN>
 		<pt-BR>Virtuosa capital</pt-BR>
 		<ko>칠주덕</ko>
+		<fixja>七元徳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_REGAL</zType>
@@ -2067,6 +2224,7 @@
 		<zh-CN>庄严的</zh-CN>
 		<pt-BR>Régio</pt-BR>
 		<ko>위엄 있는</ko>
+		<fixja>風格がある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_REGAL_F</zType>
@@ -2080,6 +2238,7 @@
 		<zh-CN>庄严</zh-CN>
 		<pt-BR>Régia</pt-BR>
 		<ko>위엄 있는</ko>
+		<fixja>風格がある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_MARTIAL</zType>
@@ -2093,6 +2252,7 @@
 		<zh-CN>军事的</zh-CN>
 		<pt-BR>Marcial</pt-BR>
 		<ko>군사적인</ko>
+		<fixja>好戦的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_MARTIAL_F</zType>
@@ -2106,6 +2266,7 @@
 		<zh-CN>军事</zh-CN>
 		<pt-BR>Marcial</pt-BR>
 		<ko>군사적인</ko>
+		<fixja>好戦的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_COVERT</zType>
@@ -2119,6 +2280,7 @@
 		<zh-CN>隐密的</zh-CN>
 		<pt-BR>Encoberto</pt-BR>
 		<ko>은밀한</ko>
+		<fixja>控え目</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_COVERT_F</zType>
@@ -2132,6 +2294,7 @@
 		<zh-CN>隐密</zh-CN>
 		<pt-BR>Encoberta</pt-BR>
 		<ko>은밀한</ko>
+		<fixja>控え目</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_THOUGHTFUL</zType>
@@ -2145,6 +2308,7 @@
 		<zh-CN>体贴的</zh-CN>
 		<pt-BR>Meticuloso</pt-BR>
 		<ko>사려 깊은</ko>
+		<fixja>思慮深い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_THOUGHTFUL_F</zType>
@@ -2158,6 +2322,7 @@
 		<zh-CN>体贴</zh-CN>
 		<pt-BR>Meticulosa</pt-BR>
 		<ko>사려 깊은</ko>
+		<fixja>思慮深い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_NO_IMPRISONED_RECENTLY</zType>
@@ -2171,6 +2336,7 @@
 		<zh-CN>最近并未link(TRAIT_IMPRISONED)</zh-CN>
 		<pt-BR>Não foi link(TRAIT_IMPRISONED) recentemente</pt-BR>
 		<ko>최근 link(TRAIT_IMPRISONED) 전적 없음</ko>
+		<fixja>最近link(TRAIT_IMPRISONED)になっていない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_NO_IMPRISONED_RECENTLY_F</zType>
@@ -2184,6 +2350,7 @@
 		<zh-CN>最近并未link(TRAIT_IMPRISONED)</zh-CN>
 		<pt-BR>Não foi link(TRAIT_IMPRISONED,F) recentemente</pt-BR>
 		<ko>최근 link(TRAIT_IMPRISONED) 전적 없음</ko>
+		<fixja>最近link(TRAIT_IMPRISONED)になっていない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_DEATHBED</zType>
@@ -2197,6 +2364,7 @@
 		<zh-CN>濒死</zh-CN>
 		<pt-BR>Prestes a morrer</pt-BR>
 		<ko>죽음을 앞둠</ko>
+		<fixja>死期が近い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CHARACTER_DEATHBED_F</zType>
@@ -2210,6 +2378,7 @@
 		<zh-CN>濒死</zh-CN>
 		<pt-BR>Prestes a morrer</pt-BR>
 		<ko>죽음을 앞둠</ko>
+		<fixja>死期が近い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_TUTOR_STUDENT</zType>
@@ -2223,6 +2392,7 @@
 		<zh-CN>link(CONCEPT_ROYAL)孩子至少 int(TUTORS_AGE) 岁</zh-CN>
 		<pt-BR>Crianças da link(CONCEPT_ROYAL) com pelo menos int(TUTORS_AGE)</pt-BR>
 		<ko>link(CONCEPT_ROYAL)의 자손은 최소 int(TUTORS_AGE)세여야 함</ko>
+		<fixja>最低int(TUTORS_AGE)歳のlink(CONCEPT_ROYAL)の子供</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_PLAYER_MAX_ONE_SCHOLAR_RECRUITED</zType>
@@ -2236,5 +2406,6 @@
 		<zh-CN>未招募两位学者</zh-CN>
 		<pt-BR>Não recrutou dois acadêmicos</pt-BR>
 		<ko>두 명의 학자를 채용하지 않음</ko>
+		<fixja>学者を2名採用していない</fixja>
 	</Entry>
 </Root>

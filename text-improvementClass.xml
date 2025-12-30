@@ -28,6 +28,7 @@
 		<zh-CN>碉堡~碉堡~碉堡</zh-CN>
 		<pt-BR>Forte~um Forte~Fortes</pt-BR>
 		<ko>진지~진지~진지</ko>
+		<fixja>要塞~要塞~要塞</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
@@ -41,6 +42,7 @@
 		<zh-CN>农场~农场~农场</zh-CN>
 		<pt-BR>Fazenda~uma Fazenda~Fazendas</pt-BR>
 		<ko>농장~농장~농장</ko>
+		<fixja>農場~農場~農場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_MINE</zType>
@@ -54,6 +56,7 @@
 		<zh-CN>矿场~矿场~矿场</zh-CN>
 		<pt-BR>Mina~uma Mina~Minas</pt-BR>
 		<ko>광산~광산~광산</ko>
+		<fixja>鉱山~鉱山~鉱山</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
@@ -67,6 +70,7 @@
 		<zh-CN>采石场~采石场~采石场</zh-CN>
 		<pt-BR>Pedreira~uma Pedreira~Pedreiras</pt-BR>
 		<ko>채석장~채석장~채석장</ko>
+		<fixja>採石場~採石場~採石場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_LUMBERMILL</zType>
@@ -80,6 +84,7 @@
 		<zh-CN>锯木厂~锯木厂~锯木厂</zh-CN>
 		<pt-BR>Serraria~uma Serraria~Serrarias</pt-BR>
 		<ko>목재소~목재소~목재소</ko>
+		<fixja>製材所~製材所~製材所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
@@ -93,6 +98,7 @@
 		<zh-CN>牧场~牧场~牧场</zh-CN>
 		<pt-BR>Pasto~um Pasto~Pastos</pt-BR>
 		<ko>목초지~목초지~목초지</ko>
+		<fixja>牧草地~牧草地~牧草地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_CAMP</zType>
@@ -106,6 +112,7 @@
 		<zh-CN>营地~营地~营地</zh-CN>
 		<pt-BR>Campo~um Campo~Campos</pt-BR>
 		<ko>야영지~야영지~야영지</ko>
+		<fixja>駐留地~駐留地~駐留地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
@@ -119,6 +126,7 @@
 		<zh-CN>种植园~种植园~种植园</zh-CN>
 		<pt-BR>Arvoredo~um Arvoredo~Arvoredos</pt-BR>
 		<ko>과수원~과수원~과수원</ko>
+		<fixja>木立~木立~木立</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
@@ -132,6 +140,7 @@
 		<zh-CN>渔网</zh-CN>
 		<pt-BR>Redes</pt-BR>
 		<ko>어망</ko>
+		<fixja>網</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_HARBOR</zType>
@@ -145,6 +154,7 @@
 		<zh-CN>港口~港口~港口</zh-CN>
 		<pt-BR>Porto~um Porto~Portos</pt-BR>
 		<ko>항구~항구~항구</ko>
+		<fixja>港~港~港</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_GRANARY</zType>
@@ -158,6 +168,7 @@
 		<zh-CN>粮仓~粮仓~粮仓</zh-CN>
 		<pt-BR>Granel~um Granel~Granéis</pt-BR>
 		<ko>곡창~곡창~곡창</ko>
+		<fixja>穀物倉~穀物倉~穀物倉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_MILL</zType>
@@ -171,6 +182,7 @@
 		<zh-CN>磨坊~磨坊~磨坊</zh-CN>
 		<pt-BR>Moinho~um Moinho~Moinhos</pt-BR>
 		<ko>제분소~제분소~제분소</ko>
+		<fixja>製粉所~製粉所~製粉所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_HAMLET</zType>
@@ -184,6 +196,7 @@
 		<zh-CN>村庄~村庄~村庄</zh-CN>
 		<pt-BR>Aldeia~uma Aldeia~Aldeias</pt-BR>
 		<ko>촌락~촌락~촌락</ko>
+		<fixja>小集落~小集落~小集落</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_BARRACKS</zType>
@@ -197,6 +210,7 @@
 		<zh-CN>军营~军营~军营</zh-CN>
 		<pt-BR>Quartel~um Quartel~Quarteis</pt-BR>
 		<ko>병영~병영~병영</ko>
+		<fixja>兵舎~兵舎~兵舎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
@@ -210,6 +224,7 @@
 		<zh-CN>靶场~靶场~靶场</zh-CN>
 		<pt-BR>Campo de Tiro~um Campo de Tiro~Campos de Tiro</pt-BR>
 		<ko>사격장~사격장~사격장</ko>
+		<fixja>射撃場~射撃場~射撃場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_ODEON</zType>
@@ -223,6 +238,7 @@
 		<zh-CN>剧场~剧场~剧场</zh-CN>
 		<pt-BR>Odeão~um Odeão~Odeões</pt-BR>
 		<ko>음악당~음악당~음악당</ko>
+		<fixja>オデオン~オデオン~オデオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_BATHS</zType>
@@ -236,6 +252,7 @@
 		<zh-CN>浴场~浴场~浴场</zh-CN>
 		<pt-BR>Banho~um Banho~Banhos</pt-BR>
 		<ko>욕탕~욕탕~욕탕</ko>
+		<fixja>浴場~浴場~浴場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_MARKET</zType>
@@ -249,6 +266,7 @@
 		<zh-CN>市场~市场~市场</zh-CN>
 		<pt-BR>Mercado~um Mercado~Mercados</pt-BR>
 		<ko>상점~상점~상점</ko>
+		<fixja>市場~市場~市場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_LIBRARY</zType>
@@ -262,6 +280,7 @@
 		<zh-CN>图书馆~图书馆~图书馆</zh-CN>
 		<pt-BR>Biblioteca~uma Biblioteca~Bibliotecas</pt-BR>
 		<ko>도서관~도서관~도서관</ko>
+		<fixja>図書館~図書館~図書館</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_COURTHOUSE</zType>
@@ -275,6 +294,7 @@
 		<zh-CN>法院~法院~法院</zh-CN>
 		<pt-BR>Tribunal~um Tribunal~Tribunais</pt-BR>
 		<ko>법원~법원~법원</ko>
+		<fixja>裁判所~裁判所~裁判所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_GARRISON</zType>
@@ -288,6 +308,7 @@
 		<zh-CN>营寨~营寨~营寨</zh-CN>
 		<pt-BR>Guarnição~uma Guarnição~Guarnições</pt-BR>
 		<ko>주둔지~주둔지~주둔지</ko>
+		<fixja>駐屯地~駐屯地~駐屯地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_SHRINE</zType>
@@ -301,6 +322,7 @@
 		<zh-CN>神祠~神祠~神祠</zh-CN>
 		<pt-BR>Santuário~um Santuário~Santuários</pt-BR>
 		<ko>신전~신전~신전</ko>
+		<fixja>神殿~神殿~神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_MONASTERY</zType>
@@ -314,6 +336,7 @@
 		<zh-CN>修道院~修道院~修道院</zh-CN>
 		<pt-BR>Monastério~um Monastério~Monastérios</pt-BR>
 		<ko>수도원~수도원~수도원</ko>
+		<fixja>修道院~修道院~修道院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_MONASTERY_CUSTOM</zType>
@@ -327,6 +350,7 @@
 		<zh-CN>{0_customName}修道院~{0_customName}修道院~{0_customName}修道院</zh-CN>
 		<pt-BR>Monastério {0_customName}~um Monastério {0_customName}~Monastérios {0_customName}</pt-BR>
 		<ko>{0_customName} 수도원~{0_customName} 수도원~{0_customName} 수도원</ko>
+		<fixja>{0_customName}修道院~{0_customName}修道院~{0_customName}修道院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_TEMPLE</zType>
@@ -340,6 +364,7 @@
 		<zh-CN>神殿~神殿~神殿</zh-CN>
 		<pt-BR>Templo~um Templo~Templos</pt-BR>
 		<ko>사원~사원~사원</ko>
+		<fixja>寺院~寺院~寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_TEMPLE_CUSTOM</zType>
@@ -353,6 +378,7 @@
 		<zh-CN>{0_customName}神殿~{0_customName}神殿~{0_customName}神殿</zh-CN>
 		<pt-BR>Templo {0_customName}~um Templo {0_customName}~Templos {0_customNames}</pt-BR>
 		<ko>{0_customName} 사원~{0_customName} 사원~{0_customName} 사원</ko>
+		<fixja>{0_customName}寺院~{0_customName}寺院~{0_customName}寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL</zType>
@@ -366,6 +392,7 @@
 		<zh-CN>大教堂~大教堂~大教堂</zh-CN>
 		<pt-BR>Catedral~uma Catedral~Catedrais</pt-BR>
 		<ko>대성당~대성당~대성당</ko>
+		<fixja>大聖堂~大聖堂~大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL_CUSTOM</zType>
@@ -379,6 +406,7 @@
 		<zh-CN>{0_customName}大教堂~{0_customName}大教堂~{0_customName}大教堂</zh-CN>
 		<pt-BR>Catedral {0_customName}~uma Catedral {0_customName}~Catedrais {0_customName}</pt-BR>
 		<ko>{0_customName} 대성당~{0_customName} 대성당~{0_customName} 대성당</ko>
+		<fixja>{0_customName}大聖堂~{0_customName}大聖堂~{0_customName}大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_HOLY_SITE</zType>
@@ -392,6 +420,7 @@
 		<zh-CN>圣地~圣地~圣地</zh-CN>
 		<pt-BR>Local Sagrado~um Local Sagrado~Locais Sagrados</pt-BR>
 		<ko>성지~성지~성지</ko>
+		<fixja>聖地~聖地~聖地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_KUSHITE_PYRAMIDS</zType>
@@ -405,6 +434,7 @@
 		<zh-CN>库希特金字塔群</zh-CN>
 		<pt-BR>Pirâmides Cuxitas</pt-BR>
 		<ko>쿠시 피라미드</ko>
+		<fixja>クシュのピラミッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENTCLASS_AKSUM_STELE</zType>
@@ -418,5 +448,6 @@
 		<zh-CN>阿克苏姆石碑~阿克苏姆石碑~阿克苏姆石碑~石碑</zh-CN>
 		<pt-BR>Estela Axumita~uma Estela Axumita~Estelas Axumitas~Estela</pt-BR>
 		<ko>악숨 스텔라~악숨 스텔라~악숨 스텔라~스텔라</ko>
+		<fixja>アクスムのステッレ~アクスムのステッレ~アクスムのステッレ~ステッレ</fixja>
 	</Entry>
 </Root>

@@ -39,6 +39,7 @@
 		<zh-CN>停止迫害行动</zh-CN>
 		<pt-BR>Interrompeu perseguições</pt-BR>
 		<ko>박해를 끝냈다</ko>
+		<fixja>続いていた迫害行為をやめた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_DIVINE_REFUSE_CHARACTER_1</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>拒绝受神职人员影响</zh-CN>
 		<pt-BR>Recusou-se a estar sob influência do clero</pt-BR>
 		<ko>성직자의 영향을 거부했다</ko>
+		<fixja>聖職者からの影響を受けることを拒否する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_DIVINE_EXILE_CHARACTER_1</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>完全不受神职人员影响</zh-CN>
 		<pt-BR>Não sofreu qualquer influência do clero</pt-BR>
 		<ko>성직자에게 전혀 영향받지 않았다</ko>
+		<fixja>聖職者からの影響を完全に受けていない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HIGH_SYNOD_AWKWARD_APOLOGIZE_CHARACTER_2</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>向宗教领袖道歉</zh-CN>
 		<pt-BR>Desculpou-se com líderes religiosos</pt-BR>
 		<ko>종교 지도자에게 사과했다</ko>
+		<fixja>宗教の指導者に謝罪した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_CHURCH_OF_MANI_COPY_DECRY_CHARACTER_1</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>谴责异教</zh-CN>
 		<pt-BR>Denunciou uma religião estrangeira</pt-BR>
 		<ko>타국 종교를 비난했다</ko>
+		<fixja>外国の宗教を非難した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_LAWS_OF_GOD_OPTION_0_PLAYER</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>遵随祭司</zh-CN>
 		<pt-BR>Seguindo os sacerdotes</pt-BR>
 		<ko>사제들을 따랐다</ko>
+		<fixja>司祭に従った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_LAWS_OF_GOD_OPTION_2_PLAYER</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>阻止宗教势力传播</zh-CN>
 		<pt-BR>Interrompeu influência religiosa</pt-BR>
 		<ko>종교의 영향력을 억제했다</ko>
+		<fixja>宗教の影響を阻止した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_BONES_OF_THE_MARTYR_OPTION_2_CHARACTER_1</zType>
@@ -130,6 +137,7 @@
 		<zh-CN>赞颂一位殉道者</zh-CN>
 		<pt-BR>Homenageou um mártir</pt-BR>
 		<ko>순교자를 추도했다</ko>
+		<fixja>殉教者を追悼した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_BONES_OF_THE_MARTYR_OPTION_3_CHARACTER_1</zType>
@@ -143,6 +151,7 @@
 		<zh-CN>展示殉道者遗骨</zh-CN>
 		<pt-BR>Exibiu o osso de um mártir</pt-BR>
 		<ko>순교자의 유골을 전시했다</ko>
+		<fixja>殉教者の遺骨を飾った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_UNDERCOVER_PRIESTS_OPTION_1_CHARACTER</zType>
@@ -156,6 +165,7 @@
 		<zh-CN>受惠于宗教宣传</zh-CN>
 		<pt-BR>Beneficiou-se de propaganda religiosa</pt-BR>
 		<ko>종교적 선동의 도움을 받았다</ko>
+		<fixja>宗教的なプロパガンダに助けられた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_RUMORS_OF_OSTANES_BURN_CHARACTER</zType>
@@ -169,6 +179,7 @@
 		<zh-CN>烧毁魔法经书</zh-CN>
 		<pt-BR>Queimou textos mágicos</pt-BR>
 		<ko>마법과 관련된 문헌을 태웠다</ko>
+		<fixja>魔術文書を燃やした</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ILLUMINATED_TEXT_OPTION_1_PLAYER_1</zType>
@@ -182,6 +193,7 @@
 		<zh-CN>展示具启发性的经书</zh-CN>
 		<pt-BR>Exibiu o texto iluminado</pt-BR>
 		<ko>호화로운 필사본을 전시했다</ko>
+		<fixja>彩飾文書を飾った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAMED_UNIT_SHIELDS</zType>
@@ -195,6 +207,7 @@
 		<zh-CN>门徒的盾牌</zh-CN>
 		<pt-BR>Escudos dos Discípulos</pt-BR>
 		<ko>신도의 방패</ko>
+		<fixja>信徒たちの盾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAMED_UNIT_SPEARS</zType>
@@ -208,6 +221,7 @@
 		<zh-CN>神圣的武器</zh-CN>
 		<pt-BR>Braços Divinos</pt-BR>
 		<ko>신의 무기</ko>
+		<fixja>神聖なる武器</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAMED_UNIT_FIRE</zType>
@@ -221,6 +235,7 @@
 		<zh-CN>神圣之火</zh-CN>
 		<pt-BR>O Fogo Divino</pt-BR>
 		<ko>성스러운 불</ko>
+		<fixja>聖なる炎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAMED_UNIT_HOLY_CITY</zType>
@@ -234,6 +249,7 @@
 		<zh-CN>圣城守卫者</zh-CN>
 		<pt-BR>Fiz com que outro governante reconhecesse minha divindade</pt-BR>
 		<ko>성도의 수호자</ko>
+		<fixja>聖なる都市の守り手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_KING_AND_THE_GOD_OPTION_0_CHARACTER_1</zType>
@@ -247,6 +263,7 @@
 		<zh-CN>让另一位统治者认可我的神性</zh-CN>
 		<pt-BR>Defensores da Cidade Santa</pt-BR>
 		<ko>다른 지도자가 나의 신성성을 인정하게 했다</ko>
+		<fixja>他の統治者に自身の神性を認めさせた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_THE_RIVER_OPTION_0</zType>
@@ -260,6 +277,7 @@
 		<zh-CN>鼓励主张神性</zh-CN>
 		<pt-BR>Encorajou rumores de divindade</pt-BR>
 		<ko>신성성 주장을 장려했다</ko>
+		<fixja>神格化を奨励した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CURSED_OPTION_2_CHARACTER_1</zType>
@@ -273,6 +291,7 @@
 		<zh-CN>公开道歉</zh-CN>
 		<pt-BR>Desculpou-se publicamente</pt-BR>
 		<ko>공개적으로 사과했다</ko>
+		<fixja>公開謝罪を実施した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ACTS_OF_THE_PAGAN_MARTYRS_OPTION_3_CHARACTER_0</zType>
@@ -286,6 +305,7 @@
 		<zh-CN>领导迫害</zh-CN>
 		<pt-BR>Liderou perseguições</pt-BR>
 		<ko>박해를 지휘했다</ko>
+		<fixja>迫害を先導した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_BOUND_BY_BLOOD_OPTION_2_CHARACTER_1</zType>
@@ -299,6 +319,7 @@
 		<zh-CN>拒绝与外国联系</zh-CN>
 		<pt-BR>Rejeitou laços com uma nação estrangeira</pt-BR>
 		<ko>타국과의 연관성을 부정했다</ko>
+		<fixja>外国との提携を拒否した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTSTORY_SACRED_GAMES_VICTORY_CHARACTER_0</zType>
@@ -312,6 +333,7 @@
 		<zh-CN>我的冠军赢得了神圣比赛</zh-CN>
 		<pt-BR>Meu campeão venceu os jogos sagrados</pt-BR>
 		<ko>나의 투사가 신성한 경기에서 승리했다</ko>
+		<fixja>自身が送り出した闘士は神聖な競技で勝利を収めた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_TRAIL_OF_HEROES_OPTION_3_PLAYER</zType>
@@ -325,6 +347,7 @@
 		<zh-CN>打猎后空手而归</zh-CN>
 		<pt-BR>Voltou da caça com as mãos abanando</pt-BR>
 		<ko>사냥에서 아무것도 잡지 못하고 돌아왔다</ko>
+		<fixja>狩りから手ぶらで帰還した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_OPTION_0_PLAYER</zType>
@@ -338,6 +361,7 @@
 		<zh-CN>近战中击杀一只巨型猛狮</zh-CN>
 		<pt-BR>Matou um leão gigante em combate pessoal</pt-BR>
 		<ko>거대한 사자를 근거리에서 무찔렀다</ko>
+		<fixja>巨大なライオンを格闘の末、倒した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_OPTION_1_PLAYER</zType>
@@ -351,6 +375,7 @@
 		<zh-CN>猎杀一只巨型猛狮</zh-CN>
 		<pt-BR>Caçou um leão gigante</pt-BR>
 		<ko>거대한 사자를 사냥했다</ko>
+		<fixja>巨大なライオンを狩った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_OPTION_2_PLAYER</zType>
@@ -364,6 +389,7 @@
 		<zh-CN>放生巨型猛狮</zh-CN>
 		<pt-BR>Deixou o leão gigante fugir</pt-BR>
 		<ko>사자를 보내 주었다</ko>
+		<fixja>巨大なライオンを逃がした</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_MORE_THAN_STORIES_OPTION_2_CHARACTER_1</zType>
@@ -377,6 +403,7 @@
 		<zh-CN>保护经典传说</zh-CN>
 		<pt-BR>Protegeu mitos clássicos</pt-BR>
 		<ko>고전 신화를 보호했다</ko>
+		<fixja>古典神話を保護した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SACRED_CHASTITY_OPTION_0_CHARACTER_1</zType>
@@ -390,6 +417,7 @@
 		<zh-CN>延续血脉</zh-CN>
 		<pt-BR>Protegeu minha linhagem da castidade</pt-BR>
 		<ko>내 혈통을 순결주의로부터 보호했다</ko>
+		<fixja>純潔重視の考えより血統を維持することを選んだ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_FACE_OF_GOLD_OPTION_0_CHARACTER</zType>
@@ -403,6 +431,7 @@
 		<zh-CN>将自己刻在在神币上</zh-CN>
 		<pt-BR>Representei a mim mesmo em moedas divinas</pt-BR>
 		<ko>신성한 주화에 나의 얼굴을 새겼다</ko>
+		<fixja>硬貨に自身の肖像画を採用した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_FACE_OF_GOLD_OPTION_1_CHARACTER</zType>
@@ -416,6 +445,7 @@
 		<zh-CN>将旧神刻在神币上</zh-CN>
 		<pt-BR>Representei os antigos deuses em moedas divinas</pt-BR>
 		<ko>신성한 주화에 옛 신의 얼굴을 새겼다</ko>
+		<fixja>硬貨に神々の肖像画を採用した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FOR_VICTORY_OPTION_0_CITY</zType>
@@ -429,6 +459,7 @@
 		<zh-CN>建造胜利神祠</zh-CN>
 		<pt-BR>Construí um santuário à vitória</pt-BR>
 		<ko>승리의 신전을 지었다</ko>
+		<fixja>勝利を記念して神殿を建設した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BLOOD_OF_HEROES_OPTION_0_CHARACTER_1</zType>
@@ -442,6 +473,7 @@
 		<zh-CN>被英雄血统蒙上阴影</zh-CN>
 		<pt-BR>Foi superado pela linhagem de um herói</pt-BR>
 		<ko>영웅의 핏줄에 압도되었다</ko>
+		<fixja>英雄の血統のせいで自身の影が薄くなった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_DEIFIED_KING_OPTION_1_CITY</zType>
@@ -455,6 +487,7 @@
 		<zh-CN>建立前任统治者的雕像</zh-CN>
 		<pt-BR>Erigi uma estátua do governante anterior</pt-BR>
 		<ko>전임 지도자의 조각상을 세웠다</ko>
+		<fixja>前指導者の像を建てた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_LED_BY_THE_STARS_OPTION_0_CHARACTER_1</zType>
@@ -468,6 +501,7 @@
 		<zh-CN>驱除一切占卜活动</zh-CN>
 		<pt-BR>Expulsou todas as manifestações de divinação</pt-BR>
 		<ko>모든 점술을 추방했다</ko>
+		<fixja>あらゆる占いを排斥した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_AUGURES_OPTION_0_CHARACTER</zType>
@@ -481,6 +515,7 @@
 		<zh-CN>占卜师预测我有一个美好的未来</zh-CN>
 		<pt-BR>Os sinais indicaram que terei um futuro favorável</pt-BR>
 		<ko>조점술사가 내게 우호적인 미래를 점쳤다</ko>
+		<fixja>予言者は私にとって好ましい未来を予言した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_OTHER_WORLD_OPTION_3_CHARACTER_1</zType>
@@ -494,6 +529,7 @@
 		<zh-CN>拒绝外国处事方式</zh-CN>
 		<pt-BR>Recusei tradições estrangeiras</pt-BR>
 		<ko>타지의 방식을 거부했다</ko>
+		<fixja>外国のやり方を拒否した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_NEXT_JOURNEY_WONDER</zType>
@@ -507,6 +543,7 @@
 		<zh-CN>将前人埋葬在世界奇观中</zh-CN>
 		<pt-BR>Enterrei o governante anterior em uma maravilha do mundo</pt-BR>
 		<ko>나의 전임자를 불가사의에 묻었다</ko>
+		<fixja>先代を世界の記念物に埋葬した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CROWNED_IN_FAITH_OPTION_1_CHARACTER</zType>
@@ -520,6 +557,7 @@
 		<zh-CN>拒绝国家宗教</zh-CN>
 		<pt-BR>Recusou uma religião oficial</pt-BR>
 		<ko>국교를 거부했다</ko>
+		<fixja>国教を否定した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ELEUSIAN_MYSTERIES_OPTION_2_CHARACTER</zType>
@@ -533,6 +571,7 @@
 		<zh-CN>驱除神秘教派</zh-CN>
 		<pt-BR>Expulsou um culto misterioso</pt-BR>
 		<ko>밀교를 추방했다</ko>
+		<fixja>謎のカルトを追放した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ELEUSIAN_MYSTERIES_OPTION_0_CHARACTER</zType>
@@ -546,6 +585,7 @@
 		<zh-CN>卷入谜团</zh-CN>
 		<pt-BR>Passou pela iniciação dos Mistérios</pt-BR>
 		<ko>밀교의 가르침을 받았다</ko>
+		<fixja>密儀宗教に入門した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ISIS_AND_SERAPIS_OPTION_0_PLAYER_1</zType>
@@ -559,6 +599,7 @@
 		<zh-CN>欢迎外国教派</zh-CN>
 		<pt-BR>Recebeu um culto estrangeiro</pt-BR>
 		<ko>타국의 교단을 환영했다</ko>
+		<fixja>海外のカルトを歓迎した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ISIS_AND_SERAPIS_OPTION_2_PLAYER_1</zType>
@@ -572,6 +613,7 @@
 		<zh-CN>拒绝外国教派</zh-CN>
 		<pt-BR>Recusou um culto estrangeiro</pt-BR>
 		<ko>타국의 교단을 거부했다</ko>
+		<fixja>海外のカルトを拒絶した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_UNDUE_INFLUENCE_OPTION_2_CHARACTER_0</zType>
@@ -585,6 +627,7 @@
 		<zh-CN>不限制宗教崇拜</zh-CN>
 		<pt-BR>Permitiu adoração irrestrita de cultos</pt-BR>
 		<ko>교단 숭배를 제한 없이 허용했다</ko>
+		<fixja>カルトへの自由な信仰を認めた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_UNDUE_INFLUENCE_OPTION_0_LEADER</zType>
@@ -598,6 +641,7 @@
 		<zh-CN>限制宗教崇拜</zh-CN>
 		<pt-BR>Restringiu adoração aos cultos</pt-BR>
 		<ko>교단 숭배를 제한했다</ko>
+		<fixja>カルト信仰を制限した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_OPTION_2_CHARACTER_1</zType>
@@ -611,6 +655,7 @@
 		<zh-CN>拒绝讨好宗教领袖</zh-CN>
 		<pt-BR>Recusei-me a me aproximar de um líder estrangeiro</pt-BR>
 		<ko>종교 수장의 마음을 굳이 사려 하지 않았다</ko>
+		<fixja>宗教の長を見限ることを拒む</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SEEKING_REPENTANCE_OPTION_0_CHARACTER_1</zType>
@@ -624,6 +669,7 @@
 		<zh-CN>自贬以求宽恕</zh-CN>
 		<pt-BR>Rebaixei-me por perdão</pt-BR>
 		<ko>고개를 숙이고 용서를 빌었다</ko>
+		<fixja>卑下して許しを請うた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_SPREADING_WORD_OPTION_2_CHARACTER_1</zType>
@@ -637,6 +683,7 @@
 		<zh-CN>支持国家宗教</zh-CN>
 		<pt-BR>Apoiou a religião oficial</pt-BR>
 		<ko>국교를 지지했다</ko>
+		<fixja>国教を支援した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_ALL_BUT_A_NAME_OPTION_0_PLAYER_1</zType>
@@ -650,6 +697,7 @@
 		<zh-CN>支持异教神祇</zh-CN>
 		<pt-BR>Apoiou os deuses pagãos</pt-BR>
 		<ko>이교의 신들을 지지했다</ko>
+		<fixja>多神教の神々を支持した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_PATRONAGE_OF_THE_GODS_OPTION_0_CITY</zType>
@@ -663,6 +711,7 @@
 		<zh-CN>曾为旧神门徒</zh-CN>
 		<pt-BR>Ofereceu patronagem aos deuses pagãos</pt-BR>
 		<ko>옛 신들의 수호자가 되었다</ko>
+		<fixja>古き神々を支援した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_OFFERINGS_TO_TYRE_OPTION_0_PLAYER</zType>
@@ -676,6 +725,7 @@
 		<zh-CN>与提尔诸神断绝关系</zh-CN>
 		<pt-BR>Rompeu laços com os deuses de Tiro</pt-BR>
 		<ko>티레의 신들과 연을 끊었다</ko>
+		<fixja>テュロスの神々と縁を切った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_OFFERINGS_TO_TYRE_OPTION_1_PLAYER</zType>
@@ -689,6 +739,7 @@
 		<zh-CN>鼓励向提尔众神捐款</zh-CN>
 		<pt-BR>Encorajou doações aos deuses de Tiro</pt-BR>
 		<ko>티레의 신들에게 조공할 것을 장려했다</ko>
+		<fixja>テュロスの神々への寄付を奨励した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_DESCENDED_FROM_ASTARTE_OPTION_1_PLAYER</zType>
@@ -702,6 +753,7 @@
 		<zh-CN>任命一位特殊顾问</zh-CN>
 		<pt-BR>Nomeou um conselheiro especial</pt-BR>
 		<ko>특별 고문을 배정했다</ko>
+		<fixja>特別顧問を任命した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_LOCAL_GODS_OPTION_2_PLAYER</zType>
@@ -715,6 +767,7 @@
 		<zh-CN>取缔部落神</zh-CN>
 		<pt-BR>Baniu deuses tribais</pt-BR>
 		<ko>부족의 신들을 금했다</ko>
+		<fixja>部族が神々を信仰することを禁止した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_QUIRINUS_OPTION_2_PLAYER</zType>
@@ -728,6 +781,7 @@
 		<zh-CN>自称凌驾于神之上</zh-CN>
 		<pt-BR>Afirmou ser superior a um deus</pt-BR>
 		<ko>신보다 자신이 우위에 있다고 주장했다</ko>
+		<fixja>自分は神に優越すると主張した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_POET_IN_VOGUE_OPTION_2_CHARACTER</zType>
@@ -741,6 +795,7 @@
 		<zh-CN>驱除占星师的影响</zh-CN>
 		<pt-BR>Expulsou a influência de um astrólogo</pt-BR>
 		<ko>점쟁이의 영향력을 몰아냈다</ko>
+		<fixja>占星術師の影響力を排除した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_ONE_GOD_OPTION_0_RELIGION</zType>
@@ -754,6 +809,7 @@
 		<zh-CN>免除宗教献祭</zh-CN>
 		<pt-BR>Liberou a religião de fazer sacrifícios</pt-BR>
 		<ko>종교의 제물 의식에서 면해 주었다</ko>
+		<fixja>宗教に生け贄を禁じた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_ONE_GOD_OPTION_1_CITY</zType>
@@ -767,6 +823,7 @@
 		<zh-CN>强制宗教献祭</zh-CN>
 		<pt-BR>Forçou a religião a fazer sacrifícios</pt-BR>
 		<ko>종교의 제물 의식을 강요했다</ko>
+		<fixja>宗教に生け贄を強要した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CARMEN_OPTION_0_POET</zType>
@@ -780,6 +837,7 @@
 		<zh-CN>经过你聘请的导师的刻苦训练，{0_character}成为了人们口中技艺高超的link(TRAIT_POET)。</zh-CN>
 		<pt-BR>Depois de treinar aplicadamente com o tutor que você contratou, {0_character} ganhou fama por sua habilidade como {lowercase:link(TRAIT_POET,{masculine_0:M:F})}.</pt-BR>
 		<ko>당신이 고용한 교사와 꾸준히 훈련한 결과, {0_character}(은)는 실력 있는 link(TRAIT_POET)으로 명성을 날리게 되었습니다.</ko>
+		<fixja>{0_character}は雇用した教師のもとで熱心に勉学に励んだ結果、優秀なlink(TRAIT_POET)との評判を得た。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CARMEN_OPTION_0_MAGE</zType>
@@ -793,6 +851,7 @@
 		<zh-CN>{0_character}的诗歌训练只激发了其对一些深奥艺术的兴趣。如今人们会在私下小心谈论link(TRAIT_MAGIC_PRACTITIONER)的力量，语气充满了敬畏。</zh-CN>
 		<pt-BR>O treinamento de {0_character} na escrita apenas aumentou o interesse {masculine_0:dele:dela} pelas artes exotéricas e o povo agora comenta, admirado, sobre os poderes {masculine_0:do:da} {lowercase:link(TRAIT_MAGIC_PRACTITIONER,{masculine_0:M:F})}.</pt-BR>
 		<ko>{0_character}(은)는 운문을 공부했지만 {masculine_0:그:그녀}는 밀교의 기술에만 관심을 가졌습니다. 세간 사람들은 숨죽여 link(TRAIT_MAGIC_PRACTITIONER)의 힘을 경외하고 있습니다.</ko>
+		<fixja>{0_character}の詩の鍛錬は、秘術への興味を呼び覚ました。今や人々は{masculine_0:彼:彼女}のlink(TRAIT_MAGIC_PRACTITIONER)の能力に畏敬の念を抱いて語るほどである。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_FORGOTTEN_PROPHET_3_CURSED</zType>
@@ -806,6 +865,7 @@
 		<zh-CN>自从河中取水而饮，你的步伐变得艰辛。你被神link(TRAIT_CURSED)了吗？</zh-CN>
 		<pt-BR>Desde que você bebeu das águas, as dificuldades parecem lhe seguir a cada passo. Será que você foi {lowercase:link(TRAIT_CURSED)} pelo divino?</pt-BR>
 		<ko>샘물을 마시고 나서부터 각종 곤경이 당신을 지독하게 괴롭힙니다. 신에게 link(TRAIT_CURSED) 것이 아닐까 의심됩니다.</ko>
+		<fixja>その水を飲んで以来、あなたは何をするにしても苦労に苛まれている。神にlink(TRAIT_CURSED)のだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_FORGOTTEN_PROPHET_3_DIVINE</zType>
@@ -819,6 +879,7 @@
 		<zh-CN>随时间流逝，你愈发肯定自己对他人的价值并相信自己受到了link(TRAIT_BLESSED)。</zh-CN>
 		<pt-BR>Conforme o tempo passa, você tem cada vez mais certeza de que você foi {masculine_0:considerado digno:considerada digna} e que foi {lowercase:link(TRAIT_BLESSED,{masculine_0:M:F})}.</pt-BR>
 		<ko>시간이 지나자 점점 그러길 잘했다는 기분이 들며 link(TRAIT_BLESSED) 인물이 되었다는 확신이 생깁니다.</ko>
+		<fixja>時が経つにつれて、あなたのなかで自分はlink(TRAIT_BLESSED)を得た者だという確信が深まっていった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_GOD_EDUCATE_RIGHTEOUS</zType>
@@ -832,6 +893,7 @@
 		<zh-CN>宗教导师对{0_character}产生了深远的影响。其现在是一名link(TRAIT_RIGHTEOUS)信徒。</zh-CN>
 		<pt-BR>Os tutores religiosos tiveram um grande impacto sobre {0_character}, que agora passou a ser {masculine_0:um devoto:uma devota} {lowercase:link(TRAIT_RIGHTEOUS,{masculine_0:M:F})} em sua fé.</pt-BR>
 		<ko>종교 교사들에게 큰 영향을 받은 {0_character}(은)는 link(TRAIT_RIGHTEOUS) 신앙의 헌신자가 되었습니다.</ko>
+		<fixja>信心深い教師から多大な影響を受けたおかげで、{0_character}は信仰にlink(TRAIT_RIGHTEOUS)を捧げている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_GOD_EDUCATE_INTELLIGENT</zType>
@@ -845,6 +907,7 @@
 		<zh-CN>宗教导师对{0_character}产生了深远的影响。尽管对{masculine_0:他的:她的}学业并不上心，但事实证明其十分link(TRAIT_INTELLIGENT)。</zh-CN>
 		<pt-BR>Os tutores religiosos tiveram um grande impacto sobre {0_character}, que se provou ser muito {lowercase:link(TRAIT_INTELLIGENT)} mesmo com seu descaso pelos estudos.</pt-BR>
 		<ko>종교 교사들에게 큰 영향을 받은 {0_character}(은)는 공부를 무시했음에도 매우 link(TRAIT_INTELLIGENT) 인물로 거듭났습니다.</ko>
+		<fixja>信心深い教師から多大な影響を受けたおかげで、{0_character}は自身の勉学を軽視しているものの、非常にlink(TRAIT_INTELLIGENT)になった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_GOD_EDUCATE_EDUCATED</zType>
@@ -858,6 +921,7 @@
 		<zh-CN>宗教导师对{0_character}产生了深远的影响，在{masculine_0:他的:她的}学习中展现了令人难以置信的天赋，现在可以说是受过良好的link(TRAIT_EDUCATED)。</zh-CN>
 		<pt-BR>Os tutores religiosos tiveram um grande impacto sobre {0_character}, que demonstrou ter uma grande aptidão em seus estudos e agora é bastante {lowercase:link(TRAIT_EDUCATED,{masculine_0:M:F})}.</pt-BR>
 		<ko>종교 교사들에게 큰 영향을 받은 {0_character}(은)는 공부에 놀라울 정도로 두각을 드러내며 link(TRAIT_EDUCATED) 인물이 되었습니다.</ko>
+		<fixja>信心深い教師から多大な影響を受けたおかげで、{0_character}は勉学に驚嘆すべき適性を示し、今やlink(TRAIT_EDUCATED)で知られている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_EXOTIC</zType>
@@ -871,6 +935,7 @@
 		<zh-CN>宫廷内有关于你如何与死者交流的传言。虽然有些人觉得害怕，但对大多数人来说这很link(TRAIT_EXOTIC)。</zh-CN>
 		<pt-BR>A corte comenta sobre sua comunhão com os mortos. Embora alguns tenham medo da sua experiência, a maioria pensa que você tem um apelo {lowercase:link(TRAIT_EXOTIC)}.</pt-BR>
 		<ko>궁정에서 당신에게 죽은 자와 교감할 수 있는 방법을 속삭입니다. 일부 신하들은 두려워했지만 대부분은 link(TRAIT_EXOTIC) 인상을 받았습니다.</ko>
+		<fixja>宮廷ではあなたがどのようにして死者と交流するのかと噂されている。あなたの体験を恐れる者もいるが、ほとんどの者はlink(TRAIT_EXOTIC)な魅力があると考えている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_EDUCATED</zType>
@@ -884,6 +949,7 @@
 		<zh-CN>与先知相处时，你得知了许多鲜为人知的秘密。你现在受过link(TRAIT_EDUCATED)了。</zh-CN>
 		<pt-BR>O tempo que você passou com o oráculo lhe ensinou muitos segredos, coisas que normalmente não são sabidas. Você agora é {lowercase:link(TRAIT_EDUCATED,{masculine_0:M:F})}.</pt-BR>
 		<ko>선지자가 당신에게 세간에 알려지지 않은 많은 비밀을 가르쳐 주었습니다. 당신은 link(TRAIT_EDUCATED) 인물이 되었습니다.</ko>
+		<fixja>あなたは神託神殿で過ごしたことで、一般には知られていないさまざまな秘密について知るに至った。今やlink(TRAIT_EDUCATED)な人物になったと言えよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_MAGIC</zType>
@@ -897,6 +963,7 @@
 		<zh-CN>你与先知相处的时间是很有启发性的，她和你分享了深奥的艺术并将你训练为一名link(TRAIT_MAGIC_PRACTITIONER)。</zh-CN>
 		<pt-BR>Seu tempo com a vidente se provou muito edificante: o oráculo lhe mostrou suas artes esotéricas e lhe treinou como {lowercase:link(TRAIT_MAGIC_PRACTITIONER,{masculine_0:M:F})}.</pt-BR>
 		<ko>선지자와 보낸 시간은 아주 유익했습니다. 선지자가 가르친 밀교의 기술을 통해 당신은 link(TRAIT_MAGIC_PRACTITIONER)가 되었습니다.</ko>
+		<fixja>指導者として最適な先見者のもとで学ぶうちに、あなたは神託神殿から秘伝の知識を施され、link(TRAIT_MAGIC_PRACTITIONER)として研鑽を積んだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_SUPERSTITIOUS</zType>
@@ -910,6 +977,7 @@
 		<zh-CN>听过先知的预言，即使在最微小的事件中你也看到众神的指引。他们一定会对这种link(TRAIT_SUPERSTITIOUS)关注感到高兴的。</zh-CN>
 		<pt-BR>Depois de ouvir as profecias da vidente, você vê a ação dos deuses nas menores coisas. Certamente que a atenção {lowercase:link(TRAIT_SUPERSTITIOUS,F)} que você lhes dá será do agrado deles, não?</pt-BR>
 		<ko>선지자의 예언을 들은 후 당신은 사소한 일에도 신의 의지가 깃들어 있음을 깨달았습니다. 분명 신들도 이런 link(TRAIT_SUPERSTITIOUS) 관심에 기뻐하겠죠?</ko>
+		<fixja>先見者から予言を聞いてからというもの、あなたはささいな出来事にすら神々の意志を垣間見るようになった。神々はそのようなlink(TRAIT_SUPERSTITIOUS)考えをお喜びになるだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_WOUNDED</zType>
@@ -923,6 +991,7 @@
 		<zh-CN>虽然你打败了猛兽，但你在与狮子的战斗中link(TRAIT_WOUNDED)了。宫廷为你的康复祈祷。</zh-CN>
 		<pt-BR>Embora você tenha derrotado a fera, a sua luta com o leão lhe deixou {lowercase:link(TRAIT_WOUNDED,{masculine_0:M:F})}. A corte reza para que você recupere.</pt-BR>
 		<ko>야수를 이기긴 했지만 당신은 전투 중 link(TRAIT_WOUNDED)을 입었습니다. 궁정에서 당신의 회복을 기도합니다.</ko>
+		<fixja>ライオンを倒したものの、戦のさなかにlink(TRAIT_WOUNDED)してしまった。宮廷はあなたの回復を祈っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_SEVERELY_WOUNDED</zType>
@@ -936,6 +1005,7 @@
 		<zh-CN>虽然你打败了猛兽，但你在与狮子的战斗中link(TRAIT_SEVERELY_WOUNDED)了。宫廷为你的康复祈祷。</zh-CN>
 		<pt-BR>Embora você tenha derrotado a fera, a sua luta com o leão lhe deixou {lowercase:link(TRAIT_SEVERELY_WOUNDED,{masculine_0:M:F})}. A corte reza para que você recupere.</pt-BR>
 		<ko>야수를 이기긴 했지만 당신은 전투 중 link(TRAIT_SEVERELY_WOUNDED)을 입었습니다. 궁정에서 당신의 회복을 기도합니다.</ko>
+		<fixja>あなたはライオンを倒したものの、戦いのさなか、link(TRAIT_SEVERELY_WOUNDED)してしまった。宮廷のものたちがあなたの回復を祈っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_CRIPPLED</zType>
@@ -949,6 +1019,7 @@
 		<zh-CN>为了击倒狮子你付出了高昂的代价。你的腿被咬了一口，走路很困难，现在你已经link(TRAIT_CRIPPLED)了。</zh-CN>
 		<pt-BR>Derrotar o leão teve um alto preço. Uma mordida que você recebeu na perna, fez com que você agora dificuldade para andar e agora você está {lowercase:link(TRAIT_CRIPPLED,{masculine_0:M:F})}.</pt-BR>
 		<ko>사자를 무찌르는 데에는 큰 대가가 따랐습니다. 사자에게 물린 다리로는 거동이 어려워진 당신은 link(TRAIT_CRIPPLED)가 되었습니다.</ko>
+		<fixja>ライオンの討伐は大きな代償をともなった。あなたは足を噛まれたことで歩行が困難になり、link(TRAIT_CRIPPLED)となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_BLINDED</zType>
@@ -962,6 +1033,7 @@
 		<zh-CN>当你向狮子挥出致命一击时，它狠利的利爪也最后一次扑上了你的脸。虽然胜利了，但你现在link(TRAIT_BLINDED)了。</zh-CN>
 		<pt-BR>Quando você deu o golpe final para matar o leão, uma última patada de suas garras ferozes lhe acertou no rosto. Embora você tenha saído com a vitória, agora você está {lowercase:link(TRAIT_BLINDED,{masculine_0:M:F})}.</pt-BR>
 		<ko>당신이 사자에게 최후의 일격을 가한 동시에 사자의 맹렬한 발톱이 당신의 얼굴을 베어 가릅니다. 전투에서 승리했지만 당신은 link(TRAIT_BLINDED)이 되었습니다.</ko>
+		<fixja>あなたがライオンにとどめの一撃を加えたその時、ライオンも死に物狂いで爪を振るった。その一撃はあなたの顔面をとらえ、戦いに勝利した者ものの、あなたはlink(TRAIT_BLINDED)となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_A_HAND_WITHDRAWN_CHASTE</zType>
@@ -975,6 +1047,7 @@
 		<zh-CN>{0_character}听天由命地过着不婚生活，{masculine_0:他的:她的}生活端庄而link(TRAIT_CHASTE)。</zh-CN>
 		<pt-BR>{masculine_0:Conformado:Conformada} a seu destino de uma vida sem um casamento, {0_character} adotou um estilo de vida puro e {lowercase:link(TRAIT_CHASTE)}.</pt-BR>
 		<ko>배우자 없는 삶을 받아들인 {0_character}(은)는 조신하고 link(TRAIT_CHASTE) 삶을 살기로 했습니다.</ko>
+		<fixja>{0_character}は結婚しないという人生に見切りをつけ、link(TRAIT_CHASTE)生活を送っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_A_HAND_WITHDRAWN_WANTON</zType>
@@ -988,6 +1061,7 @@
 		<zh-CN>{0_character}听天由命地过着独身生活，决定不婚且享受link(TRAIT_WANTON)的生活。</zh-CN>
 		<pt-BR>{masculine_0:Conformado:Conformada} com vida sem casamento, {0_character} decidiu aproveitar uma vida {lowercase:link(TRAIT_WANTON,F)} fora dos restringimentos do casamento.</pt-BR>
 		<ko>배우자 없는 삶을 받아들인 {0_character}(은)는 부부 관계에 얽매이지 않는 link(TRAIT_WANTON) 삶을 살아가기로 했습니다.</ko>
+		<fixja>{0_character}は結婚しないという人生に見切りをつけ、結婚生活では得られないlink(TRAIT_WANTON)な生活を楽しむことにした。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SCHOOL_OF_REASON_EDUCATED</zType>
@@ -1001,6 +1075,7 @@
 		<zh-CN>在希帕提亚的指导下，{0_character}成为了一名敏锐的学生并且受到了良好的link(TRAIT_EDUCATED)。</zh-CN>
 		<pt-BR>Sob as orientações de Hipátia, {0_character} se tornou {masculine_0:um:uma} estudante e está bem {lowercase:link(TRAIT_EDUCATED,{masculine_0:M:F})}.</pt-BR>
 		<ko>히파티아의 지도를 받은 {0_character}(은)는 총명하고 link(TRAIT_EDUCATED) 학생이 되었습니다.</ko>
+		<fixja>ヒュパティアの指導のもと、{0_character}は研究熱心な生徒となり、link(TRAIT_EDUCATED)な人物になった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SCHOOL_OF_REASON_INTELLIGENT</zType>
@@ -1014,6 +1089,7 @@
 		<zh-CN>在希帕提亚的指导下，{0_character}表现出了敏锐的洞察力，能够领会复杂的想法，现在已经变得十分link(TRAIT_INTELLIGENT)。</zh-CN>
 		<pt-BR>Sob as orientações de Hipátia, {0_character} demonstrou ter uma ótima compreensão de ideias complexas e agora é {lowercase:link(TRAIT_INTELLIGENT)}.</pt-BR>
 		<ko>히파티아의 지도를 받고 {0_character}(은)는 복잡한 개념을 예리하게 이해하는 link(TRAIT_INTELLIGENT) 인물이 되었습니다.</ko>
+		<fixja>ヒュパティアの指導のもと、{0_character}は複雑な考えをうまくまとめる洞察力を身に着け、link(TRAIT_INTELLIGENT)となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SCHOOL_OF_REASON_ENGINEER</zType>
@@ -1027,6 +1103,7 @@
 		<zh-CN>在希帕提亚的指导下，{0_character}对她关于星盘和其他机械的想法表现出极大的兴趣，并作为一名link(TRAIT_ENGINEER)进行学习。</zh-CN>
 		<pt-BR>Sob as orientações de Hipátia, {0_character} demonstrou um grande interesse pelas ideias dela sobre astrolábios e outros mecanismos, e estudou para ser {lowercase:link(TRAIT_ENGINEER,{masculine_0:M:F})}.</pt-BR>
 		<ko>히파티아의 지도를 받은 {0_character}(은)는 천체 관측기와 여러 기계에 큰 관심을 보이며 link(TRAIT_ENGINEER)의 길을 걸었습니다.</ko>
+		<fixja>ヒュパティアの指導のもと、{0_character}はアストロラーベをふくむ様々な機器に多大な興味を示し、link(TRAIT_ENGINEER)としての研鑽を積んだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_A_MEMORY_FOR_THE_GODS_INTELLIGENT</zType>
@@ -1040,6 +1117,7 @@
 		<zh-CN>{0_character}掌握了记忆技巧，这位link(TRAIT_INTELLIGENT)学生现在甚至能够轻松回忆起最晦涩的事实。</zh-CN>
 		<pt-BR>{0_character} tomou gosto por memorizar técnicas e {masculine_0:este:esta} estudante {lowercase:link(TRAIT_INTELLIGENT)} agora pode se lembrar até mesmo dos fatos mais obscuros.</pt-BR>
 		<ko>암기술을 배운 {0_character}(은)는 잘 알려져 있지 않은 지식조차 쉽게 떠올리는 link(TRAIT_INTELLIGENT) 학생이 되었습니다.</ko>
+		<fixja>{0_character}は記憶術を採用し、link(TRAIT_INTELLIGENT)な生徒となった。今ではかなり不明瞭な事実でも容易く思い出すことができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_A_MEMORY_FOR_THE_GODS_POET</zType>
@@ -1053,6 +1131,7 @@
 		<zh-CN>{0_character}不满足于记诵他人作品，他开始以link(TRAIT_POET)的身份进行{masculine_0:他的:她的}自己的创作。</zh-CN>
 		<pt-BR>Não {masculine_0:satisfeito:satisfeita} em memorizar passagens de textos, {0_character} começou a elaborar seus próprios escritos e agora está apresentando suas obras como {lowercase:link(TRAIT_POET,{masculine_0:M:F})}.</pt-BR>
 		<ko>책의 구절을 외우는 것으로는 만족하지 못한 {0_character}(은)는 자신만의 작품을 쓰기 시작했으며 이제는 link(TRAIT_POET)으로 활약하고 있습니다.</ko>
+		<fixja>{0_character}は文章を暗記するだけでは物足りなくなり、独自の作品を作り始め、link(TRAIT_POET)として活動している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_A_MEMORY_FOR_THE_GODS_IMPIOUS</zType>
@@ -1066,6 +1145,7 @@
 		<zh-CN>尽管记忆技巧很有用，但{0_character}从{masculine_0:他的:她的}link(TRAIT_IMPIOUS)老师那里学到的主要还是刻意无视众神。</zh-CN>
 		<pt-BR>Embora as técnicas de memorização sejam úteis, a principal lição que {0_character} aprendeu com seu professor {lowercase:link(TRAIT_IMPIOUS)} foi ter um obstinado descaso pelos deuses.</pt-BR>
 		<ko>암기술은 유용했지만 {0_character}(이)가 link(TRAIT_IMPIOUS) 교사로부터 배운 것은 신을 고의적으로 폄하하는 법이었습니다.</ko>
+		<fixja>記憶術は役に立つが、{0_character}がlink(TRAIT_IMPIOUS)な教師による指導で得た最も大切な教訓は、神々の意志を意図的に無視することである。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_CHASTE</zType>
@@ -1079,6 +1159,7 @@
 		<zh-CN>{0_character}发誓要保持link(TRAIT_CHASTE)，以更好地供奉神明。</zh-CN>
 		<pt-BR>{0_character} jurou permanecer {lowercase:link(TRAIT_CHASTE,{masculine_0:M:F})}, para que possa se dedicar melhor a deus.</pt-BR>
 		<ko>{0_character}(은)는 신에게 헌신하기 위해 link(TRAIT_CHASTE) 삶을 살아가기로 했습니다.</ko>
+		<fixja>{0_character}はもっと神に仕えるために、link(TRAIT_CHASTE)生活を送ろうと誓った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_ASCETIC</zType>
@@ -1092,6 +1173,7 @@
 		<zh-CN>受这些信件的启发，{0_character}决定放弃世俗的享乐，开始过link(TRAIT_ASCETIC)生活。</zh-CN>
 		<pt-BR>Com a inspiração das cartas, {0_character} decidiu abandonar os prazeres terrenos e começou a viver como {lowercase:link(TRAIT_ASCETIC)}.</pt-BR>
 		<ko>편지에 영향을 받은 {0_character}(은)는 세속적인 기쁨을 멀리하고 link(TRAIT_ASCETIC) 삶을 살기로 했습니다.</ko>
+		<fixja>手紙に触発された{0_character}は、この世の悦楽に別れを告げてlink(TRAIT_ASCETIC)な生活を送ると決意した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_PIOUS</zType>
@@ -1105,6 +1187,7 @@
 		<zh-CN>尽管{0_character}还十分年轻，其已因对神明link(TRAIT_PIOUS)奉献而闻名。</zh-CN>
 		<pt-BR>Mesmo tão jovem, {0_character} está se ficando {masculine_0:conhecido:conhecida} por sua {lowercase:link(TRAIT_PIOUS,F)} devoção a deus.</pt-BR>
 		<ko>{0_character}(은)는 어린 나이에도 link(TRAIT_PIOUS) 신자로 유명해졌습니다.</ko>
+		<fixja>若年者でありながら、{0_character}は神へのlink(TRAIT_PIOUS)献身で知られるようになっている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_RIGHTEOUS</zType>
@@ -1118,6 +1201,7 @@
 		<zh-CN>在信徒的鼓励下，{0_character}变得{masculine_0:他的:她的}信仰坚定而link(TRAIT_RIGHTEOUS)。</zh-CN>
 		<pt-BR>{masculine_0:Encorajado:Encorajada} pelos fieis, {0_character} se tornou {masculine_0:obstinado:obstinada} e {lowercase:link(TRAIT_RIGHTEOUS,{masculine_0:M:F})} em suas crenças.</pt-BR>
 		<ko>신자들에게 자극받은 {0_character}(은)는 완고하고 link(TRAIT_RIGHTEOUS) 신념의 수호자가 되었습니다.</ko>
+		<fixja>信者に励まされ、{0_character}は強く、link(TRAIT_RIGHTEOUS)にあふれた信念を持つようになった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HYBRIS_INSANE</zType>
@@ -1131,6 +1215,7 @@
 		<zh-CN>遗憾的是，任何尝试向{0_character}询问国家事务的行为都表明你的新朝臣完全是link(TRAIT_INSANE)了。</zh-CN>
 		<pt-BR>Infelizmente, qualquer tentativa de perguntar a {0_character} sobre questões do estado deixam claro que {masculine_0:seu novo:sua nova} membro da corte é completamente {lowercase:link(TRAIT_INSANE,{masculine_0:M:F})}.</pt-BR>
 		<ko>애석하게도 {0_character}(과)와 국정을 논하려 할 때마다 당신의 새로운 신하가 완전히 link(TRAIT_INSANE) 사람이라는 사실히 분명해지고 있습니다.</ko>
+		<fixja>残念なことに、{0_character}に国のことを尋ねようとすると、新しい廷臣は完全にlink(TRAIT_INSANE)だということがはっきりした。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HYBRIS_BLESSED</zType>
@@ -1144,6 +1229,7 @@
 		<zh-CN>虽然不清楚众神是否真的会和{0_character}对话，但这位link(TRAIT_BLESSED)廷臣一直好运连连……</zh-CN>
 		<pt-BR>Embora não seja claro se os deuses realmente falam com {0_character}, {masculine_0:este:esta} {lowercase:link(TRAIT_BLESSED,{masculine_0:M:F})} membro da corte certamente tem muito boa sorte...</pt-BR>
 		<ko>신들이 정말로 {0_character}에게 말을 거는지는 알 수 없지만 link(TRAIT_BLESSED) 신하에게는 분명 행운이 따르고 있겠죠...</ko>
+		<fixja>神々が本当に{0_character}に話しかけているのかは不明だが、link(TRAIT_BLESSED)を得た廷臣はたしかに幸運によくしているようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_WHERE_LIGHTNING_STRIKES_SUPERSTITIOUS</zType>
@@ -1157,6 +1243,7 @@
 		<zh-CN>目睹朱比特的怒火后，你决心要避免自己也踏入这样的命运，不管这在别人看来多么link(TRAIT_SUPERSTITIOUS)。</zh-CN>
 		<pt-BR>Ter presenciado a fúria de Júpiter lhe deu a determinação para evitar esse destino pessoalmente, não importa o quão {lowercase:link(TRAIT_SUPERSTITIOUS,{masculine_0:M:F})} você pareça para os demais.</pt-BR>
 		<ko>유피테르의 분노를 보고 당신은 다른 사람이 자신을 link(TRAIT_SUPERSTITIOUS) 사람으로 여기든 말든, 자신에게 이런 운명이 내리는 것만은 피해야겠다고 결심했습니다.</ko>
+		<fixja>ユピテルの怒りを目の当たりにし、いくらlink(TRAIT_SUPERSTITIOUS)だと他の者から思われていようと、そのような運命を避けたいと思うようになった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_WHERE_LIGHTNING_STRIKES_PIOUS</zType>
@@ -1170,6 +1257,7 @@
 		<zh-CN>目睹神灵造成这种破坏对人来说是极其可怕的。你为朱比特发怒时的威严所震慑，对众神肃然起敬，并发誓要保持link(TRAIT_PIOUS)。</zh-CN>
 		<pt-BR>É algo assustador presenciar tamanha destruição causada pelos deuses. A grandeza e a majestade da fúria de Júpiter inspirou um novo senso de respeito pelos deuses e você jurou permanecer sendo {lowercase:link(TRAIT_PIOUS,{masculine_0:M:F})}.</pt-BR>
 		<ko>신이 파괴한 것들을 보자 두려움이 몰려왔습니다. 유피테르의 분노에서 느껴지는 경외심과 위엄으로 신에 대한 공경을 새로이 다질 수 있었으며 당신은 link(TRAIT_PIOUS) 신자로 남기를 맹세했습니다.</ko>
+		<fixja>怒れる神々による破壊は恐ろしい。ユピテルの怒りに恐れとともに威厳を感じたあなたは、改めて畏敬の念を抱き、link(TRAIT_PIOUS)であろうと誓った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_WHERE_LIGHTNING_STRIKES_BRAVE</zType>
@@ -1183,6 +1271,7 @@
 		<zh-CN>另一场暴风雨袭来时，你选择留下来见证它的狂暴。有这样一位神明在侧，你知道你无需害怕。朱比特与你同在，你现在很link(TRAIT_BRAVE)。</zh-CN>
 		<pt-BR>Quando outra tempestade assola sua cidade, você fica para presenciar a totalidade da fúria, sabendo que não há nada a temer com um deus tão poderoso ao seu lado. Com as bênçãos de Júpiter, você se tornou {lowercase:link(TRAIT_BRAVE,{masculine_0:M:F})}.</pt-BR>
 		<ko>폭풍이 다시 한 번 휘몰아칠 때 당신은 신의 분노를 똑똑히 지켜보았습니다. 이런 신이 함께한다면 이 세상에 무서울 것은 없습니다. 유피테르의 가호를 받는 당신은 link(TRAIT_BRAVE) 인물이 되었습니다.</ko>
+		<fixja>再び嵐が訪れたが、あなたはその猛威を目に焼き付けようとその場にとどまった。このような神が味方なら何も恐れることはないと知ってのことである。ユピテルを味方につけ、あなたはすっかりlink(TRAIT_BRAVE)である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_NEWFOUND_FAITH_EDUCATED</zType>
@@ -1196,6 +1285,7 @@
 		<zh-CN>{0_character}对{masculine_0:他:她}导师的教学内容产生了浓厚的兴趣，很快成为一名受过良好link(TRAIT_EDUCATED)的学生。</zh-CN>
 		<pt-BR>{0_character} passou a ter um grande interesse nos ensinamentos de seus tutores, e está se tornando {masculine_0:um:uma} estudante {lowercase:link(TRAIT_EDUCATED,{masculine_0:M:F})}.</pt-BR>
 		<ko>{0_character}(은)는 교사의 가르침에 깊은 관심을 표하며 빠르게 link(TRAIT_EDUCATED) 학생으로 성장했습니다.</ko>
+		<fixja>あなたは教師の教えに多大な興味を寄せ、すぐにlink(TRAIT_EDUCATED)生徒となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_NEWFOUND_FAITH_PIOUS</zType>
@@ -1209,6 +1299,7 @@
 		<zh-CN>{0_character}专注于导师教授的宗教内容并进行link(TRAIT_PIOUS)反思，让你感到骄傲。</zh-CN>
 		<pt-BR>{0_character} lhe enche de orgulho ao se dedicar aos ensinamentos religiosos dos tutores e ao refletir diligentemente sobre {lowercase:link[sua fé](TRAIT_PIOUS)}</pt-BR>
 		<ko>교사의 종교적 가르침에 집중하며 link(TRAIT_PIOUS) 성찰을 반복한 {0_character}(은)는 당신을 자랑스럽게 했습니다.</ko>
+		<fixja>{0_character}は、信心深い教師の教えに専念し、link(TRAIT_PIOUS)な言動をするあなたを誇りに思っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_NEWFOUND_FAITH_HUMBLE</zType>
@@ -1222,6 +1313,7 @@
 		<zh-CN>{0_character}为{masculine_0:他:她}传授的宗教知识所震撼。那些关于奇迹和神性的故事让这个{masculine_0:男孩:女孩}保持link(TRAIT_HUMBLE)。</zh-CN>
 		<pt-BR>{0_character} está {masculine_0:maravilhado:maravilhada} com seus ensinamentos religiosos. As histórias sobre milagres e divindade {masculine_0:o:a} mantém {lowercase:link(TRAIT_HUMBLE)}.</pt-BR>
 		<ko>{0_character}(은)는 종교적 가르침에 경외심을 느꼈습니다. 기적과 신의 이야기 덕분에 {masculine_0:그:그녀}는 link(TRAIT_HUMBLE) 인물이 될 수 있었습니다.</ko>
+		<fixja>{0_character}はその宗教的指導、奇跡や神性を伝える物語によって、link(TRAIT_HUMBLE)とされている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_RIGHTEOUS</zType>
@@ -1235,6 +1327,7 @@
 		<zh-CN>数周的旅途重塑了{0_character}，{masculine_0:他:她}每踏出一步，对其宗教的link(TRAIT_RIGHTEOUS)奉献就多了一分。</zh-CN>
 		<pt-BR>Semanas na estrada tiveram um grande impacto sobre {0_character}, cuja {lowercase:link(TRAIT_RIGHTEOUS,F)} dedicação à sua religião cresce a cada passo.</pt-BR>
 		<ko>몇 주 동안의 여정으로 {0_character}(은)는 성장했습니다. 여정에서 한 걸음을 내딛을 때마다 link(TRAIT_RIGHTEOUS) 신앙심은 커져만 갔습니다.</ko>
+		<fixja>旅の途上にあった数週間、link(TRAIT_RIGHTEOUS) な気質の{0_character}は、一歩進むごとに自身の宗教への信心を深めていった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_PIOUS</zType>
@@ -1248,6 +1341,7 @@
 		<zh-CN>数周的旅途重塑了{0_character}，让{masculine_0:他:她}有时间在link(TRAIT_PIOUS)反思中祈祷。</zh-CN>
 		<pt-BR>Semanas na estrada tiveram um grande impacto sobre {0_character}, e lhe deu bastante tempo para refletir sobre {lowercase:link[sua fé](TRAIT_PIOUS)}.</pt-BR>
 		<ko>몇 주 동안의 여정으로 시간을 번 {0_character}(은)는 여정 동안 link(TRAIT_PIOUS) 성찰을 잊지 않고 기도하며 성장할 수 있었습니다.</ko>
+		<fixja>旅の途上にあった数週間、{0_character}はlink(TRAIT_PIOUS)な気質らしくよく祈った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_TOUGH</zType>
@@ -1261,6 +1355,7 @@
 		<zh-CN>数周的旅途改变了{0_character}，将{masculine_0:他:她}塑造成一个随时准备面对任何困难的，link(TRAIT_TOUGH)而老练的旅者。</zh-CN>
 		<pt-BR>Semanas na estrada tiveram um grande impacto sobre {0_character} e {masculine_0:o:a} transformaram em {masculine_0:um:uma} {lowercase:link(TRAIT_TOUGH,{masculine_0:M:F})} e experiente viajante que pode lidar com qualquer dificuldade.</pt-BR>
 		<ko>몇 주 동안의 여정으로 {0_character}(은)는 어떤 고난에도 대비할 수 있는 노련하고 link(TRAIT_TOUGH) 여행가로 성장했습니다.</ko>
+		<fixja>旅の途上にあった数週間で、{0_character}のlink(TRAIT_TOUGH)さを増し、どんな困難にも立ち向かえる熟練の旅人となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_LIKE_HEROES_OF_OLD_ILL</zType>
@@ -1274,6 +1369,7 @@
 		<zh-CN>战斗结束后，幻象没有停止，你变得羸弱并开始发热、link(TRAIT_ILL)。</zh-CN>
 		<pt-BR>Depois da batalha, as visões não param, mas cada uma delas lhe deixa com ainda mais fraqueza, febre e {lowercase:link(TRAIT_ILL)}.</pt-BR>
 		<ko>전투 후에도 환영은 사라지지 않았고 당신에게 열병에 시달려 link(TRAIT_ILL)가 되었습니다.</ko>
+		<fixja>戦が終わっても幻影は消えなかった。どの幻影もあなたの意志をくじき、熱っぽくさせ、やがてあなたはlink(TRAIT_ILL)になった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_LIKE_HEROES_OF_OLD_IMPIOUS</zType>
@@ -1287,6 +1383,7 @@
 		<zh-CN>决心不让自己迷失在幻像中，你彻底拒绝了众神。与其发疯，不如link(TRAIT_IMPIOUS)。</zh-CN>
 		<pt-BR>{masculine_0:Determinado:Determinada} a não se perder nas visões, você rejeita os deuses completamente. Melhor ser {lowercase:link(TRAIT_IMPIOUS,{masculine_0:M:F})} do que {masculine_0:louco:louca}.</pt-BR>
 		<ko>환영에 지지 않기로 한 당신은 미치는 것보다는 link(TRAIT_IMPIOUS) 인간이 되는 것이 낫다 판단했고 신을 완전히 부정했습니다.</ko>
+		<fixja>幻視に惑わされないよう、神々の存在を拒絶することにした。狂気に駆られるより、link(TRAIT_IMPIOUS)でいるほうがマシだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_LIKE_HEROES_OF_OLD_WARLIKE</zType>
@@ -1300,6 +1397,7 @@
 		<zh-CN>虽然幻像不再出现，但你与众神同行的回忆总是激起你去战斗。你对战斗的渴望导致你在人们口中变成一个link(TRAIT_WARLIKE)的人。</zh-CN>
 		<pt-BR>Embora as visões não tenha voltado, a lembrança de ter deus ao seu lado lhe incita a lutar. A sua prontidão para a batalha fez com que você tenha a reputação de {lowercase:link(TRAIT_WARLIKE,{masculine_0:M:F})}.</pt-BR>
 		<ko>환영이 다시 보이지는 않았지만 남아 있는 신들의 기억은 당신을 전장으로 이끌었습니다. 전투욕에 이끌린 당신은 link(TRAIT_WARLIKE) 인물로 기억됩니다.</ko>
+		<fixja>再び幻視を見ることはなかったが、神々がついているという記憶があなたを戦いへと駆り立てる。戦いを求める姿に、link(TRAIT_WARLIKE)との評判が立った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_WANTON</zType>
@@ -1313,6 +1411,7 @@
 		<zh-CN>从这些“谜团”中寻求世俗的快乐对{0_character}来说是不够的。{masculine_0:他:她}很快就开始全身心地追求link(TRAIT_WANTON)享乐。</zh-CN>
 		<pt-BR>Qualquer que seja o prazer que {0_character} esteja buscando com esses "mistérios", não é o suficiente. Logo {masculine_0:ele:ela} terá se rendido completamente à busca do prazer {lowercase:link(TRAIT_WANTON)}.</pt-BR>
 		<ko>이 '밀교'에서 {0_character}(이)가 어떤 성적인 욕망을 추구하고 있든 그것으로는 충분하지 않은 모양입니다. {masculine_0:그:그녀}는 곧 link(TRAIT_WANTON) 쾌락에 완전히 몸을 맡겼습니다.</ko>
+		<fixja>密儀宗教に浮世の快楽をいくら求めようと、{0_character}は満たされなかった。{masculine_0:彼:彼女}は程なくしてlink(TRAIT_WANTON)な楽しみをひたすらに求めるようになった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_CORRUPT</zType>
@@ -1326,6 +1425,7 @@
 		<zh-CN>{0_character}很快就开始为{masculine_0:他的:她的}“同僚”们提供帮助，因为这个link(TRAIT_CORRUPT)组织藐视所有规则，帮助彼此从他们的职位中获益。</zh-CN>
 		<pt-BR>{0_character} logo passa a fazer favores para seus colegas "iniciados" conforme o grupo {lowercase:link(TRAIT_CORRUPT)} dispensa todas as regras para ajudarem uns aos outros a colher os benefícios de suas posições.</pt-BR>
 		<ko>{0_character}(은)는 동료 '입문자'들의 부탁을 들어 주고 있습니다. link(TRAIT_CORRUPT) 모임에서는 회원들이 자신의 지위를 활용할 수 있도록 모든 규칙을 어겨 가면서까지 서로를 돕기 때문입니다.</ko>
+		<fixja>{0_character}はすぐに「新入り」に便宜を図るようになり、 link(TRAIT_CORRUPT)した集団があらゆる規則を無視し、互いの地位や利益を求めるのに手を貸すようになった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_DEBAUCHED</zType>
@@ -1339,6 +1439,7 @@
 		<zh-CN>{0_character}经常举行派对，没有停止的迹象。这样看来{masculine_0:他:她}真的极度link(TRAIT_DEBAUCHED)。</zh-CN>
 		<pt-BR>As festas de {0_character} são feitas regularmente e não há sinal de que irão parar. Parece que {masculine_0:ele:ela} é verdadeiramente {lowercase:link(TRAIT_DEBAUCHED,{masculine_0:M:F})}.</pt-BR>
 		<ko>{0_character}(은)는 멈출 기미 없이 정기적으로 연회를 벌이고 있습니다. {masculine_0:그:그녀}는 참으로 link(TRAIT_DEBAUCHED) 인물입니다.</ko>
+		<fixja>{0_character}の宴は定期的に続けられ、自重する気配はない。{masculine_0:彼:彼女}はすっかりlink(TRAIT_DEBAUCHED)になったようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SHRINE_OF_THE_HEALING_GOD_CURSED</zType>
@@ -1352,6 +1453,7 @@
 		<zh-CN>虽然你的病已经好了，但你却有一种不祥的预感。当你怀疑自己被link(TRAIT_CURSED)时，残败疗愈神祠的景象又在脑海中浮现。</zh-CN>
 		<pt-BR>Embora sua doença tenha sido curada, uma sensação agourenta lhe acompanha. A visão de um santuário de cura em ruínas lhe acomete mais uma vez enquanto você se pergunta se está {lowercase:link(TRAIT_CURSED,{masculine_0:M:F})}.</pt-BR>
 		<ko>병은 나았지만 불길한 예감이 떠오릅니다. 스스로가 link(TRAIT_CURSED) 것이 아닌지 궁금해하던 참에 무너진 치유의 교단이 다시 한 번 당신의 머릿속에 떠오릅니다.</ko>
+		<fixja>病が癒えたにも関わらず、不吉な予感があなたに付きまとう。破壊された癒術院のイメージが脳裏をよぎり、link(TRAIT_CURSED)のではないかと考える。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SHRINE_OF_THE_HEALING_GOD_IMPIOUS</zType>
@@ -1365,6 +1467,7 @@
 		<zh-CN>你的病好了，治疗之神也没有惩罚你。你觉得神没有什么好害怕的，你很快就会完全不再关注他们并变得link(TRAIT_IMPIOUS)。</zh-CN>
 		<pt-BR>A sua doença passou e não houve qualquer retribuição do deus da cura. Após decidir que não há nada para se temer por parte dos deuses, você logo para de lhes dar atenção de vez e se torna {lowercase:link(TRAIT_IMPIOUS,{masculine_0:M:F})}.</pt-BR>
 		<ko>병은 나았고 치유의 신이 응징을 내리지도 않았습니다. 신도 두려워할 존재가 아니라는 것을 깨달은 당신은 신에 대한 관심을 버리고 link(TRAIT_IMPIOUS) 삶을 살기 시작했습니다.</ko>
+		<fixja>病は癒え、癒しの神による報復もない。神々など恐れるに足らず──そう判断したあなたは、やがて神々への敬意を失い、link(TRAIT_IMPIOUS)となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_SHRINE_OF_THE_HEALING_GOD_SUPERSTITIOUS</zType>
@@ -1378,6 +1481,7 @@
 		<zh-CN>你的病好了，治疗之神也没有惩罚你……暂时。你在脖子上挂了link(TRAIT_SUPERSTITIOUS)护身符和吊坠。祭司们会定期以你的名义献祭。</zh-CN>
 		<pt-BR>A sua doença passou e não houve qualquer retribuição dos deuses... Por enquanto. Amuletos e talismãs para a proteção do mal compõem o adorno {lowercase:link(TRAIT_SUPERSTITIOUS)} que envolve seu pescoço, e os sacerdotes fazem sacrifícios regularmente em seu nome.</pt-BR>
 		<ko>병은 나았고 치유의 신이... 아직은 당신을 응징하지 않았습니다. link(TRAIT_SUPERSTITIOUS) 부적들이 당신의 목을 둘러싼 흉조들을 무찔러 줄 것이며 사제들도 당신을 위해 정기적으로 제물을 공양합니다.</ko>
+		<fixja>病は癒え、癒しの神による報復もない──今は、まだ。link(TRAIT_SUPERSTITIOUS)護符やお守りが不吉なものを避けるためにあなたの首元を飾り、司祭は定期的にあなたの名のもとに生け贄を捧げている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_EYES_OF_GREEN_POET</zType>
@@ -1391,6 +1495,7 @@
 		<zh-CN>{0_character}的信件中接下来描述了那座绿色眼睛的雕塑。后面的文字逐渐从纪实性的记述变成了歌词。当{masculine_0:他:她}离开时，{masculine_0:他:她}成为了一位link(TRAIT_POET)。</zh-CN>
 		<pt-BR>As cartas de {0_character} continuam a chegar com as descrições {masculine_0:dele:dela} sobre a estátua de olhos verdes. Textos que eram informativos passam para poemas em seus escritos, e quando {masculine_0:ele:ela} termina sua tarefa, tem as habilidades de {masculine_0:um:uma} {lowercase:link(TRAIT_POET,{masculine_0:M:F})}.</pt-BR>
 		<ko>{0_character}(이)가 쓴 편지는 초록빛 눈이 달린 조각상에 대한 묘사로 이어졌습니다. 사실적인 문체는 점차 시적으로 바뀌었고 끝나 갈 즈음에는 link(TRAIT_POET)의 글이 되어 있었습니다.</ko>
+		<fixja>{0_character}からの手紙には、ひたすらに緑眼の像のことが描写されていた。事実を述べるだけであった手紙は、徐々に歌詞じみてきて、{masculine_0:彼:彼女}が発つ頃には、link(TRAIT_POET)の作のようであった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_EYES_OF_GREEN_ARTIST</zType>
@@ -1404,6 +1509,7 @@
 		<zh-CN>{0_character}为绿色眼睛的雕塑着了迷，于是{masculine_0:他:她}去本地工坊学习当地的雕刻技术。当{masculine_0:他:她}离开的时候，{0_character}已经成为一个link(TRAIT_ARTIST)并能够制作{masculine_0:他:她}自己的雕塑了。</zh-CN>
 		<pt-BR>A estátua de olhos verdes domina {0_character} completamente e {masculine_0:ele:ela} continua estudando nas oficinas locais e descobrindo os trabalhos dos artesãos locais. Quando {masculine_0:ele:ela} termina sua tarefa, tem as habilidades de {masculine_0:um:uma} {lowercase:link(TRAIT_ARTIST)}.</pt-BR>
 		<ko>초록빛 눈이 달린 조각상은 {0_character}(을)를 완전히 사로잡았습니다. {masculine_0:그:그녀}는 지역 공방에서 현지 공예품을 연구했습니다. {0_character}(이)가 떠날 즈음, {masculine_0:그:그녀}는 link(TRAIT_ARTIST)로서 직접 조각상을 제작하고 있었습니다.</ko>
+		<fixja>緑眼の像に完全に心を奪われた{0_character}は、地元の工房で研鑽を積み、その地方の工芸品を理解していった。{0_character}が工房を去る頃には、link(TRAIT_ARTIST)として自身の像を作れるほどであった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_EYES_OF_GREEN_SLOTHFUL</zType>
@@ -1417,6 +1523,7 @@
 		<zh-CN>{0_character}留在了绿色眼睛的雕塑身边，{masculine_0:他:她}却在当地浪费时间，与当地人进行link(TRAIT_SLOTHFUL)交谈，消磨时间。到最后不得不再次搬迁时，也走得不情不愿。</zh-CN>
 		<pt-BR>Embora {0_character} tenha ficado com a estátua de olhos verdes, {masculine_0:ele:ela} mata seu tempo no local, {masculine_0:envolvido:envolvida} na conversa {lowercase:link(TRAIT_SLOTHFUL,F)} dos moradores. Quando chega a hora de ir embora, {masculine_0:ele:ela} parte com relutância.</pt-BR>
 		<ko>{0_character}(이)가 초록빛 눈이 달린 조각상을 곁에 두긴 했지만 {masculine_0:그:그녀}는 현지인들과 link(TRAIT_SLOTHFUL) 대화로 시간을 허비했습니다. 떠날 때가 되자 {masculine_0:그:그녀}는 아주 번거로운 듯한 태도로 몸을 움직였습니다.</ko>
+		<fixja>{0_character}は緑眼の像のもとで過ごしたが、{masculine_0:彼:彼女}はその地方をぶらついては住民と何時間もlink(TRAIT_SLOTHFUL)な話をして過ごした。再び発つ時が来ても、{masculine_0:彼:彼女}の腰は重かった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_CRUEL</zType>
@@ -1430,6 +1537,7 @@
 		<zh-CN>{0_character}变得更加激进，他认为为了{masculine_0:他的:她的}宗教信仰，即使最link(TRAIT_CRUEL)暴力也有一个正当的说法。</zh-CN>
 		<pt-BR>{0_character} está ficando cada vez mais radical, e acredita que mesmo a violência mais {lowercase:link(TRAIT_CRUEL)} é justificável por sua religião.</pt-BR>
 		<ko>{0_character}의 태도는 더욱 급진적으로 변해 갔고 {masculine_0:그의:그녀의} 종교를 위해서라면 아주 link(TRAIT_CRUEL) 폭력조차 용납된다고 믿기에 이르렀습니다.</ko>
+		<fixja>{0_character}は急激に凶暴性を増し、最もlink(TRAIT_CRUEL) な暴力さえも{masculine_0:彼:彼女}の宗教のためなら正当化されると思うようになった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_FOOLISH</zType>
@@ -1443,6 +1551,7 @@
 		<zh-CN>教派的祭司利用{0_character}轻易相信人的link(TRAIT_FOOLISH)特点误导了{masculine_0:他:她}。</zh-CN>
 		<pt-BR>{0_character} foi facilmente {masculine_0:enganado:enganada} pelos sacerdotes sua seita, que estão explorando sua {lowercase:link(TRAIT_FOOLISH,F)} ingenuidade o máximo que podem.</pt-BR>
 		<ko>종파의 사제들은 순진하고 link(TRAIT_FOOLISH) {0_character}(을)를 최대한 이용하려 했으며 {masculine_0:그:그녀}는 쉽게 휘둘렸습니다.</ko>
+		<fixja>{0_character}は自身が属する学派の司祭に騙されており、司祭たちは{masculine_0:彼:彼女}のlink(TRAIT_FOOLISH)にとことんつけ込んでいる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_INTELLIGENT</zType>
@@ -1456,6 +1565,7 @@
 		<zh-CN>{0_character}没有毫无疑问地接受{masculine_0:他:她}教派的教义，而是学会了判断教派的教义并形成自己的信仰，通过这种批判性思维变得link(TRAIT_INTELLIGENT)。</zh-CN>
 		<pt-BR>Em vez de aceitar as doutrinas da seita sem questionamentos, {0_character} avalia os ensinamentos de sua seita e forma suas próprias crenças, se tornando assim {lowercase:link(TRAIT_INTELLIGENT)} com graças a este pensamento crítico.</pt-BR>
 		<ko>{0_character}(은)는 종파의 교리를 무조건적으로 받아들이지 않고, 스스로 가르침을 판단해 신념을 형성하는 법을 배웠습니다. 비판적 사고를 체득한 {masculine_0:그:그녀}는 link(TRAIT_INTELLIGENT) 인물이 되었습니다.</ko>
+		<fixja>{0_character}は宗教の教えを疑いもなく信じることはせず、自身で判断して独自の信念を持つことを学んだ。そのような批判的思考を通してlink(TRAIT_INTELLIGENT)になりつつある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_AFFABLE</zType>
@@ -1469,6 +1579,7 @@
 		<zh-CN>与赞美阿蒙神的人们共度了一段时间，你享受着这种联系，并很快获得了link(TRAIT_AFFABLE)和平易近人的评价。</zh-CN>
 		<pt-BR>Por passar seu tempo com o povo para louvar a Ámon, você se beneficia dessas conexões e logo ganha uma reputação por ser {lowercase:link(TRAIT_AFFABLE)} e ter uma conversa agradável.</pt-BR>
 		<ko>아문 숭배자들과 시간을 보내며 교제를 즐긴 당신은 곧 다가가기 쉽고 link(TRAIT_AFFABLE) 사람으로 소문이 났습니다.</ko>
+		<fixja>アムンを称える人々と過ごすうちに、あなたは彼らとの繋がりを楽しむようになり、程なくしてlink(TRAIT_AFFABLE) という評判を得た。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_PROSPEROUS</zType>
@@ -1482,6 +1593,7 @@
 		<zh-CN>看到人们在节日上交易，你有了一些关于改善国家市场和贸易的新想法。阿蒙神一定正照拂着你link(TRAIT_PROSPEROUS)统治。</zh-CN>
 		<pt-BR>Ver o povo comerciando no festival lhe dá novas ideias sobre como melhorar os mercados e o comércio na nação. Certamente que Ámon está zelando pelo seu governo {lowercase:link(TRAIT_PROSPEROUS)}.</pt-BR>
 		<ko>사람들이 축제에서 교역하는 것을 보자 국가의 시장과 무역을 활성화할 방법들이 당신의 머릿속에 번뜩 떠올랐습니다. 아문이 당신의 link(TRAIT_PROSPEROUS) 치세를 지켜보고 있습니다.</ko>
+		<fixja>祭りの場で商売をする人々を見ていると、ふと、国の市場や貿易のやり方を改善する方法をひらめいた。きっとアムンがあなたのlink(TRAIT_PROSPEROUS)規則を見守ってくれているのだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_DEBAUCHED</zType>
@@ -1495,6 +1607,7 @@
 		<zh-CN>节日接近尾声时，出于留恋，你继续在宫殿里举行庆祝活动，直到你link(TRAIT_DEBAUCHED)故事传遍整个王国。</zh-CN>
 		<pt-BR>Você lamenta o fim das festividades quando o festival chega ao fim. Então você continua as festividades no palácio, até que histórias sobre o caráter {lowercase:link(TRAIT_DEBAUCHED)} das suas festas se espalham por todo o reino.</pt-BR>
 		<ko>막을 내리는 축제를 보며 당신은 이 순간이 끝나지 않기를 바랐습니다. 결국 당신은 link(TRAIT_DEBAUCHED) 연회의 이야기가 왕국 전역에 퍼질 때까지 축제를 계속했습니다.</ko>
+		<fixja>祭りの終わりが近づくにつれて、あなたはいつまでも続いてほしいと願うようになった。そこで場所を宮殿に移し、続けさせることにした。その祭りはあなたがlink(TRAIT_DEBAUCHED)な生活をしているという噂が国中に広まるまで続いた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_PIOUS</zType>
@@ -1508,6 +1621,7 @@
 		<zh-CN>每当奉爱于阿蒙神之时，你总能体会这位神对你统治的重要性。展望未来之际，你发誓要保持link(TRAIT_PIOUS)，保持对众神的忠诚。</zh-CN>
 		<pt-BR>Passar seu tempo dedicando sua devoção a Ámon, lhe lembra da importância do deus para o seu governo. No futuro, você jura permanecer {lowercase:link(TRAIT_PIOUS,{masculine_0:M:F})} e fiel aos deuses.</pt-BR>
 		<ko>아문에게 헌신하며 보낸 시간을 통해 당신은 통치에서 신의 중요성을 깨달았습니다. 당신은 앞으로 나아가며 충직하고 link(TRAIT_PIOUS) 신의 신자가 되기로 맹세했습니다.</ko>
+		<fixja>アムンに仕える時間を増やすことで、あなたは統治における神の重要性を思い出す。そして今後もlink(TRAIT_PIOUS)であること、神々に忠実であることを誓う。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_GRACIOUS</zType>
@@ -1521,6 +1635,7 @@
 		<zh-CN>节日过后，你仍然持续着对阿蒙神的虔诚之举。不知不觉地，你开始每天反思生命的宝贵，并保持link(TRAIT_GRACIOUS)。</zh-CN>
 		<pt-BR>O ato de devoção a Ámon permanece em sua mente mesmo depois do festival, e você se vê pensando sobre como a vida é preciosa a cada dia e garantindo que você permaneça {lowercase:link(TRAIT_GRACIOUS,{masculine_0:M:F})}.</pt-BR>
 		<ko>축제가 끝나고 나서도 아문에 대한 헌신적 행위는 그치지 않았습니다. 당신은 삶의 소중함을 생각하며 link(TRAIT_GRACIOUS) 사람이 되기로 결심했습니다.</ko>
+		<fixja>アムンに献身的に使えたという事実は祭りが終わってもあなたの頭から離れず、日々、命の大切さを振り返り、link(TRAIT_GRACIOUS)することを心掛けるようになった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_INTOLERANT</zType>
@@ -1534,6 +1649,7 @@
 		<zh-CN>节庆结束，在你的心中，埃及的众神高于一切。那么对这些次等神灵的追随者link(TRAIT_INTOLERANT)也没有问题吧？</zh-CN>
 		<pt-BR>Quando o festival se encerra, fica claro para você que os deuses do Egito são superiores aos demais. É apenas uma conclusão natural que você seja {lowercase:link(TRAIT_INTOLERANT)} com os seguidores desses outros deuses inferiores?</pt-BR>
 		<ko>축제가 끝나자 이집트의 신들이 다른 모든 존재의 우위에 있다는 것이 명백해졌습니다. 한심한 신을 모시는 신자들을 link(TRAIT_INTOLERANT) 시선으로 바라보는 것도 당연한 일이겠죠?</ko>
+		<fixja>祭りが終わると、エジプトの神々の他の神々に対する優越が明らかになった。あのような劣った神々にlink(TRAIT_INTOLERANT)になるのは当然ではないだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_KING_FOR_A_DAY_BOLD</zType>
@@ -1547,6 +1663,7 @@
 		<zh-CN>拒绝了躲避众神，你也有了信心在力所能及的时候去link(TRAIT_BOLD)而果断地行动。</zh-CN>
 		<pt-BR>Recusar-se a se esconder dos deuses lhe enche de confiança para agir sempre que você pode e para ser {lowercase:link(TRAIT_BOLD,{masculine_0:M:F})} fazendo escolhas decisivas.</pt-BR>
 		<ko>신들에게서 도망치지 않은 당신의 마음에는 자신감이 가득 찼습니다. 당신은 결단력 있고 link(TRAIT_BOLD) 행동을 할 수 있게 되었습니다.</ko>
+		<fixja>神々から身を隠すことを拒否したことで、あなたは神々から隠れることを拒否したことで、あなたはできることは自信をもって実行し、link(TRAIT_BOLD)かつ断固として行動をとる自信を得た。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_KING_FOR_A_DAY_CURSED</zType>
@@ -1560,6 +1677,7 @@
 		<zh-CN>拒绝祭祀仪式后，不祥之兆的念头一直跟随着你。每一点坏运气的迹象都让你觉得你被link(TRAIT_CURSED)了，且众神正在惩罚你的狂妄自大。</zh-CN>
 		<pt-BR>Depois de recusar o ritual de substituição, os pensamentos sobre os maus augúrios não lhe deixam em paz. Cada sinal de má sorte fortalece a ideia de que você está {lowercase:link(TRAIT_CURSED,{masculine_0:M:F})} e de que os deuses estão lhe punindo por sua arrogância.</pt-BR>
 		<ko>대역의 의식을 거부한 후 불길한 징조가 머릿속에서 떠나지 않습니다. 흉조를 의식할 때마다 당신은 자신이 link(TRAIT_CURSED) 사람이며 신들에게 오만함을 심판받고 있다는 생각이 커집니다.</ko>
+		<fixja>身代わりの儀式を拒否した後も、悪い予感があなたに付きまとうだろう。不運な兆候があるたびに、あなたは自身がlink(TRAIT_CURSED)存在で、神があなたの傲慢さを罰しているのだという考えを強めていく。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_POET_IN_VOGUE_EXTRAVAGANT</zType>
@@ -1573,6 +1691,7 @@
 		<zh-CN>占星诗人提供的消遣太过有趣，以至于你继续花钱在宫廷举办奢华和link(TRAIT_EXTRAVAGANT)的娱乐活动。</zh-CN>
 		<pt-BR>O poeta astrólogo é uma diversão tão grande que você segue gastando seu dinheiro em formas de entretenimento {lowercase:link(TRAIT_EXTRAVAGANT)} para a corte.</pt-BR>
 		<ko>재미있는 점성술사 시인에게 푹 빠진 당신은 과도할 정도로 돈을 쓰며 궁정의 link(TRAIT_EXTRAVAGANT) 여흥을 멈추지 않습니다.</ko>
+		<fixja>占星術を歌う詩人はいい気晴らしになる。あなたは宮廷の娯楽のために大枚をはたいて贅沢をし、link(TRAIT_EXTRAVAGANT)をしている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_POET_IN_VOGUE_SUPERSTITIOUS</zType>
@@ -1586,6 +1705,7 @@
 		<zh-CN>在占星诗人为你占卜后，你经常想要向这样的占卜师询问你的未来。它可能是一种link(TRAIT_SUPERSTITIOUS)，但至少你的护身符可以保证你的安全。</zh-CN>
 		<pt-BR>Depois que o astrólogo poeta adivinha seu futuro, a tentação de perguntar sobre o seu futuro para videntes se torna um hábito. Pode ser algo {lowercase:link(TRAIT_SUPERSTITIOUS)}, mas pelo menos seus amuletos garantirão sua segurança.</pt-BR>
 		<ko>점성술사가 당신의 미래를 점친 후 당신에게는 점성술사에게 미래를 묻는 버릇이 생겼습니다. link(TRAIT_SUPERSTITIOUS) 행위일지는 몰라도, 이 부적들이 당신을 지켜 줄 테니 괜찮습니다.</ko>
+		<fixja>占星術を歌う詩人に未来を占ってもらったあなたは、これからも習慣として占ってもらいたいという誘惑に駆られた。link(TRAIT_SUPERSTITIOUS)かもしれないが、少なくともお守りがあなたの安全を守ってくれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_WAYWARD_CULT_INTERCEDED_FOR</zType>
@@ -1599,6 +1719,7 @@
 		<zh-CN>你的密探报告说，关于教派反动的消息是假的。事实上恰恰相反，该邪教的赞美让{0_character}link(RELATIONSHIP_INTERCEDED_FOR)。</zh-CN>
 		<pt-BR>Seus agentes informam que as informações sobre o culto ser antagonístico eram falsas. Na verdade, é o oposto, e os elogios do culto {lowercase:link[intercederam e atestaram](RELATIONSHIP_INTERCEDED_FOR)} por {0_character}.</pt-BR>
 		<ko>첩보원들의 정보에 따르면 교단이 적대적으로 변하고 있다는 소문은 틀렸다고 합니다. 사실 그 반대라고 하는 게 맞을 정도입니다. 교단의 찬사 덕분에 {0_character}(과)와 교단의 관계는 중재되었습니다. (당신에게 link(RELATIONSHIP_INTERCEDED_FOR))</ko>
+		<fixja>あなたの代理人の報告によると、カルトが反感を抱いているというのは偽りだった。実のところはまったくの逆で、いるという報告は誤りでした。実際は全く逆で、カルトはあなたのlink(RELATIONSHIP_INTERCEDED_FOR)を賞賛している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_WAYWARD_CULT_SUSPICIOUS_OF</zType>
@@ -1612,6 +1733,7 @@
 		<zh-CN>尽管没有迹象表明教派意图采取行动推翻你的统治，但{0_character}已经注意到你的密探并且现在link(RELATIONSHIP_SUSPICIOUS_OF)你的意图。</zh-CN>
 		<pt-BR>Embora ainda não hajam sinais de movimentações do culto contra o seu governo, {0_character} percebeu a presença dos seu agentes e agora está {lowercase:link[desconfiando](RELATIONSHIP_SUSPICIOUS_OF)} de suas intenções.</pt-BR>
 		<ko>교단이 당신의 통치에 반기를 드는 동향은 없지만 {0_character}(은)는 첩보원의 존재를 알아챘고 당신의 의도를 의심하기 시작했습니다. (당신에게 link(RELATIONSHIP_SUSPICIOUS_OF))</ko>
+		<fixja>そのカルトがあなたの支配に対して反旗をひるがえす兆候はなさそうだが、{0_character}はあなたの代理人に気付いており、あなたの意図にlink(RELATIONSHIP_SUSPICIOUS_OF)になっている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_WAYWARD_CULT_PLOTTING_AGAINST</zType>
@@ -1625,6 +1747,7 @@
 		<zh-CN>可悲的是，这些报导是真实的。{0_character}和教派其他成员正在积极link(RELATIONSHIP_PLOTTING_AGAINST)你。现在该谨慎了。</zh-CN>
 		<pt-BR>Infelizmente, os informes estavam corretos. {0_character} e outros membros do culto estão {lowercase:link(RELATIONSHIP_PLOTTING_AGAINST)} você. É bom agir com cautela.</pt-BR>
 		<ko>슬프게도 보고는 사실이었습니다. {0_character}(과)와 다른 교단 회원들은 당신을 대상으로 활발히 음모를 꾸미고 있었습니다. 조심하십시오. (당신에게 link(RELATIONSHIP_PLOTTING_AGAINST))</ko>
+		<fixja>残念なことに、その報告は真実だった。{0_character}と他の信者たちは今や積極的にあなたに対してlink(RELATIONSHIP_PLOTTING_AGAINST)ようとしている。決して油断してはならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_ENDEARED_TO</zType>
@@ -1638,6 +1761,7 @@
 		<zh-CN>你顺利地吸引了{0_character}，这位宗教领袖很快就link(RELATIONSHIP_ENDEARED_TO)你。看来你们两个的共同点不仅只是你们的宗教信仰。</zh-CN>
 		<pt-BR>Suas tentativas de agradar {0_character} vão bem e {masculine_0:o líder religioso:a líder religiosa} logo {lowercase:link[se encanta](RELATIONSHIP_ENDEARED_TO)} por você. Parece que vocês têm mais em comum do que sua religião.</pt-BR>
 		<ko>{0_character} 매혹 계획이 잘 풀렸으며 당신은 금세 종교 수장의 호감을 살 수 있었습니다. 당신과 수장 사이에는 종교 외에도 공통점이 있는 듯합니다. (당신에게 link(RELATIONSHIP_ENDEARED_TO))</ko>
+		<fixja>{0_character}を魅了するという試みはうまくいき、宗教の指導者である{0_character}はあなたを慕っていると言ってもいいほどだ。どうやらあなたと{0_character}の間には宗教以外の共通点もありそうだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_INFLUENCED_BY</zType>
@@ -1651,6 +1775,7 @@
 		<zh-CN>尽管你们的生活方式不同，但{character_0}对你们的意见很感兴趣，甚至受到你某些想法link(RELATIONSHIP_INFLUENCED_BY)。这是迈向友谊的良好开端。</zh-CN>
 		<pt-BR>Apesar de terem visões diferentes sobre a vida, {0_character} se importa com o que você pensa e até sua opinião está {lowercase:link(RELATIONSHIP_INFLUENCED_BY,F)} por suas ideias. Este é o primeiro passo para dar início a uma amizade.</pt-BR>
 		<ko>삶에 대한 관점은 달랐지만 {0_character}(은)는 당신의 의견에 흥미를 보였고 심지어 당신이 제시한 일부 의견 영향을 받기도 했습니다. 친교를 향한 좋은 첫걸음이 되었습니다. (당신에게 link(RELATIONSHIP_INFLUENCED_BY))</ko>
+		<fixja>人生の捉え方は違えど、{character_0}はあなたの意見に興味を持ち、それどころかあなたの考えに link(RELATIONSHIP_INFLUENCED_BY)ようですらある。友情を築く最初の一歩を踏み出したようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_SUSPICIOUS_OF</zType>
@@ -1664,6 +1789,7 @@
 		<zh-CN>从一开始，{0_character}就link(RELATIONSHIP_SUSPICIOUS_OF)你的意图，认为你所做的努力只是为了获得某种帮助。</zh-CN>
 		<pt-BR>Desde o início, {0_character} está {lowercase:link[desconfiando](RELATIONSHIP_SUSPICIOUS_OF)} das suas intenções, e tem certeza de que você só está fazendo um esforço para pedir algum tipo de favor.</pt-BR>
 		<ko>{0_character}(은)는 애초부터 당신의 의도를 의심했습니다. 그는 당신이 어떤 대가를 받으려 애쓰고 있다고 확신합니다. (당신에게 link(RELATIONSHIP_SUSPICIOUS_OF))</ko>
+		<fixja>最初から{0_character}はあなたの意図にlink(RELATIONSHIP_SUSPICIOUS_OF)で、あなたが何らかの依頼をするために接近を試みていると考えているようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_ESTRANGED_FROM</zType>
@@ -1677,6 +1803,7 @@
 		<zh-CN>你和{0_character}之间的分歧太大了。你尽了最大的努力，但谈话总是很快就会变成争论，直到你们两个彼此link(RELATIONSHIP_ESTRANGED_FROM)。</zh-CN>
 		<pt-BR>A cisão entre você e {0_character} foi grande demais. Mesmo com seus melhores esforços, as conversas logo se transformam em discussões até que vocês estejam {lowercase:link[afastados](RELATIONSHIP_ESTRANGED_FROM)}.</pt-BR>
 		<ko>당신과 {0_character}의 차이는 도저히 좁힐 수 없습니다. 최선을 다했지만 대화는 곧 논쟁으로 이어졌고, 두 사람은 서로 소원해지고 말았습니다. (당신에게 link(RELATIONSHIP_ESTRANGED_FROM))</ko>
+		<fixja>あなたと{0_character}を分かつ溝は広すぎる。あなたが懸命に努力したにもかかわらず、話し合いは2人がlink(RELATIONSHIP_ESTRANGED_FROM)する間もなく、すぐに口論へと発展してしまった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_PERSECUTED_FAITH_PLOTTING_AGAINST</zType>
@@ -1690,6 +1817,7 @@
 		<zh-CN>宫廷内流言四起，{0_character}在{masculine_0:他:她}宗教的迫害下正试图联合其他不满的人，企图link(RELATIONSHIP_PLOTTING_AGAINST)你。</zh-CN>
 		<pt-BR>Rumores na corte sugerem que, {masculine_0:incitado:incitada} pela perseguição de sua religião, {0_character} está buscando a cooperação de outros dissidentes e {lowercase:link(RELATIONSHIP_PLOTTING_AGAINST)} você.</pt-BR>
 		<ko>궁정에서 비밀스럽게 오간 이야기에 따르면 {0_character}(이)가 종교 박해로 인해 다른 반동분자의 도움을 구하고 있으며 당신을 상대로 음모를 계획한다고 합니다. (당신에게 link(RELATIONSHIP_PLOTTING_AGAINST))</ko>
+		<fixja>宮廷内では、{0_character}の宗教に対する迫害に拍車がかかったと噂されている。{masculine_0:彼:彼女}は他の不満分子の力添えを求め、あなたに対してlink(RELATIONSHIP_PLOTTING_AGAINST)になっている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_PERSECUTED_FAITH_TERRIFIED_OF</zType>
@@ -1703,6 +1831,7 @@
 		<zh-CN>{0_character}十分link(RELATIONSHIP_TERRIFIED_OF)你，担心{masculine_0:他:她}会被卷入迫害。</zh-CN>
 		<pt-BR>Por temer que qualquer passo fora da linha faça com que {masculine_0:ele:ela} acabe na lista de perseguições, {0_character} está {lowercase:link[morrendo de medo](RELATIONSHIP_TERRIFIED_OF)} de você.</pt-BR>
 		<ko>선을 넘으면 자신도 박해의 대상이 될까 두려웠던 {0_character}(은)는 당신에게 공포심을 느낍니다. (당신에게 link(RELATIONSHIP_TERRIFIED_OF))</ko>
+		<fixja>一線を超えることで迫害に巻き込まれることを恐れ、{0_character}はあなたにlink(RELATIONSHIP_TERRIFIED_OF)を抱いている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_TALES_OF_LEADERS_PAST_OPTION_0_CHARACTER_2</zType>
@@ -1716,5 +1845,6 @@
 		<zh-CN>纵容诽谤的诗文</zh-CN>
 		<pt-BR>Permitiu um poema calunioso</pt-BR>
 		<ko>비방적인 시를 허용했다</ko>
+		<fixja>中傷的な詩の許可</fixja>
 	</Entry>
 </Root>

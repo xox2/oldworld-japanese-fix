@@ -26,6 +26,7 @@
 		<zh-CN>焦虑已解除</zh-CN>
 		<pt-BR>Estresse eliminado</pt-BR>
 		<ko>스트레스 해소</ko>
+		<fixja>ストレスを除去した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_SUCCESSS_DESCRIPTION</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>{CHARACTER-TARGET}不再有压力，以更加乐观的态度生活。</zh-CN>
 		<pt-BR>{CHARACTER-TARGET} está com uma atitude muito mais animada e já não está sofrendo com estresse.</pt-BR>
 		<ko>{CHARACTER-TARGET}의 태도가 긍정적으로 변했으며 더는 압박감을 느끼지 않습니다.</ko>
+		<fixja>{CHARACTER-TARGET}は、ストレスから解き放たれ、とても前向きな気持ちになったようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_WANTON</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>肆意狂欢</zh-CN>
 		<pt-BR>Relaxamento lascivo</pt-BR>
 		<ko>음탕한 환락 탐닉</ko>
+		<fixja>淫らな宴</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_WANTON_DESCRIPTION</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>{CHARACTER-TARGET}逐渐沉溺于link(TRAIT_WANTON)的生活方式，尽管转移注意力确实使{masculine_CHARACTER-TARGET:他:她}没那么焦虑了。</zh-CN>
 		<pt-BR>{CHARACTER-TARGET} passou a ter um estilo de vida link(TRAIT_WANTON), mas a distração {masculine_CHARACTER-TARGET:o:a} deixou com menos estresse.</pt-BR>
 		<ko>{CHARACTER-TARGET}(이)가 link(TRAIT_WANTON) 생활 방식에 빠져들었지만, 주의를 돌려 {masculine_CHARACTER-TARGET:그:그녀}가 압박감을 덜 느낍니다.</ko>
+		<fixja>{CHARACTER-TARGET}はlink(TRAIT_WANTON)な生活に耽るようになったが、気が晴れたのか、ストレスから解放されたようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_DRUNK</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>酗酒狂欢</zh-CN>
 		<pt-BR>Relaxamento bêbado</pt-BR>
 		<ko>음주 환락 탐닉</ko>
+		<fixja>酒宴</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_DRUNK_DESCRIPTION</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>{CHARACTER-TARGET}内心的阴霾从焦虑变成了酒精，现在link(TRAIT_DRUNK)了。</zh-CN>
 		<pt-BR>{CHARACTER-TARGET} trocou a desorientação da ansiedade pela do álcool e agora está sempre {masculine_CHARACTER-TARGET:link(TRAIT_DRUNK):link(TRAIT_DRUNK,F)}.</pt-BR>
 		<ko>{CHARACTER-TARGET}(이)가 긴장감을 풀기 위해 술을 마셨고, 지금은 link(TRAIT_DRUNK) 상태입니다.</ko>
+		<fixja>{CHARACTER-TARGET}は不安に満ちた心を酒で浸し、今やlink(TRAIT_DRUNK)に陥っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_EVENT</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>狂欢无度</zh-CN>
 		<pt-BR>Evento de relaxamento</pt-BR>
 		<ko>환락 탐닉 사건</ko>
+		<fixja>宴イベント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_FAILURE_DESCRIPTION</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>{CHARACTER-TARGET}在肆无忌惮的狂欢中变得漫无纪律。</zh-CN>
 		<pt-BR>{CHARACTER-TARGET} perdeu a disciplina devido a suas noitadas.</pt-BR>
 		<ko>밤마다 마음껏 환락을 탐닉한 {CHARACTER-TARGET}(이)가 자제력을 잃었습니다.</ko>
+		<fixja>{CHARACTER-TARGET}は毎晩、乱れた酒宴に入り浸り、自制心を失ってしまった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_WIN</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>赌博回报</zh-CN>
 		<pt-BR>A aposta valeu a pena</pt-BR>
 		<ko>도박 상금</ko>
+		<fixja>大勝ち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_WIN_DESCRIPTION</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>赌博为你带来了巨大的回报！</zh-CN>
 		<pt-BR>A sua aposta resultou em um grande prêmio!</pt-BR>
 		<ko>당신의 도박으로 엄청난 상금을 받았습니다!</ko>
+		<fixja>あなたは賭けに勝ち、大金を獲得した！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_LOSE</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>赌博损失</zh-CN>
 		<pt-BR>Perdas da aposta</pt-BR>
 		<ko>도박 손실</ko>
+		<fixja>負け</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_LOSE_HELP</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>本钱输光</zh-CN>
 		<pt-BR>Valor original perdido</pt-BR>
 		<ko>가지고 있던 돈을 잃음</ko>
+		<fixja>元手の消失</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_LOSE_DESCRIPTION</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>你的赌资证明了他人的手气。</zh-CN>
 		<pt-BR>O valor que você investiu na aposta foi os ganhos de outra pessoa.</pt-BR>
 		<ko>당신이 도박에 건 돈이 다른 사람의 상금이 되었습니다.</ko>
+		<fixja>賭けに出たところ、あなたは大負けしてしまった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_EVENT</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>赌博活动</zh-CN>
 		<pt-BR>Evento de apostar</pt-BR>
 		<ko>도박 사건</ko>
+		<fixja>賭博イベント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_GAMBLE_EVENT_DESCRIPTION</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>你的赌博导致了一个事件……</zh-CN>
 		<pt-BR>Sua aposta desencadeou um evento...</pt-BR>
 		<ko>도박으로 인해 사건이 발생했습니다...</ko>
+		<fixja>賭博をしていたことで、あるイベントが発生した…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REVEL_EVENT_DESCRIPTION</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>你的狂欢导致了一个事件……</zh-CN>
 		<pt-BR>Seu relaxamento desencadeou um evento...</pt-BR>
 		<ko>환락 탐닉으로 인해 사건이 발생했습니다...</ko>
+		<fixja>宴を開いていたことで、あるイベントが発生した…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SEEK_POLITICAL_ALLIES_SUCCESS_DESCRIPTION</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>新的政治盟友提高了你的受欢迎度</zh-CN>
 		<pt-BR>Novos aliados políticos melhoraram sua popularidade</pt-BR>
 		<ko>새로운 정치적 동맹으로 당신의 인기가 높아졌습니다</ko>
+		<fixja>新たな政治的盟友が、あなたの人気を高めている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SEEK_POLITICAL_ALLIES_SUCCESS</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>新的政治盟友提高你的受欢迎度</zh-CN>
 		<pt-BR>Novos aliados políticos melhoram sua popularidade</pt-BR>
 		<ko>새로운 정치적 동맹을 맺으면 인기가 높아집니다</ko>
+		<fixja>新たな政治的盟友が、あなたの人気を高める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SEEK_POLITICAL_ALLIES_FAIL</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>玩弄政治</zh-CN>
 		<pt-BR>Fazer política</pt-BR>
 		<ko>권모술수를 부리다</ko>
+		<fixja>政治行動</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SEEK_POLITICAL_ALLIES_FAIL_DESCRIPTION</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>你在贵族中仍然link(TRAIT_UNPOPULAR)</zh-CN>
 		<pt-BR>Você ainda é link(TRAIT_UNPOPULAR) com as famílias nobres</pt-BR>
 		<ko>귀족 가문에 여전히 link(TRAIT_UNPOPULAR) 상태입니다</ko>
+		<fixja>あなたは貴族たちから、相変わらずlink(TRAIT_UNPOPULAR)なようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SEEK_POLITICAL_ALLIES_EVENT</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>寻找政治盟友事件</zh-CN>
 		<pt-BR>Evento por buscar aliados políticos</pt-BR>
 		<ko>정치적 동맹 탐색 사건</ko>
+		<fixja>政治的盟友の探求イベント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SEEK_POLITICAL_ALLIES_EVENT_DESCRIPTION</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>你寻找政治盟友导致了一个事件……</zh-CN>
 		<pt-BR>Sua busca por aliados políticos desencadeou um evento...</pt-BR>
 		<ko>정치적 동맹을 찾다가 사건이 발생했습니다...</ko>
+		<fixja>政治的盟友を探し求めた結果、あるイベントが起きた…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_KILLED_BY_SCHEME</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>密谋导致潜在对手灭亡</zh-CN>
 		<pt-BR>Tramar leva à potencial destruição de um rival</pt-BR>
 		<ko>음모가 잠재적 정적의 죽음으로 이어졌습니다</ko>
+		<fixja>潜在的ライバルの破滅を招く陰謀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_KILLED_BY_SCHEME_DESCRIPTION</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>密谋导致潜在对手灭亡</zh-CN>
 		<pt-BR>Tramar leva à potencial destruição de um rival</pt-BR>
 		<ko>음모가 잠재적 정적의 죽음으로 이어졌습니다</ko>
+		<fixja>潜在的ライバルの破滅を招く陰謀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PUSHED_TO_EXILE</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>密谋导致潜在对手遭到放逐</zh-CN>
 		<pt-BR>Tramar leva ao potencial exílio de um rival</pt-BR>
 		<ko>음모가 잠재적 정적의 추방으로 이어졌습니다</ko>
+		<fixja>潜在的ライバルの追放を画策</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PUSHED_TO_EXILE_DESCRIPTION</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>密谋导致潜在对手遭到放逐</zh-CN>
 		<pt-BR>Tramar leva ao potencial exílio de um rival</pt-BR>
 		<ko>음모가 잠재적 정적의 추방으로 이어졌습니다</ko>
+		<fixja>潜在的ライバルの追放を画策</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SCHEME_AGAINST_RIVAL_EVENT</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>计划未遂事件</zh-CN>
 		<pt-BR>Evento por trama arruinada</pt-BR>
 		<ko>계략 실패 사건</ko>
+		<fixja>イベント：陰謀が失敗に終わった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SCHEME_AGAINST_RIVAL_EVENT_DESCRIPTION</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>你为除掉对手制定的计划导致了一个事件……</zh-CN>
 		<pt-BR>Sua trama contra um rival desencadeou um evento...</pt-BR>
 		<ko>정적에 대해 세운 계략으로 인해 사건이 발생했습니다...</ko>
+		<fixja>ライバルに対する陰謀が、あるイベントを引き起こした…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TAUNT_HUMAN_EVENT</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>他们可以选择咽下这份侮辱或者发起link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Eles podem escolher a vergonha ou uma link(DIPLOMACY_WAR)</pt-BR>
 		<ko>그들은 치욕 혹은 link(DIPLOMACY_WAR)을 선택할 수 있습니다</ko>
+		<fixja>彼らは恥辱かlink(DIPLOMACY_WAR)か、どちらかを選ぶだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TAUNT_HUMAN_EVENT_DESCRIPTION</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>我们那软弱的对手需要摆清自己的位置</zh-CN>
 		<pt-BR>Nossos medíocres oponentes saberão do lugar deles.</pt-BR>
 		<ko>우리의 미약한 적은 주제를 알아야 합니다.</ko>
+		<fixja>力の及ばぬ、ひ弱な敵は己の立場をわきまえなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_MISSIONRESULT_TAUNT_HUMAN_EVENT</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>{PLAYER-MISSION}善意地提醒你“认清自己的位置，浑球。”</zh-CN>
 		<pt-BR>{PLAYER-MISSION} gentilmente informa que você deve "ficar com sua laia miserável".</pt-BR>
 		<ko>{PLAYER-MISSION}(이)가 당신에게 주제를 알라고 다정하게 말합니다.</ko>
+		<fixja>{PLAYER-MISSION}：「己の立場をわきまえろ、卑しき者め。」と丁寧に告げる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_WEDDING_PLANNED</zType>
@@ -429,5 +460,6 @@
 		<zh-CN>结婚事件</zh-CN>
 		<pt-BR>Evento por casamento</pt-BR>
 		<ko>결혼 사건</ko>
+		<fixja>結婚イベント</fixja>
 	</Entry>
 </Root>

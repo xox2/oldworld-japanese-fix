@@ -25,6 +25,7 @@
 		<zh-CN>奇观与王朝</zh-CN>
 		<pt-BR>Wonders and Dynasties</pt-BR>
 		<ko>불가사의와 왕조들</ko>
+		<fixja>驚異と王朝</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNIBAL_DESCRIPTION</zType>
@@ -38,6 +39,7 @@
 		<zh-CN>汉尼拔是一位link(CONCEPT_GENERAL,1)，可让他的单位在每个回合内采取两次行动，例如攻击两次，或者同一回合可分别进行治疗和攻击。年仅 26 岁的汉尼拔还有几十年的时间，足够带领迦太基走向辉煌。</zh-CN>
 		<pt-BR>Uma unidade que tenha Aníbal como seu link(CONCEPT_GENERAL) será capaz de realizar duas ações por turno, como por exemplo atacar duas vezes ou se curar e atacar. Com apenas 26 anos de idade, é possível que Aníbal tenha várias décadas à sua frente para levar Cartago à glória.</pt-BR>
 		<ko>한니발이 link(CONCEPT_GENERAL,1)일 때, 유닛은 턴 당 두 번의 행동을 취할 수 있습니다. 예를 들면 공격을 두 번 하거나 치유 후에 공격할 수 있습니다. 겨우 스물여섯의 나이인 한니발은 몇십 년에 걸쳐 카르타고를 영광으로 이끌 것입니다.</ko>
+		<fixja>ハンニバルをlink(CONCEPT_GENERAL,1)に任命するとそのユニットは1ターンに2回行動できる。例えば2回攻撃をしたり、回復と攻撃を続けて行える。26歳という若さにして、ハンニバルは今後数十年にわたってカルタゴを栄光へと導く英雄となり得る。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNIBAL_STORY</zType>
@@ -111,6 +113,13 @@ As batalhas que eu lutarei serão lembradas por séculos. Meu nome será o símb
       로마가 카르타고의 영원한 적이 될 것을 예감한 아버지는 언젠가 반드시 일어날 전쟁에서 로마인을 무찌르기 위한 전략을 논의하며 많은 저녁을 보내셨다. 이제 그날이 가까워지고 있다. 아버지는 전쟁에서 목숨을 잃으셨고, 지금은 내가 카르타고의 군대를 지휘한다. 나에게는 로마를 무찌를 전략이 있고, 로마가 예상하지 못한 곳에서 한 번도 못 봤던 전술을 사용할 것이다.
 		
       내가 참여하게 될 전투는 몇 세기에 걸쳐 기억될 것이다. 군인이 된다는 것이 어떤 의미인지 본보기를 세울 나의 이름은 위대한 전략의 상징이 될 것이다.</ko>
+		<fixja>      私はハンニバル、ハミルカルの長男だ。私は父から学んだ。彼の跡を継ぎ、彼を追い越した。
+		
+      父がシチリアでローマと戦ったとき、私はまだ幼かった。その後、彼は私に戦いの訓練を施し、戦術と戦略、そして政治を教えてくれた。9歳の時、父のイベリア遠征に同行した。
+		
+      ローマがカルタゴにとって永遠の敵であることを悟った父は、いつか必ず訪れる戦いで打ち勝つ戦略を練るため、夜な夜な議論を交わしていた。今、その日が近づいている。父は戦死し、今、私がカルタゴの軍隊を指揮している。私は打倒ローマを果たす戦略を有している。彼らの予期せぬ場所を襲撃し、未だかつてない空間的な戦略を駆使するのだ。
+		
+      私が戦う戦いは、何世紀にもわたって語り継がれることだろう。私は兵であることの規範を示した。この名は、偉大なる戦略家の象徴として知られるようになるであろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNO_II</zType>
@@ -124,6 +133,7 @@ As batalhas que eu lutarei serão lembradas por séculos. Meu nome será o símb
 		<zh-CN>汉诺二世</zh-CN>
 		<pt-BR>Hanão II</pt-BR>
 		<ko>한노 2세</ko>
+		<fixja>ハンノ2世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNO_II_DESCRIPTION</zType>
@@ -137,6 +147,7 @@ As batalhas que eu lutarei serão lembradas por séculos. Meu nome será o símb
 		<zh-CN>汉诺二世能够以领袖的身份颁布link(MISSION_LAND_GRANTS_HANNO_II)，敦促家族发表意见。才华横溢的汉尼拔是汉诺的侍从，尽管两人有很大的分歧。汉诺强烈主张统治弱小的部落，还要和迦太基遇到的第一个部落开战。</zh-CN>
 		<pt-BR>Como líder, Hanão II pode decretar uma link(MISSION_LAND_GRANTS_HANNO_II) para melhorar a opinião das famílias. O talentoso Aníbal é parte da corte de Hanão, embora hajam consideráveis desentendimentos entre os dois. Hanão promove a dominação de tribos mais fracas e entrará em guerra com a primeira tribo que fizer contato com Cartago.</pt-BR>
 		<ko>한노 2세는 지도자로서 link(MISSION_LAND_GRANTS_HANNO_II)를 통해 가문의 태도를 개선할 수 있습니다. 재능 있는 한니발은 한노의 궁정에 있지만, 두 사람은 의견 차이가 상당합니다. 한노는 약한 부족을 지배하는 것을 강력히 찬성하며 카르타고가 마주치는 첫 부족과 전쟁을 치르고자 합니다.</ko>
+		<fixja>指導者ハンノ2世はlink(MISSION_LAND_GRANTS_HANNO_II)を実行して氏族からの評価を高めることができる。才能豊かなハンニバルはハンノの宮廷にいるが、2人の間には大きな意見の相違がある。ハンノは弱い諸部族の支配を強く主張し、カルタゴが最初に遭遇した部族との戦いを望んでいる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNO_II_STORY</zType>
@@ -190,6 +201,11 @@ O falecido Amílcar Barca estava focado demais nos militares e em lutar uma guer
       나는 정복에 나섰고 군대를 이끌었지만, 최고의 권력은 돈이고, 돈으로 살 수 있는 권력만 한 것이 없다. 돈으로는 땅을 살 수 있고, 용병을 살 수 있고, 정치 동맹을 살 수 있다. 보라색 겉옷도 대량으로 살 수 있다.
 		
       고인이 된 하밀카르 바르카는 군대에 너무 집중했고, 로마를 상대로 값비싼 전투를 치렀다. 이제 그는 죽었고, 나는 한니발이 계획한 전쟁 때문에 카르타고가 파산하는 일이 없도록 할 것이다. 대신 역사상 제일 위대하고 부유한 제국을 건설하여 세상의 부러움을 살 것이다.</ko>
+		<fixja>      我はハンノ、大ハンノとも呼ばれている。富と広大な土地こそ、我が偉大さの証である。カルタゴは西の海岸沿いに拡がって、イベリアにまで及んでおり、その全域において土地を所有している。
+		
+      私は今まで軍を率いて、いくつも征服に乗り出してきたが、金の力──特に金で買える力に勝るものはないと考えている。土地を買うことも、傭兵を買うことも、政治的な同盟者を買うこともできるだろう。紫のローブも大量にある。
+		
+      晩年のハンニバル・バルカは、軍事と費用のかさむローマとの戦争に注力しすぎていた。彼はもうこの世にいない。私は彼の練った戦争計画により、カルタゴが破綻に追い込まれないようにするだろう。そして代わりに、世界中で羨望の的となるような、歴史上最も偉大で最も豊かな帝国を築き上げるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NAVAL_DETRACOR</zType>
@@ -203,6 +219,7 @@ O falecido Amílcar Barca estava focado demais nos militares e em lutar uma guer
 		<zh-CN>海军反对者</zh-CN>
 		<pt-BR>Detrator Naval</pt-BR>
 		<ko>해군의 반대자</ko>
+		<fixja>海軍の批判者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NAVAL_DETRACTOR</zType>
@@ -216,6 +233,7 @@ O falecido Amílcar Barca estava focado demais nos militares e em lutar uma guer
 		<zh-CN>海军反对者</zh-CN>
 		<pt-BR>Detrator Naval</pt-BR>
 		<ko>해군의 반대자</ko>
+		<fixja>海軍の批判者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNO_NAVIGATOR</zType>
@@ -229,6 +247,7 @@ O falecido Amílcar Barca estava focado demais nos militares e em lutar uma guer
 		<zh-CN>航海家汉诺</zh-CN>
 		<pt-BR>Hanão, o Navegador</pt-BR>
 		<ko>항해자 한노</ko>
+		<fixja>航海者ハンノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNO_NAVIGATOR_DESCRIPTION</zType>
@@ -242,6 +261,7 @@ O falecido Amílcar Barca estava focado demais nos militares e em lutar uma guer
 		<zh-CN>航海家汉诺能够以领袖的身份在统治早期获得一个独特的link(UNIT_SCOUT_HANNO_NAVIGATOR)，还可以向一个部落提出link(CONCEPT_ALLIANCE_TRIBE,1)。航海家汉诺缺乏早期君主的政治权力，与家族的关系也较弱。</zh-CN>
 		<pt-BR>Como líder, Hanão, o Navegador tem acesso a um link(UNIT_SCOUT_HANNO_NAVIGATOR) único durante seu governo e será capaz de oferecer link(CONCEPT_ALLIANCE_TRIBE,1) a uma tribo. Hanão, o Navegador não tem o mesmo alcance político de monarcas que o antecederam e tem uma relação mais fraca com as famílias.</pt-BR>
 		<ko>항해자 한노는 지도자로서 통치 초반에 독특한 link(UNIT_SCOUT_HANNO_NAVIGATOR)를 사용할 수 있으며, 하나의 부족에 link(CONCEPT_ALLIANCE_TRIBE,1)을 제안할 수 있습니다. 항해자 한노는 이전 군주들과 비교하면 정치력이 부족하고 가문들과의 관계가 약합니다.</ko>
+		<fixja>指導者ハンノは統治初期に固有ユニットのlink(UNIT_SCOUT_HANNO_NAVIGATOR)を使うことができ、1つの部族に対してlink(CONCEPT_ALLIANCE_TRIBE,1)を提供できるようになる。しかし彼はかつての王たちに比べると政治的権力に欠け、家族との関係も薄い。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANNO_NAVIGATOR_STORY</zType>
@@ -295,6 +315,11 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
       나는 늘 세상과 그 너머를 탐험하고 싶었다. 우리는 아직 리비아 사막 너머에 있는 동쪽 제국의 소식을 듣는다. 우리는 해안을 따라 서쪽으로 멀리 여행했지만, 세상의 모든 것을 보지는 못했다. 나의 영향력 덕분에 예순 척의 함대를 조직하여 세상을 탐험하고 카르타고의 힘을 알리고자 했다.
 		
       나는 위대한 원정을 통해 멜카르트의 기둥을 지났고, 릭소스강 너머에 있는 사람들을 만났다. 나는 도시와 식민지를 설립했고, 함대를 계속 이끌었다. 나는 넓은 바다, 영원한 화재에 휩싸인 땅, 이상한 사람들이 사는 섬을 보았다. 선원들은 내가 고릴라라고 부르는 공격적인 털북숭이 야만인들과 마주쳤다. 카르타고는 나의 인도로 세상의 모든 땅을 발견할 것이다.</ko>
+		<fixja>      私の名はハンノ。故郷カルタゴには、同じ名を持つ者たちが数多くいる。マゴニドの家系にあるため、かなりの影響力を持つ役職に就いている。だが、政治や戦争には興味が無い。
+		
+      私はいつも既知の世界、そしてさらにその向こう側を探りたいと思っていた。リビア砂漠向こうの東方から、帝国の知らせが届く。西方の海岸線に沿って遠くまで旅を続けてきたが、まだ見るべきものを全て見尽くしてはいない。私の持つ影響力のおかげで、世界を探検し、カルタゴの力を広めるために60隻の船団を編成することができた。
+		
+      その壮大なる探検の中で、私はメルカルトの柱を越え、リクソス川の向こう側に住む者たちと遭遇した。都市と植民地を築き、船を進めた。私は広大な海や、絶えず燃え盛る炎に覆われた土地、そして奇異な者たちが住む島々を目にした。クルーたちは、私がゴリラと呼んでいる、攻撃的で毛むくじゃらの野蛮人たちにも出くわした。私の導きの下、カルタゴはあらゆる土地を見つけ出すことだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HANNIBAL_LEADER</zType>
@@ -308,6 +333,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>巴尔的眷顾</zh-CN>
 		<pt-BR>Graça de Ba'al</pt-BR>
 		<ko>바알의 은총</ko>
+		<fixja>バアル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HANNIBAL_LEADER</zType>
@@ -321,6 +347,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>巴尔的眷顾</zh-CN>
 		<pt-BR>Graça de Ba'al</pt-BR>
 		<ko>바알의 은총</ko>
+		<fixja>バアル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HANNO_II_LEADER</zType>
@@ -334,6 +361,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>富有的政治家</zh-CN>
 		<pt-BR>Estadista Rico</pt-BR>
 		<ko>부유한 정치인</ko>
+		<fixja>裕福な政治家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HANNO_NAVIGATOR_LEADER</zType>
@@ -347,6 +375,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>无畏的探险家</zh-CN>
 		<pt-BR>Explorador Intrépido</pt-BR>
 		<ko>용감무쌍한 탐험가</ko>
+		<fixja>勇敢な探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SCOUT_HANNO_NAVIGATOR</zType>
@@ -360,6 +389,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>探险家~探险家~探险家</zh-CN>
 		<pt-BR>Explorador~um Explorador~Exploradores~Unidade de Exploradores</pt-BR>
 		<ko>탐험가~탐험가~탐험가들</ko>
+		<fixja>探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_LAND_GRANTS</zType>
@@ -373,6 +403,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>向我们赠予的土地</zh-CN>
 		<pt-BR>Decretou uma concessão de terras para nós</pt-BR>
 		<ko>우리에게 토지를 하사했음</ko>
+		<fixja>我らに土地の無償供与を行った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_ROME_GIFT_FROM_HANNIBAL</zType>
@@ -386,6 +417,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>像朋友一样问候我们</zh-CN>
 		<pt-BR>Saudou-nos como amigos</pt-BR>
 		<ko>우리를 친구로 맞았음</ko>
+		<fixja>友人として迎えてくれた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_REFUSED_HELP</zType>
@@ -399,6 +431,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>拒绝提供帮助</zh-CN>
 		<pt-BR>Recusou-se a ajudar</pt-BR>
 		<ko>도움을 거절했음</ko>
+		<fixja>援助拒否</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_LAND_GRANTS</zType>
@@ -412,6 +445,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>土地赠予</zh-CN>
 		<pt-BR>Concessão de Terras</pt-BR>
 		<ko>토지 하사</ko>
+		<fixja>無償供与された土地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_LAND_GRANTS_DESCRIPTION</zType>
@@ -425,6 +459,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>你把土地赐给了有影响力的贵族，改善与他们的关系。</zh-CN>
 		<pt-BR>Você decretou uma concessão de terras para nobres influentes e melhorou suas relações com eles.</pt-BR>
 		<ko>유력한 귀족들에게 토지를 하사하여 그들과의 관계를 개선했습니다.</ko>
+		<fixja>あなたは有力貴族に土地を無償で与え、貴族との関係を改善した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LAND_GRANTS_HANNO_II</zType>
@@ -438,6 +473,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>土地赠予</zh-CN>
 		<pt-BR>Concessão de Terras</pt-BR>
 		<ko>토지 하사</ko>
+		<fixja>無償供与した土地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LAND_GRANTS_HANNO_II_DESCRIPTION</zType>
@@ -451,6 +487,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>赠予封地以改善所有家族的link(CONCEPT_OPINION_FAMILY,3)</zh-CN>
 		<pt-BR>Distribua concessões de terras para melhorar a link(CONCEPT_OPINION_FAMILY,3) de cada família</pt-BR>
 		<ko>토지를 하사하여 각 가문의 link(CONCEPT_OPINION_FAMILY,3)를 개선한다</ko>
+		<fixja>各氏族のlink(CONCEPT_OPINION_FAMILY,3)を良くするため、土地を与える</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LAND_GRANTS_HANNO_II_CHARACTER</zType>
@@ -464,6 +501,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>土地赠予来源：</zh-CN>
 		<pt-BR>Concessão de Terras de</pt-BR>
 		<ko>토지를 하사한 자</ko>
+		<fixja>無償供与した土地：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DYNASTY_HANNO_NAVIGATOR</zType>
@@ -477,6 +515,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>探险家王朝</zh-CN>
 		<pt-BR>Dinastia de Exploradores</pt-BR>
 		<ko>탐험가 왕조</ko>
+		<fixja>探検家の時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_HANNO_NAVIGATOR_EXPLORATION_REJECT</zType>
@@ -490,6 +529,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>不要因为我自己的抱负而更改法令</zh-CN>
 		<pt-BR>Não mudei leis por minhas ambições</pt-BR>
 		<ko>개인의 야망을 위해 법률을 바꾸지 않았음</ko>
+		<fixja>自らの野心のために法律は変えなかった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AGRIPPINA</zType>
@@ -503,6 +543,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>阿格里皮娜</zh-CN>
 		<pt-BR>Agripina</pt-BR>
 		<ko>아그리피나</ko>
+		<fixja>アグリッピナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALCULATING</zType>
@@ -516,6 +557,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>精于算计</zh-CN>
 		<pt-BR>Calculando</pt-BR>
 		<ko>교활한</ko>
+		<fixja>計算中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AGRIPPINA_DESCRIPTION</zType>
@@ -529,6 +571,7 @@ Na minha grande expedição, eu viajei pelos Pilares de Melcarte e encontrei o p
 		<zh-CN>阿格里皮娜牌凭借着狡猾和诡计统治着罗马。她在游戏起始时就能指定一名link(COUNCIL_SPYMASTER)，并擅长运用各种手段操纵敌人和盟友。她的继承人尼禄捉摸不定，是个威胁，所以计谋尤其有用……</zh-CN>
 		<pt-BR>Agripina governa Roma com muita astúcia. Capaz de nomear um link(COUNCIL_SPYMASTER) desde o início do jogo, ela é proficiente em manter tanto inimigos quanto aliados na linha por quaisquer meios necessários. Essa pode ser uma habilidade especialmente útil se considerarmos a ameaça de seu imprevisível sobrinho, Nero.</pt-BR>
 		<ko>아그리피나는 간계와 꾀로 로마를 통치합니다. 게임 시작부터 link(COUNCIL_SPYMASTER)을 임명할 수 있으며, 모든 수를 동원하여 적과 동맹을 능숙하게 관리합니다. 예측이 힘든 그녀의 후계자 네로의 위협을 생각한다면 이러한 능력이 특히 유용할 것입니다...</ko>
+		<fixja>アグリッピナは狡猾さと策略をもって、ローマを支配している。ゲーム開始時からlink(COUNCIL_SPYMASTER)を任命することが可能で、敵も味方もあらゆる手段で抑えこむのに長けている。予測不可能な行動を取る後継者、ネロ。彼の行動を制御するのに、この力は特に重要となってくる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AGRIPPINA_STORY</zType>
@@ -602,6 +645,13 @@ As gerações vindouras talvez não se lembrem de mim com bons olhos, mas eu fiz
       칼리굴라가 죽은 뒤 나는 소원해졌던 아들에게 돌아갔고, 운명을 바꿔 부, 명성, 권력을 축적하였고, 황제의 아내라는 지위와 아우구스타라는 칭호를 얻었다. 남편 클라우디우스가 통치하고 있지만, 나는 권력에 대한 장악력이 부족한 그의 행동을 통제할 수 있다. 이제 남은 목표는 하나뿐이다. 나의 아들 네로가 로마의 차기 황제가 되는 것이다.
 
       후세는 나를 좋은 사람으로 기억하지 않겠지만, 나는 해야 할 일을 했을 뿐이다. 나는 살아남았고 나에게 불리한 세상에서 권력을 얻었다.</ko>
+		<fixja>      私は小アグリッピナ。ユリウス家の娘であり、帝位を支える権力者である。
+
+      神聖なるアウグストゥスの血を引く者であり、カリグラ皇帝の妹、そして周囲から愛されたゲルマニクスの娘だ。この血筋を疑う者などいない。親衛隊長官セイヤヌスの陰謀によって、私の家族は死と亡命という憂き目にあった。幼き頃から権力の陰謀というものに触れていたのだ。兄の治世のもと、私は称号と栄誉という恩恵を受けた。だが、その後、その彼に向けた陰謀に巻き込まれて流刑に遭ってしまう。
+
+      カリグラの死後、私は疎遠になっていた息子のもとに戻った。そして、ついに運がまわってくる。私は富や名声、そして権力を手に入れ、最終的には皇帝と結ばれ、アウグスタの称号を得た。国は夫のクラウディウスが支配していたが、その力は脆弱なものだった。それゆえ、私が彼と彼の行動を制御していた。ひとつだけ確かなことがある：次期ローマ皇帝には、我が子、ネロがならなければならないということだ。
+
+      後世の者たちは皆、私のことを好意的に捉えていないかもしれない。だが、成すべき事を私は成した。自身と敵対的な世界で生き残り、力を手に入れたのだから。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AUGUSTUS</zType>
@@ -615,6 +665,7 @@ As gerações vindouras talvez não se lembrem de mim com bons olhos, mas eu fiz
 		<zh-CN>奥古斯都</zh-CN>
 		<pt-BR>Augusto</pt-BR>
 		<ko>아우구스투스</ko>
+		<fixja>アウグストゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AUGUSTUS_DESCRIPTION</zType>
@@ -628,6 +679,7 @@ As gerações vindouras talvez não se lembrem de mim com bons olhos, mas eu fiz
 		<zh-CN>罗马的第一位皇帝奥古斯都非常在意维持自己的合法性，还有王朝的稳定性。奥古斯都王朝的领袖可以利用link(MISSION_ADOPT_AS_HEIR)任务，选择比自己年轻的任意一位link(CONCEPT_ROYAL)，将其立为继承人，不需要花费选定继承人所需的常规合法性。</zh-CN>
 		<pt-BR>Augusto, o primeiro imperador de Roma, se dedica a manter sua legitimidade e uma dinastia estável. Os líderes da dinastia dele podem usar a missão de link(MISSION_ADOPT_AS_HEIR) que lhes permite adotar qualquer jovem da link(CONCEPT_ROYAL) como herdeiro sem o custo normal de legitimidade por escolher um herdeiro.</pt-BR>
 		<ko>로마의 첫 황제 아우구스투스는 정통성 유지와 안정적 왕조에 관심이 있습니다. 그와 같은 왕조 출신의 지도자들은 link(MISSION_ADOPT_AS_HEIR) 임무를 사용하여 더 어린 link(CONCEPT_ROYAL)을 후계자로 입양할 수 있으며, 후계자를 선택할 때 발생하는 위신 비용이 들지 않습니다.</ko>
+		<fixja>ローマの初代皇帝、アウグストゥス。彼は自身の正統性と、安定した王朝を維持することに注力している。彼の王朝に座する指導者は、link(MISSION_ADOPT_AS_HEIR)ミッションを受けられる。これにより、通常かかる正統性コストを抜きにして、自身より若いlink(CONCEPT_ROYAL)を後継者として迎えられる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AUGUSTUS_STORY</zType>
@@ -701,6 +753,13 @@ Meu nome será passado de geração em geração assim como meu poder imperial. 
       그들을 물리치자 어떤 권력도 나에게 대적할 수 없었다. 나는 다시 공화국과 원로원에 자유를 돌려주었지만, 군대와 다양한 정치적 역할에 관한 영구적인 권력을 나 자신에게 부여했다. 로마에는 왕이 없어야 하므로 나는 초대 시민이라는 칭호를 받았고, 스스로 내 이름을 아우구스투스로 개명하였다. 나의 통치가 신의 호의를 받았다는 종교적인 속뜻이 담긴 이름이다.
 
       내 이름은 황제의 권력과 함께 후세에 전해질 것이다. 나는 오랜 세월에 걸쳐 로마의 첫 번째 황제이자 팍스 로마나를 불러온 사람으로 기억될 것이다.</ko>
+		<fixja>      私はアウグストゥス。かつてはオクタウィウスと呼ばれており、ローマの第一市民「プリンセプス」で、あの神君ユリウスの養子である。
+
+      父の死後、私は復讐とローマの未来を守るために、父を殺した者たちと戦った。しかし、まだ「ある戦い」が私を待っていた。かつての盟友であるマーク・アンソニー、その妃のクレオパトラ、そしてカエサルの息子とされるカエサリオンとの戦争だ。
+
+      彼らに敗北をもたらしたことで、私に逆らう者たちは消え去った。私は共和制ローマと元老院に全特権を返上した。これに驚喜した元老院から、軍隊と様々な政治的地位に関する終身特権を得る。ローマには王が存在しない。そのため、私は自ら第一市民「プリンセプス」と称し、アウグストゥスと名を変えた。これには宗教的な意味合いがある。神々の寵愛を受ける支配者であることを示したのだ。
+
+      私の名は、帝国の力と共に後世へと受け継がれることになるだろう。私の存在はローマの初代皇帝として、そしてパクス・ロマーナをもたらした者として、時代を超えて語り継がれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_JULIUS_CAESAR</zType>
@@ -714,6 +773,7 @@ Meu nome será passado de geração em geração assim como meu poder imperial. 
 		<zh-CN>尤利乌斯·凯撒</zh-CN>
 		<pt-BR>Júlio César</pt-BR>
 		<ko>율리우스 카이사르</ko>
+		<fixja>ユリウス・カエサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_JULIUS_CAESAR_DESCRIPTION</zType>
@@ -727,6 +787,7 @@ Meu nome será passado de geração em geração assim como meu poder imperial. 
 		<zh-CN>凯撒是一个早期的扩张主义者。所有单位杀掉部落单位可获得link(YIELD_TRAINING)，且其实时可获得额外经验值。凯撒可以凭借这些能力快速发展部队。他在起始时就拥有强大的将军，不过你应该当心罗马历第七十四日。</zh-CN>
 		<pt-BR>Com César, manobras de expansão são favorecidas logo no início do jogo. Todas as unidades ganham a promoção de link(YIELD_TRAINING) por matar unidades tribais e começam com EXP adicional. Isso permite que César promova unidades rapidamente. Ele também começa com generais fortes, mas tome cuidado com os Idos de Março. </pt-BR>
 		<ko>카이사르는 초기 확장주의자입니다. 모든 유닛은 부족 유닛을 처치하면  link(YIELD_TRAINING)을 획득하며 추가 XP를 받고 시작합니다. 이를 통해 카이사르는 빠르게 유닛을 승급할 수 있습니다. 강한 장군들과 함께 시작하지만 3월 15일을 조심해야 할 것입니다.</ko>
+		<fixja>シーザーは序盤の拡大主義者だ。全ユニットが追加の経験値を与えられた状態で生産され、また部族のユニットを撃破するとlink(YIELD_TRAINING)が得られる。また彼は、スタート時点で強力な将軍たちを擁しているが、「3月のイデス」には注意が必要である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_JULIUS_CAESAR_STORY</zType>
@@ -800,6 +861,13 @@ Boas ou más, minhas ações guiarão o curso da história. Meu nome jamais morr
       나는 업적을 통해 명성을 얻었고, 더 중요한 군단의 충성심을 얻었다. 원로원에서 지휘권을 포기하고 군대를 해산하라고 요구했을 때, 나는 루비콘강을 건너 로마에 진군했고, 공화국 전역에 걸친 내전을 촉발했다.
 
       나의 행동은 의도와 상관없이 역사의 진로를 결정할 것이다. 나의 이름은 절대 사라지지 않을 것이다. 나는 카이사르다.</ko>
+		<fixja>      私は名門ユリウス家のカエサルにして、ローマ、永久の独裁官である。
+
+      我が偉業を知らぬ者などいないだろう。名誉ある政治的階級「クルスス・ホノルム」を急速に駆け上がり、私はガリアで指揮を執るようになった。私は、部族同士を争わせた後、軍を率いて彼らを打ち破った。軍団は海を渡ってブリタニアの地まで達し、ローマはかつてないほどの規模になった。
+
+      この活躍により、私は名声を勝ち取った。だが、それ以上に重要なのは、軍団から厚い忠誠心を得たことだ。元老院が彼に指揮権の放棄と軍の解散を要求した時、私はルビコン川を渡り、都市に向けて進軍した。そして、ローマ全土にわたるほどの内戦を引き起こす。
+
+      良いか悪いかに関わらず、私の行動は歴史の流れを形作るだろう。我が名が消え去ることなど、永遠にない。私はカエサルだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_GAIUS_MARIUS</zType>
@@ -813,6 +881,7 @@ Boas ou más, minhas ações guiarão o curso da história. Meu nome jamais morr
 		<zh-CN>马略</zh-CN>
 		<pt-BR>Mário</pt-BR>
 		<ko>마리우스</ko>
+		<fixja>マリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_GAIUS_MARIUS_DESCRIPTION</zType>
@@ -826,6 +895,7 @@ Boas ou más, minhas ações guiarão o curso da história. Meu nome jamais morr
 		<zh-CN>马略对罗马军队进行了改革，所以马略王朝的忠诚部队在由将军领导时可以得到加成。他也有一个独特的特质，可以建设link(PROJECT_ENROLEMENT_POST,1)，加速训练新link(UNIT_WARRIOR)单位。</zh-CN>
 		<pt-BR>As reformas militares romanas feitas por Mário fazem com que as leais unidades da dinastia dele recebam um bônus ao serem lideradas por um general. Ele também possui um atributo único que permite a construção de link(PROJECT_ENROLEMENT_POST,1), projetos que aceleram o treinamento de novas unidades de link(UNIT_WARRIOR,2).</pt-BR>
 		<ko>마리우스의 로마 군대 개혁하였으므로 왕조에 충성하는 유닛을 장군이 지휘하면 보정을 받습니다. 또한 마리우스의 독특한 특성으로 link(PROJECT_ENROLEMENT_POST,1)의 건설을 허용하여 새로운 link(UNIT_WARRIOR) 유닛의 훈련 속도를 높일 수 있습니다</ko>
+		<fixja>マリウスのローマ軍改革：将軍に率いられたとき、王朝に忠実なユニットが各種ボーナスを得られる。また、彼が持つ固有特性により新たなlink(UNIT_WARRIOR)ユニットの訓練を加速させるプロジェクトlink(PROJECT_ENROLEMENT_POST,1)が実行できる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_GAIUS_MARIUS_STORY</zType>
@@ -899,6 +969,13 @@ Sob a minha liderança, não há inimigo que a república não possa superar.</p
       군사적 승리 덕분에 여섯 번이나 집정관으로 임명되는 유례없는 업적을 달성했으며, 혁신을 주도하여 로마 군대에 수많은 변화를 가져왔다. 나는 외국은 물론 고국의 적들을 잠재우기 위해 폭력을 쓰는 것도 마다 않았고, 일곱 번째로 집정관이 되기 위해 정치적 반대자들로부터 로마에 대한 통제권을 빼앗았다.
 
       나의 통치하에 공화국이 극복할 수 없는 적은 없다.</ko>
+		<fixja>      私はガイウス・マリウス、共和政ローマの執政官である。
+
+      裕福な家に生まれたとはいえ、政界においてはまだ異端者であり、議員一族の支援を受けずに頭角を現そうとする「新参者」の一人と見られていた。自らの価値を証明するべく、私はヌミディアやガリア、ゲルマニア、そして同盟国であるはずのイタリアに至るまで、ローマの敵たちと戦ってきた。
+
+      軍を率いて勝利を挙げた私は、執政官への任命を6回受けた。これは異例のことである。そして、ローマの軍事に多くの変革が起きた時代となったのだ。国内外にいる敵を黙らせるためならば暴力を振るうこともいとわず、ローマの支配権を政敵から奪い、執政官の職に7回就いた。
+
+      私が指揮を執る限り、ローマに撃破できぬ敵はいない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SULLA</zType>
@@ -912,6 +989,7 @@ Sob a minha liderança, não há inimigo que a república não possa superar.</p
 		<zh-CN>苏拉</zh-CN>
 		<pt-BR>Sula</pt-BR>
 		<ko>술라</ko>
+		<fixja>スッラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SULLA_DESCRIPTION</zType>
@@ -925,6 +1003,7 @@ Sob a minha liderança, não há inimigo que a república não possa superar.</p
 		<zh-CN>苏拉以铁腕统治罗马。他拥有独特的特质link(TRAIT_DICTATOR)，所以，随着时间的推移，家族的意见会持续恶化，不过，他的link(MISSION_PROSCRIPTION)任务是让所有不守规矩的家族成员安分守己。</zh-CN>
 		<pt-BR>Sula governa Roma com um punho de ferro. O atributo único de link(TRAIT_DICTATOR) dele faz com que a opinião das famílias piore constantemente com o tempo, mas ele tem acesso à missão de link(MISSION_PROSCRIPTION) para manter as famílias rebeldes na linha.</pt-BR>
 		<ko>술라는 로마를 냉혹하게 통치합니다. 술라만의 link(TRAIT_DICTATOR) 특성 때문에 가문의 태도가 시간이 지나면서 조금씩 나빠지지만, link(MISSION_PROSCRIPTION) 임무를 통해 다루기 힘든 가문을 통제할 수 있습니다.</ko>
+		<fixja>鉄の拳でローマを支配する独裁官、スッラ。ユニークな特性link(TRAIT_DICTATOR)の影響で、彼は時間が経つにつれて家族からの評判が悪化してしまう。一方で、どんな手に負えない家族も制御するlink(MISSION_PROSCRIPTION)ミッションを有している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SULLA_STORY</zType>
@@ -998,6 +1077,13 @@ Roma é minha para que eu a comande como quiser. Meu povo será mantido na linha
       마침내 로마를 점령한 나는 옛 칭호인 독재자를 되살려 내가 원하는 방식으로 군사 지휘권을 행사했다. 로마와 나에게 대항하는 적과 반역자들이 들끓자 나는 살생부를 작성했다. 이 명단에 오른 사람을 처형하고 재산을 몰수하도록 명령했고, 반역자를 죽이면 누구든 보상을 지급했다. 먼저 내 적을 처치했고, 다음에는 내 친구들의 적을 처치했다.
 
      로마는 내가 지휘할 것이다. 모든 방법을 동원하여 백성들이 규칙을 지키게 할 것이다.</ko>
+		<fixja>      私はスッラ、オプティマテスの指導者であり、ローマの執政官かつ独裁官だ。
+
+      当初はガイウス・マリウスに仕えていた。しかし、元老院の保守派からは、かつての指揮官であるマリウスの潜在的脅威と見なされていた。この対立は私が東方にいる間に、彼の軍がローマを占領した内戦において決定的なものとなる。私の帰還、それは彼に敗北をもたらした。
+
+      ついにローマの指揮官となった私は、「独裁官」という古い称号を復活させ、思うがままに軍事指揮権を行使した。市内にはローマに反逆し、私と敵対する敵や裏切り者であふれていた。そのため、私は「プロスクリプティオ」──法の保護の対象外に置く措置を取り始めた。この名簿に名が挙がった者は処刑され、財産も没収される。さらに、裏切り者を殺害した者には報酬を与えた。最初に多くの敵が排除され、続いて私の友人の敵も対象となった。
+
+      ローマは、我が指揮下にある。民はどんな手段をもってしても、我が統制下に置かれるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SCIPIO</zType>
@@ -1011,6 +1097,7 @@ Roma é minha para que eu a comande como quiser. Meu povo será mantido na linha
 		<zh-CN>西庇阿</zh-CN>
 		<pt-BR>Cipião</pt-BR>
 		<ko>스키피오</ko>
+		<fixja>スキピオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SCIPIO_DESCRIPTION</zType>
@@ -1024,6 +1111,7 @@ Roma é minha para que eu a comande como quiser. Meu povo será mantido na linha
 		<zh-CN>西庇阿是一位高超的战术家，担任link(CONCEPT_GENERAL,1)时可以在灌木丛和树木中隐藏起来。西庇阿王朝也可以因为杀死其他国家的单位而获得link(YIELD_HAPPINESS)红利。</zh-CN>
 		<pt-BR>Cipião é um mestre estrategista, capaz de se esconder dentre arbustos e árvores se for link(CONCEPT_GENERAL). A dinastia dele também recebe um bônus de link(YIELD_HAPPINESS) por matar unidades de outras nações.</pt-BR>
 		<ko>스키피오는 능수능란한 전술가이며 link(CONCEPT_GENERAL,1)일 때 덤불이나 나무에 계속 은신할 수 있습니다. 그의 왕조가 다른 국가의 유닛을 처치하면 link(YIELD_HAPPINESS) 보정을 획득합니다.</ko>
+		<fixja>スキピオは熟練の戦術家であり、彼がlink(CONCEPT_GENERAL,1)である間は茂みや木に姿を隠すことが可能になる。また、彼の王朝は他国のユニットを殺害することでlink(YIELD_HAPPINESS)ボーナスを得られる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SCIPIO_STORY</zType>
@@ -1097,6 +1185,13 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
       외국에서 성공을 거두고, 야간 습격으로 적을 격파하고, 적의 최고 장군들을 무찔렀지만, 성공은 질투를 낳았고 원로원의 일부 의원은 나를 끌어내리려고 한다.
 			
       그들이 성공하더라도, 나의 손자 스키피오 아이밀리아누스는 내가 시작한 것을 마무리하고, 마지막 포에니 전쟁에서 카르타고를 무찌를 것이다. 로마 공화국과 이후의 어떤 나라도 나 같은 전략가를 만나지 못할 것이다.</ko>
+		<fixja>      私はローマの将軍、スキピオだ。アフリカの敵対帝国「カルタゴ」との戦いで勝利を収めたため、「アフリカヌス」と呼ばれている。
+			
+      幼い頃から戦いに身を投じ、父と共に戦場に立ち、ローマ市民からの支持を得て政治家となった。栄光を掴む機会は突然訪れた。政務官職の一つ、「プラエトル」や執政官「コンスル」といった慣例的な職を経験していない私を、元老院がヒスパニアのローマ軍を率いる「プロコンスル」に選出したのだ。
+
+      海外で成功を収め、夜襲で軍隊を壊滅させ、最高と呼ばれる将軍を倒したにも関わらず、成功は嫉妬を生み、元老院のある議員は私を陥れようとしている。
+			
+      仮に失脚させられたとしても、孫のスキピオ・アエミリアヌスこそ、私の始めたことを完遂し、ポエニ戦争──その最後でカルタゴを打ち破るだろう。共和政ローマ…いや、それ以降のどの国でも、私のような戦略家が現れることは二度とない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DYNASTY_AGRIPPINA</zType>
@@ -1110,6 +1205,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>颠覆分子控制</zh-CN>
 		<pt-BR>Controle Subversivo</pt-BR>
 		<ko>전복 세력 제압</ko>
+		<fixja>妨害による統制</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REFINED</zType>
@@ -1123,6 +1219,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>心思缜密</zh-CN>
 		<pt-BR>Refinamento</pt-BR>
 		<ko>세련된</ko>
+		<fixja>精鋭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXPANSIONIST</zType>
@@ -1136,6 +1233,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>扩张主义者</zh-CN>
 		<pt-BR>Expansionista</pt-BR>
 		<ko>확장주의자</ko>
+		<fixja>拡大主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_REFINED</zType>
@@ -1149,6 +1247,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>心思缜密的领袖</zh-CN>
 		<pt-BR>Liderança Refinada</pt-BR>
 		<ko>세련된 지도자</ko>
+		<fixja>精鋭たる指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_AS_HEIR</zType>
@@ -1162,6 +1261,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>立为继承人</zh-CN>
 		<pt-BR>Adotar como Herdeiro</pt-BR>
 		<ko>후계자로 입양하기</ko>
+		<fixja>後継者として養子に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_AS_HEIR_DESCRIPTION</zType>
@@ -1175,6 +1275,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>在不失去icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)的前提下收养一位继承人</zh-CN>
 		<pt-BR>Adote um herdeiro sem perder  icon(YIELD_LEGITIMACY) link(CONCEPT_LEGITIMACY)</pt-BR>
 		<ko>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)을 잃지 않고 후계자를 입양한다</ko>
+		<fixja>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)を失うことなく、後継者を迎え入れる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ADOPT_AS_HEIR</zType>
@@ -1188,6 +1289,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>立为继承人</zh-CN>
 		<pt-BR>Adotar como Herdeiro</pt-BR>
 		<ko>후계자로 입양하기</ko>
+		<fixja>後継者として養子に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_ADOPT_AS_HEIR_DESCRIPTION</zType>
@@ -1201,6 +1303,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>准备工作已经完成，{CHARACTER-SUBJECT}已经正式成为你的孩子和继承人。</zh-CN>
 		<pt-BR>As preparações estão completas, {CHARACTER-SUBJECT} herdará sua coroa como sangue do seu sangue.</pt-BR>
 		<ko>준비가 끝났고 {CHARACTER-SUBJECT}(을)를 당신의 자식이자 후계자로 선언했습니다.</ko>
+		<fixja>準備が終わる。{CHARACTER-SUBJECT}はあなたの子となり、後継者であると宣言された。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DYNASTY_JULIUS_CAESAR</zType>
@@ -1214,6 +1317,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>凯撒的王朝</zh-CN>
 		<pt-BR>Dinastia de César</pt-BR>
 		<ko>카이사르의 왕조</ko>
+		<fixja>カエサルの王朝</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DYNASTY_JULIUS_CAESAR</zType>
@@ -1227,6 +1331,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>凯撒的王朝</zh-CN>
 		<pt-BR>Dinastia de César</pt-BR>
 		<ko>카이사르의 왕조</ko>
+		<fixja>カエサルの王朝</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRAIT_AMBUSHER</zType>
@@ -1240,6 +1345,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>伏击专家</zh-CN>
 		<pt-BR>Emboscador</pt-BR>
 		<ko>습격자</ko>
+		<fixja>伏兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMBUSHER</zType>
@@ -1253,6 +1359,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>伏击专家</zh-CN>
 		<pt-BR>Emboscador</pt-BR>
 		<ko>습격자</ko>
+		<fixja>伏兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DYNASTY_SCIPIO</zType>
@@ -1266,6 +1373,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>西庇阿的王朝</zh-CN>
 		<pt-BR>Dinastia de Cipião</pt-BR>
 		<ko>스키피오의 왕조</ko>
+		<fixja>スキピオの時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DICTATOR</zType>
@@ -1279,6 +1387,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>独裁者</zh-CN>
 		<pt-BR>Ditador</pt-BR>
 		<ko>독재자</ko>
+		<fixja>独裁者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HATED_DICTATOR</zType>
@@ -1292,6 +1401,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>令人痛恨的独裁者</zh-CN>
 		<pt-BR>Ditador Odiado</pt-BR>
 		<ko>미움받는 독재자</ko>
+		<fixja>憎き独裁者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESPISED_DICTATOR</zType>
@@ -1305,6 +1415,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>受人鄙视的独裁者</zh-CN>
 		<pt-BR>Ditador Desprezado</pt-BR>
 		<ko>경멸당하는 독재자</ko>
+		<fixja>蔑まれし独裁者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DICTATOR_GAIN</zType>
@@ -1318,6 +1429,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>{0_character}不怕任何控制手段，现在被称为{1_trait}。</zh-CN>
 		<pt-BR>{0_character} não tem medo de manter o controle por quaisquer métodos necessários e agora lhe conhecem como {lowercase:{1_trait}}.</pt-BR>
 		<ko>어떤 방법으로든 권력을 장악하는 것을 두려워하지 않는 {0_character}(은)는 이제 {1_trait}로 알려졌습니다.</ko>
+		<fixja>{0_character}は支配を維持するためならば、どんな手段をもいとわない。そのため、今では{1_trait}として知られていた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PROSCRIPTION</zType>
@@ -1331,6 +1443,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>放逐</zh-CN>
 		<pt-BR>Proscrição</pt-BR>
 		<ko>살생부</ko>
+		<fixja>プロスクリプティオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PROSCRIPTION_DESCRIPTION</zType>
@@ -1344,6 +1457,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>报上你政敌的名字，让家族领导人link(RELATIONSHIP_TERRIFIED_OF)你</zh-CN>
 		<pt-BR>Divulgue nomes de seus inimigos políticos para fazer com que o líder da família fique link(RELATIONSHIP_TERRIFIED_OF) você</pt-BR>
 		<ko>정적들의 이름을 게시하여 가문의 수장이 당신에게 link(RELATIONSHIP_TERRIFIED_OF) 상태로 만든다</ko>
+		<fixja>政敵の名を公に晒し、氏族の長にlink(RELATIONSHIP_TERRIFIED_OF)を植え付ける</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PROSCRIPTION</zType>
@@ -1357,6 +1471,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>这个家族被迫屈服了</zh-CN>
 		<pt-BR>A família é forçada a se submeter</pt-BR>
 		<ko>가문이 강제로 복종하게 되었음</ko>
+		<fixja>服従を強いられし一家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PROSCRIPTION_DESCRIPTION</zType>
@@ -1370,6 +1485,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>你公布了{MISSION-TARGET}家族中的政敌名单。被点名的人遭到了处决，他们的土地也被没收。</zh-CN>
 		<pt-BR>Listas dos seus inimigos políticos da família {MISSION-TARGET} foram divulgadas. Aqueles cujo nome estiver na lista serão executados e suas terras serão confiscadas.</pt-BR>
 		<ko>{MISSION-TARGET} 가문에 속한 당신의 정적 목록이 공개됐습니다. 처형당하고 토지를 빼앗길 사람들입니다.</ko>
+		<fixja>{MISSION-TARGET}家の政敵リストが公表された。指名された者たちは処刑され、その土地は没収される。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DYNASTY_MARIUS</zType>
@@ -1383,6 +1499,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>马略的改革</zh-CN>
 		<pt-BR>Reformas Marianas</pt-BR>
 		<ko>마리우스의 개혁</ko>
+		<fixja>マリアンの改革</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THIRD_FOUNDER</zType>
@@ -1396,6 +1513,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>第三位创始者</zh-CN>
 		<pt-BR>Terceiro Fundador</pt-BR>
 		<ko>세 번째 설립자</ko>
+		<fixja>第3代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ENROLEMENT_POST</zType>
@@ -1409,6 +1527,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>招募海报~招募海报</zh-CN>
 		<pt-BR>Posto de Recrutamento~Postos de Recrutamento</pt-BR>
 		<ko>입영 지원소~입영 지원소</ko>
+		<fixja>入隊掲示板</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_PHARAOH</zType>
@@ -1422,6 +1541,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>法老</zh-CN>
 		<pt-BR>Faraó</pt-BR>
 		<ko>파라오</ko>
+		<fixja>ファラオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MERNEITH</zType>
@@ -1435,6 +1555,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>美丽奈茨</zh-CN>
 		<pt-BR>Merneite</pt-BR>
 		<ko>메르네이트</ko>
+		<fixja>メルネイト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MERNEITH_DESCRIPTION</zType>
@@ -1448,6 +1569,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>美丽奈茨担任link(CONCEPT_GENERAL,1)时，其麾下的相邻单位可享受对icon(CONNECTED)相连图块的攻击加成。</zh-CN>
 		<pt-BR>Com Merneite como link(CONCEPT_GENERAL), as unidades adjacentes terão um bônus de ataque em casas icon(CONNECTED)Conectadas.</pt-BR>
 		<ko>메르네이트가 link(CONCEPT_GENERAL,1)일 때 인접한 유닛이 icon(CONNECTED)연결된 타일로 공격 보정을 주게 됩니다.</ko>
+		<fixja>メルネイトをlink(CONCEPT_GENERAL,1)にすると、隣接するユニットはicon(CONNECTED)タイルで攻撃ボーナスを受ける。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONNECTION_TACTICAL_ADVANTAGE</zType>
@@ -1461,6 +1583,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>连接战术优势</zh-CN>
 		<pt-BR>Vantagem Estratégica por Conexão</pt-BR>
 		<ko>연결 전술 이점</ko>
+		<fixja>接続 戦術的優位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONNECTION_TACTICAL_ADVANTAGE_AURA</zType>
@@ -1474,6 +1597,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>连接战术优势光环</zh-CN>
 		<pt-BR>Aura de Vantagem Estratégica por Conexão</pt-BR>
 		<ko>연결 전술 이점의 기운</ko>
+		<fixja>接続 戦術的優位（オーラ）：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_KHUFU</zType>
@@ -1487,6 +1611,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>胡夫</zh-CN>
 		<pt-BR>Cufu</pt-BR>
 		<ko>쿠푸</ko>
+		<fixja>クフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_KHUFU_DESCRIPTION</zType>
@@ -1500,6 +1625,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>胡夫是纪念碑工程的伟大管理者，建造奇观时只需要更少的成本。如果胡夫建造了link(IMPROVEMENT_PYRAMIDS)，在他死后，这座城市会得到加成。</zh-CN>
 		<pt-BR>Cufu é um grande administrador de obras monumentais e é capaz de construir maravilhas por menor custo. Se Cufu construir link(IMPROVEMENT_PYRAMIDS), a cidade na qual elas se encontrarem receberão um bônus após a morte dele.</pt-BR>
 		<ko>쿠푸는 기념비적 건축물 작업을 능숙하게 진행하는 행정가이며 더 적은 비용으로 불가사의를 지을 수 있습니다. 만약 쿠푸가 link(IMPROVEMENT_PYRAMIDS)를 짓는다면, 그 도시는 쿠푸의 사망 이후 보정이 적용됩니다.</ko>
+		<fixja>クフは記念碑の優れた建設指揮者で、通常の半分のコストで記念物を作ることができる。クフがlink(IMPROVEMENT_PYRAMIDS)を建設すると、その都市は彼の死後に一定の恩恵を受ける。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_MONUMENTAL_EFFORT</zType>
@@ -1513,6 +1639,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>巨大努力</zh-CN>
 		<pt-BR>Esforço Monumental</pt-BR>
 		<ko>기념비적인 노력</ko>
+		<fixja>記念碑の建造</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_KHUFU_PYRAMID_TOURISM</zType>
@@ -1526,6 +1653,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>胡夫金字塔群旅游局</zh-CN>
 		<pt-BR>Conselho de Turismo das Pirâmides de Cufu</pt-BR>
 		<ko>쿠푸의 피라미드 관광청</ko>
+		<fixja>クフ王のピラミッド観光局</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_KHUFU_PYRAMID_TOURISM</zType>
@@ -1539,6 +1667,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>胡夫金字塔群旅游局</zh-CN>
 		<pt-BR>Conselho de Turismo das Pirâmides de Cufu</pt-BR>
 		<ko>쿠푸의 피라미드 관광청</ko>
+		<fixja>クフ王のピラミッド観光局</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_KHUFU_PYRAMID_LOCAL</zType>
@@ -1552,6 +1681,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>胡夫金字塔群本地观光</zh-CN>
 		<pt-BR>Excursões Locais nas Pirâmides de Cufu</pt-BR>
 		<ko>쿠푸의 피라미드 현지 관광</ko>
+		<fixja>クフ王のピラミッド 現地ツアー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_KHUFU_PYRAMID_LOCAL</zType>
@@ -1565,6 +1695,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>胡夫金字塔群本地观光</zh-CN>
 		<pt-BR>Excursões Locais nas Pirâmides de Cufu</pt-BR>
 		<ko>쿠푸의 피라미드 현지 관광</ko>
+		<fixja>クフ王のピラミッド 現地ツアー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MENTUHOTEP_II</zType>
@@ -1578,6 +1709,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>曼图霍特普二世</zh-CN>
 		<pt-BR>Mentuotepe II</pt-BR>
 		<ko>멘투호테프 2세</ko>
+		<fixja>メンチュヘテプ2世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MENTUHOTEP_II_DESCRIPTION</zType>
@@ -1591,6 +1723,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>曼图霍特普二世可以在没有总理大臣的情况下立即执行link(MISSION_FAMILY_GIFT_MENTUHOTEP_II)、link(MISSION_PACIFY_CITY_MENTUHOTEP_II)和link(MISSION_IMPRISON_MENTUHOTEP_II)任务。</zh-CN>
 		<pt-BR>Mentuotepe II é capaz de realizar as missões de link(MISSION_FAMILY_GIFT_MENTUHOTEP_II), link(MISSION_PACIFY_CITY_MENTUHOTEP_II) e link(MISSION_IMPRISON_MENTUHOTEP_II) pessoalmente, sem precisar de um chanceler.</pt-BR>
 		<ko>멘투호테프 2세는 link(MISSION_FAMILY_GIFT_MENTUHOTEP_II), link(MISSION_PACIFY_CITY_MENTUHOTEP_II), link(MISSION_IMPRISON_MENTUHOTEP_II) 임무를 재상 없이 직접 수행할 수 있습니다.</ko>
+		<fixja>メンチュヘテプ2世は大臣を任命することなしに、即座にlink(MISSION_FAMILY_GIFT_MENTUHOTEP_II)やlink(MISSION_PACIFY_CITY_MENTUHOTEP_II)、link(MISSION_IMPRISON_MENTUHOTEP_II)といったミッションを遂行できる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AKHENATEN</zType>
@@ -1604,6 +1737,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>埃赫那顿</zh-CN>
 		<pt-BR>Aquenáton</pt-BR>
 		<ko>아케나톤</ko>
+		<fixja>アクエンアテン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AKHENATEN_DESCRIPTION</zType>
@@ -1617,6 +1751,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>埃赫那顿的link(TRAIT_RELIGIOUS_FERVOR)会导致他精神错乱，但在信奉国教的城市里，他独特的异教信仰link(RELIGION_ATENISM)会使link(YIELD_DISCONTENT,1)降低。</zh-CN>
 		<pt-BR>O link(TRAIT_RELIGIOUS_FERVOR) de Aquenáton o levou à insanidade, mas sua religião singular do link(RELIGION_ATENISM) diminuirá a link(YIELD_DISCONTENT,1) nas cidades que sigam a religião oficial.</pt-BR>
 		<ko>아케나톤의 link(TRAIT_RELIGIOUS_FERVOR)이 정신 이상으로 이어졌지만, 그의 독특한 종교인 link(RELIGION_ATENISM)가 국교를 따르는 도시의 link(YIELD_DISCONTENT,1)를 낮출 것입니다.</ko>
+		<fixja>宗教に対する強い関心を抱くアクエンアテンのlink(TRAIT_RELIGIOUS_FERVOR)は彼を狂気へと追いやることにもなった。彼の固有のlink(RELIGION_ATENISM)は、国教に従う都市ではlink(YIELD_DISCONTENT,1)を低下させる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_RELIGIOUS_FERVOR</zType>
@@ -1630,6 +1765,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>宗教狂热</zh-CN>
 		<pt-BR>Fervor Religioso</pt-BR>
 		<ko>종교적 열성</ko>
+		<fixja>宗教的熱狂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGIOUS_FERVOR</zType>
@@ -1643,6 +1779,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>宗教狂热</zh-CN>
 		<pt-BR>Fervor Religioso</pt-BR>
 		<ko>종교적 열성</ko>
+		<fixja>宗教的熱狂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_RAMESSES_II</zType>
@@ -1656,6 +1793,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>拉美西斯二世</zh-CN>
 		<pt-BR>Ramessés II</pt-BR>
 		<ko>람세스 2세</ko>
+		<fixja>ラムセス2世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_RAMESSES_II_DESCRIPTION</zType>
@@ -1669,6 +1807,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>拉美西斯二世以link(TRAIT_GREAT_ANCESTOR)的身份激励子民，用link(TRAIT_CHARIOT_MASTER,1)征服敌人。</zh-CN>
 		<pt-BR>Ramessés II inspira seu povo como o link(TRAIT_GREAT_ANCESTOR) e conquista seus inimigos como o link(TRAIT_CHARIOT_MASTER).</pt-BR>
 		<ko>람세스 2세는 link(TRAIT_GREAT_ANCESTOR)로서 백성에게 영감을 주고, link(TRAIT_CHARIOT_MASTER,1) 특성을 활용하여 적을 정복합니다.</ko>
+		<fixja>ラメセス2世はlink(TRAIT_GREAT_ANCESTOR)として臣民を鼓舞し、またlink(TRAIT_CHARIOT_MASTER,1)によってその敵を征服した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_CHARIOT_MASTER</zType>
@@ -1682,6 +1821,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>战车大师~战车精通</zh-CN>
 		<pt-BR>Mestre das Bigas~Maestria com Bigas</pt-BR>
 		<ko>전차 전문가~전차 기술</ko>
+		<fixja>チャリオットの達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CHARIOT_MASTER</zType>
@@ -1695,6 +1835,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>战车大师</zh-CN>
 		<pt-BR>Mestre das Bigas</pt-BR>
 		<ko>전차 전문가</ko>
+		<fixja>チャリオットの達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SUPPILULIUMA</zType>
@@ -1708,6 +1849,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>苏庇路里乌玛一世</zh-CN>
 		<pt-BR>Suppiluliuma I</pt-BR>
 		<ko>수필룰리우마 1세</ko>
+		<fixja>シュッピルリウマ1世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SUPPILULIUMA_DESCRIPTION</zType>
@@ -1721,6 +1863,7 @@ Mesmo que eles consigam, meu neto Cipião Emiliano terminará o que eu comecei, 
 		<zh-CN>苏庇路里乌玛和他的军队会自动获得额外link(CONCEPT_XP)。</zh-CN>
 		<pt-BR>Suppiluliuma e seus militares obtêm link(CONCEPT_XP) adicional automaticamente.</pt-BR>
 		<ko>수필룰리우마와 그의 군대는 자동으로 추가 link(CONCEPT_XP)를 획득합니다.</ko>
+		<fixja>シュッピルリウマとその軍は自動的に追加のlink(CONCEPT_XP)を獲得することができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SUPPILULIUMA_STORY</zType>
@@ -1794,6 +1937,13 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
       나는 통치 기간에 아르자와, 미탄니, 이집트의 땅을 모두 정복했다. 이집트와 관계를 유지하려고 미망인 왕비 다크하문주의 결혼 상대로 아들 자난자를 보냈다. 하지만 자난자가 가던 중 이집트인에게 목숨을 잃는 비극적인 사건이 벌어졌다. 나는 복수로 응징했고, 이집트 영토의 많은 부분을 점령했다.
 
       나는 수필룰리우마다. 위대한 자가 되려는 나의 여정은 이제 막 시작되었다.</ko>
+		<fixja>      私はシュッピルリウマ、ヒッタイトの王の中で最も偉大な者だ。
+
+      父のトゥドハリヤ2世が統治していた時代に、私は将軍と顧問を務め、敵を打ち破り、衰退しつつあったヒッタイトを立て直すのに貢献した。父の死後、私は兄のトゥドハリヤ3世から支配権を奪った。
+
+      アルザワ、ミタンニ、エジプト…我が治世の間にこれらの土地を征服してきた。エジプトとの結びつきを確固たるものとするため、私は息子のザンナンザを未亡人の王妃ダハムンズと結婚させることにした。しかし悲劇的なことに、その途中でザンナンザは…エジプト人の手によって命を落としてしまう。復讐心に燃えた私は反撃をして、エジプトの持つ領土の多くを占領した。
+
+      私はシュッピルリウマだ。我が偉業への道は、まだ始まったばかりだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_DIS</zType>
@@ -1807,6 +1957,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>在你的孩子蹊跷死亡之后未能采取行动</zh-CN>
 		<pt-BR>Não agiu após a suspeita morte de um filho</pt-BR>
 		<ko>자식의 의문스러운 죽음 이후 행동에 나서지 않았음</ko>
+		<fixja>子の不審死に対する対応を怠った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_GOAL</zType>
@@ -1820,6 +1971,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>发誓要向敌人复仇</zh-CN>
 		<pt-BR>Jurou se vingar de seu inimigo</pt-BR>
 		<ko>당신의 적에 대한 복수를 다짐했음</ko>
+		<fixja>敵に復讐を誓う</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREAT_ANCESTOR</zType>
@@ -1833,6 +1985,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>伟大祖先</zh-CN>
 		<pt-BR>Grande Ancestral</pt-BR>
 		<ko>위대한 조상</ko>
+		<fixja>偉大なる祖先</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREAT_ANCESTOR_DESCRIPTION</zType>
@@ -1846,6 +1999,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>伟大祖先的长期统治激励着我们所有人！</zh-CN>
 		<pt-BR>O duradouro reino inspira de um grande ancestral inspira a todos nós!</pt-BR>
 		<ko>위대한 조상의 장기 집권이 모두에게 영감을 줍니다!</ko>
+		<fixja>偉大なる先祖の長きにわたる治世が、我ら全てのものを鼓舞している！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EFFECTPLAYER_TRAIT_INEXPERIENCED</zType>
@@ -1859,6 +2013,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>以年轻且缺乏经验的统治者身份登位</zh-CN>
 		<pt-BR>Comecei meu reinado como um governante jovem e inexperiente</pt-BR>
 		<ko>젊고 경험이 부족한 통치자로 통치를 시작했음</ko>
+		<fixja>経験浅き我が治世が若くして始まった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INEXPERIENCED</zType>
@@ -1872,6 +2027,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>缺乏经验</zh-CN>
 		<pt-BR>Inexperiente</pt-BR>
 		<ko>경험 부족</ko>
+		<fixja>経験不足</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMBITIOUS</zType>
@@ -1885,6 +2041,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>野心勃勃</zh-CN>
 		<pt-BR>Ambicioso</pt-BR>
 		<ko>야심가</ko>
+		<fixja>野望</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANTILI</zType>
@@ -1898,6 +2055,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>汉提里一世</zh-CN>
 		<pt-BR>Hantili I</pt-BR>
 		<ko>한틸리 1세</ko>
+		<fixja>ハンティリ1世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANTILI_DESCRIPTION</zType>
@@ -1911,6 +2069,7 @@ Eu sou Suppiluliuma. Minha ascensão acaba de começar.</pt-BR>
 		<zh-CN>汉提里担任link(TRAIT_HANTILI_LEADER)时，所有新建造的城市初始即拥有link(PROJECT_WALLS)。</zh-CN>
 		<pt-BR>Como Hantili, o link(TRAIT_HANTILI_LEADER), todas as novas cidades fundadas já começam com link(PROJECT_WALLS).</pt-BR>
 		<ko>link(TRAIT_HANTILI_LEADER) 한틸리가 새롭게 설립한 모든 도시는 link(PROJECT_WALLS)과 함께 시작합니다.</ko>
+		<fixja>link(TRAIT_HANTILI_LEADER)であるハンティリ1世が新たに建設した都市は全てlink(PROJECT_WALLS)を備えた状態でスタートする。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HANTILI_STORY</zType>
@@ -1984,6 +2143,13 @@ Eu sou Hantili. Eu levarei os hititas ao futuro.</pt-BR>
       나는 왕으로서 적을 상대로 수많은 군사 작전을 펼쳤고, 백성을 지키기 위해 거대한 요새를 건설했다. 적은 아무리 대비해도 완벽할 수 없다. 나는 시간이 흐를수록 엄청난 회한을 느꼈고, 무르실리에 대한 추억이 그 중심에 있었다. 이는 내가 혼자 감당해야 할 일이다. 이제 내 행동의 정당성을 입증하기 위해 남은 일은 히타이트가 고대에서 제일 위대한 왕국이 되도록 힘쓰는 것이다.
 
       나는 한틸리다. 히타이트를 이끌 것이다.</ko>
+		<fixja>      私はハンティリ、自作自演のヒッタイト王だ。
+
+      かつてムルシリ1世の給仕係だった私は、義兄である王の統治に不満を抱いていた。私は婿のツィダンタの助けを借り、ムルシリを政治から、そしてこの世からも追い出した。
+
+      王として、私は多くの作戦を指揮し、民を守るために大きな要塞を築いた。敵に過信は禁物だ。時が経つにつれ、ムルシリの記憶が源となって、心の中で大きな後悔の念が湧き上がってきた。それは私一人が背負うことだ。あとは、ハッティがこの世界で最も偉大な王国になることで、私の行動が正義であったことを証明するだけである。
+
+      私はハンティリ。ヒッタイトを前進させる者だ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HANTILI_LEADER</zType>
@@ -1997,6 +2163,7 @@ Eu sou Hantili. Eu levarei os hititas ao futuro.</pt-BR>
 		<zh-CN>坚定的保卫者</zh-CN>
 		<pt-BR>Defensor Robusto</pt-BR>
 		<ko>든든한 방어자</ko>
+		<fixja>勇敢なる守り手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VINDICATED</zType>
@@ -2010,6 +2177,7 @@ Eu sou Hantili. Eu levarei os hititas ao futuro.</pt-BR>
 		<zh-CN>证明无辜</zh-CN>
 		<pt-BR>Vingado</pt-BR>
 		<ko>정당성 입증</ko>
+		<fixja>晴れた疑惑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VINDICATED_F</zType>
@@ -2023,6 +2191,7 @@ Eu sou Hantili. Eu levarei os hititas ao futuro.</pt-BR>
 		<zh-CN>证明无辜</zh-CN>
 		<pt-BR>Vingada</pt-BR>
 		<ko>정당성 입증</ko>
+		<fixja>晴れた疑惑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_PUDUHEPA</zType>
@@ -2036,6 +2205,7 @@ Eu sou Hantili. Eu levarei os hititas ao futuro.</pt-BR>
 		<zh-CN>普度赫帕</zh-CN>
 		<pt-BR>Puduhepa</pt-BR>
 		<ko>푸두헤파</ko>
+		<fixja>プドゥヘパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_PUDUHEPA_DESCRIPTION</zType>
@@ -2049,6 +2219,7 @@ Eu sou Hantili. Eu levarei os hititas ao futuro.</pt-BR>
 		<zh-CN>普度赫帕女王在游戏初始时即可建造神殿，她的link(PROJECT_SYNCRETISM)可进一步提高link(CONCEPT_PAGAN_RELIGION)。</zh-CN>
 		<pt-BR>A rainha Puduhepa permite que santuários sejam construídos já no início do jogo e o link(PROJECT_SYNCRETISM) dela dá ainda mais vantagem às link(CONCEPT_PAGAN_RELIGION,2).</pt-BR>
 		<ko>푸두헤파 여왕은 게임 시작부터 신전을 지을 수 있게 하고 link(PROJECT_SYNCRETISM)를 통해 link(CONCEPT_PAGAN_RELIGION)에 더욱 영향력을 행사합니다.</ko>
+		<fixja>プドゥヘパ女王はゲーム開始直後より神殿を建設することができ、link(PROJECT_SYNCRETISM)によりlink(CONCEPT_PAGAN_RELIGION)をさらに有効活用できる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_PUDUHEPA_STORY</zType>
@@ -2122,6 +2293,13 @@ Eu sou Puduhepa. Sob o meu governo, Hati irá prosperar.</pt-BR>
       외교 문제를 처리하거나 궁정을 감독하지 않을 때는 히타이트의 신을 하나로 통합하는 일을 일생의 과업으로 삼았다. 나는 하투실리가 세상을 떠난 뒤 여신-여왕의 칭호를 유지하며 맡은 역할을 계속했다. 
 
       나는 푸두헤파다. 나의 통치하에 히타이트가 번성한다.</ko>
+		<fixja>      私の名はプドゥヘパ、ヒッタイトの王妃である。 
+
+      サウシュガの巫女として育てられた私は、将軍ハットゥシリ3世と結婚し、共に王位に就いた。女王として私は前例のない役割を果たし、ヒッタイトの女王であることの新たな定義を築いた。エジプトとの外交関係で重要な役割を果たしており、ラムセスやネフェルタリとも定期的に連絡を取り合っていた。 
+
+      外交問題や宮廷を監督していないとき、私はヒッタイトの神々を統一した一柱に再編することに捧げた。ハットゥシリ亡き後、私は后妃「タワナアンナ」という肩書きでこの役割を引き継いだ。 
+
+      私はプドゥヘパ。我が支配のもと、ハッティは繁栄している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PUDUHEPA_LEADER</zType>
@@ -2135,6 +2313,7 @@ Eu sou Puduhepa. Sob o meu governo, Hati irá prosperar.</pt-BR>
 		<zh-CN>汇合论者</zh-CN>
 		<pt-BR>Sincretista</pt-BR>
 		<ko>혼합주의자</ko>
+		<fixja>混合主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PUDUHEPA_LEADER_F</zType>
@@ -2148,6 +2327,7 @@ Eu sou Puduhepa. Sob o meu governo, Hati irá prosperar.</pt-BR>
 		<zh-CN>汇合论者</zh-CN>
 		<pt-BR>Sincretista</pt-BR>
 		<ko>혼합주의자</ko>
+		<fixja>混合主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SYNCRETISM</zType>
@@ -2161,6 +2341,7 @@ Eu sou Puduhepa. Sob o meu governo, Hati irá prosperar.</pt-BR>
 		<zh-CN>汇合论</zh-CN>
 		<pt-BR>Sincretismo</pt-BR>
 		<ko>혼합주의</ko>
+		<fixja>混合主義</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MURSILI_II</zType>
@@ -2174,6 +2355,7 @@ Eu sou Puduhepa. Sob o meu governo, Hati irá prosperar.</pt-BR>
 		<zh-CN>穆尔西里二世</zh-CN>
 		<pt-BR>Mursili II</pt-BR>
 		<ko>무르실리 2세</ko>
+		<fixja>ムルシリ2世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MURSILI_II_DESCRIPTION</zType>
@@ -2187,6 +2369,7 @@ Eu sou Puduhepa. Sob o meu governo, Hati irá prosperar.</pt-BR>
 		<zh-CN>虽然穆尔西里二世在起始时具有link(CONCEPT_LEGITIMACY)惩罚，但他和他的伴侣link(CHARACTER_NUVANZA)可以通过选择一个早期抱负来弥补这一点。</zh-CN>
 		<pt-BR>Embora Mursili II comece com uma penalidade de link(CONCEPT_LEGITIMACY) , ele e sua companheira link(CHARACTER_NUVANZA) logo serão capazes de superá-la ao escolher uma ambição.</pt-BR>
 		<ko>무르실리 2세는 link(CONCEPT_LEGITIMACY)이 차감된 상태로 시작하지만, 무르실리 2세와 동료 link(CHARACTER_NUVANZA)가 초기에 야망을 선택하여 바로 만회할 수 있습니다.</ko>
+		<fixja>ムルシリ2世はlink(CONCEPT_LEGITIMACY)のペナルティを背負った状態でスタートするが、彼と彼の仲間のlink(CHARACTER_NUVANZA)は早い段階で「野心」を選ぶことができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MURSILI_II_STORY</zType>
@@ -2260,6 +2443,13 @@ Eu sou Mursili, e eu farei com que o império hitita se estenda dos altos das mo
       어떤 사람은 나의 젊음을 약점으로 생각하고, 부족한 나의 경험을 흠으로 여기지만, 나는 아버지가 통치할 때 가만히 앉아 있지 않고 아버지의 통치 방식을 세세하게 기록해 두었다. 나는 통치 초기에 많은 반란을 잠재웠고, 히타이트의 국경을 확장했다. 나를 깎아내리는 자들은 내 존재가 작다고 생각하지만, 히타이트에 대한 나의 계획은 원대하다.
 
       나는 무르실리다. 히타이트 제국이 높은 산맥과 깊은 바다까지 확장되는 것을 볼 것이다.</ko>
+		<fixja>      私はムルシリ、ヒッタイトの新たな王だ。
+
+      私の父であるスッピルリウマ、そして兄は、エジプト人捕虜がもたらした疫病の犠牲となってしまう。ヒッタイト王国を支配するのは、今や私一人にかかっている。
+
+      私の若さを弱点、経験の浅さを欠点と見る者もいるが、父が国を治める間、何もせず黙っていたわけではなく、父のやり方を詳細に記録していた。私は治世初期に多くの反乱を鎮め、ハッティの国境が拡がるのを目にした。非難する者たちは小さく見積もっているが、私のハッティへ向けた計画は実に壮大なものとなっている。
+
+      私はムルシリ。見届けよう、ヒッタイトが山の高みから海の底まで広がるのを。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HATTI_MURSILI_II_AMBITION_OK</zType>
@@ -2273,6 +2463,7 @@ Eu sou Mursili, e eu farei com que o império hitita se estenda dos altos das mo
 		<zh-CN>证明怀疑我的人是错的</zh-CN>
 		<pt-BR>Provei que meus opositores estavam errados</pt-BR>
 		<ko>의심하는 자들이 틀렸음을 입증하음</ko>
+		<fixja>疑念を抱く者たちの間違いを証明</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HATTI_MURSILI_II_AMBITION_PLUS</zType>
@@ -2286,6 +2477,7 @@ Eu sou Mursili, e eu farei com que o império hitita se estenda dos altos das mo
 		<zh-CN>证明怀疑我的人是错的，并且树立新的抱负</zh-CN>
 		<pt-BR>Provei que meus opositores estavam errados e declarei novas ambições</pt-BR>
 		<ko>의심하는 자들이 틀렸음을 입증하고 새로운 야망을 설정하였음</ko>
+		<fixja>疑念を抱く者たちが間違っていることを証明し、新たな野望を打ち立てた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_DARIUS_CEDES_TO_BARDIYA_LEGITIMACY</zType>
@@ -2299,6 +2491,7 @@ Eu sou Mursili, e eu farei com que o império hitita se estenda dos altos das mo
 		<zh-CN>承认密谋反对巴蒂亚</zh-CN>
 		<pt-BR>Admiti uma trama contra Bardiya</pt-BR>
 		<ko>바르디야에 대한 음모를 꾸민 것을 인정</ko>
+		<fixja>バルディヤに対する陰謀を認めた</fixja>
 	</Entry>
 	<!-- Assyrian dynasties -->
 	<Entry>
@@ -2313,6 +2506,7 @@ Eu sou Mursili, e eu farei com que o império hitita se estenda dos altos das mo
 		<zh-CN>萨穆拉玛特</zh-CN>
 		<pt-BR>Samuramate</pt-BR>
 		<ko>샴무라마트</ko>
+		<fixja>サンムラマート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHAMMURAMAT_DESCRIPTION</zType>
@@ -2326,6 +2520,7 @@ Eu sou Mursili, e eu farei com que o império hitita se estenda dos altos das mo
 		<zh-CN>亚述女王萨穆拉玛特在游戏起始时是link(TRAIT_HERO_ARCHETYPE)，但可以变成link(TRAIT_BUILDER_ARCHETYPE)，然后再切换回来，她可以凭借这个特性在游戏的两个方面都拿出出色的表现。</zh-CN>
 		<pt-BR>A rainha Samuramate começa o jogo como link(TRAIT_HERO_ARCHETYPE,F), mas pode alternar com o arquétipo de link(TRAIT_BUILDER_ARCHETYPE,F), o que permite que ela desempenhe com excelência esses aspectos do jogo.</pt-BR>
 		<ko>샴무라마트 여왕은 link(TRAIT_HERO_ARCHETYPE) 특성으로 게임을 시작하지만, 다시 link(TRAIT_BUILDER_ARCHETYPE) 특성으로 바꾸면 게임의 반대되는 면에서 탁월한 면모를 보여 줄 수 있습니다.</ko>
+		<fixja>サンムラマート女王はスタート時点ではlink(TRAIT_HERO_ARCHETYPE)となっているが、その後はlink(TRAIT_BUILDER_ARCHETYPE)に変わったり、あるいはまた戻ったりすることもできる。これにより両方で、その優れた能力を発揮できるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHAMMURAMAT_STORY</zType>
@@ -2407,6 +2602,14 @@ Como Semíramis, eu me tornarei uma figura lendária, uma semideusa, a trespassa
 
     나는 세미라미스로서 전설적인 인물, 반 여신, 공성을 뚫는 자, 바빌론의 설립자, 공중 정원의 창시자이자 물살이 거친 유프라테스강을 다스린 사람이 될 것이다.
 		</ko>
+		<fixja>    私はアッシリアの女王、サンムラマート。
+	
+    この時代における最も強大な人物、それが私だ。これからも、女性の強さの確固たる象徴として君臨し続ける。
+
+    私は我が軍を率いてアッシリアの敵に立ち向かい、その支配域を四方八方、世界の隅々にまで拡大させた。
+
+    私はセミラミスとして、伝説の存在となる。半神、包囲を打ち破る者、バビロンを築きし者、空中庭園の作り手、そして大河ユーフラテス川を制する者として。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_TUKULTI_NINURTA_I</zType>
@@ -2420,6 +2623,7 @@ Como Semíramis, eu me tornarei uma figura lendária, uma semideusa, a trespassa
 		<zh-CN>图库尔蒂-尼努尔塔一世</zh-CN>
 		<pt-BR>Tuculti-Ninurta I</pt-BR>
 		<ko>투쿨티-닌우르타 1세</ko>
+		<fixja>トゥクルティ・ニヌルタ1世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_TUKULTI_NINURTA_I_DESCRIPTION</zType>
@@ -2433,6 +2637,7 @@ Como Semíramis, eu me tornarei uma figura lendária, uma semideusa, a trespassa
 		<zh-CN>图库尔蒂-尼努尔塔一世可以生成数量无与伦比的link(YIELD_TRAINING)。他还可以通过向其他link(CONCEPT_NATION,2)宣战，获得可观的个人link(CONCEPT_LEGITIMACY)，所以特别适合应对早期冲突。</zh-CN>
 		<pt-BR>Tuculti-Ninurta I ganha uma considerável link(CONCEPT_LEGITIMACY) pessoal ao declarar guerra contra outras link(CONCEPT_NATION,2), o que faz com ele seja adequado para conflitos no começo do jogo.</pt-BR>
 		<ko>투쿨티-닌우르타 1세는 다른 link(CONCEPT_NATION,2)에 전쟁을 선포하여 개인적인 link(CONCEPT_LEGITIMACY)을 상당량 획득하여 초기 전쟁에 매우 적합합니다.</ko>
+		<fixja>トゥクルティ・ニヌルタ1世は他のlink(CONCEPT_NATION,2)に宣戦布告することで、かなりのlink(CONCEPT_LEGITIMACY)を獲得する。これにより初期段階における征服に非常に適していると言えるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_TUKULTI_NINURTA_I_STORY</zType>
@@ -2515,6 +2720,14 @@ Todos tremem perante mim. Minha força não tem comparação e meus feitos são 
 
     모든 사람이 내 앞에서 겁을 먹는다. 내 힘에 대적할 사람은 없으며 나의 행보는 대서사시로 만들어질 만하다.
 		</ko>
+		<fixja>    私はトゥクルティ・ニヌルタ。
+
+    私は不屈の戦士としてエラムを打ち破り、バビロンを占領して略奪し、その王と神を捕らえ、遠くの海岸王国ディルムンとメルッハを征服した。
+
+    伝説の偉大な王たちのようにシュメールとアッカドの王の地位を引き継ぎ、この力を外へ示すために「王の中の王」という新たな称号を自らに与えた。
+
+    すべてが、私の前で震えている。私の強さは他の追随を許さない。この行いこそ、叙事詩に綴られるに相応しい。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ASHUR_UBALLIT_I</zType>
@@ -2528,6 +2741,7 @@ Todos tremem perante mim. Minha força não tem comparação e meus feitos são 
 		<zh-CN>阿舒尔-乌巴立特一世</zh-CN>
 		<pt-BR>Assurubalite I</pt-BR>
 		<ko>아슈르-우발리트 1세</ko>
+		<fixja>アッシュル・ウバリト1世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ASHUR_UBALLIT_I_DESCRIPTION</zType>
@@ -2541,6 +2755,7 @@ Todos tremem perante mim. Minha força não tem comparação e meus feitos são 
 		<zh-CN>阿舒尔-乌巴立特一世会自动从第一个接触的link(CONCEPT_NATION)获得支持，他就可以坚决果断地操纵早期的外交事宜。</zh-CN>
 		<pt-BR>Assurubalite I automaticamente terá a aceitação da primeira link(CONCEPT_NATION) contatada, o que permite que ele manipule a diplomacia como quiser.</pt-BR>
 		<ko>아슈르 우발리트 1세는 처음 접촉한 link(CONCEPT_NATION)로부터 자동으로 대가를 받게 되며, 이를 통해 초기 외교를 가차 없이 조종할 수 있습니다.</ko>
+		<fixja>アッシュル・ウバリト1世は最初に接触したlink(CONCEPT_NATION)から好意的に思われるため、初期段階で大きな外交力を発揮することができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ASHUR_UBALLIT_I_STORY</zType>
@@ -2642,6 +2857,16 @@ Eu dei início a uma nova era para a Assíria, fazendo com ela passasse de um re
 	
     나는 아시리아에 새로운 시대를 열었고, 몇 세기에 걸쳐 교역의 왕국을 주요 열강으로 올라서게 했다.
 		</ko>
+		<fixja>    私はアッシュル・ウバリト。
+		
+    ミタンニに支配されていた祖国。そのミタンニを父が打ち破った。
+	
+    その後、私の外交により、アッシリアは真の世界大国へと変貌した。
+	
+    バビロンが独立に不平を申した時、私は侵略を決め、自ら選んだ王をその王座に据えた。反乱を起こしたときには、彼らの軍隊を叩き潰し、その土地を我らがものとした。
+	
+    私はアッシリアという国に新たな時代をもたらし、貿易王国から何世紀も続く大国へと成長させたのだ。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_FAMILY_US_PROSCRIPTION_TARGET</zType>
@@ -2655,6 +2880,7 @@ Eu dei início a uma nova era para a Assíria, fazendo com ela passasse de um re
 		<zh-CN>与一位不畏惧苏拉的家族领袖组成家族</zh-CN>
 		<pt-BR>Familiar de um líder de família que não tem medo de Sula</pt-BR>
 		<ko>술라를 두려워하지 않는 수장이 있는 가문</ko>
+		<fixja>スッラも恐れぬ当主を持つ氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SARGON_II</zType>
@@ -2668,6 +2894,7 @@ Eu dei início a uma nova era para a Assíria, fazendo com ela passasse de um re
 		<zh-CN>萨尔贡二世</zh-CN>
 		<pt-BR>Sargão II</pt-BR>
 		<ko>사르곤 2세</ko>
+		<fixja>サルゴン2世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SARGON_II_DESCRIPTION</zType>
@@ -2681,6 +2908,7 @@ Eu dei início a uma nova era para a Assíria, fazendo com ela passasse de um re
 		<zh-CN>萨尔贡二世在游戏起始时就可以制定link(LAW_EPICS)，在早期就能建立驻军，并通过早期战斗快速获得文化。</zh-CN>
 		<pt-BR>Sargão II pode decretar a lei de link(LAW_EPICS) desde o início do jogo, o que permite que ele construa guarnições rapidamente e ganhe cultura com combates no inicio do jogo.</pt-BR>
 		<ko>사르곤 2세는 게임 시작부터 link(LAW_EPICS) 법률을 시행하여 초기에 병영을 짓고 초반 분쟁을 통해 문화를 빠르게 획득할 수 있습니다.</ko>
+		<fixja>サルゴン2世はゲーム開始時点からlink(LAW_EPICS)の制定が可能で駐屯地の建設が行え、また序盤の戦いより「文化」の獲得ができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SARGON_II_STORY</zType>
@@ -2782,6 +3010,16 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 
     나와 내 제국을 위해 타의 추종을 불허하는 화려한 수도를 설립하고 궁전을 건설했다. 나는 설계에 직접 관여했다. 내 아들 link(CHARACTER_SENNACHERIB)은 나만큼 위대할 것이며, 위대한 불가사의를 많이 건설할 것이며, 그중에서도 공중 정원은 영원히 기억될 것이다.
 		</ko>
+		<fixja>    我が名はトゥクルティ・アピル・エシャラの息子、シャル＝ケヌ。異国の者にはティグラト・ピレセルの息子、サルゴンの名で知られている。
+
+    父はアッシリアを世界最初の帝国へと押し上げた。そこに名付けられた、メソポタミアの初代王を思わせる息子の名前。この影響は王朝全体へと及ぶことだろう。我が治世は、彼とギルガメシュの英雄叙事詩に倣ったものであった。
+	
+    我は世界の四隅を征服しつつも、民間人は寛大に扱い、帝国に組み入れるよう努めた。何人かの敵を許した。
+
+    宮廷における女性の権力を高め、女王に個人の軍隊を与えた。
+
+    我は自身とこの帝国のため、比類なき宮殿を擁する素晴らしき首都を新たに築いた。私はその設計に直接関わった。息子であるlink(CHARACTER_SENNACHERIB)も我と同じように、数多くの驚異的な遺産を自ら設計して築いてゆく。その中には、時の終わりまで語り継がれる空中庭園もあることだろう。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGENDARY_FOUNDER_TO_HERO</zType>
@@ -2795,6 +3033,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>从传奇link(TRAIT_BUILDER_ARCHETYPE)转变为现实link(TRAIT_HERO_ARCHETYPE)</zh-CN>
 		<pt-BR>De link(TRAIT_BUILDER_ARCHETYPE,F) lendária a verdadeira link(TRAIT_HERO_ARCHETYPE,F)</pt-BR>
 		<ko>전설적인 link(TRAIT_BUILDER_ARCHETYPE)에서 실제 link(TRAIT_HERO_ARCHETYPE)으로</ko>
+		<fixja>伝説のlink(TRAIT_BUILDER_ARCHETYPE)から実在するlink(TRAIT_HERO_ARCHETYPE)へ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_REAL_HERO_TO_BUILDER</zType>
@@ -2808,6 +3047,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>从现实link(TRAIT_HERO_ARCHETYPE)转变为传奇link(TRAIT_BUILDER_ARCHETYPE)</zh-CN>
 		<pt-BR>De verdadeira link(TRAIT_HERO_ARCHETYPE,F) a link(TRAIT_BUILDER_ARCHETYPE,F) lendária</pt-BR>
 		<ko>실제 link(TRAIT_HERO_ARCHETYPE)에서 전설적인 link(TRAIT_BUILDER_ARCHETYPE)로</ko>
+		<fixja>実在するlink(TRAIT_HERO_ARCHETYPE)から伝説の link(TRAIT_BUILDER_ARCHETYPE)へ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_LEGENDARY_FOUNDER_TO_HERO</zType>
@@ -2821,6 +3061,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>成为著名的link(TRAIT_HERO_ARCHETYPE)</zh-CN>
 		<pt-BR>Adquira fama como link(TRAIT_HERO_ARCHETYPE,F)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE)으로 소문이 남</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)として知られるように</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_LEGENDARY_FOUNDER_TO_HERO_DESCRIPTION</zType>
@@ -2834,6 +3075,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>从传奇link(TRAIT_BUILDER_ARCHETYPE)转变而来，你已经成为了著名的现实link(TRAIT_HERO_ARCHETYPE)</zh-CN>
 		<pt-BR>Antes conhecida como link(TRAIT_BUILDER_ARCHETYPE,F) lendária, agora você é conhecida como verdadeira link(TRAIT_HERO_ARCHETYPE,F).</pt-BR>
 		<ko>전설적인 link(TRAIT_BUILDER_ARCHETYPE)였지만, 실제 link(TRAIT_HERO_ARCHETYPE)으로 소문이 남</ko>
+		<fixja>伝説のlink(TRAIT_BUILDER_ARCHETYPE)から実在するlink(TRAIT_HERO_ARCHETYPE)として知られるように</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REAL_HERO_TO_BUILDER</zType>
@@ -2847,6 +3089,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>成为著名的link(TRAIT_BUILDER_ARCHETYPE)</zh-CN>
 		<pt-BR>Adquira fama como link(TRAIT_BUILDER_ARCHETYPE,F)</pt-BR>
 		<ko>link(TRAIT_BUILDER_ARCHETYPE)로 소문이 남</ko>
+		<fixja>link(TRAIT_BUILDER_ARCHETYPE)として知られるように</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_REAL_HERO_TO_BUILDER_DESCRIPTION</zType>
@@ -2860,6 +3103,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>从现实link(TRAIT_HERO_ARCHETYPE)转变而来，你已经成为了著名的传奇link(TRAIT_BUILDER_ARCHETYPE)</zh-CN>
 		<pt-BR>Antes conhecida como verdadeira link(TRAIT_HERO_ARCHETYPE,F), agora você é conhecida como link(TRAIT_BUILDER_ARCHETYPE,F) lendária.</pt-BR>
 		<ko>실제로는 link(TRAIT_HERO_ARCHETYPE)이었지만, 전설적인 link(TRAIT_BUILDER_ARCHETYPE)로 소문이 남</ko>
+		<fixja>実在するlink(TRAIT_HERO_ARCHETYPE)から伝説の link(TRAIT_BUILDER_ARCHETYPE)として知られるように</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_KING_OF_KINGS_DECLARED_WAR</zType>
@@ -2873,6 +3117,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>来自向其他大国宣战</zh-CN>
 		<pt-BR>Por declarar guerra contra outras grandes nações</pt-BR>
 		<ko>다른 주요 국가에 전쟁을 선포한 효과</ko>
+		<fixja>主要国への宣戦布告から</fixja>
 	</Entry>
 	<!-- Babylonian dynasties -->
 	<Entry>
@@ -2887,6 +3132,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>阿达德-古比</zh-CN>
 		<pt-BR>Adagupi</pt-BR>
 		<ko>아다드-구피</ko>
+		<fixja>アッダ・グッピ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ADAD_GUPPI_DESCRIPTION</zType>
@@ -2900,6 +3146,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>阿达德-古比是一位link(TRAIT_INTELLIGENT)的女王，寿命长得出奇。</zh-CN>
 		<pt-BR>Adagupi é uma rainha link(TRAIT_INTELLIGENT) de vida bastante longeva.</pt-BR>
 		<ko>아다드 구피는 link(TRAIT_INTELLIGENT) 여왕이며 특이할 정도로 오래 살았습니다.</ko>
+		<fixja>アッダ・グッピはlink(TRAIT_INTELLIGENT)な女王であり、驚くべき長寿でも知られている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HAMMURABI</zType>
@@ -2913,6 +3160,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>汉谟拉比</zh-CN>
 		<pt-BR>Hamurabi</pt-BR>
 		<ko>함무라비</ko>
+		<fixja>ハンムラビ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HAMMURABI_DESCRIPTION</zType>
@@ -2926,6 +3174,7 @@ Para mim e meu império, eu construí uma maravilhosa nova capital e um palácio
 		<zh-CN>汉谟拉比可以开展独特的link(MISSION_COURT_OF_THE_DIVINE_KING)任务，并替换掉link(MISSION_HOLD_COURT)，产生两倍的产出，以及有两倍的机会招募朝臣。</zh-CN>
 		<pt-BR>Hamurabi tem acesso à missão única link(MISSION_COURT_OF_THE_DIVINE_KING), que substitui a missão de link(MISSION_HOLD_COURT) produzindo o dobro da receita, e tem o dobro de chance de recrutar membros da corte.</pt-BR>
 		<ko>함무라비는 link(MISSION_HOLD_COURT) 임무를 대체하는 link(MISSION_COURT_OF_THE_DIVINE_KING)라는 독특한 임무에 접근할 수 있으며, 생산량이 두 배가 되고 신하를 모집할 가능성이 두 배가 됩니다.</ko>
+		<fixja>ハンムラビはlink(MISSION_COURT_OF_THE_DIVINE_KING)という独自のミッションが実行できる。これはlink(MISSION_HOLD_COURT)の代替で生産量および廷臣が加わる確率が2倍になる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_HAMMURABI_STORY</zType>
@@ -3129,6 +3378,27 @@ A história se lembrará de mim como um modelo de justiça.  </pt-BR>
 	  
     역사는 나를 정의의 본보기로 기억할 것이다.
 	  </ko>
+		<fixja>    私はシン・ムバリットの息子、ハンムラビである。
+		
+    病魔に襲われた父は、私にバビロンの王位に就くよう求めた。我が治世下でバビロンというこの小国は、いつの時代もあらゆる都市の規範となるほど上位の存在となる。
+
+    我が支配の下、バビロンは偉大なる王国の中心となり、その神マルドゥクが台頭する。そして、何世紀にもわたってバビロニア文化の覇権は高まることであろう。
+
+    長年にわたって私は平和な治世を行い、都市の寺院の世話をし、法律を改正した。
+
+    しかしエラムがエシュヌンナを襲い、南の地を荒らした時、私はラルサ、ヤムハド、そしてマリと同盟を結んだ。
+	そうして、我が勢力は侵略者を完全に打ち砕いたのだ。
+
+    その後、私はラルサを征服した。ラルサはこの戦争で十分な支援をしなかったのだ。
+    そうして、私はエシュヌンナを手に入れた。この地を再建できるほどの強き王が要る。
+    その後、ヤムハドを征服した。北部は不穏な空気に包まれていた。
+    そして私はマリを征服し、この大都市を焼き払った。
+    その後、私はイシュメ・ダガンのアッシリアを手中に収めた。
+
+    私はメソポタミア全土を支配下に置いた。私は国民から神聖視していた。
+	  
+    歴史は、正義の模範として私のことを記憶することだろう。
+	  </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_NEBUCHADNEZZAR_I</zType>
@@ -3142,6 +3412,7 @@ A história se lembrará de mim como um modelo de justiça.  </pt-BR>
 		<zh-CN>尼布甲尼撒一世</zh-CN>
 		<pt-BR>Nabucodonosor I</pt-BR>
 		<ko>네부카드네자르 1세</ko>
+		<fixja>ネブカドネザル1世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_NEBUCHADNEZZAR_I_DESCRIPTION</zType>
@@ -3155,6 +3426,7 @@ A história se lembrará de mim como um modelo de justiça.  </pt-BR>
 		<zh-CN>尼布甲尼撒一世麾下的远程单位可以隐藏在森林中，而且所有单位在地图上的视野都会增加。尼布甲尼撒一世在征服第一个link(TRIBE_BARBARIANS,1)或link(CONCEPT_TRIBE,3)营地之后，就能得到一个额外的link(UNIT_SLINGER)和一个额外的link(UNIT_SCOUT)。</zh-CN>
 		<pt-BR>No governo de Nabucodonosor I, as unidades a distância ficam ocultas em florestas e todas as unidades tem mais visão do mapa. Ao conquistar seus primeiros link(TRIBE_BARBARIANS) ou campo link(CONCEPT_TRIBE,3), Nabucodonosor I receberá um link(UNIT_SLINGER) e um link(UNIT_SCOUT) adicionais.</pt-BR>
 		<ko>네부카드네자르 1세가 통치 중일 때는 원거리 유닛이 숲 속에 숨을 수 있고, 지도에서 모든 유닛의 시야가 증가합니다. 첫 번째 link(TRIBE_BARBARIANS,1) 혹은 link(CONCEPT_TRIBE,3) 야영지를 정복한 네부카드네자르 1세는 추가 투석link(UNIT_SLINGER)과 link(UNIT_SCOUT)을 획득합니다.</ko>
+		<fixja>ネブカドネザル1世の統治下では遠隔ユニットは森林に隠れることができ、全ユニットのマップ上での視界が広がる。最初にlink(TRIBE_BARBARIANS,1)またはlink(CONCEPT_TRIBE,3)のキャンプを征服した際にlink(UNIT_SLINGER)とlink(UNIT_SCOUT)を追加で獲得する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_NEBUCHADNEZZAR_I_STORY</zType>
@@ -3228,6 +3500,13 @@ Com meus inimigos derrotados, eu restaurarei a prosperidade das terras e meu nom
     나는 전쟁의 기술을 익혔다. 위대한 왕국이 흔들리는 불안정한 시기에 바빌론의 적들을 단죄하고 궤멸하여 우리 땅에서 그들의 위협을 물리칠 것이며, 내가 마땅히 차지해야 할 왕좌에 나의 신 마르두크를 다시 올릴 것이다.
 
     나의 적을 물리친 이 땅에 번영을 되돌리고 내 이름이 영원히 울려 퍼지게 할 것이다.</ko>
+		<fixja>    私はバビロンの王、ニヌルタ・ナディン・シュミの息子で、その王の名の最初の担い手、ナブー・クドゥリ・ウールだ。
+
+    私は王権の遠い末裔、洪水より前に保存されし種、シッパルの王エンメドゥランキの子孫であり、純粋なる器を用意し、香杉の笏を持ち、神々の裁定者であるシャマシュとアダドの前に座った者、正義の王ニヌルタ・ナディン・シュミの長男であり、信頼できる牧者、国土の基盤を守る者…偉大な神々アダドとグラの子孫、ニップルの分枝、古の血統、シュジアンナの第一の侍従、アンシャールの双子の姉妹、アヌとダガンによって指名され、偉大な神々によって確固たる選択を受けた者である。
+
+    私は戦術訓練を積んできた。大王国が挫かれたこの不確かな時代でバビロンの敵を罰し、根絶やしにしてみせる。バビロンの脅威をこの地から排し、マルドゥク神をふさわしい位置、つまりバビロンの玉座に戻す。私はその玉座を借りているにすぎない。
+
+    祖国の敵は打ち破られ、私はこの地に繁栄を取り戻し、この名は人々の記憶の彼方へと永遠に刻まれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ADAD_GUPPI_STORY</zType>
@@ -3301,6 +3580,13 @@ Sîn me presenteou com grande longevidade. A vontade dele é a minha e eu farei 
     달의 신인 신은 나를 여사제로 임명했다. 나는 하란과 우르에서 그의 성소를 돌봤고, 언젠가 신이 아들을 바빌론 왕좌에 오르게 할 것이라는 계시를 받았다.
 	  
     신은 나에게 긴 목숨을 선물로 주셨다. 신의 뜻이 곧 나의 뜻이다. 나는 계시가 이루어지는 것을 볼 것이다.</ko>
+		<fixja>    私はアダド・グッピ。かつてこの世界の誰も目にしたことがないような強大なる支配者、その長きにわたる家系の末裔である。
+
+    偉大なる王の娘であり、次の王の母である私は、バビロニアの支配者が纏うマントを身につけた。
+		
+    月の神シンは私を巫女に指名した。私はハランとウルにある聖域で、神のお世話をさせていただいていた。すると、いつか我が息子をバビロンの王位に就かせるという予言を授かった。
+	  
+    シンは私に長い年月を与えてくださった。主の御心は私のものであり、私は預言が成就するのを見届けるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_KURIGALZU_I</zType>
@@ -3314,6 +3600,7 @@ Sîn me presenteou com grande longevidade. A vontade dele é a minha e eu farei 
 		<zh-CN>库里加祖一世</zh-CN>
 		<pt-BR>Curigalzu I</pt-BR>
 		<ko>쿠리갈주 1세</ko>
+		<fixja>クリガルズ1世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_KURIGALZU_I_DESCRIPTION</zType>
@@ -3327,6 +3614,7 @@ Sîn me presenteou com grande longevidade. A vontade dele é a minha e eu farei 
 		<zh-CN>link(NATION_BABYLONIA)在库里加祖的统治下可以用link(YIELD_TRAINING)购买图块，从军事力量转向和平的领土扩张。</zh-CN>
 		<pt-BR>No governo de Curigalzu, a link(NATION_BABYLONIA) pode comprar casas com link(YIELD_TRAINING), o que permite que o poder militar seja direcionado à pacífica expansão territorial.</pt-BR>
 		<ko>쿠리갈주가 통치 중일 때는 link(NATION_BABYLONIA)가 link(YIELD_TRAINING)이 있는 타일을 사서 평화적인 영토 확장을 위해 군사력을 재배치할 수 있습니다.</ko>
+		<fixja>クリガルズの統治するlink(NATION_BABYLONIA)では、link(YIELD_TRAINING)によるタイルの購入が可能で、軍事力を平和的な領土拡大に使うことができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_KURIGALZU_STORY</zType>
@@ -3449,6 +3737,18 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 
     나는 바빌론의 위대한 카시트인 왕이자 훌륭한 건설의 왕으로 남을 것이다.
 		</ko>
+		<fixja>    私はバビロンの王カダシュマン・ハルベの息子、クリガルズだ。
+		
+    エラムのウル・バティラがこの地を急襲し、戦争へと駆り立てた。そのとき、私は敵の軍勢を完全に打ち破り、彼を捕らえてエラムの脅威を終結させた。
+
+    偉大なるバビロニア王国とその都市を再建したことで、よりよく記憶されていることだろう。
+
+    初めにこの王権に相応しいものとして、我が名を冠した王宮を建てた。この地盤が揺らぐことはない。この先も王宮は、王国を見守ってくれることであろう。
+
+    私は城塞の完成者であり、エクルを完成させし者、ウルとウルクを養う者、エリドゥの儀式を守りし者、アン神殿とイシュタル神殿の建設者、そして偉大な神々の供物を保証せし者である。
+
+    私はバビロンで最も偉大なカッシート王であり、最も偉大な建設王の一人であり続けるだろう。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_COURT_OF_THE_DIVINE_KING</zType>
@@ -3462,6 +3762,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>神王宫廷</zh-CN>
 		<pt-BR>Audiência do Rei Divino</pt-BR>
 		<ko>신성한 왕의 국정 논의</ko>
+		<fixja>神王の法廷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_COURT_OF_THE_DIVINE_KING_DESCRIPTION</zType>
@@ -3475,6 +3776,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>通过神圣审判以增加link(YIELD_CIVICS)</zh-CN>
 		<pt-BR>Realize julgamentos divinos para ganhar mais link(YIELD_CIVICS)</pt-BR>
 		<ko>신성한 판결을 내려 link(YIELD_CIVICS)을 얻는다</ko>
+		<fixja>神聖なる裁定を下し、更なるlink(YIELD_CIVICS)を獲得する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING</zType>
@@ -3488,6 +3790,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>神王掌管宫廷</zh-CN>
 		<pt-BR>O Rei Divino realizou uma audiência</pt-BR>
 		<ko>신성한 왕이 국정을 논의했음</ko>
+		<fixja>開かれた神王の法廷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING_DESCRIPTION</zType>
@@ -3501,6 +3804,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>神王掌管宫廷，发布了明智的裁决和重要的改革。</zh-CN>
 		<pt-BR>O Rei Divino realizou uma audiência e decretou sábios julgamentos e reformas importantes.</pt-BR>
 		<ko>신성한 왕이 국정을 논의하여 현명한 판단을 내리고 중요한 개혁을 단행했다.</ko>
+		<fixja>法廷を開いた神王が、賢明な判決と重要な改革を行った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING_COURTIER</zType>
@@ -3514,6 +3818,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>神王宫廷，新朝臣</zh-CN>
 		<pt-BR>Audiência do Rei Divino, novo membro da corte</pt-BR>
 		<ko>신성한 왕의 국정 논의, 신규 신하</ko>
+		<fixja>神王の法廷、新たな廷臣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING_COURTIER_DESCRIPTION</zType>
@@ -3527,6 +3832,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>你在统领宫廷期间发现了一位前途无量的link(CONCEPT_COURTIER)。</zh-CN>
 		<pt-BR>Enquanto você realizava uma audiência, descobriu um novo link(CONCEPT_COURTIER) promissor.</pt-BR>
 		<ko>국정 논의 중 유명한 link(CONCEPT_COURTIER)를 발굴할 수 있었습니다.</ko>
+		<fixja>法廷が開いているときに、前途有望な若いlink(CONCEPT_COURTIER)を発見した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LONG_LIVED</zType>
@@ -3540,6 +3846,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>长寿</zh-CN>
 		<pt-BR>Vida Longeva</pt-BR>
 		<ko>장수</ko>
+		<fixja>長寿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LONG_LIVED_F</zType>
@@ -3553,6 +3860,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>长寿</zh-CN>
 		<pt-BR>Vida Longeva</pt-BR>
 		<ko>장수</ko>
+		<fixja>長寿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PEACEFUL_EXPANSIONIST</zType>
@@ -3566,6 +3874,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>和平扩张者</zh-CN>
 		<pt-BR>Expansionista pacífico</pt-BR>
 		<ko>평화로운 확장주의자</ko>
+		<fixja>平和的拡大主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PEACEFUL_EXPANSIONIST_F</zType>
@@ -3579,6 +3888,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>和平扩张者</zh-CN>
 		<pt-BR>Expansionista pacífica</pt-BR>
 		<ko>평화로운 확장주의자</ko>
+		<fixja>平和的拡大主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_KING_OF_KINGS</zType>
@@ -3592,6 +3902,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>诸王之王</zh-CN>
 		<pt-BR>Rei de Reis</pt-BR>
 		<ko>왕 중의 왕</ko>
+		<fixja>王の中の王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_KING_OF_KINGS_F</zType>
@@ -3605,6 +3916,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>女王之王</zh-CN>
 		<pt-BR>Rainha de Rainhas</pt-BR>
 		<ko>여왕 중의 여왕</ko>
+		<fixja>女王の中の女王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_DARIUS_DESCRIPTION</zType>
@@ -3618,6 +3930,7 @@ Eu seguirei sendo o maior dos reis cassitas da Babilônia e um de seus maiores r
 		<zh-CN>大流士在国家治理方面是一位精干的改革者，他有能力以link(YIELD_CIVICS)花费的一半开销任命统治者。他与巴蒂亚也有一段纠葛。巴蒂亚是一个短暂在位的国王，被大流士废黜，但仍在觊觎着王位。</zh-CN>
 		<pt-BR>Dário é um eficiente reformista do governo nacional, com a habilidade de nomear governadores pela metade do preço em link(YIELD_CIVICS). Ele também tem um problema chamado Bardiya, um rei cujo breve governo foi encerrado por Dário e que ainda tem pretensões ao trono.</pt-BR>
 		<ko>국가 통치 방식을 효율적으로 개혁한 다리우스는 절반의 link(YIELD_CIVICS) 비용으로 모든 도시에 총독을 임명할 수 있습니다. 잠시 통치했다가 다리우스가 폐위시켰던 바르디야 왕은 아직도 왕좌를 노리고 있어 문제가 되고 있습니다.</ko>
+		<fixja>国家統治の改革者、ダレイオス。彼は半分のlink(YIELD_CIVICS)コストで総督を任命することができる。彼はかつてダレイオスの前に国王の地位にあり、彼によって退位させられたバルディヤーという対立者の問題を抱えている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_DARIUS_STORY</zType>
@@ -3671,6 +3984,11 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 	사촌 캄비세스가 왕이 된 뒤 미쳐 버리자 페르시아의 역사가 바뀌었다. 그는 형제인 바르디야를 죽였지만, 페르시아 사람들은 그 사실을 몰랐다. 가우마타라는 이름의 찬탈자가 궁정에 와서 살해당한 바르디야를 사칭했고, 사람들 사이를 돌아다니며 자신을 왕으로 인정해 달라고 했다. 캄비세스는 찬탈자와 거래를 맺으려고 원정에서 돌아오기 전에 죽었다.
 		
 	나는 아후라 마즈다에게 도움을 요청했고, 아후라 마즈다가 나를 도우셨다. 나는 가우마타와 최측근 동맹을 처단했다. 나는 왕국을 차지했다. 내가 왕이 되었다.</ko>
+		<fixja>      私はダリウス。最近までならば、私のことを知らなかったとしても構わない。私の父、ヒスタスペスは統治者ではなく、州を治める総督「サトラップ」だった。私はエジプトで兵士をしていた。だが、大したことは何もしていない。
+		
+	ペルシャの歴史は、私の従兄弟であるカンビュセスが王となり、狂気に陥ったことで一変した。弟のバルディアを殺害した彼。だが、ペルシアの人々がその事実を知ることはなかった。そこに、ガウマタと名乗る者が宮廷に現れる。彼は王位を簒奪すべく殺害されたバルディアになりすまし、人々の間に出向いて、自らを王として認めるよう呼びかけた。カンビュセスは簒奪者に対処するため、遠征から帰還するその前に亡くなった。
+		
+	私はアフラ・マズダに助けを求めた。私はガウマタと、彼の最大の味方だった者たちを打ちのめした。私は王国を手に入れた。私は王になった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DARIUS_LEADER</zType>
@@ -3684,6 +4002,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>大流士</zh-CN>
 		<pt-BR>Dário</pt-BR>
 		<ko>다리우스</ko>
+		<fixja>ダレイオス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DARIUS_LEADER_HISTORICAL</zType>
@@ -3697,6 +4016,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>大流士 (𐎭𐎠𐎼𐎹𐎺𐎢𐏁)</zh-CN>
 		<pt-BR>Darayauš (𐎭𐎠𐎼𐎹𐎺𐎢𐏁)</pt-BR>
 		<ko>다라야우슈 (𐎭𐎠𐎼𐎹𐎺𐎢𐏁)</ko>
+		<fixja>ダーラヤワウ (𐎭𐎠𐎼𐎹𐎺𐎢𐏁)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DARIUS_LEADER</zType>
@@ -3710,6 +4030,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>政府改革者</zh-CN>
 		<pt-BR>Reformista do Governo</pt-BR>
 		<ko>정부 개혁가</ko>
+		<fixja>行政改革者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_DARIUS_LEADER</zType>
@@ -3723,6 +4044,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>政府改革者</zh-CN>
 		<pt-BR>Reformista do Governo</pt-BR>
 		<ko>정부 개혁가</ko>
+		<fixja>行政改革者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DARIUS_LEADER</zType>
@@ -3736,6 +4058,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>政府改革者</zh-CN>
 		<pt-BR>Reformista do Governo</pt-BR>
 		<ko>정부 개혁가</ko>
+		<fixja>行政改革者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BARDIYA_GAUMATA</zType>
@@ -3749,6 +4072,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>被废黜的国王</zh-CN>
 		<pt-BR>Rei Deposto</pt-BR>
 		<ko>폐위된 왕</ko>
+		<fixja>退位した王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BOOST_LEGITIMACY_BARDIYA</zType>
@@ -3762,6 +4086,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>提高合法性</zh-CN>
 		<pt-BR>Fortalecer Legitimidade</pt-BR>
 		<ko>위신 증가</ko>
+		<fixja>正統性を高めよ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BOOST_LEGITIMACY_BARDIYA_CHARACTER</zType>
@@ -3775,6 +4100,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>提高合法性，方式为</zh-CN>
 		<pt-BR>Fortalecer Legitimidade através de</pt-BR>
 		<ko>위신 증가, 실행인:</ko>
+		<fixja>正統性を高めよ：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPAWN_MILITIA_STATEIRA</zType>
@@ -3788,6 +4114,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>强行征用</zh-CN>
 		<pt-BR>Forçar Serviço</pt-BR>
 		<ko>복무 압박</ko>
+		<fixja>徴集</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPAWN_MILITIA_STATEIRA_CHARACTER</zType>
@@ -3801,6 +4128,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>强行征用，方式为</zh-CN>
 		<pt-BR>Forçar Serviço através de</pt-BR>
 		<ko>복무 압박, 실행인:</ko>
+		<fixja>徴集：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SPAWN_MILITIA_STATEIRA</zType>
@@ -3814,6 +4142,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>已征用民兵</zh-CN>
 		<pt-BR>Forçado à milícia</pt-BR>
 		<ko>민병대를 압박함</ko>
+		<fixja>派遣された民兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BOOST_LEGITIMACY_BARDIYA</zType>
@@ -3827,6 +4156,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>合法性已提升</zh-CN>
 		<pt-BR>Legitimidade fortalecida</pt-BR>
 		<ko>위신이 증가함</ko>
+		<fixja>正統性が高まった：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_BOOST_LEGITIMACY_BARDIYA_DESCRIPTION</zType>
@@ -3840,6 +4170,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>你散布了精心设计的故事，增强了你夺取王位的合法性。</zh-CN>
 		<pt-BR>Você difundiu histórias bem contadas para fortalecer sua reinvindicação ao trono.</pt-BR>
 		<ko>왕좌가 당신의 것이라는 주장을 강화할 수 있는 잘 짜인 이야기를 퍼뜨렸습니다.</ko>
+		<fixja>私こそ王位を引き継ぐのに相応しい…そう思わせるために、よく練られたストーリーを広めてきた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_MISSIONRESULT_BOOST_LEGITIMACY_BARDIYA</zType>
@@ -3853,6 +4184,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>已提升自己的合法性</zh-CN>
 		<pt-BR>Fortaleceu a própria legitimidade</pt-BR>
 		<ko>자신의 위신을 높임</ko>
+		<fixja>自らの正統性を高めた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SPAWN_MILITIA_STATEIRA_DESCRIPTION</zType>
@@ -3866,6 +4198,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>你已迫使公民参军服役。</zh-CN>
 		<pt-BR>Você forçou cidadãos a se tornarem militares.</pt-BR>
 		<ko>시민들이 군대에 복무하도록 압박했습니다.</ko>
+		<fixja>あなたは市民に軍への奉仕を強要した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHAPUR_DESCRIPTION</zType>
@@ -3879,6 +4212,7 @@ Eu pedi ajuda a Ahura Mazda, e Ahura Mazda me ajudou. Eu derrotei Gaumata e seus
 		<zh-CN>沙普尔是一个咄咄逼人的征服者，他的link(UNITTRAIT_MELEE)和link(UNITTRAIT_SHIP)单位初始时就拥有link(PROMOTION_STRIKE1)。他拥有独特的link(PROJECT_FOUND_RELIGION)项目，如果link(RELIGION_ZOROASTRIANISM)确立为国教，沙普尔会因为与宗教建立了积极关系而遇到有利事件。</zh-CN>
 		<pt-BR>Sapor é um conquistador agressivo cujas unidades link(UNITTRAIT_MELEE) e link(UNITTRAIT_SHIP) começam com link(PROMOTION_STRIKE1). Ele tem acesso a um projeto único de link(PROJECT_FOUND_RELIGION) e, se ele definir o link(RELIGION_ZOROASTRIANISM) como a religião oficial, Sapor provocará eventos favoráveis ao estabelecer uma boa relação com a religião.</pt-BR>
 		<ko>샤푸르는 공격적인 정복자로 소속된 link(UNITTRAIT_MELEE)와 link(UNITTRAIT_SHIP) 유닛이 link(PROMOTION_STRIKE1)으로 시작합니다. 독특한 link(PROJECT_FOUND_RELIGION) 사업에 접근할 수 있으며, link(RELIGION_ZOROASTRIANISM)가 국교가 되면 샤푸르가 해당 종교와 우호적인 관계를 구축해 긍정적인 사건이 발생합니다.</ko>
+		<fixja>攻撃的な征服者、シャープール。彼の持つlink(UNITTRAIT_MELEE)、link(UNITTRAIT_SHIP)ユニットは生産直後よりlink(PROMOTION_STRIKE1)の昇進を持つ。彼はlink(PROJECT_FOUND_RELIGION)プロジェクトを実行でき、link(RELIGION_ZOROASTRIANISM)が国教となった場合、この宗教と良好な関係を築くことにより有益なイベントが発生する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHAPUR_STORY</zType>
@@ -3932,6 +4266,11 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 	나는 왕으로서 동쪽의 쿠시인들을 지배했다. 나는 아름다운 도시 니슈푸르를 설립했다. 서쪽으로는 한때 아시리아의 땅이었던 곳으로 진군했다. 로마인들의 공격을 받았을 때, 처음에는 전쟁이 힘겨웠지만, 나는 로마인도 무찔렀다. 아이 티를 겨우 벗은 로마의 황제가 죽었고, 그의 자리를 대신하여 아라비아에서 온 로마인이 평화 협상을 위해 우리에게 막대한 보상금을 지급했다.
 		
 	나는 그 무엇보다도 아후라 마즈다의 신실한 추종자다. 그의 지혜가 페르시아 전역에 축복을 내리기를 바란다.</ko>
+		<fixja>      私はシャープール。アルダシールの子であり、ペルシスの初代王、そしてイラン人の諸王の王となった者だ。父の軍事遠征で実力を証明した後、私は父の跡を継いでサーサーン朝の第2代王として即位した。
+		
+	王として、私は東方のクシャーナ朝に対して支配権を主張した。私は美しき都市「ニーシャープール」を築いた。西側では、かつてアッシリアがあった土地にまで進出した。ローマ軍が攻めてきた時、序盤はかなり厳しい戦いとなった…だが、結果的に私は打ち勝った。まだ子供だったローマ皇帝も、その戦争で敗死する。代わりにアラビアから来たローマ人が和平交渉を行い、我々に多額の補償金を支払った。
+		
+	とりわけ、私はアフラ・マズダの忠実な信者である。神の叡智が、ペルシャ全土に祝福をもたらさんことを。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAPUR_LEADER</zType>
@@ -3945,6 +4284,7 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 		<zh-CN>沙普尔</zh-CN>
 		<pt-BR>Sapor</pt-BR>
 		<ko>샤푸르</ko>
+		<fixja>シャープール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAPUR_LEADER_HISTORICAL</zType>
@@ -3958,6 +4298,7 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 		<zh-CN>沙普尔 (𐭱𐭧𐭯𐭥𐭧𐭥𐭩)</zh-CN>
 		<pt-BR>Šābuhr (𐭱𐭧𐭯𐭥𐭧𐭥𐭩)</pt-BR>
 		<ko>샤부르 (𐭱𐭧𐭯𐭥𐭧𐭥𐭩)</ko>
+		<fixja>シャープフル (𐭱𐭧𐭯𐭥𐭧𐭥𐭩)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHAPUR_LEADER</zType>
@@ -3971,6 +4312,7 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 		<zh-CN>虔诚的征服者</zh-CN>
 		<pt-BR>Conquistador Devoto</pt-BR>
 		<ko>헌신적인 정복자</ko>
+		<fixja>敬虔な征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SHAPUR_LEADER</zType>
@@ -3984,6 +4326,7 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 		<zh-CN>虔诚的征服者</zh-CN>
 		<pt-BR>Conquistador Devoto</pt-BR>
 		<ko>헌신적인 정복자</ko>
+		<fixja>敬虔な征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SHAPUR_LEADER</zType>
@@ -3997,6 +4340,7 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 		<zh-CN>虔诚的征服者</zh-CN>
 		<pt-BR>Conquistador Devoto</pt-BR>
 		<ko>헌신적인 정복자</ko>
+		<fixja>敬虔な征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_STATEIRA_DESCRIPTION</zType>
@@ -4010,6 +4354,7 @@ Acima de tudo, eu sou um fiel seguidor de Ahura Mazda. Que a sabedoria dele aben
 		<zh-CN>斯妲特拉是一位王后，一心想要建造艰巨的建筑项目。她可以强迫公民进行劳动，以获得额外的link(UNIT_WORKER,2)。斯妲特拉和她的丈夫都不太受欢迎，所以这位王后不得不处理内部权力斗争，以及来自婆婆和妹夫的威胁。</zh-CN>
 		<pt-BR>Estatira é uma rainha com projetos de construção ambiciosos. Ela pode forçar os cidadãos a trabalharem para obter link(UNIT_WORKER,2) adicionais. Estatira e seu marido não são admirados, então ela terá que lidar com lutas internas pelo poder e ameaças de sua sogra e de seu cunhado.</pt-BR>
 		<ko>스타테리아는 야심 찬 건축 사업을 추진하는 여왕입니다. 그녀는 시민들을 압박하여 추가 link(UNIT_WORKER,2)을 획득할 수 있습니다. 스타테리아와 그녀의 남편은 별로 인기가 없습니다. 따라서 여왕이 내부의 권력 다툼을 처리하고 시어머니와 남편의 형제가 주는 위협에 대처해야 합니다.</ko>
+		<fixja>野心的な建設計画を練る女王、スタテイラ。彼女は民を動員して、link(UNIT_WORKER,2)を追加で確保することができる。スタテイラとその夫は周囲からそれほど好かれていない。そのため、内部の権力闘争や義母・義弟が仕掛けてくる策略に対処しなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_STATEIRA_STORY</zType>
@@ -4063,6 +4408,11 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 	아르타크세르크세스는 다리우스의 뒤를 이어 왕이 될 예정이었지만, 이름만 왕이 되었다. 아르타크세르크세스는 나약하고 나에게 쉽게 영향을 받았지만, 그의 어머니 파리사티스의 심부름을 할 때는 영향력을 행사할 수 없었다. 파리사티스는 너무 많은 권력을 쥐고 있다. 그녀는 자신의 다른 아들인 키루스가 다리우스의 권력을 물려받기를 원했다. 분노한 그녀는 내 형제를 전부 살해했다. 그녀는 틈이 날 때마다 아르타크세르크세스를 조롱하고, 나에 대한 증오가 바다만큼 깊다.
 		
 	페르시아 사람들은 나를 사랑한다. 가끔 거리에 나가면 사람들이 나를 친절하고 따뜻하게 맞아 준다. 시어머니 계략의 희생양이 되지 않는다면, 나는 세상에서 제일 위대하고 공정한 나라를 만들 것이다.</ko>
+		<fixja>      私はスタテイラ、権勢誇る貴族の家に生まれた。2代目ダリウス王は、自身の娘を私の兄弟と結婚させた。更なる権力拡大を図ったダリウスは、息子のアルタクセルクセスを私と結婚させた。
+		
+	アルタクセルクセスはダリウスの跡を継いで王になるはずだったが、名目上、そうなっただけであった。アルタクセルクセスは、私に影響されやすい弱気な男だ──ただ、母パリサティスの命令に従って動いているときを除いて。実質、多くの権力を握っているのはパリサティスだ。彼女は、もう一人の息子キュロスにダリウスの跡を継がせようとしていた。彼女は怒りに任せて、私の兄弟姉妹を皆殺しにした。ことあるごとに彼女はアルタクセルクセスを辱め、ファラーカ・カルトのように深い憎しみを私に対して抱いていた。
+		
+	ペルシャの人々は、私を愛している。よく通りに出ていた私を、彼らは優しく親切に出迎えてくれる。義母の策略の犠牲にならなければ、私は世界で誰も見たこともないような壮大で公平な国を築く。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PARYSATIS_STATEIRA</zType>
@@ -4076,6 +4426,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>帕里萨提斯</zh-CN>
 		<pt-BR>Parisátide</pt-BR>
 		<ko>파리사티스</ko>
+		<fixja>パリュサティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTAXERXES_II_HISTORICAL</zType>
@@ -4089,6 +4440,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>阿尔塔薛西斯 (𐎠𐎼𐎫𐎧𐏁𐏂)</zh-CN>
 		<pt-BR>Artaxšacā (𐎠𐎼𐎫𐎧𐏁𐏂)</pt-BR>
 		<ko>아르타크사샤 (𐎠𐎼𐎫𐎧𐏁𐏂)</ko>
+		<fixja>アルタクシャサ (𐎠𐎼𐎫𐎧𐏁𐏂)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STATEIRA_LEADER_HISTORICAL</zType>
@@ -4102,6 +4454,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>希腊语为Στάτειρα，原始拼写不详</zh-CN>
 		<pt-BR>Do grego Στάτειρα, grafia original incerta</pt-BR>
 		<ko>그리스어로 Στάτειρα, 원래 철자는 불확실함</ko>
+		<fixja>ギリシア語：Στάτειρα (原語のつづりは不明)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CYRUS_THE_YOUNGER</zType>
@@ -4115,6 +4468,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>居鲁士</zh-CN>
 		<pt-BR>Ciro</pt-BR>
 		<ko>키루스</ko>
+		<fixja>キュロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CYRUS_THE_YOUNGER_HISTORICAL</zType>
@@ -4128,6 +4482,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>居鲁士 (𐎤𐎢𐎽𐎢𐏁)</zh-CN>
 		<pt-BR>Kūruš (𐎤𐎢𐎽𐎢𐏁)</pt-BR>
 		<ko>쿠루슈 (𐎤𐎢𐎽𐎢𐏁)</ko>
+		<fixja>クルシュ (𐎤𐎢𐎽𐎢𐏁)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_XENOPHON</zType>
@@ -4141,6 +4496,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>色诺芬</zh-CN>
 		<pt-BR>Xenofonte</pt-BR>
 		<ko>크세노폰</ko>
+		<fixja>クセノポン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OCHUS</zType>
@@ -4154,6 +4510,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>奥库斯</zh-CN>
 		<pt-BR>Oco</pt-BR>
 		<ko>오쿠스</ko>
+		<fixja>オコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OCHUS_HISTORICAL</zType>
@@ -4167,6 +4524,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>奥库斯 (𒌑𒈠𒋢)</zh-CN>
 		<pt-BR>Umakuš (𒌑𒈠𒋢)</pt-BR>
 		<ko>우마쿠슈 (𒌑𒈠𒋢)</ko>
+		<fixja>ウマクス (𒌑𒈠𒋢)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DYNASTY_STATEIRA</zType>
@@ -4180,6 +4538,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>坚固结构</zh-CN>
 		<pt-BR>Construções Robustas</pt-BR>
 		<ko>왕성한 건축</ko>
+		<fixja>頑丈な作り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_SPAWN_WORKER_STATEIRA</zType>
@@ -4193,6 +4552,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>已征用工人</zh-CN>
 		<pt-BR>Trabalhadores forçados</pt-BR>
 		<ko>일꾼 압박 완료</ko>
+		<fixja>労働者：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_CYAXARES_DESCRIPTION</zType>
@@ -4206,6 +4566,7 @@ O povo da Pérsia me ama. Eu sempre vou às ruas, onde as pessoas me cumprimenta
 		<zh-CN>基亚克萨雷斯是一位军事领袖，擅长凭借更加精良的部队取得胜利。他特别擅长与部落对手作战。</zh-CN>
 		<pt-BR>Ciaxares é um líder militar que chega à vitória contando com a maior qualidade de suas unidades. Ele é especialmente eficaz em lutar contra oponentes tribais.</pt-BR>
 		<ko>후사크슈트라 혹은 키악사레스는 더 우수한 유닛으로 승리를 거머쥐는 군사 지도자입니다. 부족인 적과의 싸움에 특히 유능합니다.</ko>
+		<fixja>ハヴァフシュトラ（キュアクサレス）は、練度の高い部隊を率いて勝利を収める軍事指導者だ。特に部族間での戦いに長けている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_CYAXARES_STORY</zType>
@@ -4279,6 +4640,13 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 	나는 모든 스키타이 통치자를 화려한 만찬에 초대했다. 그들은 어느 때보다 많이 먹고 마셨다. 나는 그들이 더는 마실 수 없을 때 전부 죽였다. 나는 백성들을 해방시켰고, 우리의 땅을 동쪽으로 확장했다. 나는 파르티아를 정복했고, 한때 불굴이었던 아수르까지 약탈했다.
 		
 	나의 메디아 제국은 박트리아에서 우라르투까지 펼쳐질 것이며, 내 백성들은 다시는 노예가 되지 않을 것이다.</ko>
+		<fixja>      私はキュアクサレスだ。解放者、統一者、征服者、調停者。メディアの王。
+		
+	私が王になった時の王国は、「嘘そのもの」だった。スキタイ人はマデュエス王を擁し、我々と、さらに多くの民族を支配していた。だが、大国は滅びる。アッシリア帝国は急速に衰退し、反乱が起きた後にバビロンの支配権を失う。そこで、バビロニア軍が反乱を起こす。私はその時、スキタイによる支配もこれで終わりだと考えた。
+		
+	私はスキタイを支配する全ての者たちを、豪華な宴会へと招待した。かつてないほど多くの食事と飲み物を楽しむ彼ら。そして、もう飲めなくなった時点で、彼らを皆殺しにした。私は民衆を解放し、東へと領土を広げた。パルティアを征服し、かつて誰も攻略できなかったアッシリアの首都アッシュルを略奪した。
+		
+	メディア王国は、バクトリアからウラルトゥにまで拡がった。我が民が奴隷になることは二度とない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CYAXARES</zType>
@@ -4292,6 +4660,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>基亚克萨雷斯</zh-CN>
 		<pt-BR>Ciaxares</pt-BR>
 		<ko>키악사레스</ko>
+		<fixja>キュアクサレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CYAXARES_HISTORICAL</zType>
@@ -4305,6 +4674,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>基亚克萨雷斯 (𐎢𐎺𐎧𐏁𐎫𐎼)</zh-CN>
 		<pt-BR>Huvaxštra (𐎢𐎺𐎧𐏁𐎫𐎼)</pt-BR>
 		<ko>후바크슈트라 (𐎢𐎺𐎧𐏁𐎫𐎼)</ko>
+		<fixja>ウワフシュトラ (𐎢𐎺𐎧𐏁𐎫𐎼)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CYAXARES_LEADER</zType>
@@ -4318,6 +4688,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>米底扩张主义者</zh-CN>
 		<pt-BR>Expansionista Medo</pt-BR>
 		<ko>메디아의 확장주의자</ko>
+		<fixja>メディアの拡大主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_CYAXARES_LEADER</zType>
@@ -4331,6 +4702,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>米底扩张主义者</zh-CN>
 		<pt-BR>Expansionista Medo</pt-BR>
 		<ko>메디아의 확장주의자</ko>
+		<fixja>メディアの拡大主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CYAXARES_GOVERNOR</zType>
@@ -4344,6 +4716,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>米底之王</zh-CN>
 		<pt-BR>Rei dos Medos</pt-BR>
 		<ko>메데스의 왕</ko>
+		<fixja>メディア王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRAIT_CYAXARES_LEADER</zType>
@@ -4357,6 +4730,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>米底扩张主义者</zh-CN>
 		<pt-BR>Expansionista Medo</pt-BR>
 		<ko>메디아의 확장주의자</ko>
+		<fixja>メディアの拡大主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRAIT_CYAXARES_GENERAL</zType>
@@ -4370,6 +4744,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>米底之王</zh-CN>
 		<pt-BR>Rei dos Medos</pt-BR>
 		<ko>메데스의 왕</ko>
+		<fixja>メディア王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RELUCTANT_COURTIER</zType>
@@ -4383,6 +4758,7 @@ Meu Império Medo irá da Báctria ao Urartu, e meu povo nunca mais voltará a s
 		<zh-CN>不情愿的朝臣</zh-CN>
 		<pt-BR>Membro da Corte Relutante</pt-BR>
 		<ko>저항하는 신하</ko>
+		<fixja>消極的な廷臣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MERNEITH_STORY</zType>
@@ -4436,6 +4812,11 @@ Meu marido, o faraó Jete, recentemente se foi ao Sequet Aaru. Nosso filho, Den,
 	어린 시절 나의 아버지인 파라오 제르가 나에게 군사 전략을 가르쳐 주셨다. 아버지는 내가 군사 원정에 따라가는 것을 허락해 주셨고, 나는 아버지의 천막에서 많은 밤을 지내며 전투 계획과 지도를 자세히 살폈다. 아버지는 나일강이 군사 요충지라는 사실과 우리에게 이득이 되는 방식으로 교역로를 활용하는 방법을 가르쳐 주셨다. 그래서 나는 전술적으로 이득이 되는 방향으로 연결망을 사용하는 방법을 안다.
 
 	남편인 파라오 제트는 최근에 저승인 세케트 아아루로 떠났다. 우리의 아들 덴은 아직 아이에 불과해서 내가 이집트의 왕관을 이어받았고, 나 자신을 파라오로 선언하였다. 내 목표는 아버지가 가르쳐 주신 모든 방법을 동원하여 이집트를 확장하는 것이다. 이집트는 세계 최고의 강국이 될 것이다.</ko>
+		<fixja>      私はメルネイト──これには「ネイトに愛される」という意味がある。エジプト第1王朝の創始者であり、初代ファラオ・ナルメルの曾孫娘だ。
+
+	幼き頃、父のファラオ・ジェルから軍事戦略を教わった。軍事遠征への同行も許され、幾夜もの間、父のテントで戦闘計画や地図に目を通した。私は彼から、軍事戦略におけるナイル川の重要性と、どのようにして貿易路から利益を上げるかを学んだ。そのため、相互に結びついた要素から戦術的優位性を引き出す方法を心得ている。
+
+	夫のファラオ・ジェトは最近、セケト・アアルへと移った。息子のデンがまだ子供であったため、私が王冠を戴き、ファラオになることを宣言した。父から教わったあらゆる術を駆使して、エジプトを拡げることが私の目標だ。エジプトは世界で最も偉大な国となる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_KHUFU_STORY</zType>
@@ -4489,6 +4870,11 @@ Eu tenho um plano para o maior e mais grandioso monumento de todos, um que se to
 	나는 어릴 때부터 광물과 석재에 큰 관심을 보였으며, 많은 날을 아버지의 채석장에서 보냈다. 아버지는 통치 기간에 재상과 함께 건설한 수많은 기념물을 끊임없이 얘기하셨고, 피라미드의 설계를 점진적으로 완성해 나가셨다. 나는 주변을 서성이며 주의 깊게 듣고 기념물 건축에 관한 모든 것을 배우려고 애썼다. 나는 최고의 실력자들에게 배웠고, 이집트를 나의 기념물로 채우려고 한다.
 
 	나에게는 역사상 제일 크고 위대한 기념물을 세우려는 계획이 있다. 세계 불가사의가 되어 오천 년간 남을 기념물이다.</ko>
+		<fixja>      エジプト第4王朝のクフだ。私は、父スネフェルの死を受け、ファラオとなった。
+
+	幼き頃、鉱物や石に大変興味を持ち、父の採石場で何日も採掘に明け暮れていた。父は治世中、自身が建てた多くの建造物について大臣と絶えず議論を交わし、徐々にピラミッドの設計を完成させていった。建設に関するあらゆることを学ぼうと、私はその近くをうろつき、ひたすら彼らの話を聞いていた。これ以上無いほど、最高の者たちから私は学んだ。目指すのは、エジプトを我が建造物で埋め尽くすことだ。
+
+	私には、これまでで最も大きく、最も壮大な建造物の設計計画があった。それは五千年続く、世界の驚異となるものである。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_MENTUHOTEP_II_STORY</zType>
@@ -4542,6 +4928,11 @@ Mas minhas responsabilidade são igualmente grandes. A minha ascensão foi rápi
 	나는 이집트 고왕국이 총독에게 너무 많은 권력을 주면서 권력이 분산되어 무너졌다는 것을 깨달았다. 왕국이 또 무너지지 않도록 이집트 지배의 전권을 파라오에게 집중하였다. 이를 통해 어떤 전임자보다 많은 권력이 있고, 그 어떤 파라오보다 더 많은 것을 할 수 있다.
 
 	하지만 큰 권력에는 큰 책임이 따른다. 나는 빠르게 상승했지만, 몰락은 더 빠를지도 모른다. 나는 이집트의 파멸이 아닌 이득을 위해 이 권력을 사용해야 한다.</ko>
+		<fixja>      私は第11王朝のメンチュヘテプだ。我が統治のもと、分裂していたエジプトの地は再統一され、混沌の時代は終わりを迎えた。
+
+	古王国が崩壊したのは、権力が分散し、総督たちに過度な権力が与えられたためだと私は認識している。そのような崩壊を避けるために、私はエジプトの全権限をファラオへ集中させた。このようにして、私は先代の誰よりも大きな権力を手に入れ、どのファラオよりも多くのことができるようになった。
+
+	しかし、大いなる力には大いなる責任が伴う。出世は早かった。だが、没落はもっと早いかもしれない。エジプトを滅ぼすためではなく、エジプトのためにこの力を使わなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AKHENATEN_STORY</zType>
@@ -4595,6 +4986,11 @@ Eu sou o faraó Aquenáton, "Útil a Áton". Chegou a hora de fazer reformas rel
 	내 할아버지인 파라오 투트모세 4세는 처음으로 아톤을 연구하셨다. 할아버지께서는 연구를 통해 라가 아톤의 자리를 찬탈했다는 사실을 알아내셨고, 사실은 라가 아닌 아톤이 진정한 태양신임을 알게 되셨다. 나도 직접 연구하여 놀라운 사실을 발견했다. 고대 역사의 기록을 통해 알게 된 사실에 의하면 아톤이 최고로 위대한 신이자 우리 세상과 두아트를 창조하신 분이지만, 와세트에 있는 아문의 사제들이 이러한 사실을 일부러 숨기고 자신의 부와 권력을 키웠다.
 
 	나는 파라오 아케나톤, '아톤에게 이로운 자'다. 이제 종교를 개혁하고 아문의 사제들이 우리 백성을 속인 대가를 치르게 할 것이다!</ko>
+		<fixja>      私の名はアクエンアテン、アテンこそが唯一神であると信じている。出生時の名前は「アメンホテプ」だったが、二重冠を戴いた後に、自ら名を変えた。
+
+	私の祖父、ファラオ・トトメス4世こそが、アテンを研究した最初の人物であった。祖父は研究を通じて、ラーがアテンの地位を不当に奪ったこと、そしてアテンこそが真の太陽神であることを明らかにした。私の行った研究から、驚くべき発見があった。古代史にあった文から、アテンこそが最も偉大なる神であり、この世界とドゥアトの創造主であることが分かったのだ。ワセトのアムン神官たちが、自分たちの富と権力を増やすために、これらの事実を意図的に隠したのだろう。
+
+	私はファラオ・アクエンアテン、「アテン神に有益なる者」だ。今こそ、宗教改革を行う時だ。アムンの神官どもに、我が民を欺いた罪を償わせてやる！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_RAMESSES_II_STORY</zType>
@@ -4648,6 +5044,11 @@ Meu governo será um dos mais grandiosos de toda a história do Egito. Eu serei 
 	나를 우세르마아트레 세테펜레, 위대한 선조, 오지만디아스 혹은 위대한 람세스 2세로 알고 있을 것이다. 나는 이집트 전차 군단을 이끌었고, 기념비를 건축했고, 라의 영원한 자비를 받았다. 나는 나일강 삼각주에서 셰르단 해적을, 카데시에서 히타이트를, 남쪽에서 누미비아인을, 서쪽에서 리비아인을 무찔렀다. 내가 태어났던 피람세스에 새로운 수도를 건설했고, 와세트에는 라를 기리는 영광스러운 람세스 사원 단지를, 누비아에는 나의 정복을 상징하는 아부 심벨 신전을 건설했다.
 
 	나의 통치는 이집트의 모든 역사를 통틀어 최고의 반열에 오를 것이다. 나는 나의 군사적, 국가적 성취로 영원히 기억될 것이다.</ko>
+		<fixja>      余がラムセスだ。
+
+	ウセルマアトラー・セテプエンラー、偉大な祖先、オジマンディアス、あるいは単に「ラムセス2世」という名で知っているかもしれないな。エジプト、チャリオット部隊の指導者であり、記念碑の建造者であり、太陽神ラーの永遠なる慈悲を体現する者だ。余はナイル川デルタのシェルデン海賊、カデシュのハッティ、南方のヌビア、そして西方のリビアを撃破した。余は故郷のピ・ラムセスに新たな都を築き、ワセトにはラーを称える壮麗な葬祭殿「ラムセウム」、ヌビアには征服の象徴として「アブ・シンベル神殿」を建設した。
+
+	余の治世は、エジプト史上最も偉大なものの一つとなるであろう。余の名は永遠に記憶されるだろう、征服と内政、その両方でな。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PSCHENT_DOUBLE_CROWN</zType>
@@ -4661,6 +5062,7 @@ Meu governo será um dos mais grandiosos de toda a história do Egito. Eu serei 
 		<zh-CN>双重冠冕</zh-CN>
 		<pt-BR>Coroa dupla Pschent</pt-BR>
 		<ko>프스켄트 이중 왕관</ko>
+		<fixja>二重冠「プスケント」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PSCHENT_DOUBLE_CROWN_F</zType>
@@ -4674,6 +5076,7 @@ Meu governo será um dos mais grandiosos de toda a história do Egito. Eu serei 
 		<zh-CN>双重冠冕</zh-CN>
 		<pt-BR>Coroa dupla Pschent</pt-BR>
 		<ko>프스켄트 이중 왕관</ko>
+		<fixja>二重冠「プスケント」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_CARTHAGE_GIFTS</zType>
@@ -4687,6 +5090,7 @@ Meu governo será um dos mais grandiosos de toda a história do Egito. Eu serei 
 		<zh-CN>向迦太基献礼</zh-CN>
 		<pt-BR>Enviou presentes a Cartago</pt-BR>
 		<ko>카르타고에 선물을 보냄</ko>
+		<fixja>カルタゴへの贈り物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_CARTHAGE_DESTROY</zType>
@@ -4700,5 +5104,6 @@ Meu governo será um dos mais grandiosos de toda a história do Egito. Eu serei 
 		<zh-CN>发誓要摧毁迦太基</zh-CN>
 		<pt-BR>Jurou destruir Cartago</pt-BR>
 		<ko>카르타고를 무너뜨리겠다고 맹세함</ko>
+		<fixja>カルタゴ滅亡を誓う</fixja>
 	</Entry>
 </Root>

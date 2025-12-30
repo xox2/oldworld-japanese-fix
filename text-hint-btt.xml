@@ -13,6 +13,7 @@
 		<zh-CN>如果必要的国家资源储备过低，则link(COUNCIL_GRAND_VIZIER)不能建造新的link(UNIT_SETTLER,2)和军事单位。</zh-CN>
 		<pt-BR>Um link(COUNCIL_GRAND_VIZIER) não poderá produzir novos link(UNIT_SETTLER,2) e unidades militares se as reservas dos recursos nacionais estiverem muito baixas.</pt-BR>
 		<ko>link(COUNCIL_GRAND_VIZIER)은 필요한 자원의 국가 비축량이 너무 적으면 새로운 link(UNIT_SETTLER,2)와 군사 유닛을 생산할 수 없습니다.</ko>
+		<fixja>国内の資源が不足している場合、相談役やlink(COUNCIL_GRAND_VIZIER)が新たなlink(UNIT_SETTLER,2)や軍隊を編成することができなくなります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BTT_HINT_2</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>link(TRAIT_STRESSED)状态下完成的任务无法link(MISSION_INFLUENCE)人民！你可以通过link(MISSION_REVEL)去除压力。</zh-CN>
 		<pt-BR>Ficar link(TRAIT_STRESSED) impede a realização de missões de link(MISSION_INFLUENCE)! Você pode link(MISSION_REVEL) para liberar o estresse.</pt-BR>
 		<ko>link(TRAIT_STRESSED) 상태에서는 link(MISSION_INFLUENCE) 임무를 실행할 수 없습니다! link(MISSION_REVEL)으로 압박감을 다스릴 수 있습니다.</ko>
+		<fixja>link(TRAIT_STRESSED)状態に陥っている場合、link(MISSION_INFLUENCE)関係のミッションができなくなってしまいます。ストレス解消には、link(MISSION_REVEL)のミッションが効果的です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BTT_HINT_3</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>link(EFFECTCITY_SLUMS)可能最终成为有利可图的link(IMPROVEMENT_HAMLET,2)……但与此同时，那里也是link(TRIBE_REBELS)的招募基地。</zh-CN>
 		<pt-BR>As link(EFFECTCITY_SLUMS) podem acabar se tornando lucrativas link(IMPROVEMENT_HAMLET,2), mas, enquanto não evoluem, elas serão um ponto de recrutamento de link(TRIBE_REBELS).</pt-BR>
 		<ko>link(EFFECTCITY_SLUMS)는 결국 이득이 되는 link(IMPROVEMENT_HAMLET,2)이 될 수도 있습니다... 하지만 그때까지 link(TRIBE_REBELS)을 선발하는 장소로 기능합니다.</ko>
+		<fixja>link(EFFECTCITY_SLUMS)は、最終的には利益を生むlink(IMPROVEMENT_HAMLET,2)へと発展し、利益を持たす可能性があります…しかし、それまでは反乱軍が集う拠点として機能しています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BTT_HINT_4</zType>
@@ -52,5 +55,6 @@
 		<zh-CN>为了从link(PROJECT_LAVISH_LIFESTYLE)中获得link(CONCEPT_VICTORY_POINT,2)，一个城市需要link(IMPROVEMENT_ESTATES)，而link(IMPROVEMENT_ESTATES)将link(CONCEPT_LUXURY,2)送至城市。</zh-CN>
 		<pt-BR>Para ganhar link(CONCEPT_VICTORY_POINT,2) por link(PROJECT_LAVISH_LIFESTYLE), um cidade precisa de link(IMPROVEMENT_ESTATES) que, por sua vez, exigem o envio de link(CONCEPT_LUXURY) à cidade.</pt-BR>
 		<ko>link(PROJECT_LAVISH_LIFESTYLE)을 통해 link(CONCEPT_VICTORY_POINT,2)을 얻으려면 도시에 link(IMPROVEMENT_ESTATES)가 있어야 하며, link(IMPROVEMENT_ESTATES)에서 도시에 link(CONCEPT_LUXURY,2)을 보내야 합니다.</ko>
+		<fixja>都市で豪華な生活のlink(PROJECT_LAVISH_LIFESTYLE)を通じてlink(CONCEPT_VICTORY_POINT,2)を獲得するためには、link(IMPROVEMENT_ESTATES)の設置が必須であり、それらにはlink(CONCEPT_LUXURY,2)を送る必要があります。</fixja>
 	</Entry>
 </Root>

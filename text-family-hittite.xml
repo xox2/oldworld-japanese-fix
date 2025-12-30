@@ -27,6 +27,7 @@
 		<zh-CN>库萨拉~库萨拉~库萨拉</zh-CN>
 		<pt-BR>Kusara~Kusaranos~Kusarano</pt-BR>
 		<ko>쿠사라~쿠사라~쿠사라</ko>
+		<fixja>クッサラ家~クッサラ家~クッサラ家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_NENASSAN</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>尼纳萨~尼纳萨~尼纳萨</zh-CN>
 		<pt-BR>Nenassa~Nenassas~Nenassa</pt-BR>
 		<ko>네나사~네나사~네나사</ko>
+		<fixja>ネナス家~ネナス家~ネナス家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ZALPUWAN</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>扎尔普瓦~扎尔普瓦~扎尔普瓦</zh-CN>
 		<pt-BR>Zalpuwan~Zalpuwanos~Zalpuwano</pt-BR>
 		<ko>잘푸와~잘푸와~잘푸와</ko>
+		<fixja>ザルプワ家~ザルプワ家~ザルプワ家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_HATTUSAN</zType>
@@ -66,5 +69,6 @@
 		<zh-CN>哈图沙~哈图沙~哈图沙</zh-CN>
 		<pt-BR>Hatusa~Hatusanos~Hatusano</pt-BR>
 		<ko>하투사~하투사~하투사</ko>
+		<fixja>ハットゥシャ家~ハットゥシャ家~ハットゥシャ家</fixja>
 	</Entry>
 </Root>

@@ -27,6 +27,7 @@
 		<zh-CN>农夫</zh-CN>
 		<pt-BR>Fazendeiro~Fazendeiros</pt-BR>
 		<ko>농부~농부</ko>
+		<fixja>農夫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_WOODCUTTER</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>伐木工</zh-CN>
 		<pt-BR>Lenhador~Lenhadores</pt-BR>
 		<ko>나무꾼~나무꾼</ko>
+		<fixja>木こり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_STONECUTTER</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>采石工</zh-CN>
 		<pt-BR>Canteiro~Canteiros</pt-BR>
 		<ko>석공~석공</ko>
+		<fixja>石工</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_MINER</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>矿工</zh-CN>
 		<pt-BR>Mineiro~Mineiros</pt-BR>
 		<ko>광부~광부~광부</ko>
+		<fixja>鉱夫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_RANCHER</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>牧民</zh-CN>
 		<pt-BR>Rancheiro~Rancheiros</pt-BR>
 		<ko>목장주~목장주</ko>
+		<fixja>牧場主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_TRAPPER</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>捕兽者</zh-CN>
 		<pt-BR>Captor~Captores</pt-BR>
 		<ko>덫사냥꾼~덫사냥꾼</ko>
+		<fixja>わな猟師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_GARDENER</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>园丁</zh-CN>
 		<pt-BR>Jardineiro~Jardineiros</pt-BR>
 		<ko>정원사~정원사</ko>
+		<fixja>庭師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_FISHER</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>渔夫</zh-CN>
 		<pt-BR>Pescador~Pescadores</pt-BR>
 		<ko>어부~어부</ko>
+		<fixja>漁師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_ACOLYTE</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>侍僧~侍僧</zh-CN>
 		<pt-BR>Acólito~Acólitos</pt-BR>
 		<ko>보좌 사제~보좌 사제</ko>
+		<fixja>侍祭~侍祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_MONK</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>僧侣</zh-CN>
 		<pt-BR>Monge~Monges</pt-BR>
 		<ko>수도승~수도승</ko>
+		<fixja>修道僧</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_PRIEST</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>祭司~祭司</zh-CN>
 		<pt-BR>Sacerdote~Sacerdotes</pt-BR>
 		<ko>사제~사제</ko>
+		<fixja>司祭~司祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_OFFICER</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>官员~官员</zh-CN>
 		<pt-BR>Oficial~Oficiais</pt-BR>
 		<ko>장교~장교</ko>
+		<fixja>将校~将校</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_POET</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>诗人</zh-CN>
 		<pt-BR>Poeta~Poetas</pt-BR>
 		<ko>시인~시인</ko>
+		<fixja>詩人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_SCRIBE</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>抄写员~抄写员</zh-CN>
 		<pt-BR>Escriba~Escribas</pt-BR>
 		<ko>필경사~필경사</ko>
+		<fixja>書記~書記</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_SHOPKEEPER</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>店主</zh-CN>
 		<pt-BR>Vendedor~Vendedores</pt-BR>
 		<ko>점주~점주</ko>
+		<fixja>店主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_PHILOSOPHER</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>哲学家</zh-CN>
 		<pt-BR>Filósofo~Filósofos</pt-BR>
 		<ko>철학자~철학자</ko>
+		<fixja>哲学家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_DOCTOR</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>医生</zh-CN>
 		<pt-BR>Doutor~Doutores</pt-BR>
 		<ko>의사~의사</ko>
+		<fixja>医師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALISTCLASS_BISHOP</zType>
@@ -248,5 +265,6 @@
 		<zh-CN>主教</zh-CN>
 		<pt-BR>Bispo~Bispos</pt-BR>
 		<ko>주교~주교</ko>
+		<fixja>主教</fixja>
 	</Entry>
 </Root>

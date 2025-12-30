@@ -25,6 +25,7 @@
 		<zh-CN>阿卜杜</zh-CN>
 		<pt-BR>Abedju</pt-BR>
 		<ko>아베주</ko>
+		<fixja>アブジュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ABU</zType>
@@ -38,6 +39,7 @@
 		<zh-CN>阿布</zh-CN>
 		<pt-BR>Abu</pt-BR>
 		<ko>아부</ko>
+		<fixja>アブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AEMINIUM</zType>
@@ -51,6 +53,7 @@
 		<zh-CN>埃米尼翁</zh-CN>
 		<pt-BR>Emínio</pt-BR>
 		<ko>아에미니움</ko>
+		<fixja>アエミニウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AKHETATEN</zType>
@@ -64,6 +67,7 @@
 		<zh-CN>阿赫塔顿</zh-CN>
 		<pt-BR>Aquetáton</pt-BR>
 		<ko>아케타톤</ko>
+		<fixja>アケタテン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AKKAD</zType>
@@ -77,6 +81,7 @@
 		<zh-CN>阿卡德</zh-CN>
 		<pt-BR>Acade</pt-BR>
 		<ko>아카드</ko>
+		<fixja>アッカド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AKTAU</zType>
@@ -90,6 +95,7 @@
 		<zh-CN>阿克套</zh-CN>
 		<pt-BR>Aktau</pt-BR>
 		<ko>악타우</ko>
+		<fixja>アクタウ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ALEXANDRIA</zType>
@@ -103,6 +109,7 @@
 		<zh-CN>亚历山大港</zh-CN>
 		<pt-BR>Alexandria</pt-BR>
 		<ko>알렉산드리아</ko>
+		<fixja>アレクサンドリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AMPHIPOLIS</zType>
@@ -116,6 +123,7 @@
 		<zh-CN>安菲波利斯</zh-CN>
 		<pt-BR>Anfípolis</pt-BR>
 		<ko>암피폴리스</ko>
+		<fixja>アンフィポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANSHAN</zType>
@@ -129,6 +137,7 @@
 		<zh-CN>安善</zh-CN>
 		<pt-BR>Anshan</pt-BR>
 		<ko>안샨</ko>
+		<fixja>アンシャン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANTIOCHEIA</zType>
@@ -142,6 +151,7 @@
 		<zh-CN>安条克</zh-CN>
 		<pt-BR>Antioquia</pt-BR>
 		<ko>안티오케이아</ko>
+		<fixja>アンティオキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANTIOCHIA</zType>
@@ -155,6 +165,7 @@
 		<zh-CN>安提约基雅</zh-CN>
 		<pt-BR>Antioquia</pt-BR>
 		<ko>안티오키아</ko>
+		<fixja>アンティオキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AMBRACIA</zType>
@@ -168,6 +179,7 @@
 		<zh-CN>安布拉西亚</zh-CN>
 		<pt-BR>Ambrácia</pt-BR>
 		<ko>암브라키아</ko>
+		<fixja>アンブラキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AMUNIA</zType>
@@ -181,6 +193,7 @@
 		<zh-CN>阿穆尼亚</zh-CN>
 		<pt-BR>Amunia</pt-BR>
 		<ko>아무니아</ko>
+		<fixja>アメン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANTIUM</zType>
@@ -194,6 +207,7 @@
 		<zh-CN>安提姆</zh-CN>
 		<pt-BR>Anzio</pt-BR>
 		<ko>안티움</ko>
+		<fixja>アンティウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_APOLLONIA</zType>
@@ -207,6 +221,7 @@
 		<zh-CN>阿波罗尼亚</zh-CN>
 		<pt-BR>Apolônia</pt-BR>
 		<ko>아폴로니아</ko>
+		<fixja>アポロニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AQUILEIA</zType>
@@ -220,6 +235,7 @@
 		<zh-CN>阿奎莱亚</zh-CN>
 		<pt-BR>Aquileia</pt-BR>
 		<ko>아퀼레이아</ko>
+		<fixja>アクイレイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AQUINCUM</zType>
@@ -233,6 +249,7 @@
 		<zh-CN>阿昆库姆</zh-CN>
 		<pt-BR>Aquinco</pt-BR>
 		<ko>아퀸쿰</ko>
+		<fixja>アクインクム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARAE_PHILAENORUM</zType>
@@ -246,6 +263,7 @@
 		<zh-CN>腓莱尼亚祭坛</zh-CN>
 		<pt-BR>Arae Philaenorum</pt-BR>
 		<ko>아라에 필라에노룸</ko>
+		<fixja>アラエフィラエノラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARGOS</zType>
@@ -259,6 +277,7 @@
 		<zh-CN>阿尔戈斯</zh-CN>
 		<pt-BR>Argos</pt-BR>
 		<ko>아르고스</ko>
+		<fixja>アルゴス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARIMINUM</zType>
@@ -272,6 +291,7 @@
 		<zh-CN>阿瑞米农</zh-CN>
 		<pt-BR>Arímino</pt-BR>
 		<ko>아리미눔</ko>
+		<fixja>アリミヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARPAD</zType>
@@ -285,6 +305,7 @@
 		<zh-CN>亚珥拔</zh-CN>
 		<pt-BR>Arpade</pt-BR>
 		<ko>아르파드</ko>
+		<fixja>アルパド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARRAPHA</zType>
@@ -298,6 +319,7 @@
 		<zh-CN>阿拉法</zh-CN>
 		<pt-BR>Arrapa</pt-BR>
 		<ko>아라파</ko>
+		<fixja>アラプハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARTACOANA</zType>
@@ -311,6 +333,7 @@
 		<zh-CN>阿塔考纳</zh-CN>
 		<pt-BR>Artacoana</pt-BR>
 		<ko>아르타코아나</ko>
+		<fixja>アルタコアナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASCRIVIUM</zType>
@@ -324,6 +347,7 @@
 		<zh-CN>阿斯克利维姆</zh-CN>
 		<pt-BR>Ascrívio</pt-BR>
 		<ko>아스크리비움</ko>
+		<fixja>アスクリビウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASPADANA</zType>
@@ -337,6 +361,7 @@
 		<zh-CN>阿斯帕达纳</zh-CN>
 		<pt-BR>Aspadana</pt-BR>
 		<ko>아스파다나</ko>
+		<fixja>アスパダナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASPALATHOS</zType>
@@ -350,6 +375,7 @@
 		<zh-CN>史普利特</zh-CN>
 		<pt-BR>Aspálathos</pt-BR>
 		<ko>아스팔라토스</ko>
+		<fixja>アスパラトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASSUR</zType>
@@ -363,6 +389,7 @@
 		<zh-CN>亚述</zh-CN>
 		<pt-BR>Assur</pt-BR>
 		<ko>아수르</ko>
+		<fixja>アッシュル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ATHENS</zType>
@@ -376,6 +403,7 @@
 		<zh-CN>雅典</zh-CN>
 		<pt-BR>Atenas</pt-BR>
 		<ko>아테네</ko>
+		<fixja>アテナイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ATTALEIA</zType>
@@ -389,6 +417,7 @@
 		<zh-CN>阿列亚</zh-CN>
 		<pt-BR>Ataleia</pt-BR>
 		<ko>아탈레이아</ko>
+		<fixja>アタレイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AUGUSTA_TAURINORUM</zType>
@@ -402,6 +431,7 @@
 		<zh-CN>陶利尼</zh-CN>
 		<pt-BR>Augusta Taurinorum</pt-BR>
 		<ko>아우구스타 타우리노룸</ko>
+		<fixja>アウグスタ・タウリノルム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AUGUSTA_TREVERORUM</zType>
@@ -415,6 +445,7 @@
 		<zh-CN>特雷维尔</zh-CN>
 		<pt-BR>Augusta Treverorum</pt-BR>
 		<ko>아우구스타 트레베로룸</ko>
+		<fixja>アウグスタ・トレヴェロルム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AUGUSTA_VINDELICORUM</zType>
@@ -428,6 +459,7 @@
 		<zh-CN>温德利科鲁姆</zh-CN>
 		<pt-BR>Augusta Vindelicorum</pt-BR>
 		<ko>아우구스타 빈델리코룸</ko>
+		<fixja>アウグスタ・ヴィンデリコルム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AVARIS</zType>
@@ -441,6 +473,7 @@
 		<zh-CN>阿瓦里斯</zh-CN>
 		<pt-BR>Avaris</pt-BR>
 		<ko>후트-와레트</ko>
+		<fixja>ハット・ワレット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AVENTICUM</zType>
@@ -454,6 +487,7 @@
 		<zh-CN>阿文提昆</zh-CN>
 		<pt-BR>Avêntico</pt-BR>
 		<ko>아벤티쿰</ko>
+		<fixja>アヴェンティカム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BABYLON</zType>
@@ -467,6 +501,7 @@
 		<zh-CN>巴比伦</zh-CN>
 		<pt-BR>Babilônia</pt-BR>
 		<ko>바빌론</ko>
+		<fixja>バビロン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BACTRA</zType>
@@ -480,6 +515,7 @@
 		<zh-CN>巴尔赫</zh-CN>
 		<pt-BR>Bactra</pt-BR>
 		<ko>박트라</ko>
+		<fixja>バクトラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BARIUM</zType>
@@ -493,6 +529,7 @@
 		<zh-CN>巴里恩</zh-CN>
 		<pt-BR>Bari</pt-BR>
 		<ko>바리움</ko>
+		<fixja>バリウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BASIVSKE</zType>
@@ -506,6 +543,7 @@
 		<zh-CN>巴斯夫斯克</zh-CN>
 		<pt-BR>Basivske</pt-BR>
 		<ko>바시브스케</ko>
+		<fixja>バシブスケ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BEHDET</zType>
@@ -519,6 +557,7 @@
 		<zh-CN>贝迪特</zh-CN>
 		<pt-BR>Behedet</pt-BR>
 		<ko>베데트</ko>
+		<fixja>ベーデット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BELUM</zType>
@@ -532,6 +571,7 @@
 		<zh-CN>贝鲁姆</zh-CN>
 		<pt-BR>Belum</pt-BR>
 		<ko>벨룸</ko>
+		<fixja>ベラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BERGSGRAVEN</zType>
@@ -545,6 +585,7 @@
 		<zh-CN>伯格斯格拉文</zh-CN>
 		<pt-BR>Bergsgraven</pt-BR>
 		<ko>베르그스그라벤</ko>
+		<fixja>ベルグスグレーヴェン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BERYTUS</zType>
@@ -558,6 +599,7 @@
 		<zh-CN>贝里图斯</zh-CN>
 		<pt-BR>Berito</pt-BR>
 		<ko>베리투스</ko>
+		<fixja>ベリタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BISKUPIN</zType>
@@ -571,6 +613,7 @@
 		<zh-CN>比斯库平</zh-CN>
 		<pt-BR>Biskupin</pt-BR>
 		<ko>비스쿠핀</ko>
+		<fixja>ビスクピン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BONONIA</zType>
@@ -584,6 +627,7 @@
 		<zh-CN>波隆那</zh-CN>
 		<pt-BR>Bolonha</pt-BR>
 		<ko>보노니아</ko>
+		<fixja>ボノニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BORSIPPA</zType>
@@ -597,6 +641,7 @@
 		<zh-CN>博尔西帕</zh-CN>
 		<pt-BR>Borsipa</pt-BR>
 		<ko>보르시파</ko>
+		<fixja>ボルシッパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BRIGANTIUM</zType>
@@ -610,6 +655,7 @@
 		<zh-CN>布里根提努</zh-CN>
 		<pt-BR>Brigâncio</pt-BR>
 		<ko>브리간티움</ko>
+		<fixja>ブリガンティウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BRIXIA</zType>
@@ -623,6 +669,7 @@
 		<zh-CN>布雷夏</zh-CN>
 		<pt-BR>Brixia</pt-BR>
 		<ko>브릭시아</ko>
+		<fixja>ブリキシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BUHEN</zType>
@@ -636,6 +683,7 @@
 		<zh-CN>布恩</zh-CN>
 		<pt-BR>Buém</pt-BR>
 		<ko>부헨</ko>
+		<fixja>ブヘン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BUKHARA</zType>
@@ -649,6 +697,7 @@
 		<zh-CN>布哈拉</zh-CN>
 		<pt-BR>Bucara</pt-BR>
 		<ko>부하라</ko>
+		<fixja>ブハラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BUSIRIS</zType>
@@ -662,6 +711,7 @@
 		<zh-CN>杰度</zh-CN>
 		<pt-BR>Djedu</pt-BR>
 		<ko>제두</ko>
+		<fixja>ジェドゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BUZAN</zType>
@@ -675,6 +725,7 @@
 		<zh-CN>布赞</zh-CN>
 		<pt-BR>Buzan</pt-BR>
 		<ko>부잔</ko>
+		<fixja>ビュザン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BYZANTIUM</zType>
@@ -688,6 +739,7 @@
 		<zh-CN>拜占庭</zh-CN>
 		<pt-BR>Bizâncio</pt-BR>
 		<ko>비잔티온</ko>
+		<fixja>ビザンティオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CADIZ</zType>
@@ -701,6 +753,7 @@
 		<zh-CN>加地尔</zh-CN>
 		<pt-BR>Gadir</pt-BR>
 		<ko>가디르</ko>
+		<fixja>ガディール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CAESAREA</zType>
@@ -714,6 +767,7 @@
 		<zh-CN>凯撒利亚</zh-CN>
 		<pt-BR>Cesareia</pt-BR>
 		<ko>카이사레아</ko>
+		<fixja>カイサリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CAESARAUGUSTA</zType>
@@ -727,6 +781,7 @@
 		<zh-CN>凯撒奥古斯塔</zh-CN>
 		<pt-BR>César Augusta</pt-BR>
 		<ko>카이사르아우구스타</ko>
+		<fixja>カエサラウグスタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CAESARODUNUM</zType>
@@ -740,6 +795,7 @@
 		<zh-CN>凯撒罗敦</zh-CN>
 		<pt-BR>Caesarodunum</pt-BR>
 		<ko>카이사로두눔</ko>
+		<fixja>カエサロドゥヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CALLEVA_ATREBATUM</zType>
@@ -753,6 +809,7 @@
 		<zh-CN>卡莱瓦阿特雷巴图姆</zh-CN>
 		<pt-BR>Calleva Atrebatum</pt-BR>
 		<ko>칼레바 아트레바툼</ko>
+		<fixja>カレウァ・アトレバツム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CAMULODUNUM</zType>
@@ -766,6 +823,7 @@
 		<zh-CN>卡木洛杜嫩</zh-CN>
 		<pt-BR>Camuloduno</pt-BR>
 		<ko>카물로두눔</ko>
+		<fixja>カムロドゥヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CAPUA</zType>
@@ -779,6 +837,7 @@
 		<zh-CN>卡普亚</zh-CN>
 		<pt-BR>Cápua</pt-BR>
 		<ko>카푸아</ko>
+		<fixja>カプア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARCHEMISH</zType>
@@ -792,6 +851,7 @@
 		<zh-CN>卡尔凯美什</zh-CN>
 		<pt-BR>Carquemis</pt-BR>
 		<ko>카르케미시</ko>
+		<fixja>カルケミシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARMANIA</zType>
@@ -805,6 +865,7 @@
 		<zh-CN>卡曼尼亚</zh-CN>
 		<pt-BR>Carmânia</pt-BR>
 		<ko>카르마니아</ko>
+		<fixja>カルマニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARTENNA</zType>
@@ -818,6 +879,7 @@
 		<zh-CN>卡特纳</zh-CN>
 		<pt-BR>Cartenas</pt-BR>
 		<ko>카르텐나</ko>
+		<fixja>カルテンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARTHAGO_NOVA</zType>
@@ -831,6 +893,7 @@
 		<zh-CN>新迦太基</zh-CN>
 		<pt-BR>Cartago Nova</pt-BR>
 		<ko>카르타고 노바</ko>
+		<fixja>カルタゴ・ノヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARTHAGO</zType>
@@ -844,6 +907,7 @@
 		<zh-CN>迦太基</zh-CN>
 		<pt-BR>Cartago</pt-BR>
 		<ko>카르타고</ko>
+		<fixja>カルタゴ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CASTRA_LEGIONIS</zType>
@@ -857,6 +921,7 @@
 		<zh-CN>军团城堡</zh-CN>
 		<pt-BR>Castra Legionis</pt-BR>
 		<ko>카스트라 레기오니스</ko>
+		<fixja>カストラ・レギオニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CELEIA</zType>
@@ -870,6 +935,7 @@
 		<zh-CN>采列</zh-CN>
 		<pt-BR>Celeia</pt-BR>
 		<ko>켈레이아</ko>
+		<fixja>セレイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CHABALA</zType>
@@ -883,6 +949,7 @@
 		<zh-CN>沙巴拉</zh-CN>
 		<pt-BR>Chabala</pt-BR>
 		<ko>차발라</ko>
+		<fixja>カバラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CHALKIS</zType>
@@ -896,6 +963,7 @@
 		<zh-CN>哈基斯</zh-CN>
 		<pt-BR>Cálcis</pt-BR>
 		<ko>칼키스</ko>
+		<fixja>カルキス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CHENEM_WASET</zType>
@@ -909,6 +977,7 @@
 		<zh-CN>切南瓦瑟</zh-CN>
 		<pt-BR>Chenem-Uaset</pt-BR>
 		<ko>케넴-와세트</ko>
+		<fixja>チェネム・ワセット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CIBALAE</zType>
@@ -922,6 +991,7 @@
 		<zh-CN>西巴莱</zh-CN>
 		<pt-BR>Cíbalas</pt-BR>
 		<ko>키발라이</ko>
+		<fixja>チバラエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CLAUDIA_VIRUNUM</zType>
@@ -935,6 +1005,7 @@
 		<zh-CN>维鲁努姆</zh-CN>
 		<pt-BR>Cláudio Viruno</pt-BR>
 		<ko>클라우디움 비루</ko>
+		<fixja>クラウディウム・ウィルヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CNOSSOS</zType>
@@ -948,6 +1019,7 @@
 		<zh-CN>克诺索斯</zh-CN>
 		<pt-BR>Cnossos</pt-BR>
 		<ko>크노소스</ko>
+		<fixja>クノッソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_COLONIA</zType>
@@ -961,6 +1033,7 @@
 		<zh-CN>克洛尼亚</zh-CN>
 		<pt-BR>Colônia</pt-BR>
 		<ko>콜로니아</ko>
+		<fixja>コロニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_COMUM</zType>
@@ -974,6 +1047,7 @@
 		<zh-CN>科莫</zh-CN>
 		<pt-BR>Como</pt-BR>
 		<ko>코뭄</ko>
+		<fixja>コムム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CORCYRA</zType>
@@ -987,6 +1061,7 @@
 		<zh-CN>科尔基拉</zh-CN>
 		<pt-BR>Córcira</pt-BR>
 		<ko>코르키라</ko>
+		<fixja>コルキラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CORDUBA</zType>
@@ -1000,6 +1075,7 @@
 		<zh-CN>哥多华</zh-CN>
 		<pt-BR>Córdoba</pt-BR>
 		<ko>코르두바</ko>
+		<fixja>コーデュバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CORINTH</zType>
@@ -1013,6 +1089,7 @@
 		<zh-CN>科林斯</zh-CN>
 		<pt-BR>Corinto</pt-BR>
 		<ko>코린토스</ko>
+		<fixja>コリント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CROTON</zType>
@@ -1026,6 +1103,7 @@
 		<zh-CN>克罗顿</zh-CN>
 		<pt-BR>Crotone</pt-BR>
 		<ko>크로톤</ko>
+		<fixja>クロトン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CTESIPHON</zType>
@@ -1039,6 +1117,7 @@
 		<zh-CN>泰西封</zh-CN>
 		<pt-BR>Ctesifonte</pt-BR>
 		<ko>크테시폰</ko>
+		<fixja>クテシフォン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CUMAE</zType>
@@ -1052,6 +1131,7 @@
 		<zh-CN>库迈</zh-CN>
 		<pt-BR>Cumas</pt-BR>
 		<ko>쿠마에</ko>
+		<fixja>クマエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CYRENE</zType>
@@ -1065,6 +1145,7 @@
 		<zh-CN>昔兰尼</zh-CN>
 		<pt-BR>Cirene</pt-BR>
 		<ko>키레네</ko>
+		<fixja>キュレネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CYRESCHATE</zType>
@@ -1078,6 +1159,7 @@
 		<zh-CN>赛芮切特</zh-CN>
 		<pt-BR>Cyreschate</pt-BR>
 		<ko>키레스차테</ko>
+		<fixja>キュレスチャート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DAMASCUS</zType>
@@ -1091,6 +1173,7 @@
 		<zh-CN>大马士革</zh-CN>
 		<pt-BR>Damasco</pt-BR>
 		<ko>다마스쿠스</ko>
+		<fixja>ダマスカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DAMIETTA</zType>
@@ -1104,6 +1187,7 @@
 		<zh-CN>塔米亚特</zh-CN>
 		<pt-BR>Tamiat</pt-BR>
 		<ko>타미아트</ko>
+		<fixja>タミアット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DARBAND</zType>
@@ -1117,6 +1201,7 @@
 		<zh-CN>达尔班德</zh-CN>
 		<pt-BR>Darbande</pt-BR>
 		<ko>다르반드</ko>
+		<fixja>ダーバンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DELPHI</zType>
@@ -1130,6 +1215,7 @@
 		<zh-CN>德尔菲</zh-CN>
 		<pt-BR>Delfos</pt-BR>
 		<ko>델포이</ko>
+		<fixja>デルファイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DENDERA</zType>
@@ -1143,6 +1229,7 @@
 		<zh-CN>伊乌涅特</zh-CN>
 		<pt-BR>Iunet</pt-BR>
 		<ko>이우네트</ko>
+		<fixja>イウネト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DILBAT</zType>
@@ -1156,6 +1243,7 @@
 		<zh-CN>迪拜特</zh-CN>
 		<pt-BR>Dilbat</pt-BR>
 		<ko>딜바트</ko>
+		<fixja>ディルバト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AN_AT</zType>
@@ -1169,6 +1257,7 @@
 		<zh-CN>安厄特</zh-CN>
 		<pt-BR>An-at</pt-BR>
 		<ko>안-아트</ko>
+		<fixja>アンアット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DION</zType>
@@ -1182,6 +1271,7 @@
 		<zh-CN>迪昂</zh-CN>
 		<pt-BR>Díon</pt-BR>
 		<ko>디온</ko>
+		<fixja>ディオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DJEDET</zType>
@@ -1195,6 +1285,7 @@
 		<zh-CN>杰德</zh-CN>
 		<pt-BR>Djedet</pt-BR>
 		<ko>제데트</ko>
+		<fixja>ジェデット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DJERTY</zType>
@@ -1208,6 +1299,7 @@
 		<zh-CN>埃尔托</zh-CN>
 		<pt-BR>Djerty</pt-BR>
 		<ko>제르티</ko>
+		<fixja>ジャルティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DRUMANAGH</zType>
@@ -1221,6 +1313,7 @@
 		<zh-CN>德鲁马纳</zh-CN>
 		<pt-BR>Drumanagh</pt-BR>
 		<ko>드루마나</ko>
+		<fixja>ドラマナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DUR_KURIGALZU</zType>
@@ -1234,6 +1327,7 @@
 		<zh-CN>杜尔库里加尔祖</zh-CN>
 		<pt-BR>Dur-Kurigalzu</pt-BR>
 		<ko>두르-쿠리갈주</ko>
+		<fixja>ドゥル・クリガルズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DUR_SHARRUKIN</zType>
@@ -1247,6 +1341,7 @@
 		<zh-CN>杜尔舍鲁金</zh-CN>
 		<pt-BR>Dur-Sharrukin</pt-BR>
 		<ko>두르-샤루킨</ko>
+		<fixja>ドゥル・シャルキン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DUROCRTORUM</zType>
@@ -1260,6 +1355,7 @@
 		<zh-CN>杜罗科托鲁姆</zh-CN>
 		<pt-BR>Durocortorum</pt-BR>
 		<ko>두로코르토룸</ko>
+		<fixja>ドゥロコルトルム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DUROVIGUTUM</zType>
@@ -1273,6 +1369,7 @@
 		<zh-CN>杜洛古腾</zh-CN>
 		<pt-BR>Duroviguto</pt-BR>
 		<ko>두로비구툼</ko>
+		<fixja>デュロヴィグタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EBURACUM</zType>
@@ -1286,6 +1383,7 @@
 		<zh-CN>埃博拉肯</zh-CN>
 		<pt-BR>Eburacum</pt-BR>
 		<ko>에보라쿰</ko>
+		<fixja>エボラクム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ECBATANA</zType>
@@ -1299,6 +1397,7 @@
 		<zh-CN>埃克巴坦那</zh-CN>
 		<pt-BR>Ecbátana</pt-BR>
 		<ko>엑바타나</ko>
+		<fixja>エクバタナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EKALLATUM</zType>
@@ -1312,6 +1411,7 @@
 		<zh-CN>埃卡拉图姆</zh-CN>
 		<pt-BR>Ekalato</pt-BR>
 		<ko>에칼라툼</ko>
+		<fixja>エカラトゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ELEPHANTINE</zType>
@@ -1325,6 +1425,7 @@
 		<zh-CN>象岛</zh-CN>
 		<pt-BR>Elefantina</pt-BR>
 		<ko>엘레판티네</ko>
+		<fixja>エレファンティネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ELLASAR</zType>
@@ -1338,6 +1439,7 @@
 		<zh-CN>杜阿塔拉</zh-CN>
 		<pt-BR>Dur-Athara</pt-BR>
 		<ko>두르-아타라</ko>
+		<fixja>ドゥル・アタラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EPHESUS</zType>
@@ -1351,6 +1453,7 @@
 		<zh-CN>以弗所</zh-CN>
 		<pt-BR>Éfeso</pt-BR>
 		<ko>에페수스</ko>
+		<fixja>エフェソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EPIDAMNOS</zType>
@@ -1364,6 +1467,7 @@
 		<zh-CN>埃庇达诺斯</zh-CN>
 		<pt-BR>Epidamno</pt-BR>
 		<ko>에피담노스</ko>
+		<fixja>エピダムノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ERBIL</zType>
@@ -1377,6 +1481,7 @@
 		<zh-CN>艾比尔</zh-CN>
 		<pt-BR>Arbil</pt-BR>
 		<ko>에르빌</ko>
+		<fixja>アルビール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ERETRIA</zType>
@@ -1390,6 +1495,7 @@
 		<zh-CN>埃雷特里亚</zh-CN>
 		<pt-BR>Erétria</pt-BR>
 		<ko>에레트리아</ko>
+		<fixja>エレトリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ERIDU</zType>
@@ -1403,6 +1509,7 @@
 		<zh-CN>埃里都</zh-CN>
 		<pt-BR>Eridu</pt-BR>
 		<ko>에리두</ko>
+		<fixja>エリドゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ESHNUNNA</zType>
@@ -1416,6 +1523,7 @@
 		<zh-CN>埃什南纳</zh-CN>
 		<pt-BR>Esnuna</pt-BR>
 		<ko>에쉬눈나</ko>
+		<fixja>エシュヌンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FAVENTIA</zType>
@@ -1429,6 +1537,7 @@
 		<zh-CN>法恩扎</zh-CN>
 		<pt-BR>Faventia</pt-BR>
 		<ko>파벤티아</ko>
+		<fixja>ファベンティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FELICITAS</zType>
@@ -1442,6 +1551,7 @@
 		<zh-CN>费莉西塔斯</zh-CN>
 		<pt-BR>Felicitas</pt-BR>
 		<ko>펠리시타스</ko>
+		<fixja>フェリキタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FLORENTIA</zType>
@@ -1455,6 +1565,7 @@
 		<zh-CN>佛罗伦斯</zh-CN>
 		<pt-BR>Florentia</pt-BR>
 		<ko>플로렌티아</ko>
+		<fixja>フロレンティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FORUM_LIVII</zType>
@@ -1468,6 +1579,7 @@
 		<zh-CN>弗利</zh-CN>
 		<pt-BR>Forum Livii</pt-BR>
 		<ko>포룸 리비이</ko>
+		<fixja>フォーラムリヴィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GABAE</zType>
@@ -1481,6 +1593,7 @@
 		<zh-CN>迦拜</zh-CN>
 		<pt-BR>Gabae</pt-BR>
 		<ko>가바이</ko>
+		<fixja>ガバエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GEBTU</zType>
@@ -1494,6 +1607,7 @@
 		<zh-CN>盖布图</zh-CN>
 		<pt-BR>Gebtu</pt-BR>
 		<ko>게브투</ko>
+		<fixja>ゲブトゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GELONUS</zType>
@@ -1507,6 +1621,7 @@
 		<zh-CN>格洛努斯</zh-CN>
 		<pt-BR>Gelonus</pt-BR>
 		<ko>겔로누스</ko>
+		<fixja>ゲロノイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GENOA</zType>
@@ -1520,6 +1635,7 @@
 		<zh-CN>热那亚</zh-CN>
 		<pt-BR>Gênova</pt-BR>
 		<ko>제노바</ko>
+		<fixja>ジェノヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GERUNDA</zType>
@@ -1533,6 +1649,7 @@
 		<zh-CN>吉隆纳</zh-CN>
 		<pt-BR>Gerunda</pt-BR>
 		<ko>게룬다</ko>
+		<fixja>ゲルンダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GESY</zType>
@@ -1546,6 +1663,7 @@
 		<zh-CN>耶西</zh-CN>
 		<pt-BR>Gesu</pt-BR>
 		<ko>게시</ko>
+		<fixja>ゲシー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GORDIUM</zType>
@@ -1559,6 +1677,7 @@
 		<zh-CN>戈迪安</zh-CN>
 		<pt-BR>Górdio</pt-BR>
 		<ko>고르디온</ko>
+		<fixja>ゴルディオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GORTYN</zType>
@@ -1572,6 +1691,7 @@
 		<zh-CN>戈尔廷</zh-CN>
 		<pt-BR>Gortina</pt-BR>
 		<ko>고르틴</ko>
+		<fixja>ゴルテュス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GOZAN</zType>
@@ -1585,6 +1705,7 @@
 		<zh-CN>戈赞</zh-CN>
 		<pt-BR>Guzana</pt-BR>
 		<ko>고잔</ko>
+		<fixja>ゴーザン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HADRIANOPOLIS</zType>
@@ -1598,6 +1719,7 @@
 		<zh-CN>埃迪尔内</zh-CN>
 		<pt-BR>Adrianópolis</pt-BR>
 		<ko>하드리아노폴리스</ko>
+		<fixja>ハドリアノポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HADRUMETUM</zType>
@@ -1611,6 +1733,7 @@
 		<zh-CN>哈德鲁梅</zh-CN>
 		<pt-BR>Hadrumeto</pt-BR>
 		<ko>하드루메툼</ko>
+		<fixja>ハドルメトゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HALAB</zType>
@@ -1624,6 +1747,7 @@
 		<zh-CN>哈勒</zh-CN>
 		<pt-BR>Alepo</pt-BR>
 		<ko>할랍</ko>
+		<fixja>ハラブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HALICARNASSUS</zType>
@@ -1637,6 +1761,7 @@
 		<zh-CN>哈利卡那索斯</zh-CN>
 		<pt-BR>Halicarnasso</pt-BR>
 		<ko>할리카르나소스</ko>
+		<fixja>ハリカルナッソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HAMAT</zType>
@@ -1650,6 +1775,7 @@
 		<zh-CN>哈玛他</zh-CN>
 		<pt-BR>Hamate</pt-BR>
 		<ko>하마타</ko>
+		<fixja>ハマタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HARRAN</zType>
@@ -1663,6 +1789,7 @@
 		<zh-CN>哈兰</zh-CN>
 		<pt-BR>Carrhae</pt-BR>
 		<ko>카라이</ko>
+		<fixja>カルラエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HATRA</zType>
@@ -1676,6 +1803,7 @@
 		<zh-CN>哈特拉</zh-CN>
 		<pt-BR>Hatra</pt-BR>
 		<ko>하트라</ko>
+		<fixja>ハトラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HEBENU</zType>
@@ -1689,6 +1817,7 @@
 		<zh-CN>赫贝努</zh-CN>
 		<pt-BR>Hebenu</pt-BR>
 		<ko>헤베누</ko>
+		<fixja>ヘベヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HEDEMUNDEN</zType>
@@ -1702,6 +1831,7 @@
 		<zh-CN>海德蒙登</zh-CN>
 		<pt-BR>Hedemünden</pt-BR>
 		<ko>헤데문덴</ko>
+		<fixja>ヘーデミュンデン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HELIOPOLIS</zType>
@@ -1715,6 +1845,7 @@
 		<zh-CN>伊努</zh-CN>
 		<pt-BR>Iunu</pt-BR>
 		<ko>이우누</ko>
+		<fixja>イウヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HENEN_NESUT</zType>
@@ -1728,6 +1859,7 @@
 		<zh-CN>赫拉克来俄波利斯</zh-CN>
 		<pt-BR>Henen-nesut</pt-BR>
 		<ko>헤넨-네수트</ko>
+		<fixja>ヘネン・ネシュト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HERACLEA</zType>
@@ -1741,6 +1873,7 @@
 		<zh-CN>赫拉克利亚</zh-CN>
 		<pt-BR>Heracleia</pt-BR>
 		<ko>헤라클레아</ko>
+		<fixja>ヘラクレア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HERWER</zType>
@@ -1754,6 +1887,7 @@
 		<zh-CN>赫尔韦</zh-CN>
 		<pt-BR>Herwer</pt-BR>
 		<ko>헤르웨르</ko>
+		<fixja>ヘルワー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HIERACONPOLIS</zType>
@@ -1767,6 +1901,7 @@
 		<zh-CN>尼肯</zh-CN>
 		<pt-BR>Nekhen</pt-BR>
 		<ko>네크헨</ko>
+		<fixja>ネケン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HIPPO_REGIUS</zType>
@@ -1780,6 +1915,7 @@
 		<zh-CN>希波雷吉乌斯</zh-CN>
 		<pt-BR>Hippo Regius</pt-BR>
 		<ko>히포 레기우스</ko>
+		<fixja>ヒッポ・レギウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HISPALIS</zType>
@@ -1793,6 +1929,7 @@
 		<zh-CN>塞维亚</zh-CN>
 		<pt-BR>Hispalis</pt-BR>
 		<ko>히스팔리스</ko>
+		<fixja>ヒスパリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HORMIRZAD</zType>
@@ -1806,6 +1943,7 @@
 		<zh-CN>霍尔木兹德</zh-CN>
 		<pt-BR>Hormirzad</pt-BR>
 		<ko>호르미르자드</ko>
+		<fixja>ホルミルザド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HUT_HERY_IB</zType>
@@ -1819,6 +1957,7 @@
 		<zh-CN>胡特荷伊比</zh-CN>
 		<pt-BR>Hut-hery-ib</pt-BR>
 		<ko>후트-헤리-이브</ko>
+		<fixja>フト・ヘリイ・イブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HUT_REPYT</zType>
@@ -1832,6 +1971,7 @@
 		<zh-CN>胡特瑞沛特</zh-CN>
 		<pt-BR>Hut-Repyt</pt-BR>
 		<ko>후트-레피트</ko>
+		<fixja>フト・レピュト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HYRBA</zType>
@@ -1845,6 +1985,7 @@
 		<zh-CN>海尔巴</zh-CN>
 		<pt-BR>Hirba</pt-BR>
 		<ko>히르바</ko>
+		<fixja>ヒルバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IALYSUS</zType>
@@ -1858,6 +1999,7 @@
 		<zh-CN>伊阿利索斯</zh-CN>
 		<pt-BR>Ialyssos</pt-BR>
 		<ko>이알리소스</ko>
+		<fixja>イアリサス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IKEN</zType>
@@ -1871,6 +2013,7 @@
 		<zh-CN>伊肯</zh-CN>
 		<pt-BR>Iken</pt-BR>
 		<ko>이켄</ko>
+		<fixja>イケン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ILYINTSY</zType>
@@ -1884,6 +2027,7 @@
 		<zh-CN>伊林齐</zh-CN>
 		<pt-BR>Ilyintsy</pt-BR>
 		<ko>일린치</ko>
+		<fixja>イリンツィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IPU</zType>
@@ -1897,6 +2041,7 @@
 		<zh-CN>伊普</zh-CN>
 		<pt-BR>Ipu</pt-BR>
 		<ko>이푸</ko>
+		<fixja>イプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ISCA_DUMNONIORUM</zType>
@@ -1910,6 +2055,7 @@
 		<zh-CN>埃克塞特</zh-CN>
 		<pt-BR>Isca Dumnoniorum</pt-BR>
 		<ko>이스카 둠노니오룸</ko>
+		<fixja>イスカ・ドゥムノニオルム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ITALICA</zType>
@@ -1923,6 +2069,7 @@
 		<zh-CN>伊塔利卡</zh-CN>
 		<pt-BR>Itálica</pt-BR>
 		<ko>이탈리카</ko>
+		<fixja>イタリカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IUNY</zType>
@@ -1936,6 +2083,7 @@
 		<zh-CN>伊乌尼</zh-CN>
 		<pt-BR>Iuni</pt-BR>
 		<ko>이우니</ko>
+		<fixja>イゥニィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IUSHENSHEN</zType>
@@ -1949,6 +2097,7 @@
 		<zh-CN>乌申申</zh-CN>
 		<pt-BR>Iushenshen</pt-BR>
 		<ko>이우셴셴</ko>
+		<fixja>イウシェンシェン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IUVAVUM</zType>
@@ -1962,6 +2111,7 @@
 		<zh-CN>乌凡奴</zh-CN>
 		<pt-BR>Juvano</pt-BR>
 		<ko>이우바눔</ko>
+		<fixja>イウバナム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KAHAT</zType>
@@ -1975,6 +2125,7 @@
 		<zh-CN>卡哈特</zh-CN>
 		<pt-BR>Kahat</pt-BR>
 		<ko>카하트</ko>
+		<fixja>カハト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KALHU</zType>
@@ -1988,6 +2139,7 @@
 		<zh-CN>尼姆鲁德</zh-CN>
 		<pt-BR>Nimrud</pt-BR>
 		<ko>님루드</ko>
+		<fixja>ニムルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KANESH</zType>
@@ -2001,6 +2153,7 @@
 		<zh-CN>卡内什</zh-CN>
 		<pt-BR>Kanesh</pt-BR>
 		<ko>카네쉬</ko>
+		<fixja>カネシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KAR_SULMANU_ASAREDU</zType>
@@ -2014,6 +2167,7 @@
 		<zh-CN>蒂尔巴尔西普</zh-CN>
 		<pt-BR>Til Barsip</pt-BR>
 		<ko>틸 바르시프</ko>
+		<fixja>ティル・バルシプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KARALIS</zType>
@@ -2027,6 +2181,7 @@
 		<zh-CN>卡拉利斯</zh-CN>
 		<pt-BR>Karilis</pt-BR>
 		<ko>카랄리스</ko>
+		<fixja>カラリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KARYSTOS</zType>
@@ -2040,6 +2195,7 @@
 		<zh-CN>卡里斯托斯</zh-CN>
 		<pt-BR>Caristo</pt-BR>
 		<ko>카리스토스</ko>
+		<fixja>カリストス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KAUP</zType>
@@ -2053,6 +2209,7 @@
 		<zh-CN>考普</zh-CN>
 		<pt-BR>Kaup</pt-BR>
 		<ko>카우프</ko>
+		<fixja>カウプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KERKUANE</zType>
@@ -2066,6 +2223,7 @@
 		<zh-CN>科克瓦尼</zh-CN>
 		<pt-BR>Kerkuane</pt-BR>
 		<ko>케르쿠아네</ko>
+		<fixja>ケルクアン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KERMANSHAH</zType>
@@ -2079,6 +2237,7 @@
 		<zh-CN>克尔曼沙赫</zh-CN>
 		<pt-BR>Kermanshah</pt-BR>
 		<ko>케르만샤</ko>
+		<fixja>ケルマーンシャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KHASUT</zType>
@@ -2092,6 +2251,7 @@
 		<zh-CN>卡苏特</zh-CN>
 		<pt-BR>Khasut</pt-BR>
 		<ko>하수트</ko>
+		<fixja>ハスート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KHEM</zType>
@@ -2105,6 +2265,7 @@
 		<zh-CN>黑土</zh-CN>
 		<pt-BR>Khem</pt-BR>
 		<ko>켐</ko>
+		<fixja>ケム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KHITO</zType>
@@ -2118,6 +2279,7 @@
 		<zh-CN>吉多</zh-CN>
 		<pt-BR>Khito</pt-BR>
 		<ko>키토</ko>
+		<fixja>キト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KHIVA</zType>
@@ -2131,6 +2293,7 @@
 		<zh-CN>希瓦</zh-CN>
 		<pt-BR>Quiva</pt-BR>
 		<ko>키바</ko>
+		<fixja>ヒヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KHMUN</zType>
@@ -2144,6 +2307,7 @@
 		<zh-CN>库努牡</zh-CN>
 		<pt-BR>Khmun</pt-BR>
 		<ko>크문</ko>
+		<fixja>クムン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KISH</zType>
@@ -2157,6 +2321,7 @@
 		<zh-CN>基什</zh-CN>
 		<pt-BR>Kish</pt-BR>
 		<ko>키쉬</ko>
+		<fixja>キシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KISURRA</zType>
@@ -2170,6 +2335,7 @@
 		<zh-CN>基苏拉</zh-CN>
 		<pt-BR>Kishurra</pt-BR>
 		<ko>키수라</ko>
+		<fixja>キスッラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KOSTROMSKAYA</zType>
@@ -2183,6 +2349,7 @@
 		<zh-CN>科斯特罗姆斯卡娅</zh-CN>
 		<pt-BR>Kostromskaya</pt-BR>
 		<ko>코스트롬스카야</ko>
+		<fixja>コストロムスカヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LAGASH</zType>
@@ -2196,6 +2363,7 @@
 		<zh-CN>拉格什</zh-CN>
 		<pt-BR>Lagash</pt-BR>
 		<ko>라가시</ko>
+		<fixja>ラガシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LARISSA</zType>
@@ -2209,6 +2377,7 @@
 		<zh-CN>拉里萨</zh-CN>
 		<pt-BR>Lárissa</pt-BR>
 		<ko>라리사</ko>
+		<fixja>ラリッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LARSA</zType>
@@ -2222,6 +2391,7 @@
 		<zh-CN>拉尔萨</zh-CN>
 		<pt-BR>Larsa</pt-BR>
 		<ko>라르사</ko>
+		<fixja>ラルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LEGIO</zType>
@@ -2235,6 +2405,7 @@
 		<zh-CN>莱基俄</zh-CN>
 		<pt-BR>Legio</pt-BR>
 		<ko>레지오</ko>
+		<fixja>レギオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LENTIA</zType>
@@ -2248,6 +2419,7 @@
 		<zh-CN>兰提亚</zh-CN>
 		<pt-BR>Lentia</pt-BR>
 		<ko>렌티아</ko>
+		<fixja>レンティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LEPTIS_MAGNA</zType>
@@ -2261,6 +2433,7 @@
 		<zh-CN>大莱波蒂斯</zh-CN>
 		<pt-BR>Leptis Magna</pt-BR>
 		<ko>렙티스 마그나</ko>
+		<fixja>レプティス・マグナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LILYBAEUM</zType>
@@ -2274,6 +2447,7 @@
 		<zh-CN>利利贝乌姆</zh-CN>
 		<pt-BR>Lilibeia</pt-BR>
 		<ko>릴리바이움</ko>
+		<fixja>リリバエウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LINDOS</zType>
@@ -2287,6 +2461,7 @@
 		<zh-CN>林多斯</zh-CN>
 		<pt-BR>Lindos</pt-BR>
 		<ko>린도스</ko>
+		<fixja>リンドス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LIXUS</zType>
@@ -2300,6 +2475,7 @@
 		<zh-CN>利克苏斯</zh-CN>
 		<pt-BR>Licsos</pt-BR>
 		<ko>릭수스</ko>
+		<fixja>リクサス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LONDINIUM</zType>
@@ -2313,6 +2489,7 @@
 		<zh-CN>伦蒂尼恩</zh-CN>
 		<pt-BR>Londínio</pt-BR>
 		<ko>론디니움</ko>
+		<fixja>ロンディニウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LUGDUNUM</zType>
@@ -2326,6 +2503,7 @@
 		<zh-CN>卢格杜努姆</zh-CN>
 		<pt-BR>Lugduno</pt-BR>
 		<ko>루그두눔</ko>
+		<fixja>ルグドゥヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LUTETIA</zType>
@@ -2339,6 +2517,7 @@
 		<zh-CN>卢泰西亚</zh-CN>
 		<pt-BR>Lutécia</pt-BR>
 		<ko>루테티아</ko>
+		<fixja>ルテティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LYCTOS</zType>
@@ -2352,6 +2531,7 @@
 		<zh-CN>利克托斯</zh-CN>
 		<pt-BR>Licto</pt-BR>
 		<ko>릭토스</ko>
+		<fixja>リュクトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MADU</zType>
@@ -2365,6 +2545,7 @@
 		<zh-CN>马杜</zh-CN>
 		<pt-BR>Madu</pt-BR>
 		<ko>마두</ko>
+		<fixja>マドゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MALACA</zType>
@@ -2378,6 +2559,7 @@
 		<zh-CN>马拉加</zh-CN>
 		<pt-BR>Malaca</pt-BR>
 		<ko>말라카</ko>
+		<fixja>マラカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MALIDIYA</zType>
@@ -2391,6 +2573,7 @@
 		<zh-CN>马利迪亚</zh-CN>
 		<pt-BR>Malidiya</pt-BR>
 		<ko>말리디야</ko>
+		<fixja>マリディア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARAD</zType>
@@ -2404,6 +2587,7 @@
 		<zh-CN>马拉德</zh-CN>
 		<pt-BR>Marad</pt-BR>
 		<ko>마라드</ko>
+		<fixja>マラド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARDAMAN</zType>
@@ -2417,6 +2601,7 @@
 		<zh-CN>马尔达曼</zh-CN>
 		<pt-BR>Mardaman</pt-BR>
 		<ko>마르다만</ko>
+		<fixja>マルダマン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARDIN</zType>
@@ -2430,6 +2615,7 @@
 		<zh-CN>伊扎拉</zh-CN>
 		<pt-BR>Izala</pt-BR>
 		<ko>이잘라</ko>
+		<fixja>イザラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARI</zType>
@@ -2443,6 +2629,7 @@
 		<zh-CN>马里</zh-CN>
 		<pt-BR>Mari</pt-BR>
 		<ko>마리</ko>
+		<fixja>マリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MASSA</zType>
@@ -2456,6 +2643,7 @@
 		<zh-CN>马萨</zh-CN>
 		<pt-BR>Massa</pt-BR>
 		<ko>맛사</ko>
+		<fixja>マッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MASSALIA</zType>
@@ -2469,6 +2657,7 @@
 		<zh-CN>马萨利亚</zh-CN>
 		<pt-BR>Massalia</pt-BR>
 		<ko>맛살리아</ko>
+		<fixja>マサリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MEDIOLANUM</zType>
@@ -2482,6 +2671,7 @@
 		<zh-CN>米迪兰姆</zh-CN>
 		<pt-BR>Mediolano</pt-BR>
 		<ko>메디올라눔</ko>
+		<fixja>メディオラヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MEGARA</zType>
@@ -2495,6 +2685,7 @@
 		<zh-CN>梅加拉</zh-CN>
 		<pt-BR>Mégara</pt-BR>
 		<ko>메가라</ko>
+		<fixja>メガラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MELIDDU</zType>
@@ -2508,6 +2699,7 @@
 		<zh-CN>马利迪亚</zh-CN>
 		<pt-BR>Meliddu</pt-BR>
 		<ko>말리디야</ko>
+		<fixja>マリディア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GAZA</zType>
@@ -2521,6 +2713,7 @@
 		<zh-CN>加萨</zh-CN>
 		<pt-BR>Gaza</pt-BR>
 		<ko>가자</ko>
+		<fixja>ガザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MELITE</zType>
@@ -2534,6 +2727,7 @@
 		<zh-CN>梅乐斯</zh-CN>
 		<pt-BR>Maleth</pt-BR>
 		<ko>말레트</ko>
+		<fixja>マレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MELITENE</zType>
@@ -2547,6 +2741,7 @@
 		<zh-CN>马拉蒂亚</zh-CN>
 		<pt-BR>Melitene</pt-BR>
 		<ko>멜리테네</ko>
+		<fixja>メリテネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MEMPHIS</zType>
@@ -2560,6 +2755,7 @@
 		<zh-CN>孟非斯</zh-CN>
 		<pt-BR>Mênfis</pt-BR>
 		<ko>멘네페르</ko>
+		<fixja>メネファー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MENOUTHIS</zType>
@@ -2573,6 +2769,7 @@
 		<zh-CN>美诺西斯</zh-CN>
 		<pt-BR>Menouthis</pt-BR>
 		<ko>메노우티스</ko>
+		<fixja>メノティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MER_NEFER_ET</zType>
@@ -2586,6 +2783,7 @@
 		<zh-CN>梅纳菲特</zh-CN>
 		<pt-BR>Mer-nefer</pt-BR>
 		<ko>메르-네페르-에트</ko>
+		<fixja>メル・ネファー・エト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MILETUS</zType>
@@ -2599,6 +2797,7 @@
 		<zh-CN>米利都</zh-CN>
 		<pt-BR>Mileto</pt-BR>
 		<ko>밀레토스</ko>
+		<fixja>ミレトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MODICIA</zType>
@@ -2612,6 +2811,7 @@
 		<zh-CN>莫迪卡</zh-CN>
 		<pt-BR>Modicia</pt-BR>
 		<ko>모디키아</ko>
+		<fixja>モディシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MOGONTIACUM</zType>
@@ -2625,6 +2825,7 @@
 		<zh-CN>莫根提亚肯</zh-CN>
 		<pt-BR>Mogoncíaco</pt-BR>
 		<ko>모군티아쿰</ko>
+		<fixja>モゴンティアクム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MYTILENE</zType>
@@ -2638,6 +2839,7 @@
 		<zh-CN>米蒂利尼</zh-CN>
 		<pt-BR>Mitilene</pt-BR>
 		<ko>미틸레네</ko>
+		<fixja>ミティレネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NAISSUS</zType>
@@ -2651,6 +2853,7 @@
 		<zh-CN>尼斯</zh-CN>
 		<pt-BR>Naissus</pt-BR>
 		<ko>나이수스</ko>
+		<fixja>ナイッスス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NARBO</zType>
@@ -2664,6 +2867,7 @@
 		<zh-CN>纳博</zh-CN>
 		<pt-BR>Narbo</pt-BR>
 		<ko>나르보</ko>
+		<fixja>ナルボ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NEAPOLIS</zType>
@@ -2677,6 +2881,7 @@
 		<zh-CN>尼亚波利斯</zh-CN>
 		<pt-BR>Neápolis</pt-BR>
 		<ko>네아폴리스</ko>
+		<fixja>ネアポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NEKHEB</zType>
@@ -2690,6 +2895,7 @@
 		<zh-CN>聂赫伯</zh-CN>
 		<pt-BR>Nequebe</pt-BR>
 		<ko>네케브</ko>
+		<fixja>ネケブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NEMYRIV</zType>
@@ -2703,6 +2909,7 @@
 		<zh-CN>内梅里夫</zh-CN>
 		<pt-BR>Nemirov</pt-BR>
 		<ko>네미리브</ko>
+		<fixja>ネムィーリウ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NICAEA</zType>
@@ -2716,6 +2923,7 @@
 		<zh-CN>尼西亚</zh-CN>
 		<pt-BR>Niceia</pt-BR>
 		<ko>니카이아</ko>
+		<fixja>ニカイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NICODMEDIA</zType>
@@ -2729,6 +2937,7 @@
 		<zh-CN>尼科米底亚</zh-CN>
 		<pt-BR>Nicomédia</pt-BR>
 		<ko>니코메디아</ko>
+		<fixja>ニコメディア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NICOPOLIS</zType>
@@ -2742,6 +2951,7 @@
 		<zh-CN>尼哥波立</zh-CN>
 		<pt-BR>Nicópolis</pt-BR>
 		<ko>니코폴리스</ko>
+		<fixja>ニコポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NIDA</zType>
@@ -2755,6 +2965,7 @@
 		<zh-CN>奈达</zh-CN>
 		<pt-BR>Nida</pt-BR>
 		<ko>니다</ko>
+		<fixja>ニダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NINEVEH</zType>
@@ -2768,6 +2979,7 @@
 		<zh-CN>尼尼微</zh-CN>
 		<pt-BR>Nínive</pt-BR>
 		<ko>니네베</ko>
+		<fixja>ニネベ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NIPPUR</zType>
@@ -2781,6 +2993,7 @@
 		<zh-CN>尼普尔</zh-CN>
 		<pt-BR>Nipur</pt-BR>
 		<ko>니푸르</ko>
+		<fixja>ニップル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NISHAPUR</zType>
@@ -2794,6 +3007,7 @@
 		<zh-CN>内沙布尔</zh-CN>
 		<pt-BR>Nishapur</pt-BR>
 		<ko>니샤푸르</ko>
+		<fixja>ニシャプール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NISIBIS</zType>
@@ -2807,6 +3021,7 @@
 		<zh-CN>尼西比斯</zh-CN>
 		<pt-BR>Nisibis</pt-BR>
 		<ko>니시비스</ko>
+		<fixja>ニシビス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NORA</zType>
@@ -2820,6 +3035,7 @@
 		<zh-CN>诺拉</zh-CN>
 		<pt-BR>Nora</pt-BR>
 		<ko>노라</ko>
+		<fixja>ノラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NOVAESIUM</zType>
@@ -2833,6 +3049,7 @@
 		<zh-CN>诺伊斯</zh-CN>
 		<pt-BR>Novésio</pt-BR>
 		<ko>노바이시움</ko>
+		<fixja>ノヴァエシウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NUBT</zType>
@@ -2846,6 +3063,7 @@
 		<zh-CN>奈加代</zh-CN>
 		<pt-BR>Nubt</pt-BR>
 		<ko>누브트</ko>
+		<fixja>ナブト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OESCUS</zType>
@@ -2859,6 +3077,7 @@
 		<zh-CN>欧斯库</zh-CN>
 		<pt-BR>Oescus</pt-BR>
 		<ko>오이스쿠스</ko>
+		<fixja>オエスクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OLBIA</zType>
@@ -2872,6 +3091,7 @@
 		<zh-CN>奥尔比亚</zh-CN>
 		<pt-BR>Ólbia</pt-BR>
 		<ko>올비아</ko>
+		<fixja>オルビア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OLYNTHUS</zType>
@@ -2885,6 +3105,7 @@
 		<zh-CN>奥林萨斯</zh-CN>
 		<pt-BR>Olinto</pt-BR>
 		<ko>올린토스</ko>
+		<fixja>オリュントス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OPIS</zType>
@@ -2898,6 +3119,7 @@
 		<zh-CN>奥比斯</zh-CN>
 		<pt-BR>Ópis</pt-BR>
 		<ko>오피스</ko>
+		<fixja>オピス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ORTOSPANA</zType>
@@ -2911,6 +3133,7 @@
 		<zh-CN>奥托斯帕纳</zh-CN>
 		<pt-BR>Ortospana</pt-BR>
 		<ko>오프토스파나</ko>
+		<fixja>オルトスパナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OSTIA</zType>
@@ -2924,6 +3147,7 @@
 		<zh-CN>奥斯蒂亚</zh-CN>
 		<pt-BR>Óstia</pt-BR>
 		<ko>오스티아</ko>
+		<fixja>オスティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OVILAVA</zType>
@@ -2937,6 +3161,7 @@
 		<zh-CN>奥维拉</zh-CN>
 		<pt-BR>Ovilava</pt-BR>
 		<ko>오빌라바</ko>
+		<fixja>オビラヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OXHOFT</zType>
@@ -2950,6 +3175,7 @@
 		<zh-CN>奥克斯霍夫特</zh-CN>
 		<pt-BR>Oxhoft</pt-BR>
 		<ko>옥시비에</ko>
+		<fixja>オクスホフト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PACHNAMUNIS</zType>
@@ -2963,6 +3189,7 @@
 		<zh-CN>帕赫纳穆尼斯</zh-CN>
 		<pt-BR>Pachnamunis</pt-BR>
 		<ko>파크나무니스</ko>
+		<fixja>パクナムニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PAHRAH</zType>
@@ -2976,6 +3203,7 @@
 		<zh-CN>帕赫拉</zh-CN>
 		<pt-BR>Pahrah</pt-BR>
 		<ko>파흐라</ko>
+		<fixja>パフラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PALMA</zType>
@@ -2989,6 +3217,7 @@
 		<zh-CN>帕尔马</zh-CN>
 		<pt-BR>Palma</pt-BR>
 		<ko>팔마</ko>
+		<fixja>パルマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PALMYRA</zType>
@@ -3002,6 +3231,7 @@
 		<zh-CN>巴尔米拉</zh-CN>
 		<pt-BR>Palmira</pt-BR>
 		<ko>팔미라</ko>
+		<fixja>パルミラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PANORMUS</zType>
@@ -3015,6 +3245,7 @@
 		<zh-CN>巴勒摩</zh-CN>
 		<pt-BR>Panormo</pt-BR>
 		<ko>파노르무스</ko>
+		<fixja>パノルムス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PANTICAPAEUM</zType>
@@ -3028,6 +3259,7 @@
 		<zh-CN>潘提卡佩姆</zh-CN>
 		<pt-BR>Panticapaeum</pt-BR>
 		<ko>판티카파에움</ko>
+		<fixja>パンティカパイオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PASARGADAE</zType>
@@ -3041,6 +3273,7 @@
 		<zh-CN>帕萨尔加德</zh-CN>
 		<pt-BR>Pasárgada</pt-BR>
 		<ko>파사르가다에</ko>
+		<fixja>パサルガダイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PATAVIUM</zType>
@@ -3054,6 +3287,7 @@
 		<zh-CN>帕多瓦</zh-CN>
 		<pt-BR>Patávio</pt-BR>
 		<ko>파타비움</ko>
+		<fixja>パタヴィウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PATRAS</zType>
@@ -3067,6 +3301,7 @@
 		<zh-CN>帕特拉斯</zh-CN>
 		<pt-BR>Patras</pt-BR>
 		<ko>파트라스</ko>
+		<fixja>パトラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PELLA</zType>
@@ -3080,6 +3315,7 @@
 		<zh-CN>佩拉</zh-CN>
 		<pt-BR>Pela</pt-BR>
 		<ko>펠라</ko>
+		<fixja>ペラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PELUSIUM</zType>
@@ -3093,6 +3329,7 @@
 		<zh-CN>贝鲁西亚</zh-CN>
 		<pt-BR>Pelúsio</pt-BR>
 		<ko>펠루시움</ko>
+		<fixja>ペルシウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_AMUN</zType>
@@ -3106,6 +3343,7 @@
 		<zh-CN>比阿蒙</zh-CN>
 		<pt-BR>Per-Amun</pt-BR>
 		<ko>페르-아문</ko>
+		<fixja>ペル・アメン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_ATUM</zType>
@@ -3119,6 +3357,7 @@
 		<zh-CN>比东</zh-CN>
 		<pt-BR>Per-Atum</pt-BR>
 		<ko>페르-아툼</ko>
+		<fixja>ペル・アトゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_BAST</zType>
@@ -3132,6 +3371,7 @@
 		<zh-CN>帕巴斯特</zh-CN>
 		<pt-BR>Per-Baste</pt-BR>
 		<ko>페르-바스트</ko>
+		<fixja>ペル・バスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_HATHOR</zType>
@@ -3145,6 +3385,7 @@
 		<zh-CN>帕哈索尔</zh-CN>
 		<pt-BR>Per-Hathor</pt-BR>
 		<ko>페르-하토르</ko>
+		<fixja>ペル・ハトホル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_MEDJED</zType>
@@ -3158,6 +3399,7 @@
 		<zh-CN>帕梅杰德</zh-CN>
 		<pt-BR>Per-Medjed</pt-BR>
 		<ko>페르-메제드</ko>
+		<fixja>ペル・メジェド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_NEMTY</zType>
@@ -3171,6 +3413,7 @@
 		<zh-CN>帕纳姆提</zh-CN>
 		<pt-BR>Per-Nemty</pt-BR>
 		<ko>페르-넴티</ko>
+		<fixja>ペル・ネムティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_SOPDU</zType>
@@ -3184,6 +3427,7 @@
 		<zh-CN>珀索普杜</zh-CN>
 		<pt-BR>Per-Sopdu</pt-BR>
 		<ko>페르-솝두</ko>
+		<fixja>ペル・ソプドゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PER_WADJET</zType>
@@ -3197,6 +3441,7 @@
 		<zh-CN>帕瓦吉特</zh-CN>
 		<pt-BR>Per-Wadjet</pt-BR>
 		<ko>페르-와제트</ko>
+		<fixja>ペル・ウアジェト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PERGAMON</zType>
@@ -3210,6 +3455,7 @@
 		<zh-CN>帕加马</zh-CN>
 		<pt-BR>Pérgamo</pt-BR>
 		<ko>페르가몬</ko>
+		<fixja>ペルガモン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PERGE</zType>
@@ -3223,6 +3469,7 @@
 		<zh-CN>佩尔格</zh-CN>
 		<pt-BR>Perge</pt-BR>
 		<ko>페르게</ko>
+		<fixja>ペルゲ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PERSEPOLIS</zType>
@@ -3236,6 +3483,7 @@
 		<zh-CN>波斯</zh-CN>
 		<pt-BR>Parsa</pt-BR>
 		<ko>파르사</ko>
+		<fixja>パルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PHILIPPI</zType>
@@ -3249,6 +3497,7 @@
 		<zh-CN>腓立比</zh-CN>
 		<pt-BR>Filipos</pt-BR>
 		<ko>필리피</ko>
+		<fixja>ピリッポイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PHILIPPOPOLIS</zType>
@@ -3262,6 +3511,7 @@
 		<zh-CN>菲利波波利</zh-CN>
 		<pt-BR>Filipópolis</pt-BR>
 		<ko>필리포폴리스</ko>
+		<fixja>プロブディフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PHOCAEA</zType>
@@ -3275,6 +3525,7 @@
 		<zh-CN>福西亚</zh-CN>
 		<pt-BR>Foceia</pt-BR>
 		<ko>포카이아</ko>
+		<fixja>ポカイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PI_RAMESSES</zType>
@@ -3288,6 +3539,7 @@
 		<zh-CN>培尔拉美西斯</zh-CN>
 		<pt-BR>Pi-Ramessés</pt-BR>
 		<ko>피-람세스</ko>
+		<fixja>ピ・ラムセス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PIEMRO</zType>
@@ -3301,6 +3553,7 @@
 		<zh-CN>皮耶摩</zh-CN>
 		<pt-BR>Piemro</pt-BR>
 		<ko>피엠로</ko>
+		<fixja>ピエムロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PIKUAT</zType>
@@ -3314,6 +3567,7 @@
 		<zh-CN>皮库特</zh-CN>
 		<pt-BR>Pikuat</pt-BR>
 		<ko>피쿠아트</ko>
+		<fixja>ピクアット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PISTORIA</zType>
@@ -3327,6 +3581,7 @@
 		<zh-CN>皮斯托亚</zh-CN>
 		<pt-BR>Pistoria</pt-BR>
 		<ko>피스토리아</ko>
+		<fixja>ピストイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_POMPALEO</zType>
@@ -3340,6 +3595,7 @@
 		<zh-CN>潘普洛纳</zh-CN>
 		<pt-BR>Pompaelo</pt-BR>
 		<ko>폼파엘로</ko>
+		<fixja>ポンパエロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_POMPEII</zType>
@@ -3353,6 +3609,7 @@
 		<zh-CN>庞贝</zh-CN>
 		<pt-BR>Pompeia</pt-BR>
 		<ko>폼페이</ko>
+		<fixja>ポンペイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PONUS_AELIUS</zType>
@@ -3366,6 +3623,7 @@
 		<zh-CN>庞斯阿留斯</zh-CN>
 		<pt-BR>Pons Aelius</pt-BR>
 		<ko>폰스 아일리우스</ko>
+		<fixja>ポンス・アエリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_POROLISSUM</zType>
@@ -3379,6 +3637,7 @@
 		<zh-CN>博罗里苏姆</zh-CN>
 		<pt-BR>Porolissum</pt-BR>
 		<ko>포롤리숨</ko>
+		<fixja>ポロリッスム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_POTIDAEA</zType>
@@ -3392,6 +3651,7 @@
 		<zh-CN>波提狄亚</zh-CN>
 		<pt-BR>Potideia</pt-BR>
 		<ko>포티다이아</ko>
+		<fixja>ポティダイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PROPHTHASIA</zType>
@@ -3405,6 +3665,7 @@
 		<zh-CN>乌弋山离</zh-CN>
 		<pt-BR>Protasia</pt-BR>
 		<ko>프로프타시아</ko>
+		<fixja>プロフタシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PTERIA</zType>
@@ -3418,6 +3679,7 @@
 		<zh-CN>普提里亚</zh-CN>
 		<pt-BR>Ptéria</pt-BR>
 		<ko>프테리아</ko>
+		<fixja>プテリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PTKHEKA</zType>
@@ -3431,6 +3693,7 @@
 		<zh-CN>普特赫卡</zh-CN>
 		<pt-BR>Ptkheka</pt-BR>
 		<ko>프트케카</ko>
+		<fixja>プチェカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PYLOS</zType>
@@ -3444,6 +3707,7 @@
 		<zh-CN>皮洛斯</zh-CN>
 		<pt-BR>Pilos</pt-BR>
 		<ko>필로스</ko>
+		<fixja>ピュロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QADESH</zType>
@@ -3457,6 +3721,7 @@
 		<zh-CN>卡迭石</zh-CN>
 		<pt-BR>Cadesh</pt-BR>
 		<ko>카데시</ko>
+		<fixja>カデシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QATNA</zType>
@@ -3470,6 +3735,7 @@
 		<zh-CN>卡特纳</zh-CN>
 		<pt-BR>Catna</pt-BR>
 		<ko>카트나</ko>
+		<fixja>カトナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QIS</zType>
@@ -3483,6 +3749,7 @@
 		<zh-CN>基斯</zh-CN>
 		<pt-BR>Qis</pt-BR>
 		<ko>키스</ko>
+		<fixja>キス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RAMANA</zType>
@@ -3496,6 +3763,7 @@
 		<zh-CN>拉马那</zh-CN>
 		<pt-BR>Ramana</pt-BR>
 		<ko>라마나</ko>
+		<fixja>ラマナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RAVENNA</zType>
@@ -3509,6 +3777,7 @@
 		<zh-CN>拉温纳</zh-CN>
 		<pt-BR>Ravena</pt-BR>
 		<ko>라벤나</ko>
+		<fixja>ラヴェンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_REGIUM_LEPIDI</zType>
@@ -3522,6 +3791,7 @@
 		<zh-CN>雷皮迪瑞吉欧</zh-CN>
 		<pt-BR>Regium Lepidi</pt-BR>
 		<ko>레기움 레피디</ko>
+		<fixja>レギウム・レピディ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RESEN</zType>
@@ -3535,6 +3805,7 @@
 		<zh-CN>雷森</zh-CN>
 		<pt-BR>Resen</pt-BR>
 		<ko>레센</ko>
+		<fixja>レセン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RHAGES</zType>
@@ -3548,6 +3819,7 @@
 		<zh-CN>拉加</zh-CN>
 		<pt-BR>Raga</pt-BR>
 		<ko>라가</ko>
+		<fixja>ラーガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RHEGION</zType>
@@ -3561,6 +3833,7 @@
 		<zh-CN>雷焦</zh-CN>
 		<pt-BR>Régio</pt-BR>
 		<ko>레기온</ko>
+		<fixja>レジオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RHODES</zType>
@@ -3574,6 +3847,7 @@
 		<zh-CN>罗德岛</zh-CN>
 		<pt-BR>Rodes</pt-BR>
 		<ko>로도스</ko>
+		<fixja>ロードス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ROGALAND</zType>
@@ -3587,6 +3861,7 @@
 		<zh-CN>罗加兰</zh-CN>
 		<pt-BR>Rogaland</pt-BR>
 		<ko>로갈란드</ko>
+		<fixja>ローガラン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ROMA</zType>
@@ -3600,6 +3875,7 @@
 		<zh-CN>罗马</zh-CN>
 		<pt-BR>Roma</pt-BR>
 		<ko>로마</ko>
+		<fixja>ローマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SABRATA</zType>
@@ -3613,6 +3889,7 @@
 		<zh-CN>塞卜拉泰</zh-CN>
 		<pt-BR>Sábrata</pt-BR>
 		<ko>사브라타</ko>
+		<fixja>サブラタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SADDARVAZEH</zType>
@@ -3626,6 +3903,7 @@
 		<zh-CN>赫卡通皮洛斯</zh-CN>
 		<pt-BR>Saddarvazeh</pt-BR>
 		<ko>사다르바제</ko>
+		<fixja>サダルヴァゼ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAIS</zType>
@@ -3639,6 +3917,7 @@
 		<zh-CN>扎乌</zh-CN>
 		<pt-BR>Sau</pt-BR>
 		<ko>자우</ko>
+		<fixja>ザウ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAKA</zType>
@@ -3652,6 +3931,7 @@
 		<zh-CN>塞迦</zh-CN>
 		<pt-BR>Saka</pt-BR>
 		<ko>사카</ko>
+		<fixja>サカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SALDAE</zType>
@@ -3665,6 +3945,7 @@
 		<zh-CN>萨尔迪</zh-CN>
 		<pt-BR>Saldae</pt-BR>
 		<ko>살다이</ko>
+		<fixja>サルデ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SALERNUM</zType>
@@ -3678,6 +3959,7 @@
 		<zh-CN>萨莱诺</zh-CN>
 		<pt-BR>Salerno</pt-BR>
 		<ko>살레르눔</ko>
+		<fixja>サレルノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SALONA</zType>
@@ -3691,6 +3973,7 @@
 		<zh-CN>萨罗纳</zh-CN>
 		<pt-BR>Salona</pt-BR>
 		<ko>살로나</ko>
+		<fixja>サロナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAMARKAND</zType>
@@ -3704,6 +3987,7 @@
 		<zh-CN>撒马尔罕</zh-CN>
 		<pt-BR>Samarcanda</pt-BR>
 		<ko>사마르칸드</ko>
+		<fixja>サマルカンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SARDIS</zType>
@@ -3717,6 +4001,7 @@
 		<zh-CN>萨第斯</zh-CN>
 		<pt-BR>Sárdis</pt-BR>
 		<ko>사르디스</ko>
+		<fixja>サルディス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAREISA</zType>
@@ -3730,6 +4015,7 @@
 		<zh-CN>沙雷莎</zh-CN>
 		<pt-BR>Sareisa</pt-BR>
 		<ko>사레이사</ko>
+		<fixja>サレイサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SCALABIS</zType>
@@ -3743,6 +4029,7 @@
 		<zh-CN>思科勒比斯</zh-CN>
 		<pt-BR>Scalabis</pt-BR>
 		<ko>스칼라비스</ko>
+		<fixja>スカラビス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SEBASTOPOLIS</zType>
@@ -3756,6 +4043,7 @@
 		<zh-CN>瑟巴斯多玻利斯</zh-CN>
 		<pt-BR>Sebastópolis</pt-BR>
 		<ko>세바스토폴리스</ko>
+		<fixja>セバストポリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SEMABEHDET</zType>
@@ -3769,6 +4057,7 @@
 		<zh-CN>下城</zh-CN>
 		<pt-BR>Semabehdet</pt-BR>
 		<ko>세마베데트</ko>
+		<fixja>セマベデット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SERDICA</zType>
@@ -3782,6 +4071,7 @@
 		<zh-CN>塞尔迪卡</zh-CN>
 		<pt-BR>Sérdica</pt-BR>
 		<ko>세르디카</ko>
+		<fixja>セルディカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SESHESH</zType>
@@ -3795,6 +4085,7 @@
 		<zh-CN>赛西西</zh-CN>
 		<pt-BR>Hu-Sekhem</pt-BR>
 		<ko>세셰시</ko>
+		<fixja>セシェシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SETENNU</zType>
@@ -3808,6 +4099,7 @@
 		<zh-CN>赛特努</zh-CN>
 		<pt-BR>Setennu</pt-BR>
 		<ko>세텐누</ko>
+		<fixja>セテンヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SHASHOTEP</zType>
@@ -3821,6 +4113,7 @@
 		<zh-CN>沙肖特普</zh-CN>
 		<pt-BR>Shashotep</pt-BR>
 		<ko>샤쇼텝</ko>
+		<fixja>シャショテップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SHEDET</zType>
@@ -3834,6 +4127,7 @@
 		<zh-CN>谢代特</zh-CN>
 		<pt-BR>Shedet</pt-BR>
 		<ko>셰데트</ko>
+		<fixja>シェデット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SHIRAZ</zType>
@@ -3847,6 +4141,7 @@
 		<zh-CN>设拉子</zh-CN>
 		<pt-BR>Shiraz</pt-BR>
 		<ko>시라즈</ko>
+		<fixja>シラーズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SHURUPPAK</zType>
@@ -3860,6 +4155,7 @@
 		<zh-CN>舒鲁帕克</zh-CN>
 		<pt-BR>Shuruppak</pt-BR>
 		<ko>슈루팍</ko>
+		<fixja>シュルッパク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SHUSHTAR</zType>
@@ -3873,6 +4169,7 @@
 		<zh-CN>舒什塔尔</zh-CN>
 		<pt-BR>Shushtar</pt-BR>
 		<ko>슈슈타르</ko>
+		<fixja>シューシュタル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SICCA</zType>
@@ -3886,6 +4183,7 @@
 		<zh-CN>西卡</zh-CN>
 		<pt-BR>Sicca</pt-BR>
 		<ko>시카</ko>
+		<fixja>シッカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SIPPAR</zType>
@@ -3899,6 +4197,7 @@
 		<zh-CN>西帕尔</zh-CN>
 		<pt-BR>Sipar</pt-BR>
 		<ko>시파르</ko>
+		<fixja>シッパル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SIRMIUM</zType>
@@ -3912,6 +4211,7 @@
 		<zh-CN>色米姆</zh-CN>
 		<pt-BR>Sirmio</pt-BR>
 		<ko>시르미움</ko>
+		<fixja>シルミウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SISCIA</zType>
@@ -3925,6 +4225,7 @@
 		<zh-CN>锡萨克</zh-CN>
 		<pt-BR>Síscia</pt-BR>
 		<ko>시스키아</ko>
+		<fixja>シスキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SOLOKHA</zType>
@@ -3938,6 +4239,7 @@
 		<zh-CN>索洛卡</zh-CN>
 		<pt-BR>Solokha</pt-BR>
 		<ko>솔로카</ko>
+		<fixja>ソロハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SPARTA</zType>
@@ -3951,6 +4253,7 @@
 		<zh-CN>斯巴达</zh-CN>
 		<pt-BR>Esparta</pt-BR>
 		<ko>스파르타</ko>
+		<fixja>スパルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SULCI</zType>
@@ -3964,6 +4267,7 @@
 		<zh-CN>萨尔赛</zh-CN>
 		<pt-BR>Sulci</pt-BR>
 		<ko>술키</ko>
+		<fixja>スルチ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SUMELOCENNA</zType>
@@ -3977,6 +4281,7 @@
 		<zh-CN>苏梅洛森纳</zh-CN>
 		<pt-BR>Sumelocena</pt-BR>
 		<ko>수멜로케나</ko>
+		<fixja>スメロセンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SUMENU</zType>
@@ -3990,6 +4295,7 @@
 		<zh-CN>舒门</zh-CN>
 		<pt-BR>Sumenu</pt-BR>
 		<ko>수메누</ko>
+		<fixja>スメヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SUSA</zType>
@@ -4003,6 +4309,7 @@
 		<zh-CN>苏萨</zh-CN>
 		<pt-BR>Susa</pt-BR>
 		<ko>수사</ko>
+		<fixja>スーサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SWENETT</zType>
@@ -4016,6 +4323,7 @@
 		<zh-CN>赛维纳</zh-CN>
 		<pt-BR>Swenett</pt-BR>
 		<ko>스웨네트</ko>
+		<fixja>スウェネット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SYRACUSAE</zType>
@@ -4029,6 +4337,7 @@
 		<zh-CN>叙拉古</zh-CN>
 		<pt-BR>Siracusa</pt-BR>
 		<ko>시라쿠사</ko>
+		<fixja>シラクサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SYRACUSE</zType>
@@ -4042,6 +4351,7 @@
 		<zh-CN>叙拉古</zh-CN>
 		<pt-BR>Siracusa</pt-BR>
 		<ko>시라쿠사</ko>
+		<fixja>シュラクサイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TANAIS</zType>
@@ -4055,6 +4365,7 @@
 		<zh-CN>塔奈斯</zh-CN>
 		<pt-BR>Tanais</pt-BR>
 		<ko>타나이스</ko>
+		<fixja>タナイス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TANIS</zType>
@@ -4068,6 +4379,7 @@
 		<zh-CN>贾奈特</zh-CN>
 		<pt-BR>Djanet</pt-BR>
 		<ko>자네트</ko>
+		<fixja>ジャーネット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TAREMU</zType>
@@ -4081,6 +4393,7 @@
 		<zh-CN>塔里木</zh-CN>
 		<pt-BR>Taremu</pt-BR>
 		<ko>타레무</ko>
+		<fixja>タレム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TARRACO</zType>
@@ -4094,6 +4407,7 @@
 		<zh-CN>塔拉科</zh-CN>
 		<pt-BR>Tarraco</pt-BR>
 		<ko>타라코</ko>
+		<fixja>タラッコ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TARSUS</zType>
@@ -4107,6 +4421,7 @@
 		<zh-CN>塔尔萨</zh-CN>
 		<pt-BR>Tarsa</pt-BR>
 		<ko>타르사</ko>
+		<fixja>タルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TAYU_DJAYET</zType>
@@ -4120,6 +4435,7 @@
 		<zh-CN>塔尤杰耶</zh-CN>
 		<pt-BR>Teudjo</pt-BR>
 		<ko>타유-자예트</ko>
+		<fixja>タユ・ジャエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TE_SENET</zType>
@@ -4133,6 +4449,7 @@
 		<zh-CN>塔善奈</zh-CN>
 		<pt-BR>Tassenete</pt-BR>
 		<ko>타-세네트</ko>
+		<fixja>タ・セネト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TEPIHU</zType>
@@ -4146,6 +4463,7 @@
 		<zh-CN>特庇胡</zh-CN>
 		<pt-BR>Tepihu</pt-BR>
 		<ko>테피후</ko>
+		<fixja>テピフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TEREDON</zType>
@@ -4159,6 +4477,7 @@
 		<zh-CN>特雷顿</zh-CN>
 		<pt-BR>Teredon</pt-BR>
 		<ko>테레돈</ko>
+		<fixja>テレドン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CATURA</zType>
@@ -4172,6 +4491,7 @@
 		<zh-CN>卡杜拉</zh-CN>
 		<pt-BR>Catara</pt-BR>
 		<ko>카투라</ko>
+		<fixja>カトゥーラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KOMIS</zType>
@@ -4185,6 +4505,7 @@
 		<zh-CN>科米</zh-CN>
 		<pt-BR>Komis</pt-BR>
 		<ko>코미스</ko>
+		<fixja>コミス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THAENAE</zType>
@@ -4198,6 +4519,7 @@
 		<zh-CN>锡奈</zh-CN>
 		<pt-BR>Thaenae</pt-BR>
 		<ko>테나이</ko>
+		<fixja>タエナエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THAPSUS</zType>
@@ -4211,6 +4533,7 @@
 		<zh-CN>萨普苏斯</zh-CN>
 		<pt-BR>Tapso</pt-BR>
 		<ko>탑수스</ko>
+		<fixja>タプスス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THEBES</zType>
@@ -4224,6 +4547,7 @@
 		<zh-CN>底比斯</zh-CN>
 		<pt-BR>Tebas</pt-BR>
 		<ko>테베</ko>
+		<fixja>テーベ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THERANDA</zType>
@@ -4237,6 +4561,7 @@
 		<zh-CN>苏瓦雷卡</zh-CN>
 		<pt-BR>Theranda</pt-BR>
 		<ko>테란다</ko>
+		<fixja>セランダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THESSALONIKE</zType>
@@ -4250,6 +4575,7 @@
 		<zh-CN>帖撒罗尼迦</zh-CN>
 		<pt-BR>Tessalônica</pt-BR>
 		<ko>테살로니케</ko>
+		<fixja>テッサロニキ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THEVESTE</zType>
@@ -4263,6 +4589,7 @@
 		<zh-CN>泰贝萨</zh-CN>
 		<pt-BR>Theveste</pt-BR>
 		<ko>테베스테</ko>
+		<fixja>テヴェステ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THONIS</zType>
@@ -4276,6 +4603,7 @@
 		<zh-CN>索尼斯</zh-CN>
 		<pt-BR>Thonis</pt-BR>
 		<ko>토니스</ko>
+		<fixja>トニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TIMINHOR</zType>
@@ -4289,6 +4617,7 @@
 		<zh-CN>达曼胡</zh-CN>
 		<pt-BR>Timin-Hor</pt-BR>
 		<ko>티민호르</ko>
+		<fixja>ティミンホル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TINGIS</zType>
@@ -4302,6 +4631,7 @@
 		<zh-CN>廷吉斯</zh-CN>
 		<pt-BR>Tingis</pt-BR>
 		<ko>틴기스</ko>
+		<fixja>ティンギス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TJARU</zType>
@@ -4315,6 +4645,7 @@
 		<zh-CN>贾鲁</zh-CN>
 		<pt-BR>Tjaru</pt-BR>
 		<ko>차루</ko>
+		<fixja>チャール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TJEBNUTJER</zType>
@@ -4328,6 +4659,7 @@
 		<zh-CN>塞班尼托斯</zh-CN>
 		<pt-BR>Tjebnutjer</pt-BR>
 		<ko>체브누체르</ko>
+		<fixja>チェブヌッジェ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TJEBU</zType>
@@ -4341,6 +4673,7 @@
 		<zh-CN>特布</zh-CN>
 		<pt-BR>Tjebu</pt-BR>
 		<ko>체부</ko>
+		<fixja>チェブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TJENU</zType>
@@ -4354,6 +4687,7 @@
 		<zh-CN>提尼斯</zh-CN>
 		<pt-BR>Tjenu</pt-BR>
 		<ko>체누</ko>
+		<fixja>ティニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TRAPEZUS</zType>
@@ -4367,6 +4701,7 @@
 		<zh-CN>特拉布宗</zh-CN>
 		<pt-BR>Trapezus</pt-BR>
 		<ko>트라페주스</ko>
+		<fixja>トラペゾス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TREVA</zType>
@@ -4380,6 +4715,7 @@
 		<zh-CN>崔瓦</zh-CN>
 		<pt-BR>Treva</pt-BR>
 		<ko>트레바</ko>
+		<fixja>トレヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TURICUM</zType>
@@ -4393,6 +4729,7 @@
 		<zh-CN>特利库姆</zh-CN>
 		<pt-BR>Turico</pt-BR>
 		<ko>투리쿰</ko>
+		<fixja>トゥリカム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TUS</zType>
@@ -4406,6 +4743,7 @@
 		<zh-CN>土斯</zh-CN>
 		<pt-BR>Tus</pt-BR>
 		<ko>투스</ko>
+		<fixja>トゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TUSHHAN</zType>
@@ -4419,6 +4757,7 @@
 		<zh-CN>图席汉</zh-CN>
 		<pt-BR>Tush-han</pt-BR>
 		<ko>투쉬한</ko>
+		<fixja>トゥシャン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TUSHPA</zType>
@@ -4432,6 +4771,7 @@
 		<zh-CN>图什帕</zh-CN>
 		<pt-BR>Tuspa</pt-BR>
 		<ko>투쉬파</ko>
+		<fixja>トゥシュパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_UR</zType>
@@ -4445,6 +4785,7 @@
 		<zh-CN>乌尔</zh-CN>
 		<pt-BR>Ur</pt-BR>
 		<ko>우르</ko>
+		<fixja>ウル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_URUK</zType>
@@ -4458,6 +4799,7 @@
 		<zh-CN>乌鲁克</zh-CN>
 		<pt-BR>Uruk</pt-BR>
 		<ko>우루크</ko>
+		<fixja>ウルク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_UTICA</zType>
@@ -4471,6 +4813,7 @@
 		<zh-CN>尤蒂卡</zh-CN>
 		<pt-BR>Útica</pt-BR>
 		<ko>우티카</ko>
+		<fixja>ウティカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VAGHARSHAPAT</zType>
@@ -4484,6 +4827,7 @@
 		<zh-CN>瓦加尔沙帕特</zh-CN>
 		<pt-BR>Vagharshapat</pt-BR>
 		<ko>바가르샤파트</ko>
+		<fixja>エチミアジン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VALENTIA</zType>
@@ -4497,6 +4841,7 @@
 		<zh-CN>瓦伦蒂亚</zh-CN>
 		<pt-BR>Valência</pt-BR>
 		<ko>발렌티아</ko>
+		<fixja>バレンシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VESONTIO</zType>
@@ -4510,6 +4855,7 @@
 		<zh-CN>维索提欧</zh-CN>
 		<pt-BR>Vesôncio</pt-BR>
 		<ko>베손티오</ko>
+		<fixja>ベソンティオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VIBY</zType>
@@ -4523,6 +4869,7 @@
 		<zh-CN>维比</zh-CN>
 		<pt-BR>Viby</pt-BR>
 		<ko>비비</ko>
+		<fixja>ヴィビー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VILLA_EURACINI</zType>
@@ -4536,6 +4883,7 @@
 		<zh-CN>维拉由拉西尼</zh-CN>
 		<pt-BR>Villa Euracini</pt-BR>
 		<ko>빌라 유라키니</ko>
+		<fixja>ヴィラユーラチーニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VIMINACIUM</zType>
@@ -4549,6 +4897,7 @@
 		<zh-CN>费米拉孔</zh-CN>
 		<pt-BR>Viminácio</pt-BR>
 		<ko>비미나키움</ko>
+		<fixja>ビミナシウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VOLUBILIS</zType>
@@ -4562,6 +4911,7 @@
 		<zh-CN>瓦卢比利斯</zh-CN>
 		<pt-BR>Volubilis</pt-BR>
 		<ko>볼루빌리스</ko>
+		<fixja>ヴォルビリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_WASET</zType>
@@ -4575,6 +4925,7 @@
 		<zh-CN>威瑟</zh-CN>
 		<pt-BR>Uaset</pt-BR>
 		<ko>와세트</ko>
+		<fixja>ワセット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_WEPREHWY</zType>
@@ -4588,6 +4939,7 @@
 		<zh-CN>威普利</zh-CN>
 		<pt-BR>Weprehwy</pt-BR>
 		<ko>웨프레위</ko>
+		<fixja>ウェプレウィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_YAMU</zType>
@@ -4601,6 +4953,7 @@
 		<zh-CN>亚穆</zh-CN>
 		<pt-BR>Imu</pt-BR>
 		<ko>야무</ko>
+		<fixja>ヤム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_YAZD</zType>
@@ -4614,6 +4967,7 @@
 		<zh-CN>雅兹德</zh-CN>
 		<pt-BR>Yazd</pt-BR>
 		<ko>야즈드</ko>
+		<fixja>ヤズド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ZADRACARTA</zType>
@@ -4627,6 +4981,7 @@
 		<zh-CN>希尔卡尼亚</zh-CN>
 		<pt-BR>Zadracarta</pt-BR>
 		<ko>자드라카르타</ko>
+		<fixja>ザドラカルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ZAMA</zType>
@@ -4640,6 +4995,7 @@
 		<zh-CN>札马</zh-CN>
 		<pt-BR>Zama</pt-BR>
 		<ko>자마</ko>
+		<fixja>ザマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ZAWTY</zType>
@@ -4653,6 +5009,7 @@
 		<zh-CN>札提</zh-CN>
 		<pt-BR>Zawty</pt-BR>
 		<ko>자우티</ko>
+		<fixja>ザウティ</fixja>
 	</Entry>
 	<!-- Carthage Campaign City Names Over Base Names -->
 	<Entry>
@@ -4667,6 +5024,7 @@
 		<zh-CN>阿拉利亚</zh-CN>
 		<pt-BR>Alália</pt-BR>
 		<ko>알랄리아</ko>
+		<fixja>アラリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ALERIA</zType>
@@ -4680,6 +5038,7 @@
 		<zh-CN>阿莱里亚</zh-CN>
 		<pt-BR>Aléria</pt-BR>
 		<ko>알레리아</ko>
+		<fixja>アレリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARRETIUM</zType>
@@ -4693,6 +5052,7 @@
 		<zh-CN>阿雷提母</zh-CN>
 		<pt-BR>Arécio</pt-BR>
 		<ko>아레티움</ko>
+		<fixja>アレティウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BALEARIC_ISLANDS</zType>
@@ -4706,6 +5066,7 @@
 		<zh-CN>伊博希姆</zh-CN>
 		<pt-BR>Iboshim</pt-BR>
 		<ko>이보심</ko>
+		<fixja>イボシム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BENEVENTUM</zType>
@@ -4719,6 +5080,7 @@
 		<zh-CN>贝内文托</zh-CN>
 		<pt-BR>Benevento</pt-BR>
 		<ko>베네벤툼</ko>
+		<fixja>ベネヴェントゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARALIS</zType>
@@ -4732,6 +5094,7 @@
 		<zh-CN>卡拉利斯</zh-CN>
 		<pt-BR>Carilis</pt-BR>
 		<ko>카랄리스</ko>
+		<fixja>カラレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARTHAGE</zType>
@@ -4745,6 +5108,7 @@
 		<zh-CN>迦太基</zh-CN>
 		<pt-BR>Cartago</pt-BR>
 		<ko>카르타고</ko>
+		<fixja>カルタゴ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EMPORION</zType>
@@ -4758,6 +5122,7 @@
 		<zh-CN>恩波里翁</zh-CN>
 		<pt-BR>Emporion</pt-BR>
 		<ko>엠포리온</ko>
+		<fixja>エンポリオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BRUNDISIUM</zType>
@@ -4771,6 +5136,7 @@
 		<zh-CN>布林迪西</zh-CN>
 		<pt-BR>Brundisio</pt-BR>
 		<ko>브룬디시움</ko>
+		<fixja>ブルンディシウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EPIDAMNUS</zType>
@@ -4784,6 +5150,7 @@
 		<zh-CN>埃庇达诺斯</zh-CN>
 		<pt-BR>Epidamno</pt-BR>
 		<ko>에피담노스</ko>
+		<fixja>エピダムヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EUSPERIDES</zType>
@@ -4797,6 +5164,7 @@
 		<zh-CN>攸斯皮德斯</zh-CN>
 		<pt-BR>Euespérides</pt-BR>
 		<ko>에우에스페리데스</ko>
+		<fixja>エウスペリデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GADES</zType>
@@ -4810,6 +5178,7 @@
 		<zh-CN>加的斯</zh-CN>
 		<pt-BR>Gades</pt-BR>
 		<ko>가데스</ko>
+		<fixja>ガデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IGILGILI</zType>
@@ -4823,6 +5192,7 @@
 		<zh-CN>伊吉尔吉利</zh-CN>
 		<pt-BR>Igilgili</pt-BR>
 		<ko>이길길리</ko>
+		<fixja>イギルギリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LOCROI</zType>
@@ -4836,6 +5206,7 @@
 		<zh-CN>洛克里</zh-CN>
 		<pt-BR>Locroi</pt-BR>
 		<ko>로크로이</ko>
+		<fixja>ロクロワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MESSANA</zType>
@@ -4849,6 +5220,7 @@
 		<zh-CN>麦散那</zh-CN>
 		<pt-BR>Messina</pt-BR>
 		<ko>메사나</ko>
+		<fixja>メッサナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_OEA</zType>
@@ -4862,6 +5234,7 @@
 		<zh-CN>欧亚</zh-CN>
 		<pt-BR>Oea</pt-BR>
 		<ko>오에아</ko>
+		<fixja>オエア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RUSADIR</zType>
@@ -4875,6 +5248,7 @@
 		<zh-CN>卢萨迪尔</zh-CN>
 		<pt-BR>Rusadir</pt-BR>
 		<ko>루사디르</ko>
+		<fixja>ルサディール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAGUNTUM</zType>
@@ -4888,6 +5262,7 @@
 		<zh-CN>萨贡托</zh-CN>
 		<pt-BR>Sagunto</pt-BR>
 		<ko>사군툼</ko>
+		<fixja>サグントゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SICCA_VENERIA</zType>
@@ -4901,6 +5276,7 @@
 		<zh-CN>西卡维纳里亚</zh-CN>
 		<pt-BR>Sicca Veneria</pt-BR>
 		<ko>시카 베네리아</ko>
+		<fixja>シッカ・ベネリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TACAPE</zType>
@@ -4914,6 +5290,7 @@
 		<zh-CN>塔卡普</zh-CN>
 		<pt-BR>Tacape</pt-BR>
 		<ko>타카페</ko>
+		<fixja>タカペ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TARENTUM</zType>
@@ -4927,6 +5304,7 @@
 		<zh-CN>塔伦图姆</zh-CN>
 		<pt-BR>Tarento</pt-BR>
 		<ko>타렌툼</ko>
+		<fixja>タレンタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_JERUSALEM</zType>
@@ -4940,6 +5318,7 @@
 		<zh-CN>耶路撒冷</zh-CN>
 		<pt-BR>Jerusalém</pt-BR>
 		<ko>예루살렘</ko>
+		<fixja>エルサレム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MEROE</zType>
@@ -4953,6 +5332,7 @@
 		<zh-CN>麦罗埃</zh-CN>
 		<pt-BR>Meroé</pt-BR>
 		<ko>메로에</ko>
+		<fixja>メロエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NPY</zType>
@@ -4966,6 +5346,7 @@
 		<zh-CN>奈皮</zh-CN>
 		<pt-BR>Npy</pt-BR>
 		<ko>니피</ko>
+		<fixja>ニピー</fixja>
 	</Entry>
 	<!-- KUSH -->
 	<Entry>
@@ -4980,6 +5361,7 @@
 		<zh-CN>纳帕塔</zh-CN>
 		<pt-BR>Napata</pt-BR>
 		<ko>나파타</ko>
+		<fixja>ナパタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KERMA</zType>
@@ -4993,6 +5375,7 @@
 		<zh-CN>科尔玛</zh-CN>
 		<pt-BR>Querma</pt-BR>
 		<ko>케르마</ko>
+		<fixja>ケルマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KAWA</zType>
@@ -5006,6 +5389,7 @@
 		<zh-CN>卡瓦</zh-CN>
 		<pt-BR>Kawa</pt-BR>
 		<ko>카와</ko>
+		<fixja>カワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KARANOG</zType>
@@ -5019,6 +5403,7 @@
 		<zh-CN>卡拉诺格</zh-CN>
 		<pt-BR>Karanog</pt-BR>
 		<ko>카라노그</ko>
+		<fixja>カラノグ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_USHARA</zType>
@@ -5032,6 +5417,7 @@
 		<zh-CN>优色拉</zh-CN>
 		<pt-BR>Ushara</pt-BR>
 		<ko>우샤라</ko>
+		<fixja>ウシャラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HAMADAB</zType>
@@ -5045,6 +5431,7 @@
 		<zh-CN>哈玛达布</zh-CN>
 		<pt-BR>Hamadab</pt-BR>
 		<ko>하마다브</ko>
+		<fixja>ハマダブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GABATI</zType>
@@ -5058,6 +5445,7 @@
 		<zh-CN>加巴蒂</zh-CN>
 		<pt-BR>Gabati</pt-BR>
 		<ko>가바티</ko>
+		<fixja>ガバティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SANAM</zType>
@@ -5071,6 +5459,7 @@
 		<zh-CN>萨纳姆</zh-CN>
 		<pt-BR>Sanam</pt-BR>
 		<ko>사남</ko>
+		<fixja>サナム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NAQA</zType>
@@ -5084,6 +5473,7 @@
 		<zh-CN>纳加</zh-CN>
 		<pt-BR>Naqa</pt-BR>
 		<ko>나카</ko>
+		<fixja>ナカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BASA</zType>
@@ -5097,6 +5487,7 @@
 		<zh-CN>巴萨</zh-CN>
 		<pt-BR>Basa</pt-BR>
 		<ko>바사</ko>
+		<fixja>バサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_HASSA</zType>
@@ -5110,6 +5501,7 @@
 		<zh-CN>埃里·哈萨</zh-CN>
 		<pt-BR>El Hassa</pt-BR>
 		<ko>엘 하사</ko>
+		<fixja>エル・ハサー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NURI</zType>
@@ -5123,6 +5515,7 @@
 		<zh-CN>努里</zh-CN>
 		<pt-BR>Nuri</pt-BR>
 		<ko>누리</ko>
+		<fixja>ヌリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QASR_IBRIM</zType>
@@ -5136,6 +5529,7 @@
 		<zh-CN>卡斯尔·伊布林</zh-CN>
 		<pt-BR>Forte Ibrim</pt-BR>
 		<ko>카스르 이브림</ko>
+		<fixja>カスル・イブリム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SEDEINGA</zType>
@@ -5149,6 +5543,7 @@
 		<zh-CN>瑟德因加</zh-CN>
 		<pt-BR>Sedeinga</pt-BR>
 		<ko>세데인가</ko>
+		<fixja>セデインガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_KURRU</zType>
@@ -5162,6 +5557,7 @@
 		<zh-CN>埃里·库鲁</zh-CN>
 		<pt-BR>El Kurru</pt-BR>
 		<ko>엘 쿠루</ko>
+		<fixja>エル・クッル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DANGEIL</zType>
@@ -5175,6 +5571,7 @@
 		<zh-CN>丹格伊</zh-CN>
 		<pt-BR>Dangeil</pt-BR>
 		<ko>단게일</ko>
+		<fixja>ダンゲイル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SURURAB</zType>
@@ -5188,6 +5585,7 @@
 		<zh-CN>苏鲁拉布</zh-CN>
 		<pt-BR>Sururab</pt-BR>
 		<ko>수루라브</ko>
+		<fixja>スルラブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_FURA</zType>
@@ -5201,6 +5599,7 @@
 		<zh-CN>埃里·弗拉</zh-CN>
 		<pt-BR>El Fura</pt-BR>
 		<ko>엘 푸라</ko>
+		<fixja>エル・フラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KADADA</zType>
@@ -5214,6 +5613,7 @@
 		<zh-CN>卡达达</zh-CN>
 		<pt-BR>Cadada</pt-BR>
 		<ko>카다다</ko>
+		<fixja>カダダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_GOL</zType>
@@ -5227,6 +5627,7 @@
 		<zh-CN>埃里·戈尔</zh-CN>
 		<pt-BR>El Gol</pt-BR>
 		<ko>엘 골</ko>
+		<fixja>エル・ゴル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_USHEIR</zType>
@@ -5240,6 +5641,7 @@
 		<zh-CN>埃里·乌舍伊尔</zh-CN>
 		<pt-BR>El Usheir</pt-BR>
 		<ko>엘 우셰이르</ko>
+		<fixja>エル・ウシェール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARRU</zType>
@@ -5253,6 +5655,7 @@
 		<zh-CN>玛尔陆</zh-CN>
 		<pt-BR>Marru</pt-BR>
 		<ko>에루</ko>
+		<fixja>マアル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARTUL</zType>
@@ -5266,6 +5669,7 @@
 		<zh-CN>阿图尔</zh-CN>
 		<pt-BR>Artul</pt-BR>
 		<ko>아르툴</ko>
+		<fixja>アーチュル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KURGUS</zType>
@@ -5279,6 +5683,7 @@
 		<zh-CN>库尔古斯</zh-CN>
 		<pt-BR>Kurgus</pt-BR>
 		<ko>쿠르구스</ko>
+		<fixja>クルグス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GHAZALI</zType>
@@ -5292,6 +5697,7 @@
 		<zh-CN>加扎利</zh-CN>
 		<pt-BR>Ghazali</pt-BR>
 		<ko>가잘리</ko>
+		<fixja>ガザリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_TUWEINA</zType>
@@ -5305,6 +5711,7 @@
 		<zh-CN>埃里·图维纳</zh-CN>
 		<pt-BR>El Tuweina</pt-BR>
 		<ko>엘 투웨이나</ko>
+		<fixja>エル・チュウェイナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EL_ZUMA</zType>
@@ -5318,6 +5725,7 @@
 		<zh-CN>埃里·祖玛</zh-CN>
 		<pt-BR>El Zuma</pt-BR>
 		<ko>엘 주마</ko>
+		<fixja>エル・ズマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KORTI</zType>
@@ -5331,6 +5739,7 @@
 		<zh-CN>科尔提</zh-CN>
 		<pt-BR>Corti</pt-BR>
 		<ko>코르티</ko>
+		<fixja>コルティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TABO</zType>
@@ -5344,6 +5753,7 @@
 		<zh-CN>塔博</zh-CN>
 		<pt-BR>Tabo</pt-BR>
 		<ko>타보</ko>
+		<fixja>タボ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KANDRUKA</zType>
@@ -5357,6 +5767,7 @@
 		<zh-CN>坎德鲁卡</zh-CN>
 		<pt-BR>Candruca</pt-BR>
 		<ko>칸드루카</ko>
+		<fixja>カンドルカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TUMBOS</zType>
@@ -5370,6 +5781,7 @@
 		<zh-CN>图姆博斯</zh-CN>
 		<pt-BR>Tumbos</pt-BR>
 		<ko>툼보스</ko>
+		<fixja>テューボス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SESEBI</zType>
@@ -5383,6 +5795,7 @@
 		<zh-CN>塞塞比</zh-CN>
 		<pt-BR>Sesebi</pt-BR>
 		<ko>세세비</ko>
+		<fixja>セセビ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SOLEB</zType>
@@ -5396,6 +5809,7 @@
 		<zh-CN>索乐布</zh-CN>
 		<pt-BR>Soleb</pt-BR>
 		<ko>솔레브</ko>
+		<fixja>ソレブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GEBEL_DOSHA</zType>
@@ -5409,6 +5823,7 @@
 		<zh-CN>度夏山</zh-CN>
 		<pt-BR>Gebel Dosha</pt-BR>
 		<ko>게벨 도샤</ko>
+		<fixja>ゲベル・ドーシャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AMARA</zType>
@@ -5422,6 +5837,7 @@
 		<zh-CN>阿玛拉</zh-CN>
 		<pt-BR>Amara</pt-BR>
 		<ko>아마라</ko>
+		<fixja>アマラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FIRKA</zType>
@@ -5435,6 +5851,7 @@
 		<zh-CN>菲尔卡</zh-CN>
 		<pt-BR>Firka</pt-BR>
 		<ko>피르카</ko>
+		<fixja>フィルカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AKASHA</zType>
@@ -5448,6 +5865,7 @@
 		<zh-CN>阿卡沙</zh-CN>
 		<pt-BR>Akasha</pt-BR>
 		<ko>아카샤</ko>
+		<fixja>アカシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KULUBNARTI</zType>
@@ -5461,6 +5879,7 @@
 		<zh-CN>库鲁布纳尔提</zh-CN>
 		<pt-BR>Kulubnarti</pt-BR>
 		<ko>쿨루브나르티</ko>
+		<fixja>クルブナルティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SEMNA</zType>
@@ -5474,6 +5893,7 @@
 		<zh-CN>塞姆纳</zh-CN>
 		<pt-BR>Semna</pt-BR>
 		<ko>셈나</ko>
+		<fixja>セムナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DAKKA</zType>
@@ -5487,6 +5907,7 @@
 		<zh-CN>达卡</zh-CN>
 		<pt-BR>Daca</pt-BR>
 		<ko>다카</ko>
+		<fixja>ダッカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KUBAN</zType>
@@ -5500,6 +5921,7 @@
 		<zh-CN>库班</zh-CN>
 		<pt-BR>Kuban</pt-BR>
 		<ko>쿠반</ko>
+		<fixja>クバン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAYALA</zType>
@@ -5513,6 +5935,7 @@
 		<zh-CN>撒雅拉</zh-CN>
 		<pt-BR>Sayala</pt-BR>
 		<ko>사얄라</ko>
+		<fixja>サヤラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANIBA</zType>
@@ -5526,6 +5949,7 @@
 		<zh-CN>阿尼巴</zh-CN>
 		<pt-BR>Aniba</pt-BR>
 		<ko>아니바</ko>
+		<fixja>アニバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GEBEL_ADA</zType>
@@ -5539,6 +5963,7 @@
 		<zh-CN>阿达山</zh-CN>
 		<pt-BR>Gebel Ada</pt-BR>
 		<ko>게벨 아다</ko>
+		<fixja>ゲベル・アダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MIRGISSA</zType>
@@ -5552,6 +5977,7 @@
 		<zh-CN>米尔吉萨</zh-CN>
 		<pt-BR>Mirgissa</pt-BR>
 		<ko>미르기사</ko>
+		<fixja>ミルギッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DEBEIRA</zType>
@@ -5565,6 +5991,7 @@
 		<zh-CN>德贝拉</zh-CN>
 		<pt-BR>Debeira</pt-BR>
 		<ko>데베이라</ko>
+		<fixja>デベイラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASKURT</zType>
@@ -5578,6 +6005,7 @@
 		<zh-CN>阿斯库尔特</zh-CN>
 		<pt-BR>Askurt</pt-BR>
 		<ko>아스쿠르트</ko>
+		<fixja>アスカート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FARAS</zType>
@@ -5591,6 +6019,7 @@
 		<zh-CN>法拉斯</zh-CN>
 		<pt-BR>Faras</pt-BR>
 		<ko>파라스</ko>
+		<fixja>ファラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AL_MUKALLA</zType>
@@ -5604,6 +6033,7 @@
 		<zh-CN>穆卡拉</zh-CN>
 		<pt-BR>Al Mukalla</pt-BR>
 		<ko>알 무칼라</ko>
+		<fixja>アルムカッラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SUTKAGAN_DOR</zType>
@@ -5617,6 +6047,7 @@
 		<zh-CN>苏特卡根多尔</zh-CN>
 		<pt-BR>Sutkagan Dor</pt-BR>
 		<ko>수트카간 도르</ko>
+		<fixja>ソトカーゲン・ドール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SOKHTA_KOH</zType>
@@ -5630,6 +6061,7 @@
 		<zh-CN>索克塔赫</zh-CN>
 		<pt-BR>Sokhta Koh</pt-BR>
 		<ko>소크타 코</ko>
+		<fixja>ソクタ・コー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PIT_ARDASHIR</zType>
@@ -5643,6 +6075,7 @@
 		<zh-CN>皮特-阿尔达希尔</zh-CN>
 		<pt-BR>Pit-Ardashir</pt-BR>
 		<ko>피트아르다시르</ko>
+		<fixja>ピット・アルダシル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AZRAQ</zType>
@@ -5656,6 +6089,7 @@
 		<zh-CN>阿兹拉克</zh-CN>
 		<pt-BR>Azraq</pt-BR>
 		<ko>아즈라크</ko>
+		<fixja>アズラック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AMUL</zType>
@@ -5669,6 +6103,7 @@
 		<zh-CN>阿莫勒</zh-CN>
 		<pt-BR>Amol</pt-BR>
 		<ko>아물</ko>
+		<fixja>アムール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ADEN</zType>
@@ -5682,6 +6117,7 @@
 		<zh-CN>亚丁</zh-CN>
 		<pt-BR>Aden</pt-BR>
 		<ko>아덴</ko>
+		<fixja>アデン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MOCHA</zType>
@@ -5695,6 +6131,7 @@
 		<zh-CN>穆哈</zh-CN>
 		<pt-BR>Mocha</pt-BR>
 		<ko>모카</ko>
+		<fixja>モチャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_JIZAN</zType>
@@ -5708,6 +6145,7 @@
 		<zh-CN>吉赞</zh-CN>
 		<pt-BR>Jizã</pt-BR>
 		<ko>지잔</ko>
+		<fixja>ジーザーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_JABAL_AL_QARA</zType>
@@ -5721,6 +6159,7 @@
 		<zh-CN>卡拉山</zh-CN>
 		<pt-BR>Jabal al Qarā'</pt-BR>
 		<ko>자발 알 카라</ko>
+		<fixja>ジャバルアルカラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_JEDDAH</zType>
@@ -5734,6 +6173,7 @@
 		<zh-CN>吉达</zh-CN>
 		<pt-BR>Gidá</pt-BR>
 		<ko>제다</ko>
+		<fixja>ジェッダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BARANIS</zType>
@@ -5747,6 +6187,7 @@
 		<zh-CN>巴拉尼斯</zh-CN>
 		<pt-BR>Baranis</pt-BR>
 		<ko>바라니스</ko>
+		<fixja>バラニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MUSCAT</zType>
@@ -5760,6 +6201,7 @@
 		<zh-CN>马斯喀特</zh-CN>
 		<pt-BR>Mascate</pt-BR>
 		<ko>무스카트</ko>
+		<fixja>マスカット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_JERWAN</zType>
@@ -5773,6 +6215,7 @@
 		<zh-CN>耶尔万</zh-CN>
 		<pt-BR>Jerwan</pt-BR>
 		<ko>자르완</ko>
+		<fixja>ジャーワン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HELIOPOLIS_CANAAN</zType>
@@ -5786,6 +6229,7 @@
 		<zh-CN>赫里奥波里斯</zh-CN>
 		<pt-BR>Heliópolis</pt-BR>
 		<ko>헬리오폴리스</ko>
+		<fixja>ヘリオポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GANZAK</zType>
@@ -5799,6 +6243,7 @@
 		<zh-CN>甘札克</zh-CN>
 		<pt-BR>Ganzak~Ganzak~de Ganzak</pt-BR>
 		<ko>간자크</ko>
+		<fixja>​ガンザク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LAMBAESA</zType>
@@ -5812,6 +6257,7 @@
 		<zh-CN>兰贝萨</zh-CN>
 		<pt-BR>Lambaesa~Lambaesa~de Lambaesa</pt-BR>
 		<ko>람바에사</ko>
+		<fixja>ランバエサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AUZIA</zType>
@@ -5825,6 +6271,7 @@
 		<zh-CN>奥齐亚</zh-CN>
 		<pt-BR>Auzia~Auzia~de Auzia</pt-BR>
 		<ko>아우지아</ko>
+		<fixja>アウジア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANCYRA</zType>
@@ -5838,6 +6285,7 @@
 		<zh-CN>安卡拉</zh-CN>
 		<pt-BR>Ancyra~Ancyra~de Ancyra</pt-BR>
 		<ko>안키라</ko>
+		<fixja>アンキュラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MAZAKA</zType>
@@ -5851,6 +6299,7 @@
 		<zh-CN>马萨卡</zh-CN>
 		<pt-BR>Mazaka~Mazaka~de Mazaka</pt-BR>
 		<ko>마자카</ko>
+		<fixja>マザカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SIGA</zType>
@@ -5864,6 +6313,7 @@
 		<zh-CN>席加</zh-CN>
 		<pt-BR>Siga~Siga~de Siga</pt-BR>
 		<ko>시가</ko>
+		<fixja>シガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARDABIL</zType>
@@ -5877,6 +6327,7 @@
 		<zh-CN>阿尔达比勒</zh-CN>
 		<pt-BR>Ardabil~Ardabil~de Ardabil</pt-BR>
 		<ko>아르다빌</ko>
+		<fixja>アルダビール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AINOS</zType>
@@ -5890,6 +6341,7 @@
 		<zh-CN>艾诺斯</zh-CN>
 		<pt-BR>Ainos~Ainos~de Ainos</pt-BR>
 		<ko>아이노스</ko>
+		<fixja>アイノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SINOPE</zType>
@@ -5903,6 +6355,7 @@
 		<zh-CN>锡诺普</zh-CN>
 		<pt-BR>Sinope~Sinope~de Sinope</pt-BR>
 		<ko>시노페</ko>
+		<fixja>シノーペ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PHASIS</zType>
@@ -5916,6 +6369,7 @@
 		<zh-CN>菲西斯</zh-CN>
 		<pt-BR>Phasis~Phasis~de Phasis</pt-BR>
 		<ko>파시스</ko>
+		<fixja>ファシス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ODESSOS</zType>
@@ -5929,6 +6383,7 @@
 		<zh-CN>欧德索斯</zh-CN>
 		<pt-BR>Odessos~Odessos~de Odessos</pt-BR>
 		<ko>오데소스</ko>
+		<fixja>オデッソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BURDIGALA</zType>
@@ -5942,6 +6397,7 @@
 		<zh-CN>伯丁加拉</zh-CN>
 		<pt-BR>Burdigala~Burdigala~de Burdigala</pt-BR>
 		<ko>부르디갈라</ko>
+		<fixja>ブルディガラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TROESMIS</zType>
@@ -5955,6 +6411,7 @@
 		<zh-CN>特洛斯米斯</zh-CN>
 		<pt-BR>Troesmis~Troesmis~de Troesmis</pt-BR>
 		<ko>트로에스미스</ko>
+		<fixja>トロエスミス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PAPHOS</zType>
@@ -5968,6 +6425,7 @@
 		<zh-CN>帕福斯</zh-CN>
 		<pt-BR>Paphos~Paphos~de Paphos</pt-BR>
 		<ko>파포스</ko>
+		<fixja>パフォス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SARMIZEGETUSA</zType>
@@ -5981,6 +6439,7 @@
 		<zh-CN>萨米泽格突萨</zh-CN>
 		<pt-BR>Sarmizegetusa~Sarmizegetusa~de Sarmizegetusa</pt-BR>
 		<ko>사르미제게투사</ko>
+		<fixja>サルミゼゲトゥサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TERMESSOS</zType>
@@ -5994,6 +6453,7 @@
 		<zh-CN>特尔梅苏斯</zh-CN>
 		<pt-BR>Termessos~Termessos~de Termessos</pt-BR>
 		<ko>테르메소스</ko>
+		<fixja>テルメッソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ICOSIUM</zType>
@@ -6007,6 +6467,7 @@
 		<zh-CN>伊寇席恩</zh-CN>
 		<pt-BR>Icósio~Icósio~de Icósio</pt-BR>
 		<ko>이코시움</ko>
+		<fixja>イコシウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SALAMIS</zType>
@@ -6020,6 +6481,7 @@
 		<zh-CN>萨拉米斯</zh-CN>
 		<pt-BR>Salamina~Salamina~de Salamina</pt-BR>
 		<ko>살라미스</ko>
+		<fixja>サラミス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TARTESSOS</zType>
@@ -6033,6 +6495,7 @@
 		<zh-CN>塔特索斯</zh-CN>
 		<pt-BR>Tartessos~Tartessos~de Tartessos</pt-BR>
 		<ko>타르테소스</ko>
+		<fixja>タルテッソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EPIDAUROS</zType>
@@ -6046,6 +6509,7 @@
 		<zh-CN>埃皮达鲁斯</zh-CN>
 		<pt-BR>Epidauros~Epidauros~de Epidauros</pt-BR>
 		<ko>에피다우로스</ko>
+		<fixja>エピダウロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SOBA</zType>
@@ -6059,6 +6523,7 @@
 		<zh-CN>索巴</zh-CN>
 		<pt-BR>Soba~Soba~de Soba</pt-BR>
 		<ko>소바</ko>
+		<fixja>ソバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PUNT</zType>
@@ -6072,6 +6537,7 @@
 		<zh-CN>邦特</zh-CN>
 		<pt-BR>Punte~Punte~de Punte</pt-BR>
 		<ko>푼트</ko>
+		<fixja>プント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARIB</zType>
@@ -6085,6 +6551,7 @@
 		<zh-CN>马里卜</zh-CN>
 		<pt-BR>Ma'rib~Ma'rib~de Ma'rib</pt-BR>
 		<ko>마리브</ko>
+		<fixja>マーリブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_UPI</zType>
@@ -6098,6 +6565,7 @@
 		<zh-CN>乌派</zh-CN>
 		<pt-BR>Upi~Upi~de Upi</pt-BR>
 		<ko>우피</ko>
+		<fixja>UPI</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TOMIS</zType>
@@ -6111,6 +6579,7 @@
 		<zh-CN>托米斯</zh-CN>
 		<pt-BR>Rio Tomis~o Rio Tomis~do Rio Tomis</pt-BR>
 		<ko>토미스</ko>
+		<fixja>トミス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KHORRORI</zType>
@@ -6124,6 +6593,7 @@
 		<zh-CN>霍尔罗里</zh-CN>
 		<pt-BR>Khor Rori~Khor Rori~de Khor Rori</pt-BR>
 		<ko>코르 로리</ko>
+		<fixja>​ホール・ローリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SIRAF</zType>
@@ -6137,6 +6607,7 @@
 		<zh-CN>锡拉夫</zh-CN>
 		<pt-BR>Siraf~Siraf~de Siraf</pt-BR>
 		<ko>시라프</ko>
+		<fixja>シラフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ZRANKA</zType>
@@ -6150,6 +6621,7 @@
 		<zh-CN>兹兰卡</zh-CN>
 		<pt-BR>Zranka~Zranka~de Zranka</pt-BR>
 		<ko>즈란카</ko>
+		<fixja>ズランカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PETRA</zType>
@@ -6163,6 +6635,7 @@
 		<zh-CN>佩特拉</zh-CN>
 		<pt-BR>Petra~Petra~de Petra</pt-BR>
 		<ko>페트라</ko>
+		<fixja>ペトラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_STAGYDIA</zType>
@@ -6176,6 +6649,7 @@
 		<zh-CN>史塔吉提亚</zh-CN>
 		<pt-BR>Stagydia~Stagydia~de Stagydia</pt-BR>
 		<ko>스타기디아</ko>
+		<fixja>スタジディア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_YATHRIB</zType>
@@ -6189,6 +6663,7 @@
 		<zh-CN>亚斯里布</zh-CN>
 		<pt-BR>Yathrib~Yathrib~de Yathrib</pt-BR>
 		<ko>야트리브</ko>
+		<fixja>ヤスリブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KASI</zType>
@@ -6202,6 +6677,7 @@
 		<zh-CN>卡席</zh-CN>
 		<pt-BR>Kasi~Kasi~de Kasi</pt-BR>
 		<ko>카시</ko>
+		<fixja>カシ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HEGRA</zType>
@@ -6215,6 +6691,7 @@
 		<zh-CN>黑格拉</zh-CN>
 		<pt-BR>Hegra~Hegra~de Hegra</pt-BR>
 		<ko>헤그라</ko>
+		<fixja>ヘグラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PANTICAPAION</zType>
@@ -6228,6 +6705,7 @@
 		<zh-CN>潘提卡彭</zh-CN>
 		<pt-BR>Panticapeu~Panticapeu~de Panticapeu</pt-BR>
 		<ko>판티카파이온</ko>
+		<fixja>パンティカパイオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MERV</zType>
@@ -6241,6 +6719,7 @@
 		<zh-CN>梅尔夫</zh-CN>
 		<pt-BR>Merve~Merve~de Merve</pt-BR>
 		<ko>메르브</ko>
+		<fixja>メルヴ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CYROPOLIS</zType>
@@ -6254,6 +6733,7 @@
 		<zh-CN>居鲁士利世</zh-CN>
 		<pt-BR>Cirópoles~Cirópoles~de Cirópoles</pt-BR>
 		<ko>키로폴리스</ko>
+		<fixja>キュロポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KUBHA</zType>
@@ -6267,6 +6747,7 @@
 		<zh-CN>库伯哈</zh-CN>
 		<pt-BR>Kubha~Kubha~de Kubha</pt-BR>
 		<ko>쿠바</ko>
+		<fixja>クバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DRAPSAKA</zType>
@@ -6280,6 +6761,7 @@
 		<zh-CN>德拉普萨卡</zh-CN>
 		<pt-BR>Drapsaka~Drapsaka~de Drapsaka</pt-BR>
 		<ko>드라프사카</ko>
+		<fixja>ドラプサカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KUKKUTARMA</zType>
@@ -6293,6 +6775,7 @@
 		<zh-CN>库库塔尔玛</zh-CN>
 		<pt-BR>Kukkutarma~Kukkutarma~de Kukkutarma</pt-BR>
 		<ko>쿠쿠타르마</ko>
+		<fixja>クックタルマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HARAPPA</zType>
@@ -6306,6 +6789,7 @@
 		<zh-CN>哈拉帕</zh-CN>
 		<pt-BR>Harappa~Harappa~de Harappa</pt-BR>
 		<ko>하라파</ko>
+		<fixja>ハラッパー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MAIKHERKOT</zType>
@@ -6319,6 +6803,7 @@
 		<zh-CN>马科贺寇特</zh-CN>
 		<pt-BR>Malkherkot~Malkherkot~de Malkherkot</pt-BR>
 		<ko>말케르코트</ko>
+		<fixja>マルケルコット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NISA</zType>
@@ -6332,6 +6817,7 @@
 		<zh-CN>尼萨</zh-CN>
 		<pt-BR>Nisa~Nisa~de Nisa</pt-BR>
 		<ko>니사</ko>
+		<fixja>ニーサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GERMI</zType>
@@ -6345,6 +6831,7 @@
 		<zh-CN>盖尔米</zh-CN>
 		<pt-BR>Germi~Germi~de Germi</pt-BR>
 		<ko>게르미</ko>
+		<fixja>ゲルミ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SLABADA</zType>
@@ -6358,6 +6845,7 @@
 		<zh-CN>斯拉巴达</zh-CN>
 		<pt-BR>Slabada~Slabada~de Slabada</pt-BR>
 		<ko>슬라바다</ko>
+		<fixja>スラバダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SIGHNAQ</zType>
@@ -6371,6 +6859,7 @@
 		<zh-CN>席格纳克</zh-CN>
 		<pt-BR>Sighnaq~Sighnaq~de Sighnaq</pt-BR>
 		<ko>시그나크</ko>
+		<fixja>スグナク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SARAI_BATU</zType>
@@ -6384,6 +6873,7 @@
 		<zh-CN>萨莱巴图</zh-CN>
 		<pt-BR>Sarai Batu~Sarai Batu~de Sarai Batu</pt-BR>
 		<ko>사라이 바투</ko>
+		<fixja>サライバトゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TYRAS</zType>
@@ -6397,6 +6887,7 @@
 		<zh-CN>提拉斯</zh-CN>
 		<pt-BR>Tyras~Tyras~de Tyras</pt-BR>
 		<ko>티라스</ko>
+		<fixja>テュラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GORGIPPIA</zType>
@@ -6410,6 +6901,7 @@
 		<zh-CN>果吉皮亚</zh-CN>
 		<pt-BR>Gorgípia~Gorgípia~de Gorgípia</pt-BR>
 		<ko>고르기피아</ko>
+		<fixja>ゴルギッピア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THAMUGADI</zType>
@@ -6423,6 +6915,7 @@
 		<zh-CN>谭姆加帝</zh-CN>
 		<pt-BR>Tamúgados~Tamúgados~de Tamúgados</pt-BR>
 		<ko>타무가디</ko>
+		<fixja>タムガディ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CIRTA</zType>
@@ -6436,6 +6929,7 @@
 		<zh-CN>西尔塔</zh-CN>
 		<pt-BR>Cirta~Cirta~de Cirta</pt-BR>
 		<ko>키르타</ko>
+		<fixja>チルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QART_HADASHT</zType>
@@ -6449,6 +6943,7 @@
 		<zh-CN>新市</zh-CN>
 		<pt-BR>Qart-Hadasht~Qart-Hadasht~de Qart-Hadasht</pt-BR>
 		<ko>카르트-하다쉬트</ko>
+		<fixja>カルト・ハダシュト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AGADIR</zType>
@@ -6462,6 +6957,7 @@
 		<zh-CN>阿加迪尔</zh-CN>
 		<pt-BR>Agadir~Agadir~de Agadir</pt-BR>
 		<ko>아가디르</ko>
+		<fixja>アガディール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MARRAKESH</zType>
@@ -6475,6 +6971,7 @@
 		<zh-CN>马拉卡治</zh-CN>
 		<pt-BR>Marraquexe~Marraquexe~de Marraquexe</pt-BR>
 		<ko>마라케시</ko>
+		<fixja>マラケシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_IMLIL</zType>
@@ -6488,6 +6985,7 @@
 		<zh-CN>伊姆利勒</zh-CN>
 		<pt-BR>Imlil~Imlil~de Imlil</pt-BR>
 		<ko>임릴</ko>
+		<fixja>イムリール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAFI</zType>
@@ -6501,6 +6999,7 @@
 		<zh-CN>萨菲</zh-CN>
 		<pt-BR>Safi~Safi~de Safi</pt-BR>
 		<ko>사피</ko>
+		<fixja>サフィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_FES</zType>
@@ -6514,6 +7013,7 @@
 		<zh-CN>非斯</zh-CN>
 		<pt-BR>Fez~Fez~de Fez</pt-BR>
 		<ko>페스</ko>
+		<fixja>フェス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BAECULA</zType>
@@ -6527,6 +7027,7 @@
 		<zh-CN>贝库拉</zh-CN>
 		<pt-BR>Bécula~Bécula~de Bécula</pt-BR>
 		<ko>바이쿨라</ko>
+		<fixja>バエクラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TARAS</zType>
@@ -6540,6 +7041,7 @@
 		<zh-CN>塔拉斯</zh-CN>
 		<pt-BR>Taras~Taras~de Taras</pt-BR>
 		<ko>타라스</ko>
+		<fixja>​タラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SALDUBA</zType>
@@ -6553,6 +7055,7 @@
 		<zh-CN>萨尔杜巴</zh-CN>
 		<pt-BR>Salduba~Salduba~de Salduba</pt-BR>
 		<ko>살두바</ko>
+		<fixja>サルドゥバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ELUSA</zType>
@@ -6566,6 +7069,7 @@
 		<zh-CN>伊鲁萨</zh-CN>
 		<pt-BR>Elusa~Elusa~de Elusa</pt-BR>
 		<ko>엘루사</ko>
+		<fixja>エルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SEGODUNUM</zType>
@@ -6579,6 +7083,7 @@
 		<zh-CN>瑟高都恩</zh-CN>
 		<pt-BR>Segoduno~Segoduno~de Segoduno</pt-BR>
 		<ko>세고두눔</ko>
+		<fixja>セゴドゥナム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ALBA_POMPEIA</zType>
@@ -6592,6 +7097,7 @@
 		<zh-CN>阿尔巴庞贝亚</zh-CN>
 		<pt-BR>Alba Pompeia~Alba Pompeia~de Alba Pompeia</pt-BR>
 		<ko>알바 폼페이아</ko>
+		<fixja>アルバポンペイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NEMAUTUS</zType>
@@ -6605,6 +7111,7 @@
 		<zh-CN>尼姆特斯</zh-CN>
 		<pt-BR>Nemauto~Nemauto~de Nemauto</pt-BR>
 		<ko>네마우투스</ko>
+		<fixja>ネマウトゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SINGIDUNUM</zType>
@@ -6618,6 +7125,7 @@
 		<zh-CN>新吉都恩</zh-CN>
 		<pt-BR>Singiduno~Singiduno~de Singiduno</pt-BR>
 		<ko>신기두눔</ko>
+		<fixja>シグドゥヌム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VERONA</zType>
@@ -6631,6 +7139,7 @@
 		<zh-CN>维洛纳</zh-CN>
 		<pt-BR>Verona~Verona~de Verona</pt-BR>
 		<ko>베로나</ko>
+		<fixja>ヴェローナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_VIRUNUM</zType>
@@ -6644,6 +7153,7 @@
 		<zh-CN>维卢恩</zh-CN>
 		<pt-BR>Viruno~Viruno~de Viruno</pt-BR>
 		<ko>비르눔</ko>
+		<fixja>ヴィルヌーム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AVARICUM</zType>
@@ -6657,6 +7167,7 @@
 		<zh-CN>阿瓦里库姆</zh-CN>
 		<pt-BR>Avarico~Avarico~de Avarico</pt-BR>
 		<ko>아바리쿰</ko>
+		<fixja>アヴァリカム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TURONES</zType>
@@ -6670,6 +7181,7 @@
 		<zh-CN>图罗奈</zh-CN>
 		<pt-BR>Turones~Turones~de Turones</pt-BR>
 		<ko>투로네스</ko>
+		<fixja>トゥロネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NOREIA</zType>
@@ -6683,6 +7195,7 @@
 		<zh-CN>诺雷亚</zh-CN>
 		<pt-BR>Noreia~Noreia~de Noreia</pt-BR>
 		<ko>노레이아</ko>
+		<fixja>ノレイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CARNUNTUM</zType>
@@ -6696,6 +7209,7 @@
 		<zh-CN>加尔诺屯</zh-CN>
 		<pt-BR>Carnunto~Carnunto~de Carnunto</pt-BR>
 		<ko>카르눈툼</ko>
+		<fixja>カルヌントゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARGENTORATUM</zType>
@@ -6709,6 +7223,7 @@
 		<zh-CN>亚甘托拉屯</zh-CN>
 		<pt-BR>Argentorato~o Argentorato~do Argentorato</pt-BR>
 		<ko>아르겐토라툼</ko>
+		<fixja>アルゲントラトゥム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ELATH</zType>
@@ -6722,6 +7237,7 @@
 		<zh-CN>伊拉兹</zh-CN>
 		<pt-BR>Elath~Elath~de Elath</pt-BR>
 		<ko>엘라트</ko>
+		<fixja>エイラート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TYRE</zType>
@@ -6735,6 +7251,7 @@
 		<zh-CN>提尔</zh-CN>
 		<pt-BR>Tiro~Tiro~de Tiro</pt-BR>
 		<ko>티레</ko>
+		<fixja>テュロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KRENIDES</zType>
@@ -6748,6 +7265,7 @@
 		<zh-CN>革锐尼迪士</zh-CN>
 		<pt-BR>Crenides</pt-BR>
 		<ko>크레니데스</ko>
+		<fixja>クレニデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EUMOLPIAS</zType>
@@ -6761,6 +7279,7 @@
 		<zh-CN>优墨尔坡斯</zh-CN>
 		<pt-BR>Eumolpias</pt-BR>
 		<ko>에우몰피아스</ko>
+		<fixja>エウモルピアス</fixja>
 	</Entry>
 	<!-- Aksum cities & related premade map expansions -->
 	<Entry>
@@ -6775,6 +7294,7 @@
 		<zh-CN>阿杜利斯</zh-CN>
 		<pt-BR>Adúlis</pt-BR>
 		<ko>아둘리스</ko>
+		<fixja>アドゥリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ADWA</zType>
@@ -6788,6 +7308,7 @@
 		<zh-CN>阿德瓦</zh-CN>
 		<pt-BR>Adwa</pt-BR>
 		<ko>아드와</ko>
+		<fixja>アドゥワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AGAZI</zType>
@@ -6801,6 +7322,7 @@
 		<zh-CN>阿伽齐</zh-CN>
 		<pt-BR>Ag'azi</pt-BR>
 		<ko>아가지</ko>
+		<fixja>アガジ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASMARA</zType>
@@ -6814,6 +7336,7 @@
 		<zh-CN>阿斯马拉</zh-CN>
 		<pt-BR>Asmara</pt-BR>
 		<ko>아스마라</ko>
+		<fixja>アスマラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AVALITES</zType>
@@ -6827,6 +7350,7 @@
 		<zh-CN>阿瓦利特斯</zh-CN>
 		<pt-BR>Avalites</pt-BR>
 		<ko>아발리테스</ko>
+		<fixja>アヴァリテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AXUM</zType>
@@ -6840,6 +7364,7 @@
 		<zh-CN>阿克森姆</zh-CN>
 		<pt-BR>Axum</pt-BR>
 		<ko>악숨</ko>
+		<fixja>アクスム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AZEBA</zType>
@@ -6853,6 +7378,7 @@
 		<zh-CN>阿泽巴</zh-CN>
 		<pt-BR>Azeba</pt-BR>
 		<ko>아제바</ko>
+		<fixja>アゼバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BAKKAH</zType>
@@ -6866,6 +7392,7 @@
 		<zh-CN>巴卡哈</zh-CN>
 		<pt-BR>Bakkah</pt-BR>
 		<ko>바카</ko>
+		<fixja>バッカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ETCHMARA</zType>
@@ -6879,6 +7406,7 @@
 		<zh-CN>伊池马拉</zh-CN>
 		<pt-BR>Etchmara</pt-BR>
 		<ko>에치마라</ko>
+		<fixja>エチマラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HAWULTI</zType>
@@ -6892,6 +7420,7 @@
 		<zh-CN>哈乌尔提</zh-CN>
 		<pt-BR>Hawulti</pt-BR>
 		<ko>하울티</ko>
+		<fixja>ハウレティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KARMAH</zType>
@@ -6905,6 +7434,7 @@
 		<zh-CN>卡尔马</zh-CN>
 		<pt-BR>Karmah</pt-BR>
 		<ko>카르마</ko>
+		<fixja>カルマー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KESKESE</zType>
@@ -6918,6 +7448,7 @@
 		<zh-CN>科斯克瑟</zh-CN>
 		<pt-BR>Keskese</pt-BR>
 		<ko>케스키스</ko>
+		<fixja>ケスケセ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KOLOE</zType>
@@ -6931,6 +7462,7 @@
 		<zh-CN>科洛</zh-CN>
 		<pt-BR>Koloe</pt-BR>
 		<ko>콜로에</ko>
+		<fixja>コロエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KUBAR</zType>
@@ -6944,6 +7476,7 @@
 		<zh-CN>库巴尔</zh-CN>
 		<pt-BR>Kubar</pt-BR>
 		<ko>쿠바르</ko>
+		<fixja>クダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LEUKE_KOME</zType>
@@ -6957,6 +7490,7 @@
 		<zh-CN>留克寇玫</zh-CN>
 		<pt-BR>Leuke Kome</pt-BR>
 		<ko>레우케 코메</ko>
+		<fixja>レウケ・コメ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MALAO</zType>
@@ -6970,6 +7504,7 @@
 		<zh-CN>马拉奥</zh-CN>
 		<pt-BR>Malao</pt-BR>
 		<ko>말라오</ko>
+		<fixja>マラオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MASSAWA</zType>
@@ -6983,6 +7518,7 @@
 		<zh-CN>马萨瓦</zh-CN>
 		<pt-BR>Massawa</pt-BR>
 		<ko>마사와</ko>
+		<fixja>マサワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MATARA</zType>
@@ -6996,6 +7532,7 @@
 		<zh-CN>马塔拉</zh-CN>
 		<pt-BR>Matara</pt-BR>
 		<ko>마타라</ko>
+		<fixja>マタラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MENDEFERA</zType>
@@ -7009,6 +7546,7 @@
 		<zh-CN>门德费拉</zh-CN>
 		<pt-BR>Mendefera</pt-BR>
 		<ko>멘데페라</ko>
+		<fixja>メンデフェラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MOSHKA</zType>
@@ -7022,6 +7560,7 @@
 		<zh-CN>莫什卡</zh-CN>
 		<pt-BR>Moshka</pt-BR>
 		<ko>모시카</ko>
+		<fixja>モシュカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MOSYLON</zType>
@@ -7035,6 +7574,7 @@
 		<zh-CN>莫斯隆</zh-CN>
 		<pt-BR>Mosylon</pt-BR>
 		<ko>모실론</ko>
+		<fixja>モシロン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_NAJRAN</zType>
@@ -7048,6 +7588,7 @@
 		<zh-CN>纳季兰</zh-CN>
 		<pt-BR>Najrã</pt-BR>
 		<ko>나즈란</ko>
+		<fixja>ナジュラーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QANA</zType>
@@ -7061,6 +7602,7 @@
 		<zh-CN>卡纳</zh-CN>
 		<pt-BR>Qana</pt-BR>
 		<ko>카나</ko>
+		<fixja>カナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_QOHAITO</zType>
@@ -7074,6 +7616,7 @@
 		<zh-CN>阔海多</zh-CN>
 		<pt-BR>Qohaito</pt-BR>
 		<ko>코하이토</ko>
+		<fixja>コハイト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RABAK</zType>
@@ -7087,6 +7630,7 @@
 		<zh-CN>拉巴克</zh-CN>
 		<pt-BR>Rabak</pt-BR>
 		<ko>라바크</ko>
+		<fixja>ラバック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SABAE</zType>
@@ -7100,6 +7644,7 @@
 		<zh-CN>萨巴依</zh-CN>
 		<pt-BR>Sabae</pt-BR>
 		<ko>사바에</ko>
+		<fixja>サバエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SABAT</zType>
@@ -7113,6 +7658,7 @@
 		<zh-CN>沙巴特</zh-CN>
 		<pt-BR>Sabat</pt-BR>
 		<ko>사바트</ko>
+		<fixja>サバト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAFAR</zType>
@@ -7126,6 +7672,7 @@
 		<zh-CN>萨法尔</zh-CN>
 		<pt-BR>Safar</pt-BR>
 		<ko>사파르</ko>
+		<fixja>サファル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SEMBEL</zType>
@@ -7139,6 +7686,7 @@
 		<zh-CN>塞姆伯尔</zh-CN>
 		<pt-BR>Sembel</pt-BR>
 		<ko>셈벨</ko>
+		<fixja>セムベル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SENNAR</zType>
@@ -7152,6 +7700,7 @@
 		<zh-CN>森纳尔</zh-CN>
 		<pt-BR>Sennar</pt-BR>
 		<ko>센나르</ko>
+		<fixja>センナール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SHABWA</zType>
@@ -7165,6 +7714,7 @@
 		<zh-CN>沙布瓦</zh-CN>
 		<pt-BR>Shabwa</pt-BR>
 		<ko>샤브와</ko>
+		<fixja>シャブワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THERON</zType>
@@ -7178,6 +7728,7 @@
 		<zh-CN>西伦</zh-CN>
 		<pt-BR>Theron</pt-BR>
 		<ko>테론</ko>
+		<fixja>セロン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_WUQRO</zType>
@@ -7191,6 +7742,7 @@
 		<zh-CN>乌克罗</zh-CN>
 		<pt-BR>Wuqro</pt-BR>
 		<ko>우크로</ko>
+		<fixja>ウクロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_YATRIB</zType>
@@ -7204,6 +7756,7 @@
 		<zh-CN>亚特里布</zh-CN>
 		<pt-BR>Yatrib</pt-BR>
 		<ko>야트리브</ko>
+		<fixja>ヤトリブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_YEHA</zType>
@@ -7217,6 +7770,7 @@
 		<zh-CN>耶哈</zh-CN>
 		<pt-BR>Yeha</pt-BR>
 		<ko>예하</ko>
+		<fixja>イェハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ZULA</zType>
@@ -7230,5 +7784,6 @@
 		<zh-CN>祖拉</zh-CN>
 		<pt-BR>Zula</pt-BR>
 		<ko>줄라</ko>
+		<fixja>ズラ</fixja>
 	</Entry>
 </Root>

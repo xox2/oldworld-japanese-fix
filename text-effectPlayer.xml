@@ -28,6 +28,7 @@
 		<zh-CN>位于link(CONCEPT_CAPITAL)</zh-CN>
 		<pt-BR>na link(CONCEPT_CAPITAL)</pt-BR>
 		<ko>link(CONCEPT_CAPITAL)에서</ko>
+		<fixja>link(CONCEPT_CAPITAL)で</fixja>
 	</Entry>
 	<!-- Name -->
 	<Entry>
@@ -42,6 +43,7 @@
 		<zh-CN>基地</zh-CN>
 		<pt-BR>Base</pt-BR>
 		<ko>기본</ko>
+		<fixja>基地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
@@ -55,6 +57,7 @@
 		<zh-CN>间谍长</zh-CN>
 		<pt-BR>Chefe de Espionagem</pt-BR>
 		<ko>첩보대장</ko>
+		<fixja>スパイ長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER_F</zType>
@@ -68,6 +71,7 @@
 		<zh-CN>间谍长</zh-CN>
 		<pt-BR>Chefe de Espionagem</pt-BR>
 		<ko>첩보대장</ko>
+		<fixja>スパイ長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
@@ -81,6 +85,7 @@
 		<zh-CN>有能之人</zh-CN>
 		<pt-BR>O Capaz</pt-BR>
 		<ko>유능한 자</ko>
+		<fixja>有能者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
@@ -94,6 +99,7 @@
 		<zh-CN>优秀之人</zh-CN>
 		<pt-BR>O Bom</pt-BR>
 		<ko>선한 자</ko>
+		<fixja>優秀者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
@@ -107,6 +113,7 @@
 		<zh-CN>强大之人</zh-CN>
 		<pt-BR>O Forte</pt-BR>
 		<ko>강대한 자</ko>
+		<fixja>強者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
@@ -120,6 +127,7 @@
 		<zh-CN>高贵之人</zh-CN>
 		<pt-BR>O Nobre</pt-BR>
 		<ko>고귀한 자</ko>
+		<fixja>高貴なる者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
@@ -133,6 +141,7 @@
 		<zh-CN>荣耀之人</zh-CN>
 		<pt-BR>O Glorioso</pt-BR>
 		<ko>영예로운 자</ko>
+		<fixja>栄誉ある者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
@@ -146,6 +155,7 @@
 		<zh-CN>卓绝之人</zh-CN>
 		<pt-BR>O Magnífico</pt-BR>
 		<ko>장엄한 자</ko>
+		<fixja>崇高なる者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
@@ -159,6 +169,7 @@
 		<zh-CN>伟大之人</zh-CN>
 		<pt-BR>O Grande</pt-BR>
 		<ko>위대한 자</ko>
+		<fixja>偉大なる者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
@@ -172,6 +183,7 @@
 		<zh-CN>位于link(CONCEPT_CAPITAL)的法令</zh-CN>
 		<pt-BR>Decretos na link(CONCEPT_CAPITAL)</pt-BR>
 		<ko>link(CONCEPT_CAPITAL)의 칙령</ko>
+		<fixja>link(CONCEPT_CAPITAL)の法令</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
@@ -185,6 +197,7 @@
 		<zh-CN>道路</zh-CN>
 		<pt-BR>Estradas</pt-BR>
 		<ko>도로</ko>
+		<fixja>道路</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
@@ -198,6 +211,7 @@
 		<zh-CN>音乐</zh-CN>
 		<pt-BR>Música</pt-BR>
 		<ko>음악</ko>
+		<fixja>音楽</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_ARISTOCRACY</zType>
@@ -211,6 +225,7 @@
 		<zh-CN>解锁link(COUNCIL_AMBASSADOR)</zh-CN>
 		<pt-BR>Desbloqueia link(COUNCIL_AMBASSADOR)</pt-BR>
 		<ko>link(COUNCIL_AMBASSADOR) 해금</ko>
+		<fixja>link(COUNCIL_AMBASSADOR)をアンロック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_NAVIGATION</zType>
@@ -224,6 +239,7 @@
 		<zh-CN>自动化link(UNIT_SCOUT,2)</zh-CN>
 		<pt-BR>Automatizar link(UNIT_SCOUT,2)</pt-BR>
 		<ko>link(UNIT_SCOUT,2) 자동화</ko>
+		<fixja>link(UNIT_SCOUT,2)を自動化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_SPOKED_WHEEL</zType>
@@ -237,6 +253,7 @@
 		<zh-CN>解锁link(COUNCIL_CHANCELLOR)</zh-CN>
 		<pt-BR>Desbloqueia link(COUNCIL_CHANCELLOR)</pt-BR>
 		<ko>link(COUNCIL_CHANCELLOR) 해금</ko>
+		<fixja>link(COUNCIL_CHANCELLOR)をアンロック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_COINAGE</zType>
@@ -250,6 +267,7 @@
 		<zh-CN>自动化link(UNIT_WORKER,2)</zh-CN>
 		<pt-BR>Automatizar link(UNIT_WORKER,2)</pt-BR>
 		<ko>link(UNIT_WORKER,2) 자동화</ko>
+		<fixja>link(UNIT_WORKER,2)を自動化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TECH_PORTCULLIS</zType>
@@ -263,6 +281,7 @@
 		<zh-CN>解锁link(COUNCIL_SPYMASTER)</zh-CN>
 		<pt-BR>Desbloqueia link(COUNCIL_SPYMASTER)</pt-BR>
 		<ko>link(COUNCIL_SPYMASTER) 해금</ko>
+		<fixja>link(COUNCIL_SPYMASTER)をアンロック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
@@ -276,6 +295,7 @@
 		<zh-CN>link(TRAIT_HERO_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_HERO_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
@@ -289,6 +309,7 @@
 		<zh-CN>link(TRAIT_TACTICIAN_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_TACTICIAN_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
@@ -302,6 +323,7 @@
 		<zh-CN>link(TRAIT_COMMANDER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_COMMANDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
@@ -315,6 +337,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
@@ -328,6 +351,7 @@
 		<zh-CN>link(TRAIT_JUDGE_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_JUDGE_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_JUDGE_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_JUDGE_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
@@ -341,6 +365,7 @@
 		<zh-CN>link(TRAIT_ORATOR_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ORATOR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ORATOR_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_ORATOR_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
@@ -354,6 +379,7 @@
 		<zh-CN>link(TRAIT_SCHOLAR_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_SCHOLAR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_SCHOLAR_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_SCHOLAR_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
@@ -367,6 +393,7 @@
 		<zh-CN>link(TRAIT_BUILDER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_BUILDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_BUILDER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_BUILDER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
@@ -380,6 +407,7 @@
 		<zh-CN>link(TRAIT_SCHEMER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_SCHEMER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_SCHEMER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_SCHEMER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
@@ -393,6 +421,7 @@
 		<zh-CN>link(TRAIT_DIPLOMAT_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_DIPLOMAT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_DIPLOMAT_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_DIPLOMAT_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_SCIENCE</zType>
@@ -406,6 +435,7 @@
 		<zh-CN>科学精神</zh-CN>
 		<pt-BR>Ciência - alto</pt-BR>
 		<ko>많은 과학</ko>
+		<fixja>科学（高）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SCIENCE</zType>
@@ -419,6 +449,7 @@
 		<zh-CN>高度科学精神</zh-CN>
 		<pt-BR>Ciência - muito alto</pt-BR>
 		<ko>매우 많은 과학</ko>
+		<fixja>科学（非常に高い）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_ORDERS</zType>
@@ -432,6 +463,7 @@
 		<zh-CN>中级命令</zh-CN>
 		<pt-BR>Ordens - médio</pt-BR>
 		<ko>명령권</ko>
+		<fixja>命令書（中）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_ORDERS</zType>
@@ -445,6 +477,7 @@
 		<zh-CN>高级命令</zh-CN>
 		<pt-BR>Ordens - alto</pt-BR>
 		<ko>많은 명령권</ko>
+		<fixja>命令書（高）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_ORDERS</zType>
@@ -458,6 +491,7 @@
 		<zh-CN>最高命令</zh-CN>
 		<pt-BR>Ordens - muito alto</pt-BR>
 		<ko>매우 많은 명령권</ko>
+		<fixja>命令書（非常に高い）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
@@ -471,6 +505,7 @@
 		<zh-CN>低人口数</zh-CN>
 		<pt-BR>Cívico - baixo</pt-BR>
 		<ko>적은 사회력</ko>
+		<fixja>都市力（低）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
@@ -484,6 +519,7 @@
 		<zh-CN>中人口数</zh-CN>
 		<pt-BR>Cívico - médio</pt-BR>
 		<ko>사회력</ko>
+		<fixja>都市力（中）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
@@ -497,6 +533,7 @@
 		<zh-CN>高人口数</zh-CN>
 		<pt-BR>Cívico - alto</pt-BR>
 		<ko>많은 사회력</ko>
+		<fixja>都市力（高）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
@@ -510,6 +547,7 @@
 		<zh-CN>极高人口数</zh-CN>
 		<pt-BR>Cívico - muito alto</pt-BR>
 		<ko>매우 많은 사회력</ko>
+		<fixja>都市力（非常に高い）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
@@ -523,6 +561,7 @@
 		<zh-CN>低度训练</zh-CN>
 		<pt-BR>Treinamento - baixo</pt-BR>
 		<ko>적은 군사력</ko>
+		<fixja>修練度（低）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
@@ -536,6 +575,7 @@
 		<zh-CN>中度训练</zh-CN>
 		<pt-BR>Treinamento - médio</pt-BR>
 		<ko>군사력</ko>
+		<fixja>修練度（中）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
@@ -549,6 +589,7 @@
 		<zh-CN>高度训练</zh-CN>
 		<pt-BR>Treinamento - alto</pt-BR>
 		<ko>많은 군사력</ko>
+		<fixja>修練度（高）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
@@ -562,6 +603,7 @@
 		<zh-CN>极高训练</zh-CN>
 		<pt-BR>Treinamento - muito alto</pt-BR>
 		<ko>매우 많은 군사력</ko>
+		<fixja>修練度（非常に高い）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_MONEY</zType>
@@ -575,6 +617,7 @@
 		<zh-CN>少量金钱</zh-CN>
 		<pt-BR>Dinheiro - baixo</pt-BR>
 		<ko>적은 자금</ko>
+		<fixja>資金（低）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_MONEY</zType>
@@ -588,6 +631,7 @@
 		<zh-CN>中量金钱</zh-CN>
 		<pt-BR>Dinheiro - médio</pt-BR>
 		<ko>자금</ko>
+		<fixja>資金（中）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_MONEY</zType>
@@ -601,6 +645,7 @@
 		<zh-CN>大量金钱</zh-CN>
 		<pt-BR>Dinheiro - alto</pt-BR>
 		<ko>많은 자금</ko>
+		<fixja>資金（高）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MONEY</zType>
@@ -614,6 +659,7 @@
 		<zh-CN>极大量金钱</zh-CN>
 		<pt-BR>Dinheiro - muito alto</pt-BR>
 		<ko>매우 많은 자금</ko>
+		<fixja>資金（非常に高い）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_OCCURRENCE_ERA_OF_PEACE</zType>
@@ -627,5 +673,6 @@
 		<zh-CN>和平时代</zh-CN>
 		<pt-BR>Era de Paz</pt-BR>
 		<ko>평화 시대</ko>
+		<fixja>平穏な時代</fixja>
 	</Entry>
 </Root>

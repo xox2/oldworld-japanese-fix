@@ -26,6 +26,7 @@
 		<zh-CN>乐善好施者</zh-CN>
 		<pt-BR>o Benevolente</pt-BR>
 		<ko>자애로운 자</ko>
+		<fixja>慈悲深き独裁者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THE_BENEVOLENT_F</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>乐善好施者</zh-CN>
 		<pt-BR>a Benevolente</pt-BR>
 		<ko>자애로운 자</ko>
+		<fixja>慈悲深き独裁者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GRAND_VIZIER</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>首席大臣~首席大臣</zh-CN>
 		<pt-BR>Grão-Vizir~Grãos-Vizires~seu Grão-Vizir~meu Grão-Vizir</pt-BR>
 		<ko>대재상~대재상</ko>
+		<fixja>大宰相~大宰相</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GRAND_VIZIER_F</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>首席大臣~首席大臣</zh-CN>
 		<pt-BR>Grão-Vizir~Grãos-Vizires~sua Grão-Vizir~minha Grão-Vizir</pt-BR>
 		<ko>대재상~대재상</ko>
+		<fixja>大宰相~大宰相</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TITLE_MASTER_OF_CEREMONIES</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>司仪</zh-CN>
 		<pt-BR>Mestre de Cerimônias~o Mestre de Cerimônias~seu Mestre de Cerimônias~meu Mestre de Cerimônias</pt-BR>
 		<ko>의식의 대가</ko>
+		<fixja>宴の進行役</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TITLE_MASTER_OF_CEREMONIES_F</zType>
@@ -91,5 +96,6 @@
 		<zh-CN>司仪</zh-CN>
 		<pt-BR>Mestre de Cerimônias~a Mestre de Cerimônias~sua Mestre de Cerimônias~minha Mestre de Cerimônias</pt-BR>
 		<ko>의식의 대가</ko>
+		<fixja>宴の進行役</fixja>
 	</Entry>
 </Root>

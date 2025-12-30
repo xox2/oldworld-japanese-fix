@@ -39,6 +39,7 @@
 		<zh-CN>{CHARACTER-SUBJECT}的平息宗教异议任务引发了一起事件…</zh-CN>
 		<pt-BR>A missão para Acalmar Dissidência Religiosa de {CHARACTER-SUBJECT} deu início a um evento...</pt-BR>
 		<ko>{CHARACTER-SUBJECT}의 종교의 반발 완화 임무로 인해 사건이 발생했습니다...</ko>
+		<fixja>{CHARACTER-SUBJECT}の宗教鎮圧ミッションからイベントへ…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_QUELL_DISSENT</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>平息宗教异议</zh-CN>
 		<pt-BR>Acalmar Dissidência Religiosa</pt-BR>
 		<ko>종교의 반발 완화 성공</ko>
+		<fixja>宗教への異議を鎮める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_QUELL_DISSENT_DESCRIPTION</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>{CHARACTER-SUBJECT}会见了不满的领袖，并来报称宗教异见者已经被驱散。</zh-CN>
 		<pt-BR>{CHARACTER-SUBJECT} se reuniu com os líderes dissidentes e informa que a dissidência religiosa foi dispersada.</pt-BR>
 		<ko>{CHARACTER-SUBJECT}(이)가 불만스러워하는 지도자들을 만나 종교의 반발을 가라앉혔다고 보고했습니다.</ko>
+		<fixja>{CHARACTER-SUBJECT}は不満を抱えた指導者に会い、宗教反対派が離散したことを伝えた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MAKE_CLERGY_EVENT</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>任命神职人员事件</zh-CN>
 		<pt-BR>Evento de Introduzir ao Clero</pt-BR>
 		<ko>성직자 임명 사건 발생</ko>
+		<fixja>聖職者養成イベント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MAKE_CLERGY_EVENT_DESCRIPTION</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>{CHARACTER-SUBJECT}的任命神职人员任务引发了一起事件…</zh-CN>
 		<pt-BR>A missão para Introduzir ao Clero de {CHARACTER-SUBJECT} deu inicío a um evento...</pt-BR>
 		<ko>{CHARACTER-SUBJECT}의 성직자 임명 임무로 인해 사건이 발생했습니다...</ko>
+		<fixja>{CHARACTER-SUBJECT}の聖職者養成ミッションからイベントへ…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MAKE_CLERGY</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>任命link(CONCEPT_CLERGY)</zh-CN>
 		<pt-BR>Tornar link(CONCEPT_CLERGY)</pt-BR>
 		<ko>link(CONCEPT_CLERGY) 임명</ko>
+		<fixja>link(CONCEPT_CLERGY)の養成</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_MAKE_CLERGY_DESCRIPTION</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>{CHARACTER-TARGET}已经成为神职人员</zh-CN>
 		<pt-BR>{CHARACTER-TARGET} agora faz parte do clero</pt-BR>
 		<ko>{CHARACTER-TARGET}(이)가 성직자로 임명되었습니다.</ko>
+		<fixja>{CHARACTER-TARGET}は聖職者となった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PAGAN_SACRIFICES</zType>
@@ -130,6 +137,7 @@
 		<zh-CN>成功献祭</zh-CN>
 		<pt-BR>Sacrifícios feitos com sucesso</pt-BR>
 		<ko>성공적인 제물 의식</ko>
+		<fixja>供物：成功</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PAGAN_SACRIFICES_DESCRIPTION</zType>
@@ -143,6 +151,7 @@
 		<zh-CN>{CHARACTER-SUBJECT}回报，据说诸神对你的供品很满意。你肯定能获得诸神的青睐！</zh-CN>
 		<pt-BR>{CHARACTER-SUBJECT} informa que os deuses estão satisfeitos com suas ofertas. O favor deles está garantido!</pt-BR>
 		<ko>{CHARACTER-SUBJECT}의 보고에 따르면 신들이 당신의 공물에 만족한다고 합니다. 그들의 호의를 얻었습니다!</ko>
+		<fixja>神々が喜んでいると、{CHARACTER-SUBJECT}から報告が上がってくる。神々は喜んでいるようだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PAGAN_SACRIFICES_FAIL</zType>
@@ -156,6 +165,7 @@
 		<zh-CN>不详预兆</zh-CN>
 		<pt-BR>Mau presságio</pt-BR>
 		<ko>나쁜 징조</ko>
+		<fixja>不吉な前兆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PAGAN_SACRIFICES_DESCRIPTION_FAIL</zType>
@@ -169,5 +179,6 @@
 		<zh-CN>{CHARACTER-SUBJECT}回报，据说善变的诸神表示不满。我们需要重新赢得诸神的青睐。</zh-CN>
 		<pt-BR>{CHARACTER-SUBJECT} informa que os caprichosos deuses mostraram seu desgosto. Precisaremos recuperar o favor deles.</pt-BR>
 		<ko>{CHARACTER-SUBJECT}의 보고에 따르면 변덕스러운 신들이 불만을 표했다고 합니다. 그들의 호의를 되찾아야 합니다.</ko>
+		<fixja>気まぐれな神々が不満を示したと、{CHARACTER-SUBJECT}から報告が上がってくる。ご機嫌を取らなければならない。</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>旱灾~旱灾~旱灾</zh-CN>
 		<pt-BR>Seca~uma Seca~Secas~pela Seca~a Seca~à Seca~da Seca~na Seca</pt-BR>
 		<ko>가뭄~가뭄~가뭄</ko>
+		<fixja>干ばつ~干ばつ~干ばつ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_PLAGUE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>瘟疫~瘟疫~瘟疫</zh-CN>
 		<pt-BR>Praga~uma Praga~Pragas~pela Praga~a Praga~à Praga~da Praga~na Praga</pt-BR>
 		<ko>역병~역병~역병</ko>
+		<fixja>疫病~疫病~疫病</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_HURRICANE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>飓风~飓风~飓风</zh-CN>
 		<pt-BR>Furacão~um Furacão~Furacões~pelo Furacão~o Furacão~ao Furacão~do Furacão~no Furacão</pt-BR>
 		<ko>태풍~태풍~태풍</ko>
+		<fixja>ハリケーン~ハリケーン~ハリケーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_SANDSTORM</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>沙暴~沙暴~沙暴</zh-CN>
 		<pt-BR>Tempestade de Areia~uma Tempestade de Areia~Tempestades de Areia~pela Tempestade de Areia~a Tempestade de Areia~à Tempestade de Areia~da Tempestade de Areia~na Tempestade de Areia</pt-BR>
 		<ko>모래 폭풍~모래 폭풍~모래 폭풍</ko>
+		<fixja>砂嵐~砂嵐~砂嵐</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_TSUNAMI</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>海啸~海啸~海啸</zh-CN>
 		<pt-BR>Tsunami~um Tsunami~Tsunamis~pelo Tsunami~o Tsunami~ao Tsunami~do Tsunami~no Tsunami</pt-BR>
 		<ko>해일~해일~해일</ko>
+		<fixja>津波~津波~津波</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_FLOOD</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>洪水~洪水~洪水</zh-CN>
 		<pt-BR>Inundação~uma Inundação~Inundações~pela Inundação~a Inundação~à Inundação~da Inundação~na Inundação</pt-BR>
 		<ko>홍수~홍수~홍수</ko>
+		<fixja>洪水~洪水~洪水</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_EARTHQUAKE</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>地震~地震~地震</zh-CN>
 		<pt-BR>Terremoto~um Terremoto~Terremotos~pelo Terremoto~o Terremoto~ao Terremoto~do Terremoto~no Terremoto</pt-BR>
 		<ko>지진~지진~지진</ko>
+		<fixja>地震~地震~地震</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_WILDFIRE</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>野火~野火~野火</zh-CN>
 		<pt-BR>Incêndio~um Incêndio~Incêndios~pelo Incêndio~o Incêndio~ao Incêndio~do Incêndio~no Incêndio</pt-BR>
 		<ko>산불~산불~산불</ko>
+		<fixja>山火事~山火事~山火事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_ERUPTION</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>火山爆发~火山爆发~火山爆发</zh-CN>
 		<pt-BR>Erupção Vulcânica~uma Erupção Vulcânica~Erupções Vulcânicas~pela Erupção Vulcânica~a Erupção Vulcânica~à Erupção Vulcânica~da Erupção Vulcânica~na Erupção Vulcânica</pt-BR>
 		<ko>화산 폭발~화산 폭발~화산 폭발</ko>
+		<fixja>火山噴火~火山噴火~火山噴火</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_WILDFIRE_MINOR</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>轻度野火~轻度野火~轻度野火</zh-CN>
 		<pt-BR>Pequeno Incêndio~um Pequeno Incêndio~Pequenos Incêndios~pelo Pequeno Incêndio~o Pequeno Incêndio~ao Pequeno Incêndio~do Pequeno Incêndio~no Pequeno Incêndio</pt-BR>
 		<ko>작은 산불~작은 산불~작은 산불</ko>
+		<fixja>小規模な山火事~小規模な山火事~小規模な山火事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_PLAGUE_MINOR</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>轻度瘟疫~轻度瘟疫~轻度瘟疫</zh-CN>
 		<pt-BR>Pequena Praga~uma Pequena Praga~Pequenas Pragas~pela Pequena Praga~a Pequena Praga~à Pequena Praga~da Pequena Praga~na Pequena Praga</pt-BR>
 		<ko>작은 역병~작은 역병~작은 역병</ko>
+		<fixja>小規模な疫病~小規模な疫病~小規模な疫病</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_HURRICANE_MINOR</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>轻度飓风~轻度飓风~轻度飓风</zh-CN>
 		<pt-BR>Pequeno Furacão~um Pequeno Furacão~Pequenos Pequenos Furacões~pelo Pequeno Furacão~o Pequeno Furacão~ao Pequeno Furacão~do Pequeno Furacão~no Pequeno Furacão</pt-BR>
 		<ko>작은 태풍~작은 태풍~작은 태풍</ko>
+		<fixja>小規模なハリケーン~小規模なハリケーン~小規模なハリケーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_FLOOD_MINOR</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>轻度洪水~轻度洪水~轻度洪水</zh-CN>
 		<pt-BR>Pequena Inundação~uma Pequena Inundação~Pequenas Inundações~pela Pequena Inundação~a Pequena Inundação~à Pequena Inundação~da Pequena Inundação~na Pequena Inundação</pt-BR>
 		<ko>작은 홍수~작은 홍수~작은 홍수</ko>
+		<fixja>小規模な洪水~小規模な洪水~小規模な洪水</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_EARTHQUAKE_MINOR</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>轻度地震~轻度地震~轻度地震</zh-CN>
 		<pt-BR>Pequeno Terremoto~um Pequeno Terremoto~Pequenos Terremotos~pelo Pequeno Terremoto~o Pequeno Terremoto~ao Pequeno Terremoto~do Pequeno Terremoto~no Pequeno Terremoto</pt-BR>
 		<ko>작은 지진~작은 지진~작은 지진</ko>
+		<fixja>小規模な地震~小規模な地震~小規模な地震</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_SANDSTORM_MINOR</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>轻度沙暴~轻度沙暴~轻度沙暴</zh-CN>
 		<pt-BR>Pequena Tempestade de Areia~uma Pequena Tempestade de Areia~Pequenas Tempestades de Areia~pela Pequena Tempestade de Areia~a Pequena Tempestade de Areia~à Pequena Tempestade de Areia~da Pequena Tempestade de Areia~na Pequena Tempestade de Areia</pt-BR>
 		<ko>작은 모래 폭풍~작은 모래 폭풍~작은 모래 폭풍</ko>
+		<fixja>小規模な砂嵐~小規模な砂嵐~小規模な砂嵐</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_TSUNAMI_MINOR</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>轻度海啸~轻度海啸~轻度海啸</zh-CN>
 		<pt-BR>Pequeno Tsunami~um Pequeno Tsunami~Pequeno Tsunamis~pelo Pequeno Tsunami~o Pequeno Tsunami~ao Pequeno Tsunami~do Pequeno Tsunami~no Pequeno Tsunami</pt-BR>
 		<ko>작은 해일~작은 해일~작은 해일</ko>
+		<fixja>小規模な津波~小規模な津波~小規模な津波</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_ERUPTION_MINOR</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>轻度火山爆发~轻度火山爆发~轻度火山爆发</zh-CN>
 		<pt-BR>Pequena Erupção Vulcânica~uma Pequena Erupção Vulcânica~Pequenas Erupções Vulcânicas~pela Pequena Erupção Vulcânica~a Pequena Erupção Vulcânica~à Pequena Erupção Vulcânica~da Pequena Erupção Vulcânica~na Pequena Erupção Vulcânica</pt-BR>
 		<ko>작은 화산 폭발~작은 화산 폭발~작은 화산 폭발</ko>
+		<fixja>小規模な火山噴火~小規模な火山噴火~小規模な火山噴火</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_EVAPORATE</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>退潮之海~退潮之海</zh-CN>
 		<pt-BR>Mar em Baixa~o Mar em Baixa</pt-BR>
 		<ko>잦아드는 바다~잦아드는 바다</ko>
+		<fixja>引き潮~引き潮</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_REMOVE_MOUNTAINS</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>山脉坍塌~山脉坍塌</zh-CN>
 		<pt-BR>Montanha Desmoronante~a Montanha Desmoronante</pt-BR>
 		<ko>무너지는 산~무너지는 산</ko>
+		<fixja>崩壊する山脈~崩壊する山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_REJUVENATE</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>重焕新生~重焕新生</zh-CN>
 		<pt-BR>Rejuvenescimento~o Rejuvenescimento</pt-BR>
 		<ko>재생~재생</ko>
+		<fixja>再生~再生</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_REJUVENATE_HELP</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>随着回合进行，地形环境会变得更温和，地图上的资源缓慢增加。</zh-CN>
 		<pt-BR>A cada turno, o terreno fica mais temperado e recursos são lentamente acrescentados ao mapa.</pt-BR>
 		<ko>매턴 지형이 더 온건해지고 맵에 자원이 조금씩 추가됩니다.</ko>
+		<fixja>毎ターン、地形がより温暖になっていき、ゆっくりとマップ上に資源が追加されていきます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_EVAPORATE_HELP</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>每回合，link(TERRAIN_TARGET_COAST)和link(TERRAIN_TARGET_LAKE)图块都有可能变为link(TERRAIN_ARID)地形。刚变化完的图块有小概率生成link(VEGETATION_SCRUB)、link(RESOURCE_MARBLE)、link(RESOURCE_SORGHUM)或link(RESOURCE_SALT)。</zh-CN>
 		<pt-BR>A cada turno, casas de link(TERRAIN_TARGET_COAST) e link(TERRAIN_TARGET_LAKE) têm a chance de se tornarem terreno link(TERRAIN_ARID). Há também uma pequena chance que as casas recém transformadas tenham link(VEGETATION_SCRUB), link(RESOURCE_MARBLE), link(RESOURCE_SORGHUM) ou link(RESOURCE_SALT) adicionadas a elas.</pt-BR>
 		<ko>매 턴 link(TERRAIN_TARGET_COAST)과 link(TERRAIN_TARGET_LAKE) 타일이 link(TERRAIN_ARID) 지형으로 바뀔 확률이 있습니다. 새롭게 변한 타일에는 낮은 확률로 link(VEGETATION_SCRUB), link(RESOURCE_MARBLE), link(RESOURCE_SORGHUM), 혹은 link(RESOURCE_SALT)이 추가됩니다.</ko>
+		<fixja>毎ターン、link(TERRAIN_TARGET_COAST)とlink(TERRAIN_TARGET_LAKE)がlink(TERRAIN_ARID)地形に変化することがある。地形が変化したタイルにはlink(VEGETATION_SCRUB)、link(RESOURCE_MARBLE)、link(RESOURCE_SORGHUM)、link(RESOURCE_SALT)が生成されることもある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_DESOLATION</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>荒地~荒地</zh-CN>
 		<pt-BR>Desolação~A Desolação</pt-BR>
 		<ko>황폐화~황폐화</ko>
+		<fixja>荒廃~荒廃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_DESOLATION_HELP</zType>
@@ -325,5 +348,6 @@
 		<zh-CN>每回合，与沙漠相邻的图块会变得更加干旱。沙漠会逐渐扩张，最终覆盖整张地图。</zh-CN>
 		<pt-BR>A cada turno, casas adjacentes a casas de deserto ficam mais áridas. Os desertos se expandirão até cobrir o mapa.</pt-BR>
 		<ko>매 턴 사막과 인접한 타일이 더 건조해집니다. 사막은 결국 확장하여 맵을 덮게 됩니다.</ko>
+		<fixja>毎ターン、砂漠に隣接するタイルがより乾燥した地形に変化していく。やがてマップ全てが砂漠に飲み込まれる。</fixja>
 	</Entry>
 </Root>

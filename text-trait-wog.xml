@@ -26,6 +26,7 @@
 		<zh-CN>受感染</zh-CN>
 		<pt-BR>Infectado</pt-BR>
 		<ko>감염된</ko>
+		<fixja>感染者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFECTED_F</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>受感染</zh-CN>
 		<pt-BR>Infectada</pt-BR>
 		<ko>감염된</ko>
+		<fixja>感染者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_LAND</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>土地的守护者</zh-CN>
 		<pt-BR>Administrador da Terra</pt-BR>
 		<ko>대지 관리인</ko>
+		<fixja>土地の世話人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_LAND_F</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>土地的守护者</zh-CN>
 		<pt-BR>Administradora da Terra</pt-BR>
 		<ko>대지 관리인</ko>
+		<fixja>土地の世話人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_LAND_NICKNAME</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>土地管理人</zh-CN>
 		<pt-BR>o Administrador da Terra</pt-BR>
 		<ko>대지 관리인</ko>
+		<fixja>土地の世話人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_LAND_NICKNAME_F</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>土地管理人</zh-CN>
 		<pt-BR>a Administradora da Terra</pt-BR>
 		<ko>대지 관리인</ko>
+		<fixja>土地の世話人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBUILDER_OATH</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>以誓为约（重建者）</zh-CN>
 		<pt-BR>Jurado (Reconstrutor)</pt-BR>
 		<ko>맹세에 구속된 (재건자)</ko>
+		<fixja>誓約者 (再建者)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBUILDER_OATH_F</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>以誓为约（重建者）</zh-CN>
 		<pt-BR>Jurada (Reconstrutora)</pt-BR>
 		<ko>맹세에 구속된 (재건자)</ko>
+		<fixja>誓約者 (再建者)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBUILDER_OATH_NICKNAME</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>重建者</zh-CN>
 		<pt-BR>o Reconstrutor</pt-BR>
 		<ko>재건자</ko>
+		<fixja>再建する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBUILDER_OATH_NICKNAME_F</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>重建者</zh-CN>
 		<pt-BR>a Reconstrutora</pt-BR>
 		<ko>재건자</ko>
+		<fixja>再建する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBUILDER_OATH_1</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>{0_character}用尽了自己的全力，履行了{masculine_0_他的:她的}誓言，已不再{1_trait}。</zh-CN>
 		<pt-BR>Após se esforçar ao máximo para cumprir seu juramento, {0_character} já não é {1_trait}.</pt-BR>
 		<ko>최선을 다해 맹세를 지킨 {0_character}(은)는 이제 {1_trait} 상태가 아닙니다.</ko>
+		<fixja>自らの誓いを果たすために最善を尽くした{0_character}は、もはや{1_trait}ではなくなった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AVENGER_OATH</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>以誓为约（复仇者）</zh-CN>
 		<pt-BR>Jurado (Vingador)</pt-BR>
 		<ko>맹세에 구속된 (복수자)</ko>
+		<fixja>誓約者 (復讐者)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AVENGER_OATH_F</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>以誓为约（复仇者）</zh-CN>
 		<pt-BR>Jurada (Vingadora)</pt-BR>
 		<ko>맹세에 구속된 (복수자)</ko>
+		<fixja>誓約者 (復讐者)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AVENGER_OATH_NICKNAME</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>复仇者</zh-CN>
 		<pt-BR>o Vingador</pt-BR>
 		<ko>복수자</ko>
+		<fixja>復習する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AVENGER_OATH_NICKNAME_F</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>复仇者</zh-CN>
 		<pt-BR>a Vingadora</pt-BR>
 		<ko>복수자</ko>
+		<fixja>復習する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AVENGER_OATH_1</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>{0_character}用尽了自己的全力，履行了{masculine_0_他的:她的}誓言，已不再{1_trait}。</zh-CN>
 		<pt-BR>Após se esforçar ao máximo para cumprir seu juramento, {0_character} já não é {1_trait}.</pt-BR>
 		<ko>최선을 다해 맹세를 지킨 {0_character}(은)는 이제 {1_trait} 상태가 아닙니다.</ko>
+		<fixja>自らの誓いを果たすために最善を尽くした{0_character}は、もはや{1_trait}ではなくなった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAGUE_TRAIT_GAIN_INFECTED</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>{0_character}已成为{1_trait}，具有link(OCCURRENCE_PLAGUE)。</zh-CN>
 		<pt-BR>{0_character} foi {1_trait} pela link(OCCURRENCE_PLAGUE).</pt-BR>
 		<ko>link(OCCURRENCE_PLAGUE)으로 인해 {0_character}(이)가 {1_trait} 상태가 되었습니다.</ko>
+		<fixja>{0_character}はlink(OCCURRENCE_PLAGUE)により{1_trait}となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFECTED_LOSS_1</zType>
@@ -247,5 +264,6 @@
 		<zh-CN>{0_character}没有了症状，感觉好多了，link(OCCURRENCE_PLAGUE)引发的{1_trait}已经消失。</zh-CN>
 		<pt-BR>{0_character} já se sente muito melhor e está livre de sintomas. Parece que {masculine_0:ele:ela} não está {1_trait} pela link(OCCURRENCE_PLAGUE).</pt-BR>
 		<ko>증상이 없고 기운이 훨씬 나아진 {0_character}(은)는 이제 link(OCCURRENCE_PLAGUE)으로 인해 {1_trait} 상태가 아닌 것으로 보입니다.</ko>
+		<fixja>症状が消え、体調も良くなった{0_character}はもはやlink(OCCURRENCE_PLAGUE)の{1_trait}ではなくなった。</fixja>
 	</Entry>
 </Root>

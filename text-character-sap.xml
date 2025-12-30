@@ -39,6 +39,7 @@
 		<zh-CN>僧侣</zh-CN>
 		<pt-BR>Maga~a Maga~sua Maga~minha Maga</pt-BR>
 		<ko>신관</ko>
+		<fixja>マギ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_JEWISH</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>犹太教祭司</zh-CN>
 		<pt-BR>Cohen~o Cohen~seu Cohen~meu Cohen</pt-BR>
 		<ko>제사장</ko>
+		<fixja>コハニム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_JEWISH_F</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>祭司</zh-CN>
 		<pt-BR>Cohen~a Cohen~sua Cohen~minha Cohen</pt-BR>
 		<ko>제사장</ko>
+		<fixja>コハニム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_CHRISTIAN</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>基督教主教</zh-CN>
 		<pt-BR>Bispo~o Bispo~seu Bispo~meu Bispo</pt-BR>
 		<ko>주교</ko>
+		<fixja>主教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_CHRISTIAN_F</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>主教</zh-CN>
 		<pt-BR>Bispa~a Bispa~sua Bispa~minha Bispa</pt-BR>
 		<ko>주교</ko>
+		<fixja>主教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_MANICHAEAN</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>摩尼教僧侣</zh-CN>
 		<pt-BR>Eleito~o Eleito~seu Elieto~meu Eleito</pt-BR>
 		<ko>소명받은 자</ko>
+		<fixja>選良民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_MANICHAEAN_F</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>僧侣</zh-CN>
 		<pt-BR>Eleita~a Eleita~sua Eleita~minha Eleita</pt-BR>
 		<ko>소명받은 자</ko>
+		<fixja>選良民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_PAGAN</zType>
@@ -130,6 +137,7 @@
 		<zh-CN>祭司</zh-CN>
 		<pt-BR>Sacerdote~o Sacerdote~seu Sacerdote~meu Sacerdote</pt-BR>
 		<ko>사제</ko>
+		<fixja>司祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CLERGY_PAGAN_F</zType>
@@ -143,6 +151,7 @@
 		<zh-CN>女祭司</zh-CN>
 		<pt-BR>Sacerdotisa~a Sacerdotisa~sua Sacerdotisa~minha Sacerdotisa</pt-BR>
 		<ko>여사제</ko>
+		<fixja>女司祭長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_FALSE_LEADER</zType>
@@ -156,6 +165,7 @@
 		<zh-CN>假领袖</zh-CN>
 		<pt-BR>Falso Líder~o Falso Líder~seu Falso Líder~meu Falso Líder</pt-BR>
 		<ko>가짜 지도자</ko>
+		<fixja>偽りの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_FALSE_LEADER_F</zType>
@@ -169,6 +179,7 @@
 		<zh-CN>假领袖</zh-CN>
 		<pt-BR>Falsa Líder~a Falsa Líder~sua Falsa Líder~minha Falsa Líder</pt-BR>
 		<ko>가짜 지도자</ko>
+		<fixja>偽りの指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SAINT</zType>
@@ -182,6 +193,7 @@
 		<zh-CN>圣人</zh-CN>
 		<pt-BR>Santo~o Santo~seu Santo~meu Santo</pt-BR>
 		<ko>성인</ko>
+		<fixja>聖人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SAINT_F</zType>
@@ -195,5 +207,6 @@
 		<zh-CN>圣人</zh-CN>
 		<pt-BR>Santa~a Santa~sua Santa~minha Santa</pt-BR>
 		<ko>성인</ko>
+		<fixja>聖人</fixja>
 	</Entry>
 </Root>

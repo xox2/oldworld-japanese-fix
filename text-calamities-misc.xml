@@ -26,6 +26,7 @@
 		<zh-CN>自然灾害~自然灾害</zh-CN>
 		<pt-BR>Calamidades~Calamidade</pt-BR>
 		<ko>재난~재난</ko>
+		<fixja>自然災害~自然災害</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_CALAMITIES</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>是众神越来越不满，把愤怒发泄在我们身上，还是说，这场link(CONCEPT_CALAMITY,1)是某种无法解释的自然力量引发的结果？</zh-CN>
 		<pt-BR>Os deuses ficaram descontentes e lançaram sua ira sobre nós ou essas link(CONCEPT_CALAMITY,1) são resultado de uma força inexplicável da natureza?</pt-BR>
 		<ko>신들의 불만이 커져서 우리에게 분노를 쏟은 걸까요? 아니면 설명되지 않은 자연의 힘으로 link(CONCEPT_CALAMITY,1)이 발생했을까요?</ko>
+		<fixja>神々が不満を募らせ、その怒りを我々に解き放ったのか、それともlink(CONCEPT_CALAMITY,1)は何か説明のつかない自然の力がもたらしたものなのか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CALAMITY</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>自然灾害~自然灾害</zh-CN>
 		<pt-BR>Calamidade~Calamidades</pt-BR>
 		<ko>재난~재난</ko>
+		<fixja>自然災害~自然災害</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONCEPT_CALAMITY</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>自然灾害是一种现象类型，例如link(OCCURRENCE_DROUGHT)、link(OCCURRENCE_PLAGUE)或是link(OCCURRENCE_EARTHQUAKE)，会给你的国家带来负面影响，有时也会给这片土地带来负面影响。一些自然灾害会改变地形和/或不同图块的高度，以此永久改变地图。</zh-CN>
 		<pt-BR>Uma calamidade é um tipo de ocorrência, tal como uma link(OCCURRENCE_DROUGHT), uma link(OCCURRENCE_PLAGUE) ou um link(OCCURRENCE_EARTHQUAKE), que provoca alguns efeitos negativos à sua nação e, às vezes, à terra em si. Algumas calamidades mudam o mapa de forma permanente ao alterar o terreno e/ou a altura de casas diferentes.</pt-BR>
 		<ko>재난은 link(OCCURRENCE_DROUGHT), link(OCCURRENCE_PLAGUE), link(OCCURRENCE_EARTHQUAKE)과 같은 현상의 일종으로 당신의 국가, 혹은 대지 자체에 부정적인 효과를 불러옵니다. 일부 재난은 지형이나 여러 타일의 높이를 달라지게 하여 지도를 영구적으로 바꿉니다.</ko>
+		<fixja>災害は出来事の1つで、link(OCCURRENCE_DROUGHT)、link(OCCURRENCE_PLAGUE)、link(OCCURRENCE_EARTHQUAKE)などがあり、あなたの国、時には土地に対して有害な影響を及ぼします。災害の中にはタイルの地形や高度を変えるなどマップを恒久的に変化させるものもあります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DROUGHT_TRAINING</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>抗旱专家</zh-CN>
 		<pt-BR>Adaptado à Seca</pt-BR>
 		<ko>가뭄의 달인</ko>
+		<fixja>干ばつ対策の達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DROUGHT_TRAINING_F</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>抗旱专家</zh-CN>
 		<pt-BR>Adaptada à Seca</pt-BR>
 		<ko>가뭄의 달인</ko>
+		<fixja>干ばつ対策の達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SANDSTORM_TRAINING</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>沙暴专家</zh-CN>
 		<pt-BR>Adaptado à Areia</pt-BR>
 		<ko>모래 폭풍의 달인</ko>
+		<fixja>砂嵐対策の達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SANDSTORM_TRAINING_F</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>沙暴专家</zh-CN>
 		<pt-BR>Adaptada à Areia</pt-BR>
 		<ko>모래 폭풍의 달인</ko>
+		<fixja>砂嵐対策の達人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_1</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>有点鼻塞</zh-CN>
 		<pt-BR>Resfriado Leve</pt-BR>
 		<ko>코를 훌쩍이는</ko>
+		<fixja>感染の兆候</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_1_F</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>有点鼻塞</zh-CN>
 		<pt-BR>Resfriado Leve</pt-BR>
 		<ko>코를 훌쩍이는</ko>
+		<fixja>感染の兆候</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_2</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>适度瘟疫</zh-CN>
 		<pt-BR>Infecção Leve</pt-BR>
 		<ko>가벼운 역병에 걸린</ko>
+		<fixja>軽度の感染</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_2_F</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>适度瘟疫</zh-CN>
 		<pt-BR>Infecção Leve</pt-BR>
 		<ko>가벼운 역병에 걸린</ko>
+		<fixja>軽度の感染</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_3</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>遭遇瘟疫</zh-CN>
 		<pt-BR>Infecção</pt-BR>
 		<ko>역병에 걸린</ko>
+		<fixja>感染</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_3_F</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>遭遇瘟疫</zh-CN>
 		<pt-BR>Infecção</pt-BR>
 		<ko>역병에 걸린</ko>
+		<fixja>感染</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_4</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>严重瘟疫</zh-CN>
 		<pt-BR>Infecção Grave</pt-BR>
 		<ko>심한 역병에 걸린</ko>
+		<fixja>重度の感染</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PLAGUE_4_F</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>严重瘟疫</zh-CN>
 		<pt-BR>Infecção Grave</pt-BR>
 		<ko>심한 역병에 걸린</ko>
+		<fixja>重度の感染</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOOD_2000_STOCKPILE</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>储备 2,000 个link(YIELD_FOOD,1)</zh-CN>
 		<pt-BR>Reservar 2.000 de  link(YIELD_FOOD,1)</pt-BR>
 		<ko>link(YIELD_FOOD,1)을 2,000만큼 비축</ko>
+		<fixja>link(YIELD_FOOD,1)を2000個蓄積</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOOD_4000_STOCKPILE</zType>
@@ -247,5 +264,6 @@
 		<zh-CN>储备 4,000 个link(YIELD_FOOD,1)</zh-CN>
 		<pt-BR>Reservar 4.000 de  link(YIELD_FOOD,1)</pt-BR>
 		<ko>link(YIELD_FOOD,1)을 4,000만큼 비축</ko>
+		<fixja>link(YIELD_FOOD,1)を4000個蓄積</fixja>
 	</Entry>
 </Root>

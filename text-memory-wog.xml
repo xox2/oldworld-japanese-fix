@@ -26,6 +26,7 @@
 		<zh-CN>近期旱灾</zh-CN>
 		<pt-BR>Seca recente</pt-BR>
 		<ko>최근의 가뭄</ko>
+		<fixja>最近干ばつがあった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_PLAGUE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>近期瘟疫</zh-CN>
 		<pt-BR>Praga recente</pt-BR>
 		<ko>최근의 역병</ko>
+		<fixja>最近疫病があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_HURRICANE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>近期飓风</zh-CN>
 		<pt-BR>Furacão recente</pt-BR>
 		<ko>최근의 태풍</ko>
+		<fixja>最近ハリケーンがあった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_SANDSTORM</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>近期沙暴</zh-CN>
 		<pt-BR>Tempestade de Areia recente</pt-BR>
 		<ko>최근의 모래 폭풍</ko>
+		<fixja>最近砂嵐があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_TSUNAMI</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>近期海啸</zh-CN>
 		<pt-BR>Tsunami recente</pt-BR>
 		<ko>최근의 해일</ko>
+		<fixja>最近津波があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_FLOOD</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>近期洪水</zh-CN>
 		<pt-BR>Inundação recente</pt-BR>
 		<ko>최근의 홍수</ko>
+		<fixja>最近洪水があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_EARTHQUAKE</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>近期地震</zh-CN>
 		<pt-BR>Terremoto recente</pt-BR>
 		<ko>최근의 지진</ko>
+		<fixja>最近地震があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_WILDFIRE</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>近期野火</zh-CN>
 		<pt-BR>Incêndio recente</pt-BR>
 		<ko>최근의 산불</ko>
+		<fixja>最近山火事があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_ERUPTION</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>近期火山爆发</zh-CN>
 		<pt-BR>Erupção vulcânica recente</pt-BR>
 		<ko>최근의 화산 폭발</ko>
+		<fixja>最近火山の噴火があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYCHARACTER_SANDSTORM_BLINDNESS_CARE</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>我在沙暴中受伤后，照顾了我</zh-CN>
 		<pt-BR>Cuidou de mim quando me feri em uma tempestade de areia</pt-BR>
 		<ko>모래 폭풍으로 인한 나의 부상 후 돌봐주었다</ko>
+		<fixja>砂嵐で負傷した私を手当てしてくれた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_POLYTHEISM_MONOTHEISM</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>听取了我们的警告，修改了律法</zh-CN>
 		<pt-BR>Ouviu o nosso aviso e mudou a lei</pt-BR>
 		<ko>우리의 경고를 받아들여 법률을 개정했다</ko>
+		<fixja>我々の警告に耳を傾け、法律を変更した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_POLYTHEISM_NO</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>无视了我们提出的要求，没有修改律法</zh-CN>
 		<pt-BR>Ignorou nosso pedido para mudar a lei</pt-BR>
 		<ko>법률을 개정해 달라는 우리의 요청을 무시했다</ko>
+		<fixja>我々の要求を無視し、法律を変更しなかった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_OATHBOUND_NO</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>拒绝以我们的名义宣誓</zh-CN>
 		<pt-BR>Recusou-se a fazer um juramento em nossa honra</pt-BR>
 		<ko>우리를 기리기 위한 맹세를 거부했다</ko>
+		<fixja>我々が求めた名誉のための宣誓を拒否した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_BATH_PRIVILEGES</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>允许我们独家使用城市的浴场</zh-CN>
 		<pt-BR>Concedeu-nos acesso exclusivo aos banhos da cidade</pt-BR>
 		<ko>도시 욕탕의 독점 출입을 허용했다</ko>
+		<fixja>市営浴場への独占的なアクセスを提供してくれた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYTRIBE_OFFERED_TRADE</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>通过贸易换取我们的帮助</zh-CN>
 		<pt-BR>Negociou conosco em troca de nossa ajuda</pt-BR>
 		<ko>우리 도움의 대가로 교역을 제안했다</ko>
+		<fixja>我々の援助への見返りとして貿易を提案した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYTRIBE_STOLE_FOOD_CACHE</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>扣留我们的人民，偷走我们的食物</zh-CN>
 		<pt-BR>Deteve nosso povo e roubou nossa comida</pt-BR>
 		<ko>우리 사람들을 구금하고 식량을 훔쳤다</ko>
+		<fixja>我が民を拘束し、食料を盗んだ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYTRIBE_SHARED_HARVEST</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>在旱灾期间与我们分享过收成</zh-CN>
 		<pt-BR>Compartilhou a colheita conosco durante uma seca</pt-BR>
 		<ko>가뭄 시기에 우리와 수확물을 나눴다</ko>
+		<fixja>干ばつの際に収穫を共有してくれた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_DENIED_SNAKE_OMEN</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>无视了我们提出的“蛇是不祥之兆”的警告</zh-CN>
 		<pt-BR>Ignorou nosso aviso sobre as cobras serem um mau agouro</pt-BR>
 		<ko>뱀이 나쁜 징조라는 우리의 경고를 무시했다</ko>
+		<fixja>蛇が悪しきことの前兆であるとの我々の警告を無視した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_ACCEPTED_SNAKE_OMEN</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>举行了献祭，驱除蛇</zh-CN>
 		<pt-BR>Ofereceu um sacrifício para afastar as cobras</pt-BR>
 		<ko>뱀을 쫓기 위해 제물을 바쳤다</ko>
+		<fixja>蛇よけのための生贄を捧げた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_DROUGHT_GAVE_AWAY_FOOD</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>在旱灾时期给另一个国家提供过食物</zh-CN>
 		<pt-BR>Deu comida a outra nação durante uma seca</pt-BR>
 		<ko>가뭄 중 다른 국가에 식량을 제공했다</ko>
+		<fixja>干ばつの間に他国に食料を譲渡した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_DROUGHT_END_FOOD_NO</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>拒绝解决粮食危机</zh-CN>
 		<pt-BR>Recusou-se a lidar com a crise de alimentos</pt-BR>
 		<ko>식량 위기에 대처하는 것을 거부했다</ko>
+		<fixja>食糧危機への対策を拒否した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_PLAGUE_FESTIVAL_SIN_NEG</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>把瘟疫的爆发归咎于我们</zh-CN>
 		<pt-BR>Culpou-nos pelo início de uma praga</pt-BR>
 		<ko>역병의 원인을 우리 탓으로 돌렸다</ko>
+		<fixja>疫病の感染拡大の原因として我々を避難した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_PLAGUE_FESTIVAL_SIN_POS</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>指责瘟疫爆发的罪魁祸首</zh-CN>
 		<pt-BR>Culpou os responsáveis pelo início de uma praga</pt-BR>
 		<ko>역병 발병에 책임이 있는 자들을 탓했다</ko>
+		<fixja>疫病の感染拡大で我々の責任を追求した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_PLAGUE_FESTIVAL_VIRTUE_POS</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>专心研究应对瘟疫的解决方案</zh-CN>
 		<pt-BR>Concentrou-se em soluções para lidar com a praga</pt-BR>
 		<ko>역병에 대처하는 방법을 찾는 일에 집중했다</ko>
+		<fixja>疫病の対策に全力を投じた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_PLAGUE_REBELS_IGNORE</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>在我们的城市遭遇瘟疫期间，忽视了一些无法无天的事</zh-CN>
 		<pt-BR>Ignorou criminosos em nossa cidade durante uma praga</pt-BR>
 		<ko>역병 중 도시의 무법 상태를 무시했다</ko>
+		<fixja>我々の街で疫病が蔓延する中、治安問題を無視した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_HURRICANE_APPEARANCE</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>在飓风灾后重建期间拜访过我们</zh-CN>
 		<pt-BR>Visitou-nos durante a recuperação após um furacão</pt-BR>
 		<ko>폭풍에서 복구 중인 우리를 방문했다</ko>
+		<fixja>ハリケーンからの復興中に我々を訪問した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_SANDSTORM_DISTANT</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>让我们放心，保证我们不会受到恶劣天气的影响</zh-CN>
 		<pt-BR>Garantiu que estamos seguros das intempéries</pt-BR>
 		<ko>자연으로부터 안전하다고 우리를 안심시켰다</ko>
+		<fixja>風雨より我々を守ってくれると保証した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_CALAMITIES_TRUCE_NO</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>在困难时期拒绝了我们的休战提议</zh-CN>
 		<pt-BR>Recusou nossa oferta de trégua durantes tempos difíceis</pt-BR>
 		<ko>힘든 시기에 제안했던 휴전 협정을 거절했다</ko>
+		<fixja>困難な時期に我々からの和平の提案に応じた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_DROUGHT_GIFT</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>在干旱时给我们提供过食物</zh-CN>
 		<pt-BR>Deu-nos comida durante uma seca</pt-BR>
 		<ko>가뭄 중에 우리에게 식량을 제공했다</ko>
+		<fixja>干ばつの間、我々に食料を援助してくれた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_RECOVERY_EFFORTS</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>在自然灾害发生后提供过援助</zh-CN>
 		<pt-BR>Ofereceu ajuda após um desastre natural</pt-BR>
 		<ko>자연 재해 이후 도움을 제공했다</ko>
+		<fixja>自然災害に見舞われた我々に援助した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_RECOVERY_EFFORTS</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>在灾后重建期间优先考虑外国援助</zh-CN>
 		<pt-BR>Priorizou ajuda estrangeira durante trabalhos de recuperação</pt-BR>
 		<ko>복구 작업 중 외국을 먼저 도왔다</ko>
+		<fixja>復興中に他国への支援を優先した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_TSUNAMI_MISSING_HONOR</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>向我们被卷入大海的将军致敬</zh-CN>
 		<pt-BR>Honrou nosso general que morreu no mar</pt-BR>
 		<ko>바다에 휩쓸린 우리 장군을 기렸다</ko>
+		<fixja>海で遭難した将軍を讃えた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_WASH_HELP</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>帮助营救被洪水冲走的士兵</zh-CN>
 		<pt-BR>Ajudou a recuperar soldados que foram levados pela inundação</pt-BR>
 		<ko>홍수에 목숨을 잃은 병사들의 수숩을 도와주었다</ko>
+		<fixja>洪水で押し流された兵士を救助した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_WASH_HELP</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>安排我们帮助攻击我们城市的人</zh-CN>
 		<pt-BR>Ordenou que ajudássemos os atacantes de nossa cidade</pt-BR>
 		<ko>도시를 공격하는 자들을 도우라고 명령했다</ko>
+		<fixja>我々の街に対する攻撃者を助けるよう命じた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_WASH_EPIC</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>创作了一部史诗，讲述我们被洪水淹没的城市遭到围困的故事</zh-CN>
 		<pt-BR>Compôs um poema épico sobre o cerco de nossa cidade inundada</pt-BR>
 		<ko>홍수에 잠긴 도시를 공격하는 내용의 서사시를 썼다</ko>
+		<fixja>洪水に見舞われた街への攻囲についての叙事詩を作成した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_FLOOD_WALLS_COMMON</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>在洪水期间优先考虑平民</zh-CN>
 		<pt-BR>Priorizou plebeus durante uma inundação</pt-BR>
 		<ko>홍수 중 일반 시민을 우선시했다</ko>
+		<fixja>洪水の際に平民を優先した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_FLOOD_WALLS_NOBLE</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>在洪水期间优先考虑我们</zh-CN>
 		<pt-BR>Deu-nos prioridade durante uma inundação</pt-BR>
 		<ko>홍수 중 우리를 우선시했다</ko>
+		<fixja>洪水の際に我々を優先した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_FLOOD_WALLS_WALLS</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>洪水袭来时，城墙保护了我们的城市</zh-CN>
 		<pt-BR>As muralhas protegeram nossa cidade durante uma inundação</pt-BR>
 		<ko>홍수 때 방벽이 우리 도시를 보호했다</ko>
+		<fixja>防壁により洪水から我々の街を守った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_CONDOLENCES</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>在遭遇了一场悲剧性死亡后表示哀悼</zh-CN>
 		<pt-BR>Ofereceu suas condolências após uma morte trágica</pt-BR>
 		<ko>비극적인 죽음 이후 조의를 전했다</ko>
+		<fixja>痛ましい訃報に哀悼の意を表した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_EARTHQUAKE_PRISONER_NOFAULT</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>在遭遇了一场悲剧性死亡后否认担责</zh-CN>
 		<pt-BR>Negou a responsabilidade após uma morte trágica</pt-BR>
 		<ko>비극적인 죽음 이후 책임을 회피했다</ko>
+		<fixja>悲劇的な死の責任を取ることを拒絶した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYRELIGION_PLAGUE_ABANDON</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>在瘟疫期间失去了信仰</zh-CN>
 		<pt-BR>Perdeu a fé durante uma praga</pt-BR>
 		<ko>역병 중에 신앙심을 잃었다</ko>
+		<fixja>疫病の間、信仰に背いた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYRELIGION_WILDFIRE_NO</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>发生野火之后拒绝支持我们</zh-CN>
 		<pt-BR>Recusou-se a nos apoiar após um incêndio</pt-BR>
 		<ko>산불 이후 우리를 지원하는 것을 거절했다</ko>
+		<fixja>山火事の間、我々への援助を拒絶した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYRELIGION_WILDFIRE_REJECT</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>拒绝我们的神赐予的怜悯</zh-CN>
 		<pt-BR>Negou a misericórdia de nossa divindade</pt-BR>
 		<ko>우리 신의 자비를 거부했다</ko>
+		<fixja>我々の神への慈悲を拒絶した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_WILDFIRE_OLIVES_YES</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>把我们的土地交给别人，改做其他用途</zh-CN>
 		<pt-BR>Usou nossas terras com outra família</pt-BR>
 		<ko>우리 땅의 용도를 바꿔 다른 가문이 활용하도록 했다</ko>
+		<fixja>我々の土地を他の家族に委ねた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_ERUPTION_AID</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>在火山爆发后提供援助</zh-CN>
 		<pt-BR>Enviou ajuda após uma erupção vulcânica</pt-BR>
 		<ko>화산 폭발 이후 도움을 제공했다</ko>
+		<fixja>火山の噴火の後に援助を行った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_ABANDONED_TRADERS</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>被抛弃的商人</zh-CN>
 		<pt-BR>Mercadores abandonados</pt-BR>
 		<ko>버려진 교역상들</ko>
+		<fixja>交易商人を見捨てた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYPLAYER_REFUSED_AID</zType>
@@ -624,5 +670,6 @@
 		<zh-CN>拒绝了我们的援助</zh-CN>
 		<pt-BR>Recusou-se a nos ajudar</pt-BR>
 		<ko>원조를 거절했다</ko>
+		<fixja>我々への支援を拒絶した</fixja>
 	</Entry>
 </Root>

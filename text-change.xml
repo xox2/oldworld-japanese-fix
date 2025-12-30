@@ -12,6 +12,7 @@
 		<zh-CN>进口马匹</zh-CN>
 		<pt-BR>Importar Cavalos</pt-BR>
 		<ko>말 수입</ko>
+		<fixja>輸入馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_ELEPHANT</zType>
@@ -25,6 +26,7 @@
 		<zh-CN>进口大象</zh-CN>
 		<pt-BR>Importar Elefantes</pt-BR>
 		<ko>코끼리 수입</ko>
+		<fixja>輸入象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPORT_CAMEL</zType>
@@ -38,6 +40,7 @@
 		<zh-CN>进口骆驼</zh-CN>
 		<pt-BR>Importar Camelos</pt-BR>
 		<ko>낙타 수입</ko>
+		<fixja>輸入ラクダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT_NETWORK</zType>
@@ -71,6 +74,9 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<ko>link(COUNCIL_SPYMASTER)을 배정하면 link(UNIT_SCOUT,1) 유닛을 통해 타국 도시에 첩보망을 구축할 수 있습니다(link(UNIT_SCOUT) 유닛은 int(AGENT_NETWORK_TURNS)턴 이후까지 사용할 수 없으며, 피해를 본 경우 턴이 증가할 수 있습니다).
 		
 첩보망이 구축되면 인물 하나를 link(CONCEPT_AGENT)으로 지정해 해당 도시로 보내 생산량을 얻고, 도시의 지리 정보를 알아내고 link(MISSION_TREACHERY)과 같은 임무에 접근할 수 있습니다.</ko>
+		<fixja>link(COUNCIL_SPYMASTER)がいれば、link(UNIT_SCOUT,1)は外国都市に「諜報網」を作成することができる。link(UNIT_SCOUT)はその後int(AGENT_NETWORK_TURNS)ターンの間、利用できなくなる。このターン数はダメージを受けているとさらに増加する。
+		
+諜報網の作成後はキャラクターをlink(CONCEPT_AGENT)として都市に派遣できるようになり、これを実行すると産出と都市の視界を獲得し、さらにlink(MISSION_TREACHERY)のようなミッションが実行可能になる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY</zType>
@@ -84,6 +90,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>只显示工人的地图标记</zh-CN>
 		<pt-BR>Mostrar pontos do mapa apenas por trabalhadores</pt-BR>
 		<ko>일꾼 유닛에게만 맵 핀 표시</ko>
+		<fixja>労働者：地図鋲のみ表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY_DESC</zType>
@@ -97,6 +104,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>改良设施提醒标记只会在选中符合建造条件的单位时出现</zh-CN>
 		<pt-BR>Os alertas de lembrete de melhoria só aparecerão quando uma unidade elegível para construir a melhoria estiver selecionada</pt-BR>
 		<ko>시설 고지 신호는 해당 시설을 건설할 수 있는 유닛이 선택되었을 때만 나타납니다.</ko>
+		<fixja>改修リマインダーの通知は、建設可能なユニットが選択された場合にのみ表示される。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH</zType>
@@ -110,6 +118,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>无限制</zh-CN>
 		<pt-BR>Ilimitados</pt-BR>
 		<ko>제한 없음</ko>
+		<fixja>制限なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM</zType>
@@ -123,6 +132,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>受限制</zh-CN>
 		<pt-BR>Limitados</pt-BR>
 		<ko>제한됨</ko>
+		<fixja>制限あり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW</zType>
@@ -136,6 +146,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>家族席位</zh-CN>
 		<pt-BR>Sedes familiares</pt-BR>
 		<ko>가문 영지</ko>
+		<fixja>居城</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE</zType>
@@ -149,6 +160,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>首都</zh-CN>
 		<pt-BR>Capitais</pt-BR>
 		<ko>수도</ko>
+		<fixja>首都</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY</zType>
@@ -162,6 +174,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>城市据点密度</zh-CN>
 		<pt-BR>Densidade do assentamento de cidade</pt-BR>
 		<ko>도시 부지 밀도</ko>
+		<fixja>街の敷地密度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH</zType>
@@ -175,6 +188,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>高</zh-CN>
 		<pt-BR>Alta</pt-BR>
 		<ko>높음</ko>
+		<fixja>高</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW</zType>
@@ -188,6 +202,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>低</zh-CN>
 		<pt-BR>Baixa</pt-BR>
 		<ko>낮음</ko>
+		<fixja>低</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_NEW_DESCRIPTION</zType>
@@ -201,6 +216,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>适合初次体验游戏。你可以依照意愿，选择最终只会发生战争。AI 会被显著削弱。</zh-CN>
 		<pt-BR>Adequada para uma primeira experiência. Você só entrará em guerra se quiser, a IA será consideravelmente mais fraca.</pt-BR>
 		<ko>처음 플레이하는 경우에 적합한 난이도입니다. 전쟁은 플레이어가 원할 때에만 일어납니다. AI가 매우 약합니다.</ko>
+		<fixja>初めてのプレイに向いている。戦争になるのは、あなたがそれを望んだときだけだ。AIの力は大幅に弱体化している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_ABLE_DESCRIPTION</zType>
@@ -214,6 +230,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>适合简单的沙盒游戏。你可以依照意愿选择最终只发生战争，系统会刻意降低电脑实力。</zh-CN>
 		<pt-BR>Adequado para uma partida fácil de estilo livre. Você só entrará em guerra se quiser, a IA será mais fraca de propósito.</pt-BR>
 		<ko>가볍고 자유로운 게임에 적합한 난이도입니다. 전쟁은 플레이어의 선전포고로만 일어나며, AI의 능력이 약화되어 있습니다.</ko>
+		<fixja>簡単なゲームを遊びたい人に適しています。あなたが戦争したい場合にのみ戦争が起き、AIも意図的に弱めています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_JUST_DESCRIPTION</zType>
@@ -227,6 +244,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>有助于了解游戏机制，你一开始会拥有优于电脑的地位，而电脑很少会发动攻击。</zh-CN>
 		<pt-BR>É uma boa escolha para aprender as mecânicas do jogo. Você começará em uma posição melhor do que a IA e ela raramente irá atacar.</pt-BR>
 		<ko>게임의 구조를 배우기 좋은 난이도입니다. 플레이어는 AI보다 유리한 위치에서 시작하고 AI는 플레이어를 거의 공격하지 않습니다.</ko>
+		<fixja>ゲームの仕組みを学ぶ上で、ちょうど良い難易度です。AIよりも有利な場所で開始することができ、AIは滅多に攻撃を仕掛けてきません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_GOOD_DESCRIPTION</zType>
@@ -240,6 +258,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>游戏的难度基准。游戏会预设背景是由已开发国家组成的旧世界，而你是一个新兴国家，因此电脑国家具备一定的发展程度。你的经济水准与电脑相同，而电脑会倾向维持和平。</zh-CN>
 		<pt-BR>Esta é a dificuldade padrão do jogo. Nações da IA começam já um pouco desenvolvidas, de acordo com a premissa do jogo: você é uma nova nação começando no Velho Mundo que já possui nações desenvolvidas. A sua economia será igual a da IA e ela ainda terá tendências pacíficas.</pt-BR>
 		<ko>게임의 기본 난이도입니다. 플레이어의 국가는 고대 세계에 새로이 탄생한 국가라는 설정을 따라 AI 국가들은 어느 정도 발전한 상태로 시작합니다. 플레이어와 AI의 경제 수준은 동등하며 세계는 전반적으로 평화롭습니다.</ko>
+		<fixja>このゲームのノーマル難易度です。「あなたは古代世界の数ある発展国の中の新興国」というゲームのテーマ通り、AIが操る国家はある程度発展した状態で開始されます。しかし、自国の経済力はAIのものと変わらず、まだまだ平和的と言えるでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_STRONG_DESCRIPTION</zType>
@@ -253,6 +272,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>第一个难度等级，此难度的电脑在战争中不受限制，可以更自由发动战争和使用link(CONCEPT_MARCH)。此难度也会更常发生部落突袭。</zh-CN>
 		<pt-BR>A primeira dificuldade na qual a IA não tem limitações de guerra. Ela irá declarar guerra com mais liberdade e usará link(CONCEPT_MARCH). Incursões tribais também são mais comuns.</pt-BR>
 		<ko>AI가 자유롭게 전쟁을 선포하고 link(CONCEPT_MARCH)을 명령할 수 있는 첫 번째 난이도입니다. 부족이 더 자주 침입합니다.</ko>
+		<fixja>AIが戦争面で制限されない初段階の難易度です。AIはより自由に宣戦布告を行い、link(CONCEPT_MARCH)を使用してきます。また、部族襲撃もより頻繁に発生します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_NOBLE_DESCRIPTION</zType>
@@ -266,6 +286,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>此阶段的难度更高，现有电脑国家的发展更完善，而靠近地图边界的城市会开始遭到部落突袭。</zh-CN>
 		<pt-BR>As dificuldades maiores começam a partir desta. As nações da IA são mais desenvolvidas e as cidades perto das bordas do mapa já não estão a salvo das incursões tribais.</pt-BR>
 		<ko>여기부터 고난이도가 시작됩니다. AI 국가는 플레이어 국가보다 더 발전된 상태로 시작하며 맵 가장자리에 있는 도시도 더 이상 부족의 침입에서 벗어날 수 없습니다.</ko>
+		<fixja>ここからが難しい難易度となります。既存のAI国家はより発展した状態で始まり、マップ端に近い都市でも部族襲撃に狙われてしまいます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_GLORIOUS_DESCRIPTION</zType>
@@ -279,6 +300,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>电脑的侵略性比之前的难度更高，且会更快发动攻击。部落单位会增加一点力竭点数，因此突袭者比以往更加危险。</zh-CN>
 		<pt-BR>A IA é mais agressiva do que nas dificuldades mais baixas e pode atacar mais cedo na partida. As unidades tribais têm um ponto adicional de fatiga, o que torna as incursões mais perigosas.</pt-BR>
 		<ko>낮은 난이도와 비교해 AI가 더욱 호전적으로 변하여 더 이른 시기에 플레이어를 공격합니다. 부족 유닛의 탈진 한계 또한 늘어나므로 침입자들의 위협이 매우 커집니다.</ko>
+		<fixja>AIがこれまでの難易度より攻撃的になり、より早い段階で攻撃を仕掛けてきます。部族ユニットは追加の疲弊ポイントを獲得し、襲撃隊が今まで以上に危険な存在となります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_MAGNIFICENT_DESCRIPTION</zType>
@@ -292,6 +314,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>令人棘手的难度。你的经济水准更低，而电脑国家一开始就拥有完善的发展。避免在初期陷入战争很重要，因为电脑国家起始拥有的资源足以轻松击溃你。</zh-CN>
 		<pt-BR>Uma dificuldade muito desafiadora na qual a sua economia é mais fraca e as nações da IA começam já bem desenvolvidas. Evitar guerras no início da partida é fundamental, pois as nações da IA começam com força o suficiente para lhe derrotar facilmente.</pt-BR>
 		<ko>아주 어려운 난이도입니다. AI 국가는 강대국 수준으로 발전한 채 시작하지만 플레이어 국가의 경제는 부실해집니다. AI가 쉽게 플레이어를 무너뜨릴 수 있으므로 초반에는 전쟁을 피하는 것이 중요합니다.</ko>
+		<fixja>自国の経済力がより弱く、AI国家は強大に発展した状態で開始される、非常に難しい難易度となります。AI国家は、あなたの国を壊滅させるのに十分な強さで開始され、序盤での戦争を避けていくことが重要となります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIFFICULTYMODE_GREAT_DESCRIPTION</zType>
@@ -305,6 +328,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>最高难度。除了起始的发展程度之外，电脑还会拥有部分经济红利，而且很快就会直接要求进贡或发动攻击。你会遭遇许多部落突袭和国内叛乱。</zh-CN>
 		<pt-BR>A dificuldade mais alta. A IA tem um bônus econômico moderado além de seu desenvolvimento inicial e não irá esperar muito antes de começar a exigir tributos ou a lhe atacar. Você enfrentará muitas incursões tribais e rebeldes da sua própria nação.</pt-BR>
 		<ko>가장 어려운 난이도입니다. 이미 발전한 AI 국가에 적정한 경제 보정까지 추가됩니다. 공물을 요구한 AI 국가는 오래 기다려 주지 않으며, 시간이 지나면 바로 플레이어를 공격합니다. 내란과 부족의 침입이 자주 발생합니다.</ko>
+		<fixja>最高難易度です。AIは開始時の発展レベルに加え、中程度の経済力ボーナスを獲得します。また、貢物を要求してきたり、全面攻撃を仕掛けてくるまでに時間はかかりません。多くの部族襲撃や自国内の反乱者とも対峙することになります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS_DESC</zType>
@@ -318,6 +342,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>显示异邦单位的家族颜色</zh-CN>
 		<pt-BR>Mostra as cores das famílias nas unidades estrangeiras</pt-BR>
 		<ko>타국 유닛에 가문의 색을 표시합니다.</ko>
+		<fixja>外国ユニットの氏族カラーを表示します</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
@@ -331,6 +356,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>于{1_terrain}对决{0_unit}：{2_attackValue} (近战战斗)</zh-CN>
 		<pt-BR>Contra {0_unit} sobre terreno tipo {1_terrain}: {2_attackValue} (combate Corpo a Corpo)</pt-BR>
 		<ko>{1_terrain} 위의 {0_unit} 유닛 상대: {2_attackValue} (근거리 전투)</ko>
+		<fixja>対 {1_terrain}上の{0_unit}：{2_attackValue}（近接戦闘）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_DEFENDING_CLEAR</zType>
@@ -344,6 +370,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>对决{0_unit} (若link(CONCEPT_CLEAR))：{1} (近战战斗)</zh-CN>
 		<pt-BR>Contra {0_unit} (se link(CONCEPT_CLEAR)): {1_value} (combate corpo a corpo)</pt-BR>
 		<ko>{0_unit}(link(CONCEPT_CLEAR) 상태라면) 상대: {1_value} (근거리 전투)</ko>
+		<fixja>対 {0_unit}（link(CONCEPT_CLEAR)の場合）：{1}(近接戦闘)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_OPTION_TEAM_NATIONS_CHARACTERS_WARNING</zType>
@@ -357,6 +384,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>启用非随机领袖人物时，国家不得重复。</zh-CN>
 		<pt-BR>As nações devem ser únicas na partida quando personagens com líderes não aleatórios estiverem habilitados</pt-BR>
 		<ko>무작위 지도자 설정을 활성화하지 않았다면 플레이어의 국가는 중복될 수 없습니다.</ko>
+		<fixja>指導者のランダム化を無効にしている場合、国家は特有のものでなければなりません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ENLIST</zType>
@@ -370,6 +398,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>入伍从军</zh-CN>
 		<pt-BR>Alistar</pt-BR>
 		<ko>포섭</ko>
+		<fixja>入隊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_LEADER</zType>
@@ -383,6 +412,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>link(CONCEPT_TUTOR)孩子</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4) Criança</pt-BR>
 		<ko>자손 link(CONCEPT_TUTOR)</ko>
+		<fixja>子供のlink(CONCEPT_TUTOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_COURTIER</zType>
@@ -396,6 +426,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>link(CONCEPT_TUTOR)孩子 (作为朝臣)</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4) Criança (como membro da corte)</pt-BR>
 		<ko>자손 link(CONCEPT_TUTOR) (신하로)</ko>
+		<fixja>子供をlink(CONCEPT_TUTOR)する（廷臣として）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MARCH_CONFIRM</zType>
@@ -409,6 +440,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>[按住hotkey(HOTKEY_CTRL)以确认]</zh-CN>
 		<pt-BR>[Segure hotkey(HOTKEY_CTRL) para confirmar]</pt-BR>
 		<ko>[hotkey(HOTKEY_CTRL) 길게 눌러 승인]</ko>
+		<fixja>［hotkey(HOTKEY_CTRL)長押しで決定します］</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENLIST_NEXT</zType>
@@ -422,6 +454,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>招募下一个击杀者</zh-CN>
 		<pt-BR>Alistar próximo abate</pt-BR>
 		<ko>다음 처치한 유닛 포섭</ko>
+		<fixja>次の撃破時に徴兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENLIST_NEXT_F</zType>
@@ -435,6 +468,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>招募下一个击杀者</zh-CN>
 		<pt-BR>Alistar próximo abate</pt-BR>
 		<ko>다음 처치한 유닛 포섭</ko>
+		<fixja>次の撃破時に徴兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_SELF</zType>
@@ -448,6 +482,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>可以对此单位应用 {0_value}</zh-CN>
 		<pt-BR>Pode aplicar {0_value} a esta unidade</pt-BR>
 		<ko>이 유닛에게 {0_value} 적용 가능</ko>
+		<fixja>このユニットに{0_value}適用可能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_0_SELF</zType>
@@ -461,6 +496,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>可以对此单位应用 {0_value}，直到下一回合开始</zh-CN>
 		<pt-BR>Pode aplicar {0_value} a esta unidade até o início do próximo turno</pt-BR>
 		<ko>다음 턴이 시작될 때까지 이 유닛에게 {0_value} 적용 가능</ko>
+		<fixja>次のターンの開始時まで、このユニットに{0_value}を適用可能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_NUM_SELF</zType>
@@ -474,6 +510,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>可以对此单位应用 {0_value}，持续 {1_num}{2_turnScale}</zh-CN>
 		<pt-BR>Pode aplicar {0_value} a esta unidade por {1_num} {2_turnScale}</pt-BR>
 		<ko>{1_num}{2_turnScale} 동안 이 유닛에게 {0_value} 적용 가능</ko>
+		<fixja>{1_num} {2_turnScale}、このユニットに{0_value}適用可能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ONE_CITY_CHALLENGE</zType>
@@ -487,6 +524,7 @@ Um personagem pode, então, ser enviado à cidade como link(CONCEPT_AGENT) para 
 		<zh-CN>单城挑战 (One City Challenge，简称 OCC) 是限制真人玩家仅可建造link(CONCEPT_CAPITAL)一个城市的游戏模式。真人玩家无法建立link(UNIT_SETTLER,2)、建造超过一个城市，或占领其他link(CONCEPT_NATION,2)的城市 (真人玩家占领的城市会停留在无政府状态)。若要游玩 OCC 游戏，请在建立新游戏时，在进阶设定选单开启「单城挑战」开关。</zh-CN>
 		<pt-BR><![CDATA[O desafio de uma cidade (OCC, <i>one city challenge</i> em inglês) é um modo de jogo no qual jogadores humanos estão limitados a ter apenas uma cidade, sua link(CONCEPT_CAPITAL). Jogadores humanos não serão capazes de criar link(UNIT_SETTLER,2), fundar mais de uma cidade ou tomar cidades de outras link(CONCEPT_NATION,2) (cidades tomadas por jogadores humanos permanecerão anárquicas). Para jogar uma partida OCC, ative a opção "desafio de uma cidade" no menu de configurações avançadas quando estiver criando uma nova partida.]]></pt-BR>
 		<ko>단일 도시 도전(흔히 OCC/원시티로 불립니다)은 link(CONCEPT_CAPITAL)로 설정할 도시 단 하나만으로 게임을 플레이할 수 있는 제한 설정입니다. 플레이어는 link(UNIT_SETTLER,2) 유닛을 생산하거나 또 다른 도시를 설립할 수 없고, 다른 link(CONCEPT_NATION,2)의 도시를 점령할 수도 없습니다(플레이어가 점거한 도시는 무정부 상태로 유지됩니다). 단일 도시에 도전하려면, 새로운 게임을 시작할 때 고급 설정 메뉴에서 "단일 도시 도전" 설정을 켜십시오.</ko>
+		<fixja>「1都市チャレンジ」は、人間のプレイヤーの都市の所持上限を1つにします。つまりlink(CONCEPT_CAPITAL)のみでプレイをするゲームモードです。人間のプレイヤーはlink(UNIT_SETTLER,2)の生産、1つ以上の都市の設立、または他のlink(CONCEPT_NATION,2)の都市の占拠が行えません（人間のプレイヤーが占拠した都市は、無政府状態のままとなります）。このモードを遊ぶには、新規ゲームを作成する際に、「詳細設定」のメニューから「1都市チャレンジ」を有効にしてください。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ICNOGRAPHY_CALLIGRAPHY_LAW_STRATNOTES</zType>
@@ -520,6 +558,9 @@ E escolha entre essas leis normalmente será fácil de acordo com seus investime
 		<ko>link(LAW_ICONOGRAPHY)과 link(LAW_CALLIGRAPHY)는 "수도원 보정 (매 턴 +2 link(YIELD_TRAINING)), 대성당 보정 (매 턴 +2 link(YIELD_HAPPINESS)), 사원 보정 (매 턴 +20 link(YIELD_MONEY))"과 "도서관, 학술원, 대학이 매 턴 +4 link(YIELD_CULTURE)를 생산 및 원로 전문직이 매 턴 +1 link(YIELD_HAPPINESS)를 생산" 중 하나를 선택하는 법률입니다.
 
 이 법률들은 이전 투자에 따라 쉽게 선택을 내릴 수 있습니다. 만약 종교 건물에 많이 투자했다면 도상학에서 오는 이익이 클 것이고, 도서관과 link(YIELD_CULTURE)에 집중했다면 서예를 제정해 더욱 성장할 수 있을 것입니다. 도상학은 매 턴 유지비로 link(YIELD_MONEY)을, 서예는 link(YIELD_CIVICS)을 지불해야 한다는 것 또한 고려해야 합니다. </ko>
+		<fixja>修道院（毎ターンlink(YIELD_TRAINING,1)+2）、大聖堂（毎ターンlink(YIELD_HAPPINESS,1)+2）、寺院（毎ターンlink(YIELD_MONEY,1)+20）のボーナスを獲得するか、あるいは図書館（アカデミーと大学を含む）毎ターン+4、link(YIELD_CULTURE,1)を生み出し、老専門家が毎ターンlink(YIELD_HAPPINESS,1)+1を得るか。それらは、link(LAW_ICONOGRAPHY)とlink(LAW_CALLIGRAPHY)のどちらを選ぶかで決まる。
+
+これらの法律は、これまでの投資によって簡単に選択できることが多い。宗教建築への投資が多い場合、「イコノグラフィー（図像学）」が有益に働くことがある。また、図書館やlink(YIELD_CULTURE,1)に注力している場合は、「カリグラフィ」が大きく国を前進させるだろう。「イコノグラフィー」は毎ターン、維持費をlink(YIELD_MONEY,1)で支払い、「カリグラフィ」はlink(YIELD_CIVICS,1)で支払わなければならない点も頭に入れておくべきだ。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUILDS_ELITES_LAW_STRATNOTES</zType>
@@ -551,6 +592,9 @@ Pour un jeu paisible, les guildes sont un outil puissant contre le mécontenteme
 
 Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a insatisfação. Porém, a habilidade das elites em acumular link(YIELD_ORDERS,1) representa uma vantagem incomparável para guerras em jogos já avançados, especialmente se combinada com habilidades que geram ordens, como as da link(NATION_ASSYRIA).</pt-BR>
 		<ko>link(LAW_GUILDS)과 link(LAW_ELITES)는 "link(IMPROVEMENT_TOWN) 하나당 +1 link(YIELD_HAPPINESS) 및 반란 확률 -1%"와 "턴마다 최대 100 link(YIELD_ORDERS)을 저장 가능 및 전설 문화를 보유한 도시마다 +2 link(YIELD_ORDERS)" 중 하나를 선택하는 법률입니다.평화로운 플레이를 원한다면 장인 조합을 선택해 불만도를 잠재울 수 있습니다. 하지만 정예의 link(YIELD_ORDERS) 저장 기능은 게임 후반에 일어나는 전쟁에서 대단히 유용하게 사용할 수 있습니다. 특히 link(NATION_ASSYRIA)의 명령권 생성 등과 상승효과가 큽니다.</ko>
+		<fixja>各link(IMPROVEMENT_TOWN)につき、link(YIELD_HAPPINESS,1)+1と反乱の確率を10%減少させるか、またはターン間に最大link(YIELD_ORDERS,1)を100蓄積する能力と、伝説の文化を持つ都市ごとにlink(YIELD_ORDERS,1)を2得るか。これらは、link(LAW_GUILDS)かlink(LAW_ELITES)のどちらを選ぶかで決まる。
+
+平和なゲーム展開を望む場合、ギルドはゲーム終盤の不満対策として強力な手段となり得る。しかしながら、「精鋭」からのlink(YIELD_ORDERS,1)を保持する能力──特にlink(NATION_ASSYRIA)のような命令生成能力と組み合わせると、終盤の戦争においては比類無き力を振るえる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
@@ -564,6 +608,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>亲属</zh-CN>
 		<pt-BR>Parentes</pt-BR>
 		<ko/>
+		<fixja>親族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_DAMAGED_OCCURRENCE_LOG_DATA</zType>
@@ -577,6 +622,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>{0_unit}被{1,1_occurrence}毁坏 (剩余生命值{2})。</zh-CN>
 		<pt-BR>{0,3_unit} sofreu dano devido a {1,1_occurrence} (restam {2_hp} PD).</pt-BR>
 		<ko>{0_unit} 유닛이 {1,1_occurrence}(으)로 손상되었습니다.</ko>
+		<fixja>{0_unit}が{1,1_occurrence}によって、損害を受けた。（残りHP{2}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
@@ -590,6 +636,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}的攻击。</zh-CN>
 		<pt-BR>{0,3_unit} foi atacada por {2,1_unit} ({1_owner}).</pt-BR>
 		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 공격당했습니다.</ko>
+		<fixja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_CRITICAL_LOG_DATA</zType>
@@ -603,6 +650,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>{0_unit}遭到{1,2_owner}{2_unit}的link(CONCEPT_CRITICAL_HIT)</zh-CN>
 		<pt-BR>{0,3_unit} recebeu link(CONCEPT_CRITICAL_HIT) de {2,1_unit} ({1_owner})</pt-BR>
 		<ko>{0_unit} 유닛이 {1,2_owner} {2_unit}에게 link(CONCEPT_CRITICAL_HIT)를 맞았습니다</ko>
+		<fixja>{0_unit}は、{1,2_owner}の{2_unit}からlink(CONCEPT_CRITICAL_HIT)を受けました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_EVENT_LOG_UNIT_REVEALED</zType>
@@ -616,6 +664,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>当前可视单位</zh-CN>
 		<pt-BR>Unidade agora visível</pt-BR>
 		<ko>이제 유닛이 보입니다</ko>
+		<fixja>ユニット表示中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PAGAN_CLERGY</zType>
@@ -629,6 +678,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，异教神职人员可以通过link(MISSION_PAGAN_SACRIFICES)任务来提高异教城市的link(YIELD_HAPPINESS)，还能提高成为下一任宗教领袖的几率。</zh-CN>
 		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero pagão podem usar a missão de link(MISSION_PAGAN_SACRIFICES) para aumentar a link(YIELD_HAPPINESS) em cidades pagãs e têm uma chance maior de se tornarem o próximo líder religioso.</pt-BR>
 		<ko>다신교 성직자는 link(CONCEPT_CLERGY) 효과가 제공고, 다신교 도시에서 link(MISSION_PAGAN_SACRIFICES) 임무를 통해 link(YIELD_HAPPINESS)를 늘릴 수 있으며, 차기 교주가 될 확률이 증가합니다.</ko>
+		<fixja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_WORLD_CLERGY</zType>
@@ -642,6 +692,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，世界神职人员可以通过link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)任务平定城市中的link(CONCEPT_RELIGIOUS_DISSENT)，而不会引起link(YIELD_DISCONTENT)，还可以在相应宗教的城市中充当link(CONCEPT_AGENT,2)。</zh-CN>
 		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero das religiões mundiais podem usar a missão de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) para remover link(CONCEPT_RELIGIOUS_DISSENT) de cidades sem provocar link(YIELD_DISCONTENT) e também podem atuar como link(CONCEPT_AGENT,2) em cidades de sua religião</pt-BR>
 		<ko>세계 종교 성직자는 link(CONCEPT_CLERGY) 효과가 제공되고, link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) 임무를 통해 link(YIELD_DISCONTENT) 증가 없이 도시의 link(CONCEPT_RELIGIOUS_DISSENT)을 제거할 수 있으며, 같은 종교를 믿는 도시에서 link(CONCEPT_AGENT,2)으로 활용할 수 있습니다.</ko>
+		<fixja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
@@ -655,6 +706,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>神职人员是你宫廷中代表其link(CONCEPT_RELIGION)的人员。每名神职人员对你的个人看法，会提高或降低其宗教对你的好感。你可以通过link(MISSION_MAKE_CLERGY)任务任命神职人员。他们可以作为link(CONCEPT_TUTOR,1)活动，如果他们是link(CONCEPT_PAGAN_CLERGY)或link(CONCEPT_WORLD_CLERGY)还会拥有额外的能力。</zh-CN>
 		<pt-BR>Os clero é composto por representantes de suas respectivas link(CONCEPT_RELIGION,2) em sua corte. Cada membro do clero concede um bônus à opinião da religião deles, aumentado ou diminuído de acordo com a opinião pessoal deles sobre você. O clero pode ser formado coma missão link(MISSION_MAKE_CLERGY). Eles podem trabalhar como link(CONCEPT_TUTOR,2) e ter habilidades adicionais a depender se são link(CONCEPT_PAGAN_CLERGY) ou link(CONCEPT_WORLD_CLERGY).</pt-BR>
 		<ko>성직자는 당신 궁정의 link(CONCEPT_RELIGION)를 대표하는 사람입니다. 각 성직자는 종교의 태도에 보정을 주며 당신에 대한 개인적인 태도에 따라 증가하거나 감소합니다. 성직자는 link(MISSION_MAKE_CLERGY) 임무를 통해 생성할 수 있습니다. 성직자는 link(CONCEPT_TUTOR,1)가 될 수 있으며 link(CONCEPT_PAGAN_CLERGY) 혹은 link(CONCEPT_WORLD_CLERGY)에 따라 추가 능력이 있습니다.</ko>
+		<fixja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_GOAL_HELP_COMPLETE_MISSIONS</zType>
@@ -668,6 +720,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>完成 {0_num} 项{1_mission}{singular_0:任务:任务}</zh-CN>
 		<pt-BR>Complete {0_num} {1_mission} {singular_0:missão:missões}</pt-BR>
 		<ko>{1_mission} 임무 {0_num}개를 완료</ko>
+		<fixja>{1_mission}ミッションを{0_num}回完了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_0</zType>
@@ -681,6 +734,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>link(THEOLOGY_GNOSTICISM)才能引领人们通往真理。</zh-CN>
 		<pt-BR>O link(THEOLOGY_GNOSTICISM) é o caminho da verdade.</pt-BR>
 		<ko>link(THEOLOGY_GNOSTICISM)가 진리의 길이다.</ko>
+		<fixja>link(THEOLOGY_GNOSTICISM)こそ真実の道である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_1</zType>
@@ -694,6 +748,7 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>link(THEOLOGY_DUALISM)展示了世界的真实秩序。</zh-CN>
 		<pt-BR>O link(THEOLOGY_DUALISM) mostra a verdadeira ordem do mundo.</pt-BR>
 		<ko>세상의 진정한 질서는 link(THEOLOGY_DUALISM)에 있다.</ko>
+		<fixja>link(THEOLOGY_DUALISM)は世に真の秩序をもたらしている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEEP_DIVISIONS</zType>
@@ -727,6 +782,9 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<ko>{CHARACTER-1}(이)가 당신을 찾아와 {RELIGION-0,1} 공동체를 갈라놓은 위험한 분열을 경고하였습니다. {CITY-2}의 {S0.PRIEST,2}들이 link(THEOLOGY_GNOSTICISM)의 이상을 옹호하는 동안 {CITY-3}의 {S0.PRIEST,2}들은 link(THEOLOGY_DUALISM)의 원칙을 지지하고 있습니다.
 
 이 분열을 봉합할 수 없었던 {CHARACTER-1}(이)가 당신의 지원을 바랍니다.</ko>
+		<fixja>{CHARACTER-1}があなたのもとに、{RELIGION-0,1}の信者たちが危険なかたちで分裂しそうだと警告しに来た。{CITY-2}の{S0.PRIEST,2}たちは、link(THEOLOGY_GNOSTICISM)を理想と掲げているが、{CITY-3}の{S0.PRIEST,2}たちはlink(THEOLOGY_DUALISM)の考え方を支持している。
+
+{CHARACTER-1}にはその溝を埋めることができず、あなたの助力を求めている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_MIRROR_HELP</zType>
@@ -740,5 +798,6 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<zh-CN>东西对称地图。</zh-CN>
 		<pt-BR>Mapa simétrico Leste-Oeste.</pt-BR>
 		<ko>동쪽과 서쪽이 대칭을 이루는 맵입니다.</ko>
+		<fixja>東西対称のマップ。</fixja>
 	</Entry>
 </Root>

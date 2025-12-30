@@ -14,6 +14,7 @@
 		<zh-CN>奥古斯都</zh-CN>
 		<pt-BR>Augusto</pt-BR>
 		<ko>아우구스투스</ko>
+		<fixja>アウグストゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AUGUSTUS_HISTORICAL</zType>
@@ -27,6 +28,7 @@
 		<zh-CN>盖乌斯·屋大维，后称凯撒·奥古斯都</zh-CN>
 		<pt-BR>Gaius Octavius, posteiormente Caesar Augustus</pt-BR>
 		<ko>가이우스 옥타비우스, 이후 카이사르 아우구스투스</ko>
+		<fixja>ガイウス・オクタウィウス、後のカエサル・アウグストゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_JULIUS_CAESAR</zType>
@@ -40,6 +42,7 @@
 		<zh-CN>凯撒</zh-CN>
 		<pt-BR>César</pt-BR>
 		<ko>카이사르</ko>
+		<fixja>カエサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_JULIUS_CAESAR_HISTORICAL</zType>
@@ -53,6 +56,7 @@
 		<zh-CN>盖乌斯·尤利乌斯·凯撒</zh-CN>
 		<pt-BR>Gaius Julius Caesar</pt-BR>
 		<ko>가이우스 율리우스 카이사르</ko>
+		<fixja>ガイウス・ユリウス・カエサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAIUS_MARIUS</zType>
@@ -66,6 +70,7 @@
 		<zh-CN>马略</zh-CN>
 		<pt-BR>Mário</pt-BR>
 		<ko>마리우스</ko>
+		<fixja>マリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAIUS_MARIUS_HISTORICAL</zType>
@@ -79,6 +84,7 @@
 		<zh-CN>盖乌斯·马略</zh-CN>
 		<pt-BR>Gaius Marius</pt-BR>
 		<ko>가이우스 마리우스</ko>
+		<fixja>ガイウス・マリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SULLA</zType>
@@ -92,6 +98,7 @@
 		<zh-CN>苏拉</zh-CN>
 		<pt-BR>Sula</pt-BR>
 		<ko>술라</ko>
+		<fixja>スッラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SULLA_HISTORICAL</zType>
@@ -105,6 +112,7 @@
 		<zh-CN>卢修斯·科尔内利乌斯·苏拉·费利克斯</zh-CN>
 		<pt-BR>Lucius Cornelius Sulla Felix</pt-BR>
 		<ko>루키우스 코르넬리우스 술라 펠릭스</ko>
+		<fixja>ルキウス・コルネリウス・スッラ・フェリクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCIPIO</zType>
@@ -118,6 +126,7 @@
 		<zh-CN>西庇阿</zh-CN>
 		<pt-BR>Cipião</pt-BR>
 		<ko>스키피오</ko>
+		<fixja>スキピオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCIPIO_HISTORICAL_LEADER</zType>
@@ -131,6 +140,7 @@
 		<zh-CN>普布利乌斯·科尔内利乌斯·西庇阿·阿非利加努斯</zh-CN>
 		<pt-BR>Publius Cornelius Scipio Africanus</pt-BR>
 		<ko>푸블리우스 코르넬리우스 스키피오 아프리카누스</ko>
+		<fixja>プブリウス・コルネリウス・スキピオ・アフリカヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCIPIO_HISTORICAL</zType>
@@ -144,6 +154,7 @@
 		<zh-CN>普布利乌斯·科尔内利乌斯·西庇阿·阿非利加努斯·埃米利安努斯</zh-CN>
 		<pt-BR>Publius Cornelius Scipio Africanus Aemilianus</pt-BR>
 		<ko>푸블리우스 코르넬리우스 스키피오 아프리카누스 아이밀리아누스</ko>
+		<fixja>プブリウス・コルネリウス・スキピオ・アフリカヌス・アエミリアヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCIPIO_AFRICANUS</zType>
@@ -157,6 +168,7 @@
 		<zh-CN>西庇阿·阿非利加努斯</zh-CN>
 		<pt-BR>Cipião Africano</pt-BR>
 		<ko>스키피오 아프리카누스</ko>
+		<fixja>スキピオ・アフリカヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCIPIO_AFRICANUS_HISTORICAL</zType>
@@ -170,6 +182,7 @@
 		<zh-CN>普布利乌斯·科尔内利乌斯·西庇阿·阿非利加努斯</zh-CN>
 		<pt-BR>Publius Cornelius Scipio Africanus</pt-BR>
 		<ko>푸블리우스 코르넬리우스 스키피오 아프리카누스</ko>
+		<fixja>プブリウス・コルネリウス・スキピオ・アフリカヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLAUDIUS</zType>
@@ -183,6 +196,7 @@
 		<zh-CN>克劳狄乌斯</zh-CN>
 		<pt-BR>Cláudio</pt-BR>
 		<ko>클라우디우스</ko>
+		<fixja>クラウディウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLAUDIUS_HISTORICAL</zType>
@@ -196,6 +210,7 @@
 		<zh-CN>提比略·克劳狄乌斯·尼禄·日耳曼尼库斯</zh-CN>
 		<pt-BR>Tiberius Claudius Nero Germanicus</pt-BR>
 		<ko>티베리우스 클라우디우스 네로 게르마니쿠스</ko>
+		<fixja>ティベリウス・クラウディウス・ネロ・カエサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NERO</zType>
@@ -209,6 +224,7 @@
 		<zh-CN>塞内加</zh-CN>
 		<pt-BR>Nero</pt-BR>
 		<ko>네로</ko>
+		<fixja>ネロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NERO_HISTORICAL</zType>
@@ -222,6 +238,7 @@
 		<zh-CN>卢修斯·多米提乌斯·阿赫诺巴布斯</zh-CN>
 		<pt-BR>Lucius Domitius Ahenobarbus</pt-BR>
 		<ko>루키우스 도미티우스 아헤노바르부스</ko>
+		<fixja>ルキウス・ドミティウス・アヘノバルブス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENECA</zType>
@@ -235,6 +252,7 @@
 		<zh-CN>塞内加</zh-CN>
 		<pt-BR>Sêneca</pt-BR>
 		<ko>세네카</ko>
+		<fixja>セネカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENECA_HISTORICAL</zType>
@@ -248,6 +266,7 @@
 		<zh-CN>小卢修斯·安尼乌斯·塞内加</zh-CN>
 		<pt-BR>Lucius Annaeus Seneca, o Jovem</pt-BR>
 		<ko>소 루키우스 안나이우스 세네카</ko>
+		<fixja>ルキウス・アンナエウス・セネカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CALIGULA</zType>
@@ -261,6 +280,7 @@
 		<zh-CN>卡利古拉</zh-CN>
 		<pt-BR>Calígula</pt-BR>
 		<ko>칼리굴라</ko>
+		<fixja>カリギュラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CALIGULA_HISTORICAL</zType>
@@ -274,6 +294,7 @@
 		<zh-CN>盖乌斯·尤利乌斯·凯撒·奥古斯都·日耳曼尼库斯</zh-CN>
 		<pt-BR>Gaius Julius Caesar Augustus Germanicus</pt-BR>
 		<ko>가이우스 율리우스 카이사르 아우구스투스 게르마니쿠스</ko>
+		<fixja>ガイウス・ユリウス・カエサル・アウグストゥス・ゲルマニクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GERMANICUS</zType>
@@ -287,6 +308,7 @@
 		<zh-CN>日耳曼尼库斯</zh-CN>
 		<pt-BR>Germânico</pt-BR>
 		<ko>게르마니쿠스</ko>
+		<fixja>ゲルマニクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GERMANICUS_HISTORICAL</zType>
@@ -300,6 +322,7 @@
 		<zh-CN>日耳曼尼库斯·尤利乌斯·凯撒</zh-CN>
 		<pt-BR>Germanicus Julius Caesar</pt-BR>
 		<ko>게르마니쿠스 율리우스 카이사르</ko>
+		<fixja>ゲルマニクス・ユリウス・カエサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_JULIA</zType>
@@ -313,6 +336,7 @@
 		<zh-CN>朱莉娅</zh-CN>
 		<pt-BR>Júlia</pt-BR>
 		<ko>율리아</ko>
+		<fixja>ユリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POMPEY</zType>
@@ -326,6 +350,7 @@
 		<zh-CN>庞培</zh-CN>
 		<pt-BR>Pompeu</pt-BR>
 		<ko>폼페이우스</ko>
+		<fixja>ポンペイウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POMPEY_HISTORICAL</zType>
@@ -339,6 +364,7 @@
 		<zh-CN>格涅乌斯·庞培·马格努斯</zh-CN>
 		<pt-BR>Gnaeus Pompeius Magnus</pt-BR>
 		<ko>그나이우스 폼페이우스 마그누스</ko>
+		<fixja>グナエウス・ポンペイウス・マグヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARK_ANTHONY</zType>
@@ -352,6 +378,7 @@
 		<zh-CN>马克·安东尼</zh-CN>
 		<pt-BR>Marco Antônio</pt-BR>
 		<ko>마르쿠스 안토니우스</ko>
+		<fixja>マーク・アンソニー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARK_ANTHONY_HISTORICAL</zType>
@@ -365,6 +392,7 @@
 		<zh-CN>马库斯·安东尼乌斯</zh-CN>
 		<pt-BR>Marcus Antonius</pt-BR>
 		<ko>마르쿠스 안토니우스</ko>
+		<fixja>マルクス・アントニウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CORNELIUS</zType>
@@ -378,6 +406,7 @@
 		<zh-CN>科尔内利乌斯</zh-CN>
 		<pt-BR>Cornélio</pt-BR>
 		<ko>코르넬리우스</ko>
+		<fixja>コルネリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CAECILIA</zType>
@@ -391,6 +420,7 @@
 		<zh-CN>塞琉西亚</zh-CN>
 		<pt-BR>Cecília</pt-BR>
 		<ko>카이킬리아</ko>
+		<fixja>カエキリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FAUSTA</zType>
@@ -404,6 +434,7 @@
 		<zh-CN>法乌斯塔</zh-CN>
 		<pt-BR>Fausta</pt-BR>
 		<ko>파우스타</ko>
+		<fixja>ファウスタ</fixja>
 	</Entry>
 	<!-- Egypt -->
 	<Entry>
@@ -418,6 +449,7 @@
 		<zh-CN>𓌺𓂋𓋎 (mry-nt)/埃及</zh-CN>
 		<pt-BR>𓌺𓂋𓋎 (mry-nt)</pt-BR>
 		<ko>𓌺𓂋𓋎 (mry-nt)</ko>
+		<fixja>𓌺𓂋𓋎（メルネイト）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHUFU_HISTORICAL</zType>
@@ -431,6 +463,7 @@
 		<zh-CN>𓐍𓅱𓆑𓅱 (ḫwfw)/奥古斯都</zh-CN>
 		<pt-BR>𓐍𓅱𓆑𓅱 (ḫwfw)</pt-BR>
 		<ko>𓐍𓅱𓆑𓅱 (ḫwfw)</ko>
+		<fixja>𓐍𓅱𓆑𓅱 （クフ）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MENTUHOTEP_II_HISTORICAL</zType>
@@ -444,6 +477,7 @@
 		<zh-CN>𓅧𓇳𓏠𓈖𓍿𓅱𓊵𓏏𓊪 (mnṯw-ḥtp)/曼图霍特普</zh-CN>
 		<pt-BR>𓅧𓇳𓏠𓈖𓍿𓅱𓊵𓏏𓊪 (mnṯw-ḥtp)</pt-BR>
 		<ko>𓅧𓇳𓏠𓈖𓍿𓅱𓊵𓏏𓊪 (mnṯw-ḥtp)</ko>
+		<fixja>𓅧𓇳𓏠𓈖𓍿𓅱𓊵𓏏𓊪（メンチュヘテプ）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKHENATEN_HISTORICAL</zType>
@@ -457,6 +491,7 @@
 		<zh-CN>𓇋𓏏𓈖𓇳𓅜𓐍𓈖 (Ꜣḫ-n-itn)/奥古斯都</zh-CN>
 		<pt-BR>𓇋𓏏𓈖𓇳𓅜𓐍𓈖 (Ꜣḫ-n-itn)</pt-BR>
 		<ko>𓇋𓏏𓈖𓇳𓅜𓐍𓈖 (Ꜣḫ-n-itn)</ko>
+		<fixja>𓇋𓏏𓈖𓇳𓅜𓐍𓈖（アクエンアテン）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RAMESSES_II_HISTORICAL</zType>
@@ -470,6 +505,7 @@
 		<zh-CN>𓇋𓏠𓈖𓈘𓇳𓏤𓄟𓋴𓇓 (rꜤ-msi-sw mri-imn)/拉美西斯</zh-CN>
 		<pt-BR>𓇋𓏠𓈖𓈘𓇳𓏤𓄟𓋴𓇓 (rꜤ-msi-sw mri-imn)</pt-BR>
 		<ko>𓇋𓏠𓈖𓈘𓇳𓏤𓄟𓋴𓇓 (rꜤ-msi-sw mri-imn)</ko>
+		<fixja>𓇋𓏠𓈖𓈘𓇳𓏤𓄟𓋴𓇓（ラムセス）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MERNEITH</zType>
@@ -483,6 +519,7 @@
 		<zh-CN>美丽奈茨</zh-CN>
 		<pt-BR>Merneite</pt-BR>
 		<ko>메르네이트</ko>
+		<fixja>メルネイト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DJET</zType>
@@ -496,6 +533,7 @@
 		<zh-CN>德杰特</zh-CN>
 		<pt-BR>Jete</pt-BR>
 		<ko>제트</ko>
+		<fixja>ジェト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DEN</zType>
@@ -509,6 +547,7 @@
 		<zh-CN>丹</zh-CN>
 		<pt-BR>Den</pt-BR>
 		<ko>덴</ko>
+		<fixja>デン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SNEFERU</zType>
@@ -522,6 +561,7 @@
 		<zh-CN>斯尼夫鲁</zh-CN>
 		<pt-BR>Seneferu</pt-BR>
 		<ko>스네페루</ko>
+		<fixja>スネフェル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MERITITES</zType>
@@ -535,6 +575,7 @@
 		<zh-CN>美莉缇丝</zh-CN>
 		<pt-BR>Meritités</pt-BR>
 		<ko>메리티테스</ko>
+		<fixja>メリタテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_INTEF</zType>
@@ -548,6 +589,7 @@
 		<zh-CN>因泰弗</zh-CN>
 		<pt-BR>Intefe</pt-BR>
 		<ko>인테프</ko>
+		<fixja>アンテフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TEM</zType>
@@ -561,6 +603,7 @@
 		<zh-CN>特姆</zh-CN>
 		<pt-BR>Tem</pt-BR>
 		<ko>템</ko>
+		<fixja>テム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEFERU</zType>
@@ -574,6 +617,7 @@
 		<zh-CN>尼弗鲁</zh-CN>
 		<pt-BR>Neferu</pt-BR>
 		<ko>네페루</ko>
+		<fixja>ネフェル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SMENKHKARE</zType>
@@ -587,6 +631,7 @@
 		<zh-CN>斯门卡瑞</zh-CN>
 		<pt-BR>Semencaré</pt-BR>
 		<ko>스멘크카레</ko>
+		<fixja>スメンクカーラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RAMESSES</zType>
@@ -600,6 +645,7 @@
 		<zh-CN>拉美西斯</zh-CN>
 		<pt-BR>Ramessés</pt-BR>
 		<ko>람세스</ko>
+		<fixja>ラムセス</fixja>
 	</Entry>
 	<!-- Hatti -->
 	<Entry>
@@ -614,6 +660,7 @@
 		<zh-CN>苏庇路里乌玛</zh-CN>
 		<pt-BR>Suppiluliuma</pt-BR>
 		<ko>수필룰리우마</ko>
+		<fixja>シュッピルリウマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANTILI</zType>
@@ -627,6 +674,7 @@
 		<zh-CN>汉提里</zh-CN>
 		<pt-BR>Hantili</pt-BR>
 		<ko>한틸리</ko>
+		<fixja>ハンティリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARNUWANDA</zType>
@@ -640,6 +688,7 @@
 		<zh-CN>阿尔努旺达</zh-CN>
 		<pt-BR>Arnuanda</pt-BR>
 		<ko>아르누완다</ko>
+		<fixja>アルヌワンダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MUWATTI</zType>
@@ -653,6 +702,7 @@
 		<zh-CN>穆瓦提</zh-CN>
 		<pt-BR>Muwatti</pt-BR>
 		<ko>무와티</ko>
+		<fixja>ムワッティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUDHALIYA</zType>
@@ -666,6 +716,7 @@
 		<zh-CN>图达里亚</zh-CN>
 		<pt-BR>Tudália</pt-BR>
 		<ko>투드할리야</ko>
+		<fixja>トゥドハリヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DADUHEPA</zType>
@@ -679,6 +730,7 @@
 		<zh-CN>达杜荷帕</zh-CN>
 		<pt-BR>Daduhepa</pt-BR>
 		<ko>다두헤파</ko>
+		<fixja>ダドゥ・ヘパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HARAPSILI</zType>
@@ -692,6 +744,7 @@
 		<zh-CN>哈菈普希里</zh-CN>
 		<pt-BR>Harapsili</pt-BR>
 		<ko>하랍실리</ko>
+		<fixja>ハラプ・シリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AYATARZA</zType>
@@ -705,6 +758,7 @@
 		<zh-CN>阿雅塔扎</zh-CN>
 		<pt-BR>Ayatarza</pt-BR>
 		<ko>아야타르자</ko>
+		<fixja>アヤターザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PISENI</zType>
@@ -718,6 +772,7 @@
 		<zh-CN>皮瑟尼</zh-CN>
 		<pt-BR>Piseni</pt-BR>
 		<ko>피세니</ko>
+		<fixja>ピセニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MURSILI</zType>
@@ -731,6 +786,7 @@
 		<zh-CN>穆尔西里</zh-CN>
 		<pt-BR>Mursili</pt-BR>
 		<ko>무르실리</ko>
+		<fixja>ムルシリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZIDANTA</zType>
@@ -744,6 +800,7 @@
 		<zh-CN>兹丹塔</zh-CN>
 		<pt-BR>Zidanta</pt-BR>
 		<ko>지단타</ko>
+		<fixja>ツィダンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PUDUHEPA</zType>
@@ -757,6 +814,7 @@
 		<zh-CN>普度赫帕</zh-CN>
 		<pt-BR>Puduhepa</pt-BR>
 		<ko>푸두헤파</ko>
+		<fixja>プドゥヘパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KURUNTA</zType>
@@ -770,6 +828,7 @@
 		<zh-CN>库伦塔</zh-CN>
 		<pt-BR>Kurunta</pt-BR>
 		<ko>쿠룬타</ko>
+		<fixja>クルンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HENTI</zType>
@@ -783,6 +842,7 @@
 		<zh-CN>亨提</zh-CN>
 		<pt-BR>Henti</pt-BR>
 		<ko>헨티</ko>
+		<fixja>ヘンティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NUVANZA</zType>
@@ -796,6 +856,7 @@
 		<zh-CN>努万扎</zh-CN>
 		<pt-BR>Nuvanza</pt-BR>
 		<ko>누반자</ko>
+		<fixja>ヌヴァンザ</fixja>
 	</Entry>
 	<!-- Babylonia -->
 	<Entry>
@@ -810,6 +871,7 @@
 		<zh-CN>尼布甲尼撒 (𒁹𒀭𒀝𒃻𒁺𒋀)</zh-CN>
 		<pt-BR>Nabû-Kudurri-Uṣur (𒁹𒀭𒀝𒃻𒁺𒋀)</pt-BR>
 		<ko>나부-쿠두리-우추르 (𒁹𒀭𒀝𒃻𒁺𒋀)</ko>
+		<fixja>ナブー・クドゥリ・ウツウル（𒁹𒀭𒀝𒃻𒁺𒋀）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMEL_MARDUK_HISTORICAL</zType>
@@ -823,6 +885,7 @@
 		<zh-CN>亚美-马尔杜克 (𒇽𒀭𒀫𒌓)</zh-CN>
 		<pt-BR>Amēl-Marduk (𒇽𒀭𒀫𒌓)</pt-BR>
 		<ko>아멜-마르두크 (𒇽𒀭𒀫𒌓)</ko>
+		<fixja>アメル・マルドゥク（𒇽𒀭𒀫𒌓）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TEXT_NAME_KASHSHAYA_HISTORICAL</zType>
@@ -836,6 +899,7 @@
 		<zh-CN>卡什莎雅 (𒊩𒁉𒃻𒀀)</zh-CN>
 		<pt-BR>Kaššaya (𒊩𒁉𒃻𒀀)</pt-BR>
 		<ko>카샤야 (𒊩𒁉𒃻𒀀)</ko>
+		<fixja>カシュシャヤ（𒊩𒁉𒃻𒀀）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADAD_GUPPI</zType>
@@ -849,6 +913,7 @@
 		<zh-CN>阿达德-古比</zh-CN>
 		<pt-BR>Adagupi</pt-BR>
 		<ko>아다드-구피</ko>
+		<fixja>アッダ・グッピ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADAD_GUPPI_HISTORICAL</zType>
@@ -862,6 +927,7 @@
 		<zh-CN>阿达德-古比 (𒊩𒀭𒅎𒄖𒌒𒉿𒀪)</zh-CN>
 		<pt-BR>Adad-Guppī (𒊩𒀭𒅎𒄖𒌒𒉿𒀪)</pt-BR>
 		<ko>아다드-구피 (𒊩𒀭𒅎𒄖𒌒𒉿𒀪)</ko>
+		<fixja>アッダ・グッピー（𒊩𒀭𒅎𒄖𒌒𒉿𒀪）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NABONIDUS_WD</zType>
@@ -875,6 +941,7 @@
 		<zh-CN>那波尼德</zh-CN>
 		<pt-BR>Nabonido</pt-BR>
 		<ko>나보니두스</ko>
+		<fixja>ナボニドゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NABONIDUS_HISTORICAL</zType>
@@ -888,6 +955,7 @@
 		<zh-CN>那波尼德 (𒀭𒀝𒈾𒀪𒀉)</zh-CN>
 		<pt-BR>Nabû-Naʾid (𒀭𒀝𒈾𒀪𒀉)</pt-BR>
 		<ko>나부-나이드 (𒀭𒀝𒈾𒀪𒀉)</ko>
+		<fixja>ナブー・ナイド（𒀭𒀝𒈾𒀪𒀉）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NITOCRIS</zType>
@@ -901,6 +969,7 @@
 		<zh-CN>尼托克里斯</zh-CN>
 		<pt-BR>Nitócris</pt-BR>
 		<ko>니토크리스</ko>
+		<fixja>ニトクリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HAMMURABI_WD</zType>
@@ -914,6 +983,7 @@
 		<zh-CN>汉谟拉比</zh-CN>
 		<pt-BR>Hamurabi</pt-BR>
 		<ko>함무라비</ko>
+		<fixja>ハンムラビ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HAMMURABI_HISTORICAL</zType>
@@ -927,6 +997,7 @@
 		<zh-CN>汉谟拉比 (𒄩𒄠𒈬𒊏𒁉)</zh-CN>
 		<pt-BR>Ḫammu-Rāpi (𒄩𒄠𒈬𒊏𒁉)</pt-BR>
 		<ko>함무-라피 (𒄩𒄠𒈬𒊏𒁉)</ko>
+		<fixja>ハンムラピ（𒄩𒄠𒈬𒊏𒁉）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIN_MUBALLIT_WD</zType>
@@ -940,6 +1011,7 @@
 		<zh-CN>辛穆巴里特</zh-CN>
 		<pt-BR>Sim-Mubalite</pt-BR>
 		<ko>신-무발리트</ko>
+		<fixja>シン・ムバリット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIN_MUBALLIT_HISTORICAL</zType>
@@ -953,6 +1025,7 @@
 		<zh-CN>辛穆巴里特 (𒀭𒂗𒍪𒈬𒁀𒉌𒀉)</zh-CN>
 		<pt-BR>Sîn-Muballit (𒀭𒂗𒍪𒈬𒁀𒉌𒀉)</pt-BR>
 		<ko>신-무발리트 (𒀭𒂗𒍪𒈬𒁀𒉌𒀉)</ko>
+		<fixja>シン・ムバリット（𒀭𒂗𒍪𒈬𒁀𒉌𒀉）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEBUCHADNEZZAR_I</zType>
@@ -966,6 +1039,7 @@
 		<zh-CN>尼布甲尼撒</zh-CN>
 		<pt-BR>Nabucodonosor</pt-BR>
 		<ko>네부카드네자르 1세</ko>
+		<fixja>ネブカドネザル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEBUCHADNEZZAR_I_HISTORICAL</zType>
@@ -979,6 +1053,7 @@
 		<zh-CN>尼布甲尼撒 (𒁹𒀭𒀝𒃻𒁺𒋀)</zh-CN>
 		<pt-BR>Nabû-Kudurri-Uṣur (𒁹𒀭𒀝𒃻𒁺𒋀)</pt-BR>
 		<ko>나부-쿠두리-우추르 1세 (𒁹𒀭𒀝𒃻𒁺𒋀)</ko>
+		<fixja>ナブー・クドゥリ・ウツウル（𒁹𒀭𒀝𒃻𒁺𒋀）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NINURTA_NADIN_SUMI</zType>
@@ -992,6 +1067,7 @@
 		<zh-CN>尼努尔塔·那丁·舒米</zh-CN>
 		<pt-BR>Ninurtanadinsumi</pt-BR>
 		<ko>닌우르타-나딘-슈미</ko>
+		<fixja>ニヌルタ・ナディン・シュミ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NINURTA_NADIN_SUMI_HISTORICAL</zType>
@@ -1005,6 +1081,7 @@
 		<zh-CN>尼努尔塔·那丁·舒米 (𒀭𒊩𒌆𒅁𒋧𒈬)</zh-CN>
 		<pt-BR>Ninurta-Nādin-Šumi (𒀭𒊩𒌆𒅁𒋧𒈬)</pt-BR>
 		<ko>닌우르타-나딘-슈미 (𒀭𒊩𒌆𒅁𒋧𒈬)</ko>
+		<fixja>ニヌルタ・ナディン・シュミ（𒀭𒊩𒌆𒅁𒋧𒈬）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_NADIN_APLI</zType>
@@ -1018,6 +1095,7 @@
 		<zh-CN>恩利尔·那丁·阿普利</zh-CN>
 		<pt-BR>Enlilnadinapli</pt-BR>
 		<ko>엔릴-나딘-아플리</ko>
+		<fixja>エンリル・ナディン・アプリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_NADIN_APLI_HISTORICAL</zType>
@@ -1031,6 +1109,7 @@
 		<zh-CN>恩利尔·那丁·阿普利 (𒀭𒊩𒌆𒅁𒋧𒈬)</zh-CN>
 		<pt-BR>Enlil-Nādin-Apli (𒀭𒂗𒆤𒋧𒌉𒍑)</pt-BR>
 		<ko>엔릴-나딘-아플리 (𒀭𒂗𒆤𒋧𒌉𒍑)</ko>
+		<fixja>エンリル・ナディン・アプリ（𒀭𒂗𒆤𒋧𒌉𒍑）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARDUK_NADIN_AHHE</zType>
@@ -1044,6 +1123,7 @@
 		<zh-CN>马尔杜克·那丁·阿海</zh-CN>
 		<pt-BR>Marduquenadinaque</pt-BR>
 		<ko>마르두크-나딘-아헤</ko>
+		<fixja>マルドゥク・ナディン・アヘ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARDUK_NADIN_AHHE_HISTORICAL</zType>
@@ -1057,6 +1137,7 @@
 		<zh-CN>马尔杜克·那丁·阿海 (𒀭𒀫𒌓𒋧𒋀𒈨𒌍)</zh-CN>
 		<pt-BR>Marduk-Nādin-Aḫḫē  (𒀭𒀫𒌓𒋧𒋀𒈨𒌍)</pt-BR>
 		<ko>마르두크-나딘-아헤 (𒀭𒀫𒌓𒋧𒋀𒈨𒌍)</ko>
+		<fixja>マルドゥク・ナーディン・アヘー（𒀭𒀫𒌓𒋧𒋀𒈨𒌍）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KURIGALZU_I_HISTORICAL</zType>
@@ -1070,6 +1151,7 @@
 		<zh-CN>库里加祖 (𒆪𒊑𒃲𒍪)</zh-CN>
 		<pt-BR>Kurigalzu (𒆪𒊑𒃲𒍪)</pt-BR>
 		<ko>쿠리갈주 (𒆪𒊑𒃲𒍪)</ko>
+		<fixja>クリガルズ（𒆪𒊑𒃲𒍪）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KADASHMAN_HARBE</zType>
@@ -1083,6 +1165,7 @@
 		<zh-CN>卡达什曼·哈尔帕</zh-CN>
 		<pt-BR>Cadasmã-Harbe</pt-BR>
 		<ko>카다시만-하르베</ko>
+		<fixja>カダシュマン・ハルベ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KADASHMAN_HARBE_I_HISTORICAL</zType>
@@ -1096,6 +1179,7 @@
 		<zh-CN>卡达什曼·哈尔帕 (𒅗𒁕𒀾𒈠𒀭𒄯𒁁)</zh-CN>
 		<pt-BR>Kadašman-Ḫarbe (𒅗𒁕𒀾𒈠𒀭𒄯𒁁)</pt-BR>
 		<ko>카다슈만-하르베 (𒅗𒁕𒀾𒈠𒀭𒄯𒁁)</ko>
+		<fixja>カダシュマン・ハルベ（𒅗𒁕𒀾𒈠𒀭𒄯𒁁）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KADASHMAN_ENLIL</zType>
@@ -1109,6 +1193,7 @@
 		<zh-CN>卡达什曼·恩利尔</zh-CN>
 		<pt-BR>Cadasmã-Enlil</pt-BR>
 		<ko>카다슈만-엔릴</ko>
+		<fixja>カダシュマン・エンリル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KADASHMAN_ENLIL_HISTORICAL</zType>
@@ -1122,6 +1207,7 @@
 		<zh-CN>卡达什曼·恩利尔 (𒅗𒁕𒀸𒈠𒀭𒀭𒂗𒆤)</zh-CN>
 		<pt-BR>Kadašman-Enlil (𒅗𒁕𒀸𒈠𒀭𒀭𒂗𒆤)</pt-BR>
 		<ko>카다슈만-엔릴 (𒅗𒁕𒀸𒈠𒀭𒀭𒂗𒆤)</ko>
+		<fixja>カダシュマン・エンリル（𒁓𒈾𒁍𒊑𒅀𒀸）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BURNA_BURIASH</zType>
@@ -1135,6 +1221,7 @@
 		<zh-CN>伯尔纳-布里阿什</zh-CN>
 		<pt-BR>Burnaburias</pt-BR>
 		<ko>부르나 부리아스</ko>
+		<fixja>ブルナ・ブリアシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BURNA_BURIASH_II_HISTORICAL</zType>
@@ -1148,6 +1235,7 @@
 		<zh-CN>伯尔纳-布里阿什 (𒁓𒈾𒁍𒊑𒅀𒀸)</zh-CN>
 		<pt-BR>Burna-Buriaš (𒁓𒈾𒁍𒊑𒅀𒀸)</pt-BR>
 		<ko>부르나-부리아슈 (𒁓𒈾𒁍𒊑𒅀𒀸)</ko>
+		<fixja>ブルナ・ブリアシュ（𒁓𒈾𒁍𒊑𒅀𒀸）</fixja>
 	</Entry>
 	<!-- Assyria -->
 	<Entry>
@@ -1162,6 +1250,7 @@
 		<zh-CN>亚述巴尼帕</zh-CN>
 		<pt-BR>Assurbanípal</pt-BR>
 		<ko>아슈르바니팔</ko>
+		<fixja>アッシュルバニパル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHURBANIPAL_H_HISTORICAL</zType>
@@ -1175,6 +1264,7 @@
 		<zh-CN>亚述巴尼帕 (𒁹𒀭𒀸𒋩𒆕𒀀)</zh-CN>
 		<pt-BR>Aššur-Bāni-Apli (𒁹𒀭𒀸𒋩𒆕𒀀)</pt-BR>
 		<ko>아슈르-바니-아플리 (𒁹𒀭𒀸𒋩𒆕𒀀)</ko>
+		<fixja>アッシュル・バニ・アプリ（𒁹𒀭𒀸𒋩𒆕𒀀）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAMMURAMAT</zType>
@@ -1188,6 +1278,7 @@
 		<zh-CN>萨穆拉玛特</zh-CN>
 		<pt-BR>Samuramate</pt-BR>
 		<ko>샴무라마트</ko>
+		<fixja>サンムラマート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAMMURAMAT_HISTORICAL</zType>
@@ -1201,6 +1292,7 @@
 		<zh-CN><![CDATA[萨穆拉玛特(<font="Sinacherib SDF">𒊩𒊓𒄠𒈬𒊏𒆳</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Sammu-Rāmat (<font="Sinacherib SDF">𒊩𒊓𒄠𒈬𒊏𒆳</font>)]]></pt-BR>
 		<ko><![CDATA[삼무-라마트 (<font="Sinacherib SDF">𒊩𒊓𒄠𒈬𒊏𒆳</font>)]]></ko>
+		<fixja><![CDATA[サンム・ラーマト(<font="Sinacherib SDF">𒊩𒊓𒄠𒈬𒊏𒆳</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAMSHI_ADAD_V_HISTORICAL</zType>
@@ -1214,6 +1306,7 @@
 		<zh-CN><![CDATA[沙姆希阿达德(<font="Sinacherib SDF">𒁹𒀭𒌓𒅆𒀭𒅎</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Šamši-Adad (<font="Sinacherib SDF">𒁹𒀭𒌓𒅆𒀭𒅎</font>)]]></pt-BR>
 		<ko><![CDATA[샴시-아다드 5세 (<font="Sinacherib SDF">𒁹𒀭𒌓𒅆𒀭𒅎</font>)]]></ko>
+		<fixja><![CDATA[シャムシ・アダド(<font="Sinacherib SDF">𒁹𒀭𒌓𒅆𒀭𒅎</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADAD_NIRARI_III_HISTORICAL</zType>
@@ -1227,6 +1320,7 @@
 		<zh-CN><![CDATA[阿达德尼拉里(<font="Sinacherib SDF">𒁹𒌋𒂟𒃮</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Adad-Nirari (<font="Sinacherib SDF">𒁹𒌋𒂟𒃮</font>)]]></pt-BR>
 		<ko><![CDATA[아다드-니라리 3세 (<font="Sinacherib SDF">𒁹𒌋𒂟𒃮</font>)]]></ko>
+		<fixja><![CDATA[アダド・ニラリ (<font="Sinacherib SDF">𒁹𒌋𒂟𒃮</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHALMANESER_III_HISTORICAL</zType>
@@ -1240,6 +1334,7 @@
 		<zh-CN><![CDATA[沙尔马那塞尔(<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Šalmānu-Ašarēd (<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></pt-BR>
 		<ko><![CDATA[샬마누-아샤레드 3세 (<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></ko>
+		<fixja><![CDATA[シャルマヌ・アシャレド (<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASSUR_DANIN_PAL</zType>
@@ -1253,6 +1348,7 @@
 		<zh-CN>阿舒尔-达宁-帕尔</zh-CN>
 		<pt-BR>Assurdanimpal</pt-BR>
 		<ko>아슈르-다닌-팔</ko>
+		<fixja>アッシュール・ダニン・パル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASSUR_DANIN_PAL_HISTORICAL</zType>
@@ -1266,6 +1362,7 @@
 		<zh-CN><![CDATA[阿舒尔-达因-阿普鲁(<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒆗𒅔𒁄𒀀</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Aššur-daʾʾin-aplu (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒆗𒅔𒁄𒀀</font>)]]></pt-BR>
 		<ko><![CDATA[아슈르-다인-아플루 (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒆗𒅔𒁄𒀀</font>)]]></ko>
+		<fixja><![CDATA[アッシュール・ダイン・アピル (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒆗𒅔𒁄𒀀</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUKULTI_NINURTA_I_HISTORICAL</zType>
@@ -1279,6 +1376,7 @@
 		<zh-CN><![CDATA[图库尔蒂-尼努尔塔(<font="Sinacherib SDF">𒁹𒄑𒆪𒋾𒀭𒊩𒌆𒅁</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Tukulti-Ninurta (<font="Sinacherib SDF">𒁹𒄑𒆪𒋾𒀭𒊩𒌆𒅁</font>)]]></pt-BR>
 		<ko><![CDATA[투쿨티-닌우르타 (<font="Sinacherib SDF">𒁹𒄑𒆪𒋾𒀭𒊩𒌆𒅁</font>)]]></ko>
+		<fixja><![CDATA[トゥクルティ・ニヌルタ (<font="Sinacherib SDF">𒁹𒄑𒆪𒋾𒀭𒊩𒌆𒅁</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHALMANESER_I_HISTORICAL</zType>
@@ -1292,6 +1390,7 @@
 		<zh-CN><![CDATA[沙尔马那塞尔一世(<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Šalmānu-Ašarēd (<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></pt-BR>
 		<ko><![CDATA[샬마누-아샤레드 (<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></ko>
+		<fixja><![CDATA[シャルマネセル (<font="Sinacherib SDF">𒁹𒀭𒁲𒈠𒉡𒈦</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASSUR_NADIN_APLI</zType>
@@ -1305,6 +1404,7 @@
 		<zh-CN>阿舒尔-纳丁-阿普利</zh-CN>
 		<pt-BR>Assurnadímpal</pt-BR>
 		<ko>아슈르-나딘-아플리</ko>
+		<fixja>アッシュル・ナディン・アプリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASSUR_NADIN_APLI_HISTORICAL</zType>
@@ -1318,6 +1418,7 @@
 		<zh-CN><![CDATA[阿舒尔-纳丁-阿普利(<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋧𒌉𒍑</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Aššūr-Nādin-Apli (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋧𒌉𒍑</font>)]]></pt-BR>
 		<ko><![CDATA[아슈르-나딘-아플리 (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋧𒌉𒍑</font>)]]></ko>
+		<fixja><![CDATA[アッシュール・ナーディン・アプリ (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋧𒌉𒍑</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_KUDURRI_USUR</zType>
@@ -1331,6 +1432,7 @@
 		<zh-CN>恩利尔-库度尔迪-乌苏尔</zh-CN>
 		<pt-BR>Enlilkuduriussur</pt-BR>
 		<ko>엔릴-쿠두리-우수르</ko>
+		<fixja>エンリル・クドゥリ・ウツル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_KUDURRI_USUR_HISTORICAL</zType>
@@ -1344,6 +1446,7 @@
 		<zh-CN><![CDATA[恩利尔-库度尔迪-乌苏尔(<font="Sinacherib SDF">𒁹𒀭𒁁𒆪𒂉𒉽</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Enlil-Kudurrī-Uṣur (<font="Sinacherib SDF">𒁹𒀭𒁁𒆪𒂉𒉽</font>)]]></pt-BR>
 		<ko><![CDATA[엔릴-쿠두리-우추르 (<font="Sinacherib SDF">𒁹𒀭𒁁𒆪𒂉𒉽</font>)]]></ko>
+		<fixja><![CDATA[エンリル・クドゥリー・ウツル (<font="Sinacherib SDF">𒁹𒀭𒁁𒆪𒂉𒉽</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHUR_UBALLIT_I_HISTORICAL</zType>
@@ -1357,6 +1460,7 @@
 		<zh-CN><![CDATA[阿舒尔-乌巴立特(<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋾𒆷</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Aššur-Uballiṭ (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋾𒆷</font>)]]></pt-BR>
 		<ko><![CDATA[아슈르-우발리트 1세 (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋾𒆷</font>)]]></ko>
+		<fixja><![CDATA[アッシュル・ウバリト1世 (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋾𒆷</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERIBA_ADAD_I_HISTORICAL</zType>
@@ -1370,6 +1474,7 @@
 		<zh-CN><![CDATA[伊里巴阿达德(<font="Sinacherib SDF">𒁹𒄿𒊑𒂊𒁀𒀭𒅎</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Erība-Adad (<font="Sinacherib SDF">𒁹𒄿𒊑𒂊𒁀𒀭𒅎</font>)]]></pt-BR>
 		<ko><![CDATA[에리바-아다드 1세 (<font="Sinacherib SDF">𒁹𒄿𒊑𒂊𒁀𒀭𒅎</font>)]]></ko>
+		<fixja><![CDATA[エリバ・アダド (<font="Sinacherib SDF">𒁹𒄿𒊑𒂊𒁀𒀭𒅎</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_NIRARI</zType>
@@ -1383,6 +1488,7 @@
 		<zh-CN>恩利尔-尼拉里</zh-CN>
 		<pt-BR>Enlilnirari</pt-BR>
 		<ko>엔릴-니라리</ko>
+		<fixja>エンリル・ニラリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_NIRARI_HISTORICAL</zType>
@@ -1396,6 +1502,7 @@
 		<zh-CN><![CDATA[恩利尔-尼拉里(<font="Sinacherib SDF">𒁹𒀭𒂗𒆤𒂟𒃮</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Enlil-Nārārī (<font="Sinacherib SDF">𒁹𒀭𒂗𒆤𒂟𒃮</font>)]]></pt-BR>
 		<ko><![CDATA[엔릴-니라리 (<font="Sinacherib SDF">𒁹𒀭𒂗𒆤𒂟𒃮</font>)]]></ko>
+		<fixja><![CDATA[エンリル・ニラリ (<font="Sinacherib SDF">𒁹𒀭𒂗𒆤𒂟𒃮</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SARGON</zType>
@@ -1409,6 +1516,7 @@
 		<zh-CN>萨尔贡</zh-CN>
 		<pt-BR>Sargão</pt-BR>
 		<ko>사르곤</ko>
+		<fixja>サルゴン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SARGON_II_HISTORICAL</zType>
@@ -1422,6 +1530,7 @@
 		<zh-CN><![CDATA[萨尔贡(<font="Sinacherib SDF">𒁹𒈗𒄀𒈾</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Šarru-Kēnu (<font="Sinacherib SDF">𒁹𒈗𒄀𒈾</font>)]]></pt-BR>
 		<ko><![CDATA[샤루-케누 2세 (<font="Sinacherib SDF">𒁹𒈗𒄀𒈾</font>)]]></ko>
+		<fixja><![CDATA[サルー・ケーヌ (<font="Sinacherib SDF">𒁹𒈗𒄀𒈾</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATALIA</zType>
@@ -1435,6 +1544,7 @@
 		<zh-CN>阿塔利亚</zh-CN>
 		<pt-BR>Atália</pt-BR>
 		<ko>아탈리아</ko>
+		<fixja>アタリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATALIA_HISTORICAL</zType>
@@ -1448,6 +1558,7 @@
 		<zh-CN><![CDATA[阿塔利亚(<font="Sinacherib SDF">𒊩𒀀𒊑𒅀𒀀</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Atalia (<font="Sinacherib SDF">𒊩𒀀𒊑𒅀𒀀</font>)]]></pt-BR>
 		<ko><![CDATA[아탈리아 (<font="Sinacherib SDF">𒊩𒀀𒊑𒅀𒀀</font>)]]></ko>
+		<fixja><![CDATA[アタリア (<font="Sinacherib SDF">𒊩𒀀𒊑𒅀𒀀</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RAIMA</zType>
@@ -1461,6 +1572,7 @@
 		<zh-CN>拉尔马</zh-CN>
 		<pt-BR>Raima</pt-BR>
 		<ko>라이마</ko>
+		<fixja>ラーマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RAIMA_HISTORICAL</zType>
@@ -1474,6 +1586,7 @@
 		<zh-CN><![CDATA[拉尔马(<font="Sinacherib SDF">𒊩𒊏𒀪𒈠𒀀</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Ra'īmâ (<font="Sinacherib SDF">𒊩𒊏𒀪𒈠𒀀</font>)]]></pt-BR>
 		<ko><![CDATA[라이마 (<font="Sinacherib SDF">𒊩𒊏𒀪𒈠𒀀</font>)]]></ko>
+		<fixja><![CDATA[ラーマ (<font="Sinacherib SDF">𒊩𒊏𒀪𒈠𒀀</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENNACHERIB_WD</zType>
@@ -1487,6 +1600,7 @@
 		<zh-CN>辛那赫里布</zh-CN>
 		<pt-BR>Senaqueribe</pt-BR>
 		<ko>센나케립</ko>
+		<fixja>センナケリブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENNACHERIB_HISTORICAL</zType>
@@ -1500,6 +1614,7 @@
 		<zh-CN><![CDATA[辛那赫里布(<font="Sinacherib SDF">𒁹𒀭𒌍𒉽𒈨𒌍𒋢</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Sîn-Aḥḥē-Erība (<font="Sinacherib SDF">𒁹𒀭𒌍𒉽𒈨𒌍𒋢</font>)]]></pt-BR>
 		<ko><![CDATA[신-아헤-에리바 (<font="Sinacherib SDF">𒁹𒀭𒌍𒉽𒈨𒌍𒋢</font>)]]></ko>
+		<fixja><![CDATA[シン・アへー・エリーバ (<font="Sinacherib SDF">𒁹𒀭𒌍𒉽𒈨𒌍𒋢</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHAT_ABISHA_WD</zType>
@@ -1513,6 +1628,7 @@
 		<zh-CN>阿哈特阿比沙</zh-CN>
 		<pt-BR>Aatabisa</pt-BR>
 		<ko>아하트-아비샤</ko>
+		<fixja>アハト・アビシャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHAT_ABISHA_HISTORICAL</zType>
@@ -1526,6 +1642,7 @@
 		<zh-CN><![CDATA[阿哈特阿比沙(<font="Sinacherib SDF">𒊩𒊩𒈠𒀜𒃻</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Ahat-Abiša (<font="Sinacherib SDF">𒊩𒊩𒈠𒀜𒃻</font>)]]></pt-BR>
 		<ko><![CDATA[아하트-아비샤 (<font="Sinacherib SDF">𒊩𒊩𒈠𒀜𒃻</font>)]]></ko>
+		<fixja><![CDATA[アハト・アビシャ (<font="Sinacherib SDF">𒊩𒊩𒈠𒀜𒃻</font>)]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHUR_DAIN_APPLU</zType>
@@ -1539,6 +1656,7 @@
 		<zh-CN>阿舒尔-达因-阿普鲁</zh-CN>
 		<pt-BR>Assurdainaplu</pt-BR>
 		<ko>아슈르-다인-아플루</ko>
+		<fixja>アッシュル・ダイン・アプル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHUR_DAIN_APPLU_HISTORICAL</zType>
@@ -1552,5 +1670,6 @@
 		<zh-CN><![CDATA[阿舒尔-达因-阿普鲁(<font="Sinacherib SDF">𒁹𒀸𒋩𒁕𒅔𒌉𒍑</font>)]]></zh-CN>
 		<pt-BR><![CDATA[Aššur-DaʾʾIn-Aplu (<font="Sinacherib SDF">𒁹𒀸𒋩𒁕𒅔𒌉𒍑</font>)]]></pt-BR>
 		<ko><![CDATA[아슈르-다인-아플루 (<font="Sinacherib SDF">𒁹𒀸𒋩𒁕𒅔𒌉𒍑</font>)]]></ko>
+		<fixja><![CDATA[アッシュル・ダイン・アプル (<font="Sinacherib SDF">𒁹𒀸𒋩𒁕𒅔𒌉𒍑</font>)]]></fixja>
 	</Entry>
 </Root>

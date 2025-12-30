@@ -27,6 +27,7 @@
 		<zh-CN>政策的延续</zh-CN>
 		<pt-BR>A Continuação da Política</pt-BR>
 		<ko>정책의 지속성</ko>
+		<fixja>政策の継続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARM_OR_MALICE_TITLE</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>善意还是恶意？</zh-CN>
 		<pt-BR>Charme ou Malícia?</pt-BR>
 		<ko>매혹 또는 적대?</ko>
+		<fixja>魅了か？悪意か？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOR_THE_GLORY_OF_BABYLON_TITLE</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>为了巴比伦的荣耀</zh-CN>
 		<pt-BR>Pela Glória da Babilônia</pt-BR>
 		<ko>바빌론의 영광을 위하여</ko>
+		<fixja>バビロンの栄光のために</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MOTHER_OF_THE_FAITH_TITLE</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>信仰之母</zh-CN>
 		<pt-BR>Mãe da Fé</pt-BR>
 		<ko>신앙의 어머니</ko>
+		<fixja>信仰の母</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TOWARD_A_GLORIOUS_FUTURE_TITLE</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>迈向辉煌未来</zh-CN>
 		<pt-BR>Em Direção a um Futuro de Glórias</pt-BR>
 		<ko>영광스러운 미래를 향하여</ko>
+		<fixja>輝かしい未来に向かって</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BABYLONIA_NEBUCHADNEZZAR_I_UNITS_TITLE</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>克敌者</zh-CN>
 		<pt-BR>Triunfo sobre o Inimigo Alheio</pt-BR>
 		<ko>그들의 적을 해치운 자</ko>
+		<fixja>勝利を勝ち取った者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DYNASTY_START_TITLE</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>《旧世界》中的{CHARACTER-SHORT-0}</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-0} no Velho Mundo</pt-BR>
 		<ko>고대의 {CHARACTER-SHORT-0}</ko>
+		<fixja>『Old World』の{CHARACTER-SHORT-0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_FIRST_WAR_TITLE</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>你的大限已至</zh-CN>
 		<pt-BR>A Hora Esperada</pt-BR>
 		<ko>당신의 시대</ko>
+		<fixja>其方の時代が来た</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_POLITICS_ONE_TITLE</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>众中之众</zh-CN>
 		<pt-BR>E Pluribus Plures</pt-BR>
 		<ko>여럿으로 이루어진 하나</ko>
+		<fixja>エ・プルリブス・プルレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_POLITICS_TWO_TITLE</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>喋喋不休</zh-CN>
 		<pt-BR>Quanta Falácia</pt-BR>
 		<ko>쓸데없는 대화</ko>
+		<fixja>話題のもの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_HANNIBAL_ROME_TITLE</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>命定之敌？</zh-CN>
 		<pt-BR>Inimigos Predestinados?</pt-BR>
 		<ko>숙명의 적?</ko>
+		<fixja>宿命の敵？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HANNIBAL_NUMIDIANS_TITLE</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>相互尊重</zh-CN>
 		<pt-BR>Respeito Mútuo</pt-BR>
 		<ko>상호 존중</ko>
+		<fixja>互いを尊重</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_NAVIGATOR_UNIQUE_SCOUT_TITLE</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>新探险家</zh-CN>
 		<pt-BR>Novos Exploradores</pt-BR>
 		<ko>새로운 탐험가들</ko>
+		<fixja>新たな探検家たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_NAVIGATOR_EXPLORATION_TITLE</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>全国link(LAW_EXPLORATION)？</zh-CN>
 		<pt-BR>link(LAW_EXPLORATION) Nacional?</pt-BR>
 		<ko>국가적 link(LAW_EXPLORATION)?</ko>
+		<fixja>国内のlink(LAW_EXPLORATION)？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE_TITLE</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>新联系人</zh-CN>
 		<pt-BR>Novos Contatos</pt-BR>
 		<ko>새로운 접촉</ko>
+		<fixja>新たなコンタクト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HANNO_NAVIGATOR_TWO_TITLE</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>{PLAYER-3}的声誉</zh-CN>
 		<pt-BR>A Fama {PLAYER-3,6}</pt-BR>
 		<ko>{PLAYER-3}의 유명세</ko>
+		<fixja>{PLAYER-3}の名声</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_II_TRIBAL_CONTACT_WAR_TITLE</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>并非吾友</zh-CN>
 		<pt-BR>Não Somos Amigos</pt-BR>
 		<ko>우리 친구가 아니다</ko>
+		<fixja>友人ではない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_II_TRIBAL_PAYMENT_TITLE</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>钱款去向</zh-CN>
 		<pt-BR>Sobre Seu Pagamento...</pt-BR>
 		<ko>당신의 보수에 관하여</ko>
+		<fixja>支払いについて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_II_TRIBAL_PAYMENT</zType>
@@ -281,6 +299,9 @@ Felizmente, você tem o ouro necessário. Infelizmente, os {TRIBE-2} decidiram q
 		<ko>당신의 통치하에 {PLAYER-1}(은)는 주변 부족의 용병을 많이 기용했습니다. 막대한 {PLAYER-1,1}의 부를 이용하여 우리 군대를 보강하는 것은 분명히 효과적인 방법이지만, 용병은 충성심이나 시민의 의무가 아닌 금으로 움직입니다.
 		
 다행히 당신에게는 금이 충분합니다. 안타깝게도 {TRIBE-2}은 금이 부족하다고 말합니다. {TRIBE-2,1}의 사절은 우호적인 관계가 아니더라도 계속 공존하는 대가로 돈을 받을 의향은 있지만, 앞으로는 우리를 위해 싸우지 않겠다고 정중하게 말합니다.</ko>
+		<fixja>あなたの統治下で、{PLAYER-1}はこの地域の部族から来た傭兵を幅広く使役している。軍備を増強するため、{PLAYER-1,1}の莫大な富を使うのも確かに効果的だろう。だが、傭兵はあくまで傭兵である。彼らを動かすのは忠誠心や公共の義務などではなく、金なのだ。
+
+幸運なことに、あなたには十分なほどの金がある。しかしながら、{TRIBE-2}は金が足りないと頭を悩ませていた。 {TRIBE-2,1}の特使が、友好とまではいかなくても、我々の共存を維持するための支払いに応じる意思はあるが、我々と戦う意思は変わらないことを丁重に伝えてきた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_TRIBAL_PAYMENT_PAY</zType>
@@ -294,6 +315,7 @@ Felizmente, você tem o ouro necessário. Infelizmente, os {TRIBE-2} decidiram q
 		<zh-CN>当然，我们会支付额外的金额，希望还能继续合作。</zh-CN>
 		<pt-BR>Mas é claro, nós pagaremos um extra e esperamos sua cooperação no futuro.</pt-BR>
 		<ko>협조를 지속할 수 있도록 돈을 더 지급하겠다.</ko>
+		<fixja>もちろん、追加で金を払おう。引き続き、協力してくれることを願っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_TRIBAL_PAYMENT_ACKNOWLEDGE</zType>
@@ -309,6 +331,7 @@ Felizmente, você tem o ouro necessário. Infelizmente, os {TRIBE-2} decidiram q
 		<ko>전세가 카르타고에 불리해지는 가운데, 계속된 패배로 유배되었던 {CHARACTER-2}(을)를 찾았다는 보고가 들어옵니다. 당신은 그와 차이점이 있고 적대적이지만, 그처럼 의견을 존중하는 장군을 만나는 것은 드문 일입니다. 기회를 잡은 당신은 {CHARACTER-SHORT-2}에게 최고의 사령관이 누구인지 묻습니다. 그는 바로 대답합니다. "알렉산드로스 대왕, 그다음은 피로스다. 그리고 세 번째는 바로 나다."
 
 당신이 묻습니다. "만약 나를 무찌른다면 뭐라고 하겠는가?" 굳어 있던 {CHARACTER-SHORT-2}의 표정이 미소를 지으며 누그러집니다. "그렇다면 내가 알렉산드로스, 피로스, 그리고 세상에서 제일 위대한 지휘관들을 뛰어넘었다고 말할 것이다."</ko>
+		<fixja>今、支払いはできないな…心よりのお詫びを申し上げる。だが、これからは其方のより良い隣人になることを約束しよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_HANNO_II_TRIBAL_PAYMENT_ACKNOWLEDGE_LEGITIMACY</zType>
@@ -322,6 +345,7 @@ Felizmente, você tem o ouro necessário. Infelizmente, os {TRIBE-2} decidiram q
 		<zh-CN>在部落面前低下头颅</zh-CN>
 		<pt-BR>Nos humilhamos perante uma tribo</pt-BR>
 		<ko>부족 앞에서 망신을 당함</ko>
+		<fixja>同胞の前で恥をかいた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_TRIBAL_PAYMENT_WAR</zType>
@@ -335,6 +359,7 @@ Felizmente, você tem o ouro necessário. Infelizmente, os {TRIBE-2} decidiram q
 		<zh-CN>{TRIBE-2}最好用剩下的钱去自掘坟墓！</zh-CN>
 		<pt-BR>É melhor que os {TRIBE-2} invistam o dinheiro que tiverem cavando suas covas!</pt-BR>
 		<ko>{TRIBE-2}은 무덤을 파는 것에 남은 돈을 투자해야 할 것이다!</ko>
+		<fixja>{TRIBE-2}よ、手元にある金は墓穴掘りに使った方がいいぞ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_II_NAVY_TITLE</zType>
@@ -348,6 +373,7 @@ Felizmente, você tem o ouro necessário. Infelizmente, os {TRIBE-2} decidiram q
 		<zh-CN>海军还是陆军</zh-CN>
 		<pt-BR>Marinha ou Exército</pt-BR>
 		<ko>해군 혹은 육군</ko>
+		<fixja>海軍か陸軍か</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_II_NAVY</zType>
@@ -401,6 +427,11 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 해군을 지지하는 자들은 어떤 것도 함선의 기동성을 따라갈 수 없으며, 해군이 전투를 벌일 시간과 장소를 정하고 {PLAYER-2,1}의 보급품을 가로챌 수 있으면 {PLAYER-2,1}의 군대와 전투하는 것이 훨씬 수월해질 것이라고 지적합니다.
 		
 {PLAYER-0,1} 군대의 미래에 관해 어떻게 생각하십니까?</ko>
+		<fixja>{PLAYER-2}との戦争が続くうちに、宮廷で「海軍の重要性」について問われるようになった。{PLAYER-0}は、戦争において大きな戦力となる船を持っているが、船は高額で、建造には時間もかかる。海軍に批判的な者たちは「船では、都市の占領も{PLAYER-2,1}軍を打ち破ることもできない。故に陸軍へと戦力を集中すべきだ」と主張している。
+
+そこにすぐさま、海軍への投資を支持する者たちが船の機動力に勝るものはないと指摘する。海軍がいれば、闘いに時と場所を選ぶ必要は無くなる。{PLAYER-2,1}の補給路を断つことができれば、{PLAYER-2,1}の兵と戦うのもはるかに楽になる。
+
+{PLAYER-0,1}軍の将来について、あなたはどう考える？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_NAVY_SHIP</zType>
@@ -414,6 +445,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>船只是很有用的资产——我们需要更多的船！</zh-CN>
 		<pt-BR>Navios são excelentes recursos, precisamos de mais deles!</pt-BR>
 		<ko>함선은 훌륭한 자산이다. 더 많이 있어야 한다!</ko>
+		<fixja>船は重要な資産…もっと必要だ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_NAVY_RESOURCES</zType>
@@ -427,6 +459,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>船只的问题在于成本太高。我们应该能找到更多的资源用于我们的军事建设！</zh-CN>
 		<pt-BR>O problema dos navios é o custo elevado. Nós poderemos encontrar mais recursos militares de outra forma.</pt-BR>
 		<ko>함선은 비용이 많이 들어서 문제다. 군대를 보강할 수 있는 다른 방법이 있을 것이다!</ko>
+		<fixja>問題は、それがいかに高いかということだ。軍備増強のため、どこかからもっと資源を見つけられるはずだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_DISMANTLE_NAVY</zType>
@@ -440,6 +473,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>船只确实永远无法对{PLAYER-2}造成毁灭性打击。我们要逐步解散海军，转而增强陆军部队！</zh-CN>
 		<pt-BR>Navios não servirão para darmos o golpe final contra {PLAYER-2,4}. Desmantelaremos nossa marinha aos poucos para melhorar nossas tropas.</pt-BR>
 		<ko>함선이 {PLAYER-2}에 최후의 일격을 날리지 못하는 것은 사실이다. 점진적으로 해군을 해체하고 지상군을 개선해야 한다!</ko>
+		<fixja>確かに、船が{PLAYER-2}に大打撃を与えることはないだろう。徐々に海軍は解体し、陸軍の方を増強していくぞ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EGYPT_KHUFU_PYRAMID_TOURISM_TITLE</zType>
@@ -453,6 +487,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>法老{CHARACTER-SHORT-0}的link(IMPROVEMENT_PYRAMIDS)</zh-CN>
 		<pt-BR>As link(IMPROVEMENT_PYRAMIDS) do Faraó {CHARACTER-SHORT-0}</pt-BR>
 		<ko>파라오 {CHARACTER-SHORT-0}의 link(IMPROVEMENT_PYRAMIDS)</ko>
+		<fixja>ファラオ・{CHARACTER-SHORT-0}のlink(IMPROVEMENT_PYRAMIDS)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_SUPPILULIUMA_DEATH_AFAR_TITLE</zType>
@@ -466,6 +501,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>离家万里</zh-CN>
 		<pt-BR>Longe de Casa</pt-BR>
 		<ko>고향에서 먼 곳</ko>
+		<fixja>故郷から遠く離れて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_HANTILI_REFLECTION_TITLE</zType>
@@ -479,6 +515,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>死后长生</zh-CN>
 		<pt-BR>A Longa Vida dos Mortos</pt-BR>
 		<ko>죽은 자의 긴 삶</ko>
+		<fixja>死者の長き人生</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_PUDUHEPA_WAR_OFFER_TITLE</zType>
@@ -492,6 +529,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>战争{G4:新郎:新娘}</zh-CN>
 		<pt-BR>{G4:Noivo:Noiva} de Guerra</pt-BR>
 		<ko>전쟁의 {G4:신랑:신부}</ko>
+		<fixja>{G4:Groom:Bride}戦争</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_MURSILI_II_CLEAR_TRIBES_TITLE</zType>
@@ -505,6 +543,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>穆尔西里的力量</zh-CN>
 		<pt-BR>A Força de Mursili</pt-BR>
 		<ko>무르실리의 힘</ko>
+		<fixja>ムルシリの力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_MURSILI_II_FOUND_CITIES_TITLE</zType>
@@ -518,6 +557,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>穆尔西里的财产</zh-CN>
 		<pt-BR>O Valor de Mursili</pt-BR>
 		<ko>무르실리의 가치</ko>
+		<fixja>ムルシリの価値</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_DARIUS_BARDIYA_START_TITLE</zType>
@@ -531,6 +571,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>冒充者</zh-CN>
 		<pt-BR>O Impostor</pt-BR>
 		<ko>사칭자</ko>
+		<fixja>簒奪者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_DARIUS_BARDIYA_LEADS_TITLE</zType>
@@ -544,6 +585,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>形势逆转</zh-CN>
 		<pt-BR>Virando o Jogo</pt-BR>
 		<ko>입장이 바뀌다</ko>
+		<fixja>形勢逆転</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_BARRACKS_TITLE</zType>
@@ -557,6 +599,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>真理战士</zh-CN>
 		<pt-BR>Guerreiros da Verdade</pt-BR>
 		<ko>진실의 전사들</ko>
+		<fixja>真実の戦士たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_CHARIOT_TITLE</zType>
@@ -570,6 +613,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>空空如也的战车</zh-CN>
 		<pt-BR>A Biga Vazia</pt-BR>
 		<ko>빈 전차</ko>
+		<fixja>空の戦車</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_MONASTERY_TITLE</zType>
@@ -583,6 +627,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>发扬传统</zh-CN>
 		<pt-BR>Criando Tradições</pt-BR>
 		<ko>새로운 전통</ko>
+		<fixja>発展する伝統</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_STATE_RELIGION_TITLE</zType>
@@ -596,6 +641,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>琐罗亚斯德时代</zh-CN>
 		<pt-BR>A Era de Zoroastro</pt-BR>
 		<ko>조로아스터의 시대</ko>
+		<fixja>ゾロアスターの時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_PLEASED_TITLE</zType>
@@ -609,6 +655,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>{RELIGION-0,1}的善意</zh-CN>
 		<pt-BR>Boa-fé {RELIGION_F-0,1}</pt-BR>
 		<ko>{RELIGION-0,1}의 선의</ko>
+		<fixja>{RELIGION-0,1}：厚情</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_PARYSATIS_MASABATES_TITLE</zType>
@@ -622,6 +669,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>马萨巴特斯的困境</zh-CN>
 		<pt-BR>A Tribulação de Masabates</pt-BR>
 		<ko>마사바테스의 역경</ko>
+		<fixja>マサバテスの窮状</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_PARYSATIS_POISON_TITLE</zType>
@@ -635,6 +683,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>晚宴游戏</zh-CN>
 		<pt-BR>Jogos, Jantares</pt-BR>
 		<ko>저녁 식사의 심리전</ko>
+		<fixja>晩餐での遊戯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_CYRUS_REBELS_TITLE</zType>
@@ -648,6 +697,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>{CHARACTER-SHORT-2}反叛</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-2} se Rebela</pt-BR>
 		<ko>{CHARACTER-SHORT-2}의 반란자들</ko>
+		<fixja>{CHARACTER-SHORT-2}反乱軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_CYAXARES_SCYTHIAN_ALLIANCE_TITLE</zType>
@@ -661,6 +711,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>米底-斯基泰联盟</zh-CN>
 		<pt-BR>Aliança Medo-Cita</pt-BR>
 		<ko>메디아인과 스키타이족의 동맹 </ko>
+		<fixja>メディア・スキタイ同盟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_JERWAN_AQUEDUCT_TITLE</zType>
@@ -674,6 +725,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>耶尔万渡槽</zh-CN>
 		<pt-BR>O Aqueduto de Jerwan</pt-BR>
 		<ko>자르완 용수로</ko>
+		<fixja>ジャーワン水道橋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_YAZILIKAYA_TITLE</zType>
@@ -687,6 +739,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>雅兹勒卡亚</zh-CN>
 		<pt-BR>O Yazilikaya</pt-BR>
 		<ko>야질리카야</ko>
+		<fixja>ヤズルカヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_ROYAL_LIBRARY_TITLE</zType>
@@ -700,6 +753,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>皇室图书馆</zh-CN>
 		<pt-BR>A Biblioteca Real</pt-BR>
 		<ko>왕립 도서관</ko>
+		<fixja>王立図書館</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_JEBEL_BARKAL_TITLE</zType>
@@ -713,6 +767,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>博尔戈尔山</zh-CN>
 		<pt-BR>Jebel Barcal</pt-BR>
 		<ko>게벨 바르칼</ko>
+		<fixja>ゲベル・バルカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_AL_KHAZNEH_TITLE</zType>
@@ -726,6 +781,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>卡兹尼神殿</zh-CN>
 		<pt-BR>Al Khazneh</pt-BR>
 		<ko>알 카즈네</ko>
+		<fixja>エル・カズネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_COTHON_TITLE</zType>
@@ -739,6 +795,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>迦太基巨港</zh-CN>
 		<pt-BR><![CDATA[O <i>Cothon</i>]]></pt-BR>
 		<ko>코톤</ko>
+		<fixja>コトン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_HELIOPOLIS_TITLE</zType>
@@ -752,6 +809,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>赫里奥波里斯</zh-CN>
 		<pt-BR>Heliópolis</pt-BR>
 		<ko>헬리오폴리스</ko>
+		<fixja>ヘリオポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_COLOSSEUM_TITLE</zType>
@@ -765,6 +823,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>罗马斗兽场</zh-CN>
 		<pt-BR>O Coliseu</pt-BR>
 		<ko>콜로세움</ko>
+		<fixja>コロッセオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_RISE_OF_SULLA_TITLE</zType>
@@ -778,6 +837,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>苏拉的崛起</zh-CN>
 		<pt-BR>A Ascensão de Sula</pt-BR>
 		<ko>술라의 부상</ko>
+		<fixja>スッラの台頭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BELLUM_OCTAVIANUM_TITLE</zType>
@@ -791,6 +851,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>屋大维之战</zh-CN>
 		<pt-BR>Bellum Octavianum</pt-BR>
 		<ko>옥타비아누스의 전쟁</ko>
+		<fixja>オクタヴィアヌムの鐘</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_LAST_COMMAND_TITLE</zType>
@@ -804,6 +865,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>最后的命令</zh-CN>
 		<pt-BR>O Comando Final</pt-BR>
 		<ko>마지막 명령</ko>
+		<fixja>最後の指令</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ROMA_AND_HER_MALCONTENTS_TITLE</zType>
@@ -817,6 +879,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>罗马和反抗者</zh-CN>
 		<pt-BR>Roma e seus Desafetos</pt-BR>
 		<ko>로마와 골칫거리들</ko>
+		<fixja>ローマと不穏分子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_I_HAVE_A_LITTLE_LIST_TITLE</zType>
@@ -830,6 +893,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>我有一份小小的名单</zh-CN>
 		<pt-BR>Eu Conheço uma Lista</pt-BR>
 		<ko>나에게는 명단이 있다</ko>
+		<fixja>私は小さなリストを持っている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_END_OF_AN_ALLIANCE_TITLE</zType>
@@ -843,6 +907,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>联盟的终结</zh-CN>
 		<pt-BR>O Fim de uma Aliança</pt-BR>
 		<ko>동맹의 끝</ko>
+		<fixja>同盟関係の終わり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CROSSING_THE_RUBICON_TITLE</zType>
@@ -856,6 +921,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>跨过卢比孔河</zh-CN>
 		<pt-BR>Cruzando o Rubicão</pt-BR>
 		<ko>루비콘강을 건너다</ko>
+		<fixja>ルビコン川を渡る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PAX_ROMANA_TITLE</zType>
@@ -869,6 +935,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>罗马和平</zh-CN>
 		<pt-BR>Pax Romana</pt-BR>
 		<ko>팍스 로마나</ko>
+		<fixja>パクス・ロマーナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_WEAK_LINK_TITLE</zType>
@@ -882,6 +949,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>薄弱的联系</zh-CN>
 		<pt-BR>O Elo Mais Fraco</pt-BR>
 		<ko>약한 연결 고리</ko>
+		<fixja>薄い関係</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUSPICIOUS_SINKING_TITLE</zType>
@@ -895,6 +963,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>可疑的沉没</zh-CN>
 		<pt-BR>Submersão Suspeita</pt-BR>
 		<ko>의심스러운 침몰</ko>
+		<fixja>不審な沈没</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_BLADE_FALLS_TITLE</zType>
@@ -908,6 +977,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>利刃落下</zh-CN>
 		<pt-BR>O Descer da Lâmina</pt-BR>
 		<ko>칼을 휘두르다</ko>
+		<fixja>落ちる刃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NERO_ESCAPES_TITLE</zType>
@@ -921,6 +991,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>尼禄逃亡</zh-CN>
 		<pt-BR>Nero Escapa</pt-BR>
 		<ko>네로의 탈출</ko>
+		<fixja>ネロの逃亡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_BLADE_FALLS_TITLE_COPY</zType>
@@ -934,6 +1005,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>尼禄的猜忌</zh-CN>
 		<pt-BR>A Suspeita de Nero</pt-BR>
 		<ko>네로의 의심</ko>
+		<fixja>ネロの疑惑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_PSCHENT_DOUBLE_CROWN_TITLE</zType>
@@ -947,6 +1019,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>双重冠冕</zh-CN>
 		<pt-BR>A Coroa Dupla Pschent</pt-BR>
 		<ko>프스켄트 이중 왕관</ko>
+		<fixja>二重冠「プスケント」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PASSING_THE_CROWN_TITLE</zType>
@@ -960,6 +1033,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>传位</zh-CN>
 		<pt-BR>Passando a Coroa</pt-BR>
 		<ko>왕관을 넘기다</ko>
+		<fixja>冠の継承</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_BRILLIANT_ADMINISTRATOR_TITLE</zType>
@@ -973,6 +1047,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>杰出的行政官员</zh-CN>
 		<pt-BR>Um Administrador Brilhante</pt-BR>
 		<ko>뛰어난 행정가</ko>
+		<fixja>輝かしき統治者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BIRTH_OF_A_LEGEND_TITLE</zType>
@@ -986,6 +1061,7 @@ Qual sua opinião sobre o futuro militar {PLAYER-0,6}?</pt-BR>
 		<zh-CN>传奇的诞生</zh-CN>
 		<pt-BR>O Nascer de uma Lenda</pt-BR>
 		<ko>전설의 탄생</ko>
+		<fixja>伝説の誕生</fixja>
 	</Entry>
 	<!-- text-eventStory -->
 	<!-- DYNASTY_SHAMMURAMAT -->
@@ -1011,6 +1087,8 @@ Connue aussi bien comme grande conquérante que fondatrice et constructrice lég
 Renomada tanto por suas conquistas militares quanto como uma lendária fundadora e construtora, a sua figura será o tema de lendas e mitos, e as histórias das suas conquistas ressoarão através da história.]]></pt-BR>
 		<ko><![CDATA[당신은 신아시리아 제국의 강력한 여왕 삼무-라마트 (<font="Sinacherib SDF">𒊩𒊓𒄠𒈬𒊏𒆳</font>)입니다. 같은 시대의 여성 중 최고의 권력을 가진 당신은 군사 작전에 참여했고, 이제는 고대에서 아시리아의 영토를 확장할 때입니다.
 군사 정복은 물론 전설적인 설립자이자 건축가로 유명한 당신은 신화와 전설이 될 것이고, 당신의 업적은 후세 역사에 길이 남을 것입니다.]]></ko>
+		<fixja><![CDATA[あなたは新アッシリア帝国の強大なる女王、サンムラマート(<font="Sinacherib SDF">𒊩𒊓𒄠𒈬𒊏𒆳</font>)だ。時代を代表するパワフルな女性の一人で、これまで多くの軍事遠征を経験してきた。今こそ、アッシリアの支配権を拡げるときである。
+軍事による征服者だけでなく、伝説の建築者としても名高い。その姿はやがて神話や伝説となり、あなたが残した功績は、後世まで永く響き渡ることだろう。]]></fixja>
 	</Entry>
 	<!-- DYNASTY_TUKULTI_NINURTA_I -->
 	<Entry>
@@ -1056,6 +1134,11 @@ Mesmo com conspiradores espreitando à sombra da sua grandeza, você estabelecer
 당신의 이름에 드러나듯이, 전사의 신 닌우르타 <font="Sinacherib SDF">𒀭𒊩𒌆𒅁</font>에 대한 헌신으로 그의 인도를 받아 엄청난 군사 업적을 이뤘습니다. 전선을 이끄는 당신은 아버지 {CHARACTER-2}에 관한 기억을 기리기 위해 눈앞에 있는 모든 것을 정복할 것입니다. 당신을 두려워하는 아들들은 왕좌를 차지하려고 음모를 꾸밉니다. 물론 당신은 그들을 예의 주시할 것입니다.
 
 음모를 꾸미는 자들이 당신의 위대한 권력의 그림자에 드리우는 동안, 당신은 아시리아를 고대에서 존경받는 열강으로 만들 것입니다.]]></ko>
+		<fixja><![CDATA[王の中の王、トゥクルティ・ニヌルタ(<font="Sinacherib SDF">𒁹𒄑𒆪𒋾𒀭𒊩𒌆𒅁</font>)──あなたはその名を冠する最初の者である。
+その名が示すように、戦いの神ニヌルタ<font="Sinacherib SDF">𒀭𒊩𒌆𒅁</font>への献身が、あなたを驚異的な武功へと導く。前線で指揮を執り、目の前にある全てのものを征服せよ。父、{CHARACTER-2}が成した記憶を讃えるために。
+息子たちはあなたのことを恐れるとともに、王座を巡り、陰謀を企てている。
+
+策謀巡らす者たちが、強大なる力の影でうごめいている。その中で、あなたはアッシリアをこの世界で敬意の念を抱かせるほどの大国へと成長させるのだ。]]></fixja>
 	</Entry>
 	<!-- DYNASTY_ASHUR_UBALLIT_I -->
 	<Entry>
@@ -1088,6 +1171,7 @@ Com sua sagacidade diplomática e a coragem de usar a força para demonstrar seu
 		<ko><![CDATA[당신은 아시리아의 왕 아슈르-우발리트 (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋾𒆷</font>)입니다. 당신의 통치하에 아시리아는 위대한 열강으로 입지를 다질 것이며, 위대한 고대 국가들과 어깨를 나란히 할 것입니다.
 
 기민한 외교관으로서 입장을 관철하기 위해 병력 사용을 두려워하지 않는 당신은 아시리아가 열강의 지위에 오르도록 할 것입니다.]]></ko>
+		<fixja><![CDATA[あなたはアッシリアの王、アッシュル・ウバリト (<font="Sinacherib SDF">𒁹𒀭𒀸𒋩𒋾𒆷</font>)である。その統治の下、アッシリアは他の強大な国々に比肩する大国として、確固たる地位を築くことであろう。]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSYRIA_ASHUR_UBALLIT_I_THE_CONTINUATION_OF_POLICY</zType>
@@ -1101,6 +1185,7 @@ Com sua sagacidade diplomática e a coragem de usar a força para demonstrar seu
 		<zh-CN>你刚刚接见了来自{PLAYER-0}的使者。你巧妙地利用隐晦的威胁、甜言蜜语的外交辞令、对支持和效忠古老誓言的博学解读，让他们认为应该向你进贡！</zh-CN>
 		<pt-BR>Você acabou de encontrar emissários {PLAYER-0,3}. Com uma combinação habilmente elaborada de ameaças veladas, gentil diplomacia e citações eruditas de antigos juramentos de apoio e lealdade, você conseguiu convencê-los de que um tributo lhe é devido!</pt-BR>
 		<ko>방금 {PLAYER-0}에서 온 사절단을 만났습니다. 당신은 은근한 협박, 다정한 외교, 지원과 연합에 관한 고대 문헌에 관한 박식함을 혼합하는 능숙함을 발휘하여 사절단이 당신에게 공물을 바치는 것을 당연하게 여기도록 설득했습니다!</ko>
+		<fixja>{PLAYER-0}から来た使者達との面会が、ちょうど終わる。ほのめかす程度の脅しや甘言織り交ぜた外交、そして昔からの支援と忠誠の誓約にまつわる博識ぶりを駆使して、こちらに貢ぎ物を捧げることが、さも当然かのように上手く説得した。</fixja>
 	</Entry>
 	<!-- DYNASTY_SARGON_II -->
 	<Entry>
@@ -1155,6 +1240,11 @@ Inspirado pela grande lei de link(LAW_EPICS) e pelos lendários governantes pass
 위대한 전사이자 공정한 왕이며, 선두에 나서 모범이 되었습니다. 당신은 궁정 내 여성과 필경사들의 지위를 향상시켰고, 승리를 거둔 적의 일부를 사면했고, 정복한 사람들이 당신의 백성과 융화되도록 노력했습니다.
 
 위대한 link(LAW_EPICS)와 과거의 전설적인 통치자들에 영감을 받은 당신은 아시리아를 황금기로 이끌어 고대를 영원히 바꿀 것입니다.]]></ko>
+		<fixja><![CDATA[あなたは正統な王、サルゴン2世(<font="Sinacherib SDF">𒁹𒈗𒄀𒈾</font>)である。
+
+偉大な戦士であり、公平なる王であったあなたは前線を率いて兵に模範を示した。さらには宮廷での女性と書記官の地位を高め、敗れた敵のうち、一部の者たちを赦免し、征服した土地の民を自国民と同化させるために力を尽くした。
+
+link(LAW_EPICS)や、古より語り継がれし支配者たちの影響を受けたあなたは、アッシリアを黄金期へと導く。そして、この世界を永遠のものとするだろう。]]></fixja>
 	</Entry>
 	<!-- DYNASTY_ADAD_GUPPI -->
 	<Entry>
@@ -1209,6 +1299,11 @@ Abençoada com a dádiva de vida longeva, talvez você veja a quarta geração d
 신(𒀭𒌍)의 여사제이자, 강력한 통치자 가문의 후손이자, 위대한 왕의 딸이자, 후세의 어머니인 당신은 바빌로니아 통치의 역할을 맡았습니다.
 
 장수의 복을 받은 당신은 네 세대에 걸친 후손들과 함께 당신의 나라가 고대에서 제일 밝은 빛으로 피어나는 모습을 볼 것입니다.</ko>
+		<fixja>あなたはアダド・グッピ(𒊩𒀭𒅎𒄖𒌒𒉿𒀪)、外国では「アダゴッペ」とも称される。
+
+月の神シン(𒀭𒌍)の女祭司であり、強大なる支配者の家系から生まれたその末裔だ。偉大なる王の娘でありながら、次の王の母としてバビロニアの支配権を握っている。
+
+長寿に恵まれたあなたは、自らの子孫──その第四世代とバビロニアが、この世界の輝かしい光へ花開く姿を目の当たりにすることができる。</fixja>
 	</Entry>
 	<!-- DYNASTY_HAMMURABI -->
 	<Entry>
@@ -1263,6 +1358,11 @@ Que você traga a lei e a justiça ao Velho Mundo!</pt-BR>
 당신의 아버지 {CHARACTER-2}(은)는 바빌론을 작은 도시에서 번듯한 국가로 발전시켰고, 자랑스러운 첫 번째 왕으로 기억될 것입니다... 하지만 아버지의 건강이 나빠지고 있고, 당신이 새로운 왕입니다. 이제 마르두크 (𒀭𒀫𒌓)의 축복을 받은 당신은 인류가 지속되는 동안 바빌론이 제국의 중심으로 기억되도록 해야 합니다.
 
 고대에 법률과 정의를 가져다주십시오!</ko>
+		<fixja>あなたはハンムラビ(𒄩𒄠𒈬𒊏𒁉)だ。公正なる支配者の規範とも言うべき人物で、この時代においてあなたは神聖視されていた。これから何千年にも渡って、正義と法の象徴として知られる存在である。
+
+父{CHARACTER-2}はバビロンを小都市から真の国家へと変貌させ、その誇り高き初代王として人々の記憶に刻まれる。しかしそこで体調を崩したため、あなたが新王の地位に就くこととなった。マルドゥク(𒀭𒀫𒌓)の祝福を受けたあなたは、バビロンを「帝国の中心地」とする役目がある──人が誇りを忘れない限り、その記憶が薄らぐこともないほどに。
+
+この世界に法と正義をもたらすのだ！</fixja>
 	</Entry>
 	<!-- DYNASTY_NEBUCHADNEZZAR_I -->
 	<Entry>
@@ -1328,6 +1428,12 @@ Seu nome inspirará a Babilônia eternamente em direção à grandeza.</pt-BR>
 하지만 당신은 새로운 왕입니다. 마르두크의 축복을 받아 바빌로니아의 적을 격파하고 고대를 지배하는 열강으로 다시 발돋움할 것입니다.
 
 당신의 이름은 바빌로니아가 위대해지도록 평생에 걸쳐 영감을 줄 것입니다.</ko>
+		<fixja>あなたはナブー・クドゥリ・ウツウル (𒁹𒀭𒀝𒃻𒁺𒋀)、別名「ネブカドネザル2世」だ。その名を冠する第一の者であり、{CHARACTER-2}の息子、そしてイシン第2王朝の第4代王「マルドゥク(𒀭𒀫𒌓)」の名の下でバビロンを統治する真の王である。
+ある出来事により、バビロニアは未曾有の大被害を受けた。歴史に残された嘆きの言葉、そこには「主は腹を立て、激怒した。かの者は命を下し、土地の神々はそれを放棄した」とある。
+
+マルドゥクの祝福を受け、バビロニアの敵を打ち倒し、かつてこの世界を主導していた大国としての地位を取り戻す。それが新たな王たる、あなたの役目だ。
+
+あなたのその名が、バビロニアを大いなる栄光へといつまでも駆り立てるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BABYLONIA_NEBUCHADNEZZAR_I_UNITS</zType>
@@ -1352,6 +1458,8 @@ Ils souhaitent vous prêter allégeance et rejoindre votre jeune empire.</fr>
 Eles desejam declarar lealdade ao seu governo e se juntar ao seu prosperante império.</pt-BR>
 		<ko>아군이 습격한 야영지에서 벌였던 전투가 가라앉자 근처 마을에서 당신을 맞이하러 부대가 나옵니다. 그들은 태곳적부터 이 야영지에서 습격을 물리쳤습니다.
 그들은 당신과의 동맹을 맹세하고 싹을 틔우고 있는 당신의 제국에 합류하고자 합니다.</ko>
+		<fixja>兵士たちが襲撃した野営地の戦埃が晴れていく。すると、近くの村から部隊が迎えに出てきた。彼らは遙か昔から、この地への襲撃を退けてきたらしい。
+彼らはあなたの統治に忠誠心を示し、大きく成長しつつある帝国に加わりたいと望んでいる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOR_THE_GLORY_OF_BABYLON</zType>
@@ -1385,6 +1493,9 @@ Agora é hora de demonstrar sua genialidade para todo o mundo. Qual será o dest
 		<ko>당신의 첫 번째 영토 정복은 우연이나 행운으로 보일 수도 있었지만, 계속되는 성공으로 실력을 입증했습니다. 당신이 이루지 못할 일은 없습니다.
 		
 이제 세상에 당신의 위대함을 보여 줄 때입니다. 새로 손에 넣은 이 땅의 운명을 어떻게 하시겠습니까?</ko>
+		<fixja>最初の領土征服が運の良さや偶然と見なされたかもしれない。だが、続く成功がそうではないと証明している。あなたに成し遂げられないことなど、何もない。  
+		
+今こそ、その輝きを世界に示すときだ。この新たなる土地の運命は？</fixja>
 	</Entry>
 	<!-- DYNASTY_KURIGALZU_I -->
 	<Entry>
@@ -1439,6 +1550,11 @@ Sob o seu governo, a Babilônia irá florescer e se tornar a gema mais brilhante
 당신의 아버지 {CHARACTER-2}(이)가 영웅답게 습격과 약탈로부터 왕국을 지켰지만, 당신은 위대한link(TRAIT_BUILDER_ARCHETYPE)로 기억될 것이며 바빌로니아 도시에 엄청난 명망을 가져다줄 것입니다.
 
 당신의 통치하에 바빌로니아는 고대에서 제일 빛나는 보석으로 번성할 것입니다.</ko>
+		<fixja>あなたはクリガルズ(𒆪𒊑𒃲𒍪)、大都市バビロンの建設王だ。
+
+父である{CHARACTER-2}は、迫り来る襲撃と略奪から勇敢にも祖国を守った。それに対し、あなたは偉大なるlink(TRAIT_BUILDER_ARCHETYPE)として人々の記憶に刻まれる。そして、バビロニアという都市に大きな威信をもたらすことだろう。
+
+バビロニアはあなたの統治下で、まるで宝石のように輝かしくこの世界で栄えるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_CARTHAGE_HANNIBAL</zType>
@@ -1473,6 +1589,10 @@ Agora, assassinos tomaram a vida de Amílcar e cabe a você, {CHARACTER-SHORT-1}
 		<ko>당신은 역사의 흐름을 바꾸기 위해 태어난 {CHARACTER-1}입니다. 당신의 아버지는 군대의 지도자인 하밀카르고, 당신은 겨우 아홉 살 때 아버지의 발자취를 따르겠다고 맹세했습니다. 수많은 전투에 참여했던 당신의 아버지는 익사했고 당신의 매형 하스드루발이 왕권을 물려받았습니다. 당신은 하스두르발의 군대에서 지휘관으로 군대 경력을 쌓았습니다.
 
 이제 암살자들이 하밀카르의 목숨을 앗아갔고, 가족의 유산을 잇는 일은 {CHARACTER-SHORT-1} 당신에게 맡겨졌습니다. 두 남동생이 당신 곁에 있을 것입니다. 계속 전진하고, 아버지에게 맹세했던 서약을 지키고, {PLAYER-0}(을)를 고대 최고의 열강으로 만드십시오!</ko>
+		<fixja>あなたは{CHARACTER-1}、歴史の流れを変えるために生まれた男だ。父は軍事的指導者、ハスドルバル。あなたはその父の跡を継ぐと誓った。わずか9歳の時である。
+多くの戦地に赴いていた父は、ある戦いで溺死してしまう。そしてその彼の跡は、義兄ハスドルバルが継いだ。あなたはハスドルバルの軍で、司令官としてキャリアを築いていった。
+
+しかし、ハミルカルはその命を暗殺者たちに奪われてしまう。一族の遺産を引き継いだのは{CHARACTER-SHORT-1}──あなただ。戦地では2人の弟が味方となってくれる。出陣せよ。父の誓いを果たし、{PLAYER-0}をこの世界最大の勢力へと拡げるのだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_FIRST_WAR</zType>
@@ -1506,6 +1626,9 @@ Uma das conversas mais memoráveis que você teve com seu pai sobre guerras diss
 		<ko>{PLAYER-0}(이)가 당신의 지휘 아래 처음으로 전쟁에 돌입합니다. 나중에 역사가들이 {PLAYER-1}(과)와의 분쟁이 불가피했는지 판단을 내리겠지만, 당신은 지금 승리해야 미래의 역사가들이 올바른 관점을 형성할 것임을 압니다.
 
 당신이 아버지와 전쟁에 관해 나눴던 대화 중 제일 기억에 남는 것은 코끼리에 관한 내용입니다. 무시무시한 짐승을 이용하여 적을 공포에 떨게 하는 방법은 당신의 마음을 오랫동안 사로잡았습니다. 코끼리와 전통적인 부대를 함께 기용한다면 {PLAYER-1}(을)를 무찌르고 이름을 남길 것입니다.</ko>
+		<fixja>あなたの指揮の下、{PLAYER-0}は初めて「戦争」というものに直面した。{PLAYER-1}との対立が避けられなかったのかどうか、それは歴史家が判断することだ。未来の歴史家が正しい見解を示すかどうかは、我々のこの勝利がもたらす──そう、あなたには分かっていた。
+
+父親と交わした会話の中で、最も印象に残っているのは「象の話」だ。戦争でその恐ろしい獣を使い、敵に恐怖を与えるというアイデアに長い間、心を囚われていた。象、そしてこれまでの部隊を率い、{PLAYER-1}を打ち破れば、自身の名を上げられる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_POLITICS_ONE</zType>
@@ -1539,6 +1662,9 @@ Várias pessoas proeminentes {PLAYER-0,7} estão questionando abertamente sua li
 		<ko>{PLAYER-0}(이)가 위대한 국가라는 사실은 의심의 여지가 없지만, 정치 다툼이 위대함을 반감시킬 수 있습니다.
 
 {PLAYER-0}의 유명인 여러 명이 공개적으로 당신 통치에 의문을 던집니다. 소문에 의하면 반대자 중에 {CHARACTER-1}도 포함돼 있다고 하지만, 개인은 중요하지 않습니다. 국가가 한마음으로 연합하지 않은 것이 중요합니다. 반대파는 당신이 군인이어서 전쟁은 잘하지만, 오랜 유산을 남기지는 못할 것이라고 주장합니다. 그들은 당신의 통치가 {PLAYER-0}에 최선이 아니면 백성의 전적인 지지를 받지 못할 것이라고 말합니다.</ko>
+		<fixja>{PLAYER-0}が素晴らしい国であることは間違いないが、政治的な諍いのせいでそうもいかないこともある。
+
+{PLAYER-0}の著名な人物たちが、公然とあなたのリーダーシップに疑問を呈している。噂では{CHARACTER-1}も否定派の一人らしいが、それはさしたる問題ではない──国が真に団結していないのが問題なのだ。対立派閥は、あなたのことを「軍事のみに秀でた人物で、長きにわたって残る遺産などもたらせない」と言っている。つまり、その統治が{PLAYER-0}にとって最良のものでなければ、民から全面的な支持を得るに値しないと言っているのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNIBAL_POLITICS_TWO</zType>
@@ -1593,6 +1719,11 @@ Você não terá qualquer vantagem ao discutir publicamente, mas, mais uma vez, 
 그중 한 명이 말합니다. "하밀카르가 있었고, 이후에는 하스두르발이 있었고, 이제는 한니발입니다. 전부 건축가가 아닌 전사였습니다. 만약 한니발이 아버지나 형제보다 오래 살아남는다면 어떻게 되겠습니까? 한니발이 어떤 미래를 보장해 주겠습니까? 같은 편이나 아군도 없이 우리 군대에만 의존해야 합니까?"
 
 공개 토론에 참여하는 것은 당신에게 전혀 이득이 되지 않지만, 귀족들이 {PLAYER-0}(을)를 개선하는 일에 노력하지 않고 대화에만 시간을 낭비하는 모습은 실망스럽습니다.</ko>
+		<fixja>{PLAYER-0}の将来について、国内では意見の対立が続いていた。あなたの過去が、剣を振るったこともない裕福な政治家達に再び問題視されている。
+
+ある者が言う、「ハミルカルがいて、ハスドルバルがいた。そして今はハンニバルだ。彼らはみな戦士であって、建設者ではない。もしハンニバルが父や兄より長生きしたとしても、それがどうした？彼が我々にどんな未来を約束してくれる？友はおらず、同盟者もいない。頼れるのは、我らの軍だけなのだ」
+
+公開討論に参加したところで何も得るものはない。一部の貴族が{PLAYER-0}を良くしようとするよりも、「話し自体」に多くの時間を費やしてしまっている。その姿を目の当たりにして、あなたは再び失望してしまう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_HANNIBAL_ROME</zType>
@@ -1626,6 +1757,9 @@ Você não é o único que sente esse desconforto sobre {PLAYER-0,4}, mas a deci
 		<ko>당신은 {PLAYER-0}(과)와 처음 만났다는 소식을 듣고 불안해집니다. 둘의 만남은 적대적이지 않았지만, 당신은 {PLAYER-0}(과)와 동맹이 될 수 없다는 느낌이 듭니다. 마치 바알 하몬이 그들과 우리 군대가 전장에서 싸우는 모습을 당신의 머릿속에 심은 것 같습니다.
 
 {PLAYER-0}에 대해 불안감을 느낀 사람은 많지만, 결정은 오로지 당신의 몫입니다. 이 느낌을 무시하고 우호적인 관계를 맺겠습니까? 아니면 한 나라만 남을 때까지 외세와 싸우는 것이 우리의 숙명입니까?</ko>
+		<fixja>{PLAYER-0}との初会合──その予定を知ってから、あなたは大きな不安を感じていた。その出会いに敵対的なものがなかったとしても、{PLAYER-0}が味方であるはずがない。そう直感が告げている。まるでバアル・ハモンが、自身の兵と我々の兵が交戦する様子を心に送り込んでくるかのようだ。
+
+{PLAYER-0}を快く思っていないのは他にもいたが、最終的な決断はあなたに委ねられている。果たして、彼らと友好関係を築けるだろうか？それとも、最後の1つになるまで、外国と戦い続けることになるのだろうか…？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HANNIBAL_NUMIDIANS</zType>
@@ -1679,6 +1813,11 @@ A eloquência do {TRIBE-0,1} é admirável. Como você tratará essa curiosa tri
 "위대한 {CHARACTER-SHORT-2}에 관한 이야기가 여러분보다 먼저 도착했습니다. 우리는 당당하고 충직한 부족이라는 사실을 알아주십시오. 우리는 누구에게도 몸을 숙이지 않지만, 존중해 주면 그대로 보답합니다. {CHARACTER-SHORT-2}(은)는 서로 존중하고 공존하길 원합니까? 아니면 전투를 원합니까?"
 
 {TRIBE-0,1}의 유창한 언변은 감탄을 자아냅니다. 이 호기심 많은 부족을 어떻게 대하시겠습니까?</ko>
+		<fixja>{TRIBE-0,1}の使者が偵察隊に近づき、敬意のこもったジェスチャーで挨拶をした。
+
+「偉大なる{CHARACTER-SHORT-2}の知らせは、皆様よりも早くこちらに届いています。我らは誇り高く、忠実な民であることを是非とも知ってもらいたい。我らは誰にも頭を垂れない…が、敬意を払われれば、こちらも敬意で返す。ではお伺いしよう。互いに尊敬の念を持って共存するのか、それとも戦を望まれるのか」
+
+{TRIBE-0,1}の雄弁さは賞賛に値する──さて、この興味深い部族と、どう付き合うべきだろう？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_CARTHAGE_HANNO_II</zType>
@@ -1712,6 +1851,9 @@ Com sua astúcia e a ajuda de espadas mercenárias, você se tornará o governan
 		<ko>당신은 엄청난 부와 고결한 혈통을 가진 {CHARACTER-1}입니다. 당신은 정복할 준비가 됐지만, 정복 자체가 목적이 아니라는 사실을 이해합니다. 정복한 땅은 이용하고 개발하여 제국과 땅의 주인을 풍요롭게 해야 합니다. 땅의 주인이 당신이라면 더욱 그렇습니다.
 		
 당신은 지략과 용병의 칼을 이용하여 고대에서 제일 부유한 통치자가 될 것입니다!</ko>
+		<fixja>あなたは{CHARACTER-1}──巨万の富と高貴な血筋の生まれを持つ者である。征服する準備は整っているが、それが最終目標ではないことを理解していた。征服した土地を利用し、開発しなければならない──帝国とその土地の所有者を豊かにするために。その所有者が自分である場合は尚更だ。
+		
+狡猾さと傭兵たちの剣を駆使し、この世界で最高に裕福な支配者となるのだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_CARTHAGE_HANNO_NAVIGATOR</zType>
@@ -1745,6 +1887,9 @@ Se você recrutar batedores para enviar a toda parte, você sabe que descobrirá
 		<ko>당신은 저명한 가문 출신의 지도자인 {CHARACTER-1}입니다. 탐험에 대한 당신의 욕망은 끝이 없습니다. 당신의 가장 내밀한 야망은 국경 너머에 있는 것을 전부 발견하는 것입니다.
 			
 만약 정찰병들을 멀리 보낸다면 새로운 부의 원천, 새로운 동맹, 당신이 처리해야 할 적을 발견할 수도 있겠지만, 당신은 전부 대비하고 있습니다. 사람들을 모아 고대 전역을 발견할 준비를 하십시오!</ko>
+		<fixja>あなたは{CHARACTER-1}、最も優れた名家出身の指導者だ。その探究心に果てはない。あなたの内なる野望──それは国境の向こうにあるもの、その全てを発見することだ。
+			
+遥か彼方まで偵察員を送れば、新たなる富の源泉や同盟国を見つけられるかもしれない。だがそれは同時に、対処しなければならない敵も出る可能性があるということだ。仲間を集め、この世界を隅々まで探索する準備を整えよ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_NAVIGATOR_UNIQUE_SCOUT</zType>
@@ -1778,6 +1923,9 @@ O que {PLAYER-0,4} precisa é recrutar os exploradores mais valentes e ambicioso
 		<ko>당신은 중요한 명소를 여러 곳 발견했지만, 욕망을 채우려면 아직 멀었습니다. 오히려 도시 근처에 있는 수많은 자연 명소를 본 당신은 세상을 탐험하려는 열망이 더욱 커졌습니다. 더 멀리 떠난다면 어떤 기적을 찾을 수 있을지 누가 알겠습니까?
 			
 {PLAYER-0}(은)는 땅이나 바다로 여행할 수 있는 제일 용감하고 야심 찬 탐험가들을 선발하여 남아 있는 것을 발견해야 합니다. {PLAYER-0}(은)는 신 다음으로 세상에 관한 지식을 많이 쌓게 될 것입니다!</ko>
+		<fixja>傑出した名所をいくつか発見したものの、その欲望が満たされたとは言えない。むしろ、探検への情熱がさらに燃え上がった。街の近くで、あなたは驚異とも言うべき自然の凄みを多く目にした。もっと遠くまで行けば、どんな奇跡を見られるのだろうか。
+			
+今、{PLAYER-0}に必要なのは、野心と勇気に満ちた探検家たちだ。陸でも海でも旅をして、あらゆるものを見つけ出す、そういう気概に満ちた者たちを探そう。そして、{PLAYER-0}は世界に関する知識において、神々に次ぐ存在となるのだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_NAVIGATOR_EXPLORATION</zType>
@@ -1791,6 +1939,7 @@ O que {PLAYER-0,4} precisa é recrutar os exploradores mais valentes e ambicioso
 		<zh-CN>最近的社会发展情况很好，因而你可以颁布link(LAW_EXPLORATION)，将其定为{PLAYER-0}所有人的优先事项。长期以来，进行探索一直是你的个人抱负，现在你必须做出决定，你最喜欢的事是否也适合{PLAYER-0}和这里的民众。</zh-CN>
 		<pt-BR>Eventos sociais recentes lhe proporcionaram a possibilidade de declarar a lei de link(LAW_EXPLORATION) como uma prioridade para {PLAYER-0,4}. Essa é sua ambição pessoal há muito tempo, e agora você deve decidir se o que é melhor para você também é o melhor para {PLAYER-0,4} e para o seu povo.</pt-BR>
 		<ko>최근에 사회가 발달하면서 {PLAYER-0} 전역에서 link(LAW_EXPLORATION) 법률이 우선하도록 선언할 수 있는 능력이 생겼습니다. 이는 오랫동안 당신의 개인적 야망이었고, 이제 당신을 비롯하여 {PLAYER-0}(과)와 백성을 위한 최선이 무엇인지 결정해야 합니다.</ko>
+		<fixja>近頃の社会情勢の進展により、あなたは{PLAYER-0}に対し、link(LAW_EXPLORATION)を優先事項として言い渡す権限を得た。それは個人的な野望として長い間、心の中にあったものだった。そして今、その「最善の選択」が{PLAYER-0}とその民にとっても「最善」であるかどうかを判断しなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE</zType>
@@ -1804,6 +1953,7 @@ O que {PLAYER-0,4} precisa é recrutar os exploradores mais valentes e ambicioso
 		<zh-CN>我们的探险家与{TRIBE-0}取得了联系，他们与我们距离很远，但是比较友善。他们愿意与我们交换信息，甚至向我们赠送了一些自己的货物，好让我们多讲一些自己的旅行见闻。我们是应该和{TRIBE-0}做朋友，把{PLAYER-3}远方的故事讲给他们？还是应该在远处悄悄观察呢？</zh-CN>
 		<pt-BR>Nossos exploradores fizeram contato com os {TRIBE-0}, um povo longínquo mas amigável. Eles estão dispostos a compartilhar informações conosco e até mesmo nos presentear com produtos deles em troca de histórias das nossas viagens. Devemos fazer amizade com os {TRIBE-0} e contar histórias das terras que estão além {PLAYER-3,6} ou devemos observar de longe?</pt-BR>
 		<ko>탐험가들이 접촉한 {TRIBE-0}은 먼 곳에 있지만 친근한 사람들입니다. 그들은 우리와 정보를 교환하고 싶어 하고, 여행에 관한 이야기를 듣는 대가로 그들의 물품을 선물로 줄 의향이 있습니다. {TRIBE-0}과 친선 관계를 맺고 {PLAYER-3} 너머의 땅에 관한 이야기를 들려주시겠습니까? 아니면 거리를 두고 관찰하시겠습니까?</ko>
+		<fixja>探検家たちは、遠く離れたところに住む{TRIBE-0}と接触した。友好的な彼らと情報交換を行う。すると、我々が旅の話をする代わりに、いくつか品物を贈りたいと申し出てきた。ここで{TRIBE-0}と親交を深め、{PLAYER-3}の向こうにある土地の話をすべきか、それとも距離を置いて観察に徹するべきか…？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HANNO_NAVIGATOR_TWO</zType>
@@ -1817,6 +1967,7 @@ O que {PLAYER-0,4} precisa é recrutar os exploradores mais valentes e ambicioso
 		<zh-CN>我们的侦察兵见到{TRIBE-0}之后惊讶地发现，他们比我们更早听说了关于{PLAYER-3}的故事。一些年轻人对与真正的{PLAYER-3,1}代表会面印象深刻，他们希望搬迁到我们的土地上，像{PLAYER-3}公民一样生活。作为交换，他们承诺献上忠诚，而且愿意服兵役。</zh-CN>
 		<pt-BR>Ao encontrar os {TRIBE-0}, nossos batedores ficaram surpresos em saber que histórias sobre {PLAYER-3,4} chegaram a eles antes de representantes do nosso povo. Alguns jovens estão tão impressionados por encontrar nativos {PLAYER-3,3} que eles desejam se mudar para nossas terras e viver {PLAYER-3,7} como cidadãos. Em troca, eles prometem dedicar sua lealdade e servir ao exército.</pt-BR>
 		<ko>{TRIBE-0}을 만난 정찰병들은 {PLAYER-3}의 이야기가 우리 사람들보다 먼저 닿았다는 사실에 놀랐습니다. 실제 {PLAYER-3,1} 대표단을 만난 사실에 깊은 감명을 받은 일부 청년들은 우리 땅으로 이주해 {PLAYER-3}에서 시민으로 살고 싶어 합니다. 그 대가로 충성을 다하고 우리 군대에 복무하겠다고 약속합니다.</ko>
+		<fixja>{TRIBE-0}と会った際、{PLAYER-3}の話が自国民より先に偵察隊の元へと届いていたことを知って驚く。何人かの若者が{PLAYER-3,1}の代表者との会合に感銘を受け、我々の土地に移住し、{PLAYER-3}で市民として暮らしたいと望む者もいた。その代わりに我らへ忠誠を尽くし、軍務に就くことを誓っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANNO_II_TRIBAL_CONTACT_WAR</zType>
@@ -1850,6 +2001,9 @@ O que {PLAYER-0,4} precisa é recrutar os exploradores mais valentes e ambicioso
 		<ko>{TRIBE-1}과의 회의는 우호적이지 않았고 짧았습니다.
 		
 "귀하의 야망은 잘 알겠습니다, {CHARACTER-SHORT-0}. 하지만 여기는 우리 땅이고 {PLAYER-0}(은)는 우리 친구가 아닙니다. 우리 {TRIBE-1}은 귀하보다 먼저 여기 있었고, 앞으로도 훨씬 오래 있을 것입니다." {TRIBE-1,1} 사절의 말은 앞으로의 우리 관계에 의문의 여지를 거의 남기지 않습니다.</ko>
+		<fixja>友好関係でないため、{TRIBE-1}との面会は短時間で終わった。
+		
+「そなたの野心はきっちり見ているぞ、{CHARACTER-SHORT-0}。ここは我々の土地だ。{PLAYER-0}は味方ではないことを知れ。{TRIBE-1}はそなたたちより前からここにいたし、いなくなった後でもここにいるぞ」{TRIBE-1,1}からの特使の言葉。これを聞くに、両関係の将来に疑念などない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_EGYPT_MERNEITH</zType>
@@ -1883,6 +2037,9 @@ Como bisneta do grande faraó Narmer, parente de faraós passados e sobrevivente
 		<ko>당신은 제1 왕조의 {CHARACTER-1}이며, 스스로 이집트를 통치한 최초의 여성입니다. 당신의 증조부인 파라오 나르메르는 처음으로 나일강의 부족들을 통합하고 제1 왕조를 설립했습니다. 나일강을 다스리는 방법에 관한 우리 가문의 지식으로 연결망을 활용하고 이집트를 확장하는 방법을 배웠습니다.
 
 막강한 파라오 나르메르의 증손녀이자, 이전 파라오들의 친족이자, 남편인 파라오 제트를 묻은 당신보다 통치에 적합한 사람은 없습니다. 창을 들고 고대에서 이집트가 위대한 나라가 되도록 이끌어 주십시오!</ko>
+		<fixja>あなたは第1王朝の{CHARACTER-1}、自らの権力でエジプトを統治した初の女性だ。あなたの曽祖父であるファラオ・ナルメルは、ナイル川の諸部族を初めて統一し、エジプト第1王朝を築いた。そして一族でナイルの航海術を熟知しており、その知識を活かしてエジプトを拡大してきた。
+
+強大なるファラオ・ナルメルの曾孫として、歴代ファラオの血縁者として、そして夫であるファラオ・ジェトを葬った者として、あなたほど強き支配権を持つ者はいない。槍を手に取り、この世界でエジプトを栄光まで導け。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_PSCHENT_DOUBLE_CROWN</zType>
@@ -1916,6 +2073,9 @@ A coroa é uma verdadeira obra de arte que combina a coroa vermelha Dexerete do 
 		<ko>{CHARACTER-4}인 당신의 군대가 중요한 전투에서 승리하면서 상이집트와 하이집트로 구성된 통합 왕국을 세울 수 있는 환경을 마련했습니다. 이 업적을 이루고 최근에 적을 무찌른 당신을 기리기 위해 장인들이 프스켄트 이중 왕관을 제작했습니다.
 
 이 왕관은 뛰어난 예술 작품으로, 하이집트의 붉은 왕관 데슈레트와 상이집트의 하얀 왕관 헤제트를 결합한 형태이며, 당신의 업적을 기리는 강력한 상징이자 당신의 유산을 보여 주는 기념물입니다.</ko>
+		<fixja>{CHARACTER-4}、あなたの軍は、上エジプトと下エジプトからなる統一王国の実現に向けた重要な戦で勝利を収めてきた。この偉業と直近の敵を撃退したことを祝し、職人たちがあなたのために二重冠の「プスケント」を製作した。
+
+下エジプトの赤い冠「デシュレット」と、上エジプトの白い冠「ヘドジェト」を組み合わせて作った精巧な芸術品である。あなたの偉業を称える力強いシンボルであり、その遺産の崇敬物である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PASSING_THE_CROWN</zType>
@@ -1929,6 +2089,7 @@ A coroa é uma verdadeira obra de arte que combina a coroa vermelha Dexerete do 
 		<zh-CN>{CHARACTER-1}去世之后，传奇的双重冠冕就交到了你手中。</zh-CN>
 		<pt-BR>Com a morte de {CHARACTER-SHORT-1}, a lendária coroa dupla Pschent passa a você.</pt-BR>
 		<ko>{CHARACTER-1}(이)가 사망하면서 전설의 프스켄트 이중 왕관이 당신의 손에 들어옵니다.</ko>
+		<fixja>{CHARACTER-1}の死により、伝説の二重冠「プスケント」があなたの手に渡った。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_MERNEITH_THE_PSCHENT_DOUBLE_CROWN_0</zType>
@@ -1942,6 +2103,7 @@ A coroa é uma verdadeira obra de arte que combina a coroa vermelha Dexerete do 
 		<zh-CN>我欣然接受这一荣誉，代表我自己，也代表我的后代。</zh-CN>
 		<pt-BR>Eu humildemente aceito essa honra, por mim e meus descendentes.</pt-BR>
 		<ko>나와 내 후손을 위해 이 영광을 기꺼이 받아들이겠다.</ko>
+		<fixja>余自身のためにも、余の子孫のためにも、快くこの栄誉をお受けしよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_MERNEITH_PASSING_THE_CROWN_0</zType>
@@ -1955,6 +2117,7 @@ A coroa é uma verdadeira obra de arte que combina a coroa vermelha Dexerete do 
 		<zh-CN>我欣然接受这一荣誉，代表我自己，也代表我的后代。</zh-CN>
 		<pt-BR>Eu humildemente aceito essa honra, por mim e meus descendentes.</pt-BR>
 		<ko>나와 내 후손을 위해 이 영광을 기꺼이 받아들이겠다.</ko>
+		<fixja>余自身のためにも、余の子孫のためにも、快くこの栄誉をお受けしよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_EGYPT_KHUFU</zType>
@@ -1988,6 +2151,9 @@ O seu pai passou ao Sequet Aaru e agora chegou a sua vez de governar. Chame o ar
 		<ko>당신은 대피라미드를 건축한 제4 왕조의 {CHARACTER-1}입니다. 당신의 아버지인 파라오 스네페루는 기념물 건설에 관해 많은 것을 배웠고, 피라미드의 건축 방식을 확립했습니다. 이 지식은 당신의 통치에 아주 유용할 것입니다.
 
 당신의 아버지는 저승인 세케트 아아루로 넘어갔지만, 이제 당신의 때가 왔습니다. 왕실 건축가와 재상을 부르십시오. 이집트의 불가사의들이 고대의 모든 사람을 충격에 빠뜨릴 것입니다!</ko>
+		<fixja>あなたは第4王朝の{CHARACTER-1}、大ピラミッドの建設者である。父、ファラオ・スネフェルは、ピラミッドの建設方法を磨き上げるうちに、モニュメントの建設について多くを学んだ。この知識は統治においても、大いに役立つだろう。
+
+父はセケト・アアルへと召され、あなたの時代が訪れた。王室建築家と宰相を呼び出せ。エジプトの驚異を世界中に轟かせるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EGYPT_KHUFU_PYRAMID_TOURISM</zType>
@@ -2021,6 +2187,9 @@ O seu pai passou ao Sequet Aaru e agora chegou a sua vez de governar. Chame o ar
 		<ko>{CHARACTER-SHORT-2}(이)가 제안을 들고 당신에게 다가옵니다.
 
 "{CHARACTER-SHORT-1}(이)시여, 애도를 방해해서 죄송합니다만, 기회가 생겼습니다. 먼 곳에서 온 방문객들이 파라오 {CHARACTER-SHORT-0}(이)가 마지막으로 잠든 곳을 보려고 {CITY-3}에 있는 파라오 {CHARACTER-SHORT-0}의 link(IMPROVEMENT_PYRAMIDS)를 찾고 있습니다. 방문객 대부분이 현지인들에게 link(IMPROVEMENT_PYRAMIDS)를 둘러보게 해 달라고 묻습니다. 우리가 안내인을 고용하여 이들을 소개한다면 이 상황을 최대한 활용할 수 있을 것입니다. 이를 통해 얻은 link(YIELD_MONEY,1)을 이용할 수 있습니다... 이 방문객들은 '여행객'이라고 부르죠."</ko>
+		<fixja>{CHARACTER-SHORT-2}が、ある提案をしたいとあなたの元にやってきた。
+
+「{CHARACTER-SHORT-1}よ、このような悲しき時に声を掛けることをお許しください。チャンスが訪れたのです。{CITY-3}にあるlink(IMPROVEMENT_PYRAMIDS)に、ファラオ・{CHARACTER-SHORT-0}の墓を見ようと遠方から多くの旅人が訪れており、その大半がlink(IMPROVEMENT_PYRAMIDS)の案内を地元住民に頼んでいるのです。これを利用して、案内人を何人か雇えば、周遊旅行を催行できるのではないかと。ここで得られるlink(YIELD_MONEY,1)が、使えるのは間違いないでしょう……彼らのことは、観光客とでも呼びましょうか」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_EGYPT_MENTUHOTEP_II</zType>
@@ -2054,6 +2223,9 @@ Usando suas excepcionais habilidades como administrador, você rapidamente centr
 		<ko>당신은 중왕국을 설립한 제11 왕조의 {CHARACTER-1}입니다. 이집트가 분단됐을 때 당신이 부상하여 상이집트를 통치했습니다. 헤라클레오폴리스에서 벌어진 반란을 완벽한 기회로 삼아 진군한 당신은 하이집트의 왕좌도 손에 넣었습니다.
 
 당신은 뛰어난 능력을 갖춘 행정가로서 이집트의 모든 권력을 당신의 통치하에 빠르게 집중시켰습니다. 위대한 가문들을 만족시키고 잠재적인 찬탈자들을 제거한 당신은 이집트의 유일한 권력이라는 입지를 공고히 다지려고 노력했습니다. 이제 당신의 행정적 재능을 발휘하여 이집트의 권력을 고대 전역으로 확장하십시오!</ko>
+		<fixja>あなたは第11王朝の{CHARACTER-1}、中王国の創始者だ。エジプトという国が分裂していた時代に、上エジプトを統治すべく立ち上がったのがあなたである。そのタイミングで、ヘラクレオポリスでの反乱が起き、下エジプトの王位をも奪う機会が訪れた。
+
+統治者として卓越した手腕を発揮し、エジプトの全権力をすぐさま自らの統治下に集中させた。名門諸家を満足させ、同時に王位を簒奪しようと企む者たちを排除することで、エジプト唯一の権力者として確固たる地位を築いたのだ。その天才的な行政手腕を発揮し、全世界にエジプトの力を拡げよ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_BRILLIANT_ADMINISTRATOR</zType>
@@ -2067,6 +2239,7 @@ Usando suas excepcionais habilidades como administrador, você rapidamente centr
 		<zh-CN>战斗只是帝国发展进程的一部分，你不止是一介武夫，你的管理能力超乎常人。因此，你把这个新征服的地区视为一种资源。那么问题来了，如何更好地利用这些资源呢？</zh-CN>
 		<pt-BR>As batalhas são apenas um aspecto da criação de um império, e você é muito mais do que um grande guerreiro. Suas habilidades administrativas são extraordinárias. Assim sendo, você vê essa região recém conquistada como um recurso. A questão que fica, portanto, é como melhor utilizar esse recurso.</pt-BR>
 		<ko>전투는 성장하는 제국의 일부에 불과하며, 당신은 두려운 전사를 훨씬 뛰어넘는 존재입니다. 당신은 행정적인 능력이 탁월합니다. 그래서 당신은 새로운 정복지를 자원으로 생각합니다. 문제는 그 자원을 활용하는 최고의 방법을 찾는 것입니다.</ko>
+		<fixja>戦いは帝国拡大へと至る一部分に過ぎず、あなたは恐るべき戦士をはるかに超えた存在であった。あなたの統治能力には、並外れたものがあった。新たに征服したこの地域を資源として見ている。問題は、その資源をいかに活用するかだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_MENTUHOTEP_A_BRILLIANT_ADMINISTRATOR_0</zType>
@@ -2080,6 +2253,7 @@ Usando suas excepcionais habilidades como administrador, você rapidamente centr
 		<zh-CN>我们要弘扬这次伟大的胜利，让军队更加团结，取得更伟大的成就。</zh-CN>
 		<pt-BR>Nós usaremos essa grande vitória para levar nossas tropas à feitos ainda maiores.</pt-BR>
 		<ko>위대한 승리를 토대로 부대원을 결집하고 더 위대한 업적을 이룰 것이다.</ko>
+		<fixja>我々は、この偉大な勝利を糧に、さらなる偉業を達成するために部隊を結集させる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_MENTUHOTEP_A_BRILLIANT_ADMINISTRATOR_1</zType>
@@ -2093,6 +2267,7 @@ Usando suas excepcionais habilidades como administrador, você rapidamente centr
 		<zh-CN>我们要对幸存者进行分类，从中挑选有能力的人，让他们为这个不断扩张的王国添砖添瓦。</zh-CN>
 		<pt-BR>Nós reuniremos os sobreviventes e selecionaremos os melhores entre eles para que se tornem servidores civis em nosso reino.</pt-BR>
 		<ko>생존자들을 분류하고 제일 능력 있는 자들을 선정하여 확장하는 우리 왕국의 행정관으로 삼을 것이다.</ko>
+		<fixja>生存者を選別した我らは、その中から最も秀でた者を拡大した領土で文官として仕えさせた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_EGYPT_AKHENATEN</zType>
@@ -2126,6 +2301,9 @@ Alguns dizem que você está louco, mas você prefere pensar em si mesmo como al
 		<ko>당신은 제18 왕조의 {CHARACTER-1}입니다. 당신은 진정한 신이 하나밖에 없다고 믿으며, 모든 수를 동원하여 모든 이집트인이 아톤을 숭배하게 할 것입니다. 당신이 구상하는 이집트에서 다신교는 이단이자 불법입니다. 많은 사람이 당신의 관점에 논란이 있다고 지적하지만, 당신은 믿음에 관한 이야기를 들은 사람에게 광적인 믿음을 일으킬 능력이 있습니다.
 
 당신에게 미쳤다고 하는 사람도 있지만, 당신은 신에 집중했을 뿐입니다. 이 집중력을 발휘하여 고대 전역에 아톤의 영광을 퍼뜨리십시오!</ko>
+		<fixja>あなたは第18王朝のファラオ・{CHARACTER-1}だ。唯一にして真の神「アテン」の存在を信奉しており、エジプト全域で「アテン」を崇拝させるためならば、どんなことでもする。あなたのいるエジプトにおいて、多神教は異端であり、その信仰は法で禁じられている。あなたの見解は物議を醸すと多くの者が言う。しかし、あなたが信念を語るとき、その話に耳を傾ける者たちは熱狂の渦に巻き込まれていた。
+
+中には、あなたのことを「狂人」と呼ぶ者もいた。だがそれは、自身の心を神に向けているが故、当然のことであった。そして、あなた自身もそう考える方を好んでいた。その一つのことに専心する力をもって、全世界にアテンの栄光を広めるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_EGYPT_RAMESSES_II</zType>
@@ -2159,6 +2337,9 @@ Grande parte do Egito tem altas expectativas sobre o seu governo. Alguns acredit
 		<ko>당신은 '라에 의해 태어난 자', 제19 왕조의 {CHARACTER-1}입니다. 북부 람세스 가문 출신이며 전차의 뒷자리에서 자랐습니다. 당신은 전차와 이동 전술에 관한 모든 것을 알고 있습니다. 당신은 통치에 관심이 많은 학생이었고, 아버지이자 파라오인 세티 1세를 보고 배웠습니다.
 
 이집트의 많은 사람은 당신이 위대한 통치자가 되는 것은 물론이고, 역대 최고의 이집트 파라오로 올라서는 것에 큰 기대를 걸고 있습니다. 통치 능력과 전차의 기술을 조합하여 이집트를 고대의 영광으로 이끌어 주십시오!</ko>
+		<fixja>あなたは第19王朝のファラオ・{CHARACTER-1}だ。その誕生名には「ラーは彼に生を与えた者」という意味がある。北方にあるラメシド家の出身で、チャリオット（戦闘用の二輪馬車）に乗って育った。それゆえ、チャリオットと機動戦術に長けている。あなたはまた、統治について熱心に学び、父であるファラオ・セティ1世から見習い、学んだ。
+
+エジプト国内の人々の多くは、あなたが素晴らしい支配者になることを期待している──もしかすると、歴代ファラオの中でも、最も偉大なる王になるかもしれないと。その統治の才と熟練したチャリオットの技術を組み合わせ、エジプトを世界の栄光へと導け！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BIRTH_OF_A_LEGEND</zType>
@@ -2172,6 +2353,7 @@ Grande parte do Egito tem altas expectativas sobre o seu governo. Alguns acredit
 		<zh-CN>你赢得了第一场胜利，今后必将会获得更多伟大的胜利，你在战斗中的英勇事迹开始在王国中流传。</zh-CN>
 		<pt-BR>Após esta que, sem dúvidas, será a primeira de muitas grandes vitórias, as histórias sobre as suas proezas em batalha começarão a circular pelo reino.</pt-BR>
 		<ko>앞으로도 수많은 위대한 승리를 거둘 것이 분명한 당신이 첫 번째 승리를 거뒀습니다. 전투에서 당신이 펼친 기량에 관한 이야기가 왕국에 퍼지기 시작합니다.</ko>
+		<fixja>これから収めるだろう数ある勝利のうち、最初の一勝を挙げたことで、あなたの優れた軍事能力の話が領土全体に広がり始めている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_RAMESSES_BIRTH_OF_A_LEGEND_0</zType>
@@ -2185,6 +2367,7 @@ Grande parte do Egito tem altas expectativas sobre o seu governo. Alguns acredit
 		<zh-CN>抄写员会把我的事迹铭刻在宫殿的墙上，激励所有人。</zh-CN>
 		<pt-BR>Meus escribas entalharão as histórias das minhas conquistas nas muralhas do palácio para que inspirem a todos.</pt-BR>
 		<ko>필경사들이 나의 업적에 관한 이야기를 궁전 벽에 새겨 모두에게 영감을 주도록 하라.</ko>
+		<fixja>書記官たちは、余が成した偉業の物語を宮殿の壁に刻む。皆、感銘を受けるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_HATTI_MURSILI_II</zType>
@@ -2218,6 +2401,9 @@ Alguns dizem que você é link(TRAIT_INEXPERIENCED) demais. Você você provará
 		<ko>당신은 {PLAYER-0}의 어린 왕인 {CHARACTER-1}입니다. 아버지인 위대한 수필룰리우마는 최근에 역병에 걸려 세상을 떠났고, 곧이어 아버지의 후계자이자 당신의 형제인 아르누완다 2세의 목숨도 앗아갔습니다. 당신은 적이 많은 국가의 통치자 역할을 떠맡았습니다. 
 		
 일부는 당신을 link(TRAIT_INEXPERIENCED)이라고 말합니다. 어떻게 당신의 가치를 증명하고 선조의 유산을 기리시겠습니까?</ko>
+		<fixja>あなたは{PLAYER-0}の若き王、{CHARACTER-1}である。偉大なる戦士であり、政治家としても名声を博した父、シュッピルリウマがペストで亡くなり、その直後に父の後継者であり、あなたの兄であるアルヌワンダ2世も疫病で倒れてしまう。そして今、多くの敵を抱える国の統治者として、あなたがその役割を担うこととなったのだ。
+		
+一部には、あなたのことをlink(TRAIT_INEXPERIENCED)と呼ぶ者もいる。さあ、祖先の遺したものを讃え、自らの価値を証明せよ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_MURSILI_II_CLEAR_TRIBES</zType>
@@ -2231,6 +2417,7 @@ Alguns dizem que você é link(TRAIT_INEXPERIENCED) demais. Você você provará
 		<zh-CN>曾经威胁{PLAYER-0}的人如今已被你击败。你的军事实力威名远扬，几乎没有人再怀疑你的能力。然而，未竟之事还有很多。</zh-CN>
 		<pt-BR>Aqueles que um dia ameaçaram {PLAYER-0,4} pereceram pelas suas mãos. Conforme as histórias sobre seus feitos militares se espalham, há poucos que sigam duvidando das suas habilidades. Mas ainda há muito trabalho a ser feito.</pt-BR>
 		<ko>{PLAYER-0}(을)를 위협했던 자들이 당신의 손에 쓰러졌습니다. 당신의 군사력에 관한 소문이 퍼지자 당신의 능력을 의심하는 사람은 거의 없습니다. 하지만 아직도 해야 할 일이 많습니다.</ko>
+		<fixja>かつて{PLAYER-0}を脅かしていた者たちは、あなたの手によって討たれた。その軍事力の噂が広まるにつれ、あなたの能力を疑う者はほとんどいなくなっていた。しかし、やるべきことはまだたくさんある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_MURSILI_II_FOUND_CITIES</zType>
@@ -2244,6 +2431,7 @@ Alguns dizem que você é link(TRAIT_INEXPERIENCED) demais. Você você provará
 		<zh-CN>{PLAYER-0}在你的统治下已经确立了在世界上的地位。你的开拓者们从{CITY-1}出发，勇敢地走出边境，在未开垦的土地上建立了新的城市。几乎没有人再怀疑你的能力。然而，未竟之事还有很多。</zh-CN>
 		<pt-BR>Sob o seu comando, {PLAYER-0,4} se estabeleceu na vastidão do mundo. Partindo da cidade de {CITY-1}, seus colonos desbravaram as fronteiras para fundar novas cidades nas terras selvagens. Há poucos que sigam duvidando das suas habilidades, mas ainda há muito trabalho a ser feito.</pt-BR>
 		<ko>당신의 통치하에 {PLAYER-0}(이)가 이 세상에서 자리를 잡았습니다. {CITY-1}에서 출발한 개척자들이 용감하게 탐험에 나서 야생의 땅에 새로운 도시를 설립했습니다. 당신의 능력을 의심하는 사람은 거의 없지만, 아직도 해야 할 일이 많습니다.</ko>
+		<fixja>あなたの統治下で、{PLAYER-0}はこの世界で一定の地位を確立した。 {CITY-1}を発った開拓者たちは新たな都市を建設するため、辺境の地へと勇ましく向かっていった。あなたの能力を疑う者はもう殆どいない。しかし、やるべきことはまだたくさんある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_HATTI_SUPPILULIUMA</zType>
@@ -2277,6 +2465,9 @@ Motivé and link(TRAIT_AMBITIOUS), vous avez de grands projets pour {PLAYER-0}.<
 		<ko>당신은 {CHARACTER-1}입니다. 아버지인 {CHARACTER-2}의 사망 이후 {PLAYER-0}(을)를 이끌 준비가 됐습니다. 당신은 아버지 곁에서 쇠락하는 {PLAYER-0,1} 제국을 살렸습니다. 더는 방해가 되지 않는 당신의 형제 {CHARACTER-3}의 자리를 대신하는 것은 자연스러운 일이었습니다.
 		
 의욕이 넘치는 link(TRAIT_AMBITIOUS)인 당신은 {PLAYER-0}에 대한 원대한 계획이 많습니다.</ko>
+		<fixja>あなたは{CHARACTER-1}──父、{CHARACTER-2}の死後、{PLAYER-0}を率いる準備を整え、父の側についていた者たちと共に衰退しつつある{PLAYER-0,1}帝国を救った。その後、邪魔な兄{CHARACTER-3}に代わって、あなたが国の主導権を握る。それは自然な成り行きであった。
+		
+熱心かつlink(TRAIT_AMBITIOUS)なあなたは、{PLAYER-0}のために壮大な計画を数多く練っていた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_SUPPILULIUMA_DEATH_AFAR</zType>
@@ -2310,6 +2501,9 @@ Tragicamente, {CHARACTER-SHORT-2} foi {G2:morto:morta} no caminho {PLAYER-0,5}. 
 		<ko>{PLAYER-0}(과)와 더 긴밀히 지내고 국고에 돈을 더 확보하는 것은 이로운 협정 같았습니다. 당신의 {G2:아들:딸} {CHARACTER-2}(을)를 {PLAYER-0,1}의 왕조로 결혼을 보내는 대신 외교 청탁을 들어주고 넉넉한 지참금을 받기로 할 예정이었습니다.
 
 하지만 안타깝게도 {CHARACTER-SHORT-2}(이)가 {PLAYER-0}에 가는 도중에 살해됐습니다. 당신은 자초지종을 명확히 설명하지 못하는 무능한 궁정을 비난하지만, {CHARACTER-SHORT-2}(은)는 {PLAYER-0,1} 국경 안에서 사망한 것으로 보입니다.</ko>
+		<fixja>それは有益な取り決めに思えた。{PLAYER-0}との絆が深まり、こちらの財政も潤う。あなたの{G2:son:daughter}である{CHARACTER-2}は、外交的な繋がりと多額の持参金を携えて、{PLAYER-0,1}の王家へと嫁ぐことになっていた。
+
+しかし、悲劇的なことに{CHARACTER-SHORT-2}は{PLAYER-0}へ向かう途中で殺されてしまう。あなたは無能な宮廷の不手際と、何が起こったのか明確な情報を掴めないことに憤りを覚える。だが、{CHARACTER-SHORT-2}が{PLAYER-0,1}の国境内で亡くなったのは確かなようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_HATTI_HANTILI</zType>
@@ -2323,6 +2517,7 @@ Tragicamente, {CHARACTER-SHORT-2} foi {G2:morto:morta} no caminho {PLAYER-0,5}. 
 		<zh-CN>{CHARACTER-2}已经去世了。你在自己的同谋和女婿{CHARACTER-SHORT-3}的帮助下夺取了权力宝座，准备领导{PLAYER-0}继续前进。我们在国内外都有许多敌人，你优先考虑在{PLAYER-0,1}的所有新城市周围建造link(PROJECT_WALLS)。</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-2} está {G2:morto:morta}. Com a ajuda do seu enteado e cumplice, {CHARACTER-SHORT-3}, você assumiu o trono e está pronto para liderar {PLAYER-0,4}. Com tantos inimigos dentro e além de nossas fronteiras, você dá prioridade à construção de link(PROJECT_WALLS) em volta das cidades {PLAYER_F-0,3}.</pt-BR>
 		<ko>{CHARACTER-2}(이)가 사망했습니다. 공범이자 사위인 {CHARACTER-SHORT-3}의 도움으로 왕좌를 차지한 당신은 {PLAYER-0}(을)를 이끌 준비가 됐습니다. 내부와 국경 너머에 적이 많은 당신은 새로운 {PLAYER-0,1} 주변에 link(PROJECT_WALLS)을 짓는 것을 최우선 과제로 삼습니다.</ko>
+		<fixja>{CHARACTER-2}は死んだ。あなたは共犯者であり、義理の息子でもある{CHARACTER-SHORT-3}の助けを得て王位に就き、{PLAYER-0}を前へと導く準備を整えた。国境内外には多くの敵がいる。そのためあなたは、{PLAYER-0,1}の新たな都市全てに、link(PROJECT_WALLS)を優先して建設するよう命じた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_HATTI_PUDUHEPA</zType>
@@ -2336,6 +2531,7 @@ Tragicamente, {CHARACTER-SHORT-2} foi {G2:morto:morta} no caminho {PLAYER-0,5}. 
 		<zh-CN>你是{CHARACTER-SHORT-1}，{PLAYER-0,3}的{TITLE-1}。你的link(TRAIT_SICKLY)丈夫{CHARACTER-SHORT-2}频繁生病，于是你接管了国家领导权。你不仅要处理与其他国家的外交关系和国内的司法事务，还要把很多时间花在推进link(RELIGION_PAGAN_HITTITE)统一和合法化上，这一过程被称为link(PROJECT_SYNCRETISM)。</zh-CN>
 		<pt-BR>Você é {CHARACTER-SHORT-1}, {TITLE-1} dos {PLAYER-0,3}. Com seu marido {CHARACTER-SHORT-2} sempre link(TRAIT_SICKLY), você assumiu a liderança da nação. Além de lidar com as relações diplomáticas estrangeiras e as questões jurídicas nacionais, você dedicou muito do seu tempo para unificar e racionalizar os vários aspectos do link(RELIGION_PAGAN_HITTITE), um processo chamado de link(PROJECT_SYNCRETISM).</pt-BR>
 		<ko>당신은 {PLAYER-0,3}의 {TITLE-1} {CHARACTER-SHORT-1}입니다. link(TRAIT_SICKLY) 당신의 남편 {CHARACTER-SHORT-2}(이)가 자주 아픈 탓에 당신이 나라를 이끌게 되었습니다. 대외적으로는 외교 관계, 내부적으로는 사법 문제를 처리하는 당신은 많은 시간을 들여 link(RELIGION_PAGAN_HITTITE)의 다양한 분야를 통합하고 합리화했으며, 이 과정은 link(PROJECT_SYNCRETISM)로 알려졌습니다.</ko>
+		<fixja>あなたは{CHARACTER-SHORT-1}、{PLAYER-0,3}の{TITLE-1}である。link(TRAIT_SICKLY)な夫、{CHARACTER-SHORT-2}がしばしば病気にかかるため、指導者としての役割はあなたが代わりに引き受けていた。海外での外交や国内の司法問題を扱うだけではなく、link(RELIGION_PAGAN_HITTITE)の諸側面を統一し、国を合理的に動かすために多大な時間を費やしてきた。この過程はlink(PROJECT_SYNCRETISM)として知られている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_HANTILI_REFLECTION</zType>
@@ -2349,6 +2545,7 @@ Tragicamente, {CHARACTER-SHORT-2} foi {G2:morto:morta} no caminho {PLAYER-0,5}. 
 		<zh-CN>你在黑暗的夜晚醒来，周围如死一般的寂静，你只能听见自己的心跳。多年来，你对统治{PLAYER-2}的成果都觉得比较满意，但最近你的思想陷入了黑暗的过去。多年前，你是否有正当的理由将{CHARACTER-SHORT-1}赶下王位，还是说曾经的那个年轻人的野心实在太过庞大？</zh-CN>
 		<pt-BR>Você acorda no meio de uma noite tomada pela escuridão e pelo silêncio, na qual consegue ouvir apenas as batidas do seu coração. Por muitos anos você esteve satisfeito em governar {PLAYER-2,4}, mas ultimamente seus pensamentos estão nos anos sombrios do seu passado. Você tinha mesmo uma boa justificativa para tirar {CHARACTER-SHORT-1} do trono todos aqueles anos atrás, ou foi apenas a ambição de um jovem que foi longe demais?</pt-BR>
 		<ko>어둡고 쥐 죽은 듯 조용한 밤, 당신은 두근대는 심장 때문에 잠에서 깹니다. 당신은 수년간 {PLAYER-2}(을)를 통치하며 만족감을 느꼈지만, 최근에는 어두운 과거를 떠올립니다. 오래전 {CHARACTER-SHORT-1}(을)를 왕좌에서 끌어내렸던 것이 정당한 일이었을까요? 아니면 젊은이의 야망이 도를 넘었던 것일까요?</ko>
+		<fixja>心臓の鼓動以外は何も聞こえない。暗くて死のように静かな夜に目覚める。長年にわたり、あなたは{PLAYER-2}を治めることに充実感を得てきた…だが、近頃はあの暗い過去に思いを馳せることが増えた。数年前、王座から{CHARACTER-SHORT-1}を追放したあの行動は正しかったのか、それとも行き過ぎた若気の至りだったのか…？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HATTI_PUDUHEPA_WAR_OFFER</zType>
@@ -2382,6 +2579,9 @@ The {PLAYER-0,1} {TITLE-1} has been looking for a match for {G1:his:her} {G2:son
 		<ko>궁정과 국경 근처에 있는 {PLAYER-0,1} 부대의 소문에 의하면 {PLAYER-0}(과)와의 관계가 최악의 상태인 듯합니다. 하지만 {CHARACTER-1}(과)와 과거에 관계를 맺었던 당신은 평화의 여지가 남아 있다는 것을 압니다.
 
 {PLAYER-0,1} {TITLE-1}(은)는 {G2:아들:딸}의 짝을 찾고 있었습니다. 당신은 {CHARACTER-4}(을)를 보내겠다는 말만 하면 됩니다.</ko>
+		<fixja>宮廷で広がる噂と、国境付近の{PLAYER-0,1}軍の存在──様子を見るに、{PLAYER-0}との関係は最悪のようだ。しかし、{CHARACTER-1}との過去のやり取りから、和平への道が開かれていることは分かっている。
+
+{PLAYER-0,1}の{TITLE-1}は、{G2:son:daughter}の結婚相手を探している。{CHARACTER-4}を{G4:his:her}の元へと送り出すには、あなたの一言が必要だ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_PERSIA_DARIUS</zType>
@@ -2415,6 +2615,9 @@ O assassinato passou desapercebido por muitas pessoas, então um impostor se apr
 		<ko>당신은 다라야우쉬입니다. 외국인들이 부르는 이름은 {CHARACTER-SHORT-1}입니다. 다섯 아들 중 장남으로 태어났으며, 당신의 가족은 통치할 운명이 아니었지만, 일련의 이상한 사건이 벌어지며 당신이 왕좌에 올랐습니다. 유력한 통치자 캄비세스는 광분하여 형제인 바르디야를 살해한 뒤 병환으로 생을 마감했습니다.
 			
 사람들 대부분이 살인에 관해 몰랐고, 사칭자가 기회를 잡아 {CHARACTER-SHORT-2}(을)를 사칭하며 적통 왕 행세를 했습니다. 당신은 사칭자를 몰아낸 뒤 {PLAYER-0,1}에서 제일 고귀한 가문의 후계자로 선언하였고, 이제 고대 {PLAYER-0}(을)를 이끄는 일을 맡았습니다.</ko>
+		<fixja>あなたはダーラヤワウ、異国語を話す者は{CHARACTER-SHORT-1}と呼ぶ。5人兄弟の長男であり、その一家は支配者になる運命ではなかったが、奇妙な出来事が立て続きに起き、あなたを王座に導いた。その後継者であったカンビュセスは精神を病み、弟のバルディア（スメルディス）を殺害した後、やがて自らも病に倒れる。
+
+その一件を知る者はほとんどいなかったため、ある詐欺師がこれをチャンスとばかりに{CHARACTER-SHORT-2}と名乗り、正統なる王のフリをした。そこであなたはその詐欺師を退けて、自らが{PLAYER-0}家の中で最も高貴な血筋の子孫であることを宣言する。そして今、{PLAYER-0}を導く責任があなたに託されている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_PERSIA_SHAPUR</zType>
@@ -2448,6 +2651,9 @@ Seu pai lhe considerava o mais valente e sábio dos filhos dele, como você veio
 		<ko>당신은 사산 가문의 {CHARACTER-SHORT-1}입니다. 가문의 이름은 아버지 아르다시르가 위대한 조상을 기리며 지은 것입니다. 이 지역의 원주민이 아닌 당신의 가문은 페르시스에 정착하였고, 이전 제국들이 몰락했던 곳에 새로운 제국을 세우는 것이 당신 혈통의 임무가 되었습니다.
 		
 당신의 아버지는 당신을 제일 용감하고 현명한 자식으로 여겼으며, 당신은 파르티안과의 전투에서 이를 입증했습니다. 당신은 이제 정당한 통치자가 되었으며 아버지의 뒤를 이어 이란샤르를 위대한 제국으로 만들고 고대 아카에메니드의 유산을 넘어서야 합니다.</ko>
+		<fixja>あなたは{CHARACTER-SHORT-1}──サーサーン家の出身で、父アルダシールが偉大なる祖先を称え、その名を付けた。サーサーン家はこの地域の出身ではなかったが、ペルシスに定住したことで前帝国が滅びた場所に新たな帝国を築くことが、その血筋に託される。
+
+パルティアとの戦いでその実力を示したことで、あなたは父から、自身の子供の中で最も勇敢で賢い者だと見なされるようになった。そして今、あなたはその権限をもって正統なる後継者となった。父の歩んだ道を切り拓き続けろ。かつて、この地で栄えたアケメネス朝を凌駕する偉大な帝国を生み出すのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_FOUNDED</zType>
@@ -2481,6 +2687,9 @@ Conforme essa nova religião se estabelece, você tem a oportunidade de discutir
 		<ko>{CITY-1}에서 완벽히 새로운 가르침이 시작됩니다. 신자들은 이를 {RELIGION-0}로 부릅니다. {PLAYER-2}에 있었던 다른 신앙과 전혀 다른 교리입니다. 새로운 종교는 전지적이자 영원한 존재인 아후라 마즈다가 세상의 모든 것을 창조했다고 가르칩니다. 신자들은 정교한 예배 의식에 동원되는 불과 물 같은 태고의 요소들이 창조 자체에 이바지했다고 믿습니다.
 		
 새로운 종교가 설립되면서 {RELIGION-0,1}의 지도자들과 그들의 가르침을 의논할 기회가 생겼습니다. 제일 중요하게 배워야 할 것이 무엇이라고 생각하십니까?</ko>
+		<fixja>{CITY-1}で全く新しい教えが生まれた…信者たちは、それのことを{RELIGION-0}と呼んでいる。{PLAYER-2}に以前存在していた、そのどれとも違う魅力的な信仰体系である。教義には、全知全能で永遠の存在である「アフラ・マズダ」がすべてを創造したという教えがあり、その複雑な礼拝儀式には火と水が用いられる。これは「創造」の過程で、信者達が明確な役割を果たしたと考えている根源的な要素だ。
+
+新宗教が根付き始める中、あなたはその教えについて{RELIGION-0,1}の指導者と議論を交わす機会があった。ここで最も重要だと思われる学びとは…？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_BARRACKS</zType>
@@ -2514,6 +2723,9 @@ O que podemos fazer para preparar esse guerreiros da melhor forma possível?</pt
 		<ko>{CITY-0}(은)는 {PLAYER-2,1} 전사들을 훈련할 준비가 됐습니다. 강력한 {RELIGION-1,1}의 전통을 따르던 도시 출신의 전사들은 {PLAYER-2}(을)를 위한 투사 이상의 존재가 될 것입니다. 그들은 아후라 마즈다, 아샤, 진실을 위해서도 싸울 것입니다. 이는 고귀한 소명이자 숭고한 과업입니다.
 		
 이 전사들을 최고의 상태로 준비하기 위해 어떤 일을 하시겠습니까?</ko>
+		<fixja>{CITY-0}にて、{PLAYER-2,1}の戦士を鍛え上げる用意ができた。{RELIGION-1,1}は大いなる伝統を持つ都市だ。そこから来た戦士たちは、{PLAYER-2}の為の戦士を超えた存在となり得る。アフラ・マズダのため、アーシャ──すなわち真理のためにも剣を持って戦う。これは重大な命であり、尊き任務でもある。
+
+この戦士たちを準備をさせるにも、できる限り最善の方法で行いたい…我々に何ができるのだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_CHARIOT</zType>
@@ -2547,6 +2759,9 @@ Como rei, você tem mais a considerar do que apenas crenças religiosas, mas a i
 		<ko>{UNIT-4} 부대가 {CITY-0}에서 전투를 준비하는 가운데 {RELIGION-1,1}의 신관들이 흥미로운 제안을 합니다. 그들은 우리의 군대가 전투에 임할 때 최고의 말이 빈 전차를 끌도록 하여 아후라 마즈다가 직접 전투에 참여할 수 있는 자리를 마련해야 한다고 주장합니다.
 		
 당신은 왕으로서 종교적 믿음 외에도 고려해야 할 요소가 많지만, 신관의 제안에도 어느 정도 일리가 있다고 생각합니다.</ko>
+		<fixja>{UNIT-4}が戦闘の準備をしていると、{RELIGION-1,1}の賢者たちが興味深い提案をしてきた。曰く、我が軍が戦いに向かう際には常に、優秀な馬に引かれた空の戦車に随伴させるべきだと言う。戦闘に加わりたいとアフラ・マズダが望めば、そのための場所が与えられることになる。
+
+王である以上、宗教的信条よりも考慮すべきことがある。だが、賢者たちの考えにも魅力的なものがあった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_MONASTERY</zType>
@@ -2580,6 +2795,9 @@ Como a corte real prestará seu reconhecimento à nova casa de adoração?</pt-B
 		<ko>{RELIGION-1,1}의 새로운 예배 장소가 {CITY-0}에서 그 신성한 문을 열자 신자들 사이에서 새로운 전통이 만들어집니다. 신성한 사원의 중심에는 반구형 지붕이 있고, 그 아래에는 불의 제단이 있습니다. 숭배자들은 가져온 제물을 불에 넣어 아후라 마즈다에게 바칩니다.
 		
 이 새로운 예배 공간을 왕실에서 어떤 방식으로 인정하시겠습니까?</ko>
+		<fixja>{CITY-0}に{RELIGION-1,1}の新たな礼拝所が建てられた。その聖なる扉が開かれると、信者たちの間で新たな慣習が生まれ始める。この神聖な場所の中心──そのドームの下にある火の祭壇へ、信者たちが捧げ物を置いていく…アフラ・マズダに献上しているのだ。
+
+宮廷として、この新たな礼拝所を認めるべきか否か、考えなければ…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_STATE_RELIGION</zType>
@@ -2593,6 +2811,7 @@ Como a corte real prestará seu reconhecimento à nova casa de adoração?</pt-B
 		<zh-CN>{PLAYER-1}的历史进入了新纪元，这个纪元的主题是光明、寻求真理、通往正义之路，所有人都在{RELIGION-0}的引领下努力奋斗。这种信仰现在成为了{PLAYER-1}的官方宗教，作为{RELIGION-0,1}国家的国王，你会发表怎样的宣言？</zh-CN>
 		<pt-BR>A história {PLAYER-1,6} entrou em uma nova era guiada pelo {RELIGION-0}, uma era de luz, marcada pela busca da verdade e do caminho da retidão. Como esta agora é a religião oficial {PLAYER-1,6}, qual será sua proclamação como rei de uma nação devota ao {RELIGION-0}?</pt-BR>
 		<ko>{PLAYER-1}의 역사가 새로운 시대에 접어들었습니다. {RELIGION-0}의 인도로 빛, 진실 추구, 정의 실현을 향한 길, 노력의 시대가 열린 것입니다. 이제 이 신앙이 {PLAYER-1}의 공식 종교입니다. {RELIGION-0,1} 나라의 왕으로서 어떤 선언을 하시겠습니까?</ko>
+		<fixja>{PLAYER-1}の歴史は新時代に入った。光と真実を求め、正義への道を歩む時代、{RELIGION-0}によって導かれる時代だ。この信仰が{PLAYER-1}の国教となった今、あなたは{RELIGION-0,1}の国王として、どのような布告を出すべきなのだろうか。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_SHAPUR_ZOROASTRIANISM_PLEASED</zType>
@@ -2626,6 +2845,9 @@ Como você gostaria de ser homenageado?</pt-BR>
 		<ko>당신은 추종자들 사이에서 {RELIGION-0}의 후원자로 알려졌습니다. 종교 수장들과 일반 추종자들은 당신을 깊이 존경합니다. 신관들이 선의와 존경의 표시로 당신을 위한 축복과 기념식을 제안합니다.
 		
 어떤 방식으로 당신을 기리면 좋겠습니까?</ko>
+		<fixja>{RELIGION-0}にいる信者の間で、あなたはパトロンとして知られるようになった。宗教指導者も一般の信者たちも、同様にあなたのことを高く評価している。親愛と敬意のしるしとして賢者たちはあなたを祝福し、儀式を行わないかと提案してきた。
+		
+名誉に預かるならば、どのような形が良いだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_PERSIA_STATEIRA</zType>
@@ -2659,6 +2881,9 @@ Mesmo que seu marido seja o rei, é a mãe dele quem tem o verdadeiro poder. Par
 		<ko>당신은 귀족 가문에서 태어나 왕족으로 성장한 {CHARACTER-SHORT-1}입니다. 남편인 아르세스는 강력한 정치적 동맹이 자신을 왕으로 지지할 것이라는 희망을 품고 당신과 결혼했습니다. 아르세스는 아버지에게 후계자로 지목되었고, 아르타크세르크세스의 이름을 받아 목표를 이룰 뻔했지만, 아직도 질투심에 사로잡힌 그의 남동생 키루스는 당신의 남편이 죽기를 바랍니다.
 		
 당신의 남편이 왕이지만, 실세는 그의 어머니인 파리사티스입니다. 파리사티스는 당신의 모든 형제를 죽였고 아직도 아르타크세르크세스를 다른 아들로 대체하려고 합니다. 그녀는 사악하고 교활하지만, 당신은 가장 사랑받는 여왕이고, 남편과 백성의 존경을 받고 있습니다. 파리사티스를 상대로 우위를 점한다면, 당신이 고대 {PLAYER-0}의 진정한 여왕이 될 것입니다.</ko>
+		<fixja>あなたは{CHARACTER-SHORT-1}、貴族として生まれ、王族にまで上り詰めた女性である。夫のアルセスは王の地位を支える強力な政治的な同盟を期待して、あなたと結婚した。父から王位継承者として指名された彼は、アルタクセルクセスと名乗るようになる。だが、弟のキュロスは嫉妬深く、夫の死を望んでいる。
+		
+名目上、夫は王であるものの、実権を握っていたのは彼の母パリュサティスである。パリュサティスはあなたの兄弟を皆殺しにし、アルタクセルクセスの後釜にもう一人の息子を据えようとしている。邪悪で狡猾な女だ。一方、あなたは女王として非常に愛されており、夫だけでなく、民衆からも高い評価を受けていた。パリュサティスに打ち勝つことができれば、{PLAYER-0}の真の女王となれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_PARYSATIS_MASABATES</zType>
@@ -2692,6 +2917,9 @@ Por mais influente que {CHARACTER-SHORT-2} seja, você é a rainha e o povo lhe 
 		<ko>당신의 시어머니 {CHARACTER-2}(이)가 비열하고 잔인한 면모를 끊임없이 드러냅니다. 이번에 그녀가 선택한 피해자는 {CHARACTER-3}의 하인인 마사바테스로입니다. {CHARACTER-SHORT-2}(이)가 마사바테스를 걸고 {CHARACTER-SHORT-3}에게 주사위 내기를 제안했는데, 어리석게도 이를 받아들인 당신의 남편이 내기에서 졌습니다. 이제 마사바테스는 {CITY-4}에서 잔인하게 처형될 예정이고, {CHARACTER-SHORT-2}(은)는 손을 쓸 수 없는 {CHARACTER-SHORT-3}의 처지를 조롱합니다.
 		
 {CHARACTER-SHORT-2}(은)는 영향력이 있지만, 당신은 여왕이고 사람들은 당신을 지지합니다. 이 처형이 진행되는 것을 허용하시겠습니까?</ko>
+		<fixja>義母、{CHARACTER-2}の卑劣かつ残虐な行為は止まらない。今回、彼女が選んだターゲットは{CHARACTER-3}の使用人、マサバテス──{CHARACTER-SHORT-2}は、マサバテスの命を賭けたダイスゲームを{CHARACTER-SHORT-3}に提案した。愚かにも、夫はこれを受け──その勝負に負けた。そして今、マサバテスは{CITY-4}で無残にも処刑されようとしている。{CHARACTER-SHORT-2}は{CHARACTER-SHORT-3}は無力だとあざ笑っている。
+		
+{CHARACTER-SHORT-2}の影響力は大きい…だが、ここでの王はあなただ。国民からの支持も厚い。さあ、このまま処刑を黙って過ごすのか…？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_PARYSATIS_POISON</zType>
@@ -2725,6 +2953,9 @@ Dessa vez, {CHARACTER-SHORT-2} quer ir além dos já esperados jogos mentais del
 		<ko>{CHARACTER-2}(이)가 당신과 {CHARACTER-3}(을)를 저녁 식사에 초대했습니다. 전혀 달갑지 않은 초대입니다. {CHARACTER-SHORT-2}(은)는 늘 이런 만찬을 기회로 삼아 당신의 남편을 조종하고 당신을 깎아내리며, 당신에 대한 증오나 {CHARACTER-SHORT-3}에 대한 경멸을 숨기려고 하지도 않습니다.
 		
 이번에는 {CHARACTER-SHORT-2}(이)가 평소의 심리전보다 심한 일을 꾸밉니다. 그녀가 더 치명적인 계략으로 당신을 저녁 식사 때 독살할 계획이라는 경고를 받았습니다. {CHARACTER-SHORT-2}(이)가 자기 손으로 당신과의 경쟁 관계를 끝내기로 마음을 먹은 듯합니다.</ko>
+		<fixja>{CHARACTER-2}から、今夜、一緒に夕食を食べないかと招待を受ける。招かれたのは、あなたと{CHARACTER-3}の2人。仮に行ったとしても、一緒に夕食を楽しめるわけがない…なぜなら、{CHARACTER-SHORT-2}がいるからだ。その場で夫は何かしらの影響を受け、さらにはあなたを貶める機会として利用されるだけだ。あなたに向けた憎悪や{CHARACTER-SHORT-3}への軽蔑を、彼女は隠そうともしない。
+
+今回、{CHARACTER-SHORT-2}はいつもの心理戦以上のこと──つまり、もっと危険なゲームを行おうとしている。警告を受ける。彼女は夕食の席であなたを毒殺するつもりらしい。どうやら彼女なりのやり方で、この対立関係を終わらせることにしたようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP</zType>
@@ -2758,6 +2989,9 @@ Enquanto {CHARACTER-SHORT-2} repreende seu marido, o prato principal é trazido 
 		<ko>당신은 {CHARACTER-SHORT-2}, {CHARACTER-SHORT-3}(과)와 함께 저녁 식사 자리에 앉았고, 드넓은 회랑에는 세 사람과 하인 몇 명 외에는 아무도 없습니다. {CHARACTER-SHORT-2}의 충직한 하인인 기기스가 은밀한 눈빛으로 당신을 바라보는 것이 느껴집니다. 당신의 음식에 독을 넣은 자가 저 사람일까요?
 		
 {CHARACTER-SHORT-2}(이)가 당신의 남편을 질책하는 가운데 주요리로 구운 새가 나왔고, {CHARACTER-SHORT-2}의 표정은 당신의 기대와 어긋납니다. 기기스가 새를 잘라 세 사람 앞에 냅니다. 이제 당신과 {CHARACTER-SHORT-3}(이)가 그녀의 참견에서 벗어날지, 아니면 그녀의 계략에 희생될지 결정해야 합니다.</ko>
+		<fixja>あなたは{CHARACTER-SHORT-2}と{CHARACTER-SHORT-3}と共に夕食をとっている。広々とした室内には、その3人以外誰もいない。{CHARACTER-SHORT-2}の最も忠実な使用人の一人、ギギスがそわそわとしながら、こちらを見ているのに気付く。まさか、食事に毒を盛るために彼が選ばれたのか…？
+
+{CHARACTER-SHORT-2}の夫に対する非難の声が響く中、メインディッシュの鳥の丸焼きが運ばれてくる。すると、{CHARACTER-SHORT-2}が何かを期待するかのような表情を浮かべた。ギギスがその鳥を切り分け、あなたたち3人の前に差し出す。慎重に考えなければ…次の選択が運命の分かれ目となる。{CHARACTER-SHORT-3}と共に彼女の干渉から解放されるか、その計略に屈して犠牲者となるか…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_STATEIRA_CYRUS_REBELS</zType>
@@ -2791,6 +3025,9 @@ Uma antiga disputa familiar está prestes a cobrir as ruas de {CITY-4} de sangue
 		<ko>{CHARACTER-SHORT-2}(은)는 왕이 아니라는 사실을 받아들인 적이 없었고, 그의 어머니 {CHARACTER-SHORT-1}(은)는 왕위를 향한 아들의 야망을 드러내 놓고 지지했습니다. 그래서 {CITY-4}에서 전해진 소식이 놀랍지 않습니다. 불만으로 가득한 {FAMILY-3} 가문의 귀족들과 동맹을 맺은 {CHARACTER-SHORT-2}(이)가 당신의 통치에 공개적으로 이의를 제기했습니다.
 		
 오랫동안 이어진 가문의 불화가 {CITY-4}의 거리를 붉은 피로 물들이기 직전입니다.</ko>
+		<fixja>{CHARACTER-SHORT-2}は己が王でないことを認めず、母の{CHARACTER-SHORT-1}も、彼の王としての野心を隠すことなく支持していた。そのため、{CITY-4}から届いた知らせにはさほど驚かなかった。{CHARACTER-SHORT-2}は、あなたの統治に不満を持つ{FAMILY-3}の貴族の中から、公然と異議を唱える味方を見つけたのだ。
+
+長年にわたる家族間の確執が、{CITY-4}の通りを血で赤く染めようとしている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_PERSIA_CYAXARES</zType>
@@ -2824,6 +3061,9 @@ Sua única escolha é reunir um exército, empunhar sua espada e avançar. Se fa
 		<ko>당신은 프라오르테스의 아들이자 메데스의 왕인 {CHARACTER-SHORT-1}입니다. 당신의 아버지는 이 지역의 막강한 열강들을 상대로 반란을 이끌어 전투를 시작했지만, 우리 왕국의 권력을 회복하지는 못했습니다. {PLAYER-0}(은)는 적대적인 유목민과 공격적인 제국에 둘러싸여 있고, 당신 앞에는 위대한 도전이 기다리고 있습니다.
 		
 당신의 유일한 선택은 군대를 일으키고, 칼을 들고, 공격을 이끄는 것입니다. 실패한다면 당신은 왕국과 함께 잊힐 것입니다. 성공한다면 당신의 이름은 고대 전역에서 공포와 존경의 대상이 될 것입니다.</ko>
+		<fixja>あなたは{CHARACTER-SHORT-1}、メディア王フラオルテスの息子だ。父はこの地域最大の勢力、アッシリアに対して反乱を起こし、戦いの中で敗死した。{PLAYER-0}は敵対する遊牧民と好戦的な帝国に囲まれており、地理的にも厳しい状況に置かれている。
+
+軍を立ち上げ、剣を取り、先陣を切る。あなたに遺された選択肢はそれしかない。失敗すれば、王国と共に人々の記憶から消え去る。成功すれば、その名は畏怖の対象となり、世界中から賞賛を集めることになるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_CYAXARES_SCYTHIAN_ALLIANCE</zType>
@@ -2857,6 +3097,9 @@ Aceitar a oferta não será uma decisão popular. Seu pai foi um limitado vassal
 		<ko>우리 부대가 {TRIBE-2}에 치명적인 패배를 안기자 야만인들이 사절을 보내 우리의 압도적인 우위를 인정합니다. {TRIBE-2}은 어느 정도의 정치적 독립을 보장해 주는 대가로 우리의 아군으로서 우리를 섬기겠다고 합니다.
 		
 제안을 받아들이면 대중이 싫어할 것입니다. 당신의 아버지는 제한된 권력을 가진 {TRIBE-2,1}의 봉신이었고, 당신의 통치는 {TRIBE-2,1} 지배의 그림자에서 시작했습니다. 부족과의 동맹이 정치적 수도를 잃을 만한 가치가 있습니까?</ko>
+		<fixja>我が軍が{TRIBE-2}に決定的な打撃を与えると、蛮族から使者が送られてきた。曰く、こちら側の圧倒的優勢を認め、{TRIBE-2}が政治的な独立を保てるのであれば、同盟国として我々に仕える意志があると言う。
+
+この申し出を受け入れるのは、一般に好まれる行動とは言えないだろう。父は限られた権力しか持たない{TRIBE-2,1}の家臣であり、あなたの統治も{TRIBE-2,1}の支配の影の中から始まった。この同盟は、果たして政治的資本を失うほどの価値があるのだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_DARIUS_BARDIYA_START</zType>
@@ -2890,6 +3133,9 @@ Seja como for, essa é a história que você contou. Qual é a verdade, sábio r
 		<ko>당신은 고작 몇 주간 통치했던 {CHARACTER-2}(을)를 폐위시키고 왕좌를 거머쥐었습니다. {CHARACTER-SHORT-2}(이)가 적통의 왕이었을 것입니다... 하지만 이 사람은 {CHARACTER-SHORT-2}(이)가 아닙니다. 그의 진짜 이름은 가우마타이고 진짜 {CHARACTER-SHORT-2}(이)가 살해당했다는 사실을 알아낸 뒤 뻔뻔하게 왕을 사칭했지만, 당신이 그의 거짓말을 밝혔습니다.
 		
 이게 당신이 모든 행사에서 전한 이야기입니다. 현명한 왕이시여, 진실은 무엇입니까? 이 남자는 도대체 누구입니까? 이 자를 어떻게 처리하시겠습니까?</ko>
+		<fixja>{CHARACTER-2}を退位させ、王位を奪ったあなた。結果として{CHARACTER-2}の在位期間は、僅か数週間ほどに留まった。本来であれば、{CHARACTER-SHORT-2}が正統な王として迎えられていただろう。だが、問題はこの男が「{CHARACTER-SHORT-2}ではなかった」ことだ。彼の本名はガウマタと言う。どういうわけか、本物の{CHARACTER-SHORT-2}が殺害されたことを知った彼は、厚かましくも王になりすました──あなたにその嘘を暴かれるまで。
+
+いずれにせよ、それがあなたの語った話だった。賢王よ、では、真実とは何なのだろう？この男は何者なのか、そしてこの男をどうすべきなのか…？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSIA_DARIUS_BARDIYA_LEADS</zType>
@@ -2923,6 +3169,9 @@ A escolha mais segura seria denunciar {CHARACTER-SHORT-2} publicamente e execut�
 		<ko>당신이 사칭자라고 선언하려는 {CHARACTER-2}의 시도에도, 당신은 {PLAYER-0}의 정당한 통치자로서 왕좌에 다시 올랐습니다. {CHARACTER-SHORT-2}의 행동은 용서할 수 없는 면도 있습니다. 하지만 다르게 생각해 보면 그는 짧은 기간을 통치하며 겁에 질렸고, 어쨌든 반란에 성공한 탁월한 정치가입니다.
 		
 제일 안전한 방법은 공개적으로 {CHARACTER-SHORT-2}(을)를 비난하고 처형하여 당신의 정통성을 강화하는 겁니다. 하지만 주의를 끄는 일에 능숙한 {CHARACTER-SHORT-2}의 능력을 당신에게 이롭게 사용한다면 장기적인 이득을 얻을 수도 있습니다.</ko>
+		<fixja>あなたは正当な統治者として、{PLAYER-0}の王座に戻った。その一方で、{CHARACTER-2}はあなたのことを偽物だと主張している…{CHARACTER-SHORT-2}がしたことは許されない。短い統治期間の中で、彼自身も恐れを成したようだ。クーデターを成功させた{CHARACTER-SHORT-2}は、間違いなく優れた政治家だ。
+
+一番の安全策、それは{CHARACTER-SHORT-2}を公に糾弾し、処刑してしまうことだ。しかし、長期的には{CHARACTER-SHORT-2}の策略を練る才能をこちらの利益のために使ってもらう方がいいのかもしれない…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_ROME_AGRIPPINA</zType>
@@ -2956,6 +3205,9 @@ Tanto a diplomacia como a subversão são ferramentas aceitáveis para alcançar
 		<ko>당신은 원로원으로부터 아우구스타의 칭호를 받았고, 로마의 모든 여성을 뛰어넘은 통치의 권력을 받은 {CHARACTER-0}입니다. 당신의 남편 {CHARACTER-1}의 권력은 날이 갈수록 줄어들고 있습니다. 아우구스투스 황제의 직계 후손인 당신은 귀족들의 존경을 받으며 국정 운영 기술을 잘 파악하고 있습니다. 
 
 외교와 권력 전복은 당신의 야망을 이룰 합리적인 도구입니다. 하나는 확실합니다. 당신은 모든 수를 동원하여 {CHARACTER-2}(을)를 다음 통치자로 세울 것입니다.</ko>
+		<fixja>あなたは{CHARACTER-0}、元老院より「アウグスタ」の称号を、そしてローマにいる他のどの女性よりも強い統治権を与えられた者である。一方、夫{CHARACTER-POSS-1}が有する権力は日に日に弱まっている。皇帝アウグストゥスの直系子孫であるあなたは、貴族からの敬意を一身に受けつつも、卓越した政治手腕を発揮していた。
+
+外交も破壊工作も、自らの野望を達成するための合理的な手段に過ぎない。息子の{CHARACTER-2}を次の統治者にする──どんな手段を使っても。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_ROME_AUGUSTUS</zType>
@@ -2989,6 +3241,9 @@ Já as questões de sucessão podem ser mais complicadas. Sua filha {CHARACTER-S
 		<ko>{CHARACTER-0}님, 로마가 당신의 구상에 맞게 개편됐습니다. 마르쿠스 안토니우스의 죽음으로 당신이 권력을 잡을 길이 활짝 열렸고, 원로원에서 여러 호칭을 부여받았으며, 평민 중 최초로 평생의 황제가 되었으며, 신성한 율리우스 카이사르의 양아들이 되었습니다. 그 누구도 당신의 통치에 반박하지 않을 것입니다.
 
 승계 문제는 조금 더 까다로울 것입니다. 당신의 딸 {CHARACTER-1}(은)는 암살 기도범들과 어울린 뒤 간통과 반역죄로 추방됐습니다. 딸의 악의적인 반란을 용서하시겠습니까? 아니면 당신의 왕조에서 다른 사람을 찾아 아이를 입양한 뒤 제국의 후계자로 삼으시겠습니까?</ko>
+		<fixja>ローマは{CHARACTER-0}のイメージ通りに再構築され、マルクス・アントニウスの死により、権力掌握への道は開かれた。そして今、あなたは元老院から次々と称号を授かり、終身インペラトルとなった。これは新たに神格化されたユリウス・カエサルの養子と同等の最高位である。もはや、あなたの統治に異を唱える者などいない。
+
+それよりも複雑なのは、後継者問題だろう。娘の{CHARACTER-1}が、暗殺者たちと通じていたため、姦通罪と反逆罪で追放されてしまったのだ。この放埓な反逆を許すべきなのか…それとも、王朝内にいる他の誰かを養子として迎え、後継者とするべきか。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_ROME_JULIUS_CAESAR</zType>
@@ -3022,6 +3277,9 @@ Roma se inspira em você, {CHARACTER-SHORT-0}. Vá, veja e vença.</pt-BR>
 		<ko>{CHARACTER-0}인 당신이 로마를 통제한다는 것은 비밀이 아닙니다. 강력하지만 불안정한 {CHARACTER-1}(과)와의 새로운 정치 동맹은 당신의 딸 {CHARACTER-2}의 결혼으로 성사됐습니다. 이제 당신은 새로운 개척에 눈을 돌렸습니다. 원로원의 지지를 유지하면서 권력을 주지 않으려면 로마 국경을 확장하여 부를 거머쥐고 부대원들의 충성심을 얻어야 합니다.
 
 로마가 {CHARACTER-0}인 당신에게 기대를 걸고 있습니다. 가서, 보고, 이기십시오.</ko>
+		<fixja>{CHARACTER-0}がローマを支配していることは、周知の事実である。強力ながらも不安定な国{CHARACTER-1}との新たな政治同盟が、娘{CHARACTER-2}との結婚によって封じられた。今、あなたの焦点は新たな地平へと向けられている。このまま自分の支持基盤と元老院からの権力を保つためには国境を拡大し、富を得て、兵士達からの忠誠心を得る必要がある。
+
+{CHARACTER-0}よ、ローマ中の目があなたに注がれている。さあ、戦いの時だ。来て、見て、勝て。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_ROME_GAIUS_MARIUS</zType>
@@ -3075,6 +3333,11 @@ Com a sua liderança, ainda há muito que se pode melhorar. Mas fique atento, {C
 원로원은 당신이 로마의 어떤 위협도 극복할 수 있는 능력이 있다는 것을 압니다. 당신은 로마 주변과 먼 전장에서 벌어진 전쟁에서 기량을 입증하였고, 로마 군대의 전투 능력을 개선하는 데 집중하기 위해 {CHARACTER-1}처럼 젊고 재능 있는 장군의 역할을 강조했습니다.
 
 당신이 권력을 잡으면 많은 것들이 개선될 것입니다. 하지만 경계하십시오, {CHARACTER-SHORT-0}. 로마에는 맞닥뜨려야 할 위협이 더 많습니다...</ko>
+		<fixja>ローマの政治家が、2回も執政官に任命されるのは異例である。しかし、あなたは既に5回以上執政官を務めてきた。
+
+元老院は知っている…あなたなら、ローマに対するどんな脅威をも乗り越えられることを。距離に関係なく、戦争でその実力を示し、ローマ軍の戦闘力を向上させる。その中でも、若くて才能ある{CHARACTER-1}のような将軍の役割に焦点を当てるのだ。
+
+国の舵取りをするうちに、改善すべき点はたくさん出てくる。だが、油断は禁物だ。ローマには、まだまだ多くの脅威が待ち受けているのだから…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_ROME_SULLA</zType>
@@ -3108,6 +3371,9 @@ Você pode ter chegado ao poder, mas o seu controle sobre ele é frágil. {CHARA
 		<ko>당신은 베누스의 총애를 받는 로마의 독재자 {CHARACTER-0}입니다. 당신이 외국의 전쟁에서 돌아왔을 때 상관이었던 {CHARACTER-1}(이)가 이끄는 평민파가 로마를 장악하고 있었고, 치열하고 난폭한 싸움 끝에 로마를 강제로 점령했습니다.
 
 이제 당신이 권력을 잡았지만, 장악력이 부족합니다. 추방됐지만 위협적인 존재인 {CHARACTER-SHORT-1}(은)는 로마에 돌아올 방법을 찾고 있습니다. 한편 도시에서는 귀족 가문들이 당신의 통치를 받아들이지 않으려고 합니다. 당신은 폭력을 행사하여 자리를 차지했습니다. 자리를 유지할 때도 같은 방법을 써야 할 것 같습니다...</ko>
+		<fixja>あなたは{CHARACTER-0}、ヴィーナスの寵愛を受けたローマの独裁者である。異国での戦争から戻ってきたあなたは、かつての上官{CHARACTER-1}が率いるポプラレスにローマが支配されているのを目の当たりにする。激戦の末、あなたは武力でローマを制圧した。
+
+全権力はあなたのものになったが、その支配は脆弱なものであった。一度は追放された{CHARACTER-SHORT-1}だが、ローマへの帰還を狙う潜在的脅威として、未だに残存していた。街の貴族たちも、あなたの統治を受け入れるつもりがない…そのため、あなたは地位を得るべく暴力的な行動に出てしまう。その座を維持するためには、必要なことなのだ…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_JUGURTHA</zType>
@@ -3141,6 +3407,9 @@ Apesar das tentativas iniciais de acalmar as tensões e de dividir as terras ent
 		<ko>{TRIBE-1}을 점령한 강력한 통치자 {CHARACTER-SHORT-2}(은)는 힘으로 왕좌를 차지한 사생아 왕족입니다. {TRIBE-1,1}의 왕자들과 적통 후계자들이 {PLAYER-0}에 와서 당신에게 도움을 요청합니다. 
 
 초반에는 긴장을 완화하고 권리를 주장하는 사람들끼리 땅을 나누려고 했지만, 얼마 지나지 않아 {CHARACTER-2}(이)가 폭력을 쓰겠다고 위협합니다. {TRIBE-1,1}의 정사에 끼어들면 그들의 분노를 살 것입니다.</ko>
+		<fixja>{TRIBE-1}は、力ずくで王位を奪い取った非嫡出の王族、{CHARACTER-SHORT-2}という手強い相手によって乗っ取られた。{TRIBE-1,1}の王子と正統なる後継者たちが、あなたの助けを求めに{PLAYER-0}へと来た。 
+
+初めは緊張を和らげ、土地の所有を主張する者たち同士でその地を分割させようとしたが、やがて{CHARACTER-2}が武力をちらつかせてくるようになった。{TRIBE-1,1}の問題に関わらないか、あるいはかの怒りに触れるかだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_JUGURTHA_TITLE</zType>
@@ -3154,6 +3423,7 @@ Apesar das tentativas iniciais de acalmar as tensões e de dividir as terras ent
 		<zh-CN>朱古达</zh-CN>
 		<pt-BR>Jugurta</pt-BR>
 		<ko>유구르타</ko>
+		<fixja>ユグルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_JUGURTHA_OPTION_0</zType>
@@ -3167,6 +3437,7 @@ Apesar das tentativas iniciais de acalmar as tensões e de dividir as terras ent
 		<zh-CN>我们必须进行干预，阻止这个突然冒出来的家伙。</zh-CN>
 		<pt-BR>Devemos interferir para impedir esse oportunista.</pt-BR>
 		<ko>이 건방진 녀석을 막기 위해 개입해야 한다.</ko>
+		<fixja>この新興勢力を止めるために、我らが介入しなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_JUGURTHA_OPTION_1</zType>
@@ -3180,6 +3451,7 @@ Apesar das tentativas iniciais de acalmar as tensões e de dividir as terras ent
 		<zh-CN>努米底亚是独立的。</zh-CN>
 		<pt-BR>A Númidia está sozinha.</pt-BR>
 		<ko>누미디아는 우리와 상관없다.</ko>
+		<fixja>ヌミディアは孤立している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_START_ROME_SCIPIO</zType>
@@ -3233,6 +3505,11 @@ Com o seu neto {CHARACTER-SHORT-1} já dando sinais de que será um líder capaz
 당신은 로마에서 제일 위대한 장군으로 이름을 떨쳤으며, 참신한 계략과 재치로 전투에 임합니다. 원로원에도 당신을 깎아내리는 세력이 있지만, 당신은 로마 신들의 선택을 받은 것으로 알려졌고, 전장에서 당신이 보여 준 성과에 이의를 제기할 사람은 없습니다.
 
 당신의 손자 {CHARACTER-1}(이)가 벌써 능력 있는 지도자로 성장하고 있으니 계속 전진하여 로마가 두려운 세력이라는 사실을 세상에 보여 주십시오.</ko>
+		<fixja>敵には厳しく、友には寛大なあなた。元老院はこの難局を乗り切るよう、{CHARACTER-0}に要請した。
+
+ローマで、あなたの名を知らない者はいない。歴史上、類を見ないほどの機知と策略をもって戦うその姿に、この地では最も偉大な将軍として名を馳せている。元老院に反対派がいないわけではない。だが、ローマの神々は他の誰よりもあなたを支持していると言われており、故にその戦果も疑いようのないものであった。
+
+すでに優れた指導者として育ちつつある、孫の{CHARACTER-1}と共に前進せよ。この世界に、ローマが恐るべき力であることを示すのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_JERWAN_AQUEDUCT</zType>
@@ -3286,6 +3563,11 @@ A água é vital para qualquer cidade, e você a trouxe para {CITY-0} com a cons
 당신은 link(IMPROVEMENT_JERWAN_AQUEDUCT)를 건축하여 모든 도시의 생명인 물을 {CITY-0}에 공급했습니다. 수많은 석회석을 잘라 세공한 뒤 정해진 위치로 들어 올려 만든 거대한 돌 아치가 바위와 계곡을 가로지르는 수로를 떠받듭니다.
 
 원래 물을 움직이는 것은 신의 영역이지만, 당신의 힘으로도 할 수 있다는 것을 보여 줬습니다. 당신의 영향력과 영광은 당신이 백성에게 선사한 물과 함께 세대에 걸쳐 기억될 것입니다.</ko>
+		<fixja>成し遂げた…
+
+水はあらゆる都市の生命線だ。あなたはlink(IMPROVEMENT_JERWAN_AQUEDUCT)の建設することで、{CITY-0}に水をもたらした。無数にある石灰岩のブロックが切り出され、形を整えられ、持ち上げられ、岩や谷をまたいで水を運ぶ、巨大な石の橋を作りあげる。
+
+一般的に、水を動かすことは神の御業とされていた。だが、あなたはそのような偉業を自らの力の及ぶ範囲で出来ることを証明した。その影響力と栄光は時代を超えて語り継がれるだろう。あなたが人々にもたらした、水の恵みと同じように。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_YAZILIKAYA</zType>
@@ -3339,6 +3621,11 @@ Uma arquitetura tão precisa é um verdadeiro sinal de dedicação aos deuses. A
 {CITY-0}의 바위를 조각하여 {PLAYER-1} 신들의 기념물로 만든 이 구조물은 지금 link(IMPROVEMENT_YAZILIKAYA)로 알려졌습니다. 산 옆을 깎아 만든 다양한 공간은 각각 지구, 하늘, 지하 세계를 표현한 정교한 우주의 모형으로 만들어졌으며, 건축가들은 공간을 가로지르는 해와 달의 움직임에 따라 종교 축제로 지정된 날을 표시하는 태음력 달력을 형성했습니다.
 
 이러한 정교한 건축은 신들에 대한 진정한 헌신을 표현하는 것입니다. 당신의 업적에 대한 소문이 벌써 퍼지고 있습니다. 세상은 {PLAYER-1}의 독실함과 예술적 기량을 기억할 것입니다.</ko>
+		<fixja>成し遂げた…
+
+{CITY-0}にあった岩が{PLAYER-1}の神々の記念碑として彫られた。今ではlink(IMPROVEMENT_YAZILIKAYA)と呼ばれる聖域である。山の側面から切り出された様々な部屋には、大地、天空、冥界に捧げられた複雑な宇宙の模型がある。建築家たちが決めたこれらの配置は、宗教的な祭儀で定められた時間を示す「太陰太陽暦」となる。これは各部屋を通る太陽と月の動きによって、時間が分かるものだ。
+
+このような精巧な作りは、神々への献身を示す真の証と言えよう。そしてすでに、あなたの成した偉業の噂も広まっている。世界は、{PLAYER-1}の敬虔さと芸術的才能を記憶に刻むことだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_ROYAL_LIBRARY</zType>
@@ -3392,6 +3679,11 @@ Essa coleção de conhecimento e literatura é uma verdadeira conquista, uma que
 이렇게 방대한 지식을 한데 모은 곳은 이 세상에 없었습니다. 시, 학술 조약, 국정 운영에 관한 글, 외교 기록을 link(IMPROVEMENT_ROYAL_LIBRARY)에 가져와 전 세계의 기록을 {S1.LANGUAGE}로 제공합니다. 가장 자랑스러운 것은 {S1.HERO}에 관한 원전의 사본입니다. 
 
 이 지식과 문학의 보고는 진정한 업적이며, 이 세상에 {PLAYER-1}의 자취를 남깁니다. 당신 민족의 글이 평생 남을 것입니다.</ko>
+		<fixja>成し遂げた…
+
+このような知識の集積を、世界は見たことがないだろう。何しろ前例がないものまで持ち込まれている。詩に学術論文、国政に関する著作、外交記録など…link(IMPROVEMENT_ROYAL_LIBRARY)には、{S1.LANGUAGE}で世界中の記録が集められている。中でも特に誇らしいのは、{S1.HERO}の元となる物語のコピーが収蔵されていることだ。
+
+この知識と文学の集積によって、一つ達成されたことがある。それは、この世界において{PLAYER-POSS-1}の地位を確立したことだ。民の書いた著作は、これからも永遠に残り続けるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_JEBEL_BARKAL</zType>
@@ -3445,6 +3737,11 @@ Os templos de link(IMPROVEMENT_JEBEL_BARKAL) são um centro religioso que irá i
 하늘을 가르는 듯한 인상적인 모습의 link(IMPROVEMENT_JEBEL_BARKAL)의 대지가 신들의 주의를 끌 정도입니다. 설계자와 건축가들이 산기슭 주변에 인상적인 사원 단지, 궁전, 무덤을 완공했습니다. 이 모든 것이 최고의 성지로 알려질 것이며, 신의 사제들에게 권력의 중심지가 될 것입니다. 
 
 link(IMPROVEMENT_JEBEL_BARKAL)의 사원들은 오랜 세월에 걸쳐 세상에 영향력을 행사할 종교 중심지가 될 것입니다. 모든 사람이 당신 왕조의 독실함과 헌신을 알게 될 것입니다.</ko>
+		<fixja>成し遂げた…
+
+侵蝕によって形成された卓状の大地「メサ」。link(IMPROVEMENT_JEBEL_BARKAL)の「メサ」が天空から堂々たる姿を現し、神々の注意すら引き付けている。「ゲベル・バルカル」──建築家及び建設者たちは山の麓を取り囲むように、神殿、宮殿、墓の3つを複合させたものを作りあげた。その全てが一体化したこの場所は最も神聖な場所として、そして司祭たちの力の中心地として名を馳せることとなる。
+
+link(IMPROVEMENT_JEBEL_BARKAL)の神殿群は、これから数世代にもわたって世界に影響を与える宗教的中心地となった。やがてその敬虔さと献身ぶりを、全ての人が知ることになるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_AL_KHAZNEH</zType>
@@ -3498,6 +3795,11 @@ Uma mortuária com esta irá garantir que seu nome fique gravado nos anais da hi
 {CITY-0}에 가까운 계곡의 그림자 속에 선홍색 사암을 조각하여 무덤으로 만든 link(IMPROVEMENT_AL_KHAZNEH)입니다. 방마다 신화적 인물을 조각하였고, 정교한 외관은 모든 방문객의 주의를 사로잡습니다. 심지어 항아리도 돌을 깎아서 만들었으며, 그 안에 환상적인 보물이 들었다는 소문이 퍼집니다. 
 
 이러한 장지는 당신의 이름을 역사 기록에 확실히 남길 것입니다. 사람들이 {CITY-0}에 몰려와 당신 왕조의 기술과 부에 감탄할 것입니다.</ko>
+		<fixja>成し遂げた…
+
+{CITY-0}にほど近い谷の影に、鮮やかな赤い砂岩から彫り出された墳墓がある──link(IMPROVEMENT_AL_KHAZNEH)と呼ばれる建築物だ。内部にある部屋には神話に登場する人物が彫られ、精巧なファサードが、訪れる者の目を奪っている。骨壷ですら柔らかい石から彫られており、中には素晴らしい財宝が眠っているという噂がすでに広まっていた。
+
+そのような墓所があれば、あなたの名前は確実に歴史に刻まれる。人々は{CITY-0}へと集まり、王朝の富と技術に驚嘆することであろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_COTHON</zType>
@@ -3551,6 +3853,11 @@ Com este porto, suas pretensões sobre os mares do mundo estão declaradas. {sen
 전 세계 해안에 항구가 있지만, link(IMPROVEMENT_COTHON)에 비교할 수 있는 것은 없습니다. 왕실 배에 타고 있던 건축가들은 한 번에 수백 척이 정박할 수 있는 공간이 있다고 지적하며 직사각형 구역을 상선용으로 배정하고, 원형 수문이 있는 구역은 군사용으로 남겨 두자고 합니다. 
 
 당신은 이 항구로 전 세계 바다를 장악했습니다. {PLAYER-1}(은)는 두려움과 존경의 대상인 해군 열강으로 영원히 기억될 것입니다.</ko>
+		<fixja>成し遂げた..
+
+港、それは世界中の沿岸部に存在するが、link(IMPROVEMENT_COTHON)に匹敵するものはない。王室専用のパージ船（はしけ）で入港すると、設計者たちが、この先に何百隻もの船が停泊できるスペースがあることを説明してくれた。長方形の商船用区画と、軍事用に確保された円形の門付き区画に分かれているという。
+
+この海の権利を主張するあなた。これから先、{PLAYER-1}は畏怖の対象となり、海軍大国として永遠に記憶されることになるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_HELIOPOLIS</zType>
@@ -3604,6 +3911,11 @@ Além de uma inspiração para todos que os admiram, os templos monumentais de l
 여러 이름으로 알려진 태양의 가호는 어떤 왕조에도 요긴합니다. link(IMPROVEMENT_HELIOPOLIS)의 건설로 무조건 가호를 받을 것입니다. '태양의 도시'로도 알려진 {CITY-0}(은)는 이제 {PLAYER-1}의 신들을 위한 사원 단지로 뒤덮였습니다.
 
 이곳을 보는 모든 자에게 영감을 주는 link(IMPROVEMENT_HELIOPOLIS)의 기념비적 사원들은 신들에 대한 국가의 헌신을 상징할 것이며, 오랜 세월 동안 감탄을 자아낼 것입니다.</ko>
+		<fixja>成し遂げた...
+
+多くの名で呼ばれる「太陽の恵み」は、どの王朝にとっても欠かせないものである。link(IMPROVEMENT_HELIOPOLIS)が建てられたことで、この恩恵は確実なものとなった。{CITY-0}は「太陽の町」と呼ばれ、{PLAYER-1}の神々を祀る神殿群が残っている。
+
+見る者すべてに感動を与える太陽信仰の神殿が、link(IMPROVEMENT_HELIOPOLIS)にできた。あなたの国に存在する神々への献身、その象徴として、この先ずっと畏敬の念を呼び起こすことになるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_COLOSSEUM</zType>
@@ -3656,6 +3968,11 @@ Este monumento construído à glória {PLAYER-1,6} não será esquecido. As rica
 수천 명이 고함을 외치며 동시에 환희에 빠지는 것은 어디에서도 느낄 수 없는 경험입니다. link(IMPROVEMENT_COLOSSEUM)은 대중을 위한 오락을 제공하고, 젊은이와 노인, 부자와 가난한 자가 시원한 돌계단에 한데 모여 당신이 제공한 화려한 구경거리를 보고 감탄합니다. 전투, 처형, 동물 행진은 물론이고, 경기장에 물을 채워 해상 전투도 재현합니다. 
 
 {PLAYER-1}의 영광을 상징하는 이 기념물은 잊히지 않을 것입니다. 당신 왕조의 호화로운 공연은 시대를 초월하여 기억될 것입니다.</ko>
+		<fixja>成し遂げた...
+
+群衆の中から、何千もの歓喜の声が上がる。見たこともない光景だ。link(IMPROVEMENT_COLOSSEUM)では、大衆の為の娯楽が提供されている。老若男女、金持ちも貧乏人も一緒になって涼しい石段へと集まり、あなたが支援する豪華な見世物を楽しんでいる。：闘技、処刑、動物のパレード、さらには海戦の再現のためにアリーナを水で満たすことさえあった。
+
+{PLAYER-1}の栄光を称える記念碑──これが忘れられることは、決してないだろう。あなたの王朝による豪華な見世物は、時代を超えて記憶されるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_RISE_OF_SULLA</zType>
@@ -3689,6 +4006,9 @@ Eles claramente estão apoiando {CHARACTER-SHORT-1} como seu competidor pela lid
 		<ko>장래가 촉망되는 젊은 장교이자 정치가인 {CHARACTER-1}(이)가 {PLAYER-0}의 귀족 상류층에서 빠르게 명성을 얻고 있었습니다. 당신의 통치에도 점점 나이가 드는 원로원 가문들은 아직도 당신이 승마 가문 출신이라는 점을 탐탁지 않게 여깁니다. 
 
 그들은 {PLAYER-0}의 지도자 자리의 경쟁자로 {CHARACTER-SHORT-1}(을)를 지지합니다.</ko>
+		<fixja>将来有望な若い将校兼政治家である{CHARACTER-1}が、{PLAYER-0}の貴族階級の間で急速に頭角を現している。騎士階級から権力の座に上り詰めたあなたのことを、長年にわたって統治してきたにも関わらず、年老いた元老院議員の一族は未だに腹を立てている。 
+
+{PLAYER-0}の指導者の地位を競う者として、彼らが{CHARACTER-SHORT-1}を支持しているのは明らかだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BELLUM_OCTAVIANUM</zType>
@@ -3722,6 +4042,9 @@ O povo está dividido. Você manterá o seu título à força?</pt-BR>
 		<ko>{PLAYER-0}의 중심부에 혼돈이 닥쳤습니다. 유배된 {CHARACTER-0}에 대한 지원을 두고 시작됐던 {CHARACTER-2}(과)와 {CHARACTER-3}의 다툼이 전면전인 폭력 사태로 번졌습니다. 광장에서 시작된 싸움으로 {CHARACTER-SHORT-0}의 동맹 {CHARACTER-SHORT-3}(이)가 도시에서 추방됐고, {G3:그:그녀}는 {CITY-1}(을)를 습격하려고 동맹을 모으기 시작했습니다. 
 
 백성이 분열됐습니다. 무력으로 당신의 지위를 유지하시겠습니까?</ko>
+		<fixja>カオスが{PLAYER-0}の心を掴んだ。亡命中の{CHARACTER-0}への支援を巡り、{CHARACTER-2}と{CHARACTER-3}で起きた小競り合いが、全面戦争へと発展した。議会での戦いがきっかけとなり、{CHARACTER-SHORT-POSS-0}と同盟関係にあった{CHARACTER-SHORT-3}が都市から追放されたが、{G3:he:she}が{CITY-1}包囲に向けて仲間を集め始めた。 
+
+国民は分裂した。力尽くでも、その地位にしがみつくのか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_LAST_COMMAND</zType>
@@ -3735,6 +4058,7 @@ O povo está dividido. Você manterá o seu título à força?</pt-BR>
 		<zh-CN>{CHARACTER-2}并没有停止争取{PLAYER-0}贵族阶层的支持。最后，这位野心勃勃的阴谋家亮出了自己的底牌，他试图夺取领导权，做了一件不可思议的事，率领他集结的军队进攻{CITY-3}。因为没有人会想到{PLAYER-1,1}会向城市进军，所以这次袭击让你措手不及，你只能慌忙地召集防御力量，征召角斗士和其他有战斗能力的人。{CHARACTER-SHORT-2}击溃了这股力量，你只剩下一个简单的选择：死刑还是流放？</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-2} continua buscando apoio entre a aristocracia {PLAYER-0,6} sem descanso. Finalmente pronto para abrir o jogo, o ambicioso maquinador dá uma cartada pela liderança, fazendo o impensável e marchando com as forças que conseguiu reunir através da própria cidade de {CITY-3}. Ninguém jamais pensaria que um camarada {PLAYER-1,1} marcharia pela cidade, e o ataque lhe pega de surpresa enquanto você luta para formar uma defesa composta por seus gladiadores e por qualquer outra pessoa disposta a lutar. {CHARACTER-SHORT-2} dispensa suas forças sem esforço, e a você resta uma simples escolha: exílio ou morte?</pt-BR>
 		<ko>{CHARACTER-2}(은)는 {PLAYER-0} 귀족의 지지를 얻으려는 노력을 멈추지 않았습니다. 마침내 속셈을 드러낸 야심 찬 계략가는 지도부에 오르려고 모집한 병력을 이끌고 {CITY-3}에 진군하는 상상할 수 없는 일을 벌였습니다. 같은 {PLAYER-1,1} 사람이 도시에 진군하는 것은 생각할 수도 없는 일이었고, 공격을 전혀 예측하지 못했던 당신은 검투사들을 비롯해 싸우고자 하는 사람들을 전부 모아 방어에 나설 수밖에 없습니다. {CHARACTER-SHORT-2}(이)가 당신의 병력을 무찔렀고, 당신에게는 간단한 선택만이 남았습니다. 죽음과 망명 중 무엇을 선택하시겠습니까?</ko>
+		<fixja>貴族たちの間で{PLAYER-0}への支持を取り付けるためならば、{CHARACTER-2}は努力を惜しまない。ついに本性を現した野心的な策士は、指導者の地位を求めて動き出し、集めた軍隊を{CITY-3}へと向かわせた。まさか、{PLAYER-1,1}の仲間が街に進軍してくるなどとは思っていなかった…不意を突かれたあなたは、剣闘士や戦う意志のある者を集めて、防衛のために奔走することとなる。しかし、軽々と軍を{CHARACTER-SHORT-2}に退けられたため、容易な手を選ばざるを得なくなった。死か亡命か？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ROMA_AND_HER_MALCONTENTS</zType>
@@ -3768,6 +4092,9 @@ As últimas listas poderiam ser uma boa oportunidade de eliminar {G1:o problemá
 		<ko>당신은 살생부를 이용하여 정적을 제거하는 효과적인 방법을 알아냈습니다. {PLAYER-0}에 위협이 된다고 느끼는 사람을 목록에 추가하면 그들의 땅을 즉시 국가의 재산으로 몰수하고 그 사람의 목에 현상금을 걸어 죽이는 자에게 지급하는 것입니다.
 
 이번에 골칫거리인 {CHARACTER-1}(을)를 제거할 수 있는 기회가 생겼습니다. 반면, 소문에 의하면 {CHARACTER-2}(이)가 소유한 부유한 영지를 당신이 더 잘 관리할 것입니다...</ko>
+		<fixja>徴兵制度によって、政敵を排除するのに良い方法を見つけた。あなたが{PLAYER-0}を脅かすと判断した者はリストに加えられ、その土地は直ちに国家の財産として没収され、殺した者には賞金が支払われる。
+
+最近のラウンドは、厄介な{CHARACTER-1}を取り除く良いチャンスかもしれない。しかし、あなたは｛業者-2｝が特に裕福な土地を持っていることも聞いている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_I_HAVE_A_LITTLE_LIST</zType>
@@ -3801,6 +4128,9 @@ Faut-il vraiment sauver {CHARACTER-SHORT-2} ?</fr>
 		<ko>당신의 동맹 {CHARACTER-1}(이)가 자신의 적 {CHARACTER-2}(을)를 살생부에 올려 달라고 부탁했습니다. {CHARACTER-SHORT-2}(이)가 {PLAYER-0}의 적이 아니라는 것은 분명하지만, {CHARACTER-SHORT-1}의 지지를 얻는다면 유용할 것입니다.
 
 {CHARACTER-SHORT-2}(을)를 굳이 살려 둬야 할까요?</ko>
+		<fixja>仲間の{CHARACTER-1}から、自身の敵である{CHARACTER-2}を次の追放者リストに加えるよう求めてきた。{PLAYER-0}にとって脅威とみなされる者は一人残らずリストに加えられ、その土地は即座に国の財産として取り上げられる。そして、その者を殺した者には報奨金が支払われるというものだ。
+
+仮に{CHARACTER-SHORT-2}がいなくなったとして、それを悼む者がいるだろうか。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_END_OF_AN_ALLIANCE</zType>
@@ -3834,6 +4164,9 @@ A distância entre vocês seguiu aumentando por algum tempo, especialmente confo
 		<ko>당신과 {CHARACTER-2}(은)는 불편한 동맹으로 시작했지만, 서로 힘을 모아 홀로 이룰 수 없었던 목표를 달성했습니다. 
 
 하지만 당신의 인기가 계속 오르고, {CHARACTER-SHORT-2}의 지위가 떨어지면서 둘의 균열이 점점 커지고 있었습니다. {CHARACTER-0}의 죽음으로 {CHARACTER-2}(과)와 남아 있던 관계가 전부 끊어졌습니다. 정치적 동맹을 확고히 하려고 딸과 결혼했지만, 아직도 {CHARACTER-SHORT-2}의 도움이 필요한지는 의문입니다.</ko>
+		<fixja>不安な同盟関係から始まった{CHARACTER-2}とあなたの関係。だが、互いに協力するなかで、単独ではなし得なかったことをそれぞれ達成することができた。 
+
+互いの勢力の間に生まれた亀裂は大きく拡がり、{CHARACTER-SHORT-POSS-2}の地位が低下している一方で、あなたの人気が高まっていることが、その隔たりをより一層深めていた。{CHARACTER-0}の死により、{CHARACTER-2}との絆は断ち切られた。娘さんとの結婚は政治的な結束を固めるためだったが、この時点でまだ{CHARACTER-SHORT-POSS-2}の助けが本当に必要なのかと考え込んでしまう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CROSSING_THE_RUBICON</zType>
@@ -3867,6 +4200,9 @@ Ceder não é uma opção. Seus fieis comandantes prometem ficar ao seu lado, n�
 		<ko>{CITY-1}에 있는 당신의 반대자들은 당신의 높아지는 인기와 휘하 병력의 변함없는 충성심을 경계하기 시작했습니다. 군대에 지휘권을 부여하는 시민들은 당신에게 즉시 군대를 해산하고 {CITY-1}에 귀환하라고 요구합니다. 
 			
 하지만 작전을 중단할 수는 없습니다. 충직한 지휘관들은 무슨 일이 있어도 당신 곁에 남겠다고 약속했고, 당신은 도시로 진군할 준비를 하며 평생 지휘권을 잡기 위해 로마의 법을 공개적으로 거부합니다.</ko>
+		<fixja>{CITY-1}における敵対者たちは、日増しに高まるあなたの人気と、軍の揺るぎない忠誠心に警戒を強めるようになった。インペリウム、ラテン語で「軍事指揮権」を意味するこの権限は、民衆によって授けられたものである。その彼らが今、あなたに対して直ちに軍を解隊し、{CITY-1}に戻ることを要求している。 
+			
+立ち止まるという選択肢は無い。忠実な指揮官たちが、何があってもあなたの側につくと誓う。都市への進軍準備を整えたあなたは、ローマのルールに反して堂々と反旗を翻し、一生にわたる国の指揮権を握ろうとした。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_IDES_OF_MARCH</zType>
@@ -3880,6 +4216,7 @@ Ceder não é uma opção. Seus fieis comandantes prometem ficar ao seu lado, n�
 		<zh-CN>留意三月十五日！ </zh-CN>
 		<pt-BR>Cuidado com os Idos de Março! </pt-BR>
 		<ko>3월 15일을 조심하라! </ko>
+		<fixja>3月15日を警戒せよ！ </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PAX_ROMANA</zType>
@@ -3893,6 +4230,7 @@ Ceder não é uma opção. Seus fieis comandantes prometem ficar ao seu lado, n�
 		<zh-CN>整个{PLAYER-0}都知道，是你的统治带来了和平。虽然仍然会发生战争，但与内战频仍和帝国环伺的时代相比，现在堪称黄金时代。一位历史学家称之为“罗马和平”(Pax Romana)，这一说法迅速流行起来。</zh-CN>
 		<pt-BR>Não há cidade romana que não saiba que o seu governo trouxe paz à nação. Pode ser que ainda hajam algumas batalhas, mas, se comparada aos períodos de todas as guerras civis e ameaças de impérios rivais, esta é uma era de ouro. Um historiador a chamou de Pax Romana, uma expressão que está se espalhando rapidamente.</pt-BR>
 		<ko>당신의 통치가 평화를 가져왔다는 사실은 {PLAYER-0} 전역에 알려졌습니다. 아직 소소한 다툼이 벌어지지만, 내전과 경쟁 제국들이 위협하던 시절에 비하면 지금은 황금기입니다. 한 역사가는 이 시기를 팍스 로마나로 지칭했고, 이 표현이 빠르게 퍼지고 있습니다.</ko>
+		<fixja>あなたの統治が、{PLAYER-0}全土に平和をもたらしたと広く知られている。未だ、戦いの火は残っているが、内戦時代や帝国の脅威があった時代に比べれば、今は黄金時代と言ってよいだろう。ある歴史家はこれを「パクス・ロマーナ」と称し、その言葉はすぐに人々の間で広まっていった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_WEAK_LINK</zType>
@@ -3906,6 +4244,7 @@ Ceder não é uma opção. Seus fieis comandantes prometem ficar ao seu lado, n�
 		<zh-CN>你与{CHARACTER-1}共同统治时，你的权力与日俱增，而他的权力却日渐式微。你的儿子已经被指定为继承人，你还有理由留着{CHARACTER-SHORT-1}吗？也许是时候顺水推舟了。</zh-CN>
 		<pt-BR>Enquanto que você compartilha o governo com {CHARACTER-SHORT-1}, o seu poder cresce a cada dia ao mesmo tempo que o dele decai. Com o seu filho já nomeado herdeiro, ainda há algum motivo para manter {CHARACTER-SHORT-1} por perto? Talvez seja hora de dar uma forcinha à natureza.</pt-BR>
 		<ko>당신은 {CHARACTER-1}(과)와 함께 통치하지만, 당신의 권력은 날이 갈수록 강해지고, 그의 권력은 줄어듭니다. 당신의 아들이 이미 후계자로 지목된 상황에서 {CHARACTER-SHORT-1}(을)를 곁에 둘 이유가 있을까요? 이제 속도를 높여야 할 시간일지도 모릅니다.</ko>
+		<fixja>{CHARACTER-1}とは共に統治を行っているものの、彼の力が弱まるにつれて、あなたの力は日ごとに増していた。息子がすでに後継者として指名されている状況で、{CHARACTER-SHORT-1}を引き留めておく必要があるのだろうか？自然の流れを少し早める時がきたのかもしれない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUSPICIOUS_SINKING</zType>
@@ -3939,6 +4278,9 @@ Parece que o seu filho começou a agir com base na desconfiança que tem.</pt-BR
 		<ko>{CHARACTER-SHORT-1}(이)가 자유민과 특별히 준비한 배를 타라고 당신에게 명령했을 때가 첫 번째 위험 신호였습니다. 깊은 해역에 이르자마자 배가 부서지기 시작합니다. 그런데 너무 쉽게 부서진다는 느낌을 지울 수 없습니다.  
 		
 당신의 아들이 의심을 행동에 옮기기로 한 모양입니다.</ko>
+		<fixja>危険の最初の兆候は、{CHARACTER-SHORT-1}が自由民の一人とともに特別に用意したはしけを使うように命じるときだ。深海に到達するやいなや、船は崩れ始める。  
+		
+どうやら息子さんは、疑念を抱いて行動を開始することにしたようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_BLADE_FALLS</zType>
@@ -3972,6 +4314,9 @@ O fim foi piedosamente rápido.</pt-BR>
 		<ko>당신의 죽음은 짧고 굴욕적입니다. {CHARACTER-SHORT-1}의 하인이 칼을 들고 당신의 방으로 옵니다. 하인이 온 이유를 아는 당신은 배를 찌르라고 외칩니다.
 		
 최후는 고통 없이 빠르게 끝납니다.</ko>
+		<fixja>案外、すぐに死の時は訪れ、形式張らないものだった：召使いの一人が剣を持って、あなたの部屋にやってきたのだ。彼の来訪目的を知っていたあなたは、自らの腹部を切りつけるよう叫びつけた。
+		
+終わりは、あっけなく訪れる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NEROS_SUSPICION</zType>
@@ -3985,6 +4330,7 @@ O fim foi piedosamente rápido.</pt-BR>
 		<zh-CN>有些人嫉妒你对权力的掌控，还嫉妒你凌驾于{CHARACTER-1}之上，这些人团团围在{CHARACTER-1}身边。你的线人报告说，{CHARACTER-1}已经开始相信谣言：你正在密谋对付他。</zh-CN>
 		<pt-BR>Seus informantes lhe dizem que {CHARACTER-SHORT-1} está cercado de pessoas que invejam o seu poder e a influência que você tem sobre ele, e que {CHARACTER-SHORT-1} começou a acreditar nas mentiras que lhe contam sobre supostos planos que você está tramando contra ele.</pt-BR>
 		<ko>{CHARACTER-1}(은)는 당신이 손에 쥔 권력과 그에 대한 당신의 영향력을 질투하는 사람들로 둘러싸였습니다. 첩보원들에 의하면 당신이 그를 죽이려고 음모를 꾸민다는 거짓말을 믿기 시작했다고 합니다.</ko>
+		<fixja>権力だけでなく、彼に対する影響力を持っていることに嫉妬する者たちが周りを囲む。密告者曰く、{CHARACTER-1}はあなたが彼に陰謀を企てているという嘘を信じ始めているという。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NERO_ESCAPES</zType>
@@ -4018,6 +4364,9 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<ko>{CHARACTER-0}(은)는 늘 아첨하는 지지자, 경호원, 첩보원들에게 둘러싸여 있습니다. 
 	
 금세 닥칠 공격에 관한 경고를 들었던 {CHARACTER-SHORT-0}(은)는 다치지 않고 탈출할 수 있었습니다. 그는 당신에게 대항하여 공개적인 조치를 취하진 않지만, 이제 황제가 될 그가 당신의 계략을 안다는 사실이 두렵습니다.</ko>
+		<fixja>{CHARACTER-0}の周りには、常におべっかを使う者や護衛だけでなく、「自身の替え玉」すらいるようだ。 
+	
+間一髪で攻撃を察知した{CHARACTER-SHORT-0}は、傷一つなく逃げ切ったのであった。公には目立った動きを見せていないものの、次期皇帝となる彼が、こちらの敵対行為について、既に知っているのではないかとあなたは懸念していた。</fixja>
 	</Entry>
 	<!-- text-eventOption -->
 	<Entry>
@@ -4032,6 +4381,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>他们应该觉得自己很走运才对。我们其实是在帮助他们。</zh-CN>
 		<pt-BR>Eles deveriam reconhecer a sorte que têm. Nós estamos lhes fazendo um favor.</pt-BR>
 		<ko>그들은 운이 좋은 줄 알아야 한다. 사실은 그들이 우리에게 신세를 졌다.</ko>
+		<fixja>彼らは、自分らのことを幸運と思うべきだ。実際、私たちが便宜を図っているのだから。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSYRIA_ASHUR_UBALLIT_I_THE_CONTINUATION_OF_POLICY_HUMAN</zType>
@@ -4045,6 +4395,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>实际上，我认为他们现在就该偿还这笔债务了。</zh-CN>
 		<pt-BR>Pensando bem, acho que essa dívida seria melhor paga de imediato.</pt-BR>
 		<ko>방금 이 빚을 적절하게 갚은 것으로 생각한다.</ko>
+		<fixja>ちょうど今、貸しを返してもらうのがいいだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BABYLONIA_NEBUCHADNEZZAR_I_UNITS</zType>
@@ -4058,6 +4409,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们欢迎他们。</zh-CN>
 		<pt-BR>Eles são bem-vindos ao nosso lado.</pt-BR>
 		<ko>우리 편에 서는 것을 받아들이겠다.</ko>
+		<fixja>我らの側でも、彼らは歓迎されている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BABYLON_NEBUCHADNEZZAR_FOR_THE_GLORY_OF_BABYLON_0</zType>
@@ -4071,6 +4423,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>拆毁他们的村庄、夷平他们的高楼大厦，将石头运回巴比伦，助力我们的国家完成目标。</zh-CN>
 		<pt-BR>Desfaça as vilas e derrube os edifícios para trazer as pedras de volta a Babilônia. Avançaremos em nossos objetivos nacionais.</pt-BR>
 		<ko>마을을 해체하고 건물을 철거한 뒤 돌을 바빌론으로 가져가서 나라의 목표에 보태도록 하라.</ko>
+		<fixja>彼らの村を解体して建物を壊し、その石をバビロンに持ち帰ろう。そうすることで、我らが定めし国家目標がさらに前に進む。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BABYLON_NEBUCHADNEZZAR_FOR_THE_GLORY_OF_BABYLON_1</zType>
@@ -4084,6 +4437,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>从这个被征服的部落中选出最有才能的成员，把他们带回我们的土地，帮助我们完成行政工作。</zh-CN>
 		<pt-BR>Busque os membros mais talentosos desta tribo conquistada para que nos ajudem com tarefas administrativas em nossas terras.</pt-BR>
 		<ko>정복한 부족에서 재능 있는 부족원들을 찾아낸 뒤 우리 땅으로 데려가서 행정 업무에 기용하라.</ko>
+		<fixja>征服した部族の中から最も優秀な者を探し出せ。我が領土に連れ帰り、行政的な業務を手伝わせるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TOWARD_A_GLORIOUS_FUTURE</zType>
@@ -4097,6 +4451,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{CITY-0}四周新建成的城墙厚实而雄伟。建造完成之后，你的民众都可以在你的保护之下安居乐业，而且他们都知道自己被有才有德之人护佑着。你很聪明，不会浪费新打造的防御工事带来的声誉。唯一的问题是，如何最好地引导这种声誉？</zh-CN>
 		<pt-BR>As recém construídas muralhas em volta de {CITY-0} são espessas e imponentes. Após o término da construção, o seu povo se sente mais seguro sob seus cuidados e sabe que está em boas mãos. Você tem sabedoria suficiente para não desperdiçar o favor público gerado por suas novas defesas. A única questão é, como melhor utilizá-lo?</pt-BR>
 		<ko>{CITY-0} 주변에 새로 완성한 벽은 두껍고 인상적입니다. 벽을 완성했으니 백성들이 당신의 보살핌 속에서 안전하다고 느끼며 안심할 것입니다. 당신은 새로 구축한 방어 시설로 조성된 안정감을 이용할 줄 아는 현명한 사람입니다. 이를 활용하는 최선의 방법을 찾는 것이 관건입니다.</ko>
+		<fixja>新しく完成した{CITY-0}の周囲の壁は厚く、堂々としている。この事業が終われば、民はあなたの庇護のもと安全かつ安心で暮らせると感じ、自分たちが才ある者の手にあることを理解してくれるだろう。新たに作り上げた防壁。賢明なる主君が、これを無駄にするはずがない。唯一の問題は、どのように使うのがベストなのか、ということだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MOTHER_OF_THE_FAITH</zType>
@@ -4110,6 +4465,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>你是月亮神的女祭司，不知疲倦地在自己的王国中播下宗教的种子。正式宗教建立起来之后，这些种子终于生根发芽了。你是这种新信仰的教母，现在有机会可以将自己的印记镌刻在其中，还可以提供一些指导，来塑造这种信仰的形态、结构和最终目的。</zh-CN>
 		<pt-BR>Como Sacerdotisa do Deus da Lua, você trabalhou sem descanso para plantar as sementes da religião por todo o seu reino. Com a fundação de uma religião formal, esses planos finalmente floresceram. Como a Mãe dessa nova fé, agora você tem a oportunidade de deixar sua personalidade nela e guiar a forma e o propósito final que ela terá.</pt-BR>
 		<ko>달 신의 여사제인 당신은 왕국 전역에 종교의 씨앗을 심으려고 쉬지 않고 노력했습니다. 정식으로 종교를 설립하는 것으로서 그 계획이 마침내 완벽한 결실을 이뤘습니다. 당신은 새로운 신앙의 어머니로서 발자취를 남기고 종교의 형태와 궁극적인 목표에 관한 지침을 제시할 기회가 생겼습니다.</ko>
+		<fixja>月の神の巫女として、あなたは領土全体に宗教の種を蒔くために精力的に働いてきた。国として正式に宗教が設立されたことで、その計画はついに開花した。新たな信仰の母として影響力を持ったあなたは、その形や様式、そして最終的な目的について指針を示す機会がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARM_OR_MALICE</zType>
@@ -4123,6 +4479,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们发现{PLAYER-0}在附近建立起了一个国家，于是就面临着一个独特的机会。我们可以利用这个机会去帮助那些民众，也可以给他们添麻烦……</zh-CN>
 		<pt-BR>Termos descoberto a nação {PLAYER-0,6}, estabelecida em nossas proximidades, nos dá uma oportunidade única. Nós podemos usar esses primeiros contatos para dar nosso melhor ao impressionar essas pessoas ou poderíamos lhes causar alguns problemas...</pt-BR>
 		<ko>근방에 설립된 {PLAYER-0} 국가를 발견하면서 특별한 기회가 생겼습니다. 이를 계기로 힘껏 노력하여 새로운 사람들과 친해질 수도 있고, 그들에게 문제를 일으킬 수도 있습니다...</ko>
+		<fixja>近くに{PLAYER-0}という国があることを発見した我らは、またとないチャンスを与えられた。この機会を利用して、あえて彼らと親交を深めることもできる。あるいは、彼らの間でトラブルを引き起こすことも…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HAMMURABI_CHARM_OR_MALICE_0</zType>
@@ -4136,6 +4493,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>各位，拿出微笑，善待我们的新朋友吧。</zh-CN>
 		<pt-BR>Sorriam, todos! Sorriam! Que sejamos corteses com nossos novos amigos.</pt-BR>
 		<ko>다들 미소를 지어라! 미소를! 새로운 우방국에 자애롭게 행동하라!</ko>
+		<fixja>みなさん、笑顔で！笑顔だ！新たな友人に対しては寛大でいよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HAMMURABI_CHARM_OR_MALICE_1</zType>
@@ -4149,6 +4507,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>这是我暗中获利的绝佳机会。雇佣强盗去劫掠他们的土地，但是要隐秘行事。</zh-CN>
 		<pt-BR>Essa é a oportunidade perfeita para liberar meu lado sombrio. Contrate bandidos para saquear as terras deles, discretamente.</pt-BR>
 		<ko>나의 어두운 면을 드러낼 완벽한 기회다. 도적을 고용하여 그들의 땅을 약탈하되, 조용히 처리하라.</ko>
+		<fixja>内なる膿を吐き出す絶好の機会だ。盗賊を雇い、彼らの土地を荒らす。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HAMMURABI_CHARM_OR_MALICE_2</zType>
@@ -4162,6 +4521,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>无论如何都不要采取特殊行动。我们暂时不要表明目的。</zh-CN>
 		<pt-BR>Não faça nada especial. Não vamos entregar nosso jogo por enquanto.</pt-BR>
 		<ko>어느 쪽이든 눈에 띄는 행동을 하지 마라. 당분간 우리 패를 드러내지 말아야 한다.</ko>
+		<fixja>特別なことは何もしない。当面、手の内を見せないようにしよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MOTHER_OF_THE_FAITH_0</zType>
@@ -4175,6 +4535,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>这种新信仰的实践者应该努力提高和扩大我们国家的文化影响力。</zh-CN>
 		<pt-BR>Os praticantes desta nova fé devem se esforçar para melhorar e expandir a influência cultural de nossa nação.</pt-BR>
 		<ko>새로운 신앙을 실천하는 자들은 우리 나라의 문화적 영향력을 드높이고 확장하기 위해 노력해야 한다.</ko>
+		<fixja>この新たな信仰を持つ者は、我が国の文化的影響力の向上、拡大のために努めるべきである。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MOTHER_OF_THE_FAITH_1</zType>
@@ -4188,6 +4549,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>祭司和女祭司应该努力在信徒群体中灌输层次更高的公民责任感。</zh-CN>
 		<pt-BR>Os sacerdotes e sacerdotisas devem se esforçar para promover um senso ainda maior de dever civil entre os fiéis.</pt-BR>
 		<ko>사제와 여사제들은 신앙인의 사회적 의무를 고취하려고 노력해야 한다.</ko>
+		<fixja>司祭と神官は、信者に市民としての義務感をもっと強く植え付けるよう努めるべきである。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TOWARD_A_GLORIOUS_FUTURE_0</zType>
@@ -4201,6 +4563,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>鼓舞{CITY-0}的民众进行规模更大的公民活动。</zh-CN>
 		<pt-BR>Incite a população da cidade de {CITY-0} a ser ainda mais ativa civicamente.</pt-BR>
 		<ko>{CITY-0}의 대중을 들뜨게 하여 사회적 활동을 더욱 장려한다.</ko>
+		<fixja>{CITY-0}の市民を、さらに大きな市民活動へと奮い立たせる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TOWARD_A_GLORIOUS_FUTURE_1</zType>
@@ -4214,6 +4577,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>把我们民族的历史刻在新建造的墙上，让所有人都了解我们的成果和事迹。</zh-CN>
 		<pt-BR>Conte a história do nosso povo através de gravuras entalhadas nas novas muralhas para que todos saibam de nossas conquistas.</pt-BR>
 		<ko>새로 지은 벽에 그림을 새겨 우리 나라의 역사를 전하여 우리의 노력과 공로를 모두가 알게 하라.</ko>
+		<fixja>新しく建てられた壁に彫られた絵で我々の民の歴史を語り、誰もが我々の業績と行いを知れるようにしよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TOWARD_A_GLORIOUS_FUTURE_2</zType>
@@ -4227,6 +4591,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>鼓励有学问的人来到{CITY-0}，确保他们可以在这里平安地学习知识。</zh-CN>
 		<pt-BR>Encoraje eruditos a virem a {CITY-0}, com a proposta de que eles poderão estudar tranquilos, sabendo que estarão seguros.</pt-BR>
 		<ko>학식 있는 사람들이 {CITY-0}에 가도록 장려하여 평화롭고 안전하게 공부할 수 있다는 믿음을 심어 준다.</ko>
+		<fixja>学識ある者たちを{CITY-0}に来るよう進め、ここでなら平和かつ安全に学べると安心させよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNIBAL_FIRST_WAR_OK</zType>
@@ -4240,6 +4605,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{PLAYER-1}很快就会见识到我的实力！</zh-CN>
 		<pt-BR>{sentencecase:{PLAYER-1,4}} está prestes a ver do que eu sou capaz!</pt-BR>
 		<ko>{PLAYER-1}(이)가 나의 활약을 보게 될 것이다!</ko>
+		<fixja>{PLAYER-1}は私の実力を測ろうとしている…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNIBAL_POLITICS_ONE_OK</zType>
@@ -4253,6 +4619,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>这样的言论只会削弱{PLAYER-0}的实力。</zh-CN>
 		<pt-BR>Essas conversas só enfraquecem {PLAYER-0,4}.</pt-BR>
 		<ko>그런 말은 {PLAYER-0}(을)를 약하게 할 뿐이다.</ko>
+		<fixja>それは{PLAYER-0}を弱体化させるだけだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNIBAL_POLITICS_TWO_OK</zType>
@@ -4266,6 +4633,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>小心眼，真是目光短浅。</zh-CN>
 		<pt-BR>Que mesquinharia, que falta de visão.</pt-BR>
 		<ko>너무 사소하고 편협하다.</ko>
+		<fixja>つまらん。近視眼的だな。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CONTACT_HANNIBAL_ROME_GIFT</zType>
@@ -4279,6 +4647,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们需要朋友。送礼是谨慎示好，而非示弱。</zh-CN>
 		<pt-BR>Precisamos de amigos. Oferecer presentes é uma mostra de prudência, não de fraqueza.</pt-BR>
 		<ko>우리에겐 친구가 있어야 한다. 선물을 제안하는 것은 약한 것이 아니라 신중한 것이다.</ko>
+		<fixja>友が要る。贈り物をすること自体は賢明な判断だ、弱さではない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CONTACT_HANNIBAL_ROME_NEUTRAL</zType>
@@ -4292,6 +4661,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>眼下，我们各走各的路。而将来……时间会证明一切。</zh-CN>
 		<pt-BR>Por enquanto seguiremos nossos caminhos. Veremos o que acontecerá no futuro.</pt-BR>
 		<ko>지금은 서로 다른 길을 걸을 것이다. 앞으로는... 시간이 지나면 알게 될 것이다.</ko>
+		<fixja>さしあたり、我々は別々の道を歩むことになる。きっと…時が解決してくれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CONTACT_HANNIBAL_ROME_WAR</zType>
@@ -4305,6 +4675,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>除非打败{PLAYER-0}，否则我绝不停息！</zh-CN>
 		<pt-BR>Não descansarei até que {PLAYER-0} seja destruída!</pt-BR>
 		<ko>{PLAYER-0}(을)를 무너뜨릴 때까지 쉬지 않을 것이다!</ko>
+		<fixja>{PLAYER-0}が滅びるまで休むものか！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNIBAL_NUMIDIANS_GIFT</zType>
@@ -4318,6 +4689,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们可以从相互尊重的伙伴关系中受益，就从交换礼物开始吧。</zh-CN>
 		<pt-BR>Colheremos os frutos de uma parceria respeitosa, a iniciar com essa troca de presentes.</pt-BR>
 		<ko>이번 선물 교환을 시작으로 서로 존중하는 동맹 관계를 유지하여 이득을 취할 것이다.</ko>
+		<fixja>これを機にお互い敬意に満ちた関係を築き、恩恵を受けられる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNIBAL_NUMIDIANS_MARRIAGE</zType>
@@ -4331,6 +4703,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我很乐意让{CHARACTER-SHORT-3}成为我的妻子，在两国民众之间建立纽带。</zh-CN>
 		<pt-BR>Eu ficaria feliz em tomar {CHARACTER-SHORT-3} como esposa e criar um laço entre nossos povos.</pt-BR>
 		<ko>{CHARACTER-SHORT-3}(을)를 기꺼이 내 아내로 맞아 양쪽 사람들의 유대감을 형성할 것이다.</ko>
+		<fixja>喜んで、{CHARACTER-SHORT-3}を妻として迎えよう。我らの間に絆を築きたい。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNIBAL_NUMIDIANS_WAR</zType>
@@ -4344,6 +4717,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们需要扩张的空间，但会在战斗中给予{TRIBE-0}尊重。</zh-CN>
 		<pt-BR>Nós precisamos de espaço para nos expandirmos, mas respeitaremos os {TRIBE-0} em combate.</pt-BR>
 		<ko>우리는 땅을 확장해야 하지만, 전투에서 {TRIBE-0}을 존중할 것이다.</ko>
+		<fixja>領土拡大の余地はあるが、戦いにおいては{TRIBE-0}に敬意を払うつもりだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_NAVIGATOR_UNIQUE_SCOUT_OK</zType>
@@ -4357,6 +4731,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>伟大的旅程从现在开始。</zh-CN>
 		<pt-BR>Uma grande jornada está começando.</pt-BR>
 		<ko>이제 위대한 여정이 시작한다.</ko>
+		<fixja>偉大な旅が今、始まる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_NAVIGATOR_EXPLORATION_YES</zType>
@@ -4370,6 +4745,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>探索世界应该是国家的首要任务。</zh-CN>
 		<pt-BR>Explorar o mundo será a prioridade nacional.</pt-BR>
 		<ko>세상을 탐험하는 것이 국가적 우선 과제가 되어야 한다.</ko>
+		<fixja>世界の探索は、我が国の優先事項である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_NAVIGATOR_EXPLORATION_NO</zType>
@@ -4383,6 +4759,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我在追求自己夙愿时，必须认识到这件事可能不符合民众的最佳利益。</zh-CN>
 		<pt-BR>É verdade que eu sigo meus próprios desejos, mas reconheço que talvez isso não seja o melhor para o povo.</pt-BR>
 		<ko>나의 욕망을 추구하는 것이 백성에게는 최선이 아닐지도 모른다는 사실을 인지해야 한다.</ko>
+		<fixja>己の欲望を追求するとき、それが国民の利益と合致しない可能性を認識しておかなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE_TRAINING</zType>
@@ -4396,6 +4773,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>观察一下他们保护定居点的策略。</zh-CN>
 		<pt-BR>Vamos observar as táticas que eles usam para proteger os assentamentos deles.</pt-BR>
 		<ko>그들이 사용하는 전술을 관찰하여 그들의 정착지를 보호한다.</ko>
+		<fixja>自らの土地を守るために、彼らが使う戦術を観察してみようか。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE_GOODS_WOOD</zType>
@@ -4409,6 +4787,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>接受{TRIBE-0}赠送的木材，他们的生产技术很好。</zh-CN>
 		<pt-BR>Aceite madeira de presente, uma matéria-prima que os {TRIBE-0} produzem com grande habilidade.</pt-BR>
 		<ko>{TRIBE-0}이 훌륭한 실력으로 생산한 목재 선물을 받아들인다.</ko>
+		<fixja>{TRIBE-0}の高い技術をもって生産された、木材の贈り物を受け取る。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE_GOODS_FOOD</zType>
@@ -4422,6 +4801,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>接受{TRIBE-1,1}的精美礼物。</zh-CN>
 		<pt-BR>Aceite um presente dos excelentes vegetais {TRIBE-1}.</pt-BR>
 		<ko>{TRIBE-1,1}이 선물로 주는 고급 농산물을 받아들인다.</ko>
+		<fixja>上質な{TRIBE-1,1}からの生産品を受け取る。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE_GOODS_STONE</zType>
@@ -4435,6 +4815,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{TRIBE-0}愿意分享一些他们自己开采的岩石。这些岩石似乎很有用。</zh-CN>
 		<pt-BR>Os {TRIBE-0} estão dispostos a compartilhar parte da produção de pedra deles. Parece muito útil.</pt-BR>
 		<ko>{TRIBE-0}이 채굴한 바위를 일부 나눠 주려고 한다. 유용해 보인다.</ko>
+		<fixja>採石した岩石の一部を分けてくれるらしい。それは良さそうだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_ONE_GOODS_IRON</zType>
@@ -4448,6 +4829,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>如果能运来一批可以用于精炼的矿石，那就再好不过了。</zh-CN>
 		<pt-BR>Um carregamento de minérios que possamos refinar por nossa conta seria o melhor.</pt-BR>
 		<ko>우리가 더 가공할 수 있는 광석을 받는 것이 가장 유용할 것이다.</ko>
+		<fixja>さらに精錬できる鉱石を出荷できれば、大変有益なことになる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_TWO_INFANTRY</zType>
@@ -4461,6 +4843,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>欢迎他们的优秀战士来到这里。</zh-CN>
 		<pt-BR>Os melhores lutadores deles serão muito bem recebidos.</pt-BR>
 		<ko>최고의 투사들이 이주해 오는 것을 환영한다.</ko>
+		<fixja>最高の戦士たちだ、移住を歓迎する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_CONTACT_HANNO_NAVIGATOR_TWO_MOUNTED</zType>
@@ -4474,6 +4857,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们应该允许{TRIBE-0,1}最好的骑士在{PLAYER-3}定居。</zh-CN>
 		<pt-BR>Permitiremos que os melhores cavaleiros {TRIBE-0} venham {PLAYER-3,5}.</pt-BR>
 		<ko>최고의 {TRIBE-0,1} 기병들이 {PLAYER-3}에 정착하는 것을 허용하겠다.</ko>
+		<fixja>{TRIBE-0,1}の乗り手たちが{PLAYER-3}に定住することを認める。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HANNO_II_TRIBAL_CONTACT_WAR_OK</zType>
@@ -4487,6 +4871,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>这场战争是他们自找的。</zh-CN>
 		<pt-BR>Esta guerra foi escolha deles.</pt-BR>
 		<ko>이 전쟁은 그들이 자초했다.</ko>
+		<fixja>この戦争は彼らの選択だ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_KHUFU_PYRAMID_TOURISM</zType>
@@ -4500,6 +4885,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>允许{CHARACTER-SHORT-2}雇佣导游，以及向游客收费。</zh-CN>
 		<pt-BR>Permita que {CHARACTER-SHORT-2} contrate guias e cobre dos turistas.</pt-BR>
 		<ko>{CHARACTER-SHORT-2}(이)가 안내원을 고용하고 여행객에게 돈을 받는 것을 허용한다.</ko>
+		<fixja>{CHARACTER-SHORT-2}がガイドを雇い、観光客に料金を請求することを認める。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_EGYPT_KHUFU_PYRAMID_LOCAL</zType>
@@ -4513,6 +4899,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>让当地人继续带着游客观光吧。</zh-CN>
 		<pt-BR>Deixe que os moradores continuem fazendo as excursões.</pt-BR>
 		<ko>현지인이 안내를 계속하도록 한다.</ko>
+		<fixja>地元の者たちにツアーを続けてもらおう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_GOAL</zType>
@@ -4526,6 +4913,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{PLAYER-0}一定会血债血偿，我发誓。</zh-CN>
 		<pt-BR>{sentencecase:{PLAYER-0,4}} pagará com sangue, eu juro.</pt-BR>
 		<ko>{PLAYER-0}(이)가 이 일을 피로 갚게 할 것이다. 반드시.</ko>
+		<fixja>誓おう、{PLAYER-0}は血をもって償うことになると。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_DIS</zType>
@@ -4539,6 +4927,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>对此一定有合理的解释。</zh-CN>
 		<pt-BR>Certamente há uma explicação para isso.</pt-BR>
 		<ko>분명 이유가 있을 것이다.</ko>
+		<fixja>きっと、これには説明がつくはずだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_DEMAND</zType>
@@ -4552,6 +4941,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>要求{PLAYER-0}赔款。</zh-CN>
 		<pt-BR>Exija uma compensação {PLAYER-0,6}.</pt-BR>
 		<ko>{PLAYER-0}에 배상금을 요구한다.</ko>
+		<fixja>{PLAYER-0}に賠償を要求する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_HANTILI_REFLECTION_CONTINUE</zType>
@@ -4565,6 +4955,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我始终会做出{PLAYER-2}对最好的选择。</zh-CN>
 		<pt-BR>Eu sempre fiz o que é melhor para {PLAYER-2,4}.</pt-BR>
 		<ko>나는 늘 {PLAYER-2}(을)를 위해 최선을 다했다.</ko>
+		<fixja>{PLAYER-2}のために、私は常に最善を尽くしてきた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_HANTILI_REFLECTION_ABDICATE</zType>
@@ -4578,6 +4969,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我不能再这样下去了，一天都不行。</zh-CN>
 		<pt-BR>Eu não posso seguir assim nem mesmo mais um dia.</pt-BR>
 		<ko>이렇게는 하루도 더 버틸 수 없다.</ko>
+		<fixja>このままではいけない、もうこれ以上は一日も…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HATTI_HANTILI_REFLECTION_CONTINUE_VINDICATED</zType>
@@ -4591,6 +4983,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>虽然花了一些时间，但你现在看清了局势。你的帝国势头正旺，你注定要取代穆尔西里，而你的心中充满了{1_trait}，想把他赶下王位。</zh-CN>
 		<pt-BR>Levou algum tempo, mas agora você vê as coisa claramente. O seu império é a prova de que você tinha que estar no lugar de Mursili e você se sente {1_trait} por tirá-lo do trono.</pt-BR>
 		<ko>시간이 조금 걸렸지만, 이제는 모든 것이 명확하게 보입니다. 당신이 무르실리를 대체해야 할 운명이었다는 증거가 바로 당신의 제국입니다. 당신은 그를 왕위에서 폐위시키며 {1_trait}의 감정을 느낍니다.</ko>
+		<fixja>時間はかかったが、今ならはっきりと分かる。帝国がムルシリに代わる運命であったことの証明。彼を王位から下ろすことに{1_trait}を抱く。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HATTI_HANTILI_REFLECTION_CONTINUE_INSANE</zType>
@@ -4604,6 +4997,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>你夜复一夜地失眠。你可以看到穆尔西里的脸、他的血，他的最后一口气。这一切都让你{1_trait}。</zh-CN>
 		<pt-BR>Você permanece acordado noite após noite. Você vê Mursili, seu rosto, seu sangue, seu último suspiro. Isso está lhe deixando {1_trait}.</pt-BR>
 		<ko>당신은 밤마다 잠을 이루지 못합니다. 무르실리의 얼굴, 피, 마지막 숨결이 보입니다. 그 모습을 본 당신은 {1_trait} 상태가 됩니다.</ko>
+		<fixja>毎晩、目を覚ます。ムルシリの顔、血、最後の息遣いがまぶたの裏に浮かぶ。それがあなたを{1_trait}へと駆り立てる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PSCHENT_DOUBLE_CROWN</zType>
@@ -4617,6 +5011,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>双重冠冕拥有者</zh-CN>
 		<pt-BR>Possui a coroa dupla Pschent</pt-BR>
 		<ko>프스켄트 왕관 소유자</ko>
+		<fixja>プスケントを戴く者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_PUDUHEPA_WAR_OFFER_PEACE</zType>
@@ -4630,6 +5025,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>为了{PLAYER-3}。</zh-CN>
 		<pt-BR>É pelo bem {PLAYER-3,6}.</pt-BR>
 		<ko>{PLAYER-3}(을)를 위한 일이다.</ko>
+		<fixja>{PLAYER-3}のために。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_PUDUHEPA_WAR_OFFER_WAR</zType>
@@ -4643,6 +5039,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我的{G4:儿子:女儿}永远不可能与{PLAYER-0,2}结婚。</zh-CN>
 		<pt-BR>{G4:Meu filho:Minha filha} jamais se casará com alguém {PLAYER-0,6}.</pt-BR>
 		<ko>내 {G4:아들:딸}은 절대로 {PLAYER-0,2}과 결혼하지 않을 것이다.</ko>
+		<fixja>{G4:son:daughter}が、{PLAYER-0,2}と決して結婚することはない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_START_HATTI_MURSILI_II_CLEAR_TRIBES</zType>
@@ -4656,6 +5053,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我要消灭那些威胁我们的敌对部落。</zh-CN>
 		<pt-BR>Eu vou acabar com as tribos hostis que nos ameaçam.</pt-BR>
 		<ko>우리를 위협하는 적대적인 부족을 격파할 것이다.</ko>
+		<fixja>我々を脅かす、敵対部族を排除する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_START_HATTI_MURSILI_II_FOUND_CITIES</zType>
@@ -4669,6 +5067,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>在我的统治下，新王国很快就能走向繁荣。</zh-CN>
 		<pt-BR>O novo reino logo irá prosperar sob meu comando.</pt-BR>
 		<ko>새로운 왕국은 곧 나의 통치하에 번영할 것이다.</ko>
+		<fixja>新たな王国は、我が統治下ですぐさま繁栄することだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_START_HATTI_MURSILI_II_NONE</zType>
@@ -4682,6 +5081,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我会找到自己的道路。</zh-CN>
 		<pt-BR>Eu encontrarei meu próprio caminho.</pt-BR>
 		<ko>나의 길을 찾을 것이다.</ko>
+		<fixja>自分の道は自分で見つける。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_MURSILI_II_AMBITION_OK</zType>
@@ -4695,6 +5095,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我要证明那些怀疑我的人都是大错特错。</zh-CN>
 		<pt-BR>Eu calei aqueles que duvidaram de mim.</pt-BR>
 		<ko>나를 의심했던 자들이 틀렸음을 입증했다.</ko>
+		<fixja>私を疑う者たちが間違っていることを証明した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_MURSILI_II_CLEAR_TRIBES_10_KILLS</zType>
@@ -4708,6 +5109,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我不会停止，直到{PLAYER-0}的所有敌人都陷入死寂。</zh-CN>
 		<pt-BR>Não irei parar até que todos os inimigos {PLAYER-0,6} sejam silenciados.</pt-BR>
 		<ko>{PLAYER-0}의 모든 적이 침묵할 때까지 멈추지 않을 것이다.</ko>
+		<fixja>{PLAYER-0}の全ての敵を黙らせるまで、私は止まらない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HATTI_MURSILI_II_FOUND_CITIES_SEVEN_CITIES</zType>
@@ -4721,6 +5123,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{PLAYER-0}一定要持续发展。</zh-CN>
 		<pt-BR>{sentencecase:{PLAYER-0,4}} continuará crescendo.</pt-BR>
 		<ko>{PLAYER-0}(은)는 계속 성장해야 한다.</ko>
+		<fixja>{PLAYER-0}は成長し続けなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_KILL</zType>
@@ -4734,6 +5137,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>真相重要吗？他永远都不会原谅我，所以我不能让他活下去。</zh-CN>
 		<pt-BR>De quê importa a verdade? Ele nunca irá me perdoar e não pode continuar vivo.</pt-BR>
 		<ko>진실이 무슨 상관이지? 그는 절대로 나를 용서하지 않을 것이다. 따라서 그를 살려 둘 수 없다.</ko>
+		<fixja>真実とは、それほど重要なのか？彼は決して私を許さないし…生きていることすらな。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_KEEP</zType>
@@ -4747,6 +5151,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>他确实是个冒充者。同意为我效力是高墨达获得权力的唯一机会。</zh-CN>
 		<pt-BR>Ele é de fato um impostor. Aceitar me servir é a única chance que Gaumata tem de conseguir algum poder.</pt-BR>
 		<ko>그는 사칭자다. 나를 받드는 것만이 가우타마가 권력을 잡을 유일한 기회다.</ko>
+		<fixja>奴は詐欺師以外の何者でもない。ガウマタが権力を得るチャンス、それは私に仕えることだけだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_KEEP_HELPTEXT</zType>
@@ -4760,6 +5165,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>巴蒂亚/高墨达会在宫廷中为你效力……但他一定会心怀不满。</zh-CN>
 		<pt-BR>Gaumata lhe servirá na corte... Mas não ficará nada feliz com isso.</pt-BR>
 		<ko>바르디야를 사칭한 가우타마가 궁정에서 당신을 받들겠지만... 그 상황을 즐기지는 않을 것입니다.</ko>
+		<fixja>バルディア / ガウマタは王宮ではあなたに仕えるが…本人はそれをよしとしているわけではない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_ADMIT</zType>
@@ -4773,6 +5179,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{CHARACTER-SHORT-2}才是真正的国王，而我犯了一个严重的错误。我必须承认这是一个阴谋，让他重新掌权。</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-2} é o rei por direito e eu cometi um terrível engano. Devo admitir a trama e devolver-lhe o poder.</pt-BR>
 		<ko>{CHARACTER-SHORT-2}(이)가 정당한 왕이고, 내가 끔찍한 실수를 저질렀다. 계략을 꾸민 것을 인정하고 그에게 권력을 돌려줘야 한다.</ko>
+		<fixja>{CHARACTER-SHORT-2}は正統な王だ。私はとんでもない過ちを犯した。あの計画を認め、彼を復権させなければ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_ADMIT_HELPTEXT</zType>
@@ -4786,6 +5193,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>巴蒂亚将接任领导人。他成为领袖之后，就有机会执行一项任务，提高他的icon(YIELD_LEGITIMACY)合法性。</zh-CN>
 		<pt-BR>Bardiya assumirá como líder. Ele terá acesso a uma missão que aumentará a icon(YIELD_LEGITIMACY)Legitimidade dele.</pt-BR>
 		<ko>바르디야가 지도자 자리에 오를 것입니다. 그는 지도자로서 icon(YIELD_LEGITIMACY)위신이 증가하는 임무에 접근하게 됩니다.</ko>
+		<fixja>あとを継いだバルディアは指導者として、icon(YIELD_LEGITIMACY)の正統性を高めるミッションを受けることができる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_LEADS_KILL</zType>
@@ -4799,6 +5207,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我知道{CHARACTER-SHORT-2}想杀了我。他不这么干反而不对。但我不会犯同样的错误。</zh-CN>
 		<pt-BR>Eu sei que {CHARACTER-SHORT-2} pensou em me matar. Ele cometeu um erro que eu não repetirei.</pt-BR>
 		<ko>{CHARACTER-SHORT-2}(이)가 나를 죽이려고 했다는 걸 안다. 그때 나를 죽였어야 했다. 나는 같은 실수를 하지 않을 것이다.</ko>
+		<fixja>{CHARACTER-SHORT-2}が私を殺そうとしていたのは知っている。…そうしなかったのは間違いだった。私なら、同じ過ちを犯さない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_DARIUS_BARDIYA_LEADS_KEEP</zType>
@@ -4812,6 +5221,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>无论他是不是狡诈的阴谋家，他已经证明了自己是个懦夫。{CHARACTER-SHORT-2}一定会畏惧我，乖乖为我效力。</zh-CN>
 		<pt-BR>Maquinador brilhante ou não, ele demonstrou ser um covarde. {CHARACTER-SHORT-2} temerá a mim e me servirá bem.</pt-BR>
 		<ko>영리한 책략가든 아니든, 그는 겁쟁이다. {CHARACTER-SHORT-2}(은)는 나를 두려워하고 잘 받들 것이다.</ko>
+		<fixja>聡明な策士であろうとなかろうと関係ない。{CHARACTER-SHORT-2}は自ら臆病者であることを露呈したのだ。私を恐れ、私によく仕えてくれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_BARDIYA_KILLS_DARIUS_LEGITIMACY</zType>
@@ -4825,6 +5235,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>被处决的大流士</zh-CN>
 		<pt-BR>Executou Dário</pt-BR>
 		<ko>다리우스를 처형함</ko>
+		<fixja>ダリウスを処刑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_FOUNDED_WISDOM</zType>
@@ -4838,6 +5249,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们需要了解所有造物的本质。</zh-CN>
 		<pt-BR>Nós temos que entender a natureza da criação.</pt-BR>
 		<ko>우리는 모든 창조의 본질을 이해해야 한다.</ko>
+		<fixja>あらゆる創造の本質を理解しなければならぬ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_FOUNDED_CHARISMA</zType>
@@ -4851,6 +5263,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>神圣启迪能教导我们的思想和行为向善。</zh-CN>
 		<pt-BR>A inspiração divina pode nos ensinar a pensar bons pensamentos e realizar bons feitos.</pt-BR>
 		<ko>신성한 영감은 우리가 좋은 생각과 좋은 행동을 하도록 가르쳐 준다.</ko>
+		<fixja>神の啓示は善いことを考え、善い行いをするよう教えてくれる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_FOUNDED_COURAGE</zType>
@@ -4864,6 +5277,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>真理之力对抗谎言之力时，我们也能学会该如何面对敌人。</zh-CN>
 		<pt-BR>Conforme as forças da verdade opõem as forças da mentira, elas nos ensinam como enfrentar nossos inimigos.</pt-BR>
 		<ko>진실의 세력이 거짓의 세력에 맞서듯, 그들은 우리가 적과 어떻게 맞서야 하는지 알려 준다.</ko>
+		<fixja>敵とどう立ち向かうか、それを教えてくれるのは真実が嘘の力に対抗するときだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_FOUNDED_DISCIPLINE</zType>
@@ -4877,6 +5291,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>勤奋研究和执行仪式一定能揭示我们必须了解的东西。</zh-CN>
 		<pt-BR>O estudo aplicado e a realização de rituais nos revelarão o que precisamos saber.</pt-BR>
 		<ko>성실한 배움과 의식의 이행으로 우리가 알아야 하는 것들이 밝혀질 것이다.</ko>
+		<fixja>儀式を熱心に学び、実行することで、我々が知らなければならないことが明らかになる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_BARRACKS_OFFICER</zType>
@@ -4890,6 +5305,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>应该让我们最有经验的战士来负责训练。</zh-CN>
 		<pt-BR>Nossos guerreiros mais experientes devem se encarregar do treinamento.</pt-BR>
 		<ko>제일 경험이 많은 전사들이 훈련을 담당해야 한다.</ko>
+		<fixja>訓練は、最も経験のある戦士が担当すべきだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_BARRACKS_TRAINING</zType>
@@ -4903,6 +5319,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>关键是日复一日的长时间训练，才能让他们时刻做好准备。</zh-CN>
 		<pt-BR>O segredo é realizar treinamentos longos dia após dia, assim eles estarão sempre preparados.</pt-BR>
 		<ko>매일 긴 시간 훈련하여 언제든 대비 태세를 갖추는 것이 핵심이다.</ko>
+		<fixja>常に準備が整えておけ。重要なのは、常日頃から訓練を重ねておくことだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_CHARIOT_PROMOTION</zType>
@@ -4916,6 +5333,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>如果僧侣能为{UNIT-4}赐福，也许阿胡拉·马兹达就能在战斗中亲自指引他们。</zh-CN>
 		<pt-BR>Se os magos abençoarem nossa {UNIT-4,3}, talvez Ahura Mazda a guiará na batalha.</pt-BR>
 		<ko>만약 신관들이 {UNIT-4} 부대에 축복을 내린다면 아후라 마즈다가 전투에서 그들을 이끌어 줄 것이다.</ko>
+		<fixja>賢者が{UNIT-4}を祝福してくれるなら、アフラ・マズダも戦いで我らを導いてくれるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_CHARIOT_FREE</zType>
@@ -4929,6 +5347,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们会接受僧侣的建议，随军再带一辆战车。</zh-CN>
 		<pt-BR>Levaremos outra biga com nosso exército, como sugerido pelos magos.</pt-BR>
 		<ko>신관들이 제안한 것처럼 군대에 전차를 하나 더 가져갈 것이다.</ko>
+		<fixja>賢者が言う通り、軍隊にもう一台チャリオットを持たせよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_MONASTERY_CIVICS</zType>
@@ -4942,6 +5361,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们的朝臣将会参加一个{RELIGION-1,1}仪式，在宗教与宫廷之间建立联系。</zh-CN>
 		<pt-BR>Nossos membros da corte participarão de uma cerimônia {RELIGION_F-1,1} para forjar uma ligação entre a religião e a corte real.</pt-BR>
 		<ko>신하들이 {RELIGION-1,1} 의식에 참여하여 종교와 왕실 사이에 연결 고리를 형성할 것이다.</ko>
+		<fixja>宗教と王宮の繋がりを築くため、廷臣たちで{RELIGION-1,1}の儀式に参加させる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_MONASTERY_DISCONTENT</zType>
@@ -4955,6 +5375,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{CITY-0}会将举行为期一周的庆祝活动，赞颂{RELIGION-1}。</zh-CN>
 		<pt-BR>Uma semana inteira de celebrações na cidade de {CITY-0} será realizada em homenagem ao {RELIGION-1}.</pt-BR>
 		<ko>{CITY-0}에서 한 주 내내 {RELIGION-1}를 기리는 기념행사를 주관할 것이다.</ko>
+		<fixja>{RELIGION-1}を称える祝いの行事が、{CITY-0}で1週間にわたって開催される。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_MONASTERY_CHARISMA</zType>
@@ -4968,6 +5389,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我会以私人名义见一见{CITY-0}的{RELIGION-1,1}领袖。</zh-CN>
 		<pt-BR>Terei uma audiência com os líderes {RELIGION-1,3} da cidade de {CITY-0}.</pt-BR>
 		<ko>{CITY-0}의 {RELIGION-1,1} 지도자들과 개인적으로 만날 것이다.</ko>
+		<fixja>{CITY-0}にいる{RELIGION-1,1}の指導者と個人的に会う。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_STATE_RELIGION_LEGITIMACY</zType>
@@ -4981,6 +5403,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我是{RELIGION-0}最伟大的庇护者，我的名字将永远被铭记！</zh-CN>
 		<pt-BR>Meu nome sempre será lembrado como o do maior patrono do {RELIGION-0}!</pt-BR>
 		<ko>나의 이름은 {RELIGION-0} 최고의 후원자로 영원히 기억될 것이다!</ko>
+		<fixja>我が名は、{RELIGION-0}の偉大なるパトロンとして永遠に記憶されるだろう！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_STATE_RELIGION_WORKER</zType>
@@ -4994,6 +5417,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>宗教的责任与我们在现世的责任相辅相成。我们将会改善物质世界，让这里更接近与阿胡拉·马兹达的完美统一！</zh-CN>
 		<pt-BR>Nossos deveres espirituais vão de mãos dadas com nossos deveres terrenos. Precisamos melhorar nosso mundo material para aperfeiçoarmos nossa união com Ahura Mazda!</pt-BR>
 		<ko>영적 의무는 우리의 일상적인 의무와 밀접한 관련이 있다. 물질세계를 개선하여 아후라 마즈다와의 완벽한 결속에 가까워질 것이다!</ko>
+		<fixja>精神的な務め、それは地上での務めと密接な関係にある。アフラ・マズダとの一体化を果たすため、この物質世界をさらに良いものとするのだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_STATE_RELIGION_ARMY</zType>
@@ -5007,6 +5431,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我们必须把{RELIGION-0,1}信仰传播给所有的非信徒。</zh-CN>
 		<pt-BR>Devemos levar o {RELIGION-0} para todos os descrentes!</pt-BR>
 		<ko>모든 불신자에게 {RELIGION-0,1} 신앙을 전파해야 한다!</ko>
+		<fixja>{RELIGION-0,1}の民に信仰をもたらさなければ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_SHAPUR_ZOROASTRIANISM_STATE_RELIGION_LEGITIMACY</zType>
@@ -5020,6 +5445,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>已将祆教确立为国教</zh-CN>
 		<pt-BR>Estabeleci o zoroastrismo como a religião oficial</pt-BR>
 		<ko>조로아스터교를 국교로 설립하였음</ko>
+		<fixja>ゾロアスター教を国教に制定</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_PLEASED_WISDOM</zType>
@@ -5033,6 +5459,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>一场启迪思维的心灵之旅正好合适。</zh-CN>
 		<pt-BR>Uma viagem espiritual para abrir a mente parece ótima.</pt-BR>
 		<ko>마음을 깨우는 영적 여행이 적절할 것이다.</ko>
+		<fixja>心を開く、短めの精神旅行がちょうどいいだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_PLEASED_WOOD</zType>
@@ -5046,6 +5473,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我希望能获赠点燃圣火的珍贵燃料。</zh-CN>
 		<pt-BR>Gostaria de receber de presente o precioso combustível que acende os fogos sagrados.</pt-BR>
 		<ko>신성한 불을 피우는 귀중한 연료를 받았으면 좋겠다.</ko>
+		<fixja>聖なる火を貴重な燃料を提供してもらいたい。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_SHAPUR_ZOROASTRIANISM_PLEASED_LEGITIMACY</zType>
@@ -5059,6 +5487,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>公开认定我是{RELIGION-0}的庇护者，这才是最好的选择。</zh-CN>
 		<pt-BR>Um reconhecimento claro e público de que eu sou um patrono do {RELIGION-0} é a melhor escolha.</pt-BR>
 		<ko>{RELIGION-0}의 후원자라는 사실을 분명하고 공공연하게 인정받는 것이 최고다.</ko>
+		<fixja>公に{RELIGION-0}のパトロンとしてはっきり認めてもらうのが一番良いだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_SHAPUR_ZOROASTRIAN_PATRON_LEGITIMACY</zType>
@@ -5072,6 +5501,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>被祆教认定为庇护者</zh-CN>
 		<pt-BR>Fui reconhecido como patrono do zoroastrismo</pt-BR>
 		<ko>조로아스터교의 후원자로 인정받았음</ko>
+		<fixja>ゾロアスター教のパトロンとして認められる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_MASABATES_INTERVENE</zType>
@@ -5085,6 +5515,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我绝对不能容忍！{CHARACTER-SHORT-2}无论有什么恶毒阴谋，尽管放马过来，但马萨巴特斯必须无罪释放。</zh-CN>
 		<pt-BR>Não permitirei que isso aconteça! Que {CHARACTER-SHORT-2} siga com os esquemas perversos dela, mas Masabates deve ser libertado.</pt-BR>
 		<ko>더는 두고 볼 수 없다! {CHARACTER-SHORT-2}(이)가 아무리 간계를 부려도 마사바테스는 풀려날 것이다.</ko>
+		<fixja>黙って見ていられるか！{CHARACTER-SHORT-2}に狡猾な策を仕掛ける。それで、マサバテスは自由の身だ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_MASABATES_ALLOW</zType>
@@ -5098,6 +5529,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>真是卑鄙的行为，但我还没有做好公开挑战{CHARACTER-SHORT-2}的准备。</zh-CN>
 		<pt-BR>É algo desprezível, mas não estou preparada para desafiar {CHARACTER-SHORT-2} abertamente.</pt-BR>
 		<ko>정말 비열한 짓이지만, 나는 아직 {CHARACTER-SHORT-2}에게 공개적으로 맞설 준비가 안 됐다.</ko>
+		<fixja>卑劣な行為だ…だが、まだ公然と{CHARACTER-SHORT-2}に挑む用意はできていない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_STATEIRA_PARYSATIS_MASABATES_INTERVENE_LEGITIMACY</zType>
@@ -5111,6 +5543,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>帕里萨提斯暗中破坏了我们的统治</zh-CN>
 		<pt-BR>Parisátide desautoriza nosso governo</pt-BR>
 		<ko>파리사티스가 우리의 통치를 깎아내림</ko>
+		<fixja>パリサティスによって蝕まれる治世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_PARYSATIS_POISON_ATTEND</zType>
@@ -5124,6 +5557,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>那就这样吧。无论如何，今晚一切都会结束。</zh-CN>
 		<pt-BR>Que seja. Isso acaba hoje, de uma forma ou de outra.</pt-BR>
 		<ko>그렇다면 어쩔 수 없군. 오늘 밤에 어느 쪽으로든 이 모든 게 끝날 것이다.</ko>
+		<fixja>それでいい。いずれにせよ、今夜決着がつく。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_PARYSATIS_POISON_ATTEND_HELPTEXT</zType>
@@ -5137,6 +5571,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>未雨绸缪——我会想办法让形势对我有利。</zh-CN>
 		<pt-BR>A preparação é a melhor arma. Encontrarei uma forma de virar a situação a nosso favor.</pt-BR>
 		<ko>미리 알면 대비할 수 있다. 상황을 나에게 유리한 쪽으로 돌릴 방법을 찾을 것이다.</ko>
+		<fixja>油断は禁物だ。何とか、この状況を有利にする方法を見つけよう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_PARYSATIS_POISON_DECLINE</zType>
@@ -5150,6 +5585,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我要是主动跳进她的圈套就太傻了。我必须谢绝这次邀请。</zh-CN>
 		<pt-BR>Seria uma tolice ir direto à armadilha dela. Recusarei o convite.</pt-BR>
 		<ko>그녀의 덫에 걸려드는 것은 바보 같은 일이다. 초대를 거절해야 한다.</ko>
+		<fixja>自ら罠にはまるなど、愚か極まりない。誘いは断るべきだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_PARYSATIS_POISON_DECLINE_HELPTEXT</zType>
@@ -5163,6 +5599,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>帕里萨提斯肯定会拿我的拒绝大做文章，但我不会吞下毒药。</zh-CN>
 		<pt-BR>Parisátide com certeza se aproveitará dessa recusa, mas não vou ingerir veneno.</pt-BR>
 		<ko>파리사티스는 내가 거절했다는 사실을 유리하게 이용하겠지만, 독약을 먹을 수는 없다.</ko>
+		<fixja>誘いを断っても、パリサティスはそれを逆手に取るだろう…だが、自ら毒を口にするつもりはない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_STATEIRA_PARYSATIS_PARYSATIS_POISON_DECLINE_LEGITIMACY</zType>
@@ -5176,6 +5613,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>拒绝与帕里萨提斯共进晚餐</zh-CN>
 		<pt-BR>Recusou jantar com Parisátide</pt-BR>
 		<ko>파리사티스와의 저녁 식사를 거절하였음</ko>
+		<fixja>パリサティスとの夕食を断る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_COVERT</zType>
@@ -5189,6 +5627,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>迅速与{CHARACTER-SHORT-2}交换盘子。</zh-CN>
 		<pt-BR>Troque de pratos com {CHARACTER-SHORT-2} rapidamente.</pt-BR>
 		<ko>{CHARACTER-SHORT-2}의 접시를 빠르게 바꿔치기하십시오.</ko>
+		<fixja>素早く{CHARACTER-SHORT-2}の皿を入れ替える。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_COVERT_HELPTEXT</zType>
@@ -5202,6 +5641,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>只要用一点花招、一点演技、一点巧妙的手法，就能达到目的。</zh-CN>
 		<pt-BR>Uma pequena distração, um pouco de atuação e mãos ágeis darão conta do recado.</pt-BR>
 		<ko>잠시 주의를 돌리고, 연기하고, 재빠르게 손을 놀리면 될 것입니다.</ko>
+		<fixja>少しの間、気を逸らし、演技をして、巧みな手さばきで誤魔化す。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_STRONG</zType>
@@ -5215,6 +5655,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>是时候直接采取行动了，还吃什么晚餐，用刀捅死{CHARACTER-SHORT-2}！</zh-CN>
 		<pt-BR>Esta é a hora de agir. Crave sua faca em {CHARACTER-SHORT-2} em vez de usá-la com a refeição!</pt-BR>
 		<ko>직접 행동에 나설 시간입니다. 저녁 식사 대신 {CHARACTER-SHORT-2}에게 칼을 꽂으십시오!</ko>
+		<fixja>今こそ直接動く時だ。夕食の代わりにナイフを食らわせろ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_STRONG_HELPTEXT</zType>
@@ -5228,6 +5669,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>仆人不敢当面与王后和国王作对。即使是吉吉斯也会怕你。</zh-CN>
 		<pt-BR>Os servos não ousarão agir contra a rainha e o rei. Mesmo Gigis lhe teme.</pt-BR>
 		<ko>하인들은 감히 여왕과 왕을 상대로 손을 올리지 못할 것입니다. 기기스도 당신을 두려워할 것이 분명합니다.</ko>
+		<fixja>相手は王妃と王だ。使用人たちが手を上げる勇気はないだろう。ギギスでさえ、あなたを恐れるに違いない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_HERBALIST</zType>
@@ -5241,6 +5683,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>如果在晚宴上假装不舒服，半途找机会离席，就可以提前准备解药。</zh-CN>
 		<pt-BR>Se você comer apenas a metade e sair com a desculpa de não estar bem, você terá tempo de preparar um antídoto.</pt-BR>
 		<ko>몸이 안 좋다는 핑계로 절반만 먹고 해독제를 준비할 수 있을 것입니다.</ko>
+		<fixja>半分だけ食べて体調が悪いフリをして帰れば、解毒剤を用意できる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_HERBALIST_HELPTEXT</zType>
@@ -5254,6 +5697,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>你通过微弱的气味就能认出这种毒药——这是一种缓慢起效的毒药。你还有几个小时的时间，可以准备一份由肉桂、大蒜、木炭和茴香组成的混合物来治愈自己。</zh-CN>
 		<pt-BR>Você reconhece o veneno pelo cheiro: esse é de ação lenta. Você terá várias horas para preparar uma mistura de canela, alho, carvão e anis para ajudar na sua recuperação.</pt-BR>
 		<ko>당신은 독약의 희미한 냄새를 맡고 알아차립니다. 느리게 작용하는 독약입니다. 당신을 완벽히 낫게 해 줄 계피, 숯, 팔각을 섞은 혼합물을 준비할 때까지 몇 시간의 여유가 있을 것입니다.</ko>
+		<fixja>かすかな匂いで分かった…遅効性の毒だ。数時間以内にシナモン、ニンニク、炭、アニスを混ぜたものを用意する。これで完治するはずだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_CHARISMATIC</zType>
@@ -5267,6 +5711,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>看着{CHARACTER-SHORT-2}的眼睛，揭穿她的阴谋。</zh-CN>
 		<pt-BR>Olhe {CHARACTER-SHORT-2} nos olhos e admita que você sabe sobre o plano dela.</pt-BR>
 		<ko>그녀의 계략을 안다는 사실을 밝히면서 {CHARACTER-SHORT-2}의 눈을 바라보십시오.</ko>
+		<fixja>{CHARACTER-SHORT-2}の目を見ながら、企みはもう分かっていると明かす。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_CHARISMATIC_HELPTEXT</zType>
@@ -5280,6 +5725,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>吉吉斯拿着匕首，似乎是后备计划，但帕里萨提斯受到了彻底的羞辱，他不敢采取行动。</zh-CN>
 		<pt-BR>Parece que a adaga de Gigis é o plano B, mas ele não ousará agir se Parisátide for completamente humilhada.</pt-BR>
 		<ko>계획이 틀어질 경우를 대비해 단검을 든 기기스를 준비한 것 같지만, 파리사티스가 철저히 망신당한 상황에서 감히 행동에 나서지는 않을 것입니다.</ko>
+		<fixja>ギギスが短剣を持っているのは、「もしものための計画」だろうか。だが、パリサティスがあそこまで恥をかかされた後だ。手を出されることはないだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_EAT</zType>
@@ -5293,6 +5739,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>你意识到自己做出了一个非常糟糕的决定，想不出能够摆脱这种情况的办法。</zh-CN>
 		<pt-BR>Você percebe que fez uma escolha realmente terrível quando não consegue pensar em nada para lhe tirar dessa situação.</pt-BR>
 		<ko>어떻게 해도 빠져나갈 방법이 생각나지 않자 말도 안 되게 나쁜 선택을 했다는 사실을 깨닫습니다.</ko>
+		<fixja>この状況を打開する方法が思い浮かばない。そこであなたは、自分が大きな間違いをしたことに気付く。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_PARYSATIS_POISON_FOLLOWUP_EAT_HELPTEXT</zType>
@@ -5306,6 +5753,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>只能希望调制毒药的人技艺不佳。</zh-CN>
 		<pt-BR>Só resta esperar que quem tenha preparado o veneno não tenha feito um bom trabalho.</pt-BR>
 		<ko>독을 제조한 자의 기술이 뛰어나지 않기를 바랄 수밖에 없습니다.</ko>
+		<fixja>もうこうなってしまった以上、毒を混ぜた者が下手であったことを祈るしかない…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_STATEIRA_AVOIDED_PARYSATIS_POISON_LEGITIMACY</zType>
@@ -5319,6 +5767,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>避免被帕里萨提斯毒害</zh-CN>
 		<pt-BR>Evitou ser envenenada por Parisátide</pt-BR>
 		<ko>파리사티스에게 독살당하는 것을 피했음</ko>
+		<fixja>パリサティスによる毒殺を免れる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_STATEIRA_DEFEATED_PARYSATIS_LEGITIMACY</zType>
@@ -5332,6 +5781,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>战胜帕里萨提斯</zh-CN>
 		<pt-BR>Superou Parisátide</pt-BR>
 		<ko>파리사티스의 계략을 뛰어넘었음</ko>
+		<fixja>パリサティスに勝利</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_CYRUS_REBELS_TRAINING</zType>
@@ -5345,6 +5795,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>动员尽可能多的兵力，准备进行防御。</zh-CN>
 		<pt-BR>Mobilize o máximo de pessoas possível para organizar uma defesa.</pt-BR>
 		<ko>방어를 위해 최대한 많은 병력을 동원한다.</ko>
+		<fixja>集めうる限りの兵を動員して守りに当たらせる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_STATEIRA_CYRUS_REBELS_LEGITIMACY</zType>
@@ -5358,6 +5809,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>我要亲自去{CITY-4}，等到{CHARACTER-SHORT-2}被打败的时候，我很乐意亲口嘲笑他。</zh-CN>
 		<pt-BR>Irei a {CITY-4} pessoalmente, e será um prazer zombar de {CHARACTER-SHORT-2} quando ele estiver derrotado.</pt-BR>
 		<ko>내가 직접 {CITY-4}에 가겠다. {CHARACTER-SHORT-2}(을)를 무찌르고 직접 조롱한다면 기분이 좋을 것이다.</ko>
+		<fixja>自ら{CITY-4}に赴き──そして彼が敗れたときに、正面を切って{CHARACTER-SHORT-2}を嘲笑うのが、私の喜びとなる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_STATEIRA_CYRUS_REBELS_LEGITIMACY</zType>
@@ -5371,6 +5823,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>正面对抗居鲁士的叛乱</zh-CN>
 		<pt-BR>Enfrentei a rebelião de Ciro</pt-BR>
 		<ko>키루스의 반란을 맞닥뜨림</ko>
+		<fixja>キュロスの反乱に直面</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_CYAXARES_SCYTHIAN_ALLIANCE_YES</zType>
@@ -5384,6 +5837,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>{TRIBE-2}现在会为我们效力。往事就交给历史学家去记载吧。眼下，国王应该专心发展权势。</zh-CN>
 		<pt-BR>Os {TRIBE-2} passarão a nos servir. Que os historiadores se ocupem do passado. Os reis devem aumentar seu poder no presente.</pt-BR>
 		<ko>이제 {TRIBE-2}이 우리를 섬길 것이다. 과거는 역사가들에게 맡겨라. 지금의 권력을 키우는 것은 왕의 몫이다.</ko>
+		<fixja>{TRIBE-2}は、これから我らに仕えることとなる。過去のことは歴史家に任せておけばいい。王とは力を伸ばすものだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PERSIA_CYAXARES_SCYTHIAN_ALLIANCE_NO</zType>
@@ -5397,6 +5851,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>与{TRIBE-2}交友会玷污我的传承，我拒绝。</zh-CN>
 		<pt-BR>Eu não vou manchar meu legado fazendo amizade com os {TRIBE-2}.</pt-BR>
 		<ko>{TRIBE-2}과 우호 관계를 맺음으로써 나의 유산을 더럽히지 않을 것이다.</ko>
+		<fixja>{TRIBE-2}との友情で、私の遺産を汚すつもりはない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSIA_CYAXARES_TRIBAL_ALLIANCE_LEGITIMACY</zType>
@@ -5410,6 +5865,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>与受人轻视的斯基泰人结盟</zh-CN>
 		<pt-BR>Aliou-se aos detestáveis citas</pt-BR>
 		<ko>경멸하는 스키타이족과 동맹을 맺음</ko>
+		<fixja>蔑まれていたスキタイ人との同盟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_GREATEST_COMMANDER_TITLE</zType>
@@ -5423,6 +5879,7 @@ Avisado bem na hora sobre o ataque, {CHARACTER-SHORT-0} consegue escapar ileso. 
 		<zh-CN>最伟大的指挥官</zh-CN>
 		<pt-BR>O Maior de Todos</pt-BR>
 		<ko>제일 위대한 자</ko>
+		<fixja>最も偉大なるもの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_GREATEST_COMMANDER</zType>
@@ -5458,6 +5915,9 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<ko>전세가 카르타고에 불리해지는 가운데, 계속된 패배로 유배되었던 {CHARACTER-2}(을)를 찾았다는 보고가 들어옵니다. 당신은 그와 차이점이 있고 적대적이지만, 그처럼 의견을 존중하는 장군을 만나는 것은 드문 일입니다. 기회를 잡은 당신은 {CHARACTER-SHORT-2}에게 최고의 사령관이 누구인지 묻습니다. 그는 바로 대답합니다. "알렉산드로스 대왕, 그다음은 피로스다. 그리고 세 번째는 바로 나다."
 
 당신이 묻습니다. "만약 나를 무찌른다면 뭐라고 하겠는가?" 굳어 있던 {CHARACTER-SHORT-2}의 표정이 미소를 지으며 누그러집니다. "그렇다면 내가 알렉산드로스, 피로스, 그리고 세상에서 제일 위대한 지휘관들을 뛰어넘었다고 말할 것이다."</ko>
+		<fixja>カルタゴにとっては思わしくない戦況に差し掛かったところで、戦に敗れて追放された{CHARACTER-2}を見つけたと民が報告してきた。意見の相違や敵意があるにも関わらず、これほどまでに尊敬する将軍と出会うことなど滅多にない。これを機会と捉え、あなたは{CHARACTER-SHORT-2}に最も偉大な指揮官は誰かと尋ねた。「アレキサンダー大王、ピュロス。迷うことなく返答が来る。「3番目？私だ。」
+
+「もし私が敗れたら、その口からどんな言葉が出るのだろうな？」そこで、あなたが尋ねる。{CHARACTER-SHORT-POSS-2}の厳しい顔が予期せず緩む。「では、余はアレキサンダーやピュロス、そして世界中の偉大な指揮官たちを超えたと言うことだな。」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_GREATEST_COMMANDER_OPTION_0</zType>
@@ -5471,6 +5931,7 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<zh-CN>现在，奉承也救不了他了。</zh-CN>
 		<pt-BR>Não é adulação que o salvará agora.</pt-BR>
 		<ko>이제 어떤 아첨도 그를 살릴 수 없을 것이다.</ko>
+		<fixja>どんなお世辞も、今の彼を救うことはできない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_GREATEST_COMMANDER_OPTION_1</zType>
@@ -5484,6 +5945,7 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<zh-CN>战斗结束了，让{CHARACTER-SHORT-2}回家吧。</zh-CN>
 		<pt-BR>Nossa luta já se encerrou, que {CHARACTER-SHORT-2} volte para casa.</pt-BR>
 		<ko>우리의 싸움은 끝났다. {CHARACTER-SHORT-2}의 귀환을 허락하라.</ko>
+		<fixja>我々の戦いは終わった。{CHARACTER-SHORT-2}を帰国させる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_THE_GREATEST_COMMANDER_OPTION_1_CHARACTER_0</zType>
@@ -5497,6 +5959,7 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<zh-CN>汉尼拔的评价：最佳</zh-CN>
 		<pt-BR>Aníbal lhe considera o maior</pt-BR>
 		<ko>한니발에 의해 최고로 인정받음</ko>
+		<fixja>ハンニバル、最高の名将と称される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AFRICANUS</zType>
@@ -5510,6 +5973,7 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<zh-CN>令人生畏的{PLAYER-2}威胁着整个罗马，却受到了你的重重一击。你攻下{CITY-1}之后，罗马人民为你授予了“阿非利加努斯”的称号，意思是非洲的征服者。</zh-CN>
 		<pt-BR>{PLAYER-2}, e a temida ameaça que ela representa a Roma, recebeu um grande golpe desferido por suas ordens. Após o seu ataque à cidade de {CITY-1}, o povo de Roma decidiu lhe dar o título de "Africano", o Conquistador da África.</pt-BR>
 		<ko>당신은 로마에게 위협적인 존재이자 무시무시한 세력이었던 {PLAYER-2}에 의해 큰 타격을 입었습니다. 당신이 {CITY-1}(을)를 공격하자 로마 사람들이 당신에게 아프리카의 정복자를 뜻하는 '아프리카누스' 칭호를 하사하기로 했습니다.</ko>
+		<fixja>ローマの脅威として恐れられていた驚異たる{PLAYER-2}が、あなたの手によって重大な打撃を受けた。{CITY-1}に対し攻撃を仕掛けたということで、あなたはローマ市民から「アフリカヌス」、すなわち「アフリカの征服者」の称号を与えられた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AFRICANUS_TITLE</zType>
@@ -5523,6 +5987,7 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<zh-CN>阿非利加努斯</zh-CN>
 		<pt-BR>Africano</pt-BR>
 		<ko>아프리카누스</ko>
+		<fixja>アフリカヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_AFRICANUS_OPTION_0</zType>
@@ -5536,6 +6001,7 @@ Vous lui demandez : « Que diriez-vous si vous m’aviez vaincu ?». Le visag
 		<zh-CN>胜利的欢呼将会响彻罗马。</zh-CN>
 		<pt-BR>Essa vitória repercutirá em todos os cantos de Roma.</pt-BR>
 		<ko>이번 승리는 로마 전역에 울려 퍼져야 한다.</ko>
+		<fixja>この勝利のこだまはローマ中に響き渡るだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIAL_OF_THE_SCIPIOS</zType>
@@ -5569,6 +6035,9 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<ko>로마가 폭군의 손아귀에 들어가는 일은 다시는 없을 것입니다. 이 결심이 로마의 법률과 정치 생활에 영향을 줍니다. {FAMILY-1} 가문은 당신의 지속적인 성공과 대중적 인기를 점점 경계합니다. {CHARACTER-2}(은)는 여론을 조작하려는 재판을 열어 당신이 로마의 적에게 받은 뇌물로 지지 세력을 확충했고, 국고에서 돈을 빼돌렸다고 주장합니다.
 
 당신은 조금도 머뭇거리지 않고 극적인 연설로 그들의 혐의를 무너뜨리고, 로마를 수호했던 행동을 열거한 뒤, 정치인들이 보는 앞에서 당신에 대한 보고서를 찢어버립니다. 당신은 물러서지 않겠다는 입장을 관철하려고, 즉석에서 구성한 지지자 행렬을 이끌고 로마의 신 앞으로 갑니다. 당신은 혐의를 제기한 자들이 곤혹스러워하는 모습을 보며 씁쓸한 만족감을 느낍니다. 지긋지긋한 정치 싸움을 하면서 권력을 지켜야 할 가치가 있을까요?</ko>
+		<fixja>もう二度と、ローマが暴君の支配下に置かれることはない。この決定が、ローマの法律と政治生活の多くを規定する。{FAMILY-1}は、あなたが成功を収め続け、人々に人気があることに警戒心を強めている。裁判で{CHARACTER-2}は、あなたがローマの敵から巻き上げた賄賂で支持を築き、あまつさえ国庫から盗みを働いたと主張する。
+
+疑念を与える間もなく、あなたは劇的な演説でその告発を打ち砕き、ローマ防衛に行ったことを列挙した。そして、政治家たちの目の前で自らの会計報告書を破り捨てる。動じることなどないという姿勢を示すために、人々を従えて、即興でローマの神々へ向けた行進を行った。告発者たちの困惑を目の当たりにし、あなたは暗い満足感を抱く。だが、この政治闘争の末に得られる権力は、本当に価値のあるものなのだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIAL_OF_THE_SCIPIOS_TITLE</zType>
@@ -5582,6 +6051,7 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<zh-CN>审判西庇阿</zh-CN>
 		<pt-BR>O Julgamento de Cipião</pt-BR>
 		<ko>스키피오의 재판</ko>
+		<fixja>スキピオスの試練</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIAL_OF_THE_SCIPIOS_OPTION_0</zType>
@@ -5595,6 +6065,7 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<zh-CN>虽然你是无辜的，但还是要向民众捐款</zh-CN>
 		<pt-BR>Mesmo sendo inocente, ofereça uma doação para o povo.</pt-BR>
 		<ko>당신은 결백하지만, 사람들에게 기부하겠다고 제안합니다.</ko>
+		<fixja>無実にもかかわらず、人々に寄付を申し出る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_MEMORYFAMILY_GENEROUS_DONATION</zType>
@@ -5608,6 +6079,7 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<zh-CN>进行慷慨捐赠</zh-CN>
 		<pt-BR>Fez uma doação generosa</pt-BR>
 		<ko>상당한 금액을 기부했음</ko>
+		<fixja>多額の寄付を行った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIAL_OF_THE_SCIPIOS_OPTION_1</zType>
@@ -5621,6 +6093,7 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<zh-CN>宣布你会继续领导罗马，直到生命的最后一刻。</zh-CN>
 		<pt-BR>Declare que você tem intenções de governar Roma até seu último suspiro.</pt-BR>
 		<ko>숨을 거둘 때까지 로마를 이끌 마음이 있다고 선언합니다.</ko>
+		<fixja>息を引き取るまで、ローマを導くと宣言するのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIAL_OF_THE_SCIPIOS_OPTION_2</zType>
@@ -5634,6 +6107,7 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<zh-CN>领导权值得这样无穷无尽的斗争吗？也许是时候隐退了……</zh-CN>
 		<pt-BR>Vale mesmo a pena passar por tudo isso? Talvez seja hora de se aposentar...</pt-BR>
 		<ko>통솔을 위해 계속 고군분투할 가치가 있을까요? 어쩌면 은퇴할 시간일지도...</ko>
+		<fixja>このような絶え間ない闘争を経てでも、指導者であることに価値はあるのだろうか？身を引くべき時なのかもしれない…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_TRIAL_OF_THE_SCIPIOS_OPTION_2_HELP</zType>
@@ -5647,6 +6121,7 @@ Sem qualquer hesitação, você rebate as acusações em um discurso dramático,
 		<zh-CN>{CHARACTER-3}准备好继承我的大业了。</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-3} tem o preparo necessário para continuar meu legado.</pt-BR>
 		<ko>{CHARACTER-3}(은)는 내 유산을 이을 준비가 되었다.</ko>
+		<fixja>{CHARACTER-3}は、私が遺したものを引き継ぐ準備ができている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_TO_WAR</zType>
@@ -5680,6 +6155,9 @@ Você irá até o fim na guerra contra {PLAYER-0,4}?</pt-BR>
 		<ko>{PLAYER-0}(은)는 로마의 적으로 굳어졌습니다. 당신은 할아버지가 시작한 전쟁을 물려받았고, 로마가 이 위협을 극복하려던 할아버지의 결심과 의욕은 당신의 몫이 되었습니다. 외국과 적대 관계를 지속하는 것에 대한 대중의 감정이 점점 나빠지는 가운데, 한 정치인이 연설을 끝낼 때마다 '카르타고는 몰락해야 한다'는 말을 덧붙입니다.
 
 {PLAYER-0}(과)와의 전쟁을 끝내시겠습니까?</ko>
+		<fixja>ローマの敵として、{PLAYER-0}はもはや確固たる地位を築いている。祖父の時代から続いている戦争を引き継いだあなたは、この脅威に打ち勝とうとした彼の固い意志と行動力が託される。異国に対する国民感情は悪化の一途を辿り、ある政治家は演説の度に「カルタゴ滅ぶべし」という言葉で締めくくっていた。
+
+{PLAYER-0}との戦いに終止符を打つことができるのか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_TO_WAR_TITLE</zType>
@@ -5693,6 +6171,7 @@ Você irá até o fim na guerra contra {PLAYER-0,4}?</pt-BR>
 		<zh-CN>战争继承人</zh-CN>
 		<pt-BR>Herdeiro da Guerra</pt-BR>
 		<ko>전쟁의 후계자</ko>
+		<fixja>戦争を継ぐ者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_TO_WAR_OPTION_TRUCE</zType>
@@ -5706,6 +6185,7 @@ Você irá até o fim na guerra contra {PLAYER-0,4}?</pt-BR>
 		<zh-CN>不，是时候结束战争了。 </zh-CN>
 		<pt-BR>Não, já é hora dessa guerra terminar. </pt-BR>
 		<ko>이제 전쟁을 끝낼 시간이다. </ko>
+		<fixja>いや、今こそ戦争を終わらせる時だ。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYFAMILY_MEMORYFAMILY_FIGHTING_CARTHAGE</zType>
@@ -5719,6 +6199,7 @@ Você irá até o fim na guerra contra {PLAYER-0,4}?</pt-BR>
 		<zh-CN>发誓要打败迦太基</zh-CN>
 		<pt-BR>Jurou derrotar Cartago</pt-BR>
 		<ko>카르타고를 물리치겠다고 맹세함</ko>
+		<fixja>打倒カルタゴを誓う</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_HEIR_TO_WAR_OPTION_WAR</zType>
@@ -5732,6 +6213,7 @@ Você irá até o fim na guerra contra {PLAYER-0,4}?</pt-BR>
 		<zh-CN>向朱比特发誓，不把{PLAYER-0}化作废墟绝不止步。</zh-CN>
 		<pt-BR>Jure por Júpiter que não descansará até que {PLAYER-0} seja destruída!</pt-BR>
 		<ko>{PLAYER-0}(을)를 폐허로 만들 때까지 쉬지 않겠다고 유피테르에게 맹세한다.</ko>
+		<fixja>ユピテルに誓い、{PLAYER-0}が廃墟となるまで休まず攻撃を続ける。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_HEIR_TO_WAR_OPTION_WAR_CHARACTER</zType>
@@ -5745,6 +6227,7 @@ Você irá até o fim na guerra contra {PLAYER-0,4}?</pt-BR>
 		<zh-CN>发誓要摧毁迦太基</zh-CN>
 		<pt-BR>Jurou destruir Cartago</pt-BR>
 		<ko>카르타고를 무너뜨리겠다고 맹세함</ko>
+		<fixja>カルタゴの滅亡を誓う</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_SCIPIO_CARTHAGE</zType>
@@ -5778,6 +6261,9 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<ko>정찰병들이 새로 접촉한 국가인 {PLAYER-0}에 관한 소식을 전합니다. 그들이 봤을 때 우리 나라는 아주 세련되고 문화적인 제국이며, 군사력도 대단합니다. 당신은 오싹한 느낌이 듭니다. 당신의 통치하에 로마가 확장한 건 사실이지만, 이번 접촉은 이전과 전혀 다를 것 같다는 기분이 듭니다. 
 
 로마 사람들은 {PLAYER-0}(이)가 당신의 확장을 저지할 것이라며 경계하지만, 최종 결정은 당신의 몫입니다. 이 경쟁국을 어떻게 대하시겠습니까?</ko>
+		<fixja>斥候が、新たに接触した国の情報を持ってきた：{PLAYER-0}国からの口伝えによると、帝国は高度に洗練された文化を持つ国であり、それに相応しい軍事力を有しているという。寒気がする。ローマはあなたの統治下でその領域を広げてきたが、今回はこれまで経験してきたどの戦いとも異なると感じさせるものがある。 
+
+ローマの人々は、{PLAYER-0}が我らの勢力拡大を妨げるのではないかと警戒している。最終的な決定はあなたが下すのだ。この好敵手とも呼ぶべき国にどう対処するのか。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_SCIPIO_CARTHAGE_TITLE</zType>
@@ -5791,6 +6277,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>命定之敌？</zh-CN>
 		<pt-BR>Inimigos Predestinados?</pt-BR>
 		<ko>숙명의 적?</ko>
+		<fixja>宿命の敵？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CONTACT_SCIPIO_CARTHAGE_OPTION_0</zType>
@@ -5804,6 +6291,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>诸神会见证罗马取得胜利。</zh-CN>
 		<pt-BR>Com a benção dos deuses, Roma será vitoriosa.</pt-BR>
 		<ko>신들은 로마가 승리하는 모습을 보게 될 것이다.</ko>
+		<fixja>神々がローマを勝利へと導いてくれる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CONTACT_SCIPIO_CARTHAGE_OPTION_1</zType>
@@ -5817,6 +6305,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>我们静观其变。</zh-CN>
 		<pt-BR>Devemos esperar para ver o que acontece.</pt-BR>
 		<ko>상황이 어떻게 전개될지 지켜보겠다.</ko>
+		<fixja>今後の展開に要注目だ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_CONTACT_SCIPIO_CARTHAGE_OPTION_2</zType>
@@ -5830,6 +6319,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>我们应该结交盟友，而不是树立敌人。</zh-CN>
 		<pt-BR>Devemos buscar aliados, não inimigos.</pt-BR>
 		<ko>우리는 적을 만드는 대신 동맹을 맺어야 한다.</ko>
+		<fixja>敵ではなく味方を探すべきだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_SCIPIO_AFRICANUS</zType>
@@ -5843,6 +6333,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>拥有名号的阿非利加努斯</zh-CN>
 		<pt-BR>Foi nomeado Africano</pt-BR>
 		<ko>아프리카누스로 명명되다</ko>
+		<fixja>称号：アフリカヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_RISE_OF_SULLA_OPTION_0</zType>
@@ -5856,6 +6347,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>我才是统治者，这个后起之秀算老几？</zh-CN>
 		<pt-BR>O governante sou eu, não esse novato.</pt-BR>
 		<ko>내가 통치자다. 이런 젊고 건방진 녀석이 아니다.</ko>
+		<fixja>支配者は私だ、この若造ではない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BELLUM_OCTAVIANUM_OPTION_0</zType>
@@ -5869,6 +6361,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>全副武装！我们必须彻底摆脱这个威胁！</zh-CN>
 		<pt-BR>Às armas! Devemos nos livrar dessa ameaça de uma vez por todas!</pt-BR>
 		<ko>무기를 들어라! 이런 위협은 뿌리를 뽑아야 한다!</ko>
+		<fixja>腕に！もう二度と現れないように、この脅威を一掃しなければ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_BELLUM_OCTAVIANUM_OPTION_1</zType>
@@ -5882,6 +6375,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>这座城市绝不能陷入暴力之中。同意结束{CHARACTER-0}的流放。 </zh-CN>
 		<pt-BR>A cidade não pode ser tomada pela violência. Concorde em permitir que {CHARACTER-SHORT-0} volte de seu exílio. </pt-BR>
 		<ko>도시가 폭력에 빠지면 안 된다. 추방된 {CHARACTER-0}의 귀환을 허락하라. </ko>
+		<fixja>この街が暴力に侵されてはならない。{CHARACTER-0}の亡命からの帰還を許す </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_BELLUM_OCTAVIANUM_OPTION_1_CHARACTER_0</zType>
@@ -5895,6 +6389,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>允许政敌归来</zh-CN>
 		<pt-BR>Permitiu o retorno de um inimigo político.</pt-BR>
 		<ko>정적의 귀환을 허용하였음</ko>
+		<fixja>政敵の復帰を許す</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_LAST_COMMAND_OPTION_0</zType>
@@ -5908,6 +6403,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>捍卫你在罗马的正当权利，直到咽下最后一口气。</zh-CN>
 		<pt-BR>Defenda seu direito de governar Roma até o último suspiro.</pt-BR>
 		<ko>마지막 순간까지 로마에 대한 권리를 지켜낸다.</ko>
+		<fixja>死が間近に迫ろうと、ローマへの権利を守り抜け。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_LAST_COMMAND_OPTION_1</zType>
@@ -5921,6 +6417,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>选择流放，活命要紧。</zh-CN>
 		<pt-BR>Escape para viver em exílio.</pt-BR>
 		<ko>망명의 삶을 위해 탈출한다.</ko>
+		<fixja>亡命生活を選択せよ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ROMA_AND_HER_MALCONTENTS_OPTION_0</zType>
@@ -5934,6 +6431,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>{CHARACTER-1}不会再困扰我了。</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-1} já não será um problema.</pt-BR>
 		<ko>{CHARACTER-1}(은)는 이제 골칫거리가 되지 않을 것이다.</ko>
+		<fixja>{CHARACTER-1}でもう悩むことはない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ROMA_AND_HER_MALCONTENTS_OPTION_1</zType>
@@ -5947,6 +6445,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>抱歉，{CHARACTER-2}，但你该上路了。</zh-CN>
 		<pt-BR>Lamento, {CHARACTER-SHORT-2}, é hora de partir.</pt-BR>
 		<ko>미안하군, {CHARACTER-2}. 하지만 이제 사라져 줘야겠어.</ko>
+		<fixja>悪いが、{CHARACTER-2}、そなたは出て行ってくれ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ROMA_AND_HER_MALCONTENTS_OPTION_2</zType>
@@ -5960,6 +6459,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>我全都要。</zh-CN>
 		<pt-BR>E se matarmos dois coelhos com essa cajadada?</pt-BR>
 		<ko>둘 다 제거해도 되잖아?</ko>
+		<fixja>まあ、両方でいいじゃないか。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_I_HAVE_A_LITTLE_LIST_OPTION_0</zType>
@@ -5973,6 +6473,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>把那个名字加进去。</zh-CN>
 		<pt-BR>Coloque o nome.</pt-BR>
 		<ko>이름을 추가하라.</ko>
+		<fixja>その名を加える。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_I_HAVE_A_LITTLE_LIST_OPTION_0_HELP</zType>
@@ -5986,6 +6487,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>朋友的敌人就是敌人。</zh-CN>
 		<pt-BR>Inimigos de meus amigos, como dizem.</pt-BR>
 		<ko>내 친구의 적은 나의 적이다.</ko>
+		<fixja>友人の敵、その他諸々。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_I_HAVE_A_LITTLE_LIST_OPTION_1</zType>
@@ -5999,6 +6501,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>不，我要和自己的敌人划清界限。</zh-CN>
 		<pt-BR>Não, vou limitar a lista aos meus inimigos.</pt-BR>
 		<ko>아니다, 나는 내 적에서 선을 긋겠다.</ko>
+		<fixja>いや、我が敵とは一線を引く。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_END_OF_AN_ALLIANCE_OPTION_0</zType>
@@ -6012,6 +6515,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>我必须尽一切努力维持他的支持。 </zh-CN>
 		<pt-BR>Eu devo ao menos tentar manter o apoio dele. </pt-BR>
 		<ko>그의 지지를 계속 얻으려고 노력해야 한다. </ko>
+		<fixja>彼の支持を維持するためならば、どんなことでもしなければ。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_END_OF_AN_ALLIANCE_OPTION_1</zType>
@@ -6025,6 +6529,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>到目前为止，{CHARACTER-1}虽然帮助过我，但我不再需要他了。</zh-CN>
 		<pt-BR>Ele me ajudou até aqui, mas já não precisamos de {CHARACTER-SHORT-2}.</pt-BR>
 		<ko>지금까지는 나를 도와줬지만, 이제 {CHARACTER-1}(은)는 필요하지 않다.</ko>
+		<fixja>彼はこれまで私を助けてくれたが、もうその必要は無い。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_CROSSING_THE_RUBICON_OPTION_0</zType>
@@ -6038,6 +6543,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>木已成舟。</zh-CN>
 		<pt-BR>O dado foi lançado.</pt-BR>
 		<ko>주사위는 던져졌다.</ko>
+		<fixja>賽は投げられた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_IDES_OF_MARCH_TITLE</zType>
@@ -6051,6 +6557,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>三月十五日</zh-CN>
 		<pt-BR>Os Idos de Março</pt-BR>
 		<ko>3월 15일</ko>
+		<fixja>アイズ・オブ・マーチ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_IDES_OF_MARCH_OPTION_0</zType>
@@ -6064,6 +6571,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>还有你吗？</zh-CN>
 		<pt-BR>Até tu?</pt-BR>
 		<ko>너마저?</ko>
+		<fixja>ブルータス、お前もか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PAX_ROMANA_OPTION_0</zType>
@@ -6077,6 +6585,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>在城市各处刻下铭文，详述你的文治武功。</zh-CN>
 		<pt-BR>Ordene que inscrições sejam feitas pela cidade com detalhes sobre o seu governo e sobre como você trouxe a paz.</pt-BR>
 		<ko>당신의 통치와 당신이 평화를 가져온 방법을 상세히 묘사하는 글을 도시 전역에 새기도록 주문한다.</ko>
+		<fixja>自らの統治と平和がもたらしたものを語り継ぐべく、あなたは町中に碑文を作るよう命じた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PAX_ROMANA_OPTION_1</zType>
@@ -6090,6 +6599,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>只要民众安居乐业就够了。</zh-CN>
 		<pt-BR>É suficiente que o povo esteja feliz.</pt-BR>
 		<ko>사람들이 행복하다면 그것으로 만족한다.</ko>
+		<fixja>国民が幸せならば、それで十分だ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_WEAK_LINK_OPTION_0</zType>
@@ -6103,6 +6613,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>派{CHARACTER-2}去彻底除掉{CHARACTER-SHORT-1}。</zh-CN>
 		<pt-BR>Ordene que {CHARACTER-SHORT-2} tire {CHARACTER-SHORT-1} do caminho.</pt-BR>
 		<ko>{CHARACTER-2}(을)를 보내 {CHARACTER-SHORT-1}(을)를 제거한다.</ko>
+		<fixja>{CHARACTER-2}を送り、{CHARACTER-SHORT-1}を一掃させる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_WEAK_LINK_OPTION_1</zType>
@@ -6116,6 +6627,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>打消念头，你们团结起来会变得更强。</zh-CN>
 		<pt-BR>Não. Vocês são mais fortes juntos.</pt-BR>
 		<ko>조치를 취하지 않는다. 우리는 함께해야 더 강하다.</ko>
+		<fixja>断念する。一緒にいれば、もっと強くなれる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_SUSPICIOUS_SINKING_OPTION_0</zType>
@@ -6129,6 +6641,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>轻快地游到岸边，你精神焕发，但毫发无损。</zh-CN>
 		<pt-BR>Umas braçadas vigorosas até a praia foram refrescantes, e não lhe fazem qualquer mal.</pt-BR>
 		<ko>해안으로 헤엄치자 기분이 한결 나아졌고, 피해는 전혀 없다.</ko>
+		<fixja>勢いよく岸まで泳ぐと、あなたは元気を取り戻した。体への負担や害は何もない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_BLADE_FALLS_OPTION_0_COPY</zType>
@@ -6142,6 +6655,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>他肯定不会背叛我。</zh-CN>
 		<pt-BR>Ele não se voltaria contra mim.</pt-BR>
 		<ko>그가 나를 배신할 리 없다.</ko>
+		<fixja>彼が裏切ることなど、ないはずだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_THE_BLADE_FALLS_OPTION_0</zType>
@@ -6155,6 +6669,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>哦，是尼禄啊。</zh-CN>
 		<pt-BR>Mas Nero...</pt-BR>
 		<ko>오, 네로.</ko>
+		<fixja>ああ、ネロ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_NERO_ESCAPES_OPTION_0</zType>
@@ -6168,6 +6683,7 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>努力争取{CHARACTER-2}再试一次，一定要阻止{CHARACTER-SHORT-1}。</zh-CN>
 		<pt-BR>Mande {CHARACTER-SHORT-2} tentar outra vez. {CHARACTER-SHORT-0} deve ser detido.</pt-BR>
 		<ko>{CHARACTER-2}에게 다시 시도하라고 명령한다. {CHARACTER-SHORT-1}(을)를 멈춰야 한다.</ko>
+		<fixja>{CHARACTER-2}に、再度挑むよう命じた。何としても{CHARACTER-SHORT-1}を止めなければ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_NERO_ESCAPES_OPTION_1</zType>
@@ -6181,5 +6697,6 @@ O povo de Roma sabe que {PLAYER-0,4} pode tentar impedir a sua expansão, mas a 
 		<zh-CN>够了，我们已经失败了。</zh-CN>
 		<pt-BR>Já chega, nós falhamos.</pt-BR>
 		<ko>그만. 우리의 계획은 실패했다.</ko>
+		<fixja>もう十分だ。我らは負けたのだ。</fixja>
 	</Entry>
 </Root>

@@ -27,6 +27,7 @@
 		<zh-CN>成长~icon(YIELD_GROWTH)成长</zh-CN>
 		<pt-BR>Crescimento~icon(YIELD_GROWTH)Crescimento</pt-BR>
 		<ko>성장~icon(YIELD_GROWTH)성장</ko>
+		<fixja>成長度~icon(YIELD_GROWTH)成長度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH_HELP</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>当一座城市的{YIELD_GROWTH}成长计量条填满时，一个新的link(CONCEPT_CITIZEN)就会变为可用。 {YIELD_GROWTH}成长也会决定一座城市产生公民单位的速度，例如link(UNIT_SETTLER,2)及link(UNIT_WORKER,2)。当城市产生一个公民民单位时，其{YIELD_GROWTH}成长计量条就不会再填满。提高城市{YIELD_GROWTH}成长速度的方法众多，包括建造农作物资源的link(IMPROVEMENT_FARM,2)、捕捞link(RESOURCE_FISH,1)或link(RESOURCE_CRAB,1)的link(IMPROVEMENT_NETS,2)，以及link(IMPROVEMENT_GRANARY,2)，此外还要训练link(SPECIALIST_FARMER,2)及link(SPECIALIST_FISHER,2)。</zh-CN>
 		<pt-BR>Quando a barra de {YIELD_GROWTH}Crescimento de uma cidade se enche, um novo link(CONCEPT_CITIZEN) fica disponível. O {YIELD_GROWTH}Crescimento também determina o quão rápido uma cidade pode produzir unidades civis, tais como link(UNIT_SETTLER,2) e link(UNIT_WORKER,2). Enquanto uma cidade está produziindo uma unidade civil, sua barra de {YIELD_GROWTH}Crescimento não se enche. Maneiras de melhorar a taxa de {YIELD_GROWTH}Crescimento de uma cidade incluem: construir link(IMPROVEMENT_FARM,2) em recursos de colheita, link(IMPROVEMENT_NETS,2) sobre link(RESOURCE_FISH,1) ou link(RESOURCE_CRAB,1), e link(IMPROVEMENT_GRANARY,2), assim como treinar link(SPECIALIST_FARMER,2) e link(SPECIALIST_FISHER,2).</pt-BR>
 		<ko>도시의 {YIELD_GROWTH}성장 막대가 차오르면 새로운 link(CONCEPT_CITIZEN)이 생성됩니다. link(UNIT_SETTLER,2), link(UNIT_WORKER,2) 유닛과 같은 민간 유닛의 생산 속도도 도시의 {YIELD_GROWTH}성장 수치에 따라 결정됩니다. 도시에서 민간 유닛을 생산하고 있을 때에는 {YIELD_GROWTH}성장 막대가 차오르지 않습니다. 도시의 {YIELD_GROWTH}성장률을 높이려면 작물 자원 위에 link(IMPROVEMENT_FARM,2)을, link(RESOURCE_FISH,1)나 link(RESOURCE_CRAB,1) 위에 link(IMPROVEMENT_NETS,2)을 설치하거나 link(IMPROVEMENT_GRANARY,2)를 건설하십시오. link(SPECIALIST_FARMER,2)와 link(SPECIALIST_FISHER,2)를 육성해도 성장치가 오릅니다.</ko>
+		<fixja>都市の{YIELD_GROWTH}成長度メーターがフルになると、新しいlink(CONCEPT_CITIZEN)が使用可能になります。{YIELD_GROWTH}成長度によって、都市がlink(UNIT_SETTLER,2)やlink(UNIT_WORKER,2)などの文民ユニットを生産できる速度が決まります。都市が文民ユニットを生産中の間は、{YIELD_GROWTH}成長度メーターは増加しません。都市の{YIELD_GROWTH}成長度の効率を上げる方法がいくつかあります。link(IMPROVEMENT_FARM,2)を作成すると作物資源が、link(IMPROVEMENT_NETS,2)を作成するとlink(RESOURCE_FISH,1)やlink(RESOURCE_CRAB,1)が増加する他、link(IMPROVEMENT_GRANARY,2)を作成したり、link(SPECIALIST_FARMER,2)やlink(SPECIALIST_FISHER,2)の修練度を上げるという方法もあります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>市政~icon(YIELD_CIVICS)市政</zh-CN>
 		<pt-BR>Cívica~icon(YIELD_CIVICS)Cívica</pt-BR>
 		<ko>사회력~icon(YIELD_CIVICS)사회력</ko>
+		<fixja>都市力~icon(YIELD_CIVICS)都市力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS_HELP</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>城市会藉由其{YIELD_CIVICS}市政来产生link(CONCEPT_SPECIALIST,2)与link(CONCEPT_PROJECT,2)。未使用的{YIELD_CIVICS}市政会进入总体储备之中，可用于制定法律、建立link(CONCEPT_THEOLOGY,2)、建造link(CONCEPT_WONDER,2)、link(CONCEPT_HURRY)、执行诸如link(MISSION_PACIFY_CITY)等任务，以及其他用途。你最多可以储备int(MAX_CIVICS)个{YIELD_CIVICS}市政，多出来的会转换为{YIELD_SCIENCE}link(YIELD_SCIENCE)。你可以藉由训练link(SPECIALIST_STONECUTTER,2)及建立link(PROJECT_FORUM_1,2)来增加{YIELD_CIVICS}市政。此外，具有高度link(RATING_CHARISMA)的link(CONCEPT_COURT)成员，也有助于总体{YIELD_CIVICS}公民储备。</zh-CN>
 		<pt-BR>Cidades podem produzir link(CONCEPT_SPECIALIST,2) e link(CONCEPT_PROJECT,2) com {YIELD_CIVICS}Cívica. A {YIELD_CIVICS}Cívica que não esteja sendo usada irá para a reserva global e pode ser usada posteriormente para decretar leis, instaurar link(CONCEPT_THEOLOGY,2), construir link(CONCEPT_WONDER,2), link(CONCEPT_HURRY), realizar missões (como link(MISSION_PACIFY_CITY)) entre outros usos. Você pode reservar um máximo de int(MAX_CIVICS) em {YIELD_CIVICS}Cívica, e o excesso será convertido em {YIELD_SCIENCE}link(YIELD_SCIENCE). Aumente a {YIELD_CIVICS}Cívica treinando link(SPECIALIST_STONECUTTER,2) e desenvolvendo link(PROJECT_FORUM_1,2). Membros da sua link(CONCEPT_COURT) com uma alto nível de link(RATING_CHARISMA) também contribuem para a reserva global de {YIELD_CIVICS}Cívica.</pt-BR>
 		<ko>도시에서는 {YIELD_CIVICS}사회력을 이용하여 link(CONCEPT_SPECIALIST,2) 생산과 link(CONCEPT_PROJECT,2)을 진행할 수 있습니다. 사용하지 않은 {YIELD_CIVICS}사회력은 비축되어 법률 제정, link(CONCEPT_THEOLOGY,2) 도입, link(CONCEPT_WONDER,2) 건설, link(CONCEPT_HURRY), link(MISSION_PACIFY_CITY) 등과 같은 임무 수행 등에 사용됩니다. {YIELD_CIVICS}사회력은 int(MAX_CIVICS)까지 비축할 수 있습니다. 이 이상으로 비축되는 사회력은 {YIELD_SCIENCE}link(YIELD_SCIENCE)으로 자동 전환됩니다. {YIELD_CIVICS}사회력을 높이려면 link(SPECIALIST_STONECUTTER,2)을 육성하거나 link(PROJECT_FORUM_1,2)을 세우십시오. link(RATING_CHARISMA) 수치가 높은 link(CONCEPT_COURT) 구성원도 전체 {YIELD_CIVICS}사회력 비축량을 늘립니다.</ko>
+		<fixja>都市は、{YIELD_CIVICS}都市力を使用してlink(CONCEPT_SPECIALIST,2)やlink(CONCEPT_PROJECT,2)を生産します。使用しない{YIELD_CIVICS}都市力は国家備蓄に回されます。この備蓄は法律の制定、link(CONCEPT_THEOLOGY,2)の創立、link(CONCEPT_WONDER,2)の建設、link(CONCEPT_HURRY)、link(MISSION_PACIFY_CITY)などのミッション実行、およびその他の用途に使われます。最大になったint(MAX_CIVICS) {YIELD_CIVICS}都市力を備蓄し、余剰分を{YIELD_SCIENCE}link(YIELD_SCIENCE)に変換することができます。{YIELD_CIVICS}都市力は、link(SPECIALIST_STONECUTTER,2)の修練度を上げたり、link(PROJECT_FORUM_1,2)を設立して増加させることができます。また、高いlink(RATING_CHARISMA)を持つlink(CONCEPT_COURT)の人員も、国家備蓄に{YIELD_CIVICS}都市力をもたらしてくれます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS_ENCYCLOPEDIA</zType>
@@ -119,6 +123,11 @@ Outras formas de aumentar sua {YIELD_CIVICS}Cívica são: construir maravilhas, 
 link(FAMILYCLASS_STATESMEN), link(FAMILYCLASS_PATRONS), link(FAMILYCLASS_SAGES) 가문은 {YIELD_CIVICS}사회력 생산에 특화되어 있습니다.
 
 link(IMPROVEMENT_COLOSSUS), link(IMPROVEMENT_ACROPOLIS)와 같은 불가사의나 link(THEOLOGY_GNOSTICISM) link(CONCEPT_THEOLOGY) 도입으로도 {YIELD_CIVICS}사회력을 늘릴 수 있습니다.</ko>
+		<fixja>link(IMPROVEMENT_QUARRY)をlink(RESOURCE_MARBLE)上に建設した場合も、{YIELD_CIVICS}都市力が増加します。ゲーム中に、link(IMPROVEMENT_COURTHOUSE_1,2)とlink(SPECIALISTCLASS_SCRIBE,1)が追加で{YIELD_CIVICS}都市力を増加させます。
+
+link(FAMILYCLASS_STATESMEN)、link(FAMILYCLASS_PATRONS)、link(FAMILYCLASS_SAGES)の氏族がいると、その都市の{YIELD_CIVICS}都市力生産量が増加します。
+
+link(IMPROVEMENT_COLOSSUS)やlink(IMPROVEMENT_ACROPOLIS)などの記念物、またはlink(THEOLOGY_GNOSTICISM) link(CONCEPT_THEOLOGY)でも{YIELD_CIVICS}都市力を増加させることができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING</zType>
@@ -132,6 +141,7 @@ link(IMPROVEMENT_COLOSSUS), link(IMPROVEMENT_ACROPOLIS)와 같은 불가사의�
 		<zh-CN>训练~icon(YIELD_TRAINING)训练</zh-CN>
 		<pt-BR>Treinamento~icon(YIELD_TRAINING)Treinamento</pt-BR>
 		<ko>군사력~icon(YIELD_TRAINING)군사력</ko>
+		<fixja>修練度~icon(YIELD_TRAINING)修練度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING_HELP</zType>
@@ -145,6 +155,7 @@ link(IMPROVEMENT_COLOSSUS), link(IMPROVEMENT_ACROPOLIS)와 같은 불가사의�
 		<zh-CN>城市可以藉由{YIELD_TRAINING}训练来产生军事单位。未使用的{YIELD_TRAINING}训练会进入总体储备之中，可用于购买{YIELD_ORDERS}link(YIELD_ORDERS)、进行link(CONCEPT_MARCH)、指派link(CONCEPT_GENERAL,2)，以及用于军队link(CONCEPT_PROMOTION,2)与link(CONCEPT_UPGRADE,2)。你最多可以储备int(MAX_TRAINING)个{YIELD_TRAINING}训练，多出来的会转换为{YIELD_ORDERS}link(YIELD_ORDERS)。若要增加{YIELD_TRAINING}训练，你可以训练link(SPECIALIST_MINER,2)以及建造link(IMPROVEMENT_BARRACKS,2)或link(IMPROVEMENT_RANGE,2)。具有高度link(RATING_COURAGE)的link(CONCEPT_COURT)成员，也有助于总体{YIELD_TRAINING}训练储备。</zh-CN>
 		<pt-BR>As cidades produzem unidades militares com {YIELD_TRAINING}Treinamento. O {YIELD_TRAINING}Treinamento que não esteja sendo usado vai para a reserva global e pode ser usado posteriormente para comprar {YIELD_ORDERS}link(YIELD_ORDERS), conduzir uma link(CONCEPT_MARCH), nomear link(CONCEPT_GENERAL,2) e para realizar link(CONCEPT_PROMOTION,2) e link(CONCEPT_UPGRADE,2) de unidades. Você pode reservar um máximo de int(MAX_TRAINING) {YIELD_TRAINING}Treinamento, e o excesso será convertido em {YIELD_ORDERS}link(YIELD_ORDERS). Aumente o {YIELD_TRAINING}Treinamento produzindo link(SPECIALIST_MINER,2) e construindo link(IMPROVEMENT_BARRACKS,2) ou link(IMPROVEMENT_RANGE,2). Membros da sua link(CONCEPT_COURT) com um alto nível de link(RATING_COURAGE) também contribuem para a reserva global de {YIELD_TRAINING}Treinamento.</pt-BR>
 		<ko>도시에서는 {YIELD_TRAINING}군사력을 소모해 군사 유닛을 생산합니다. 사용하지 않은 {YIELD_TRAINING}군사력은 비축되어 {YIELD_ORDERS}link(YIELD_ORDERS) 구매, link(CONCEPT_MARCH), link(CONCEPT_GENERAL,2) 배정, 유닛 link(CONCEPT_PROMOTION,2) 및 link(CONCEPT_UPGRADE,2)에 사용할 수 있습니다. {YIELD_TRAINING}군사력은 int(MAX_TRAINING)까지 비축할 수 있습니다. 이 이상으로 비축되는 군사력은 {YIELD_ORDERS}link(YIELD_ORDERS)으로 자동 전환됩니다. {YIELD_TRAINING}군사력을 늘리려면 link(SPECIALIST_MINER,2)를 육성하거나 link(IMPROVEMENT_BARRACKS,2) 또는 link(IMPROVEMENT_RANGE,2)을 건설하십시오. link(RATING_COURAGE) 수치가 높은 link(CONCEPT_COURT) 구성원도 전체 {YIELD_TRAINING}군사력 비축량을 늘립니다.</ko>
+		<fixja>都市は、{YIELD_TRAINING}修練度を使用して軍事ユニットを生産します。使用しない{YIELD_TRAINING}修練度は国家備蓄に回されます。この備蓄は{YIELD_ORDERS}link(YIELD_ORDERS)の購入、link(CONCEPT_MARCH)の実施、link(CONCEPT_GENERAL,2)の割り当て、ユニットのlink(CONCEPT_PROMOTION,2)やlink(CONCEPT_UPGRADE,2)に使われます。最大になったint(MAX_TRAINING) {YIELD_TRAINING}修練度を備蓄し、余剰分を{YIELD_ORDERS}link(YIELD_ORDERS)に変換することができます。{YIELD_TRAINING}修練度は、link(SPECIALIST_MINER,2)の修練度を上げたり、link(IMPROVEMENT_BARRACKS,2)やlink(IMPROVEMENT_RANGE,2)を建設して増加させることができます。また、高いlink(RATING_COURAGE)を持つlink(CONCEPT_COURT)の人員も、国家備蓄に{YIELD_TRAINING}修練度をもたらしてくれます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING_ENCYCLOPEDIA</zType>
@@ -178,6 +189,9 @@ Famílias de link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS) ou link(FAMIL
 		<ko>link(IMPROVEMENT_MINE,2)을 link(RESOURCE_ORE) 위에 설치하면 {YIELD_TRAINING}군사력이 생산됩니다. 또한 link(IMPROVEMENT_BARRACKS,2)과 link(IMPROVEMENT_RANGE,2)에 link(SPECIALISTCLASS_OFFICER) 전문직을 배치하면 많은 양의 {YIELD_TRAINING}군사력이 생산됩니다. link(MISSION_RALLY_TROOPS) 임무도 {YIELD_TRAINING}군사력을 늘릴 수 있는 수단 중 하나입니다.
 
 link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS) 가문은 {YIELD_TRAINING}군사력 생산에 특화되어 있습니다.</ko>
+		<fixja>link(IMPROVEMENT_MINE,2)をlink(RESOURCE_ORE)上に建設すると、{YIELD_TRAINING}修練度が増加します。link(IMPROVEMENT_BARRACKS,2)とlink(IMPROVEMENT_RANGE,2)が利用可能になると、link(SPECIALISTCLASS_OFFICER)の専門家が修練を積み、{YIELD_TRAINING}修練度を大量に獲得できます。link(MISSION_RALLY_TROOPS)ミッションでも{YIELD_TRAINING}修練度を生成することができます。
+
+link(FAMILYCLASS_CHAMPIONS)、link(FAMILYCLASS_RIDERS)、link(FAMILYCLASS_HUNTERS)の氏族は、都市で{YIELD_TRAINING}修練度を生成するのを得意とします。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE</zType>
@@ -191,6 +205,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>文化~icon(YIELD_CULTURE)文化</zh-CN>
 		<pt-BR>Cultura~icon(YIELD_CULTURE)Cultura</pt-BR>
 		<ko>문화~icon(YIELD_CULTURE)문화</ko>
+		<fixja>文化力~icon(YIELD_CULTURE)文化力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE_HELP</zType>
@@ -204,6 +219,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>当一座城市的{YIELD_CULTURE}文化计量条填满时，就会出现正面事件，且该城市的整体{YIELD_CULTURE}文化等级也会提高。 {YIELD_CULTURE}文化等级分为四种：link(CULTURE_WEAK)、link(CULTURE_DEVELOPING)、link(CULTURE_STRONG)以及link(CULTURE_LEGENDARY)。 {YIELD_CULTURE}文化等级会影响你可以在该城市的领土中建造哪些link(CONCEPT_IMPROVEMENT,2)与link(CONCEPT_WONDER,2)，以及该城市是否能link(CONCEPT_HURRY)，这至少需要link(CULTURE_DEVELOPING){YIELD_CULTURE}文化。具有较高{YIELD_CULTURE}文化等级的城市，每link(CONCEPT_POPULATION)也需要花费较多的link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_STONE,1)及link(YIELD_WOOD,1)。增加城市的{YIELD_CULTURE}文化收益的方法包括：建造link(IMPROVEMENTCLASS_SHRINE,2)与link(IMPROVEMENTCLASS_ODEON,2)、训练特定link(CONCEPT_SPECIALIST,2)、传播link(CONCEPT_RELIGION)，以及采用特定法律 (例如link(LAW_EPICS))。</zh-CN>
 		<pt-BR>Quando a barra de {YIELD_CULTURE}Cultura de uma cidade se enche, um evento positivo ocorre e o nível geral de {YIELD_CULTURE}Cultura da cidade aumenta. Os quatro níveis de {YIELD_CULTURE}cultura são: link(CULTURE_WEAK), link(CULTURE_DEVELOPING), link(CULTURE_STRONG) e link(CULTURE_LEGENDARY). O nível de {YIELD_CULTURE}Cultura afeta quais link(CONCEPT_IMPROVEMENT,2) e link(CONCEPT_WONDER,2) podem ser construídas no território de uma cidade e se a cidade pode link(CONCEPT_HURRY), o que requere que a {YIELD_CULTURE}Cultura esteja ao menos link(CULTURE_DEVELOPING). Cidades com níveis de {YIELD_CULTURE}Cultura mais altos também custam valores adicionais de link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1) e link(YIELD_WOOD,1), a depender da quantidade de link(CONCEPT_POPULATION). Maneiras de aumentar a {YIELD_CULTURE}Cultura de uma cidade incluem: construir link(IMPROVEMENTCLASS_SHRINE,2) e link(IMPROVEMENTCLASS_ODEON,2), treinar certos link(CONCEPT_SPECIALIST,2), difundir uma link(CONCEPT_RELIGION) em uma cidade e adotar certas leis, tais como a link(LAW_EPICS).</pt-BR>
 		<ko>도시의 {YIELD_CULTURE}문화 막대가 차오르면 긍정적 사건이 일어나면서 도시 전체의 {YIELD_CULTURE}문화 수준이 상승합니다. {YIELD_CULTURE}문화 수준은 총 네 단계가 있으며, link(CULTURE_WEAK), link(CULTURE_DEVELOPING), link(CULTURE_STRONG), link(CULTURE_LEGENDARY) 순으로 성장합니다. {YIELD_CULTURE}문화 수준에 따라 도시에 지을 수 있는 link(CONCEPT_IMPROVEMENT,2)과 link(CONCEPT_WONDER,2)의 종류가 달라집니다. 도시가 link(CULTURE_DEVELOPING) 문화 수준을 달성하면 link(CONCEPT_HURRY)이 해금됩니다. {YIELD_CULTURE}문화 수준이 높은 도시에서는 link(CONCEPT_POPULATION)당 요구 link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1), link(YIELD_WOOD,1)가 증가합니다. link(IMPROVEMENTCLASS_SHRINE,2) 및 link(IMPROVEMENTCLASS_ODEON,2) 건설, 특정 link(CONCEPT_SPECIALIST,2) 육성, 다른 도시로 link(CONCEPT_RELIGION) 전파, link(LAW_EPICS)와 같은 특정 법률 제정으로 도시의 {YIELD_CULTURE}문화 생산량을 늘릴 수 있습니다.</ko>
+		<fixja>都市の{YIELD_CULTURE}文化力メーターがフルになると、有益なイベントが発生し、都市全体の{YIELD_CULTURE}文化力レベルが向上します。{YIELD_CULTURE}文化力レベルには、link(CULTURE_WEAK)、link(CULTURE_DEVELOPING)、link(CULTURE_STRONG)、link(CULTURE_LEGENDARY)の4つがあります。{YIELD_CULTURE}文化力レベルは、都市の領域に建設できるlink(CONCEPT_IMPROVEMENT,2)やlink(CONCEPT_WONDER,2)の種類、都市がlink(CONCEPT_HURRY)できるかどうかに影響します。それぞれ最低限必要なlink(CULTURE_DEVELOPING) {YIELD_CULTURE}文化力が決まっています。{YIELD_CULTURE}文化力レベルの高い都市は、link(CONCEPT_POPULATION)当たりで必要とされるlink(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_STONE,1)、link(YIELD_WOOD,1)も増加します。都市の{YIELD_CULTURE}文化力の産出量を増加させるには、link(IMPROVEMENTCLASS_SHRINE,2)やlink(IMPROVEMENTCLASS_ODEON,2)を建設する、何らかのlink(CONCEPT_SPECIALIST,2)の修練度を向上させる、link(CONCEPT_RELIGION)を都市に広める、link(LAW_EPICS)などの法律を制定するなどの方法があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT</zType>
@@ -217,6 +233,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>不满~icon(YIELD_DISCONTENT)不满</zh-CN>
 		<pt-BR>Insatisfação~icon(YIELD_DISCONTENT)Insatisfação</pt-BR>
 		<ko>불만도~icon(YIELD_DISCONTENT)불만도</ko>
+		<fixja>不満~icon(YIELD_DISCONTENT)不満</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT_HELP</zType>
@@ -230,6 +247,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>当一座城市的{YIELD_HAPPINESS}幸福感量条变空时，其整体{YIELD_DISCONTENT}不满等级会上升一级，而这会降低link(YIELD_SCIENCE,1)，同时也会增加link(YIELD_MAINTENANCE,1)。此外，较高的{YIELD_DISCONTENT}不满等级也会降低该城市统治link(CONCEPT_FAMILY)的link(CONCEPT_OPINION_FAMILY,3)。缓和{YIELD_DISCONTENT}不满的方法包括：藉由link(CONCEPT_TRADE_NETWORK)来连结你的城市、举办link(PROJECT_FESTIVAL)、采用诸如link(LAW_TOLERANCE)等法律、使城市保有link(CONCEPT_RELIGION,2)幸福感，以及建造link(IMPROVEMENTCLASS_BATHS,2)。</zh-CN>
 		<pt-BR>Quando a barra de {YIELD_HAPPINESS}Felicidade de uma cidade se esvazia, o nível geral de {YIELD_DISCONTENT}Insatisfação aumenta em um, causando redução na link(YIELD_SCIENCE,1) e aumento na link(YIELD_MAINTENANCE,1). Níveis mais altos de {YIELD_DISCONTENT}Insatisfação também diminuem a link(CONCEPT_OPINION_FAMILY,3) da link(CONCEPT_FAMILY) governante. Algumas das formas de desacelerar a {YIELD_DISCONTENT}Insatisfação incluem: conectar sua cidade à link(CONCEPT_TRADE_NETWORK), organizar um link(PROJECT_FESTIVAL), adotar leis tais como a link(LAW_TOLERANCE), manter as link(CONCEPT_RELIGION,2) da sua cidade felizes e construir link(IMPROVEMENTCLASS_BATHS,2).</pt-BR>
 		<ko>도시의 {YIELD_HAPPINESS}행복도 막대가 완전히 비면 전체 {YIELD_DISCONTENT}불만도 단계가 한 단계씩 올라 도시의 link(YIELD_SCIENCE,1) 생산이 줄어들고 link(YIELD_MAINTENANCE,1)가 증가합니다. {YIELD_DISCONTENT}불만도 단계가 높을수록 도시를 통치하는 link(CONCEPT_FAMILY)의 link(CONCEPT_OPINION_FAMILY,3) 역시 나빠집니다. link(CONCEPT_TRADE_NETWORK) 연결, link(PROJECT_FESTIVAL) 개최, link(LAW_TOLERANCE)과 같은 법률 제정, 도시의 종교와 link(CONCEPT_RELIGION,2) 원만한 관계 유지, link(IMPROVEMENTCLASS_BATHS,2) 건설 등을 통해 도시의 {YIELD_DISCONTENT}불만도가 오르는 속도를 늦출 수 있습니다.</ko>
+		<fixja>都市の{YIELD_HAPPINESS}満足度バーが空っぽのとき、全体の{YIELD_DISCONTENT}不満レベルが1つ上がります。そうなると、link(YIELD_SCIENCE,1)が減り、link(YIELD_MAINTENANCE,1)が増えます。{YIELD_DISCONTENT}不満レベルがさらに高くなると、都市を統治しているlink(CONCEPT_FAMILY)のlink(CONCEPT_OPINION_FAMILY,3)が下がります。{YIELD_DISCONTENT}不満を緩和するには、あなたの都市をlink(CONCEPT_TRADE_NETWORK)に組み込む、link(PROJECT_FESTIVAL)を開催する、link(LAW_TOLERANCE)のような法律を適用する、都市のlink(CONCEPT_RELIGION,2)が満足している状態を維持する、link(IMPROVEMENTCLASS_BATHS,2)を建造するという方法があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_HAPPINESS</zType>
@@ -243,6 +261,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>幸福~icon(YIELD_HAPPINESS)幸福</zh-CN>
 		<pt-BR>Felicidade~icon(YIELD_HAPPINESS)Felicidades</pt-BR>
 		<ko>행복도~icon(YIELD_HAPPINESS)행복도</ko>
+		<fixja>幸福~icon(YIELD_HAPPINESS)幸福</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_HAPPINESS_HELP</zType>
@@ -256,6 +275,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>当一座城市的{YIELD_HAPPINESS}幸福感量条集满时，其整体{YIELD_HAPPINESS}幸福感等级会上升一级，而这会增加link(YIELD_GROWTH,1)，同时降低link(YIELD_MAINTENANCE,1)。增加{YIELD_HAPPIESS}幸福感的方法包括：藉由link(CONCEPT_TRADE_NETWORK)来连结你的城市、举办link(PROJECT_FESTIVAL)、采用诸如link(LAW_TOLERANCE)等法律、使城市保有link(CONCEPT_RELIGION,2)满意度，以及建造link(IMPROVEMENTCLASS_BATHS,2)。</zh-CN>
 		<pt-BR>Quando a barra de {YIELD_HAPPINESS}Felicidade de uma cidade se enche, o nível geral de {YIELD_HAPPINESS}Felicidade aumenta em um, aumentando o link(YIELD_GROWTH,1) e reduzindo a link(YIELD_MAINTENANCE,1). Algumas das formas de aumentar a {YIELD_HAPPINESS}Felicidade incluem: conectar sua cidade à link(CONCEPT_TRADE_NETWORK), organizar um link(PROJECT_FESTIVAL), adotar leis tais como a link(LAW_TOLERANCE), manter as link(CONCEPT_RELIGION,2) da sua cidade felizes e construir link(IMPROVEMENTCLASS_BATHS,2).</pt-BR>
 		<ko>도시의 {YIELD_HAPPINESS}행복도 막대가 차오르면 전체 {YIELD_HAPPINESS}행복도 단계가 한 단계씩 오르며 link(YIELD_GROWTH,1)이 상승하고 link(YIELD_MAINTENANCE,1)가 하락합니다. link(CONCEPT_TRADE_NETWORK) 연결, link(PROJECT_FESTIVAL) 개최, link(LAW_TOLERANCE)과 같은 법률 제정, 도시의 종교와 link(CONCEPT_RELIGION,2) 원만한 관계 유지, link(IMPROVEMENTCLASS_BATHS,2) 건설 등을 통해 도시의 {YIELD_HAPPINESS}행복도를 높일 수 있습니다.</ko>
+		<fixja>都市の{YIELD_HAPPINESS}満足度バーが満タンのとき、全体の{YIELD_HAPPINESS}満足レベルが1つ上がります。そうなると、link(YIELD_GROWTH,1)が増え、link(YIELD_MAINTENANCE,1)が減ります。{YIELD_HAPPIESS}満足度を上げるには、あなたの都市をlink(CONCEPT_TRADE_NETWORK)に組み込む、link(PROJECT_FESTIVAL)を開催する、link(LAW_TOLERANCE)のような法律を採用する、都市のlink(CONCEPT_RELIGION,2)が満足している状態を維持する、link(IMPROVEMENTCLASS_BATHS,2)を建造するという方法があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE</zType>
@@ -269,6 +289,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>科学~icon(YIELD_SCIENCE)科学</zh-CN>
 		<pt-BR>Ciência~icon(YIELD_SCIENCE)Ciência</pt-BR>
 		<ko>과학~icon(YIELD_SCIENCE)과학</ko>
+		<fixja>科学~icon(YIELD_SCIENCE)科学</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE_HELP</zType>
@@ -282,6 +303,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>{YIELD_SCIENCE}科学可以加快你的link(CONCEPT_NATION)发现新技术的速度。你可以自己的城市中建造link(PROJECT_ARCHIVE_1,2)和训练link(CONCEPT_SPECIALIST,2)，以此增加{YIELD_SCIENCE}科学收益。link(LAW_CENTRALIZATION)之类的法典和某些宗教link(CONCEPT_THEOLOGY,2)也可以帮助你生成更多的{YIELD_SCIENCE}科学。如果你的link(CONCEPT_COURT)成员具有较高的link(RATING_WISDOM)，也有助于增加{YIELD_SCIENCE}科学收益。</zh-CN>
 		<pt-BR>A {YIELD_SCIENCE}Ciência aumenta a velocidade na qual sua link(CONCEPT_NATION) descobre novas tecnologias. A produção de {YIELD_SCIENCE}Ciência pode ser aumentada ao se criar link(PROJECT_ARCHIVE_1,2) e ao treinar link(CONCEPT_SPECIALIST,2) em suas cidades. Leis como a link(LAW_CENTRALIZATION) e algumas link(CONCEPT_THEOLOGY,2) religiosas também podem lhe ajudar a gerar mais {YIELD_SCIENCE}Science. Membros da sua link(CONCEPT_COURT) com alto nível de link(RATING_WISDOM) também contribuem na produção de {YIELD_SCIENCE}Ciência.</pt-BR>
 		<ko>{YIELD_SCIENCE}과학은 link(CONCEPT_NATION)에서 새로운 기술을 발견하는 속도를 결정합니다. link(LAW_FREEDOM)와 같은 법률 제정, link(PROJECT_ARCHIVE_1,2) 건설, link(CONCEPT_SPECIALIST,2) 육성을 통해 과학 {YIELD_SCIENCE}생산량을 늘릴 수 있습니다. link(RATING_WISDOM) 수치가 높은 link(CONCEPT_COURT) 구성원도 전체 {YIELD_SCIENCE}과학 비축량을 늘립니다.</ko>
+		<fixja>{YIELD_SCIENCE}科学があると、link(CONCEPT_NATION)の新技術獲得までのスピードが上がる。{YIELD_SCIENCE}科学の生産量はlink(PROJECT_ARCHIVE_1,2)の構築や、都市内でlink(CONCEPT_SPECIALIST,2)を育成することで増やせる。(LAW_CENTRALIZATION)のような法律や、宗教に関連した(CONCEPT_THEOLOGY,2)も、{YIELD_SCIENCE}科学を生みだす助けとなる。また、高いlink(RATING_WISDOM)を持つlink(CONCEPT_COURT)の人員も、{YIELD_SCIENCE}科学の生産量を増加させてくれる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY</zType>
@@ -295,6 +317,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>金钱~icon(YIELD_MONEY)金钱</zh-CN>
 		<pt-BR>Dinheiro~icon(YIELD_MONEY)Dinheiro</pt-BR>
 		<ko>자금~icon(YIELD_MONEY)자금</ko>
+		<fixja>資金~icon(YIELD_MONEY)資金</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY_HELP</zType>
@@ -308,6 +331,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>你可以藉由买卖link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_STONE,1)及link(YIELD_WOOD,1)，来赚取或花费{YIELD_MONEY}金钱。 {YIELD_MONEY}金钱收益可以藉由在你的城市中建造link(IMPROVEMENT_HAMLET,2)与link(IMPROVEMENTCLASS_MARKET,2)、产生link(EFFECTCITY_PROJECT_TREASURY,2)以及采用诸如link(LAW_TYRANNY)等法律来增加。此外，若你的link(CONCEPT_COURT)成员具有较高的link(RATING_DISCIPLINE)，也有助于增加{YIELD_MONEY}金钱收益。</zh-CN>
 		<pt-BR>O {YIELD_MONEY}Dinheiro pode ser ganho e gasto, respectivamente, para vender e comprar link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1) e link(YIELD_WOOD,1). A arrecadação de {YIELD_MONEY}Dinheiro pode ser aumentada com a construção de link(IMPROVEMENT_HAMLET,2) e de link(IMPROVEMENTCLASS_MARKET,2), produzir link(EFFECTCITY_PROJECT_TREASURY,2) em suas cidades e adotar leis tais como a link(LAW_TYRANNY). Membros da sua link(CONCEPT_COURT) com alto nível de link(RATING_DISCIPLINE) também contribuem na produção de {YIELD_MONEY}Dinheiro.</pt-BR>
 		<ko>{YIELD_MONEY}자금은 link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1), link(YIELD_WOOD,1)를 사거나 팔아서 소비하고 획득할 수 있습니다. link(IMPROVEMENT_HAMLET,2) 및 link(IMPROVEMENTCLASS_MARKET,2) 건설, link(EFFECTCITY_PROJECT_TREASURY,2) 설치, link(LAW_TYRANNY)과 같은 법률 제정을 통해 {YIELD_MONEY}자금 생산량을 늘릴 수 있습니다. link(RATING_DISCIPLINE) 수치가 높은 link(CONCEPT_COURT) 구성원도 전체 {YIELD_MONEY}자금 비축량을 늘립니다.</ko>
+		<fixja>{YIELD_MONEY}資金は、link(YIELD_FOOD,1)、link(YIELD_IRON,1)、link(YIELD_STONE,1)、link(YIELD_WOOD,1)の売買により増減します。{YIELD_MONEY}資金の産出量は、link(IMPROVEMENT_HAMLET,2)やlink(IMPROVEMENTCLASS_MARKET,2)を建設する、都市でlink(EFFECTCITY_PROJECT_TREASURY,2)を設立する、link(LAW_TYRANNY)などの法律を制定するなどの方法で増加させることができます。また、高いlink(RATING_DISCIPLINE)を持つlink(CONCEPT_COURT)の人員も、{YIELD_MONEY}資金の産出量を増加させてくれます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE</zType>
@@ -321,6 +345,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>维护成本~icon(YIELD_MAINTENANCE)维护成本</zh-CN>
 		<pt-BR>Manutenção~icon(YIELD_MAINTENANCE)Manutenção</pt-BR>
 		<ko>유지비~icon(YIELD_MAINTENANCE)유지비</ko>
+		<fixja>維持コスト~icon(YIELD_MAINTENANCE)維持コスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
@@ -334,6 +359,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>{YIELD_MAINTENANCE}维护成本会减少城市所产生的link(YIELD_MONEY,1)数量。一座城市的{YIELD_MAINTENANCE}维护成本会随着link(CONCEPT_POPULATION)的增加、该城市与link(CONCEPT_CAPITAL)的距离以及城市范围内的各项link(CONCEPT_IMPROVEMENT)而增加。若要降低城市的{YIELD_MAINTENANCE}维护成本，可以连结该城市与你的link(CONCEPT_TRADE_NETWORK)，以及提升城市统治link(CONCEPT_FAMILY)的link(CONCEPT_OPINION_FAMILY,3)。</zh-CN>
 		<pt-BR>A {YIELD_MAINTENANCE}Manutenção diminui a quantidade de link(YIELD_MONEY,1) que uma cidade produz. A taxa de {YIELD_MAINTENANCE}Manutenção de uma cidade aumenta com uma link(CONCEPT_POPULATION) maior, de acordo com a distância entre a cidade e a da sua link(CONCEPT_CAPITAL), e para cada link(CONCEPT_IMPROVEMENT) construída dentro das fronteiras da cidade. A {YIELD_MAINTENANCE}Manutenção de uma cidade pode ser diminuída conectando a cidade à sua link(CONCEPT_TRADE_NETWORK) e ao melhorar a link(CONCEPT_OPINION_FAMILY,3) da link(CONCEPT_FAMILY) governante da cidade.</pt-BR>
 		<ko>{YIELD_MAINTENANCE}유지비는 도시에서 생산되는 link(YIELD_MONEY,1)의 양을 줄입니다. 도시의 {YIELD_MAINTENANCE}유지비는 link(CONCEPT_POPULATION)가 많을수록, 도시와 link(CONCEPT_CAPITAL)가 멀리 떨어져 있을수록, 도시 경계 내에 link(CONCEPT_IMPROVEMENT)이 많을수록 증가합니다. {YIELD_MAINTENANCE}유지비는 도시를 link(CONCEPT_TRADE_NETWORK)에 연결하고 도시를 통치하는 link(CONCEPT_FAMILY)과의 link(CONCEPT_OPINION_FAMILY,3)를 개선해 줄일 수 있습니다.</ko>
+		<fixja>{YIELD_MAINTENANCE}維持コストは、都市が生み出すlink(YIELD_MONEY,1)の量を減少させます。都市の{YIELD_MAINTENANCE}維持コストは、link(CONCEPT_POPULATION)が増える、都市からlink(CONCEPT_CAPITAL)までの距離が遠い、都市の境界内のlink(CONCEPT_IMPROVEMENT)といった要因によって増加します。都市の{YIELD_MAINTENANCE}維持コストは、その都市にlink(CONCEPT_TRADE_NETWORK)との関係を作る、都市を治めるlink(CONCEPT_FAMILY)のlink(CONCEPT_OPINION_FAMILY,3)を上げるといった方法で減少させることができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DEFICIT_HELP</zType>
@@ -347,6 +373,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>在发生link(CONCEPT_DEFICIT)的情况下，会花费link(YIELD_MONEY,1)来购买缺失的资源</zh-CN>
 		<pt-BR>No caso de um link(CONCEPT_DEFICIT), link(YIELD_MONEY,1) será usado para comprar o recurso em falta.</pt-BR>
 		<ko>link(CONCEPT_DEFICIT)된 경우 link(YIELD_MONEY,1)을 지불해 부족한 자원을 구매합니다.</ko>
+		<fixja>link(CONCEPT_DEFICIT)状態の場合、link(YIELD_MONEY,1)を使用して不足分の資源を購入する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DEFICIT_MONEY_HELP</zType>
@@ -360,6 +387,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>在发生link(CONCEPT_DEFICIT)的情况下，会出售资源来补足差额。</zh-CN>
 		<pt-BR>No caso de um link(CONCEPT_DEFICIT), recursos serão automaticamente vendidos para compensar a diferença.</pt-BR>
 		<ko>link(CONCEPT_DEFICIT)된 경우 자원을 자동으로 판매해 차액을 충당합니다.</ko>
+		<fixja>link(CONCEPT_DEFICIT)状態の場合、資源は自動的に売却され、不足分を補う。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DEFICIT_GLOBAL_HELP</zType>
@@ -373,6 +401,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>在发生link(CONCEPT_DEFICIT)的情况下，一座或多座城市将会自动将生产改为link(PROJECT_COUNCIL_1,3)。</zh-CN>
 		<pt-BR>No caso de um link(CONCEPT_DEFICIT), uma ou mais cidades automaticamente irão alterar a produção para um link(PROJECT_COUNCIL_1).</pt-BR>
 		<ko>link(CONCEPT_DEFICIT)된 경우 1개 이상의 도시가 생산을 자동으로 link(PROJECT_COUNCIL_1,3)로 변경합니다.</ko>
+		<fixja>link(CONCEPT_DEFICIT)状態の場合、一つあるいは複数の都市が自動的に生産をlink(PROJECT_COUNCIL_1,3)へと切り替える。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS</zType>
@@ -386,6 +415,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>命令~icon(YIELD_ORDERS)命令~命令~icon(YIELD_ORDERS)命令</zh-CN>
 		<pt-BR>Ordens~icon(YIELD_ORDERS)Ordens~Ordem~icon(YIELD_ORDERS)Ordem</pt-BR>
 		<ko>명령권~icon(YIELD_ORDERS)명령권~명령권~icon(YIELD_ORDERS)명령권</ko>
+		<fixja>命令~icon(YIELD_ORDERS)命令~命令~icon(YIELD_ORDERS)命令</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS_HELP</zType>
@@ -399,6 +429,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>许多单位动作都需要{YIELD_ORDERS}命令，例如移动、攻击和建造link(CONCEPT_IMPROVEMENT,2)。此外，在执行诸如指派link(CONCEPT_GOVERNOR,2)以及派遣link(CONCEPT_COUNCILOR,2)任务等动作时，也需要使用命令。未使用的{YIELD_ORDERS}命令可于该回合结束时出售以获得link(YIELD_MONEY,1)。你可以透过提升link(CONCEPT_LEGITIMACY)以及建造link(IMPROVEMENTCLASS_GARRISON,2)，来提高你的{YIELD_ORDERS}命令价格。</zh-CN>
 		<pt-BR>As {YIELD_ORDERS}Ordens são necessárias para que as unidades possam realizar várias ações, tais como mover-se, atacar e construir link(CONCEPT_IMPROVEMENT,2). Elas também são necessárias para ações como designar link(CONCEPT_GOVERNOR,2) e enviar link(CONCEPT_COUNCILOR,2) em missões. {YIELD_ORDERS}Ordens que não forem usadas são vendidas em troca de link(YIELD_MONEY,1) ao fim do turno. Sua produção de {YIELD_ORDERS}Ordens pode ser aumentada melhorarando sua link(CONCEPT_LEGITIMACY) e com a construção de link(IMPROVEMENTCLASS_GARRISON,2).</pt-BR>
 		<ko>{YIELD_ORDERS}명령권은 이동, 공격, link(CONCEPT_IMPROVEMENT,2) 건설과 같은 다양한 유닛 행동에 필요합니다. link(CONCEPT_GOVERNOR,2)을 배정하고 link(CONCEPT_COUNCILOR,2)에게 임무를 맡길 때에도 명령권이 소비됩니다. {YIELD_ORDERS}명령권을 턴 마지막에 판매해 link(YIELD_MONEY,1)을 획득할 수 있습니다.{YIELD_ORDERS}명령권 생산량은 link(CONCEPT_LEGITIMACY)을 높이고 link(IMPROVEMENTCLASS_GARRISON,2)를 건설해 늘릴 수 있습니다.</ko>
+		<fixja>{YIELD_ORDERS}命令は、link(CONCEPT_IMPROVEMENT,2)の移動、攻撃、建設など、さまざまなユニットのアクションに必要とされます。また、link(CONCEPT_GOVERNOR,2)を割り当てる、link(CONCEPT_COUNCILOR,2)をミッションに送るなどのアクションにも必要です。使用しない{YIELD_ORDERS}命令は、ターンが終わると売却され、link(YIELD_MONEY,1)になります。{YIELD_ORDERS}命令の産出量は、link(CONCEPT_LEGITIMACY)を向上させる、link(IMPROVEMENTCLASS_GARRISON,2)を建設するといった方法で増加させることができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_FOOD</zType>
@@ -412,6 +443,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>食物~icon(YIELD_FOOD)食物</zh-CN>
 		<pt-BR>Comida~icon(YIELD_FOOD)Comida</pt-BR>
 		<ko>식량~icon(YIELD_FOOD)식량</ko>
+		<fixja>食料~icon(YIELD_FOOD)食料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_FOOD_HELP</zType>
@@ -425,6 +457,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>一般而言，{YIELD_FOOD}食物的最佳来源为link(IMPROVEMENT_FARM,2)，其中又以紧邻link(CONCEPT_FRESH_WATER)以及位于link(TERRAIN_LUSH)地形的农场产量最佳。此外，你也可以藉由建造link(IMPROVEMENT_NETS)与link(IMPROVEMENT_PASTURE,2)，以及训练link(SPECIALIST_FARMER,2)、link(SPECIALIST_FISHER,2)和link(SPECIALIST_RANCHER,2)来获取{YIELD_FOOD}食物。你需要有{YIELD_FOOD}食物来满足你的link(CONCEPT_POPULATION)，并产生新的link(UNIT_SETTLER,2)。 {TEXT_YIELD_DEFICIT_HELP}</zh-CN>
 		<pt-BR>A melhor fonte de {YIELD_FOOD}Comida normalmente serão as link(IMPROVEMENT_FARM,2), que se tornam mais eficientes quando estão perto de link(CONCEPT_FRESH_WATER) e sobre terreno link(TERRAIN_LUSH). Também é possível adquirir {YIELD_FOOD}Comida com a construção de link(IMPROVEMENT_NETS) e link(IMPROVEMENT_PASTURE,2), e ao treinar link(SPECIALIST_FARMER,2), link(SPECIALIST_FISHER,2) e link(SPECIALIST_RANCHER,2). A {YIELD_FOOD}Comida é necessária para alimentar sua link(CONCEPT_POPULATION) e para produzir novos link(UNIT_SETTLER,2). {TEXT_YIELD_DEFICIT_HELP}</pt-BR>
 		<ko>{YIELD_FOOD}식량은 주로 link(IMPROVEMENT_FARM,2)에서 생산됩니다. 농장은 link(CONCEPT_FRESH_WATER) 옆에 있는 link(TERRAIN_LUSH) 타일에 배치했을 때 가장 생산 효율이 좋습니다. link(IMPROVEMENT_NETS) 및 link(IMPROVEMENT_PASTURE,2) 건설, link(SPECIALIST_FARMER,2), link(SPECIALIST_FISHER,2), link(SPECIALIST_RANCHER,2) 육성으로도 {YIELD_FOOD}식량을 획득할 수 있습니다. {YIELD_FOOD}식량은 link(CONCEPT_POPULATION)를 먹여 살리고 새로운 link(UNIT_SETTLER,2) 유닛을 생산할 때 사용됩니다. {TEXT_YIELD_DEFICIT_HELP}</ko>
+		<fixja>{YIELD_FOOD}食料を獲得するには、link(CONCEPT_FRESH_WATER)やlink(TERRAIN_LUSH)な地形の隣にlink(IMPROVEMENT_FARM,2)を建設するのがベストです。また、{YIELD_FOOD}食料は、link(IMPROVEMENT_NETS)やlink(IMPROVEMENT_PASTURE,2)を作成する、link(SPECIALIST_FARMER,2)、link(SPECIALIST_FISHER,2)、link(SPECIALIST_RANCHER,2)の修練度を上げるといった方法でも獲得できます。{YIELD_FOOD}食料は、link(CONCEPT_POPULATION)に食事を与え、新しいlink(UNIT_SETTLER,2)を生み出さすために必要です。 {TEXT_YIELD_DEFICIT_HELP}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_IRON</zType>
@@ -438,6 +471,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>铁矿~icon(YIELD_IRON)铁矿</zh-CN>
 		<pt-BR>Ferro~icon(YIELD_IRON)Ferro</pt-BR>
 		<ko>철~icon(YIELD_IRON)철</ko>
+		<fixja>鉄~icon(YIELD_IRON)鉄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_IRON_HELP</zType>
@@ -451,6 +485,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>{YIELD_IRON}铁矿的主要来源为link(IMPROVEMENT_MINE,2)，其中又以link(RESOURCE_ORE)与link(HEIGHT_HILL,2)的产量最多。建立许多类型的军事单位都需要{YIELD_IRON}铁矿，包括link(UNIT_WARRIOR,2)与link(UNIT_AXEMAN,2)；此外，每个回合也都需要花费一些{YIELD_IRON}铁矿来用于维护。 {TEXT_YIELD_DEFICIT_HELP}</zh-CN>
 		<pt-BR>A principal fonte de {YIELD_IRON}Ferro são as link(IMPROVEMENT_MINE,2), que são mais produtivas sobre link(RESOURCE_ORE) e sobre link(HEIGHT_HILL,2). O {YIELD_IRON}Ferro é necessário para treinar muitos tipos de unidades militares, como os link(UNIT_WARRIOR,2) e os link(UNIT_AXEMAN,2), que também necessitam de {YIELD_IRON}Ferro a cada turno para sua manutenção. {TEXT_YIELD_DEFICIT_HELP}</pt-BR>
 		<ko>{YIELD_IRON}철의 주요 생산지는 link(IMPROVEMENT_MINE,2)입니다. 광산은 link(HEIGHT_HILL,2) 위에 있는 link(RESOURCE_ORE) 타일에 배치했을 때 가장 생산 효율이 좋습니다. {YIELD_IRON}철은 link(UNIT_WARRIOR,2), link(UNIT_AXEMAN,2)과 같은 다양한 군사 유닛을 생산할 때 사용되며 군사 유닛 유지비로도 매 턴 {YIELD_IRON}철이 소비됩니다. {TEXT_YIELD_DEFICIT_HELP}</ko>
+		<fixja>{YIELD_IRON}鉄の主な産出源はlink(IMPROVEMENT_MINE,2)です。これはlink(RESOURCE_ORE)やlink(HEIGHT_HILL,2)に建設すると最も産出量が上がります。{YIELD_IRON}鉄は、link(UNIT_WARRIOR,2)など、多数の軍事ユニットの作成に必要です。またlink(UNIT_AXEMAN,2)は、維持するための{YIELD_IRON}鉄もターンごとに必要とします。 {TEXT_YIELD_DEFICIT_HELP}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_STONE</zType>
@@ -464,6 +499,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>石材~icon(YIELD_STONE)石材</zh-CN>
 		<pt-BR>Pedra~icon(YIELD_STONE)Pedra</pt-BR>
 		<ko>석재~icon(YIELD_STONE)석재</ko>
+		<fixja>石材~icon(YIELD_STONE)石材</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_STONE_HELP</zType>
@@ -477,6 +513,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>{YIELD_STONE}石材的主要来源为link(IMPROVEMENT_QUARRY,2)，其中又以link(RESOURCE_MARBLE)、位于link(TERRAIN_ARID)地形以及link(HEIGHT_MOUNTAIN,2)附近的产量最多。 {YIELD_STONE}石材主要用于建造诸如link(IMPROVEMENTCLASS_SHRINE,2)等link(CONCEPT_IMPROVEMENT,2)，以及诸如link(PROJECT_WALLS)等link(CONCEPT_PROJECT,2)。 {TEXT_YIELD_DEFICIT_HELP}</zh-CN>
 		<pt-BR>A principal fonte de {YIELD_STONE}Pedra são as link(IMPROVEMENT_QUARRY,2), que são mais produtivas sobre link(RESOURCE_MARBLE), sobre terreno link(TERRAIN_ARID) e adjacentes a link(HEIGHT_MOUNTAIN,2). A {YIELD_STONE}Pedra é necessária principalmente para construir link(CONCEPT_IMPROVEMENT,2), tais como link(IMPROVEMENTCLASS_SHRINE,2), e para desenvolver link(CONCEPT_PROJECT,2), tais como link(PROJECT_WALLS). {TEXT_YIELD_DEFICIT_HELP}</pt-BR>
 		<ko>{YIELD_STONE}석재의 주요 생산지는 link(IMPROVEMENT_QUARRY,2)입니다. 채석장은 link(TERRAIN_ARID) 타일에 있는 link(RESOURCE_MARBLE) 위에 배치했을 때 가장 생산 효율이 좋습니다. {YIELD_STONE}석재는 link(IMPROVEMENTCLASS_SHRINE,2)과 같은 시설을 짓거나 link(PROJECT_WALLS)과 같은 link(CONCEPT_PROJECT,2)을 진행할 때 사용됩니다. {TEXT_YIELD_DEFICIT_HELP}</ko>
+		<fixja>{YIELD_STONE}石材の主な産出源はlink(IMPROVEMENT_QUARRY,2)です。これはlink(RESOURCE_MARBLE)やlink(TERRAIN_ARID)地域の上、link(HEIGHT_MOUNTAIN,2)の隣に建設すると最も産出量が上がります。{YIELD_STONE}石材は、主にlink(IMPROVEMENTCLASS_SHRINE,2)などのlink(CONCEPT_IMPROVEMENT,2)の建設や、link(PROJECT_WALLS)などのlink(CONCEPT_PROJECT,2)に必要となります。 {TEXT_YIELD_DEFICIT_HELP}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_WOOD</zType>
@@ -490,6 +527,7 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>木材~icon(YIELD_WOOD)木材</zh-CN>
 		<pt-BR>Madeira~icon(YIELD_WOOD)Madeira</pt-BR>
 		<ko>목재~icon(YIELD_WOOD)목재</ko>
+		<fixja>木材~icon(YIELD_WOOD)木材</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_WOOD_HELP</zType>
@@ -503,5 +541,6 @@ link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS), link(FAMILYCLASS_HUNTERS)
 		<zh-CN>你可以透过砍伐link(VEGETATION_TREES)来取得{YIELD_WOOD}木材，或是在完成link(TECH_FORESTRY)的研究之后建造link(IMPROVEMENT_LUMBERMILL,2)。 {YIELD_WOOD}木材可用于建造link(IMPROVEMENT_RANGE,2)等城市link(CONCEPT_IMPROVEMENT,2)、link(UNIT_ARCHER,2)等军事单元，以及link(UNIT_BIREME,2)等link(UNITTRAIT_SHIP)单元。此外，每个回合也都需要花费一些{YIELD_WOOD}木材来维护这些单元。 {TEXT_YIELD_DEFICIT_HELP}</zh-CN>
 		<pt-BR>É possível coletar {YIELD_WOOD}Madeira ao cortar link(VEGETATION_TREES) ou ao construir link(IMPROVEMENT_LUMBERMILL,2) assim que a tecnologia de link(TECH_FORESTRY) tenha sido pesquisada. A {YIELD_WOOD}Madeira é necessária para construir algumas link(CONCEPT_IMPROVEMENT,2) de cidade, tais como link(IMPROVEMENT_RANGE,2), e algumas unidades militares, tais como link(UNIT_ARCHER,2) e link(UNITTRAIT_SHIP,1), tais como as link(UNIT_BIREME,2). Essas unidades também necessitam de {YIELD_WOOD}Madeira a cada turno para sua manutenção. {TEXT_YIELD_DEFICIT_HELP}</pt-BR>
 		<ko>{YIELD_WOOD}목재는 link(VEGETATION_TREES)를 자르거나 link(TECH_FORESTRY) 기술을 연구한 후 link(IMPROVEMENT_LUMBERMILL,2)를 지어 획득할 수 있습니다. {YIELD_WOOD}목재는 link(IMPROVEMENT_RANGE,2)과 같은 일부 link(CONCEPT_IMPROVEMENT,2)을 건설할 때나 link(UNIT_ARCHER,2) 등의 군사 유닛, link(UNIT_BIREME,2) 등의 link(UNITTRAIT_SHIP) 유닛을 생산할 때 사용됩니다. 해당하는 유닛들의 유지비로 매 턴 {YIELD_WOOD}목재가 소비됩니다. {TEXT_YIELD_DEFICIT_HELP}</ko>
+		<fixja>{YIELD_WOOD}木材は、link(VEGETATION_TREES)を切り倒すか、link(TECH_FORESTRY)の研究完了後にlink(IMPROVEMENT_LUMBERMILL,2)を建設することで収集できます。{YIELD_WOOD}木材は、link(IMPROVEMENT_RANGE,2)などの都市のlink(CONCEPT_IMPROVEMENT,2)、link(UNIT_ARCHER,2)などの軍事ユニット、link(UNIT_BIREME,2)などのlink(UNITTRAIT_SHIP)ユニットの作成に必要となります。これらのユニットは、それぞれを維持するための{YIELD_WOOD}木材も必要です。 {TEXT_YIELD_DEFICIT_HELP}</fixja>
 	</Entry>
 </Root>

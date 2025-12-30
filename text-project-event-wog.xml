@@ -26,6 +26,7 @@
 		<zh-CN>食物配给</zh-CN>
 		<pt-BR>Racionamento de Comida</pt-BR>
 		<ko>식량 배급</ko>
+		<fixja>食料配給</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GRAIN_SILO</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>粮食筒仓</zh-CN>
 		<pt-BR>Silo de Cereais</pt-BR>
 		<ko>곡물 저장소</ko>
+		<fixja>穀物倉庫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DROUGHT_TRAINING</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>适应旱灾</zh-CN>
 		<pt-BR>Adaptações à Seca</pt-BR>
 		<ko>가뭄 적응</ko>
+		<fixja>干ばつへの順応</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_QUARANTINE</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>隔离检疫</zh-CN>
 		<pt-BR>Quarentena</pt-BR>
 		<ko>격리</ko>
+		<fixja>隔離</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PRIVATE_BATHS</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>私人浴场</zh-CN>
 		<pt-BR>Banhos Privados</pt-BR>
 		<ko>개인 욕탕</ko>
+		<fixja>個人浴場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SANDSTORM_TRAINING</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>沙暴演练</zh-CN>
 		<pt-BR>Exercícios contra Tempestade de Areia</pt-BR>
 		<ko>모래 폭풍 훈련</ko>
+		<fixja>砂嵐の訓練</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_COMMUNITY_FARMS_FONIO</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>社群农场：福尼奥米</zh-CN>
 		<pt-BR>Fazendas Comunitárias: Fonio</pt-BR>
 		<ko>공동체 농장: 포니오</ko>
+		<fixja>市民農場：フォニオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORCED_LABOR</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>强迫劳动</zh-CN>
 		<pt-BR>Trabalho Forçado</pt-BR>
 		<ko>강제 노역</ko>
+		<fixja>強制労働</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TIMBER_SALVAGE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>抢救木材</zh-CN>
 		<pt-BR>Reaproveitamento de Madeira</pt-BR>
 		<ko>목재 건지기</ko>
+		<fixja>木材の回収</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_EPIC_THE_WASH</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>庆典：盥洗节</zh-CN>
 		<pt-BR>Festival: A Enxurrada</pt-BR>
 		<ko>축제: 청소</ko>
+		<fixja>祝祭: 押し流し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPROVED_HYDRAULICS</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>进阶水力学</zh-CN>
 		<pt-BR>Hidráulica Melhorada</pt-BR>
 		<ko>개선된 수력학</ko>
+		<fixja>水利技術の改善</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_OLIVE</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>橄榄</zh-CN>
 		<pt-BR>Azeitonas</pt-BR>
 		<ko>올리브</ko>
+		<fixja>オリーブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONTAMINATED_WATER</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>受污染的供水</zh-CN>
 		<pt-BR>Reserva de Água Contaminada</pt-BR>
 		<ko>오염된 수자원</ko>
+		<fixja>汚染された水源</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_VOLCANIC_FERTILIZER</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>火山肥料</zh-CN>
 		<pt-BR>Fertilizante Vulcânico</pt-BR>
 		<ko>화산재 비료</ko>
+		<fixja>火山性肥料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_REFORESTATION_EFFORTS</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>重新造林工作</zh-CN>
 		<pt-BR>Esforço de Reflorestamento</pt-BR>
 		<ko>재조림 작업</ko>
+		<fixja>森林再生への取り組み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WARY_OF_THE_MOUNTAIN</zType>
@@ -221,5 +236,6 @@
 		<zh-CN>山脉的机警</zh-CN>
 		<pt-BR>Desconfiança da Montanha</pt-BR>
 		<ko>산에 대한 경계심</ko>
+		<fixja>山に対する警戒</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>长子继承制</zh-CN>
 		<pt-BR>Primogenitura~da Primogenitura</pt-BR>
 		<ko>장자 계승</ko>
+		<fixja>長子相続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_ULTIMOGENITURE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>幼子继承制</zh-CN>
 		<pt-BR>Ultimogenitura~da Ultimogenitura</pt-BR>
 		<ko>말자 계승</ko>
+		<fixja>末子相続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_LATERAL</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>横向制</zh-CN>
 		<pt-BR>Lateral~da Lateral</pt-BR>
 		<ko>방계 계승</ko>
+		<fixja>傍系相続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_DYNASTIC</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>王朝制</zh-CN>
 		<pt-BR>Dinástica~da Dinástica</pt-BR>
 		<ko>왕조</ko>
+		<fixja>王統相続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_SENIORITY</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>尊长制</zh-CN>
 		<pt-BR>Antiguidade~da Antiguidade</pt-BR>
 		<ko>연장자 계승</ko>
+		<fixja>年長相続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_EPICS</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>史诗</zh-CN>
 		<pt-BR>Épica~da Épica</pt-BR>
 		<ko>서사시</ko>
+		<fixja>史詩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_EXPLORATION</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>探索</zh-CN>
 		<pt-BR>Exploração~da Exploração</pt-BR>
 		<ko>탐험</ko>
+		<fixja>探索</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_SLAVERY</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>奴役</zh-CN>
 		<pt-BR>Escravidão~da Escravidão</pt-BR>
 		<ko>노예</ko>
+		<fixja>奴隷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_FREEDOM</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>自由</zh-CN>
 		<pt-BR>Liberdade~da Liberdade</pt-BR>
 		<ko>자유</ko>
+		<fixja>解放</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_CENTRALIZATION</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>中央集权</zh-CN>
 		<pt-BR>Centralização~da Centralização</pt-BR>
 		<ko>중앙 집권</ko>
+		<fixja>中央集権</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_VASSALAGE</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>封君封臣制</zh-CN>
 		<pt-BR>Vassalagem~da Vassalagem</pt-BR>
 		<ko>봉작</ko>
+		<fixja>封土</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_TYRANNY</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>僭主</zh-CN>
 		<pt-BR>Tirania~da Tirania</pt-BR>
 		<ko>독재</ko>
+		<fixja>君主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_CONSTITUTION</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>宪法</zh-CN>
 		<pt-BR>Constituição~da Constituição</pt-BR>
 		<ko>헌법</ko>
+		<fixja>律令</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_COLONIES</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>殖民地</zh-CN>
 		<pt-BR>Colônias~das Colônias</pt-BR>
 		<ko>식민지</ko>
+		<fixja>入植</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_SERFDOM</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>农奴制</zh-CN>
 		<pt-BR>Servidão~da Servidão</pt-BR>
 		<ko>농노</ko>
+		<fixja>農奴</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_MONOTHEISM</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>一神论</zh-CN>
 		<pt-BR>Monoteísmo~do Monoteísmo</pt-BR>
 		<ko>일신교</ko>
+		<fixja>一神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_POLYTHEISM</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>多神论</zh-CN>
 		<pt-BR>Politeísmo~do Politeísmo</pt-BR>
 		<ko>다신교</ko>
+		<fixja>多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_DIVINE_RULE</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>君权神授</zh-CN>
 		<pt-BR>Direito Divino~do Direito Divino</pt-BR>
 		<ko>정교일치</ko>
+		<fixja>神権統治</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_LEGAL_CODE</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>法典</zh-CN>
 		<pt-BR>Código Legal~do Código Legal</pt-BR>
 		<ko>법전</ko>
+		<fixja>法典</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_TOLERANCE</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>宽容</zh-CN>
 		<pt-BR>Tolerância~da Tolerância</pt-BR>
 		<ko>관용</ko>
+		<fixja>寛容</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_ORTHODOXY</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>正统</zh-CN>
 		<pt-BR>Ortodoxia~da Ortodoxia</pt-BR>
 		<ko>정통</ko>
+		<fixja>正統信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_PROFESSIONAL_ARMY</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>职业军队</zh-CN>
 		<pt-BR>Exército Profissional~do Exército Profissional</pt-BR>
 		<ko>직업 군인</ko>
+		<fixja>職業軍人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_VOLUNTEERS</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>志愿兵</zh-CN>
 		<pt-BR>Voluntários~dos Voluntários</pt-BR>
 		<ko>자원병</ko>
+		<fixja>志願兵たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_PHILOSOPHY</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>哲学</zh-CN>
 		<pt-BR>Filosofia~da Filosofia</pt-BR>
 		<ko>철학</ko>
+		<fixja>哲学</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_ENGINEERING</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>工程</zh-CN>
 		<pt-BR>Engenharia~da Engenharia</pt-BR>
 		<ko>공학</ko>
+		<fixja>工学</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_ICONOGRAPHY</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>图像学</zh-CN>
 		<pt-BR>Iconografia~da Iconografia</pt-BR>
 		<ko>도상학</ko>
+		<fixja>図像</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_CALLIGRAPHY</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>书法</zh-CN>
 		<pt-BR>Caligrafia~da Caligrafia</pt-BR>
 		<ko>서법</ko>
+		<fixja>書字</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_PILGRIMAGE</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>朝圣</zh-CN>
 		<pt-BR>Peregrinação~da Peregrinação</pt-BR>
 		<ko>순례</ko>
+		<fixja>巡礼</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_HOLY_WAR</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>圣战</zh-CN>
 		<pt-BR>Guerra Santa~da Guerra Santa</pt-BR>
 		<ko>성전</ko>
+		<fixja>聖戦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_GUILDS</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>行会</zh-CN>
 		<pt-BR>Guildas~das Guildas</pt-BR>
 		<ko>장인 조합</ko>
+		<fixja>ギルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_ELITES</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>菁英</zh-CN>
 		<pt-BR>Elites~das Elites</pt-BR>
 		<ko>특권층</ko>
+		<fixja>選良</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_AUTARKY</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>封闭经济</zh-CN>
 		<pt-BR>Autarquia~da Autarquia</pt-BR>
 		<ko>자립 경제</ko>
+		<fixja>自立経済</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_TRADE_LEAGUE</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>贸易联盟</zh-CN>
 		<pt-BR>Liga de Comércio~da Liga de Comércio</pt-BR>
 		<ko>교역 연맹</ko>
+		<fixja>交易連合</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_COIN_DEBASEMENT</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>钱币贬值</zh-CN>
 		<pt-BR>Degradação da Moeda~da Degradação da Moeda</pt-BR>
 		<ko>주화 가치 저하</ko>
+		<fixja>貨幣切り下げ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAW_MONETARY_REFORM</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>货币改革</zh-CN>
 		<pt-BR>Reforma Monetária~da Reforma Monetária</pt-BR>
 		<ko>화폐 개혁</ko>
+		<fixja>貨幣改革</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EPICS_EXPLORATION_LAW_STRATNOTES</zType>
@@ -501,6 +536,9 @@ Essas estão entre as primeiras leis disponíveis, e ambos os tipos de bônus s�
 		<ko>
 
 link(LAW_EXPLORATION)과 link(LAW_EPICS)는 "이동력 보정(중립 강에서 더 빠른 이동, 정찰병이 강 위를 이동할 수 있음)"과 "군사 유닛을 처치할 때마다 가장 가까운 도시에 +10 link(YIELD_CULTURE)" 중 하나를 선택하는 법률입니다.       초반에 선택할 수 있는 법률 보정으로 상황에 따라 효용이 달라집니다. 탐험은 물이 많은 맵에서 아주 유용하게 사용할 수 있는 법률이며, 서사는 좁은 맵이나 공격적인 플레이에 알맞은 법률입니다.</ko>
+		<fixja>link(LAW_EXPLORATION)かlink(LAW_EPICS)はその選択次第で、移動ボーナス（中立な河川での移動速度アップ、斥候の水上移動可能）と、軍ユニットが倒される度に最も近い都市がlink(YIELD_CULTURE,1)を10獲得する。
+       
+これらのボーナスは、最初に手に入る「法律」ボーナスのひとつであり、どちらもその時の状況にいくらか左右される。水の多いマップでは「探索」が特に有効であり、狭い空間や攻撃的なゲームでは「エピック」が適している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SLAVERY_FREEDOM_LAW_STRATNOTES</zType>
@@ -542,6 +580,10 @@ Ambas essas leis são úteis nas partes iniciais do jogo. Se você não tem link
 
 두 법률 모두 게임 초반에 유용합니다. link(IMPROVEMENT_QUARRY,2) 혹은 link(IMPROVEMENT_MINE,2)이 충분하지 않다면 link(LAW_SLAVERY)를 선택하십시오. 반대로 link(LAW_FREEDOM)는 link(UNIT_SETTLER,2)와 link(UNIT_WORKER,2)을 빠르게 생산할 수 있습니다.
 </ko>
+		<fixja>link(LAW_SLAVERY)とlink(LAW_FREEDOM)の選択は、link(YIELD_IRON)とlink(YIELD_STONE)の収入増を取るか、都市のlink(YIELD_GROWTH)を取るかの二者択一になる。
+
+どちらの法律もゲーム序盤において有益だ。link(IMPROVEMENT_QUARRY,2)またはlink(IMPROVEMENT_MINE,2)が足りない場合はlink(LAW_SLAVERY)が役に立つ。link(LAW_FREEDOM)を選択するとlink(UNIT_SETTLER,2)とlink(UNIT_WORKER,2)をより早く生産できるようになる。
+</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CENTRALIZATION_VASSALAGE_LAW_STRATNOTES</zType>
@@ -575,6 +617,9 @@ Em fases como a expansão inicial contra tribos ou uma guerra ofensiva com um gr
 		<ko>link(LAW_CENTRALIZATION)과 link(LAW_VASSALAGE)은 "늪에 농장을 지을 수 있게 되며 수도의 문화 수준당 +2 link(YIELD_SCIENCE)"과 "유닛 유지비 -50%, 국경 외에서는 추가 유닛 유지비 없음" 중 하나를 선택하는 법률입니다.
 
 부족에 맞서 초반 확장을 꾀할 때나 대규모 병력과 공격적인 전쟁을 치를 때는 봉건제의 국경 외 유닛 유지비 감소 보정이 매우 유익할 수 있습니다. 반대로 중앙 집권은 늪 주변에 있는 제국이나 수도의 초반 문화 수준이 높은 제국에 안성맞춤인 법률입니다.</ko>
+		<fixja>link(LAW_CENTRALIZATION)を選ぶか、link(LAW_VASSALAGE)を選ぶかで、湿地に農場を建設できる能力と首都の文化レベルごとにlink(YIELD_SCIENCE,1)+2を得るか、あるいはユニットの維持費を50%減少させ、国境外でのユニット追加維持費が発生しないかが決まる。
+
+序盤で部族の持つ領土を侵略したり、大規模な軍事攻撃を仕掛けたりするような状況では、「属国制」を導入し、国境外の維持コストを減少させることで、かなりの利益を得ることができる。一方で、湿地に囲まれた帝国や、初期から首都に文化的優位性を持つ帝国では、「中央集権化」がとりわけ重要な意味を持つ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TYRANNY_CONSTITUTION_LAW_STRATNOTES</zType>
@@ -608,6 +653,9 @@ Ambos os bônus são poderosos e só aumentarão com o tempo, mas a maioria das 
 		<ko>link(LAW_TYRANNY)와 link(LAW_CONSTITUTION)은 '도시의 높은 link(YIELD_TRAINING,1) 및 영토 내 군사 유닛을 위한 link(YIELD_MONEY,1)'과 '도회 전문직으로부터 link(YIELD_SCIENCE,1) 받기' 중 하나를 선택하는 것입니다.
        
 두 법률 모두 시간이 지날수록 보정이 커지는 강력한 법률이지만, 군사에 집중하는 국가 대부분은 link(LAW_TYRANNY)를 선호하고 평화로운 건축가들은 link(LAW_CONSTITUTION)을 선택합니다.</ko>
+		<fixja>link(LAW_TYRANNY)とlink(LAW_CONSTITUTION)の選択は、都市のlink(YIELD_TRAINING,1)収入増と自国領内のlink(YIELD_MONEY,1)からのlink(YIELD_MONEY,1)産出を取るか、都市専門家からのlink(YIELD_SCIENCE,1)産出を取るかの二者択一になる。
+
+どちらも強力なボーナスであり、時間経過とともにその効果も大きくなっていくが、軍事重視の国であればlink(LAW_TYRANNY)が、内政重視の国であればlink(LAW_CONSTITUTION)がより大きな恩恵をもたらすことだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLONIES_SERFDOM_LAW_STRATNOTES</zType>
@@ -641,6 +689,9 @@ Na maior parte do jogo, as 5 ordens adicionais da servidão lhe serão mais úte
 		<ko>link(LAW_COLONIES)와 link(LAW_SERFDOM)는 "자금으로 타일 구매 가능"과 "매 턴 도시당 +1 link(YIELD_DISCONTENT) 및 매 턴 추가 명령권 link(YIELD_ORDERS) 5개 획득" 중 하나를 선택하는 법률입니다.
   
 많은 경우에서 농노로 획득하는 추가 link(YIELD_ORDERS)이 더 큰 도움이 되겠지만, 국경 확장에서 오는 이득이 큰 상황이 있는 만큼 식민지도 쉽게 버리기 힘든 법률입니다. 장기적 관점에서 보면 상황에 따라 식민지와 농노를 전환하는 것도 괜찮은 타협안입니다.</ko>
+		<fixja>資金でタイルを購入する能力を得るか、都市ごとにターン毎にlink(YIELD_DISCONTENT,1)+1を得るか、さらにはターンごとに5つの追加link(YIELD_ORDERS,1)を得るか。これらはlink(LAW_COLONIES)かlink(LAW_SERFDOM)を選ぶことで決まる。
+  
+ゲーム中の大部分で、農奴による追加link(YIELD_ORDERS,1)が有効であるものの、国境を拡大することがより大きな利益をもたらす状況では、植民地を選ばないという選択は悩ましいものになる。長期的に見れば、こういった選択肢の間を切り替えることも一つの折衷案となり得る。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MONOTHEISM_POLYTHEISM_LAW_STRATNOTES</zType>
@@ -674,6 +725,9 @@ Os santuários podem ser incrivelmente poderosos, e há pelo menos alguns deles 
 		<ko>link(LAW_MONOTHEISM)와 link(LAW_POLYTHEISM)는 "link(CONCEPT_STATE_RELIGION) 도시 하나당 +1 link(YIELD_ORDERS)"과 "모든 종류의 link(CONCEPT_SHRINE)을 모든 도시에 건설 가능" 중 하나를 선택하는 법률입니다.
        
 신전은 매우 강력한 시설이 될 수 있으며, 모든 도시에 설치해 둘 만한 신전이 몇 개는 있을 것입니다. 마음에 드는 신전을 건설하기 위해서라도 다신교 시행 기간을 확보하는 것이 합리적인 선택이 될 것입니다. 하지만 일신교에서 오는 추가 명령권이 요긴하게 사용될 수도 있으므로, 신전을 지을 시간이 부족하다면 바로 추가 명령권을 선택하는 것이 더 편리할 수 있습니다.</ko>
+		<fixja>link(CONCEPT_STATE_RELIGION)都市ごとにlink(YIELD_ORDERS,1)+1を得るか、または全都市で様々なlink(CONCEPT_SHRINE)を建設する能力を得るか。これらはlink(LAW_MONOTHEISM)とlink(LAW_POLYTHEISM)を選ぶことで決まる。
+       
+神殿は非常に強力な効果を持っているため、少なくともいくつかは建てておきたい。希望の神殿を建設するため、一定期間「多神教」を採用するのも十分な理由となり得る。ただし、それが終われば「一神教」からの追加命令が非常に重要なものとなる可能性が高い。とはいえ、神殿を建てる余裕がなければ、追加命令を直接出す方が手っ取り早いかもしれない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIVINERULE_LEGALCODE_LAW_STRATNOTES</zType>
@@ -716,6 +770,10 @@ Se você está sempre sem link(YIELD_CIVICS,1), ou ainda não investiu em link(I
 
 link(YIELD_CIVICS,1)이 항상 부족하거나 link(IMPROVEMENTCLASS_SHRINE,2)에 그다지 투자하지 않았다면 쉽게 link(LAW_LEGAL_CODE)을 선택할 수 있을 것입니다. 반대로 link(LAW_POLYTHEISM)을 오랜 기간 시행해 link(CONCEPT_PAGAN_RELIGION)를 전파했다면 link(LAW_DIVINE_RULE) 제정으로 link(YIELD_ORDERS,1)를 상당량 증진할 수 있습니다.
 		</ko>
+		<fixja>link(LAW_DIVINE_RULE)とlink(LAW_LEGAL_CODE)の選択は、link(CONCEPT_PAGAN_RELIGION,2)からのlink(YIELD_ORDERS,1)を取るか、あるいは法律からのlink(YIELD_CIVICS,1)を取るかの二者択一になる。
+
+link(YIELD_CIVICS,1)が不足しているか、link(IMPROVEMENTCLASS_SHRINE,2)をあまり作っていない場合はlink(LAW_LEGAL_CODE)が有益な選択となるだろう。一方でlink(LAW_POLYTHEISM)を制定しlink(CONCEPT_PAGAN_RELIGION)を広めている場合はlink(LAW_DIVINE_RULE)を制定することで大量のlink(YIELD_ORDERS,1)が得られる。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TOLERANCE_ORTHODOXY_LAW_STRATNOTES</zType>
@@ -769,6 +827,11 @@ De forma geral, se suas cidades são o lar de diversas religiões, normalmente �
 
 
 link(LAW_TOLERANCE)과 link(LAW_ORTHODOXY)법은 "도시에 있는 국교가 아닌 종교당 +2 link(YIELD_HAPPINESS) 및 link(CONCEPT_STATE_RELIGION) 소속이 아닌 신도 육성 가능"과 "신도가 link(CONCEPT_WORLD_RELIGION,2)를 제명 가능 및 link(YIELD_ORDERS)으로 link(CONCEPT_HURRY) 가능" 중 하나를 선택하는 법률입니다.국교에 많이 투자하지 않았다면 정통을 선택해 자연스럽게 국교의 힘을 키울 수 있습니다. link(YIELD_ORDERS)으로 생산 가속이 가능해지는 것 또한 큰 도움이 됩니다. 하지만 이웃 국가들이 자신들의 종교가 제명된다는 소식을 썩 좋아하지는 않을 것입니다.도시에 많은 종교가 병존하고 있다면 저항 없이 현실을 받아들이는 편이 일반적으로 더 쉬울 것입니다. 이런 상황에서는 관용이 불만도 문제의 강력한 해결책이 될 수 있습니다.</ko>
+		<fixja>自国都市にある非国教1つごとにlink(YIELD_HAPPINESS,1)を2獲得するか、自国のlink(CONCEPT_STATE_RELIGION)ではない使徒を訓練する能力、あるいは使徒にlink(CONCEPT_WORLD_RELIGION,2)を浄化する能力とlink(YIELD_ORDERS,1)でlink(CONCEPT_HURRY)する能力を与えるか。それらはlink(LAW_TOLERANCE)かlink(LAW_ORTHODOXY)を選ぶことで決まる。
+
+国教に大規模な投資をしている場合、「正統性」はその力をさらに伸ばすための自然な手段となり得る。link(YIELD_ORDERS,1)を使っての迅速な行動は非常に強力だ。しかし、自分たちの宗教が浄化されるのだ。隣人たちが快く受け入れるはずがない。
+
+基本的に、複数の宗教が競合する都市がある場合は、対立よりもその事実を受け止める方が対処は容易である。そのような状況において、「寛容さ」は不満から端を発する問題への強力な対抗手段となり得る。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROFESSIONALARMY_VOLUNTEERS_LAW_STRATNOTES</zType>
@@ -802,6 +865,9 @@ Enquanto o exército profissional lhe dará a vantagem mais óbvia, há situaç�
 		<ko>
 
 link(LAW_PROFESSIONAL_ARMY)와 link(LAW_VOLUNTEERS)은 "전투 중 모든 유닛에게 +50% link(CONCEPT_XP) 및 국고가 설치된 모든 도시에 +2 link(YIELD_TRAINING)"과 "link(CONCEPT_POPULATION)로 link(CONCEPT_HURRY) 가능 및 매 전쟁 턴 당 +20 link(YIELD_TRAINING)" 중 하나를 선택하는 법률입니다.전문 병사가 직관적인 이점을 제공하긴 하지만 자원병 보정으로 군사 유닛을 빠르게 생산해 전세를 뒤집을 수 있는 상황도 있을 것입니다. link(CONCEPT_POPULATION)를 사용해 생산을 가속하기 전 반드시 짚어야 할 부분이 있습니다. 국가 link(CONCEPT_POPULATION)에는 한계가 있으며, 가속에 사용하는 인구를 생산적인 link(CONCEPT_SPECIALIST)으로 만들 수도 있었다는 점을 잊어서는 안 됩니다.</ko>
+		<fixja>戦闘中の全ユニットに+50%のlink(CONCEPT_XP)を与えるか、または財務庁を持つ各都市に+2 link(YIELD_TRAINING,1)を与えることと、link(CONCEPT_HURRY)をlink(CONCEPT_POPULATION)で行使する能力と戦争ごとにターンあたり+20 link(YIELD_TRAINING,1)を得るか。それらはlink(LAW_PROFESSIONAL_ARMY)かlink(LAW_VOLUNTEERS)を選ぶことで決まる。
+
+職業軍隊はその名が示す通り、明確な武力を有する。一方で、「志願兵」が持つ「短期間で軍事ユニットを追加する能力」が戦況を左右することもある。しかし、link(CONCEPT_POPULATION)に基づく性急な行動には慎重さが求められる。国内link(CONCEPT_POPULATION)には限りがある。つまり、ユニット作成にlink(CONCEPT_POPULATION)を使うと、有能なlink(CONCEPT_SPECIALIST)を生み出す可能性を犠牲にしているかもしれないのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PHILOSOPHY_ENGINEERING_LAW_STRATNOTES</zType>
@@ -835,6 +901,9 @@ A aceleração de especialistas urbanos e a maior quantidade de ciência concedi
 		<ko>link(LAW_PHILOSOPHY)과 link(LAW_ENGINEERING)은 "더 빠른 도회 전문직 생산 (20% 가속) 및 토론장이 있는 모든 도시에 +1 link(YIELD_SCIENCE)"과 "불가사의 건설 비용 -25% 및 도로 건설으로 강을 지나는 다리 설치 가능" 중 하나를 선택하는 법률입니다.
        
 철학으로 빠르게 생산할 수 있는 도시 전문직과 추가 과학은 다양한 플레이 방식에 어울리는 선택입니다. 반대로 다리 설치는 국내 이동을 더욱 효율적으로 만들며, 불가사의 건설로 승리를 쟁취할 계획이라면 자연스럽게 공학을 선택하게 될 것입니다. 철학은 매 턴 유지비로 link(YIELD_CIVICS)을, 공학은 link(YIELD_MONEY)을 지불해야 한다는 것 또한 고려해야 합니다.</ko>
+		<fixja>都市専門家の生産を20%高速化し、フォーラム（公開討論の場）を持つ全都市でlink(YIELD_SCIENCE,1)を1得るか、または不思議なコストを25%削減し、川を渡る道路を橋渡しするか。それらはlink(LAW_PHILOSOPHY)かlink(LAW_ENGINEERING)を選ぶことで決まる。
+       
+都市専門家の生産速度を高め、科学を強化する「哲学」は、様々なプレイスタイルに適しやすい。一方、橋は国内での移動効率を飛躍的に高めるため、驚異の建造物によるゲーム勝利を目指しているのであれば、「工学」が自然な選択肢となる。「哲学」はターンごとにlink(YIELD_CIVICS,1)を消費する維持費が発生する一方で、「工学」はlink(YIELD_MONEY,1)を消費することも考慮に入れておかなければならない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ICNOGRAPHY_CALLIGRAPHY_LAW_STRATNOTES</zType>
@@ -868,6 +937,9 @@ E escolha entre essas leis normalmente será fácil de acordo com seus investime
 		<ko>link(LAW_ICONOGRAPHY)과 link(LAW_CALLIGRAPHY)는 "수도원 보정 (매 턴 +2 link(YIELD_TRAINING)), 대성당 보정 (매 턴 +2 link(YIELD_HAPPINESS)), 사원 보정 (매 턴 +20 link(YIELD_MONEY))"과 "도서관, 학술원, 대학이 매 턴 +4 link(YIELD_CULTURE)를 생산 및 원로 전문직이 매 턴 +1 link(YIELD_HAPPINESS)를 생산" 중 하나를 선택하는 법률입니다.
 
 이 법률들은 이전 투자에 따라 쉽게 선택을 내릴 수 있습니다. 만약 종교 건물에 많이 투자했다면 도상학에서 오는 이익이 클 것이고, 도서관과 link(YIELD_CULTURE)에 집중했다면 서예를 제정해 더욱 성장할 수 있을 것입니다. 도상학은 매 턴 유지비로 link(YIELD_MONEY)을, 서예는 link(YIELD_CIVICS)을 지불해야 한다는 것 또한 고려해야 합니다. </ko>
+		<fixja>修道院（毎ターンlink(YIELD_TRAINING,1)+2）、大聖堂（毎ターンlink(YIELD_HAPPINESS,1)+2）、寺院（毎ターンlink(YIELD_MONEY,1)+20）のボーナスを獲得するか、あるいは図書館（アカデミーと大学を含む）毎ターン+4、link(YIELD_CULTURE,1)を生み出し、老専門家が毎ターンlink(YIELD_HAPPINESS,1)+1を得るか。それらは、link(LAW_ICONOGRAPHY)とlink(LAW_CALLIGRAPHY)のどちらを選ぶかで決まる。
+
+これらの法律は、これまでの投資によって簡単に選択できることが多い。宗教建築への投資が多い場合、「イコノグラフィー（図像学）」が有益に働くことがある。また、図書館やlink(YIELD_CULTURE,1)に注力している場合は、「カリグラフィ」が大きく国を前進させるだろう。「イコノグラフィー」は毎ターン、維持費をlink(YIELD_MONEY,1)で支払い、「カリグラフィ」はlink(YIELD_CIVICS,1)で支払わなければならない点も頭に入れておくべきだ。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PILGRIMAGE_HOLYWAR_LAW_STRATNOTES</zType>
@@ -901,6 +973,9 @@ A link(LAW_PILGRIMAGE) pode ajudar a difundir sua link(CONCEPT_STATE_RELIGION), 
 		<ko>link(LAW_PILGRIMAGE)와 link(LAW_HOLY_WAR)은 'link(CONCEPT_STATE_RELIGION)를 빠르게 전파하고 link(CONCEPT_HOLY_CITY)에서 link(YIELD_MONEY)을 얻는 것'과 '유닛 무상 link(CONCEPT_PROMOTION,2) 및 link(YIELD_MONEY,1)으로 유닛 link(CONCEPT_HURRY) 가능' 중 하나를 선택하는 것입니다.
         
 link(LAW_PILGRIMAGE)은 link(CONCEPT_STATE_RELIGION) 전파에 도움이 되고 link(CONCEPT_RELIGION)를 가지는 것으로 인한 이익에 link(CONCEPT_HOLY_CITY)에서 link(YIELD_MONEY)을 추가할 수 있습니다. 반대로 기성 종교를 유지하고 공격적인 플레이를 추구한다면 무상 승급과 유닛 생산 가속에서 큰 도움을 받을 수 있습니다.</ko>
+		<fixja>link(LAW_PILGRIMAGE)とlink(LAW_HOLY_WAR)の選択は、国教の伝播速度とlink(CONCEPT_HOLY_CITY)からのlink(YIELD_MONEY)収入を取るか、無償のlink(CONCEPT_PROMOTION,2)とlink(YIELD_MONEY,1)によるユニットのlink(CONCEPT_HURRY)を取るかの二者択一になる。
+
+link(LAW_PILGRIMAGE)を選ぶとlink(CONCEPT_STATE_RELIGION)の伝播速度が増加し、link(CONCEPT_HOLY_CITY)からlink(YIELD_MONEY)が得られる。この量はlink(CONCEPT_RELIGION)を持つ都市の数により増加する。一方でlink(LAW_HOLY_WAR)は新たに生産したユニットに無償のlink(CONCEPT_PROMOTION,2)を与え、ユニットの緊急生産が行える。これは宗教を設立したうえで軍事的にプレイするうえで大いに役立つだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUILDS_ELITES_LAW_STRATNOTES</zType>
@@ -934,6 +1009,9 @@ Para um jogo pacífico, as guildas concedem uma poderosa ferramenta contra a ins
 		<ko>
 
 link(LAW_GUILDS)과 link(LAW_ELITES)는 "link(IMPROVEMENT_TOWN) 하나당 +1 link(YIELD_HAPPINESS) 및 반란 확률 -1%"와 "턴마다 최대 100 link(YIELD_ORDERS)을 저장 가능 및 전설 문화를 보유한 도시마다 +2 link(YIELD_ORDERS)" 중 하나를 선택하는 법률입니다.평화로운 플레이를 원한다면 장인 조합을 선택해 불만도를 잠재울 수 있습니다. 하지만 정예의 link(YIELD_ORDERS) 저장 기능은 게임 후반에 일어나는 전쟁에서 대단히 유용하게 사용할 수 있습니다. 특히 link(NATION_ASSYRIA)의 명령권 생성 등과 상승효과가 큽니다.</ko>
+		<fixja>各link(IMPROVEMENT_TOWN)につき、link(YIELD_HAPPINESS,1)+1と反乱の確率を10%減少させるか、またはターン間に最大link(YIELD_ORDERS,1)を100蓄積する能力と、伝説の文化を持つ都市ごとにlink(YIELD_ORDERS,1)を2得るか。これらは、link(LAW_GUILDS)かlink(LAW_ELITES)のどちらを選ぶかで決まる。
+
+平和なゲーム展開を望む場合、ギルドはゲーム終盤の不満対策として強力な手段となり得る。しかしながら、「精鋭」からのlink(YIELD_ORDERS,1)を保持する能力──特にlink(NATION_ASSYRIA)のような命令生成能力と組み合わせると、終盤の戦争においては比類無き力を振るえる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AUTARKY_TRADELEAGUE_LAW_STRATNOTES</zType>
@@ -967,6 +1045,9 @@ Assim como com a escravidão, a produção de +20% da autarquia representa mais 
 		<ko>
 
 link(LAW_AUTARKY)와 link(LAW_TRADE_LEAGUE)은 "link(IMPROVEMENT_MINE,2), link(IMPROVEMENT_QUARRY,2), link(IMPROVEMENT_LUMBERMILL,2) 생산 +20% 및 말, 낙타, 코끼리가 필요한 유닛을 모든 도시에서 생산 가능"과 "link(EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY,2) 해금 및 자원의 구매가와 판매가 동일화" 중 하나를 선택하는 법률입니다.       노예와 조합하면 자립 경제에서 오는 생산량 +20% 보정은 대략 적용되는 시설당 생산량 +1에 해당합니다. 하지만 자립 경제의 진정한 힘은 강력한 link(UNIT_CATAPHRACT)을 어디서든 육성할 수 있는 데에 있습니다. 반대로 교역 연맹의 가치는 제국의 자립 능력에 따라 크게 달라집니다. 교역을 자주 하면 할수록 이 법률의 효과도 더욱 강력해집니다.</ko>
+		<fixja>link(IMPROVEMENT_MINE,2)、link(IMPROVEMENT_QUARRY,2)、link(IMPROVEMENT_LUMBERMILL,2)への20%のブーストと全都市で馬、ラクダ、象を必要とするユニットを建造する能力か、link(EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY,2)のアンロックと同じ価格で資源を売買する能力。これらはlink(LAW_AUTARKY)とlink(LAW_TRADE_LEAGUE)のどちらを選ぶかで決まる。
+       
+「奴隷制」と同様に、「自給自足」は生産量+20%、つまり関連する各改修につき、おおよそ+1の生産量に相当する。しかし、「自給自足」の最大の強みは、どこであっても強力なlink(UNIT_CATAPHRACT)を訓練できる能力にある。一方、「貿易同盟」の利点は、自分の帝国がどれだけ自給自足できているかに大きく左右される。取引を多く行うほど、その能力が強力になるのだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COINDEBASEMENT_MONETARYREFORM_LAW_STRATNOTES</zType>
@@ -1000,5 +1081,8 @@ Usar a degradação da moeda para ter mais link(YIELD_ORDERS,1) é, provavelment
 		<ko>link(LAW_COIN_DEBASEMENT)과 link(LAW_MONETARY_REFORM)은 "link(YIELD_ORDERS) 구매 및 판매 가능"과 "매 턴 모든 도시에 +2 link(YIELD_HAPPINESS) 및 link(CONCEPT_HURRY)에서 link(YIELD_DISCONTENT) 발생하지 않음" 중 하나를 선택하는 법률입니다.
        
 최대치만큼 쌓인 link(YIELD_ORDERS)에 필요한 통화 가치 하락은 두 법률 중 더 탄력적으로 적용할 수 있을 것입니다. 하지만 게임에서 link(YIELD_DISCONTENT) 문제를 완전히 없애고 싶다면 최종적으로 화폐 개혁을 적용할 수 있습니다. 통화 가치 하락은 매 턴 유지비로 link(YIELD_MONEY)을, 화폐 개혁은 link(YIELD_CIVICS)을 지불해야 한다는 것 또한 고려해야 합니다.</ko>
+		<fixja>link(YIELD_ORDERS,1)を売買する能力か、全都市でターンごとに+2 link(YIELD_HAPPINESS,1)を得て、link(CONCEPT_HURRY,1)からのlink(YIELD_DISCONTENT,1)が発生しないか。それらは、link(LAW_COIN_DEBASEMENT)とlink(LAW_MONETARY_REFORM)のどちらを選ぶかによって決まる。
+       
+link(YIELD_ORDERS,1)を最大限に活用する「硬貨価値低下」は、二つの法律の中でおそらくより柔軟性がある。しかし、残りの期間でlink(YIELD_DISCONTENT,1)をほぼ完全に排除させるのであれば、「通貨改革」が最終的な解決策となる。「硬貨価値低下」は毎ターンlink(YIELD_MONEY,1)を維持費として支払うが、「通貨改革」ではlink(YIELD_CIVICS,1)を支払う必要がある。その点も考慮に入れておくべきだ。</fixja>
 	</Entry>
 </Root>

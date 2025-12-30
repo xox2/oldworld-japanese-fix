@@ -39,6 +39,7 @@
 		<zh-CN>扫罗</zh-CN>
 		<pt-BR>Saul</pt-BR>
 		<ko>사울</ko>
+		<fixja>サウル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHARACTER_PAUL</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>保罗</zh-CN>
 		<pt-BR>Paulo</pt-BR>
 		<ko>파울</ko>
+		<fixja>パウロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHARACTER_JOSEPHUS</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>约瑟夫斯</zh-CN>
 		<pt-BR>Josefo</pt-BR>
 		<ko>요세푸스</ko>
+		<fixja>ヨセフス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHARACTER_OSTANES</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>奥斯坦尼斯</zh-CN>
 		<pt-BR>Ostanes</pt-BR>
 		<ko>오스타네스</ko>
+		<fixja>オスタネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHARACTER_ERIOPIS</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>埃里奥皮斯</zh-CN>
 		<pt-BR>Eriopis</pt-BR>
 		<ko>에리오피스</ko>
+		<fixja>エリオピス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHARACTER_SAPPHO</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>萨福</zh-CN>
 		<pt-BR>Safo</pt-BR>
 		<ko>사포</ko>
+		<fixja>サッポー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHARACTER_HYPATIA</zType>
@@ -117,5 +123,6 @@
 		<zh-CN>希帕提亚</zh-CN>
 		<pt-BR>Hipátia</pt-BR>
 		<ko>히파티아</ko>
+		<fixja>ヒュパティア</fixja>
 	</Entry>
 </Root>

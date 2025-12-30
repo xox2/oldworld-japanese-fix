@@ -25,6 +25,7 @@
 		<zh-CN>多</zh-CN>
 		<pt-BR>Alto</pt-BR>
 		<ko>많음</ko>
+		<fixja>多</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HIGH_RESOURCES_HELP</zType>
@@ -38,6 +39,7 @@
 		<zh-CN>地图上的资源较多</zh-CN>
 		<pt-BR>Mais recursos no mapa</pt-BR>
 		<ko>맵에 자원이 더욱 많아집니다.</ko>
+		<fixja>マップ上の資源を増やす</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_MEDIUM_RESOURCES</zType>
@@ -51,6 +53,7 @@
 		<zh-CN>中</zh-CN>
 		<pt-BR>Médio</pt-BR>
 		<ko>보통</ko>
+		<fixja>標準</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_MEDIUM_RESOURCES_HELP</zType>
@@ -64,6 +67,7 @@
 		<zh-CN>预设的资源量</zh-CN>
 		<pt-BR>Quantidade padrão de recursos</pt-BR>
 		<ko>일반적인 자원량입니다.</ko>
+		<fixja>デフォルトの資源量</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOW_RESOURCES</zType>
@@ -77,6 +81,7 @@
 		<zh-CN>少</zh-CN>
 		<pt-BR>Baixo</pt-BR>
 		<ko>적음</ko>
+		<fixja>少</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOW_RESOURCES_HELP</zType>
@@ -90,6 +95,7 @@
 		<zh-CN>地图上的资源较少</zh-CN>
 		<pt-BR>Poucos recursos no mapa</pt-BR>
 		<ko>맵에 자원이 더욱 적어집니다.</ko>
+		<fixja>マップ上の資源を減らす</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DEFAULT_RESOURCES</zType>
@@ -103,6 +109,7 @@
 		<zh-CN>预设</zh-CN>
 		<pt-BR>Padrão</pt-BR>
 		<ko>기본</ko>
+		<fixja>デフォルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DEFAULT_RESOURCES_HELP</zType>
@@ -116,6 +123,7 @@
 		<zh-CN>使用地图原本设计的资源配置</zh-CN>
 		<pt-BR>Use o posicionamento de recursos planejado para o mapa</pt-BR>
 		<ko>미리 설정된 맵의 자원 배치를 따릅니다.</ko>
+		<fixja>マップに設計された資源配置を使用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RANDOM_SCENARIO_RESOURCES</zType>
@@ -129,6 +137,7 @@
 		<zh-CN>随机的</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RANDOM_SCENARIO_RESOURCES_HELP</zType>
@@ -142,6 +151,7 @@
 		<zh-CN>使用随机的资源配置</zh-CN>
 		<pt-BR>Os recursos serão posicionados aleatoriamente</pt-BR>
 		<ko>자원을 무작위로 배치합니다.</ko>
+		<fixja>ランダムな資源配置を使用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_START_ANYWHERE</zType>
@@ -155,6 +165,7 @@
 		<zh-CN>任一地点</zh-CN>
 		<pt-BR>Qualquer lugar</pt-BR>
 		<ko>임의 지점</ko>
+		<fixja>任意の場所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_START_ANYWHERE_HELP</zType>
@@ -168,6 +179,7 @@
 		<zh-CN>从任一地点开始</zh-CN>
 		<pt-BR>Comece em qualquer lugar</pt-BR>
 		<ko>임의 지점에서 시작합니다.</ko>
+		<fixja>任意の場所から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_SIZE_RANDOM</zType>
@@ -181,6 +193,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_SIZE_RANDOM_HELP</zType>
@@ -194,6 +207,7 @@
 		<zh-CN>选择一个随机的选项</zh-CN>
 		<pt-BR>Escolha uma opção aleatória</pt-BR>
 		<ko>무작위로 설정합니다.</ko>
+		<fixja>ランダムな選択肢を選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_COAST</zType>
@@ -207,6 +221,7 @@
 		<zh-CN>沿海</zh-CN>
 		<pt-BR>Litoral</pt-BR>
 		<ko>해안</ko>
+		<fixja>沿岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_COAST_HELP</zType>
@@ -220,6 +235,7 @@
 		<zh-CN>从临海地带开始</zh-CN>
 		<pt-BR>Comece perto da água salgada</pt-BR>
 		<ko>바다 가까이에서 시작합니다.</ko>
+		<fixja>海水に隣接して開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_INLAND</zType>
@@ -233,6 +249,7 @@
 		<zh-CN>内陆</zh-CN>
 		<pt-BR>Interior</pt-BR>
 		<ko>내륙</ko>
+		<fixja>内陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_INLAND_HELP</zType>
@@ -246,6 +263,7 @@
 		<zh-CN>从远离海岸处开始</zh-CN>
 		<pt-BR>Comece longe do litoral</pt-BR>
 		<ko>해안가가 아닌 곳에서 시작합니다.</ko>
+		<fixja>沿岸から離れて開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_RANDOM</zType>
@@ -259,6 +277,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_RANDOM_HELP</zType>
@@ -272,6 +291,7 @@
 		<zh-CN>数量和分布不同</zh-CN>
 		<pt-BR>Variam em número e distribuição</pt-BR>
 		<ko>수와 분포가 무작위로 결정됩니다.</ko>
+		<fixja>数と分布が多様に変化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FIVE</zType>
@@ -285,6 +305,7 @@
 		<zh-CN>五个部落</zh-CN>
 		<pt-BR>Cinco Tribos</pt-BR>
 		<ko>다섯 부족</ko>
+		<fixja>5つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FIVE_HELP</zType>
@@ -298,6 +319,7 @@
 		<zh-CN>部落规模差异大</zh-CN>
 		<pt-BR>Há grande variação de tamanho nas tribos</pt-BR>
 		<ko>부족의 규모가 다양해집니다.</ko>
+		<fixja>部族のサイズに幅広いバリエーションがある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FOUR</zType>
@@ -311,6 +333,7 @@
 		<zh-CN>四个部落</zh-CN>
 		<pt-BR>Quatro Tribos</pt-BR>
 		<ko>네 부족</ko>
+		<fixja>4つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FOUR_HELP</zType>
@@ -324,6 +347,7 @@
 		<zh-CN>部落将分布在四个象限</zh-CN>
 		<pt-BR>As tribos serão posicionadas nos quadrantes</pt-BR>
 		<ko>부족이 사분면을 따라 배치됩니다.</ko>
+		<fixja>部族は4分割で配置される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_THREE</zType>
@@ -337,6 +361,7 @@
 		<zh-CN>三个部落</zh-CN>
 		<pt-BR>Três Tribos</pt-BR>
 		<ko>세 부족</ko>
+		<fixja>3つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_THREE_HELP</zType>
@@ -350,6 +375,7 @@
 		<zh-CN>规模类似的部落。有更多无属的营地。</zh-CN>
 		<pt-BR>Tribos de tamanhos parecidos; há mais campos sem afiliação</pt-BR>
 		<ko>부족의 규모가 비슷해집니다. 독립적인 야영지가 늘어납니다.</ko>
+		<fixja>同規模の部族。無所属の陣営が多い。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_RANDOM</zType>
@@ -363,6 +389,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_RANDOM_HELP</zType>
@@ -376,6 +403,7 @@
 		<zh-CN>选择一个随机的选项</zh-CN>
 		<pt-BR>Escolha uma opção aleatória</pt-BR>
 		<ko>무작위로 설정합니다.</ko>
+		<fixja>ランダムな選択肢を選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_TUNDRA</zType>
@@ -389,6 +417,7 @@
 		<zh-CN>苔原</zh-CN>
 		<pt-BR>Tundra</pt-BR>
 		<ko>동토대</ko>
+		<fixja>凍土帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_TUNDRA_HELP</zType>
@@ -402,6 +431,7 @@
 		<zh-CN>此地图将包含部分苔原</zh-CN>
 		<pt-BR>O mapa terá um pouco de tundra</pt-BR>
 		<ko>맵에 동토대 지형이 생성됩니다.</ko>
+		<fixja>マップに凍土帯が含まれる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_DESERT</zType>
@@ -415,6 +445,7 @@
 		<zh-CN>沙漠</zh-CN>
 		<pt-BR>Deserto</pt-BR>
 		<ko>사막</ko>
+		<fixja>砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_DESERT_HELP</zType>
@@ -428,6 +459,7 @@
 		<zh-CN>此地图将包含大块沙漠</zh-CN>
 		<pt-BR>O mapa terá um grande deserto</pt-BR>
 		<ko>맵에 주요한 사막이 생성됩니다.</ko>
+		<fixja>マップに主要な砂漠が含まれる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS</zType>
@@ -441,6 +473,7 @@
 		<zh-CN>多山</zh-CN>
 		<pt-BR>Montanhoso</pt-BR>
 		<ko>추가 산맥</ko>
+		<fixja>山の追加</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS_HELP</zType>
@@ -454,6 +487,7 @@
 		<zh-CN>此地图将包含额外的山区</zh-CN>
 		<pt-BR>O mapa terá mais montanhas</pt-BR>
 		<ko>맵에 산맥이 더 많이 생성됩니다.</ko>
+		<fixja>マップにより多くの山を追加する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_WATER</zType>
@@ -467,6 +501,7 @@
 		<zh-CN>多水</zh-CN>
 		<pt-BR>Aquático</pt-BR>
 		<ko>추가 수역</ko>
+		<fixja>水域の追加</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_WATER_HELP</zType>
@@ -480,6 +515,7 @@
 		<zh-CN>此地图将包含额外的水域</zh-CN>
 		<pt-BR>O mapa terá mais água</pt-BR>
 		<ko>맵에 물이 더 많이 생성됩니다.</ko>
+		<fixja>マップにより多くの水域を追加する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_PLATEAU</zType>
@@ -493,6 +529,7 @@
 		<zh-CN>高原</zh-CN>
 		<pt-BR>O Planalto</pt-BR>
 		<ko>고원</ko>
+		<fixja>高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_PLATEAU_HELP</zType>
@@ -506,6 +543,7 @@
 		<zh-CN>从南方的大高原开始</zh-CN>
 		<pt-BR>Comece no sul sobre um grande planalto</pt-BR>
 		<ko>큰 고원의 남쪽에서 시작합니다.</ko>
+		<fixja>広大な高原の南部から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_MIDLAND</zType>
@@ -519,6 +557,7 @@
 		<zh-CN>中土</zh-CN>
 		<pt-BR>Central</pt-BR>
 		<ko>중부</ko>
+		<fixja>中部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_MIDLAND_HELP</zType>
@@ -532,6 +571,7 @@
 		<zh-CN>从中纬度开始</zh-CN>
 		<pt-BR>Comece em latitudes médias</pt-BR>
 		<ko>중위도에서 시작합니다.</ko>
+		<fixja>中緯度から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_TUNDRA</zType>
@@ -545,6 +585,7 @@
 		<zh-CN>接近苔原</zh-CN>
 		<pt-BR>Perto da Tundra</pt-BR>
 		<ko>동토대 근처</ko>
+		<fixja>凍土帯付近</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_TUNDRA_HELP</zType>
@@ -558,6 +599,7 @@
 		<zh-CN>从较寒冷的北方开始</zh-CN>
 		<pt-BR>Comece no norte, onde é mais frio</pt-BR>
 		<ko>더 추운 북쪽에서 시작합니다.</ko>
+		<fixja>より寒冷な北部から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_LARGE</zType>
@@ -571,6 +613,7 @@
 		<zh-CN>大片海域</zh-CN>
 		<pt-BR>Grandes Mares</pt-BR>
 		<ko>대양</ko>
+		<fixja>大海原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_LARGE_HELP</zType>
@@ -584,6 +627,7 @@
 		<zh-CN>较少，但形状不规则的大片海域</zh-CN>
 		<pt-BR>Poucos mares maiores de forma irregular</pt-BR>
 		<ko>적은 수의 불규칙적이고 큰 바다가 생성됩니다.</ko>
+		<fixja>不規則な形をした、より少なく、より大きな海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_SMALL</zType>
@@ -597,6 +641,7 @@
 		<zh-CN>锯齿状的小水域</zh-CN>
 		<pt-BR>Pequenos Mares Irregulares</pt-BR>
 		<ko>소형 톱니 모양 바다</ko>
+		<fixja>小さな入り組んだ海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_SMALL_HELP</zType>
@@ -610,6 +655,7 @@
 		<zh-CN>数个狭窄、锯齿状的小海域，彼此之间可能相连。</zh-CN>
 		<pt-BR>Vários mares pequenos que serão estreitos e terão a costa irregular, podem estar conectados</pt-BR>
 		<ko>작고 좁은 톱니 모양 바다 몇 개가 생성됩니다. 바다끼리 맞물릴 수 있습니다.</ko>
+		<fixja>小さな海の一部は狭く、入り組んだ海岸線を持つ。これらの海は、互いに連結することもある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_LARGE</zType>
@@ -623,6 +669,7 @@
 		<zh-CN>大</zh-CN>
 		<pt-BR>Grande</pt-BR>
 		<ko>대형</ko>
+		<fixja>大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_LARGE_HELP</zType>
@@ -636,6 +683,7 @@
 		<zh-CN>水域更广，岛屿相距较远</zh-CN>
 		<pt-BR>Mais água, as ilhas estão relativamente mais distantes</pt-BR>
 		<ko>물이 많고 섬들이 상대적으로 멀리 떨어져 있습니다.</ko>
+		<fixja>水域が多く、比較的離れた位置に島々がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_SMALL</zType>
@@ -649,6 +697,7 @@
 		<zh-CN>中</zh-CN>
 		<pt-BR>Médio</pt-BR>
 		<ko>중형</ko>
+		<fixja>中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_SMALL_HELP</zType>
@@ -662,6 +711,7 @@
 		<zh-CN>岛屿之间的距离适中</zh-CN>
 		<pt-BR>As ilhas estão em distâncias moderadas</pt-BR>
 		<ko>섬들이 적당히 떨어져 있습니다.</ko>
+		<fixja>適度に離れた位置に島々がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_MERGED</zType>
@@ -675,6 +725,7 @@
 		<zh-CN>小</zh-CN>
 		<pt-BR>Pequeno</pt-BR>
 		<ko>소형</ko>
+		<fixja>小</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_MERGED_HELP</zType>
@@ -688,6 +739,7 @@
 		<zh-CN>水域较小，岛屿相距较近，甚至会合并成更大的岛屿</zh-CN>
 		<pt-BR>Menos água, as ilhas estão relativamente próximas ou até mesmo unidas em ilhas maiores</pt-BR>
 		<ko>물이 적고 섬이 상대적으로 가깝거나 더 큰 섬으로 합쳐져 있습니다.</ko>
+		<fixja>水域が少なく、島々が比較的近くに集まっているか、場合によっては大きな島として繋がっている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_RANDOM</zType>
@@ -701,6 +753,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_RANDOM_HELP</zType>
@@ -714,6 +767,7 @@
 		<zh-CN>选择一个随机的选项</zh-CN>
 		<pt-BR>Escolhe uma opção aleatória</pt-BR>
 		<ko>무작위로 설정합니다.</ko>
+		<fixja>ランダムな選択肢を選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_FAR_NORTH</zType>
@@ -727,6 +781,7 @@
 		<zh-CN>极北</zh-CN>
 		<pt-BR>Norte Extremo</pt-BR>
 		<ko>최북단</ko>
+		<fixja>はるか北方</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_FAR_NORTH_HELP</zType>
@@ -740,6 +795,7 @@
 		<zh-CN>向北延伸到超出荧幕范围的海湾</zh-CN>
 		<pt-BR>Forma baías que seguem além da tela ao norte</pt-BR>
 		<ko>북쪽 화면 끝까지 닿는 만입니다.</ko>
+		<fixja>画面外から北に広がる湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_MIDDLE_NORTH</zType>
@@ -753,6 +809,7 @@
 		<zh-CN>中北</zh-CN>
 		<pt-BR>Norte Mediano</pt-BR>
 		<ko>중북부</ko>
+		<fixja>中北部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_MIDDLE_NORTH_HELP</zType>
@@ -766,6 +823,7 @@
 		<zh-CN>有着陆路通往北方的海域</zh-CN>
 		<pt-BR>Mares com passagens de terra em direção ao norte</pt-BR>
 		<ko>북쪽에 땅이 있는 바다입니다.</ko>
+		<fixja>北側に陸路がある海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_SIX</zType>
@@ -779,6 +837,7 @@
 		<zh-CN>六个部落</zh-CN>
 		<pt-BR>Seis Tribos</pt-BR>
 		<ko>여섯 부족</ko>
+		<fixja>6つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_SIX_HELP</zType>
@@ -792,6 +851,7 @@
 		<zh-CN>在内海周遭平均分布的六个部落</zh-CN>
 		<pt-BR>Seis tribos distribuídas ao redor de mar(es) interno(s)</pt-BR>
 		<ko>여섯 부족이 내해에 균등하게 분포합니다.</ko>
+		<fixja>内海周辺に均等に分布する6つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_RANDOM</zType>
@@ -805,6 +865,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_RANDOM_HELP</zType>
@@ -818,6 +879,7 @@
 		<zh-CN>数量和分布不同</zh-CN>
 		<pt-BR>Variam em número e distribuição</pt-BR>
 		<ko>수와 분포가 무작위로 결정됩니다.</ko>
+		<fixja>数と分布が多様に変化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_FOUR</zType>
@@ -831,6 +893,7 @@
 		<zh-CN>四个部落</zh-CN>
 		<pt-BR>Quatro Tribos</pt-BR>
 		<ko>네 부족</ko>
+		<fixja>4つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_FOUR_HELP</zType>
@@ -844,6 +907,7 @@
 		<zh-CN>部落将分布在四个象限</zh-CN>
 		<pt-BR>As tribos serão posicionadas nos quadrantes</pt-BR>
 		<ko>부족이 사분면을 따라 배치됩니다.</ko>
+		<fixja>部族は4分割で配置される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_THREE</zType>
@@ -857,6 +921,7 @@
 		<zh-CN>三个部落</zh-CN>
 		<pt-BR>Três Tribos</pt-BR>
 		<ko>세 부족</ko>
+		<fixja>3つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_THREE_HELP</zType>
@@ -870,6 +935,7 @@
 		<zh-CN>每个纬度带上一个部落</zh-CN>
 		<pt-BR>Uma tribo por banda latitudinal</pt-BR>
 		<ko>위도당 한 부족이 배치됩니다.</ko>
+		<fixja>各緯度帯に1つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO</zType>
@@ -883,6 +949,7 @@
 		<zh-CN>两个部落</zh-CN>
 		<pt-BR>Duas Tribos</pt-BR>
 		<ko>두 부족</ko>
+		<fixja>2つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_HELP</zType>
@@ -896,6 +963,7 @@
 		<zh-CN>一在西，一在东</zh-CN>
 		<pt-BR>Uma no oeste e uma no leste</pt-BR>
 		<ko>서쪽에 하나, 동쪽에 하나가 배치됩니다.</ko>
+		<fixja>西に1つ、東に1つ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_INLAND</zType>
@@ -909,6 +977,7 @@
 		<zh-CN>两个部落，内陆</zh-CN>
 		<pt-BR>Duas Tribos, Central</pt-BR>
 		<ko>두 부족, 내륙</ko>
+		<fixja>内陸部の2つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_INLAND_HELP</zType>
@@ -922,6 +991,7 @@
 		<zh-CN>部落居住在远离水域的陆地上</zh-CN>
 		<pt-BR>Tribos habitarão a terra longe da água</pt-BR>
 		<ko>부족이 물에서 떨어진 땅에 거주합니다.</ko>
+		<fixja>水域から離れた土地に居住する部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_BARBARIANS</zType>
@@ -935,6 +1005,7 @@
 		<zh-CN>仅有蛮族</zh-CN>
 		<pt-BR>Apenas Bárbaros</pt-BR>
 		<ko>야만인만</ko>
+		<fixja>バーバリアンのみ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_BARBARIANS_HELP</zType>
@@ -948,6 +1019,7 @@
 		<zh-CN>没有部落，仅有蛮族营地</zh-CN>
 		<pt-BR>Sem tribos, apenas campos bárbaros</pt-BR>
 		<ko>부족 없이 야만인 야영지만 존재합니다.</ko>
+		<fixja>部族は存在せず、バーバリアンの野営地のみ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_FAIR_STARTS</zType>
@@ -961,6 +1033,7 @@
 		<zh-CN>从外围开始</zh-CN>
 		<pt-BR>Início periférico</pt-BR>
 		<ko>주변부에서 시작</ko>
+		<fixja>周辺地からのスタート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_INLAND_SEA_FAIR_STARTS_HELP</zType>
@@ -974,6 +1047,7 @@
 		<zh-CN>起始时，国家位于内海的边缘，远离地图的中心。</zh-CN>
 		<pt-BR>As nações começam na periferia de um mar interior, longe do centro do mapa.</pt-BR>
 		<ko>국가는 지도 중앙에서 떨어진 내해 주변부에서 시작됩니다.</ko>
+		<fixja>各国は内陸の海域周辺部に配置され、マップ中心から離れた場所からスタートします。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_CONNECTED_STARTS</zType>
@@ -987,6 +1061,7 @@
 		<zh-CN>已连接玩家开始</zh-CN>
 		<pt-BR>Jogadores conectados</pt-BR>
 		<ko>플레이어 시작 위치 연결</ko>
+		<fixja>陸続きの初期配置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_CONNECTED_STARTS_HELP</zType>
@@ -1000,6 +1075,7 @@
 		<zh-CN>每个玩家都有一条通往其他玩家的陆地路径。</zh-CN>
 		<pt-BR>Cada jogador está conectado aos demais por um caminho de terra.</pt-BR>
 		<ko>각 플레이어가 모든 다른 플레이어와 육로로 연결돼 있습니다.</ko>
+		<fixja>全てのプレイヤーが他の全プレイヤーと陸続きになるような位置に配置されます</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_SEA</zType>
@@ -1013,6 +1089,7 @@
 		<zh-CN>沿海</zh-CN>
 		<pt-BR>Litoral</pt-BR>
 		<ko>해안</ko>
+		<fixja>沿岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_SEA_HELP</zType>
@@ -1026,6 +1103,7 @@
 		<zh-CN>从临海地带开始</zh-CN>
 		<pt-BR>Comece perto da água salgada</pt-BR>
 		<ko>바다 가까이에서 시작합니다.</ko>
+		<fixja>海水に隣接して開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_INLAND</zType>
@@ -1039,6 +1117,7 @@
 		<zh-CN>内陆</zh-CN>
 		<pt-BR>Interior</pt-BR>
 		<ko>내륙</ko>
+		<fixja>内陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_INLAND_HELP</zType>
@@ -1052,6 +1131,7 @@
 		<zh-CN>从远离海岸处开始</zh-CN>
 		<pt-BR>Comece longe do litoral</pt-BR>
 		<ko>바다와 먼 곳에서 시작합니다.</ko>
+		<fixja>海から離れて開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_FOREST</zType>
@@ -1065,6 +1145,7 @@
 		<zh-CN>森林</zh-CN>
 		<pt-BR>Floresta</pt-BR>
 		<ko>숲</ko>
+		<fixja>森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_FOREST_HELP</zType>
@@ -1078,6 +1159,7 @@
 		<zh-CN>部落拥有大片森林。国家从平原开始。</zh-CN>
 		<pt-BR>Tribos dominam a grande floresta, nações começam nas planícies</pt-BR>
 		<ko>부족이 거대한 숲을 차지합니다. 국가는 평야에 생성됩니다.</ko>
+		<fixja>部族が大きな森を所有。国家は平原から開始。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_PLAINS</zType>
@@ -1091,6 +1173,7 @@
 		<zh-CN>平原</zh-CN>
 		<pt-BR>Planícies</pt-BR>
 		<ko>평야</ko>
+		<fixja>平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_PLAINS_HELP</zType>
@@ -1104,6 +1187,7 @@
 		<zh-CN>部落占据开阔的平原。国家从森林开始。</zh-CN>
 		<pt-BR>Tribos ocupam as planícies abertas, nações começam na floresta</pt-BR>
 		<ko>부족이 평야를 차지합니다. 국가는 숲에 생성됩니다.</ko>
+		<fixja>部族が広い平原を占拠。国家は森から開始。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_SCATTERED</zType>
@@ -1117,6 +1201,7 @@
 		<zh-CN>零星散布</zh-CN>
 		<pt-BR>Dispersas</pt-BR>
 		<ko>흩어짐</ko>
+		<fixja>点在</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_SCATTERED_HELP</zType>
@@ -1130,6 +1215,7 @@
 		<zh-CN>国家和部落可从任一地点开始</zh-CN>
 		<pt-BR>Nações e tribos podem começar em qualquer lugar</pt-BR>
 		<ko>국가와 부족은 어디서든 생성될 수 있습니다.</ko>
+		<fixja>国家と部族は任意の場所から開始可能。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT</zType>
@@ -1143,6 +1229,7 @@
 		<zh-CN>在大陆上</zh-CN>
 		<pt-BR>No Continente</pt-BR>
 		<ko>대륙</ko>
+		<fixja>大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT_HELP</zType>
@@ -1156,6 +1243,7 @@
 		<zh-CN>从大陆开始，若选择多个国家，有些可能须从北方开始。</zh-CN>
 		<pt-BR>Comece no continente principal; se um houver um grande número de nações, é possível que algumas comecem no norte</pt-BR>
 		<ko>주요 대륙에서 시작합니다. 국가 개수를 늘리면 일부 국가가 북부에 생성될 수 있습니다.</ko>
+		<fixja>主要な大陸から開始。多数の国を選択するには、北部から開始する必要がある場合があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS</zType>
@@ -1169,6 +1257,7 @@
 		<zh-CN>岛屿和半岛</zh-CN>
 		<pt-BR>Ilhas e Penínsulas</pt-BR>
 		<ko>섬과 반도</ko>
+		<fixja>島と半島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS_HELP</zType>
@@ -1182,6 +1271,7 @@
 		<zh-CN>从北方的某座岛屿或半岛开始。若选择多个国家，有些可能须从大陆开始。</zh-CN>
 		<pt-BR>Comece no norte, em uma ilha ou península; se um houver um grande número de nações, é possível que algumas comecem no continente</pt-BR>
 		<ko>북부의 섬이나 반도에서 시작합니다. 국가 개수를 늘리면 일부 국가가 반도에 생성될 수 있습니다.</ko>
+		<fixja>北部の島または半島から開始。多数の国を選択するには、大陸から開始する必要がある場合があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE</zType>
@@ -1195,6 +1285,7 @@
 		<zh-CN>原有的</zh-CN>
 		<pt-BR>Nativo</pt-BR>
 		<ko>고유</ko>
+		<fixja>原住民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE_HELP</zType>
@@ -1208,6 +1299,7 @@
 		<zh-CN>使用北海原有的部落故土</zh-CN>
 		<pt-BR>Use as terras nativas das tribos do oceano norte</pt-BR>
 		<ko>북부 해양의 부족 고유 토지를 사용합니다.</ko>
+		<fixja>北洋を故郷とする部族の本土を利用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM</zType>
@@ -1221,6 +1313,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM_HELP</zType>
@@ -1234,6 +1327,7 @@
 		<zh-CN>部落随机分布</zh-CN>
 		<pt-BR>Distribui as tribos aleatoriamente</pt-BR>
 		<ko>부족을 무작위로 분포시킵니다.</ko>
+		<fixja>部族をランダムに配置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_SEA</zType>
@@ -1247,6 +1341,7 @@
 		<zh-CN>沿海</zh-CN>
 		<pt-BR>Litoral</pt-BR>
 		<ko>해안</ko>
+		<fixja>沿岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_SEA_HELP</zType>
@@ -1260,6 +1355,7 @@
 		<zh-CN>从临海地带开始</zh-CN>
 		<pt-BR>Comece perto da água salgada</pt-BR>
 		<ko>바다 가까이에서 시작합니다.</ko>
+		<fixja>海水に隣接して開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_INLAND</zType>
@@ -1273,6 +1369,7 @@
 		<zh-CN>内陆</zh-CN>
 		<pt-BR>Interior</pt-BR>
 		<ko>내륙</ko>
+		<fixja>内陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_INLAND_HELP</zType>
@@ -1286,6 +1383,7 @@
 		<zh-CN>从远离海岸处开始</zh-CN>
 		<pt-BR>Comece longe do litoral</pt-BR>
 		<ko>해안가가 아닌 곳에서 시작합니다.</ko>
+		<fixja>沿岸から離れて開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_RANDOM</zType>
@@ -1299,6 +1397,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_RANDOM_HELP</zType>
@@ -1312,6 +1411,7 @@
 		<zh-CN>数量和分布不同</zh-CN>
 		<pt-BR>Variam em número e distribuição</pt-BR>
 		<ko>수와 분포가 무작위로 결정됩니다.</ko>
+		<fixja>数と分布が多様に変化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_SCATTERED</zType>
@@ -1325,6 +1425,7 @@
 		<zh-CN>五个部落</zh-CN>
 		<pt-BR>Cinco Tribos</pt-BR>
 		<ko>다섯 부족</ko>
+		<fixja>5つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_SCATTERED_HELP</zType>
@@ -1338,6 +1439,7 @@
 		<zh-CN>部落将以零星散布方式分布</zh-CN>
 		<pt-BR>As tribos estarão dispersas</pt-BR>
 		<ko>부족이 흩어져 배치됩니다.</ko>
+		<fixja>部族の配置が分散される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_QUADRANTS</zType>
@@ -1351,6 +1453,7 @@
 		<zh-CN>四个部落</zh-CN>
 		<pt-BR>Quatro Tribos</pt-BR>
 		<ko>네 부족</ko>
+		<fixja>4つの部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_QUADRANTS_HELP</zType>
@@ -1364,6 +1467,7 @@
 		<zh-CN>部落将分布在四个象限</zh-CN>
 		<pt-BR>As tribos serão posicionadas nos quadrantes</pt-BR>
 		<ko>부족이 사분면을 따라 배치됩니다.</ko>
+		<fixja>部族は4分割で配置される</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_INLAND</zType>
@@ -1377,6 +1481,7 @@
 		<zh-CN>仅限内陆</zh-CN>
 		<pt-BR>Apenas Central</pt-BR>
 		<ko>내륙만</ko>
+		<fixja>内陸のみ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_INLAND_HELP</zType>
@@ -1390,6 +1495,7 @@
 		<zh-CN>两个部落参与，所有营地皆远离大海</zh-CN>
 		<pt-BR>Duas tribos na partida, com todos os campos longe do oceano</pt-BR>
 		<ko>두 개의 부족이 바다와 떨어진 곳에서 생성됩니다.</ko>
+		<fixja>2つの部族が存在し、すべての野営地が海から離れている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_COASTAL</zType>
@@ -1403,6 +1509,7 @@
 		<zh-CN>仅限沿海</zh-CN>
 		<pt-BR>Apenas Litoral</pt-BR>
 		<ko>해안만</ko>
+		<fixja>沿岸のみ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_COASTAL_HELP</zType>
@@ -1416,6 +1523,7 @@
 		<zh-CN>两个部落参与，所有营地皆靠近大海</zh-CN>
 		<pt-BR>Duas tribos de cavaleiros na partida, com todos os campos perto do litoral</pt-BR>
 		<ko>두 개의 부족이 해안 근처에서 생성됩니다.</ko>
+		<fixja>2つの部族が存在し、すべての野営地が沿岸付近にある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_EITHER</zType>
@@ -1429,6 +1537,7 @@
 		<zh-CN>任一</zh-CN>
 		<pt-BR>Tanto Faz</pt-BR>
 		<ko>임의</ko>
+		<fixja>どちらか一方</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_EITHER_HELP</zType>
@@ -1442,6 +1551,7 @@
 		<zh-CN>极端地形可能是苔原或沙漠任一</zh-CN>
 		<pt-BR>Terreno extremo que pode ser tanto tundra como deserto</pt-BR>
 		<ko>극한 지형은 동토대가 될 수도 있고 사막이 될 수도 있습니다.</ko>
+		<fixja>極限地は、凍土帯か砂漠のどちらかになる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_NONE_HELP</zType>
@@ -1455,6 +1565,7 @@
 		<zh-CN>没有苔原，也没有大沙漠</zh-CN>
 		<pt-BR>Sem tundra ou grande deserto</pt-BR>
 		<ko>동토대나 주요한 사막 없음</ko>
+		<fixja>ツンドラ、大規模な砂漠なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_TUNDRA</zType>
@@ -1468,6 +1579,7 @@
 		<zh-CN>苔原</zh-CN>
 		<pt-BR>Tundra</pt-BR>
 		<ko>동토대</ko>
+		<fixja>凍土帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_TUNDRA_HELP</zType>
@@ -1481,6 +1593,7 @@
 		<zh-CN>地图上的极端地形将是苔原</zh-CN>
 		<pt-BR>O terreno extremo do mapa será tundra</pt-BR>
 		<ko>극한 지형은 동토대로 설정됩니다.</ko>
+		<fixja>マップ上の極限地が凍土帯になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_DESERT</zType>
@@ -1494,6 +1607,7 @@
 		<zh-CN>沙漠</zh-CN>
 		<pt-BR>Deserto</pt-BR>
 		<ko>사막</ko>
+		<fixja>砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_DESERT_HELP</zType>
@@ -1507,6 +1621,7 @@
 		<zh-CN>地图上的极端地形将是沙漠</zh-CN>
 		<pt-BR>O terreno extremo do mapa será deserto</pt-BR>
 		<ko>극한 지형은 사막으로 설정됩니다.</ko>
+		<fixja>マップ上の極限地が砂漠になる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU</zType>
@@ -1520,6 +1635,7 @@
 		<zh-CN>高原</zh-CN>
 		<pt-BR>O Planalto</pt-BR>
 		<ko>고원</ko>
+		<fixja>高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU_HELP</zType>
@@ -1533,6 +1649,7 @@
 		<zh-CN>从南方的大高原开始</zh-CN>
 		<pt-BR>Comece no sul sobre um grande planalto</pt-BR>
 		<ko>큰 고원의 남쪽에서 시작합니다.</ko>
+		<fixja>広大な高原の南部から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND</zType>
@@ -1546,6 +1663,7 @@
 		<zh-CN>中土</zh-CN>
 		<pt-BR>Terra Média</pt-BR>
 		<ko>중부</ko>
+		<fixja>中部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND_HELP</zType>
@@ -1559,6 +1677,7 @@
 		<zh-CN>从中纬度开始</zh-CN>
 		<pt-BR>Comece em latitudes médias</pt-BR>
 		<ko>중위도에서 시작합니다.</ko>
+		<fixja>中緯度から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN</zType>
@@ -1572,6 +1691,7 @@
 		<zh-CN>近海</zh-CN>
 		<pt-BR>Perto do Oceano</pt-BR>
 		<ko>바다 근처</ko>
+		<fixja>海の近く</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN_HELP</zType>
@@ -1585,6 +1705,7 @@
 		<zh-CN>从北方近海处开始</zh-CN>
 		<pt-BR>Comece no norte, perto do oceano</pt-BR>
 		<ko>북쪽 바다 근처에서 시작합니다.</ko>
+		<fixja>北側の海の近くから開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_ARCHIPELAGO</zType>
@@ -1598,6 +1719,7 @@
 		<zh-CN>群岛</zh-CN>
 		<pt-BR>Arquipélago</pt-BR>
 		<ko>다도해</ko>
+		<fixja>多島海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_ARCHIPELAGO</zType>
@@ -1611,6 +1733,7 @@
 		<zh-CN>一长条有许多岛屿的水域</zh-CN>
 		<pt-BR>Uma grande área de água com muitas ilhas</pt-BR>
 		<ko>넓고 섬이 많은 수역에서 시작합니다.</ko>
+		<fixja>多くの島々を含む広大な水域。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_ARID_PLATEAU</zType>
@@ -1624,6 +1747,7 @@
 		<zh-CN>干旱高原</zh-CN>
 		<pt-BR>Planalto Árido</pt-BR>
 		<ko>건조 고원</ko>
+		<fixja>乾燥した高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_ARID_PLATEAU</zType>
@@ -1637,6 +1761,7 @@
 		<zh-CN>一个深处内陆的地区，位于山脉之后，降雨量极少。 {br}{br}可以在多玩家的游戏中，平均支持两个队伍。</zh-CN>
 		<pt-BR>Uma região muito interior atrás de uma cadeia de montanhas onde chove pouco.{br}{br}Equilibrada para divisão entre duas equipes em partidas multijogador.</pt-BR>
 		<ko>산맥 뒤에 있는 깊은 내륙 지방에서 시작합니다. 비가 거의 내리지 않습니다.{br}{br}멀티 플레이 게임에서 두 팀이 사용할 수 있도록 조정되었습니다.</ko>
+		<fixja>雨がほとんど降らない、山脈の背後にある内陸奥深くの地域。{br}{br}マルチプレイヤーゲームで、2つのチームに対応できるように調整されています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_BAY</zType>
@@ -1650,6 +1775,7 @@
 		<zh-CN>海湾</zh-CN>
 		<pt-BR>Baía</pt-BR>
 		<ko>만</ko>
+		<fixja>湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_BAY</zType>
@@ -1663,6 +1789,7 @@
 		<zh-CN>温带海岸地图，中间有大片浅海。</zh-CN>
 		<pt-BR>Um mapa litorâneo temperado, com uma grande área de mar raso no meio</pt-BR>
 		<ko>가운데에 크고 얕은 바다가 있는 온난한 해안 맵입니다.</ko>
+		<fixja>温帯沿岸マップで、中央に広い浅瀬があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_COASTAL_RAIN_BASIN</zType>
@@ -1676,6 +1803,7 @@
 		<zh-CN>沿海多雨盆地</zh-CN>
 		<pt-BR>Bacia Pluvial Costeira</pt-BR>
 		<ko>다우 해안 분지</ko>
+		<fixja>沿岸多雨地帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_COASTAL_RAIN_BASIN</zType>
@@ -1689,6 +1817,7 @@
 		<zh-CN>一个被山区包围的沿海地区，有丰富的雨水，因此在山脚下产生了富饶的地带。 {br}{br}可以在多玩家的游戏中，平均支持两个队伍。</zh-CN>
 		<pt-BR>Uma região litorânea cercada por uma cadeia montanhosa atingida pela água da chuva, que cria uma faixa de terra fértil perto das montanhas.{br}{br}Equilibrada para divisão entre duas equipes em partidas multijogador.</pt-BR>
 		<ko>산맥을 두른 해안 지방입니다. 비가 많이 내리는 산맥 근처에 비옥한 토지가 형성되어 있습니다.{br}{br}멀티 플레이 게임에서 두 팀이 사용할 수 있도록 조정되었습니다.</ko>
+		<fixja>山脈に囲まれた沿岸地域。雨が降り、山の近くに肥沃な地帯を作る。{br}{br}マルチプレイヤーゲームで、2つのチームに対応できるように調整されています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_CONTINENT</zType>
@@ -1702,6 +1831,7 @@
 		<zh-CN>大陆</zh-CN>
 		<pt-BR>Continente</pt-BR>
 		<ko>대륙</ko>
+		<fixja>大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_CONTINENT</zType>
@@ -1715,6 +1845,7 @@
 		<zh-CN>一块小型大陆，在地图范围内可环绕航行。</zh-CN>
 		<pt-BR>Um continente pequeno, será sempre possível circum-navegar dentro dos limites do mapa.</pt-BR>
 		<ko>작은 대륙으로 맵 경계 내에서 대륙을 일주할 수 있습니다.</ko>
+		<fixja>小さな大陸。マップの境界内で周航できることが保証されている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_MULTIPLE_CONTINENTS</zType>
@@ -1728,6 +1859,7 @@
 		<zh-CN>多个大陆</zh-CN>
 		<pt-BR>Continentes Múltiplos</pt-BR>
 		<ko>여러 대륙</ko>
+		<fixja>複数の大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_MULTIPLE_CONTINENTS</zType>
@@ -1741,6 +1873,7 @@
 		<zh-CN>二或三个大陆</zh-CN>
 		<pt-BR>Dois ou três continentes.</pt-BR>
 		<ko>두개, 또는 세개 이상 대륙</ko>
+		<fixja>2つ、または3つの大陸。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_DISJUNCTION</zType>
@@ -1754,6 +1887,7 @@
 		<zh-CN>互不接壤</zh-CN>
 		<pt-BR>Disjunção</pt-BR>
 		<ko>분리</ko>
+		<fixja>分離</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_DISJUNCTION</zType>
@@ -1767,6 +1901,7 @@
 		<zh-CN>一连串的河道从中心呈放射状散开，将一块土地分割成数个区域。 {br}{br}可以在多玩家的游戏中，支持各个队伍或先抢先赢。</zh-CN>
 		<pt-BR>Uma série de canais se estendem radialmente a partir do centro do mapa e o dividem em regiões separadas.{br}{br}Equilibrado para divisão entre equipes ou todos contra todos em partidas multijogador.</pt-BR>
 		<ko>중심으로부터 방사형으로 뻗어 나가는 수로들이 맵을 분리합니다.{br}{br}멀티 플레이 게임에서 팀전이나 데스 매치 용으로 사용할 수 있도록 조정되었습니다.</ko>
+		<fixja>一連の水路が中央から放射状に伸びていて、地図上の土地を別々の地域に分割する。{br}{br}マルチプレイヤーゲームで、チームまたはフリーフォーオールのいずれかに対応できるように調整されています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_HARDWOOD_FOREST</zType>
@@ -1780,6 +1915,7 @@
 		<zh-CN>硬木森林</zh-CN>
 		<pt-BR>Floresta de Madeira de Lei</pt-BR>
 		<ko>활엽수림</ko>
+		<fixja>広葉樹林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_HARDWOOD_FOREST</zType>
@@ -1793,6 +1929,7 @@
 		<zh-CN>这块土地的北方被蓊郁的硬木森林所覆盖。在这片森林以南，则是一个肥沃的地形带。雨水来自西边，但南北都有海域。</zh-CN>
 		<pt-BR>A metade norte da terra é coberta com uma densa floresta de madeira de lei. Ao sul das árvores há uma faixa de terra fértil. A chuva vem a partir do oeste, mas também há mares ao norte e ao sul.</pt-BR>
 		<ko>맵의 북쪽 절반이 빽빽한 활엽수로 뒤덮인 지형입니다. 남쪽에는 초원 지대가 펼쳐 있습니다. 비는 서쪽에서 오지만 북쪽과 남쪽에도 바다가 있습니다.</ko>
+		<fixja>北半分が密な広葉樹林で覆われている土地。生い茂る木々の南側には、緑豊かな地帯が広がっている。雨は西からやって来るが、南北にも海がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_INLAND_SEA</zType>
@@ -1806,6 +1943,7 @@
 		<zh-CN>内海</zh-CN>
 		<pt-BR>Mar Interior</pt-BR>
 		<ko>내해</ko>
+		<fixja>内海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_INLAND_SEA</zType>
@@ -1819,6 +1957,7 @@
 		<zh-CN>被土地包围的单一或数个海域。 {br}{br}在多玩家的游戏中可支持先抢先赢。</zh-CN>
 		<pt-BR>Há terra cercando completamente um mar ou grupo de mares.{br}{br}Equilibrado para o modo todos contra todos em partidas multijogador.</pt-BR>
 		<ko>바다 하나나 여러 개의 바다를 땅이 둘러싼 지형입니다.{br}{br}멀티 플레이 게임에서 데스 매치 용으로 사용할 수 있도록 조정되었습니다.</ko>
+		<fixja>海や海の群を完全に取り囲む土地。{br}{br}マルチプレイヤーゲームで、フリーフォーオールに対応できるように調整されています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_NORTHERN_OCEAN</zType>
@@ -1832,6 +1971,7 @@
 		<zh-CN>北海</zh-CN>
 		<pt-BR>Oceano Norte</pt-BR>
 		<ko>북해</ko>
+		<fixja>北洋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_NORTHERN_OCEAN</zType>
@@ -1845,6 +1985,7 @@
 		<zh-CN>一个寒冷的海域，包含数个岛屿，有大有小，南方则是和一块大陆接壤。大陆上的资源已耗尽 (每个城市的资源皆较少)。 {br}{br}单一玩家游戏可使用冒险地图，有较大的区域可以弥补较少比例的可居住图块。</zh-CN>
 		<pt-BR>Uma região oceânica gelada que contém numerosas ilhas, tanto grandes como pequenas, fronteiriças a um continente sul. Os recursos do continente estão esgotados (menos recursos por cidade).{br}{br}Um mapa de aventuras planejado para partidas solo, com dimensões maiores para compensar a porcentagem baixa de casas habitáveis.</pt-BR>
 		<ko>추운 북부 해양 지방입니다. 크고 작은 섬이 많이 분포해 있으며 남쪽으로는 대륙과 연결되어 있습니다. 대륙에는 자원이 적게 배치되어 있습니다(도시당 자원이 더 적음).{br}{br}싱글 플레이 용으로 설계된 모험 맵입니다. 정착 가능한 타일이 적은 만큼 더욱 큰 공간이 주어집니다.</ko>
+		<fixja>南方の大陸に隣接する、大小さまざまな島々を含む寒冷な海洋地域。大陸にある資源は枯渇している（都市あたりの資源が少ない）。{br}{br}居住可能なタイルの割合が少ない分、寸法を大きくした、シングルプレイヤーゲーム向けのアドベンチャーマップです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_SEASIDE</zType>
@@ -1858,6 +1999,7 @@
 		<zh-CN>海滨</zh-CN>
 		<pt-BR>Costeiro</pt-BR>
 		<ko>해변</ko>
+		<fixja>海辺</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_SEASIDE</zType>
@@ -1871,6 +2013,7 @@
 		<zh-CN>一个拥有大片海域、或大小海湾，或以海域或海湾为界的区域，有延绵不绝的海岸线。{br}{br}灵感来自于中东，但普遍而言，气候较为温和。</zh-CN>
 		<pt-BR>Uma região que faz fronteira ou contém grandes mares, golfos ou baías, oferecendo assim uma quantidade substancial de terra costeira.{br}{br}Inspirado pelo Oriente Médio, mas com um clima mais ameno.</pt-BR>
 		<ko>바다와 접하거나 대양이나 크고 작은 만을 낀 지형입니다. 해안 타일이 다수 생성됩니다.{br}{br}중동 지역을 참고했으나 기후는 더 온난합니다.</ko>
+		<fixja>大きな海、湾、または入り江に隣接する、または、それらを含む地域。かなり多くの海岸線を持つ。{br}{br}中東をイメージしたマップタイプですが、気候は概して温暖です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM</zType>
@@ -1884,6 +2027,7 @@
 		<zh-CN>加权随机</zh-CN>
 		<pt-BR>Aleatório Equilibrado</pt-BR>
 		<ko>가중 무작위</ko>
+		<fixja>加重ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM_HELP</zType>
@@ -1897,6 +2041,7 @@
 		<zh-CN>八种大陆的生成方式都有同等机会被使用</zh-CN>
 		<pt-BR>Cada um dos oito métodos de geração de continente tem uma chance igual de ser usado</pt-BR>
 		<ko>여덟 가지 대륙 생성 방법 중 하나가 같은 확률로 선택됩니다.</ko>
+		<fixja>8つの大陸の生成法は、それぞれ等しい確率で用いられる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN</zType>
@@ -1910,6 +2055,7 @@
 		<zh-CN>两块平均分割的大陆</zh-CN>
 		<pt-BR>Dois Continentes, Divididos Igualmente</pt-BR>
 		<ko>균등하게 분할된 두 대륙</ko>
+		<fixja>2つの大陸を均等に分割</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN_HELP</zType>
@@ -1923,6 +2069,7 @@
 		<zh-CN>两块大小几乎一样的大陆</zh-CN>
 		<pt-BR>Dois continentes de tamanho quase igual</pt-BR>
 		<ko>거의 크기가 같은 두 대륙입니다.</ko>
+		<fixja>ほぼ同じ大きさの2つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN</zType>
@@ -1936,6 +2083,7 @@
 		<zh-CN>三块平均分割的大陆</zh-CN>
 		<pt-BR>Três Continentes, Divididos Igualmente</pt-BR>
 		<ko>균등하게 분할된 세 대륙</ko>
+		<fixja>3つの大陸を均等に分割</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN_HELP</zType>
@@ -1949,6 +2097,7 @@
 		<zh-CN>三块大小几乎一样的大陆</zh-CN>
 		<pt-BR>Três continentes de tamanho quase igual</pt-BR>
 		<ko>거의 크기가 같은 세 대륙입니다.</ko>
+		<fixja>ほぼ同じ大きさの3つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN</zType>
@@ -1962,6 +2111,7 @@
 		<zh-CN>三块平均不分的大陆</zh-CN>
 		<pt-BR>Três Continentes, Divididos Desigualmente</pt-BR>
 		<ko>불균등하게 분할된 세 대륙</ko>
+		<fixja>3つの大陸を不均等に分割</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN_HELP</zType>
@@ -1975,6 +2125,7 @@
 		<zh-CN>三块大小不同的大陆</zh-CN>
 		<pt-BR>Três continentes de tamanhos diferentes</pt-BR>
 		<ko>불균등한 크기의 세 대륙입니다.</ko>
+		<fixja>不均等な大きさの3つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TEAMS</zType>
@@ -1988,6 +2139,7 @@
 		<zh-CN>每队一块大陆</zh-CN>
 		<pt-BR>Um Continente por Equipe</pt-BR>
 		<ko>팀당 대륙 하나</ko>
+		<fixja>1チームにつき1大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TEAMS_HELP</zType>
@@ -2001,6 +2153,7 @@
 		<zh-CN>每队一块大陆，大陆的大小与团队成员的数量等比</zh-CN>
 		<pt-BR>Um continente por equipe, o tamanho será proporcional ao número de participantes por equipe</pt-BR>
 		<ko>한 팀당 대륙 하나를 차지합니다. 대륙의 크기는 팀 구성원 수에 비례합니다.</ko>
+		<fixja>1チームにつき1大陸、サイズはチームメンバー数に比例する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_DONUT</zType>
@@ -2014,6 +2167,7 @@
 		<zh-CN>多纳特</zh-CN>
 		<pt-BR>Rosquinha</pt-BR>
 		<ko>도넛</ko>
+		<fixja>ドーナツ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_DONUT</zType>
@@ -2027,6 +2181,7 @@
 		<zh-CN>一块面积与澳大利亚相当的大陆，包含一片内海。在地图界内可环绕航行。</zh-CN>
 		<pt-BR>Um continente pequeno, assim como a Austrália, que contém um mar interno. Será sempre possível circum-navegar dentro dos limites do mapa.</pt-BR>
 		<ko>내해가 있는 오스트레일리아 크기의 작은 대륙입니다. 맵 경계 내에서 대륙을 일주할 수 있습니다.</ko>
+		<fixja>オーストラリアほどの大きさの小さな大陸。内海を持つ。地図上の領内で周回可能。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_INNER_SEA</zType>
@@ -2040,6 +2195,7 @@
 		<zh-CN>内海</zh-CN>
 		<pt-BR>Mar Interno</pt-BR>
 		<ko>내해</ko>
+		<fixja>内海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_INNER_SEA_HELP</zType>
@@ -2053,6 +2209,7 @@
 		<zh-CN>从内海的一个沿海地点开始</zh-CN>
 		<pt-BR>Comece em uma área costeira do mar interno</pt-BR>
 		<ko>내해의 해안가에서 시작합니다.</ko>
+		<fixja>内海の沿岸部からゲームを始めます</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_OUTER_SEA</zType>
@@ -2066,6 +2223,7 @@
 		<zh-CN>外海</zh-CN>
 		<pt-BR>Mar Exterior</pt-BR>
 		<ko>외해</ko>
+		<fixja>外海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_OUTER_SEA_HELP</zType>
@@ -2079,6 +2237,7 @@
 		<zh-CN>从外海的一个沿海地点开始</zh-CN>
 		<pt-BR>Comece em uma área costeira do mar exterior</pt-BR>
 		<ko>외해의 해안가에서 시작합니다.</ko>
+		<fixja>外海の沿岸部からゲームを始めます</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_LOW</zType>
@@ -2092,6 +2251,7 @@
 		<zh-CN>低</zh-CN>
 		<pt-BR>Baixa</pt-BR>
 		<ko>낮음</ko>
+		<fixja>低</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_LOW_HELP</zType>
@@ -2105,6 +2265,7 @@
 		<zh-CN>这块大陆海岸线平整，特别适合多人游戏</zh-CN>
 		<pt-BR>É menos provável que a massa de terra tenha uma costa irregular; especialmente adequado para o modo multijogador</pt-BR>
 		<ko>땅에 불균등한 해안이 나타날 확률이 줄어듭니다. 멀티 플레이 게임에서 설정하기에 좋습니다.</ko>
+		<fixja>陸地にでこぼこの海岸がある可能性が低く、特にマルチプレイヤーに適しています</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_MEDIUM</zType>
@@ -2118,6 +2279,7 @@
 		<zh-CN>中</zh-CN>
 		<pt-BR>Média</pt-BR>
 		<ko>보통</ko>
+		<fixja>中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_MEDIUM_HELP</zType>
@@ -2131,6 +2293,7 @@
 		<zh-CN>这块大陆海岸地形普通，有一些不规则地形，土地面积较大</zh-CN>
 		<pt-BR>A massa de terra tem uma costa mediana, com algumas irregularidades e áreas maiores de terra</pt-BR>
 		<ko>평균적으로 해안이 분포됩니다. 약간 불균일하며 땅의 크기가 더 큽니다.</ko>
+		<fixja>平均的な海岸と一部不規則な地形があり、土地面積は大きい</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_HIGH</zType>
@@ -2144,6 +2307,7 @@
 		<zh-CN>高</zh-CN>
 		<pt-BR>Alta</pt-BR>
 		<ko>높음</ko>
+		<fixja>高</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_HIGH_HELP</zType>
@@ -2157,6 +2321,7 @@
 		<zh-CN>这块大陆地形非常随机，有许多不规则和不均匀的土地</zh-CN>
 		<pt-BR>A massa de terra é bastante aleatória, com diversas irregularidades e porções desiguais de terra</pt-BR>
 		<ko>무작위로 땅이 생성됩니다. 균일하지 않은 요소가 많으며 땅의 크기도 다릅니다.</ko>
+		<fixja>土地は非常にランダム性に富み、土地には不規則な点が多く、面積は不均等です</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_DONUT_IRREGULARITY</zType>
@@ -2170,6 +2335,7 @@
 		<zh-CN>不规则</zh-CN>
 		<pt-BR>Irregularidade</pt-BR>
 		<ko>불규칙</ko>
+		<fixja>不規則性</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY</zType>
@@ -2183,6 +2349,7 @@
 		<zh-CN>城市据点密度</zh-CN>
 		<pt-BR>Densidade do assentamento de cidade</pt-BR>
 		<ko>도시 부지 밀도</ko>
+		<fixja>街の敷地密度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH</zType>
@@ -2196,6 +2363,7 @@
 		<zh-CN>高</zh-CN>
 		<pt-BR>Alta</pt-BR>
 		<ko>높음</ko>
+		<fixja>高</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_MEDIUM</zType>
@@ -2209,6 +2377,7 @@
 		<zh-CN>中</zh-CN>
 		<pt-BR>Média</pt-BR>
 		<ko>보통</ko>
+		<fixja>中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW</zType>
@@ -2222,6 +2391,7 @@
 		<zh-CN>低</zh-CN>
 		<pt-BR>Baixa</pt-BR>
 		<ko>낮음</ko>
+		<fixja>低</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH_HELP</zType>
@@ -2235,6 +2405,7 @@
 		<zh-CN>城市据点之间距离较近</zh-CN>
 		<pt-BR>Os assentamentos de cidade são próximos</pt-BR>
 		<ko>도시 부지들이 가깝게 배치됩니다.</ko>
+		<fixja>市街地が至近距離にある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_MEDIUM_HELP</zType>
@@ -2248,6 +2419,7 @@
 		<zh-CN>城市据点之间距离较远</zh-CN>
 		<pt-BR>Os assentamentos de cidade são um pouco distantes</pt-BR>
 		<ko>도시 부지들이 떨어져서 배치됩니다.</ko>
+		<fixja>市街地は離れている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW_HELP</zType>
@@ -2261,6 +2433,7 @@
 		<zh-CN>城市据点之间距离非常远</zh-CN>
 		<pt-BR>Os assentamentos de cidade são muito distantes</pt-BR>
 		<ko>도시 부지들이 아주 멀리 떨어져서 배치됩니다.</ko>
+		<fixja>市街地は互いに非常に離れている</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER</zType>
@@ -2274,6 +2447,7 @@
 		<zh-CN>城市据点数</zh-CN>
 		<pt-BR>Quantidade de assentamentos de cidade</pt-BR>
 		<ko>도시 부지 수</ko>
+		<fixja>市街地の番号</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH</zType>
@@ -2287,6 +2461,7 @@
 		<zh-CN>无限制</zh-CN>
 		<pt-BR>Ilimitados</pt-BR>
 		<ko>제한 없음</ko>
+		<fixja>制限なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM</zType>
@@ -2300,6 +2475,7 @@
 		<zh-CN>受限制</zh-CN>
 		<pt-BR>Limitados</pt-BR>
 		<ko>제한됨</ko>
+		<fixja>制限あり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW</zType>
@@ -2313,6 +2489,7 @@
 		<zh-CN>家族席位</zh-CN>
 		<pt-BR>Sedes familiares</pt-BR>
 		<ko>가문 영지</ko>
+		<fixja>居城</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE</zType>
@@ -2326,6 +2503,7 @@
 		<zh-CN>首都</zh-CN>
 		<pt-BR>Capitais</pt-BR>
 		<ko>수도</ko>
+		<fixja>首都</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH_HELP</zType>
@@ -2339,6 +2517,7 @@
 		<zh-CN>已选定的密度和地图尺寸影响下的城市据点最大数量。</zh-CN>
 		<pt-BR>Quantidade máxima de assentamentos de cidade para a densidade selecionada e o tamanho do mapa.</pt-BR>
 		<ko>선택한 도시 부지 밀도와 맵 크기에 배치될 수 있는 최대 개수만큼 도지 부지를 생성합니다.</ko>
+		<fixja>選択密度とマップサイズにおける都市拠点の最大数。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM_HELP</zType>
@@ -2362,6 +2541,8 @@ Les camps tribaux apparaissent encore dans les endroits qui auraient pu être de
 Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assentamentos de cidade, mas não poderão ser colonizados por nações.</pt-BR>
 		<ko>맵 크기와 상관없이 플레이어 수에 따라 도시 부지 개수가 고정됩니다. 플레이어가 찾을 수 있는 도시의 개수에는 제한이 없습니다.
 도시 부지가 생성되었어야 할 타일에 부족 정착지가 생성되기도 합니다. 이곳은 어떤 국가도 정착할 수 없습니다.</ko>
+		<fixja>都市拠点の総数はプレイヤーの数に、マップサイズに基づいた数を掛けたものとなる。各プレイヤーが設立できる都市の数は制限はない。
+部族の集落は本来、都市拠点であったであろう場所に残っているが、国がそこに入植することはできない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW_HELP</zType>
@@ -2385,6 +2566,8 @@ Les camps tribaux apparaissent encore dans les endroits qui auraient pu être de
 Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assentamentos de cidade, mas não poderão ser colonizados por nações.</pt-BR>
 		<ko>플레이어 가문당 도시 부지가 1개로 고정됩니다. 플레이어가 찾을 수 있는 도시의 개수에는 제한이 없습니다.
 도시 부지가 생성되었어야 할 타일에 부족 정착지가 생성되기도 합니다. 이곳은 어떤 국가도 정착할 수 없습니다.</ko>
+		<fixja>都市拠点の総数は全プレイヤーが持つ氏族の総数と同じになる。各プレイヤーが設立できる都市の数は制限はない。
+部族の集落は本来、都市拠点であったであろう場所に残っているが、国がそこに入植することはできない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE_HELP</zType>
@@ -2408,6 +2591,8 @@ Les camps tribaux apparaissent encore dans les endroits qui auraient pu être de
 Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assentamentos de cidade, mas não poderão ser colonizados por nações.</pt-BR>
 		<ko>플레이어당 부지 하나로 제한합니다.
 도시 부지가 될 수 있었던 자리에 부족 정착지가 생성됩니다. 이곳은 어떤 국가도 정착할 수 없습니다.</ko>
+		<fixja>プレーヤー1人につき、1拠点に限る。
+部族の集落は本来、都市拠点であったであろう場所に残っているが、国がそこに入植することはできない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_MIRROR_HELP</zType>
@@ -2421,6 +2606,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>东西对称地图。需要两个队伍。</zh-CN>
 		<pt-BR>Mapa simétrico Leste-Oeste. Necessita de duas equipes.</pt-BR>
 		<ko>동쪽과 서쪽이 대칭을 이루는 맵입니다. 팀 두 개가 필요합니다.</ko>
+		<fixja>東西対称のマップ。偶数のチームが必要。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_KING_OF_THE_HILL_HELP</zType>
@@ -2434,6 +2620,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>资源丰富的中心，而不是水道交错纵横的区域</zh-CN>
 		<pt-BR>Há um centro rico em recursos em vez de haver água na área de interseção de canais</pt-BR>
 		<ko>수로가 교차하는 지점에 물 대신 자원이 풍부한 중심지가 있습니다.</ko>
+		<fixja>水路交差点エリアの水域の代わりに、資源が豊富な中心地がある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_GOOD_PLAYER_START_RESOURCES_HELP</zType>
@@ -2447,6 +2634,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>所有的起始地点都可以取得重要的资源，如马匹或铁矿</zh-CN>
 		<pt-BR>Todos os locais iniciantes têm acesso a recursos importantes, como cavalos ou ferro</pt-BR>
 		<ko>모든 시작 지점에서 말이나 철 같은 중요 자원을 획득할 수 있습니다.</ko>
+		<fixja>すべてのスタート地点で、馬や鉄などの重要な資源を利用することができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL</zType>
@@ -2460,6 +2648,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>小</zh-CN>
 		<pt-BR>Pequeno</pt-BR>
 		<ko>소형</ko>
+		<fixja>小</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM</zType>
@@ -2473,6 +2662,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>中</zh-CN>
 		<pt-BR>Médio</pt-BR>
 		<ko>중형</ko>
+		<fixja>標準</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE</zType>
@@ -2486,6 +2676,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>大</zh-CN>
 		<pt-BR>Grande</pt-BR>
 		<ko>대형</ko>
+		<fixja>大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL_HELP</zType>
@@ -2499,6 +2690,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>小岛</zh-CN>
 		<pt-BR>Ilhas Pequenas</pt-BR>
 		<ko>작은 섬 크기입니다.</ko>
+		<fixja>小さな島々</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM_HELP</zType>
@@ -2512,6 +2704,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>水域占了近地图的一半</zh-CN>
 		<pt-BR>Quase metade do mapa é ocupada por água</pt-BR>
 		<ko>물이 맵의 절반 정도를 차지합니다.</ko>
+		<fixja>水域がマップの約半分を占める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE_HELP</zType>
@@ -2525,6 +2718,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>陆地占的区域比水域多</zh-CN>
 		<pt-BR>Há mais área ocupada por terra do que por água</pt-BR>
 		<ko>땅이 물보다 더 많은 영역을 차지합니다.</ko>
+		<fixja>土地が水域よりも広い面積を占める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_RANDOM</zType>
@@ -2538,6 +2732,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_TWO</zType>
@@ -2551,6 +2746,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>两块大陆</zh-CN>
 		<pt-BR>Dois Continentes</pt-BR>
 		<ko>두 대륙</ko>
+		<fixja>2つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_THREE</zType>
@@ -2564,6 +2760,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>三块大陆</zh-CN>
 		<pt-BR>Três Continentes</pt-BR>
 		<ko>세 대륙</ko>
+		<fixja>3つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_RANDOM_HELP</zType>
@@ -2577,6 +2774,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>二或三块大陆任一</zh-CN>
 		<pt-BR>Dois ou três continentes</pt-BR>
 		<ko>두 대륙이나 세 대륙</ko>
+		<fixja>2つの大陸、または3つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_TWO_HELP</zType>
@@ -2590,6 +2788,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>两块大陆，一在北，一在南</zh-CN>
 		<pt-BR>Dois continentes, um no norte e um no sul</pt-BR>
 		<ko>대륙 두 개가 북쪽에 하나, 남쪽에 하나 배치됩니다.</ko>
+		<fixja>北と南に1つずつある、2つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_THREE_HELP</zType>
@@ -2603,6 +2802,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>三块大陆，可能有两块大陆同时位于北或南</zh-CN>
 		<pt-BR>Três continentes, dois deles no sul ou no norte</pt-BR>
 		<ko>대륙 세 개가 북쪽이나 남쪽에 둘, 나머지 공간에 하나 배치됩니다.</ko>
+		<fixja>北または南のいずれかに2つの大陸が含まれる、3つの大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_RANDOM</zType>
@@ -2616,6 +2816,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_START_ANY</zType>
@@ -2629,6 +2830,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>任一地点</zh-CN>
 		<pt-BR>Qualquer lugar</pt-BR>
 		<ko>임의 지점</ko>
+		<fixja>任意の場所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_START_ANY_HELP</zType>
@@ -2642,6 +2844,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>从任一地点开始</zh-CN>
 		<pt-BR>Comece em qualquer lugar</pt-BR>
 		<ko>임의 지점에서 시작합니다.</ko>
+		<fixja>任意の場所から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_START_COAST</zType>
@@ -2655,6 +2858,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>沿海</zh-CN>
 		<pt-BR>Litoral</pt-BR>
 		<ko>해안가</ko>
+		<fixja>沿岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_START_INLAND</zType>
@@ -2668,6 +2872,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>内陆</zh-CN>
 		<pt-BR>Interior</pt-BR>
 		<ko>내륙</ko>
+		<fixja>内陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_SIZE_NORMAL</zType>
@@ -2681,6 +2886,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>标准</zh-CN>
 		<pt-BR>Padrão</pt-BR>
 		<ko>표준</ko>
+		<fixja>標準</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_SIZE_NORMAL_HELP</zType>
@@ -2694,6 +2900,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>此地图为默认地图尺寸。</zh-CN>
 		<pt-BR>O mapa terá o tamanho padrão</pt-BR>
 		<ko>기본 크기의 맵입니다.</ko>
+		<fixja>デフォルトの地図サイズです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_SIZE_DOUBLE</zType>
@@ -2707,6 +2914,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>双倍</zh-CN>
 		<pt-BR>Dobro</pt-BR>
 		<ko>두 배</ko>
+		<fixja>2倍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_SIZE_DOUBLE_HELP</zType>
@@ -2720,6 +2928,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>此地图尺寸加倍，国家之间有更多的沙漠。</zh-CN>
 		<pt-BR>O mapa terá o dobro do tamanho, com mais deserto entre as nações</pt-BR>
 		<ko>맵 크기가 두 배로 커지며, 국가 간 사막이 더 많아집니다.</ko>
+		<fixja>マップの大きさが2倍になり、国家間の砂漠が増えます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_DESERT</zType>
@@ -2733,6 +2942,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>沙漠</zh-CN>
 		<pt-BR>Deserto</pt-BR>
 		<ko>사막</ko>
+		<fixja>砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_DESERT</zType>
@@ -2746,6 +2956,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>广袤而又开阔的地形，小块的温带土地孤零零地分布在大块的开阔沙漠各地。</zh-CN>
 		<pt-BR>Um terreno vasto e aberto, no qual pequenas áreas de terra temperada são separadas por grandes áreas de deserto.</pt-BR>
 		<ko>광활한 지형으로 소규모 온난 지대들이 넓은 사막 사이사이에 위치해 있습니다.</ko>
+		<fixja>広大かつ開けた地形で、小さな温帯の土地が広大な砂漠地帯によって分断されている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_DESERT_COAST</zType>
@@ -2759,6 +2970,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>水域</zh-CN>
 		<pt-BR>Água</pt-BR>
 		<ko>물</ko>
+		<fixja>水</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_NONE</zType>
@@ -2772,6 +2984,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>无海岸</zh-CN>
 		<pt-BR>Nenhum</pt-BR>
 		<ko>없음</ko>
+		<fixja>なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_NONE_HELP</zType>
@@ -2785,6 +2998,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>这片沙漠被陆地包围，没有大规模的水域。注意：这是一个极端的地图模式。无法建造海军部队，也不能用道路和贸易网络连接所有城市。</zh-CN>
 		<pt-BR>O deserto estará completamente cercado por terra e não terá grandes corpos de água. ATENÇÃO: este modo de mapa é extremo. Unidades navais não podem ser construídas e não será possível conectar as cidades com estradas e redes de comércio.</pt-BR>
 		<ko>사막은 큰 수역이 없는 내륙 지형입니다. 주의: 극단적인 맵 유형입니다. 해상 유닛을 생산할 수 없으며 도로와 교역망으로 모든 도시를 연결할 수는 없습니다.</ko>
+		<fixja>砂漠は内陸にあり、大きな水域はない。注： これはマップモードとしては極端なものです。海上部隊は編成できず、全ての都市を道路や貿易網で結ぶこともできません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_DRY</zType>
@@ -2798,6 +3012,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>干燥海岸</zh-CN>
 		<pt-BR>Litoral Seco</pt-BR>
 		<ko>건조 해안</ko>
+		<fixja>乾燥した海岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_DRY_HELP</zType>
@@ -2811,6 +3026,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>该地图有一个海岸，类似于海滨地图脚本。</zh-CN>
 		<pt-BR>O mapa tem uma costa. É similar ao script do mapa Costeiro.</pt-BR>
 		<ko>해변 맵 스크립트와 비슷한 해안이 있는 맵입니다.</ko>
+		<fixja>マップに海岸がある（「海辺」のマップスクリプトと類似）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_LUSH</zType>
@@ -2824,6 +3040,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>繁茂海岸</zh-CN>
 		<pt-BR>Litoral Fértil</pt-BR>
 		<ko>초원 해안</ko>
+		<fixja>緑豊かな海岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_LUSH_HELP</zType>
@@ -2837,6 +3054,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>该地图有一个海岸，在水域和沙漠之间有一片繁茂地形。</zh-CN>
 		<pt-BR>O mapa tem uma costa com uma faixa de terreno fértil entre a água e o deserto.</pt-BR>
 		<ko>수역과 사막 사이 초원 지대가 있는 해안 맵입니다.</ko>
+		<fixja>マップに海岸があり、水と砂漠の間に帯状の緑豊かな地形がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_COAST_RANDOM_HELP</zType>
@@ -2850,6 +3068,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>选择一个随机选项（不会选择“无海岸”，所以始终会有部分水域）</zh-CN>
 		<pt-BR>Escolhe uma opção aleatória (não escolherá a opção Nenhum, sempre haverá água no mapa)</pt-BR>
 		<ko>무작위로 설정합니다. (없음 설정은 선택되지 않으므로 물은 항상 존재할 것입니다)</ko>
+		<fixja>ランダムに選択（収穫はなく、常に多少の水がある）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_START_COAST_HELP</zType>
@@ -2863,6 +3082,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>从临近海洋开始（如果游玩时没有水域则没有影响）</zh-CN>
 		<pt-BR>Comece perto da água salgada (não tem efeito se o mapa não tiver água)</pt-BR>
 		<ko>바다 가까이에서 시작합니다. (물 없이 플레이하면 적용되지 않는 설정입니다)</ko>
+		<fixja>海水に隣接した状態でスタート（海水なしでのプレイでは影響なし）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_START_INLAND_HELP</zType>
@@ -2876,6 +3096,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>从远离海岸的地方开始（如果游玩时没有水域则没有影响）</zh-CN>
 		<pt-BR>Comece longe do litoral (não tem efeito se o mapa não tiver água)</pt-BR>
 		<ko>해안가가 아닌 곳에서 시작합니다. (물 없이 플레이하면 적용되지 않는 설정입니다)</ko>
+		<fixja>海岸から離れてスタートする（海水なしでのプレイでは影響なし）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_PLAYER_ISLANDS</zType>
@@ -2889,6 +3110,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>玩家岛屿</zh-CN>
 		<pt-BR>Ilhas por jogador</pt-BR>
 		<ko>플레이어 섬</ko>
+		<fixja>プレイヤーアイランド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_PLAYER_ISLANDS</zType>
@@ -2902,6 +3124,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>每位玩家都有一座岛屿。所有岛屿的尺寸都差不多。</zh-CN>
 		<pt-BR>Uma ilha por jogador. Todas as ilhas têm aproximadamente o mesmo tamanho.</pt-BR>
 		<ko>플레이어당 하나의 섬. 모든 섬의 크기는 거의 같습니다. </ko>
+		<fixja>プレイヤー1人につき1つ。どの島もほぼ同じ大きさです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA</zType>
@@ -2915,6 +3138,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>额外岛屿</zh-CN>
 		<pt-BR>Ilhas adicionais</pt-BR>
 		<ko>추가 섬.</ko>
+		<fixja>追加の島々</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_NONE</zType>
@@ -2928,6 +3152,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>无</zh-CN>
 		<pt-BR>Nenhuma</pt-BR>
 		<ko>없음</ko>
+		<fixja>なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_NONE_HELP</zType>
@@ -2941,6 +3166,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>没有额外岛屿。</zh-CN>
 		<pt-BR>Sem ilhas adicionais</pt-BR>
 		<ko>추가 섬 없음.</ko>
+		<fixja>追加の島はありません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_ONE</zType>
@@ -2954,6 +3180,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>一个</zh-CN>
 		<pt-BR>Uma</pt-BR>
 		<ko>1개</ko>
+		<fixja>1つ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_ONE_HELP</zType>
@@ -2967,6 +3194,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>一个额外岛屿。</zh-CN>
 		<pt-BR>Uma ilha adicional</pt-BR>
 		<ko>추가 섬 1개.</ko>
+		<fixja>島を1つ追加。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_TWO</zType>
@@ -2980,6 +3208,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>两个</zh-CN>
 		<pt-BR>Duas</pt-BR>
 		<ko>2개</ko>
+		<fixja>2つ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_TWO_HELP</zType>
@@ -2993,6 +3222,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>两个额外岛屿。</zh-CN>
 		<pt-BR>Duas ilhas adicionais</pt-BR>
 		<ko>추가 섬 2개.</ko>
+		<fixja>島を2つ追加。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_RANDOM</zType>
@@ -3006,6 +3236,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_RANDOM_HELP</zType>
@@ -3019,6 +3250,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>从其他选项中随机选择一个。</zh-CN>
 		<pt-BR>Seleção aleatória de uma das outras opções</pt-BR>
 		<ko>위 설정 중 무작위로 선택.</ko>
+		<fixja>他の選択肢の中からランダムに1つ選ぶ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_HIGHLANDS</zType>
@@ -3032,6 +3264,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>高地</zh-CN>
 		<pt-BR>Montanhas</pt-BR>
 		<ko>고원</ko>
+		<fixja>ハイランド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_HIGHLANDS</zType>
@@ -3045,6 +3278,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>内陆地图，众多山脉环绕着地势平坦的高地地形。</zh-CN>
 		<pt-BR>Mapa no interior com numerosas cadeias de montanhas cercando áreas de terreno plano elevado</pt-BR>
 		<ko>고지대 평지를 다수의 산맥이 둘러싼 내륙 맵.</ko>
+		<fixja>内陸に位置し、高地の平坦な地域を数多くの山脈が囲んでいるマップです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_LAKES_AND_GULFS</zType>
@@ -3058,6 +3292,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>湖泊和海湾</zh-CN>
 		<pt-BR>Lagos e golfos</pt-BR>
 		<ko>호수와 만</ko>
+		<fixja>湖と入り江</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_LAKES_AND_GULFS_HELP</zType>
@@ -3071,6 +3306,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>具有多个相对较小的水体，四周环绕着陆地。</zh-CN>
 		<pt-BR>Vários corpos de água relativamente pequenos cercados de terra</pt-BR>
 		<ko>육지로 둘러싸인 비교적 작은 수역이 여러 개 존재합니다.</ko>
+		<fixja>いくつかの比較的小さな水域が、陸地に囲まれている状態です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_MEDITERRANEAN</zType>
@@ -3084,6 +3320,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>地中海</zh-CN>
 		<pt-BR>Mediterrâneo</pt-BR>
 		<ko>지중해</ko>
+		<fixja>地中海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_MEDITERRANEAN</zType>
@@ -3097,6 +3334,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>景观多样，有沿海平原、山地和岛屿，陆地几乎环绕海洋</zh-CN>
 		<pt-BR>Um terreno diverso de planícies litorâneas, regiões montanhosas e ilhas cercando um mar fechado por terra.</pt-BR>
 		<ko>연안 평지, 산지, 섬 등의 다양한 지형이 내해에 가까운 바다를 둘러싸고 있습니다.</ko>
+		<fixja>沿岸平野、山岳地帯、あるいはほぼ内陸に位置する海に囲まれた地形など。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_REJUVENATION</zType>
@@ -3110,6 +3348,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>重焕新生</zh-CN>
 		<pt-BR>Rejuvenescimento</pt-BR>
 		<ko>재생</ko>
+		<fixja>再生</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_REJUVENATION</zType>
@@ -3123,6 +3362,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随着时间推移，贫瘠沙漠的环境变得温和宜居并产出资源。</zh-CN>
 		<pt-BR>Um deserto vazio que se torna mais temperado e adquire recursos com o tempo.</pt-BR>
 		<ko>척박한 사막이 더 온건해지면서 시간에 따라 자원을 축적합니다.</ko>
+		<fixja>不毛な砂漠がやがて温暖になり、徐々に資源が発生していきます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_NONE_HELP</zType>
@@ -3136,6 +3376,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>该地图为内陆地图，没有大规模的水域。注意：无法建造海军部队，最初可能无法用道路和贸易网络连接所有城市。</zh-CN>
 		<pt-BR>O mapa estará completamente cercado por terra e não terá grandes corpos de água. ATENÇÃO: unidades navais não podem ser construídas e pode não ser possível conectar as cidades com estradas e redes de comércio no início.</pt-BR>
 		<ko>넓은 수역이 없는 내륙 지형입니다. 주의: 해상 유닛을 생산할 수 없으며, 초기에 도로와 교역망으로 도시를 연결할 수 없습니다.</ko>
+		<fixja>マップは内陸部で、大きな水域は存在していません。注意: 海軍ユニットは訓練不能で、当初は全ての都市を道路、交易網で接続することは不可能かもしれません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RANDOM_RESOURCES</zType>
@@ -3149,6 +3390,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RANDOM_RESOURCES_HELP</zType>
@@ -3162,6 +3404,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>选择一个随机的选项</zh-CN>
 		<pt-BR>Escolha uma opção aleatória</pt-BR>
 		<ko>자원을 무작위로 배치합니다.</ko>
+		<fixja>ランダムな選択肢を選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_RANDOM</zType>
@@ -3175,6 +3418,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_RANDOM_HELP</zType>
@@ -3188,6 +3432,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>选择一个随机的选项</zh-CN>
 		<pt-BR>Escolha uma opção aleatória</pt-BR>
 		<ko>무작위 옵션 선택</ko>
+		<fixja>ランダムな選択肢を選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_RANDOM</zType>
@@ -3201,6 +3446,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_RANDOM_HELP</zType>
@@ -3214,6 +3460,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>选择一个随机的选项</zh-CN>
 		<pt-BR>Escolha uma opção aleatória</pt-BR>
 		<ko>무작위 옵션 선택</ko>
+		<fixja>ランダムな選択肢を選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DEFAULT</zType>
@@ -3227,6 +3474,7 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>默认地图选项</zh-CN>
 		<pt-BR>Opção de mapa padrão</pt-BR>
 		<ko>기본 맵 설정</ko>
+		<fixja>デフォルトのマップオプション</fixja>
 	</Entry>
 	<!-- Premade maps -->
 	<Entry>
@@ -3241,5 +3489,6 @@ Os assentamentos tribais ainda podem aparecer em locais que poderiam ser assenta
 		<zh-CN>在地中海区域的四名玩家地图</zh-CN>
 		<pt-BR>Uma mapa para quatro jogadores posicionado na área mediterrânea</pt-BR>
 		<ko>4인용 지중해 맵입니다.</ko>
+		<fixja>地中海地域を舞台とした4人用マップ</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>因行为不端而监禁宗教领袖</zh-CN>
 		<pt-BR>Aprisionou um líder religioso por comportamento inadequado</pt-BR>
 		<ko>종교 수장을 부적절한 행위로 투옥했다</ko>
+		<fixja>不正行為で宗教団体代表を投獄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_RENAME_INSULT</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>宫廷花花公子</zh-CN>
 		<pt-BR>Os Panacas do Palácio</pt-BR>
 		<ko>궁전의 멋쟁이</ko>
+		<fixja>宮廷の紳士たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_INEFFECTIVE_REFORMS</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>无效改革</zh-CN>
 		<pt-BR>Reformas ineficientes</pt-BR>
 		<ko>효과적이지 않은 개혁</ko>
+		<fixja>成果が上がらぬ改革</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_ROYAL_SECRETS</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>王室秘密曝光</zh-CN>
 		<pt-BR>Segredos reais revelados</pt-BR>
 		<ko>왕실의 비밀이 밝혀졌다</ko>
+		<fixja>露わになった王室の秘密</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_ACCUSED_OF_USURPATION</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>被控篡权</zh-CN>
 		<pt-BR>Recebeu acusações por usurpar</pt-BR>
 		<ko>왕위 찬탈의 혐의를 제기했다</ko>
+		<fixja>王位簒奪の疑い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_CHAOS_AT_COURT</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>宫廷生乱</zh-CN>
 		<pt-BR>Caos na corte</pt-BR>
 		<ko>궁정의 혼란</ko>
+		<fixja>宮廷大混乱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_ALLOWED_RIVAL_FREE_REIN</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>允许对手肆意妄为</zh-CN>
 		<pt-BR>Permiti que um rival agisse à vontade</pt-BR>
 		<ko>정적에게 자유로운 통치를 허용했다</ko>
+		<fixja>放された手綱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_LOSS_OF_COURT_RESPECT</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>允许拿我开玩笑</zh-CN>
 		<pt-BR>Permiti piadas à minha custa</pt-BR>
 		<ko>나를 대상으로 농담하는 것을 허용했다</ko>
+		<fixja>冗談の種となることを許す</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_NEGOTIATED_WITH_SEPARTISTS</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>与分裂分子谈判</zh-CN>
 		<pt-BR>Negociei com separatistas</pt-BR>
 		<ko>분리주의자들과 협상했다</ko>
+		<fixja>分離主義者との交渉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_REFUSED_PUBLIC_CHALLENGE</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>拒绝公开挑衅</zh-CN>
 		<pt-BR>Recusei um desafio público</pt-BR>
 		<ko>공개 도전을 거부했다</ko>
+		<fixja>公での挑戦を拒否</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PERSONAL_HEROISM</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>个人英雄主义</zh-CN>
 		<pt-BR>Heroísmo pessoal</pt-BR>
 		<ko>개인적인 영웅주의</ko>
+		<fixja>英雄的資質</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_UNSAVOURY</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>令人讨厌的同伴</zh-CN>
 		<pt-BR>Associados infames</pt-BR>
 		<ko>불쾌한 동료들</ko>
+		<fixja>不快な連中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_SPOKE_OF_GLORY</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>谈到国家之伟大，超越其他所有国家</zh-CN>
 		<pt-BR>Falou que nossa nação é mais grandiosa que as demais</pt-BR>
 		<ko>모든 것보다 위대한 우리 나라를 주제로 연설했다</ko>
+		<fixja>他を圧倒する自国の偉大さを語る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_UNCONVINCING_VERDICT</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>做出难以令人信服的判决</zh-CN>
 		<pt-BR>Deu um veredito duvidoso</pt-BR>
 		<ko>설득력이 없는 판결을 내렸다</ko>
+		<fixja>納得のいかない評決</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_IMPRISONED_SPOUSE</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>囚禁我的配偶</zh-CN>
 		<pt-BR>Aprisionou meu cônjuge</pt-BR>
 		<ko>배우자를 투옥했다</ko>
+		<fixja>配偶者の投獄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KNOWN_FOR_MURDER</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>恶名昭著</zh-CN>
 		<pt-BR>Reputação assassina</pt-BR>
 		<ko>살인자의 명성</ko>
+		<fixja>血に塗れた名声</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FORCED_TO_CHANGE_LAWS</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>被迫修改法律以起诉对手</zh-CN>
 		<pt-BR>Forçado a mudar leis para processar um rival</pt-BR>
 		<ko>정적을 처벌하기 위해 법률을 강제로 개정하였다</ko>
+		<fixja>ライバルを裁くために法改正を余儀なくされる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_CLEARED_NAME_OF_FUGITIVE</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>撤销先前的叛国罪指控</zh-CN>
 		<pt-BR>Revogou acusações anteriores de traições</pt-BR>
 		<ko>이전의 반역 혐의를 뒤집었다</ko>
+		<fixja>かつてかけられた反逆罪の取り消し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_DEBTS_PAID</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>每个家庭的债务都得到了偿还</zh-CN>
 		<pt-BR>Garantiu que as dívidas da família fossem paga</pt-BR>
 		<ko>모든 가문의 빚을 갚았다</ko>
+		<fixja>家族の借金を完済</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_ANGER_TRADITIONALISTS</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>激怒传统主义者</zh-CN>
 		<pt-BR>Enfureceu tradicionalistas</pt-BR>
 		<ko>전통주의자들을 화나게 했다</ko>
+		<fixja>伝統主義者たちの反発</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_REJECTED_TRIBAL_DIPLOMACY</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>拒绝部落外交</zh-CN>
 		<pt-BR>Rejeitou um ato de diplomacia tribal</pt-BR>
 		<ko>부족 외교를 거절했다</ko>
+		<fixja>部族間外交の拒絶</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WEAKENDED_ROYAL_LAWS</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>削弱王室法律</zh-CN>
 		<pt-BR>Enfraqueceu leis reais</pt-BR>
 		<ko>왕실 법률을 약화했다</ko>
+		<fixja>王権法の弱体化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIES_REVEALED</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>统治者的谎言曝光</zh-CN>
 		<pt-BR>Mentiras do governante reveladas</pt-BR>
 		<ko>통치자의 거짓말이 밝혀졌다</ko>
+		<fixja>世に露見した君主の嘘</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KILLED_RIGHTEOUS_FAMILY_HEAD</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>杀死一个正直的家族领导人</zh-CN>
 		<pt-BR>Matou um líder de família justo</pt-BR>
 		<ko>의로운 가문의 수장을 살해했다</ko>
+		<fixja>善良なる家長の殺害</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMED_LUXURY</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>因富可敌国而闻名</zh-CN>
 		<pt-BR>Renome por opulência lendária</pt-BR>
 		<ko>전설적인 쾌락으로 이름을 날렸다</ko>
+		<fixja>伝説の富豪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_HORRIFIED</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>肆无忌惮地宣泄痛苦</zh-CN>
 		<pt-BR>Liberou uma torrente desenfreada de angústia</pt-BR>
 		<ko>억누를 수 없는 고뇌를 쏟아냈다</ko>
+		<fixja>荒れ狂う嘆きの奔流</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_VENGENCE_PROVED</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>证明了我复仇的能力</zh-CN>
 		<pt-BR>Sentiu na pele a força da minha vingança</pt-BR>
 		<ko>내 복수의 강력함을 입증했다</ko>
+		<fixja>証明されし復讐の力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_POWER_POLITICS</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>与一个强大的潜在对手展开合作</zh-CN>
 		<pt-BR>Conseguiu uma aliança com um poderoso rival em potencial</pt-BR>
 		<ko>강력한 잠재적 정적과 협력했다</ko>
+		<fixja>強敵となりうるライバルを味方に</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_PUBLIC_SCANDAL</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>人尽皆知的丑闻</zh-CN>
 		<pt-BR>Escândalo público</pt-BR>
 		<ko>공개 추문</ko>
+		<fixja>世間に知られた不祥事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_DEFENDED_ERRATIC_BEHAVIOR</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>为反常行为辩护</zh-CN>
 		<pt-BR>Defendeu comportamentos erráticos</pt-BR>
 		<ko>변덕스러운 행동을 변호했다</ko>
+		<fixja>突飛な振る舞いを擁護</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_DEFEATED_CHALLENGER_FOR_THE_THRONE</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>击败一位王位挑战者</zh-CN>
 		<pt-BR>Derrotou um desafiante ao trono</pt-BR>
 		<ko>왕좌를 노리는 도전자를 무찔렀다</ko>
+		<fixja>王位に挑む者を下す</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_CLAIM_CREDIT</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>闻名遐迩的胜利</zh-CN>
 		<pt-BR>Vitória famosa</pt-BR>
 		<ko>유명한 승리</ko>
+		<fixja>栄えある勝利</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_REBUFFED_RUMOURS</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>驳斥谣言</zh-CN>
 		<pt-BR>Respondeu a rumores</pt-BR>
 		<ko>소문을 일축했다</ko>
+		<fixja>覆された噂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_UNANSWERED_BETRAYAL</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>未回应的背叛</zh-CN>
 		<pt-BR>Traição sem resposta</pt-BR>
 		<ko>배반에 답하지 않았다</ko>
+		<fixja>答えなき裏切り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_FRAGILE_RULE</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>脆弱的统治</zh-CN>
 		<pt-BR>Governo frágil</pt-BR>
 		<ko>취약한 통치</ko>
+		<fixja>脆き統治</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_BROKE_VOW_OF_TRUCE</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>撕毁停战协定</zh-CN>
 		<pt-BR>Quebrou um voto de trégua</pt-BR>
 		<ko>휴전의 맹세를 깼다</ko>
+		<fixja>休戦協定の破棄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_SPECIAL_PRIVILEGES</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>给予一个家族特权</zh-CN>
 		<pt-BR>Deu privilégios especiais a uma família</pt-BR>
 		<ko>가문에게 특권을 줬다</ko>
+		<fixja>特権を与えられた家族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_MADE_EXAMPLE_OF_REBEL_LEADER</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>拿叛军领袖杀鸡儆猴</zh-CN>
 		<pt-BR>Fez um líder rebelde de exemplo</pt-BR>
 		<ko>반란군 우두머리가 어떻게 되는지 본보기를 보여 주었다</ko>
+		<fixja>反乱軍の指揮官を見せしめに</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_MAKE_GRAND_VIZIER_COST</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>邀请link(COUNCIL_GRAND_VIZIER)参与统治</zh-CN>
 		<pt-BR>Convidou um link(COUNCIL_GRAND_VIZIER) para governar</pt-BR>
 		<ko>link(COUNCIL_GRAND_VIZIER)이 통치하도록 했다</ko>
+		<fixja>統治のためにlink(COUNCIL_GRAND_VIZIER)を招聘</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_MEEK</zType>
@@ -533,5 +572,6 @@
 		<zh-CN>在异邦统治者面前表现温顺</zh-CN>
 		<pt-BR>Foi dócil frente a governantes estrangeiros</pt-BR>
 		<ko>외국 통치자 앞에서 온화한 태도를 유지했다</ko>
+		<fixja>異国の指導者に萎縮</fixja>
 	</Entry>
 </Root>

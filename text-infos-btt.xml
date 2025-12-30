@@ -13,6 +13,7 @@
 		<zh-CN>冲动者</zh-CN>
 		<pt-BR>o Impulsivo</pt-BR>
 		<ko>충동적인</ko>
+		<fixja>衝動的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPULSIVE_NICKNAME_F</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>冲动者</zh-CN>
 		<pt-BR>a Impulsiva</pt-BR>
 		<ko>충동적인</ko>
+		<fixja>衝動的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIAL_AMBASSADOR_NICKNAME</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>特别大使~特别大使</zh-CN>
 		<pt-BR>o Embaixador Especial</pt-BR>
 		<ko>특별 대사</ko>
+		<fixja>特別大使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIAL_AMBASSADOR_NICKNAME_F</zType>
@@ -52,5 +55,6 @@
 		<zh-CN>特别大使~特别大使</zh-CN>
 		<pt-BR>a Embaixadora Especial</pt-BR>
 		<ko>특별 대사</ko>
+		<fixja>特別大使</fixja>
 	</Entry>
 </Root>

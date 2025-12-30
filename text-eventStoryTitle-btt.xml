@@ -26,6 +26,7 @@
 		<zh-CN>王冠的阴影</zh-CN>
 		<pt-BR>Por Trás do Trono</pt-BR>
 		<ko>왕좌의 흑막</ko>
+		<fixja>玉座の陰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SHABBY_TITLE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>松散的线头</zh-CN>
 		<pt-BR>Fios Soltos</pt-BR>
 		<ko>풀린 실</ko>
+		<fixja>ほつれた糸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SHABBY_ESCAPE_TITLE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>捉襟见肘</zh-CN>
 		<pt-BR>Perdendo o Fio da Meada</pt-BR>
 		<ko>멀어지는 인연</ko>
+		<fixja>ほころび</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_BENEVOLENT_TITLE</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>乐善好施的{CHARACTER-SHORT-0}</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-0}, {G0:o:a} Benevolente</pt-BR>
 		<ko>자애로운 {CHARACTER-SHORT-0}</ko>
+		<fixja>慈悲深き{CHARACTER-SHORT-0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_GRACELESS_TITLE</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>众叛亲离</zh-CN>
 		<pt-BR>Repugno</pt-BR>
 		<ko>혐오의 대상</ko>
+		<fixja>嫌われ者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CURIOSITY_TITLE</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>好奇心</zh-CN>
 		<pt-BR>Curiosidade</pt-BR>
 		<ko>호기심</ko>
+		<fixja>好奇心</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYING_WITH_FIRE_TITLE</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>玩火</zh-CN>
 		<pt-BR>Brincando com Fogo</pt-BR>
 		<ko>불장난</ko>
+		<fixja>火遊び</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIT_FOR_A_TAT_TITLE</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>以牙还牙</zh-CN>
 		<pt-BR>Um Favor Pelo Outro</pt-BR>
 		<ko>눈에는 눈</ko>
+		<fixja>しっぺ返し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_YOUR_COUP_TO_LEAVE_TITLE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>退位妙计</zh-CN>
 		<pt-BR>O Que Lhe É Caro Custa Caro</pt-BR>
 		<ko>당신이 떠나야 하는 정변</ko>
+		<fixja>離反の時</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_QUIET_YEAR_TITLE</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>平静的一年</zh-CN>
 		<pt-BR>Um Ano de Calmaria</pt-BR>
 		<ko>조용한 해</ko>
+		<fixja>静寂の一年</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AUDIENCE_PARTICIPATION_TITLE</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>未经监管的权力</zh-CN>
 		<pt-BR>Poder não Supervisionado</pt-BR>
 		<ko>확인되지 않은 권력</ko>
+		<fixja>抑制なき権力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_HAPPY_COUPLE_TITLE</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>幸福的一对</zh-CN>
 		<pt-BR>O Casal Feliz</pt-BR>
 		<ko>행복한 한 쌍</ko>
+		<fixja>仲睦まじい二人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IN_THE_EYES_OF_THE_LAW_TITLE</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>依法行事</zh-CN>
 		<pt-BR>Aos Olhos da Lei</pt-BR>
 		<ko>법으로 처리하라</ko>
+		<fixja>法の下で</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BUSINESS_INTERESTS_TITLE</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>商业利益</zh-CN>
 		<pt-BR>Interesses Comerciais</pt-BR>
 		<ko>사업적 이해관계</ko>
+		<fixja>利害関係</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECENCY_PREVAILS_TITLE</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>正义执行</zh-CN>
 		<pt-BR>A Decência Prevalece</pt-BR>
 		<ko>품위의 승리</ko>
+		<fixja>勝る良識</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ON_A_PLATTER_TITLE</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>拱手让人</zh-CN>
 		<pt-BR>De Bandeja</pt-BR>
 		<ko>스스로 내놓다</ko>
+		<fixja>据え膳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOREIGN_RELATIONS_TITLE</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>外交关系</zh-CN>
 		<pt-BR>Relações Estrangeiras</pt-BR>
 		<ko>국제적 관계</ko>
+		<fixja>外交関係</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_PIPES_ARE_CALLING_TITLE</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>风笛之音</zh-CN>
 		<pt-BR>O Soar dos Canos</pt-BR>
 		<ko>목관의 부름</ko>
+		<fixja>引き寄せる楽器の音</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PRAY_TELL_TITLE</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>请神解答</zh-CN>
 		<pt-BR>Ora, Ora, Ora(ção)</pt-BR>
 		<ko>기도의 진실</ko>
+		<fixja>話したまえ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PRAY_TELL_FOLLOWUP_TITLE</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>深夜神学</zh-CN>
 		<pt-BR>Teologia na Calada da Noite</pt-BR>
 		<ko>심야의 신학 시간</ko>
+		<fixja>深夜の神学論議</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_I_SPY_TITLE</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>不速来客</zh-CN>
 		<pt-BR>Visita Inesperada</pt-BR>
 		<ko>예상치 못한 손님</ko>
+		<fixja>思わぬ来客</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OH_HELLO_TITLE</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>以智取胜</zh-CN>
 		<pt-BR>Levando a Melhor</pt-BR>
 		<ko>한발 늦은</ko>
+		<fixja>手玉に取られて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_A_DELICATE_MATTER_TITLE</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>微妙的处境</zh-CN>
 		<pt-BR>Uma Questão Delicada</pt-BR>
 		<ko>민감한 문제</ko>
+		<fixja>繊細な問題</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THIS_SHALL_NOT_STAND_TITLE</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>不可容忍</zh-CN>
 		<pt-BR>Já Basta</pt-BR>
 		<ko>이 상황이 계속돼선 안 된다</ko>
+		<fixja>容認できないこと</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_INVITE_TITLE</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>邀请函</zh-CN>
 		<pt-BR>O Convite</pt-BR>
 		<ko>초대</ko>
+		<fixja>招待状</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANGING_ON_EVERY_WORD_TITLE</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>能言善道</zh-CN>
 		<pt-BR>Ouvindo Cada Palavra</pt-BR>
 		<ko>끝없는 대화</ko>
+		<fixja>選び抜かれし言葉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HELP_YOURSELF_TITLE</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>自助餐</zh-CN>
 		<pt-BR>Fique à Vontade</pt-BR>
 		<ko>맛있게 드세요</ko>
+		<fixja>どうぞご遠慮なく</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LIVELY_BANTER_TITLE</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>风趣玩笑</zh-CN>
 		<pt-BR>Falatório Animado</pt-BR>
 		<ko>활기찬 대화</ko>
+		<fixja>弾む会話</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_KINGLY_GIFT_TITLE</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>{G0:国王的:王后的}礼物</zh-CN>
 		<pt-BR>Um Presente da Realeza</pt-BR>
 		<ko>{G0:왕:여왕}의 선물</ko>
+		<fixja>王からの贈り物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AFTERMATH_TITLE</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>庆典余波</zh-CN>
 		<pt-BR>As Consequências</pt-BR>
 		<ko>여파</ko>
+		<fixja>後始末</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HANGOVER_TITLE</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>口误？</zh-CN>
 		<pt-BR>Um Mal Entendido?</pt-BR>
 		<ko>말실수?</ko>
+		<fixja>舌禍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_MORE_THE_MERRIER_TITLE</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>越多越好</zh-CN>
 		<pt-BR>Quanto Mais, Menos</pt-BR>
 		<ko>많을수록 좋지</ko>
+		<fixja>多ければ多いほど良い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SOBERING_UP_TITLE</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>清醒</zh-CN>
 		<pt-BR>Voltando à Realidade</pt-BR>
 		<ko>술이 깨다</ko>
+		<fixja>酔い覚まし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IN_THE_NAME_OF_LOVE_TITLE</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>以爱之名</zh-CN>
 		<pt-BR>Em Nome do Amor</pt-BR>
 		<ko>사랑의 이름으로</ko>
+		<fixja>愛の名のもとに</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOLD_COURTLY_LOVE_TITLE</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>宫廷爱情</zh-CN>
 		<pt-BR>Amor Processual</pt-BR>
 		<ko>궁정의 사랑</ko>
+		<fixja>宮廷での恋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_APPEAL_PROCESS_TITLE</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>光彩照人</zh-CN>
 		<pt-BR>O Apelo do Processo</pt-BR>
 		<ko>관심 끌기</ko>
+		<fixja>楽しい駆け引き</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIMELY_DEMISE_TITLE</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>及时死亡</zh-CN>
 		<pt-BR>Hora Certa para Acabar</pt-BR>
 		<ko>시기적절한 죽음</ko>
+		<fixja>幕引きの時</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_CLEAN_BREAK_TITLE</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>了断</zh-CN>
 		<pt-BR>Uma Separação Limpa</pt-BR>
 		<ko>깨끗한 이별</ko>
+		<fixja>決別</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_CITY_OF_RICHES_TITLE</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>{CITY-2}的财富</zh-CN>
 		<pt-BR>As Riquezas de {CITY-2}</pt-BR>
 		<ko>{CITY-2}의 부</ko>
+		<fixja>{CITY-2}の富</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POCKETED_TITLE</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>装入口袋</zh-CN>
 		<pt-BR>No Bolso</pt-BR>
 		<ko>착복</ko>
+		<fixja>着服</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPTION_OF_THE_YOUTH_TITLE</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>青年的堕落</zh-CN>
 		<pt-BR>Corrupção da Juventude</pt-BR>
 		<ko>젊은이들의 타락</ko>
+		<fixja>若者の堕落</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CITY_OF_DELIGHTS_TITLE</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>欢乐之城</zh-CN>
 		<pt-BR>Cidade dos Prazeres</pt-BR>
 		<ko>즐거움의 도시</ko>
+		<fixja>歓びの街</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TESTED_TITLE</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>经受考验</zh-CN>
 		<pt-BR>Teste</pt-BR>
 		<ko>시험대에 오르다</ko>
+		<fixja>試される王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACIDIC_TITLE</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>酸涩生活</zh-CN>
 		<pt-BR>Acidez</pt-BR>
 		<ko>쌀쌀맞은 배우자</ko>
+		<fixja>刺々しい口調</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LOOMING_THREAT_TITLE</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>{PLAYER-0}逼近</zh-CN>
 		<pt-BR>A Ameaça {PLAYER_F-0,1}</pt-BR>
 		<ko>{PLAYER-0}의 위협</ko>
+		<fixja>迫る{PLAYER-0}の影</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_OF_THEIR_WAYS_TITLE</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>自行其是的继承人</zh-CN>
 		<pt-BR>Errar é {G0:Herdeiro:Herdeira}</pt-BR>
 		<ko>제멋대로인 후계자</ko>
+		<fixja>後継者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CLOSE_CALL_TITLE</zType>
@@ -624,6 +670,7 @@
 		<zh-CN>九死一生</zh-CN>
 		<pt-BR>Passou Perto</pt-BR>
 		<ko>위기일발</ko>
+		<fixja>間一髪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNLEASHED_TITLE</zType>
@@ -637,6 +684,7 @@
 		<zh-CN>释放</zh-CN>
 		<pt-BR>Sem Freios</pt-BR>
 		<ko>감정 폭발</ko>
+		<fixja>解かれし束縛</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTRADICTION_TITLE</zType>
@@ -650,6 +698,7 @@
 		<zh-CN>矛盾</zh-CN>
 		<pt-BR>Contradição</pt-BR>
 		<ko>대립</ko>
+		<fixja>相反する意見</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEAD_RECKONING_TITLE</zType>
@@ -663,6 +712,7 @@
 		<zh-CN>死亡清算</zh-CN>
 		<pt-BR>Acerto de Contas na Morte</pt-BR>
 		<ko>망자의 빚</ko>
+		<fixja>死の見積もり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LAST_REQUEST_TITLE</zType>
@@ -676,6 +726,7 @@
 		<zh-CN>遗愿</zh-CN>
 		<pt-BR>Último Pedido</pt-BR>
 		<ko>마지막 부탁</ko>
+		<fixja>最期の頼み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_YOU_CANT_TAKE_IT_WITH_YOU_TITLE</zType>
@@ -689,6 +740,7 @@
 		<zh-CN>你不能带走它</zh-CN>
 		<pt-BR>Da Vida Não se Leva Nada</pt-BR>
 		<ko>하늘까지 가져갈 순 없다</ko>
+		<fixja>持ち逃げはできない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERE_COINCIDENCE_TITLE</zType>
@@ -702,6 +754,7 @@
 		<zh-CN>纯属巧合</zh-CN>
 		<pt-BR>Mera Coincidência</pt-BR>
 		<ko>우연일 뿐</ko>
+		<fixja>単なる偶然</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMONG_THE_PEOPLE_TITLE</zType>
@@ -715,6 +768,7 @@
 		<zh-CN>人群之间</zh-CN>
 		<pt-BR>Entre o Povo</pt-BR>
 		<ko>사람들 사이에서</ko>
+		<fixja>人々の間で</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_FORGIVING_NATURE_TITLE</zType>
@@ -728,6 +782,7 @@
 		<zh-CN>宽容的本性</zh-CN>
 		<pt-BR>Uma Natureza Piedosa</pt-BR>
 		<ko>너그러운 본성</ko>
+		<fixja>許す心</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SLEEP_TIGHT_TITLE</zType>
@@ -741,6 +796,7 @@
 		<zh-CN>睡个好觉</zh-CN>
 		<pt-BR>Durma Bem</pt-BR>
 		<ko>편히 잠드시길</ko>
+		<fixja>安らかな眠り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_CLEAN_CONSCIENCE_TITLE</zType>
@@ -754,6 +810,7 @@
 		<zh-CN>清白的良心</zh-CN>
 		<pt-BR>De Consciência Limpa</pt-BR>
 		<ko>떳떳한 마음</ko>
+		<fixja>やましい点はない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THEY_ALWAYS_MAKE_A_MISTAKE_TITLE</zType>
@@ -767,6 +824,7 @@
 		<zh-CN>他们总要犯错误</zh-CN>
 		<pt-BR>Eles Sempre Acabam Errando</pt-BR>
 		<ko>그들은 언제나 실수를 저지른다</ko>
+		<fixja>いつも過ちを犯す彼ら</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DELIGHTS_FROM_AFAR_TITLE</zType>
@@ -780,6 +838,7 @@
 		<zh-CN>远方的欢愉</zh-CN>
 		<pt-BR>Prazeres de Terras Distantes</pt-BR>
 		<ko>먼 곳에서 가져온 별미</ko>
+		<fixja>旅から得た喜び</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BURDENS_TITLE</zType>
@@ -793,6 +852,7 @@
 		<zh-CN>负担</zh-CN>
 		<pt-BR>Fardos</pt-BR>
 		<ko>부담</ko>
+		<fixja>重荷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IMPULSIVE_INFLUENCE_TITLE</zType>
@@ -806,6 +866,7 @@
 		<zh-CN>冲动的后果</zh-CN>
 		<pt-BR>Influência Impulsiva</pt-BR>
 		<ko>충동적 환대</ko>
+		<fixja>衝動的な行動</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IMPULSIVE_GOODBYE_TITLE</zType>
@@ -819,6 +880,7 @@
 		<zh-CN>冲动的告别</zh-CN>
 		<pt-BR>Adeus Impulsivo</pt-BR>
 		<ko>충동적 작별</ko>
+		<fixja>突発的な別れ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISQUE_TITLE</zType>
@@ -832,6 +894,7 @@
 		<zh-CN>冒险</zh-CN>
 		<pt-BR>Indecência Artística</pt-BR>
 		<ko>대담한 기법</ko>
+		<fixja>危うい表現</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SETTING_AN_EXAMPLE_TITLE</zType>
@@ -845,6 +908,7 @@
 		<zh-CN>树立榜样</zh-CN>
 		<pt-BR>Fazendo um Exemplo</pt-BR>
 		<ko>본보기가 되다</ko>
+		<fixja>模範</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNDER_THE_TABLE_TITLE</zType>
@@ -858,6 +922,7 @@
 		<zh-CN>无迹可寻</zh-CN>
 		<pt-BR>Sob a Mesa</pt-BR>
 		<ko>탁자 아래</ko>
+		<fixja>テーブルの下で</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNREADABLE_TITLE</zType>
@@ -871,6 +936,7 @@
 		<zh-CN>难以辨认</zh-CN>
 		<pt-BR>Indecifrável</pt-BR>
 		<ko>무표정</ko>
+		<fixja>判読不能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACROSS_CULTURE_TITLE</zType>
@@ -884,6 +950,7 @@
 		<zh-CN>异国文化</zh-CN>
 		<pt-BR>Troca Cultural</pt-BR>
 		<ko>문화 차이</ko>
+		<fixja>文化を超えて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NO_DICE_TITLE</zType>
@@ -897,6 +964,7 @@
 		<zh-CN>毫无机会</zh-CN>
 		<pt-BR>Só Dados, Sem Graça</pt-BR>
 		<ko>주사위는 없다</ko>
+		<fixja>ノー・ダイス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ODDS_AND_ENDS_TITLE</zType>
@@ -910,6 +978,7 @@
 		<zh-CN>零碎物品</zh-CN>
 		<pt-BR>Prêmio da Vez</pt-BR>
 		<ko>확률과 결과</ko>
+		<fixja>半端もの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_DIE_IS_CAST_TITLE</zType>
@@ -923,6 +992,7 @@
 		<zh-CN>骰子已掷</zh-CN>
 		<pt-BR>Os Dados Estão Lançados</pt-BR>
 		<ko>주사위는 던져졌다</ko>
+		<fixja>賽は投げられた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_EYES_OF_FATE_TITLE</zType>
@@ -936,6 +1006,7 @@
 		<zh-CN>命运之眼</zh-CN>
 		<pt-BR>Os Olhos do Destino</pt-BR>
 		<ko>운명의 눈</ko>
+		<fixja>運命の目</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RARE_TALENT_TITLE</zType>
@@ -949,6 +1020,7 @@
 		<zh-CN>罕见的才能</zh-CN>
 		<pt-BR>Talento Raro</pt-BR>
 		<ko>희귀한 재능</ko>
+		<fixja>稀有な才能</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_FAMILY_SWAY_TITLE</zType>
@@ -962,6 +1034,7 @@
 		<zh-CN>{FAMILY-0,2}的联系</zh-CN>
 		<pt-BR>Conexões com os {FAMILY-0}</pt-BR>
 		<ko>{FAMILY-0,2} 가문의 연줄</ko>
+		<fixja>{FAMILY-0,2}との繋がり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ROYAL_PREROGATIVE_TITLE</zType>
@@ -975,6 +1048,7 @@
 		<zh-CN>王室特权</zh-CN>
 		<pt-BR>Prerrogativa Real</pt-BR>
 		<ko>왕실의 특권</ko>
+		<fixja>王室の特権</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYING_POLITICS_TITLE</zType>
@@ -988,6 +1062,7 @@
 		<zh-CN>玩弄政治</zh-CN>
 		<pt-BR>Brincando de Política</pt-BR>
 		<ko>영향력 행사</ko>
+		<fixja>政治的駆け引き</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GREATER_GOOD_TITLE</zType>
@@ -1001,6 +1076,7 @@
 		<zh-CN>更大的利益</zh-CN>
 		<pt-BR>Pelo Bem Maior</pt-BR>
 		<ko>공공의 이익</ko>
+		<fixja>大いなる善</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MARRIED_AWAY_TITLE</zType>
@@ -1014,6 +1090,7 @@
 		<zh-CN>出嫁</zh-CN>
 		<pt-BR>Casados</pt-BR>
 		<ko>결혼 계획</ko>
+		<fixja>嫁入り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_KNIFE_AT_YOUR_SIDE_TITLE</zType>
@@ -1027,6 +1104,7 @@
 		<zh-CN>身边的威胁</zh-CN>
 		<pt-BR>A Faca na Costela</pt-BR>
 		<ko>칼을 옆에 두다</ko>
+		<fixja>身につけた短剣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONCESSION_TITLE</zType>
@@ -1040,6 +1118,7 @@
 		<zh-CN>让步</zh-CN>
 		<pt-BR>Concessão</pt-BR>
 		<ko>특권</ko>
+		<fixja>妥協</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOES_AROUND_TITLE</zType>
@@ -1053,6 +1132,7 @@
 		<zh-CN>回报</zh-CN>
 		<pt-BR>O Que Vai...</pt-BR>
 		<ko>소문</ko>
+		<fixja>因果応報</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_FREE_HAND_TITLE</zType>
@@ -1066,6 +1146,7 @@
 		<zh-CN>自由裁量</zh-CN>
 		<pt-BR>Uma Mão Livre</pt-BR>
 		<ko>사람을 부리다</ko>
+		<fixja>自由裁量</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAR_FROM_THE_TREE_TITLE</zType>
@@ -1079,6 +1160,7 @@
 		<zh-CN>误入歧途</zh-CN>
 		<pt-BR>Peixinho Não É</pt-BR>
 		<ko>불화</ko>
+		<fixja>異なる血縁</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_LIGHT_TOUCH_TITLE</zType>
@@ -1092,6 +1174,7 @@
 		<zh-CN>轻松抉择</zh-CN>
 		<pt-BR>Um Toque Suave</pt-BR>
 		<ko>가벼운 접촉</ko>
+		<fixja>軽やかな手つき</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CRUEL_CONDUCT_TITLE</zType>
@@ -1105,6 +1188,7 @@
 		<zh-CN>残酷之举</zh-CN>
 		<pt-BR>Conduta Cruel</pt-BR>
 		<ko>잔인한 처사</ko>
+		<fixja>残酷な所業</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INTOLERANT_CONDUCT_TITLE</zType>
@@ -1118,6 +1202,7 @@
 		<zh-CN>不能容忍之举</zh-CN>
 		<pt-BR>Conduta Intolerante</pt-BR>
 		<ko>편협한 행동</ko>
+		<fixja>偏狭な振る舞い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIMID_DEMEANOR_TITLE</zType>
@@ -1131,6 +1216,7 @@
 		<zh-CN>胆怯的举止</zh-CN>
 		<pt-BR>Comportamento Tímido</pt-BR>
 		<ko>소심한 태도</ko>
+		<fixja>臆病な態度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SLOTHFUL_CONDUCT_TITLE</zType>
@@ -1144,6 +1230,7 @@
 		<zh-CN>懒散之举</zh-CN>
 		<pt-BR>Conduta Preguiçosa</pt-BR>
 		<ko>나태한 행동</ko>
+		<fixja>怠けた態度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNCOUTH_CONDUCT_TITLE</zType>
@@ -1157,6 +1244,7 @@
 		<zh-CN>粗俗之举</zh-CN>
 		<pt-BR>Conduta Bruta</pt-BR>
 		<ko>상스러운 행동</ko>
+		<fixja>下品な振る舞い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOOLISH_CONDUCT_TITLE</zType>
@@ -1170,6 +1258,7 @@
 		<zh-CN>愚蠢之举</zh-CN>
 		<pt-BR>Conduta Tola</pt-BR>
 		<ko>우둔한 행동</ko>
+		<fixja>愚かな行為</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EXTRAVAGANT_CONDUCT_TITLE</zType>
@@ -1183,6 +1272,7 @@
 		<zh-CN>奢侈之举</zh-CN>
 		<pt-BR>Conduta Extravagante</pt-BR>
 		<ko>사치스러운 행동</ko>
+		<fixja>贅沢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CORRUPT_CONDUCT_TITLE</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>腐败之举</zh-CN>
 		<pt-BR>Conduta Corrupta</pt-BR>
 		<ko>부패한 행동</ko>
+		<fixja>潰える評判</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GREEDY_CONDUCT_TITLE</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>贪婪之举</zh-CN>
 		<pt-BR>Conduta Gananciosa</pt-BR>
 		<ko>탐욕스러운 행동</ko>
+		<fixja>貪欲</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BITTER_DEMEANOR_TITLE</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>苦涩的风度</zh-CN>
 		<pt-BR>Comportamento Amargo</pt-BR>
 		<ko>부정적인 태도</ko>
+		<fixja>苦々しい思い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUPERSTITIOUS_DEMEANOR_TITLE</zType>
@@ -1235,6 +1328,7 @@
 		<zh-CN>迷信之举</zh-CN>
 		<pt-BR>Comportamento Supersticioso</pt-BR>
 		<ko>미신적인 태도</ko>
+		<fixja>迷信に囚われるか</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUTHLESS_CONDUCT_TITLE</zType>
@@ -1248,6 +1342,7 @@
 		<zh-CN>无情之举</zh-CN>
 		<pt-BR>Conduta Implacável</pt-BR>
 		<ko>무자비한 행동</ko>
+		<fixja>冷酷非道</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WANTON_CONDUCT_TITLE</zType>
@@ -1261,6 +1356,7 @@
 		<zh-CN>放纵之举</zh-CN>
 		<pt-BR>Conduta Lasciva</pt-BR>
 		<ko>음탕한 행동</ko>
+		<fixja>無節操な振る舞い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECEITFUL_CONDUCT_TITLE</zType>
@@ -1274,6 +1370,7 @@
 		<zh-CN>欺骗之举</zh-CN>
 		<pt-BR>Conduta Enganadora</pt-BR>
 		<ko>부정직한 행동</ko>
+		<fixja>欺瞞に満ちた態度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PROUD_DEMEANOR_TITLE</zType>
@@ -1287,6 +1384,7 @@
 		<zh-CN>骄傲之举</zh-CN>
 		<pt-BR>Comportamento Orgulhoso</pt-BR>
 		<ko>교만한 태도</ko>
+		<fixja>誇り高き者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_RECKLESS_YEAR_TITLE</zType>
@@ -1300,6 +1398,7 @@
 		<zh-CN>鲁莽的一年</zh-CN>
 		<pt-BR>Um Ano de Descuidos</pt-BR>
 		<ko>무자비한 해</ko>
+		<fixja>無謀な一年</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THIRST_TITLE</zType>
@@ -1313,6 +1412,7 @@
 		<zh-CN>精致味蕾</zh-CN>
 		<pt-BR>Um Paladar Refinado</pt-BR>
 		<ko>세련된 취향</ko>
+		<fixja>洗練されし味覚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_QUENCHED_TITLE</zType>
@@ -1326,6 +1426,7 @@
 		<zh-CN>完美的礼物</zh-CN>
 		<pt-BR>O Presente Perfeito</pt-BR>
 		<ko>완벽한 선물</ko>
+		<fixja>完璧な贈り物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PARCHED_TITLE</zType>
@@ -1339,6 +1440,7 @@
 		<zh-CN>事已至此</zh-CN>
 		<pt-BR>Essas Coisas Acontecem</pt-BR>
 		<ko>늘 있는 일</ko>
+		<fixja>こういうこともある</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ERA_OF_DECADENCE_TITLE</zType>
@@ -1352,6 +1454,7 @@
 		<zh-CN>堕落时代</zh-CN>
 		<pt-BR>Era de Decadência</pt-BR>
 		<ko>타락의 시대</ko>
+		<fixja>退廃した時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WRITTEN_ON_THE_SOUL_TITLE</zType>
@@ -1365,6 +1468,7 @@
 		<zh-CN>韵律与真理</zh-CN>
 		<pt-BR>Música para Meus Ouvidos</pt-BR>
 		<ko>은율과 이성</ko>
+		<fixja>物事の道理</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_DANDIES_TITLE</zType>
@@ -1378,6 +1482,7 @@
 		<zh-CN>琐碎之事</zh-CN>
 		<pt-BR>Os Patetas</pt-BR>
 		<ko>쩨쩨한 감정</ko>
+		<fixja>卑しき者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RAMPANT_TITLE</zType>
@@ -1391,6 +1496,7 @@
 		<zh-CN>城门之外</zh-CN>
 		<pt-BR>Às Portas</pt-BR>
 		<ko>성문 앞에서</ko>
+		<fixja>門前にて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FRONTIER_LIFE_TITLE</zType>
@@ -1404,6 +1510,7 @@
 		<zh-CN>简单生活</zh-CN>
 		<pt-BR>Uma Vida Simples</pt-BR>
 		<ko>더 소박한 삶</ko>
+		<fixja>質素な暮らし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_FALLBACK_EVENT_TITLE</zType>
@@ -1417,6 +1524,7 @@
 		<zh-CN>这就是生活的全部吗？</zh-CN>
 		<pt-BR>Isso É Tudo que Há na Vida?</pt-BR>
 		<ko>이게 삶의 전부인가?</ko>
+		<fixja>これが人生のすべてなのか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_I_DID_WHAT_TITLE</zType>
@@ -1430,6 +1538,7 @@
 		<zh-CN>现在该做什么？</zh-CN>
 		<pt-BR>Eu Fiz o Quê?</pt-BR>
 		<ko>내가 뭘 했다고?</ko>
+		<fixja>私が何をした？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IF_YOU_SAY_SO_TITLE</zType>
@@ -1443,6 +1552,7 @@
 		<zh-CN>既然你这么说</zh-CN>
 		<pt-BR>Se Você Está Dizendo</pt-BR>
 		<ko>그렇다면야</ko>
+		<fixja>そう言うのなら</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_I_AM_MERCIFUL_TITLE</zType>
@@ -1456,6 +1566,7 @@
 		<zh-CN>我很仁慈</zh-CN>
 		<pt-BR>Eu Tenho Misericórdia</pt-BR>
 		<ko>나는 자비롭다</ko>
+		<fixja>慈悲深き王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_I_THINK_NOT_TITLE</zType>
@@ -1469,6 +1580,7 @@
 		<zh-CN>我反对</zh-CN>
 		<pt-BR>Acho que Não</pt-BR>
 		<ko>그렇게는 안 되지</ko>
+		<fixja>そうは思わない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_IF_STAIRS_COULD_KILL_TITLE</zType>
@@ -1482,6 +1594,7 @@
 		<zh-CN>如果楼梯能杀人</zh-CN>
 		<pt-BR>Se Escadas Matassem</pt-BR>
 		<ko>계단 때문에 죽을 수도 있다면</ko>
+		<fixja>階段が人を殺せたら</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_EPIPHANY_TITLE</zType>
@@ -1495,6 +1608,7 @@
 		<zh-CN>顿悟</zh-CN>
 		<pt-BR>Epifania</pt-BR>
 		<ko>깨달음</ko>
+		<fixja>悟り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_ENOUGH_TITLE</zType>
@@ -1508,6 +1622,7 @@
 		<zh-CN>够了</zh-CN>
 		<pt-BR>Basta</pt-BR>
 		<ko>이제 그만</ko>
+		<fixja>もう十分だ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_UNEXPECTED_GUEST_TITLE</zType>
@@ -1521,6 +1636,7 @@
 		<zh-CN>仰慕者</zh-CN>
 		<pt-BR>Um Admirador</pt-BR>
 		<ko>흠모자</ko>
+		<fixja>崇拝者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_FINE_ROAST_TITLE</zType>
@@ -1534,6 +1650,7 @@
 		<zh-CN>一顿美味烤肉</zh-CN>
 		<pt-BR>No Seu Nível</pt-BR>
 		<ko>완벽한 조롱</ko>
+		<fixja>素晴らしき逸品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_ROLL_MODEL_TITLE</zType>
@@ -1547,6 +1664,7 @@
 		<zh-CN>解忧良药</zh-CN>
 		<pt-BR>Remédio Contra o Estresse</pt-BR>
 		<ko>판돈으로 극복하는 우울한 마음</ko>
+		<fixja>気分転換</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_A_LITTLE_ADVICE_TITLE</zType>
@@ -1560,6 +1678,7 @@
 		<zh-CN>一点建议</zh-CN>
 		<pt-BR>Um Pequeno Conselho</pt-BR>
 		<ko>작은 충고</ko>
+		<fixja>些細な助言</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NEGATIVE_TITLE</zType>
@@ -1573,6 +1692,7 @@
 		<zh-CN>没有迹象</zh-CN>
 		<pt-BR>Sem Sinais</pt-BR>
 		<ko>징후가 없다</ko>
+		<fixja>なんの兆候もなく</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POSITIVE_TITLE</zType>
@@ -1586,6 +1706,7 @@
 		<zh-CN>大麦发芽</zh-CN>
 		<pt-BR>Os Brotos de Cevada</pt-BR>
 		<ko>보리 새싹</ko>
+		<fixja>大麦の発芽</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SILPHIUM_TAKEN_TITLE</zType>
@@ -1599,6 +1720,7 @@
 		<zh-CN>获取罗盘草</zh-CN>
 		<pt-BR>Dose de Sílfio</pt-BR>
 		<ko>회향을 구하다</ko>
+		<fixja>シルフィウムの摂取</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_OF_REVELRY_TITLE</zType>
@@ -1612,6 +1734,7 @@
 		<zh-CN>一个孩子</zh-CN>
 		<pt-BR>Uma Criança</pt-BR>
 		<ko>아이</ko>
+		<fixja>子供</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_TEMPTING_GIFT_TITLE</zType>
@@ -1625,6 +1748,7 @@
 		<zh-CN>这是什么？</zh-CN>
 		<pt-BR>O Que Temos Aqui</pt-BR>
 		<ko>이게 뭘까</ko>
+		<fixja>ここにあるもの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_I_MUST_HAVE_IT_TITLE</zType>
@@ -1638,6 +1762,7 @@
 		<zh-CN>{PLAYER-1}的珍宝</zh-CN>
 		<pt-BR>A Joia {PLAYER-1,6}</pt-BR>
 		<ko>{PLAYER-1}의 보물</ko>
+		<fixja>{PLAYER-1}の宝石</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THEY_MUST_DIE_TITLE</zType>
@@ -1651,6 +1776,7 @@
 		<zh-CN>{CHARACTER-SHORT-2}的印记</zh-CN>
 		<pt-BR>A Marca de {CHARACTER-SHORT-2}</pt-BR>
 		<ko>{CHARACTER-SHORT-2}의 흔적</ko>
+		<fixja>{CHARACTER-SHORT-POSS-2}のしるし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THEY_MUST_DIE_CONCLUSION_TITLE</zType>
@@ -1664,6 +1790,7 @@
 		<zh-CN>长期以来的消息</zh-CN>
 		<pt-BR>Notícias Aguardadas</pt-BR>
 		<ko>오랫동안 기다렸던 소식</ko>
+		<fixja>待ちに待った知らせ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THEY_MUST_DIE_FAILURE_TITLE</zType>
@@ -1677,6 +1804,7 @@
 		<zh-CN>痛苦的认识</zh-CN>
 		<pt-BR>A Amargura da Descoberta</pt-BR>
 		<ko>씁쓸한 깨달음</ko>
+		<fixja>苦い現実</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THEY_MUST_DIE_YOU_DIED_TITLE</zType>
@@ -1690,6 +1818,7 @@
 		<zh-CN>傲慢与谦卑</zh-CN>
 		<pt-BR>Orgulho e Humildade</pt-BR>
 		<ko>자만과 겸손</ko>
+		<fixja>傲慢さと謙虚さ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THEY_MUST_DIE_THEY_DIED_TITLE</zType>
@@ -1703,6 +1832,7 @@
 		<zh-CN>死无对证</zh-CN>
 		<pt-BR>Rodas Sem Rodas</pt-BR>
 		<ko>깔끔한 복수</ko>
+		<fixja>車輪のない車輪</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_GENERAL_TITLE</zType>
@@ -1716,6 +1846,7 @@
 		<zh-CN>荣耀与赞誉</zh-CN>
 		<pt-BR>Glória e Clamor</pt-BR>
 		<ko>영광과 찬사</ko>
+		<fixja>栄光と称賛</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_GOVERNOR_TITLE</zType>
@@ -1729,6 +1860,7 @@
 		<zh-CN>{CITY-1}繁荣</zh-CN>
 		<pt-BR>O Crescimento de {CITY-1}</pt-BR>
 		<ko>{CITY-1}의 번영</ko>
+		<fixja>{CITY-1}の隆盛</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_POWER_TITLE</zType>
@@ -1742,6 +1874,7 @@
 		<zh-CN>时候到了</zh-CN>
 		<pt-BR>Chegou a Hora</pt-BR>
 		<ko>때가 되었다</ko>
+		<fixja>時は来たれり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DEMANDS_TITLE</zType>
@@ -1755,6 +1888,7 @@
 		<zh-CN>受宠的{FAMILY-3,2} {G1:儿子:女儿}</zh-CN>
 		<pt-BR>{G1:O Filho Favorito:A Filha Favorita} dos {FAMILY-3}</pt-BR>
 		<ko>{FAMILY-3,2} 가문이 아끼는 {G1:아들:딸}</ko>
+		<fixja>{FAMILY-3,2}の愛{G1:息子:娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WANING_STAR_TITLE</zType>
@@ -1768,6 +1902,7 @@
 		<zh-CN>时间推移</zh-CN>
 		<pt-BR>O Tempo Passa</pt-BR>
 		<ko>시간이 흐르다</ko>
+		<fixja>流れゆく時</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WANING_STAR_LEADER_TITLE</zType>
@@ -1781,6 +1916,7 @@
 		<zh-CN>残星</zh-CN>
 		<pt-BR>Estrela em Declínio</pt-BR>
 		<ko>지는 별</ko>
+		<fixja>衰運</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WANING_STAR_LEADER_CHALLENGED_TITLE</zType>
@@ -1794,6 +1930,7 @@
 		<zh-CN>声名鹊起</zh-CN>
 		<pt-BR>Uma Reputação a Superar</pt-BR>
 		<ko>어마어마한 명성</ko>
+		<fixja>そびえ立つ評判</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TO_RULE_IS_TO_DISAPPOINT_TITLE</zType>
@@ -1807,6 +1944,7 @@
 		<zh-CN>统治即失望</zh-CN>
 		<pt-BR>Governar é Desapontar</pt-BR>
 		<ko>통치는 곧 실망으로 이어진다</ko>
+		<fixja>統治とは失望させること</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FREE_AT_LAST_PLOTTING_TITLE</zType>
@@ -1820,6 +1958,7 @@
 		<zh-CN>{PLAYER-2}暂时独立了</zh-CN>
 		<pt-BR>Por Enquanto, {PLAYER-2,4} governa {PLAYER-2,4}</pt-BR>
 		<ko>지금은 {PLAYER-2}(이)가 {PLAYER-2}(을)를 통치한다</ko>
+		<fixja>現状、{PLAYER-2}が{PLAYER-2}を支配中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_IMPATIENCE_TITLE</zType>
@@ -1833,6 +1972,7 @@
 		<zh-CN>浪费人才</zh-CN>
 		<pt-BR>Um Desperdício de Talento</pt-BR>
 		<ko>재능 낭비</ko>
+		<fixja>才能の無駄遣い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_RISING_STAR_TITLE</zType>
@@ -1846,6 +1986,7 @@
 		<zh-CN>link(TRAIT_RISING_STAR)</zh-CN>
 		<pt-BR>link(TRAIT_RISING_STAR)</pt-BR>
 		<ko>link(TRAIT_RISING_STAR)</ko>
+		<fixja>link(TRAIT_RISING_STAR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_MATRIMONY_TITLE</zType>
@@ -1859,6 +2000,7 @@
 		<zh-CN>点燃的火柴</zh-CN>
 		<pt-BR>Tocha Acesa</pt-BR>
 		<ko>불붙은 성냥</ko>
+		<fixja>燃え上がる火種</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POWER_COUPLE_TITLE</zType>
@@ -1872,6 +2014,7 @@
 		<zh-CN>手握绝对权力的夫妇</zh-CN>
 		<pt-BR>Casal Absoluto</pt-BR>
 		<ko>절대 권력의 한 쌍</ko>
+		<fixja>絶対的な権力を持つ二人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERITOCRACY_TITLE</zType>
@@ -1885,6 +2028,7 @@
 		<zh-CN>精英统治</zh-CN>
 		<pt-BR>Meritocracia</pt-BR>
 		<ko>성과주의</ko>
+		<fixja>実力主義</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NO_ONE_WILL_KNOW_TITLE</zType>
@@ -1898,6 +2042,7 @@
 		<zh-CN>无人知晓</zh-CN>
 		<pt-BR>Ninguém Saberá</pt-BR>
 		<ko>아무도 모를 것이다</ko>
+		<fixja>誰一人として知らない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUIN_RISING_SCHOLARSHIP_TITLE</zType>
@@ -1911,6 +2056,7 @@
 		<zh-CN>古老的谜题</zh-CN>
 		<pt-BR>Enigma Antigo</pt-BR>
 		<ko>고대의 수수께끼</ko>
+		<fixja>古代の謎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEOPLE_DISPLEASER_TITLE</zType>
@@ -1924,6 +2070,7 @@
 		<zh-CN>众人不悦者</zh-CN>
 		<pt-BR>Presença Controversa</pt-BR>
 		<ko>백성의 등을 돌리는 자</ko>
+		<fixja>人々の不興</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ALLIES_FALLBACK_EVENT_TITLE</zType>
@@ -1937,6 +2084,7 @@
 		<zh-CN>一个没有过去的{G1:男人:女人}</zh-CN>
 		<pt-BR>{G1:Um Homem:Uma Mulher} sem Passado</pt-BR>
 		<ko>과거가 없는 {G1:남자:여자}</ko>
+		<fixja>過去のない{G1:男:女}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_RESTLESS_CITY_TITLE</zType>
@@ -1950,6 +2098,7 @@
 		<zh-CN>不安的城市</zh-CN>
 		<pt-BR>Cidade Incansável</pt-BR>
 		<ko>쉬지 않는 도시</ko>
+		<fixja>落ち着きのない街</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_BEST_OF_FRIENDS_TITLE</zType>
@@ -1963,6 +2112,7 @@
 		<zh-CN>最好的朋友</zh-CN>
 		<pt-BR>O Melhor dos Amigos</pt-BR>
 		<ko>최고의 친구</ko>
+		<fixja>最高の友</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNRELIABLE_TITLE</zType>
@@ -1976,6 +2126,7 @@
 		<zh-CN>雇佣兵态度</zh-CN>
 		<pt-BR>Atitude Mercenária</pt-BR>
 		<ko>용병의 태도</ko>
+		<fixja>利己的な傭兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CLEARCUT_DECISION_TITLE</zType>
@@ -1989,6 +2140,7 @@
 		<zh-CN>明确的决定</zh-CN>
 		<pt-BR>Corte Brusco</pt-BR>
 		<ko>명확한 결정</ko>
+		<fixja>明確な決断</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CLEARCUT_PROBLEM_TITLE</zType>
@@ -2002,6 +2154,7 @@
 		<zh-CN>明确的问题</zh-CN>
 		<pt-BR>Corte nas Relações</pt-BR>
 		<ko>명확한 문제</ko>
+		<fixja>明白な問題</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DIVINITY_TITLE</zType>
@@ -2015,6 +2168,7 @@
 		<zh-CN>神选之人</zh-CN>
 		<pt-BR>Escolha dos Deuses</pt-BR>
 		<ko>신의 선택을 받다</ko>
+		<fixja>神々に選ばれし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_INFLUENCE_TITLE</zType>
@@ -2028,6 +2182,7 @@
 		<zh-CN>影响之影响</zh-CN>
 		<pt-BR>Influência traz Influência</pt-BR>
 		<ko>영향력은 영향력을 낳는다</ko>
+		<fixja>力が力を生む</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_TITLE</zType>
@@ -2041,6 +2196,7 @@
 		<zh-CN>动摇的野心</zh-CN>
 		<pt-BR>Ambição Hesitante</pt-BR>
 		<ko>흔들리는 야망</ko>
+		<fixja>揺らぐ野心</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_YOUNG_TACTICIAN_TITLE</zType>
@@ -2054,6 +2210,7 @@
 		<zh-CN>先发制人</zh-CN>
 		<pt-BR>Primeiro Golpe</pt-BR>
 		<ko>첫 공격</ko>
+		<fixja>先制攻撃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRESS_URBAN_IMPROVEMENTS_TITLE</zType>
@@ -2067,6 +2224,7 @@
 		<zh-CN>没有你，我该怎么办，{CHARACTER-SHORT-3}？</zh-CN>
 		<pt-BR>O Que Eu Faria Sem Você, {CHARACTER-SHORT-3}</pt-BR>
 		<ko>{CHARACTER-SHORT-3}(이)가 있어서 다행이로다</ko>
+		<fixja>{CHARACTER-SHORT-3}よ、あなたがいなければ…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBITION_WORKERS_STRESS_TITLE</zType>
@@ -2080,6 +2238,7 @@
 		<zh-CN>职业道德</zh-CN>
 		<pt-BR>Ética de Trabalho</pt-BR>
 		<ko>해이해진 기강</ko>
+		<fixja>労働倫理</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_TRIBE_PEACE_TITLE</zType>
@@ -2093,6 +2252,7 @@
 		<zh-CN>礼貌至上</zh-CN>
 		<pt-BR>Educação em Primeiro Lugar</pt-BR>
 		<ko>정중하게 다가가야 한다</ko>
+		<fixja>礼儀第一</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBITION_STRESS_NATION_PEACE_TITLE</zType>
@@ -2106,6 +2266,7 @@
 		<zh-CN>保证</zh-CN>
 		<pt-BR>Garantias</pt-BR>
 		<ko>확언</ko>
+		<fixja>確約せしもの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_GAMBLING_TITLE</zType>
@@ -2119,6 +2280,7 @@
 		<zh-CN>教程：赌博</zh-CN>
 		<pt-BR>Tutorial: Apostas</pt-BR>
 		<ko>튜토리얼: 도박</ko>
+		<fixja>チュートリアル：賭け</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_STRESSED_TITLE</zType>
@@ -2132,6 +2294,7 @@
 		<zh-CN>教程：焦虑</zh-CN>
 		<pt-BR>Tutorial: Estresse</pt-BR>
 		<ko>튜토리얼: 압박감</ko>
+		<fixja>チュートリアル：ストレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DRAMA_TITLE</zType>
@@ -2145,6 +2308,7 @@
 		<zh-CN>{CHARACTER-SHORT-1}来访</zh-CN>
 		<pt-BR>Uma Visita de {CHARACTER-SHORT-1}</pt-BR>
 		<ko>{CHARACTER-SHORT-1}의 방문</ko>
+		<fixja>{CHARACTER-SHORT-1}の訪問</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_CONVICTION_TITLE</zType>
@@ -2158,6 +2322,7 @@
 		<zh-CN>切中要害</zh-CN>
 		<pt-BR>Pressão sobre o Problema</pt-BR>
 		<ko>재촉</ko>
+		<fixja>要点</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DISLIKE_TITLE</zType>
@@ -2171,6 +2336,7 @@
 		<zh-CN>坚定不移</zh-CN>
 		<pt-BR>Sem Hesitar</pt-BR>
 		<ko>흔들리지 않는</ko>
+		<fixja>不動の精神</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_FAITH_TITLE</zType>
@@ -2184,6 +2350,7 @@
 		<zh-CN>神的召唤</zh-CN>
 		<pt-BR>Chamados Divinos</pt-BR>
 		<ko>신의 부름</ko>
+		<fixja>神の呼び声</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SEEDING_THE_INITIATIVE_TITLE</zType>
@@ -2197,6 +2364,7 @@
 		<zh-CN>采取主动</zh-CN>
 		<pt-BR>Semeando a Iniciativa</pt-BR>
 		<ko>새로운 발상의 씨앗</ko>
+		<fixja>主導権の種まき</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DETAIL_ORIENTED_TITLE</zType>
@@ -2210,6 +2378,7 @@
 		<zh-CN>提供支持</zh-CN>
 		<pt-BR>Dando Apoio</pt-BR>
 		<ko>지원의 손길</ko>
+		<fixja>惜しみない支援</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HALF_A_THRONE_TITLE</zType>
@@ -2223,6 +2392,7 @@
 		<zh-CN>半个王座</zh-CN>
 		<pt-BR>Meio Trono</pt-BR>
 		<ko>왕좌의 절반</ko>
+		<fixja>玉座の半分</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_GRAND_VIZIER_TITLE</zType>
@@ -2236,6 +2406,7 @@
 		<zh-CN>教程：link(COUNCIL_GRAND_VIZIER)</zh-CN>
 		<pt-BR>Tutorial: link(COUNCIL_GRAND_VIZIER)</pt-BR>
 		<ko>튜토리얼: link(COUNCIL_GRAND_VIZIER)</ko>
+		<fixja>チュートリアル：link(COUNCIL_GRAND_VIZIER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ALLIES_A_VIZIER_TITLE</zType>
@@ -2249,6 +2420,7 @@
 		<zh-CN>一双能干的手</zh-CN>
 		<pt-BR>Uma Mão Capaz</pt-BR>
 		<ko>유능한 자</ko>
+		<fixja>頼もしい手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NOT_SO_EASY_TITLE</zType>
@@ -2262,6 +2434,7 @@
 		<zh-CN>直面{CHARACTER-SHORT-0}</zh-CN>
 		<pt-BR>Enfrentando {CHARACTER-SHORT-0}</pt-BR>
 		<ko>{CHARACTER-SHORT-0}(과)와의 대면</ko>
+		<fixja>{CHARACTER-SHORT-0}との対峙</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTOR_UNTEACHABLE_TITLE</zType>
@@ -2275,6 +2448,7 @@
 		<zh-CN>我们学到了什么？</zh-CN>
 		<pt-BR>O Que Aprendemos</pt-BR>
 		<ko>우리가 알게 된 것</ko>
+		<fixja>我らは何を学んだのか</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_COURT_SCHEMES_TITLE</zType>
@@ -2288,6 +2462,7 @@
 		<zh-CN>宫廷阴谋</zh-CN>
 		<pt-BR>Esquemas da Corte</pt-BR>
 		<ko>궁정의 음모</ko>
+		<fixja>宮廷に張り巡らされし陰謀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEALING_WITH_THE_VIZIER_TITLE</zType>
@@ -2301,6 +2476,7 @@
 		<zh-CN>分权</zh-CN>
 		<pt-BR>Separação de Poderes</pt-BR>
 		<ko>권력의 분리</ko>
+		<fixja>権力分断</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANOTHER_ROAD_TITLE</zType>
@@ -2314,6 +2490,7 @@
 		<zh-CN>继承危机</zh-CN>
 		<pt-BR>Continuidade</pt-BR>
 		<ko>연속성</ko>
+		<fixja>続けるか否か</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_UPPER_HAND_TITLE</zType>
@@ -2327,6 +2504,7 @@
 		<zh-CN>有利局势</zh-CN>
 		<pt-BR>Vantagem</pt-BR>
 		<ko>유리한 입장</ko>
+		<fixja>有利な立場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNSAFE_TITLE</zType>
@@ -2340,6 +2518,7 @@
 		<zh-CN>隐患</zh-CN>
 		<pt-BR>Insegurança</pt-BR>
 		<ko>안전하지 않은</ko>
+		<fixja>迫り来る危機</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DECLARE_CLIENT_STATE_TITLE</zType>
@@ -2353,6 +2532,7 @@
 		<zh-CN>{PLAYER-0,1}霸权</zh-CN>
 		<pt-BR>Hegemonia {PLAYER-0,6}</pt-BR>
 		<ko>{PLAYER-0,1}의 패권</ko>
+		<fixja>{PLAYER-0,1}の覇権</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_JOB_SECURITY_TITLE</zType>
@@ -2366,6 +2546,7 @@
 		<zh-CN>{PLAYER-0}之手</zh-CN>
 		<pt-BR>A Mão {PLAYER-0,6}</pt-BR>
 		<ko>{PLAYER-0}의 손</ko>
+		<fixja>{PLAYER-0}の手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHANGING_TIMES_TITLE</zType>
@@ -2379,6 +2560,7 @@
 		<zh-CN>风云变幻</zh-CN>
 		<pt-BR>Ventos da Mudança</pt-BR>
 		<ko>바뀐 흐름</ko>
+		<fixja>風向きの変化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FREE_AT_LAST_TITLE</zType>
@@ -2392,6 +2574,7 @@
 		<zh-CN>信守承诺</zh-CN>
 		<pt-BR>O Valor de Sua Palavra</pt-BR>
 		<ko>그들이 말했던 대로</ko>
+		<fixja>言行一致</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FREE_AT_LAST_TO_LOSE_TITLE</zType>
@@ -2405,6 +2588,7 @@
 		<zh-CN>不再使用</zh-CN>
 		<pt-BR>Uso Descontinuado</pt-BR>
 		<ko>더는 유용하지 않다</ko>
+		<fixja>使用中止</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_CLIENT_STATE_TITLE</zType>
@@ -2418,6 +2602,7 @@
 		<zh-CN>{PLAYER-0}控制削弱</zh-CN>
 		<pt-BR>O Domínio {PLAYER-0,1} Enfraquece</pt-BR>
 		<ko>{PLAYER-0}의 통제가 느슨해지다</ko>
+		<fixja>弱まる{PLAYER-POSS-0}の影響力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_STATUS_QUO_TITLE</zType>
@@ -2431,6 +2616,7 @@
 		<zh-CN>不安的宁静</zh-CN>
 		<pt-BR>Uma Quietude Enervante</pt-BR>
 		<ko>불편한 침묵</ko>
+		<fixja>不穏な静けさ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CLIENT_STATE_TRIBUTE_TITLE</zType>
@@ -2444,6 +2630,7 @@
 		<zh-CN>{PLAYER-0}债务</zh-CN>
 		<pt-BR>As Dívidas {PLAYER-0,6}</pt-BR>
 		<ko>{PLAYER-0}의 몫</ko>
+		<fixja>{PLAYER-POSS-0}の役割</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_OVERSIGHT_TITLE</zType>
@@ -2457,6 +2644,7 @@
 		<zh-CN>经济巨头</zh-CN>
 		<pt-BR>Peso Pesado da Economia</pt-BR>
 		<ko>경제 거물</ko>
+		<fixja>経済大国</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECLARE_WAR_SPOUSE_TITLE</zType>
@@ -2470,6 +2658,7 @@
 		<zh-CN>对{CHARACTER-SHORT-1}的人民宣战</zh-CN>
 		<pt-BR>Declare link(DIPLOMACY_WAR) Contra o Povo de {CHARACTER-SHORT-1}</pt-BR>
 		<ko>{CHARACTER-SHORT-1}의 사람들에게 link(DIPLOMACY_WAR) 선포</ko>
+		<fixja>{CHARACTER-SHORT-POSS-1}、link(DIPLOMACY_WAR)を宣言</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_SPOUSE_TITLE</zType>
@@ -2483,6 +2672,7 @@
 		<zh-CN>誓言与血缘的束缚</zh-CN>
 		<pt-BR>Unidos por Votos e Sangue</pt-BR>
 		<ko>맹세와 피로 묶인</ko>
+		<fixja>誓いと血の絆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NEW_PALACE_TITLE</zType>
@@ -2496,6 +2686,7 @@
 		<zh-CN>以退为进</zh-CN>
 		<pt-BR>Avançando para o Retiro</pt-BR>
 		<ko>별장 건설</ko>
+		<fixja>癒やしを求めて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECADENT_LIFESTYLE_TITLE</zType>
@@ -2509,6 +2700,7 @@
 		<zh-CN>引领潮流</zh-CN>
 		<pt-BR>Figura da Moda</pt-BR>
 		<ko>유행의 선도자</ko>
+		<fixja>先駆者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LENDING_A_HAND_TITLE</zType>
@@ -2522,6 +2714,7 @@
 		<zh-CN>受托</zh-CN>
 		<pt-BR>Confiável</pt-BR>
 		<ko>믿고 맡기다</ko>
+		<fixja>委ねられた権限</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACCEPTANCE_TITLE</zType>
@@ -2535,6 +2728,7 @@
 		<zh-CN>就这一次</zh-CN>
 		<pt-BR>Só Dessa Vez</pt-BR>
 		<ko>이번 한 번만</ko>
+		<fixja>今回は…</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LET_LOOSE_TITLE</zType>
@@ -2548,6 +2742,7 @@
 		<zh-CN>{G1:他:她}说会很有趣</zh-CN>
 		<pt-BR>"Vai Ser Divertido", {G1:Ele:Ela} Disse</pt-BR>
 		<ko>재미있을 거예요</ko>
+		<fixja>きっと楽しいはずだと言う{G1:彼:彼女}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_WATCHFUL_EYE_TITLE</zType>
@@ -2561,6 +2756,7 @@
 		<zh-CN>警惕的目光</zh-CN>
 		<pt-BR>Um Olhar Vigilante</pt-BR>
 		<ko>감시하는 눈</ko>
+		<fixja>突き刺さる視線</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAPPED_TITLE</zType>
@@ -2574,6 +2770,7 @@
 		<zh-CN>陷阱</zh-CN>
 		<pt-BR>Tumba Improvisada</pt-BR>
 		<ko>함정에 빠지다</ko>
+		<fixja>閉じ込められて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAPPED_SAVED_TITLE</zType>
@@ -2587,6 +2784,7 @@
 		<zh-CN>废墟之中</zh-CN>
 		<pt-BR>Dos Entulhos</pt-BR>
 		<ko>돌무더기 안에서</ko>
+		<fixja>瓦礫の中から</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAPPED_FAILURE_TITLE</zType>
@@ -2600,6 +2798,7 @@
 		<zh-CN>徒留废墟</zh-CN>
 		<pt-BR>Ao Entulho Voltaremos</pt-BR>
 		<ko>돌무더기만 남았다</ko>
+		<fixja>残るは瓦礫のみ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PUT_TO_THE_SWORD_TITLE</zType>
@@ -2613,6 +2812,7 @@
 		<zh-CN>武力镇压</zh-CN>
 		<pt-BR>Posto à Espada</pt-BR>
 		<ko>실전에 나서다</ko>
+		<fixja>剣に手をかけて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_DIVORCE_TITLE</zType>
@@ -2626,6 +2826,7 @@
 		<zh-CN>唯此不可</zh-CN>
 		<pt-BR>Tudo Menos Isso</pt-BR>
 		<ko>이것만은 안 돼</ko>
+		<fixja>唯一の選択肢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_DIVORCE_WANTON_TITLE</zType>
@@ -2639,6 +2840,7 @@
 		<zh-CN>性情</zh-CN>
 		<pt-BR>Temperamento</pt-BR>
 		<ko>기질</ko>
+		<fixja>本人の気質</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACCOUNTABILITY_TITLE</zType>
@@ -2652,6 +2854,7 @@
 		<zh-CN>责任</zh-CN>
 		<pt-BR>Responsabilidade</pt-BR>
 		<ko>책임</ko>
+		<fixja>説明責任</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNDERMINED_TITLE</zType>
@@ -2665,6 +2868,7 @@
 		<zh-CN>策略与战术</zh-CN>
 		<pt-BR>Tato e Táticas</pt-BR>
 		<ko>계략과 전술</ko>
+		<fixja>機転と戦術</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POWER_OF_PRAYER_TITLE</zType>
@@ -2678,6 +2882,7 @@
 		<zh-CN>祈祷的力量</zh-CN>
 		<pt-BR>O Poder da Oração</pt-BR>
 		<ko>기도의 힘</ko>
+		<fixja>祈りの力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POWER_OF_PRAYER_SPOUSE_TITLE</zType>
@@ -2691,6 +2896,7 @@
 		<zh-CN>成年礼</zh-CN>
 		<pt-BR>Ritos de Passagem</pt-BR>
 		<ko>통과 의례</ko>
+		<fixja>通過儀礼</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_RECOGNITION_TITLE</zType>
@@ -2704,6 +2910,7 @@
 		<zh-CN>无可挑剔</zh-CN>
 		<pt-BR>Impecável</pt-BR>
 		<ko>결점이 없는</ko>
+		<fixja>正統性</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OPPOSITION_TITLE</zType>
@@ -2717,6 +2924,7 @@
 		<zh-CN>反对</zh-CN>
 		<pt-BR>Oposição</pt-BR>
 		<ko>반발</ko>
+		<fixja>反対勢力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BEAUTY_AND_GUILE_TITLE</zType>
@@ -2730,6 +2938,7 @@
 		<zh-CN>美貌与狡猾</zh-CN>
 		<pt-BR>Beleza e Sagacidade</pt-BR>
 		<ko>아름다움과 책략</ko>
+		<fixja>美と狡猾さ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REFUGEES_TITLE</zType>
@@ -2743,6 +2952,7 @@
 		<zh-CN>{TRIBE-0,1}家族</zh-CN>
 		<pt-BR>Famílias {TRIBE-0,3}</pt-BR>
 		<ko>{TRIBE-0,1} 가족들</ko>
+		<fixja>{TRIBE-0,1}の氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOLY_SHAMELESS_TITLE</zType>
@@ -2756,6 +2966,7 @@
 		<zh-CN>{S1.GOD}的恩惠</zh-CN>
 		<pt-BR>O Favor {S1.GOD,3}</pt-BR>
 		<ko>{S1.GOD}의 호의</ko>
+		<fixja>{S1.GOD}の恩寵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEARTLAND_TITLE</zType>
@@ -2769,6 +2980,7 @@
 		<zh-CN>{FAMILY-0}中心地带</zh-CN>
 		<pt-BR>O Interior da Família {FAMILY-0,1}</pt-BR>
 		<ko>{FAMILY-0} 가문의 중심</ko>
+		<fixja>{FAMILY-0}の心の拠り所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ALL_ROADS_LEAD_TITLE</zType>
@@ -2782,6 +2994,7 @@
 		<zh-CN>条条大路通{CITY-0}</zh-CN>
 		<pt-BR>Todos os Caminhos Levam a {CITY-0}</pt-BR>
 		<ko>모든 길은 {CITY-0}에 다다른다</ko>
+		<fixja>全ての道は{CITY-0}に通ず</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SHARED_HUNT_TITLE</zType>
@@ -2795,6 +3008,7 @@
 		<zh-CN>{TRIBE-1,1}狩猎场</zh-CN>
 		<pt-BR>Área de Caça dos {TRIBE-1}</pt-BR>
 		<ko>{TRIBE-1,1} 사냥터</ko>
+		<fixja>{TRIBE-1,1}の狩り場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BEAUTIFICATION_TITLE</zType>
@@ -2808,6 +3022,7 @@
 		<zh-CN>令人屏息</zh-CN>
 		<pt-BR>De Tirar o Fôlego</pt-BR>
 		<ko>숨 막히는 아름다움</ko>
+		<fixja>息をのむような表現</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORDSMITHS_TITLE</zType>
@@ -2821,6 +3036,7 @@
 		<zh-CN>文艺时代</zh-CN>
 		<pt-BR>A Arte das Palavras</pt-BR>
 		<ko>언어의 달인</ko>
+		<fixja>言葉の魔術師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUSTENANCE_TITLE</zType>
@@ -2834,6 +3050,7 @@
 		<zh-CN>盈余</zh-CN>
 		<pt-BR>Excedente</pt-BR>
 		<ko>잉여분</ko>
+		<fixja>過剰供給</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOLLOWERS_GATHER_TITLE</zType>
@@ -2847,6 +3064,7 @@
 		<zh-CN>追随者集结</zh-CN>
 		<pt-BR>Reunião de Seguidores</pt-BR>
 		<ko>지지자들이 모이다</ko>
+		<fixja>集う信者たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CAN_NEVER_BE_TOO_SURE_TITLE</zType>
@@ -2860,6 +3078,7 @@
 		<zh-CN>先见之明</zh-CN>
 		<pt-BR>Antecipação</pt-BR>
 		<ko>선견지명</ko>
+		<fixja>先見の明</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_PROWESS_TITLE</zType>
@@ -2873,6 +3092,7 @@
 		<zh-CN>一个挑战</zh-CN>
 		<pt-BR>Um Desafio</pt-BR>
 		<ko>도전</ko>
+		<fixja>挑戦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_PROWESS_ENDED_TITLE</zType>
@@ -2886,6 +3106,7 @@
 		<zh-CN>应对挑战</zh-CN>
 		<pt-BR>A Resposta ao Desafio</pt-BR>
 		<ko>도전에 응하다</ko>
+		<fixja>血の答え</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_PROWESS_RISEN_TITLE</zType>
@@ -2899,6 +3120,7 @@
 		<zh-CN>一刹了结</zh-CN>
 		<pt-BR>Um Final Rápido</pt-BR>
 		<ko>순식간에 끝나다</ko>
+		<fixja>決着は一瞬で</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIPPED_ASUNDER_TITLE</zType>
@@ -2912,6 +3134,7 @@
 		<zh-CN>撕裂</zh-CN>
 		<pt-BR>{G1:Destroçado:Destroçada}</pt-BR>
 		<ko>사무치는 슬픔</ko>
+		<fixja>引き裂かれる思い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_EXPERIENCE_TITLE</zType>
@@ -2925,6 +3148,7 @@
 		<zh-CN>援手</zh-CN>
 		<pt-BR>Dar-lhe uma Mão</pt-BR>
 		<ko>도움의 손길</ko>
+		<fixja>救いの手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_OPPORTUNITY_TITLE</zType>
@@ -2938,6 +3162,7 @@
 		<zh-CN>不再受欢迎</zh-CN>
 		<pt-BR>Boas-Vindas Revogadas</pt-BR>
 		<ko>환영받지 못하다</ko>
+		<fixja>居場所を失った者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DANGER_TITLE</zType>
@@ -2951,6 +3176,7 @@
 		<zh-CN>{TRIBE-1,1}统一</zh-CN>
 		<pt-BR>Unidade {TRIBE-1,4}</pt-BR>
 		<ko>{TRIBE-1,1}의 단결</ko>
+		<fixja>{TRIBE-1,1}の団結</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DANGER_PEACE_SUCCESS_TITLE</zType>
@@ -2964,6 +3190,7 @@
 		<zh-CN>达成协议</zh-CN>
 		<pt-BR>Acordo Fechado</pt-BR>
 		<ko>거래 성립</ko>
+		<fixja>交渉成立</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DANGER_PEACE_FAIL_TITLE</zType>
@@ -2977,6 +3204,7 @@
 		<zh-CN>暴露弱点</zh-CN>
 		<pt-BR>Mostra de Fraqueza</pt-BR>
 		<ko>약점을 드러내다</ko>
+		<fixja>弱さの表出</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DANGER_CONFLICT_SUCCESS_TITLE</zType>
@@ -2990,6 +3218,7 @@
 		<zh-CN>{TRIBE-1,1}混乱</zh-CN>
 		<pt-BR>Desorganização {TRIBE-1,4}</pt-BR>
 		<ko>{TRIBE-1,1}의 혼란</ko>
+		<fixja>混乱する{TRIBE-1,1}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DANGER_CONFLICT_FAIL_TITLE</zType>
@@ -3003,6 +3232,7 @@
 		<zh-CN>{CHARACTER-0}守株待兔</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-0} Estava {G3:Pronto:Pronta}</pt-BR>
 		<ko>준비를 마쳤던 {CHARACTER-0}</ko>
+		<fixja>準備をしていた{CHARACTER-0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DANGER_WAIT_TITLE</zType>
@@ -3016,6 +3246,7 @@
 		<zh-CN>{CHARACTER-0}袖手旁观</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-0} Sem Freios</pt-BR>
 		<ko>확인되지 않았던 {CHARACTER-0}</ko>
+		<fixja>未確認</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GODS_BLESS_TITLE</zType>
@@ -3029,6 +3260,7 @@
 		<zh-CN>天上的盟友</zh-CN>
 		<pt-BR>Aliados dos Céus</pt-BR>
 		<ko>하늘 위의 동맹</ko>
+		<fixja>信仰による救い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REBELLION_GROWS_TITLE</zType>
@@ -3042,6 +3274,7 @@
 		<zh-CN>叛乱加剧</zh-CN>
 		<pt-BR>Aumento da Rebelião</pt-BR>
 		<ko>반란군이 늘어나다</ko>
+		<fixja>広がる反乱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_INITIATVE_TITLE</zType>
@@ -3055,6 +3288,7 @@
 		<zh-CN>{CHARACTER-SHORT-4}的让棋策略</zh-CN>
 		<pt-BR>A Aposta de {CHARACTER-SHORT-4}</pt-BR>
 		<ko>{CHARACTER-SHORT-4}의 전략</ko>
+		<fixja>{CHARACTER-SHORT-POSS-4}の奇策</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPOILS_OF_NATION_TITLE</zType>
@@ -3068,6 +3302,7 @@
 		<zh-CN>{CITY-2}的战利品</zh-CN>
 		<pt-BR>Os Espólios de {CITY-2}</pt-BR>
 		<ko>{CITY-2}의 전리품</ko>
+		<fixja>{CITY-2}の戦利品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CLAIMED_LANDS_TITLE</zType>
@@ -3081,6 +3316,7 @@
 		<zh-CN>{TRIBE-1,1}要求</zh-CN>
 		<pt-BR>Reinvindicações {TRIBE-1,4}</pt-BR>
 		<ko>{TRIBE-1,1}의 주장</ko>
+		<fixja>{TRIBE-1,1}の要求</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HIARBAS_RETURNS_TITLE</zType>
@@ -3094,6 +3330,7 @@
 		<zh-CN>{CHARACTER-SHORT-3}归来</zh-CN>
 		<pt-BR>A Volta de {CHARACTER-SHORT-3}</pt-BR>
 		<ko>{CHARACTER-SHORT-2}의 귀환</ko>
+		<fixja>{CHARACTER-SHORT-3}の帰還</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEX_OPPIA_TITLE</zType>
@@ -3107,6 +3344,7 @@
 		<zh-CN>奢侈禁止令</zh-CN>
 		<pt-BR>Lex Oppia</pt-BR>
 		<ko>사치품 제한법</ko>
+		<fixja>オッピウス法</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OMENS_OF_YOUR_END_TITLE</zType>
@@ -3120,6 +3358,7 @@
 		<zh-CN>末日预兆</zh-CN>
 		<pt-BR>Presságios do seu Fim</pt-BR>
 		<ko>당신이 몰락할 징조</ko>
+		<fixja>終わりの前兆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_DECEPTION_REVEALED_TITLE</zType>
@@ -3133,6 +3372,7 @@
 		<zh-CN>被揭露的背叛</zh-CN>
 		<pt-BR>Engano Revelado</pt-BR>
 		<ko>배신이 밝혀지다</ko>
+		<fixja>明らかになった企み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BETRAYAL_ANSWERED_TITLE</zType>
@@ -3146,6 +3386,7 @@
 		<zh-CN>对背叛的回应</zh-CN>
 		<pt-BR>Resposta à Traição</pt-BR>
 		<ko>배신을 심판하다</ko>
+		<fixja>裏切りの答え</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OMENS_TURN_TRUE_TITLE</zType>
@@ -3159,6 +3400,7 @@
 		<zh-CN>预兆成真</zh-CN>
 		<pt-BR>Presságios Verdadeiros</pt-BR>
 		<ko>징조가 사실이 되다</ko>
+		<fixja>現実と化した前兆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GODS_DO_NOT_PLAY_DICE_TITLE</zType>
@@ -3172,6 +3414,7 @@
 		<zh-CN>寻求预示</zh-CN>
 		<pt-BR>Em Busca de Presciência</pt-BR>
 		<ko>전조를 찾다</ko>
+		<fixja>示唆を求めて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GODS_WIN_AT_DICE_TITLE</zType>
@@ -3185,6 +3428,7 @@
 		<zh-CN>非正统的什一税</zh-CN>
 		<pt-BR>Uma Doação Incomum</pt-BR>
 		<ko>독특한 십일조</ko>
+		<fixja>異例の献上物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_YOU_WIN_AT_DICE_TITLE</zType>
@@ -3198,6 +3442,7 @@
 		<zh-CN>神不掷骰</zh-CN>
 		<pt-BR>Os Deuses Não Jogam Dados</pt-BR>
 		<ko>신들은 도박하지 않는다</ko>
+		<fixja>神はサイコロを振らない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MONISM_TITLE</zType>
@@ -3211,6 +3456,7 @@
 		<zh-CN>一元论</zh-CN>
 		<pt-BR>Monismo</pt-BR>
 		<ko>일원론</ko>
+		<fixja>一元論</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_WAR_DRAGS_ON_TITLE</zType>
@@ -3224,6 +3470,7 @@
 		<zh-CN>link(OCCURRENCE_CIVIL_WAR)延续</zh-CN>
 		<pt-BR>A link(OCCURRENCE_CIVIL_WAR) Continua</pt-BR>
 		<ko>계속되는 link(OCCURRENCE_CIVIL_WAR)</ko>
+		<fixja>link(OCCURRENCE_CIVIL_WAR)は続く</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_USURPERS_ALLY_TITLE</zType>
@@ -3237,6 +3484,7 @@
 		<zh-CN>援助link(TRIBE_REBELS)</zh-CN>
 		<pt-BR>Ajuda aos link(TRIBE_REBELS)</pt-BR>
 		<ko>link(TRIBE_REBELS)에 대한 원조</ko>
+		<fixja>link(TRIBE_REBELS)への支援</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_CITY_DIES_TITLE</zType>
@@ -3250,6 +3498,7 @@
 		<zh-CN>只剩瓦砾</zh-CN>
 		<pt-BR>Restos e Escombros</pt-BR>
 		<ko>돌무더기만 남다</ko>
+		<fixja>残されたのは瓦礫だけ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_USURPER_SURRENDERS_TITLE</zType>
@@ -3263,6 +3512,7 @@
 		<zh-CN>{CHARACTER-SHORT-0}投降</zh-CN>
 		<pt-BR>Rendição de {CHARACTER-SHORT-0}</pt-BR>
 		<ko>{CHARACTER-SHORT-0}의 항복</ko>
+		<fixja>{CHARACTER-SHORT-0}の降伏</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_END_OF_THE_USURPER_TITLE</zType>
@@ -3276,6 +3526,7 @@
 		<zh-CN>{CHARACTER-0}的终结</zh-CN>
 		<pt-BR>O Fim de {CHARACTER-SHORT-0}</pt-BR>
 		<ko>{CHARACTER-0}의 최후</ko>
+		<fixja>{CHARACTER-POSS-0}の終わり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_USURPER_NOT_FOUND_FALLBACK_TITLE</zType>
@@ -3289,6 +3540,7 @@
 		<zh-CN>link(OCCURRENCE_CIVIL_WAR)结束</zh-CN>
 		<pt-BR>A link(OCCURRENCE_CIVIL_WAR) Termina</pt-BR>
 		<ko>link(OCCURRENCE_CIVIL_WAR) 종료</ko>
+		<fixja>link(OCCURRENCE_CIVIL_WAR)終結</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRESSED_TO_INSANE_TITLE</zType>
@@ -3302,6 +3554,7 @@
 		<zh-CN>屈服或毁灭</zh-CN>
 		<pt-BR>Ceder ou Adaptar-se</pt-BR>
 		<ko>구부러지거나 부러지거나</ko>
+		<fixja>屈するか破れるか</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_USURPER_TITLE</zType>
@@ -3315,6 +3568,7 @@
 		<zh-CN>{CHARACTER-SHORT-1}的战斗召唤</zh-CN>
 		<pt-BR>A Convocação de {CHARACTER-SHORT-1}</pt-BR>
 		<ko>군대를 동원한 {CHARACTER-SHORT-1}</ko>
+		<fixja>{CHARACTER-SHORT-POSS-1}、戦闘準備の呼びかけ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ONE_WAY_OR_ANOTHER_TITLE</zType>
@@ -3328,6 +3582,7 @@
 		<zh-CN>从link(COUNCIL_GRAND_VIZIER)到未加冕的{G0:国王:王后}</zh-CN>
 		<pt-BR>De link(COUNCIL_GRAND_VIZIER) {G0:a Rei:à Rainha} sem Coroa</pt-BR>
 		<ko>link(COUNCIL_GRAND_VIZIER)에서 폐위된 {G0:왕:여왕}으로</ko>
+		<fixja>From link(COUNCIL_GRAND_VIZIER)から無冠の王へ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FLATTERING_COURTSHIP_TITLE</zType>
@@ -3341,6 +3596,7 @@
 		<zh-CN>{sentencecase:{PLAYER-1,2}}{G0:丈夫:妻子}？</zh-CN>
 		<pt-BR>{G0:Uma Esposa:Um Marido} {PLAYER-1,6}?</pt-BR>
 		<ko>{PLAYER-1,2} {G0:아내:남편}?</ko>
+		<fixja>{PLAYER-1,2}の{G0:妻:夫}？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PROMISED_TITLE</zType>
@@ -3354,6 +3610,7 @@
 		<zh-CN>{CHARACTER-SHORT-1}的代价</zh-CN>
 		<pt-BR>O Preço de {CHARACTER-SHORT-1}</pt-BR>
 		<ko>{CHARACTER-SHORT-1}의 가치</ko>
+		<fixja>{CHARACTER-SHORT-POSS-1}の価値</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EXTRAVAGANT_TASTES_TITLE</zType>
@@ -3367,6 +3624,7 @@
 		<zh-CN>只要最好的</zh-CN>
 		<pt-BR>Apenas o Melhor</pt-BR>
 		<ko>탁월한 취향</ko>
+		<fixja>最上級の生活</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DAUGHTER_OF_CITY_TITLE</zType>
@@ -3380,6 +3638,7 @@
 		<zh-CN>{CITY-2}的女儿</zh-CN>
 		<pt-BR>Filha de {CITY-2}</pt-BR>
 		<ko>{CITY-2}의 딸</ko>
+		<fixja>{CITY-2}の娘</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TAKING_CREDIT_TITLE</zType>
@@ -3393,6 +3652,7 @@
 		<zh-CN>应该赞赏的，就予以赞赏</zh-CN>
 		<pt-BR>O Reconhecimento Devido</pt-BR>
 		<ko>마땅한 자에게 공을 넘기다</ko>
+		<fixja>認めるべき功績は認める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIPPED_OFF_TITLE</zType>
@@ -3406,6 +3666,7 @@
 		<zh-CN>阴谋暴露</zh-CN>
 		<pt-BR>Esquemas Expostos</pt-BR>
 		<ko>계략이 드러나다</ko>
+		<fixja>暴かれた陰謀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GROWING_ADMINISTRATION_TITLE</zType>
@@ -3419,6 +3680,7 @@
 		<zh-CN>{PLAYER-0}扩张</zh-CN>
 		<pt-BR>A Expansão {PLAYER-0,6}</pt-BR>
 		<ko>확장하는 {PLAYER-0}</ko>
+		<fixja>{PLAYER-0}の勢力拡大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MAKING_PROMISES_TITLE</zType>
@@ -3432,6 +3694,7 @@
 		<zh-CN>宫中link(TRAIT_UNPOPULAR)</zh-CN>
 		<pt-BR>link(TRAIT_UNPOPULAR) na Corte</pt-BR>
 		<ko>궁정에서 link(TRAIT_UNPOPULAR) 자</ko>
+		<fixja>宮廷でのlink(TRAIT_UNPOPULAR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THE_TIME_TO_STRIKE_TITLE</zType>
@@ -3445,6 +3708,7 @@
 		<zh-CN>战争与背叛</zh-CN>
 		<pt-BR>Guerras Traiçoeiras</pt-BR>
 		<ko>전쟁과 반역</ko>
+		<fixja>争いと裏切り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SOUND_POLICY_TITLE</zType>
@@ -3458,6 +3722,7 @@
 		<zh-CN>明智的判断</zh-CN>
 		<pt-BR>Polícia Sonora</pt-BR>
 		<ko>소리를 통한 판단</ko>
+		<fixja>正しき判断</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EVENTSTORY_COUNTERINTUITIVE_AMBITION_TITLE</zType>
@@ -3471,6 +3736,7 @@
 		<zh-CN>力量与弱点</zh-CN>
 		<pt-BR>Força e Fraqueza</pt-BR>
 		<ko>강점과 약점</ko>
+		<fixja>強みと弱み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STRESSED_AMBITION_TITLE</zType>
@@ -3484,6 +3750,7 @@
 		<zh-CN>已知的未知</zh-CN>
 		<pt-BR>Desconhecidos Familiares</pt-BR>
 		<ko>우리가 아는 미지의 영역들</ko>
+		<fixja>既知の未知数</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_OPPORTUNITY_TITLE</zType>
@@ -3497,6 +3764,7 @@
 		<zh-CN>来自{CITY-1}的消息</zh-CN>
 		<pt-BR>Notícias de {CITY-1}</pt-BR>
 		<ko>{CITY-1}에서 온 소식</ko>
+		<fixja>{CITY-1}の言葉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TABLES_TURN_TITLE</zType>
@@ -3510,6 +3778,7 @@
 		<zh-CN>形势逆转</zh-CN>
 		<pt-BR>Virada de Jogo</pt-BR>
 		<ko>입장이 바뀌다</ko>
+		<fixja>形勢逆転</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CAUGHT_IN_A_BIND_TITLE</zType>
@@ -3523,6 +3792,7 @@
 		<zh-CN>命运眷顾</zh-CN>
 		<pt-BR>A Sorte Favorece</pt-BR>
 		<ko>행운의 여신</ko>
+		<fixja>運が味方する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_AGAIN_TITLE</zType>
@@ -3536,6 +3806,7 @@
 		<zh-CN>{PLAYER-0,1}宫廷</zh-CN>
 		<pt-BR>A Corte {PLAYER_F-0,1}</pt-BR>
 		<ko>{PLAYER-0,1}의 궁정</ko>
+		<fixja>{PLAYER-0,1}の宮廷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIVAL_RETURNS_TITLE</zType>
@@ -3549,6 +3820,7 @@
 		<zh-CN>熟悉的面孔</zh-CN>
 		<pt-BR>Um Rosto Familiar</pt-BR>
 		<ko>익숙한 얼굴</ko>
+		<fixja>見慣れた顔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNDETERRED_TITLE</zType>
@@ -3562,6 +3834,7 @@
 		<zh-CN>{G2:国王:王后}还是暴君？</zh-CN>
 		<pt-BR>{G2:Rei ou Tirano:Rainha ou Tirana}?</pt-BR>
 		<ko>{G2:왕:여왕} 혹은 폭군?</ko>
+		<fixja>{G2:王:女王}か、それとも暴君か？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARDAISAN_PREACHES_TITLE</zType>
@@ -3575,6 +3848,7 @@
 		<zh-CN>{CHARACTER-SHORT-3}布道</zh-CN>
 		<pt-BR>A Pregação de {CHARACTER-SHORT-3}</pt-BR>
 		<ko>{CHARACTER-SHORT-3}의 설교</ko>
+		<fixja>{CHARACTER-SHORT-3}の教え</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_FLOATING_MAN_TITLE</zType>
@@ -3588,6 +3862,7 @@
 		<zh-CN>灵魂与肉体</zh-CN>
 		<pt-BR>Corpo e Alma</pt-BR>
 		<ko>정신과 신체</ko>
+		<fixja>魂と肉体</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FACE_NORTH_TITLE</zType>
@@ -3601,6 +3876,7 @@
 		<zh-CN>{CHARACTER-SHORT-2}的作品</zh-CN>
 		<pt-BR>Os Trabalhos de {CHARACTER-SHORT-2}</pt-BR>
 		<ko>{CHARACTER-SHORT-2}의 작품</ko>
+		<fixja>{CHARACTER-SHORT-2}の作品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SENEMUTS_OBELISK_TITLE</zType>
@@ -3614,6 +3890,7 @@
 		<zh-CN>{CHARACTER-SHORT-1}</zh-CN>
 		<pt-BR>{CHARACTER-SHORT-1}</pt-BR>
 		<ko>{CHARACTER-SHORT-1}</ko>
+		<fixja>{CHARACTER-SHORT-1}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_MERCENARY_TITLE</zType>
@@ -3627,6 +3904,7 @@
 		<zh-CN>不光彩的故事</zh-CN>
 		<pt-BR>Ignóbil</pt-BR>
 		<ko>비열한 자</ko>
+		<fixja>無知</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_APROHAIRETIC_TITLE</zType>
@@ -3640,6 +3918,7 @@
 		<zh-CN>阴郁的日光</zh-CN>
 		<pt-BR>A Desoladora Luz do Dia</pt-BR>
 		<ko>암울한 대낮</ko>
+		<fixja>暗い光の煌めき</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WHILE_YOU_ARE_AHEAD_TITLE</zType>
@@ -3653,6 +3932,7 @@
 		<zh-CN>大奖</zh-CN>
 		<pt-BR>Recompensa</pt-BR>
 		<ko>상금</ko>
+		<fixja>支払い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_OPINION_TITLE</zType>
@@ -3666,6 +3946,7 @@
 		<zh-CN>统一战线</zh-CN>
 		<pt-BR>Fronte Unido</pt-BR>
 		<ko>연합 전선</ko>
+		<fixja>統一戦線</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_DECENTRALIZATION_TITLE</zType>
@@ -3679,6 +3960,7 @@
 		<zh-CN>来自{CITY-0}的干预</zh-CN>
 		<pt-BR>Interferências de {CITY-1}</pt-BR>
 		<ko>{CITY-0}의 참견</ko>
+		<fixja>{CITY-0}の干渉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIPINING_TITLE</zType>
@@ -3692,6 +3974,7 @@
 		<zh-CN>滋养还是腐蚀</zh-CN>
 		<pt-BR>Vinho ou Vinagre</pt-BR>
 		<ko>포도주 혹은 식초</ko>
+		<fixja>ワインか酢か</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_MASSES_TITLE</zType>
@@ -3705,6 +3988,7 @@
 		<zh-CN>城市规划</zh-CN>
 		<pt-BR>Planejamento Urbano</pt-BR>
 		<ko>도시 계획</ko>
+		<fixja>都市計画</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MUTUAL_DISTAIN_TITLE</zType>
@@ -3718,6 +4002,7 @@
 		<zh-CN>{CHARACTER-SHORT-1}的死敌</zh-CN>
 		<pt-BR>A Nêmesis de {CHARACTER-SHORT-1}</pt-BR>
 		<ko>{CHARACTER-SHORT-1}의 정적</ko>
+		<fixja>{CHARACTER-SHORT-POSS-1}との因縁</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CROWNING_THE_UNCROWNED_TITLE</zType>
@@ -3731,6 +4016,7 @@
 		<zh-CN>和平的边缘</zh-CN>
 		<pt-BR>O Raiar da Paz</pt-BR>
 		<ko>찰나의 평화</ko>
+		<fixja>平和の瀬戸際</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PROVOCATIONS_TITLE</zType>
@@ -3744,6 +4030,7 @@
 		<zh-CN>不尊重</zh-CN>
 		<pt-BR>Desrespeito</pt-BR>
 		<ko>무례한 처사</ko>
+		<fixja>無礼な態度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_PROVOCATIONS_TITLE</zType>
@@ -3757,6 +4044,7 @@
 		<zh-CN>过去未完成时</zh-CN>
 		<pt-BR>Um Passado de Tensões</pt-BR>
 		<ko>불완전한 과거의 긴장</ko>
+		<fixja>過去未完了形</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GIVE_AND_TAKE_TITLE</zType>
@@ -3770,6 +4058,7 @@
 		<zh-CN>利益一致</zh-CN>
 		<pt-BR>Interesses Alinhados</pt-BR>
 		<ko>관심사의 일치</ko>
+		<fixja>利害の一致</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_PLOT_TAKES_SHAPE_TITLE</zType>
@@ -3783,6 +4072,7 @@
 		<zh-CN>叛国，以及可能的谋杀</zh-CN>
 		<pt-BR>Traição e, Talvez, Assassinatos</pt-BR>
 		<ko>반역, 그리고 살인의 가능성</ko>
+		<fixja>背信と…殺害の疑惑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNEXPECTED_VACANCY_TITLE</zType>
@@ -3796,6 +4086,7 @@
 		<zh-CN>动机和机会</zh-CN>
 		<pt-BR>Motivo e Oportunidade</pt-BR>
 		<ko>동기와 기회</ko>
+		<fixja>動機と機会</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEROES_UPRISING_TITLE</zType>
@@ -3809,6 +4100,7 @@
 		<zh-CN>势力渐盛</zh-CN>
 		<pt-BR>A Ascensão da Maré</pt-BR>
 		<ko>떠오르는 물결</ko>
+		<fixja>勢い立つ潮流</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TAUNTING_TITLE</zType>
@@ -3822,6 +4114,7 @@
 		<zh-CN>极度蔑视</zh-CN>
 		<pt-BR>Desprezo Absoluto</pt-BR>
 		<ko>최고의 경멸</ko>
+		<fixja>この上ない軽蔑</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LUXURIES_REMOVED_TITLE</zType>
@@ -3835,6 +4128,7 @@
 		<zh-CN>link(CONCEPT_LUXURY,2)短缺</zh-CN>
 		<pt-BR>link(CONCEPT_LUXURY) em Falta</pt-BR>
 		<ko>사라진 link(CONCEPT_LUXURY,2)</ko>
+		<fixja>失われしlink(CONCEPT_LUXURY,2)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OVERLY_FAMILIAR_TITLE</zType>
@@ -3848,6 +4142,7 @@
 		<zh-CN>短暂的统治</zh-CN>
 		<pt-BR>Um Curto Reinado</pt-BR>
 		<ko>짧은 통치</ko>
+		<fixja>短い治世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LUXURIES_REMOVED_FOLLOWUP_TITLE</zType>
@@ -3861,6 +4156,7 @@
 		<zh-CN>{CITY-0}的不满</zh-CN>
 		<pt-BR>Insatisfação em {CITY-0}</pt-BR>
 		<ko>{CITY-0}의 불만</ko>
+		<fixja>{CITY-0}に溜まる不満</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TO_THE_FRONT_TITLE</zType>
@@ -3874,6 +4170,7 @@
 		<zh-CN>前线之困</zh-CN>
 		<pt-BR>As Linhas de Frente</pt-BR>
 		<ko>전선으로</ko>
+		<fixja>表面化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ACUTE_RISING_IMPATIENCE_TITLE</zType>
@@ -3887,6 +4184,7 @@
 		<zh-CN>为您效劳</zh-CN>
 		<pt-BR>À Disposição</pt-BR>
 		<ko>분부만 내려 주십시오</ko>
+		<fixja>どうぞ何なりと</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_YOU_BROUGHT_THIS_ON_YOURSELF_TITLE</zType>
@@ -3900,6 +4198,7 @@
 		<zh-CN>智穷</zh-CN>
 		<pt-BR>Perdendo a Paciência</pt-BR>
 		<ko>재치의 끝</ko>
+		<fixja>思案に暮れて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REVELRY_LIVE_IN_THE_MOMENT_TITLE</zType>
@@ -3913,6 +4212,7 @@
 		<zh-CN>活在当下</zh-CN>
 		<pt-BR>Vivendo o Momento</pt-BR>
 		<ko>현재를 즐기다</ko>
+		<fixja>今を生きる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CULTURE_IMPORTS_TITLE</zType>
@@ -3926,6 +4226,7 @@
 		<zh-CN>进口激增</zh-CN>
 		<pt-BR>Crescimento de Importações</pt-BR>
 		<ko>수입품 급증</ko>
+		<fixja>勢いづく輸入品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REFORMS_PROGRAM_TITLE</zType>
@@ -3939,6 +4240,7 @@
 		<zh-CN>改革计划</zh-CN>
 		<pt-BR>Programa de Reformas</pt-BR>
 		<ko>개혁 사업</ko>
+		<fixja>改革案</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PERSONAL_ENRICHMENT_TITLE</zType>
@@ -3952,6 +4254,7 @@
 		<zh-CN>中饱私囊</zh-CN>
 		<pt-BR>Enriquecimento Pessoal</pt-BR>
 		<ko>개인 역량 강화</ko>
+		<fixja>己のために</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REFORMS_COMPLETED_TITLE</zType>
@@ -3965,6 +4268,7 @@
 		<zh-CN>改革完成</zh-CN>
 		<pt-BR>Conclusão das Reformas</pt-BR>
 		<ko>개혁 완수</ko>
+		<fixja>改革完了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RESISTANCE_TO_REFORM_TITLE</zType>
@@ -3978,6 +4282,7 @@
 		<zh-CN>改革抵抗者</zh-CN>
 		<pt-BR>Resistência às Reformas</pt-BR>
 		<ko>개혁에 대한 저항</ko>
+		<fixja>改革への抵抗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REFORMS_DISRUPTED_TITLE</zType>
@@ -3991,6 +4296,7 @@
 		<zh-CN>{CHARACTER-SHORT-0}的改革</zh-CN>
 		<pt-BR>As Reformas de {CHARACTER-SHORT-0}</pt-BR>
 		<ko>{CHARACTER-SHORT-0}의 개혁</ko>
+		<fixja>{CHARACTER-SHORT-POSS-0}による改革</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NATIONAL_DEFENSE_TITLE</zType>
@@ -4004,6 +4310,7 @@
 		<zh-CN>保卫{PLAYER-0}</zh-CN>
 		<pt-BR>Defendendo {PLAYER-0,4}</pt-BR>
 		<ko>{PLAYER-0} 방어</ko>
+		<fixja>{PLAYER-0}の防衛</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECRETS_DONT_DIE_TITLE</zType>
@@ -4017,6 +4324,7 @@
 		<zh-CN>被窃的遗产</zh-CN>
 		<pt-BR>Legado Roubado</pt-BR>
 		<ko>빼앗긴 유산</ko>
+		<fixja>盗まれし遺産</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MAN_OF_CONFIDENCE_TITLE</zType>
@@ -4030,6 +4338,7 @@
 		<zh-CN>自信之人</zh-CN>
 		<pt-BR>Homem Confiante</pt-BR>
 		<ko>자신만만한 사람</ko>
+		<fixja>自信に満ちた男</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERE_AIR_THESE_WORDS_TITLE</zType>
@@ -4043,6 +4352,7 @@
 		<zh-CN>微不足道的话语</zh-CN>
 		<pt-BR>São Mero Ar, Essas Palavras</pt-BR>
 		<ko>허울뿐인 말</ko>
+		<fixja>ただの風、虚しい言葉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_WINNING_SMILE_TITLE</zType>
@@ -4056,6 +4366,7 @@
 		<zh-CN>他的方式</zh-CN>
 		<pt-BR>Algo Sobre Ele</pt-BR>
 		<ko>그의 매력</ko>
+		<fixja>彼のやり方</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RISING_VIOLENCE_TITLE</zType>
@@ -4069,6 +4380,7 @@
 		<zh-CN>{CHARACTER-SHORT-1}所能</zh-CN>
 		<pt-BR>O Alcance de {CHARACTER-SHORT-1}</pt-BR>
 		<ko>{CHARACTER-SHORT-1}의 손아귀</ko>
+		<fixja>何かを成し遂げるには</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NEXT_BEST_THING_TITLE</zType>
@@ -4082,6 +4394,7 @@
 		<zh-CN>{PLAYER-0,1}干涉</zh-CN>
 		<pt-BR>Interferência {PLAYER_F-0,1}</pt-BR>
 		<ko>{PLAYER-0,1}의 방해</ko>
+		<fixja>{PLAYER-0,1}の干渉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNCOMFORTABLE_FALSEHOOD_TITLE</zType>
@@ -4095,6 +4408,7 @@
 		<zh-CN>被告</zh-CN>
 		<pt-BR>Acusação</pt-BR>
 		<ko>헛소문</ko>
+		<fixja>糾弾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_KEPT_IN_LINE_TITLE</zType>
@@ -4108,6 +4422,7 @@
 		<zh-CN>知识就是力量</zh-CN>
 		<pt-BR>Conhecimento é Poder</pt-BR>
 		<ko>아는 것이 힘이다</ko>
+		<fixja>知は力なり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OBLIGATIONS_TITLE</zType>
@@ -4121,6 +4436,7 @@
 		<zh-CN>义务</zh-CN>
 		<pt-BR>Obrigações</pt-BR>
 		<ko>의무</ko>
+		<fixja>約束</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CASHING_IN_TITLE</zType>
@@ -4134,6 +4450,7 @@
 		<zh-CN>比黄金更珍贵</zh-CN>
 		<pt-BR>Mais Valioso que o Ouro</pt-BR>
 		<ko>금보다 가치 있는</ko>
+		<fixja>金よりも価値のあるもの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIME_MANAGEMENT_TITLE</zType>
@@ -4147,6 +4464,7 @@
 		<zh-CN>品味当下</zh-CN>
 		<pt-BR>Aproveitando o Momento</pt-BR>
 		<ko>순간을 즐기다</ko>
+		<fixja>瞬間の味わい</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AFLUTTER_TITLE</zType>
@@ -4160,6 +4478,7 @@
 		<zh-CN>未经请求</zh-CN>
 		<pt-BR>Encontro Espontâneo</pt-BR>
 		<ko>설렘</ko>
+		<fixja>自然に湧き上がるもの</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_PLOT_TOOK_SHAPE_TITLE</zType>
@@ -4173,6 +4492,7 @@
 		<zh-CN>阴谋成形</zh-CN>
 		<pt-BR>Uma Trama foi Tramada</pt-BR>
 		<ko>계략을 짜다</ko>
+		<fixja>具体化した計画</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEMANDS_OF_FREEDOM_TITLE</zType>
@@ -4186,6 +4506,7 @@
 		<zh-CN>自由诉求</zh-CN>
 		<pt-BR>Exigências da Liberdade</pt-BR>
 		<ko>석방 요구</ko>
+		<fixja>解放を求める声</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_PATH_TO_POWER_TITLE</zType>
@@ -4199,6 +4520,7 @@
 		<zh-CN>追求权力</zh-CN>
 		<pt-BR>Cortejando o Poder</pt-BR>
 		<ko>구애의 힘</ko>
+		<fixja>権力への渇望</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TASTE_FOR_POWER_TITLE</zType>
@@ -4212,6 +4534,7 @@
 		<zh-CN>{CHARACTER-0}的抱负</zh-CN>
 		<pt-BR>As Aspirações de {CHARACTER-SHORT-0}</pt-BR>
 		<ko>{CHARACTER-0}의 야망</ko>
+		<fixja>{CHARACTER-0}の願望</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_GREATER_PURPOSE_TITLE</zType>
@@ -4225,6 +4548,7 @@
 		<zh-CN>{CHARACTER-2}的抱负</zh-CN>
 		<pt-BR>As Aspirações de {CHARACTER-SHORT-2}</pt-BR>
 		<ko>{CHARACTER-2}의 야망</ko>
+		<fixja>{CHARACTER-2}の願望</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NOTHING_IS_EVER_EASY_TITLE</zType>
@@ -4238,6 +4562,7 @@
 		<zh-CN>世事艰难</zh-CN>
 		<pt-BR>Não Há Nada que Seja Fácil</pt-BR>
 		<ko>쉬운 일은 없다</ko>
+		<fixja>何事も簡単ではない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_THRONE_IS_YOURS_TITLE</zType>
@@ -4251,6 +4576,7 @@
 		<zh-CN>王位属于你</zh-CN>
 		<pt-BR>O Trono É Seu</pt-BR>
 		<ko>왕좌는 당신의 것</ko>
+		<fixja>玉座は私のものだ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRADE_MISSION_IN_THE_AREA_TITLE</zType>
@@ -4264,6 +4590,7 @@
 		<zh-CN>关系</zh-CN>
 		<pt-BR>Conexões</pt-BR>
 		<ko>연줄</ko>
+		<fixja>人脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOMECOMING_FERVOR_TITLE</zType>
@@ -4277,6 +4604,7 @@
 		<zh-CN>归乡的热情</zh-CN>
 		<pt-BR>O Fervor da Volta ao Lar</pt-BR>
 		<ko>귀환의 열기</ko>
+		<fixja>熱狂する宮廷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_VIZIER_SUPPORT_OR_SCHEME_TITLE</zType>
@@ -4290,5 +4618,6 @@
 		<zh-CN>{CHARACTER-0}</zh-CN>
 		<pt-BR>{CHARACTER-0}</pt-BR>
 		<ko>{CHARACTER-0}</ko>
+		<fixja>{CHARACTER-0}</fixja>
 	</Entry>
 </Root>

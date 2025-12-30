@@ -26,6 +26,7 @@
 		<zh-CN>重型战车~重型战车~重型战车</zh-CN>
 		<pt-BR>Biga Pesada~uma Biga Pesada~Bigas Pesadas~Unidade de Bigas Pesadas</pt-BR>
 		<ko>중전차병~중전차병~중전차병</ko>
+		<fixja>重量級戦車~重量級戦車~重量級戦車</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HITTITE_CHARIOT_2</zType>
@@ -39,5 +40,6 @@
 		<zh-CN>三人战车~三人战车~三人战车</zh-CN>
 		<pt-BR>Biga de Três Homens~uma Biga de Três Homens~Bigas de Três Homens~Unidade de Bigas de Três Homens</pt-BR>
 		<ko>삼인전차병~삼인전차병~삼인전차병</ko>
+		<fixja>三人乗り戦車~三人乗り戦車~三人乗り戦車</fixja>
 	</Entry>
 </Root>

@@ -66,6 +66,11 @@ As civilizações existentes nesse Velho Mundo podem ainda não saber sobre a fo
 처음에 라바르나라고 불린 당신은 중심지의 통합을 위한 전투를 통해 {CHARACTER-SHORT-1}(이)라는 호칭을 얻었습니다. 지금은 백성들이 당신을 지지하고 있지만, 모반의 위협이 아직 도사리고 있습니다. {PLAYER-0}가 선조들의 왕국을 뛰어넘는 강대한 국가가 되려면 당신의 가문이 일선에 나설 필요가 있습니다.
 
 기존의 고대 문명들은 {PLAYER-0}의 힘과 탁월함을 아직 모르지만, 곧 알게 될 것입니다. </ko>
+		<fixja>あなた、{CHARACTER-SHORT-1}はヒッタイトの戦士王である。
+
+当初はラバルナスと呼ばれていたが、中部地域統一の戦いを通じて、{CHARACTER-SHORT-1}という王の名を得た。今は民衆があなたを支えてくれているが、それでも陰謀の脅威が存在する。ヒッタイトが、あなたの先祖の王国を超える偉大な国になるためには、氏族が一致団結する必要がある。
+
+Old Worldの既存の文明は、まだヒッタイトの強さと美徳を知らない。しかし、いずれ知ることになるだろう。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_CHARIOT_COMBAT</zType>
@@ -88,6 +93,8 @@ Comment devraient-ils focaliser ces grandes aptitudes ?</fr>
 Qual foco eles devem dar para essas aptidões?</pt-BR>
 		<ko>{CHARACTER-1}의 교사들이 보고하기를 {G1:그:그녀}가 기병전에 굉장한 관심을 가지고 있으며, 놀라운 기술을 보여 준다고 합니다.
 이 훌륭한 적성을 어떻게 살려야 할까요?</ko>
+		<fixja>{CHARACTER-1}の家庭教師によると、{G1:彼:彼女}は騎兵部隊での戦闘に強い関心を示し、驚くべき腕前を発揮しているとのことだ。
+この素晴らしい才能をどう生かすべきだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_RICHES_OF_THE_HILLS</zType>
@@ -121,6 +128,9 @@ Com seu peito cheio de orgulho, {CHARACTER-SHORT-1} exclama:]]></pt-BR>
 		<ko><![CDATA["우리 민족은 수천 명의 신으로부터 언덕의 부를 물려받았습니다." {CHARACTER-1}의 교사가 {CITY-2}의 link(PROJECT_WALLS)을 바라보며 설명합니다.<br>
 "언덕에는 철과 석재 같은 귀중한 자원이 숨겨져 있답니다. 머리를 조금 쓰면 충분히 찾을 수 있지요. 언덕은 우리 영토를 보호하는 귀중한 아군이기도 합니다."<br>
 가슴에 자부심이 가득한 {CHARACTER-1}(은)는 이렇게 외칩니다.]]></ko>
+		<fixja><![CDATA[「千の神々の民である我々は、丘陵の富を神から受け継いだ」 {CHARACTER-1}の家庭教師が{CITY-2}のlink(PROJECT_WALLS)で、田園風景を眺めながらそう説明する。<br>
+「丘には重要な資源である鉄と石材が隠されている。少し悪知恵を働かせば、それらを見つけることができるだろう。また、丘は我々の領土を守ってくれる貴重な味方でもある」<br>
+{CHARACTER-1}は誇らしげに大声でこう言った。]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_THE_FAIREST_OF_LAWS</zType>
@@ -147,6 +157,8 @@ Com seu peito cheio de orgulho, {CHARACTER-SHORT-1} exclama:]]></pt-BR>
 		<ko>"우리 {PLAYER-0,3}은 법을 수호하는 민족이다. 현명한 선대왕들께서 만드신 우리의 법률은 모든 법 중에서 으뜸이다." {CHARACTER-1}(이)가 낭독합니다.
 		
 "우리의 법률이 모든 법률 중에서 으뜸인 이유는 무엇일까요?" 교사가 묻습니다.</ko>
+		<fixja><![CDATA[「我々{PLAYER-0,3}は法を順守する民である。古代の賢明な王たちによって定められた我々の法律は、あらゆる法律の中でも最も公正に作られている」{CHARACTER-1}が朗読した。 <br>
+「我々の法律が最も公正なものだと言えるのは、どうしてだと思う？」と家庭教師が尋ねた。]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_A_THOUSAND_GODS</zType>
@@ -172,6 +184,8 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<ko>"우리 {PLAYER-0,3}은 수천 명의 신을 거느리고 있습니다! 우리는 그 누구의 신도, 그 어느 곳의 신도 부정하지 않지요."
 
 우리가 섬기는 수많은 신성을 강조하는 교사에게 {CHARACTER-1}(이)가 어떻게 하면 신들을 잘 섬길 수 있는지 묻습니다.</ko>
+		<fixja><![CDATA[我ら{PLAYER-0,3}は千の神々の民だ。<br>
+我らはあらゆる神々を認める。誰が何処でどんな神々を崇拝していようと否定することはない。家庭教師が我が国に存在する数多くの神々について述べていると、{CHARACTER-1}が「すべての神々を敬うには、どうするのが一番良いのですか？」と尋ねた。]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_THE_CITY_GATES</zType>
@@ -186,6 +200,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>为了充分享受你和你{G2:儿子:女儿}{CHARACTER-SHORT-2}难得的相处时光，你们在{CITY-1}的神圣道路上散步。在你们穿越城市的大门时，你解释每一扇门都描绘着{PLAYER-0,3}的一项崇高美德。你要用哪道门来当作这堂课的结尾？</zh-CN>
 		<pt-BR>Aproveitando ao máximo esta rara ocasião para passar algum tempo com {G2:seu filho:sua filha} {CHARACTER-SHORT-2}, vocês vão caminhar na rua sagrada de {CITY-1}. Conforme vocês passam pelas portas da cidade, você explica como cada uma das portas demonstra uma das grandes virtudes dos {PLAYER-0,3}. Qual porta você escolhe para terminar a sua lição?</pt-BR>
 		<ko>당신은 {G2:아들:딸}인 {CHARACTER-SHORT-2}과(와) 지낼 수 있는 몇 안 되는 시간 동안 함께 {CITY-1}의 신성한 길을 산책합니다. 도시의 여러 관문을 지나면서 당신은 각 관문이 왜 {PLAYER-0,3}의 위대한 업적인지를 설명합니다. 어느 관문에서 마무리하겠습니까?</ko>
+		<fixja>あなたは{G2:息子:娘}{CHARACTER-SHORT-2}と過ごす貴重な機会を最大限に活用し、{CITY-1}の聖なる道を一緒に散策することにした。散歩中、都市の城門がそれぞれ{PLAYER-0,3}の偉大な美徳の一つを表していることを説明しながら、二人は門を通過する。散歩の締めくくりとして、最後にどの城門を選ぶべきだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_ARINNITTI</zType>
@@ -202,6 +217,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>这个季节目前看来很乐观，所有人都称赞你的统治，甚至连敌人都因为你的目光而退缩。 {CHARACTER-2}发出赞叹：「这是阿丽宁提在你身上留下的印记，我敬爱的{TITLE-3}！看哪，在你所到之处都有雪松的香气，还有阳光洒在你的头发上的样子！我们必须感谢女神赠与力量给你。让我们尽快在{CITY-0}中启用link(IMPROVEMENT_SHRINE_ARINNITTI)并举办奉献典礼，向众人及诸神展现你的虔诚。」 </zh-CN>
 		<pt-BR>Foi uma estação auspiciosa, todos elogiaram o seu governo e mesmo os inimigos se acovardaram do seu olhar. {CHARACTER-2} diz animadamente: "É a marca de Arinnitti sobre você, {TITLE-3,3}! Veja a forma com que o aroma do cedro lhe segue e a forma com que a luz do sol bate em seus cabelos! Nós devemos agradecer à deusa pela força que ela lhe concede. Vamos agilizar a abertura e a dedicação do grande link(IMPROVEMENT_SHRINE_ARINNITTI) em {CITY-0}, e mostrar aos homens e deuses a sua piedade."</pt-BR>
 		<ko>자비로운 계절이 찾아왔습니다. 모두가 당신의 통치를 찬양했고, 적들조차 당신의 시선 앞에 움츠러들었습니다. {CHARACTER-2}(이)가 토로합니다. "{TITLE-3}(이)시여, 이는 당신께 아린니티의 표식이 남은 것입니다! 보십시오, 백향목 향기가 당신의 뒤를 따르고 태양빛이 당신의 머릿결에 스며들고 있지 않습니까! 당신에게 힘을 내리신 여신께 감사를 표해야 합니다. {CITY-0}의 위대한 link(IMPROVEMENT_SHRINE_ARINNITTI)에서 진행하는 식전 행사와 의식을 재촉해 백성들과 신들께 당신의 신심을 보여야 합니다." </ko>
+		<fixja>今季はあらゆる物事が順風満帆に進んだ。誰もが我が国の統治を賞賛し、敵さえもあなたの視線にたじろいでいる。{CHARACTER-2}は、「{TITLE-3}よ、あなた様にはアリンニティの力が宿っています。ほら、杉の香りが周囲に広がり、太陽の光が髪を照らしているでしょう？女神様が与えてくれる力に感謝しなければなりません。なるべく早く{CITY-0}に巨大なlink(IMPROVEMENT_SHRINE_ARINNITTI)を開き、人々や 神々に敬虔な精神を示しましょう」と述べた。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_ARINNITTI</zType>
@@ -217,6 +233,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>雪松的气味充满了温暖的大厅，使你感到昏昏沉沉，女祭司用庄严而缓慢的语气说：「…于是，她让我坐在她的大腿上，再牵起我的手，然后在我之前踏上战场…」时间变得模糊，直到你吓了一跳，意识到朗诵已经完成，而{CHARACTER-2}正在与你进行热烈的交谈。 「…真不敢相信他们会怎么反应，但不管怎样，我们是否能期待你会参加{CITY-0}的新link(IMPROVEMENT_SHRINE_ARINNITTI)的完整仪式？」</zh-CN>
 		<pt-BR>Você sente uma sonolência conforme o aroma do cedro preenche o salão quente e a sacerdotisa entona: "...e então ela me deitou sobre seu colo e me tomou pela mão e tomou minha frente na batalha..." O tempo parece se estender infinitamente até que, com um susto, você percebe que o recital está completo e que {CHARACTER-SHORT-2} lhe fala animadamente: "...nem posso imaginar como eles reagiriam, mas de qualquer forma, podemos contar com sua presença para a cerimônia completa no novo link(IMPROVEMENT_SHRINE_ARINNITTI) em {CITY-0}?"</pt-BR>
 		<ko>백향목의 향기가 감도는 따뜻한 회랑에서 졸음이 느껴지는 와중 여사제의 목소리가 들립니다. "...그렇게 여신께서는 저를 무릎 위에 앉히시고 제 손을 쥔 다음 저를 두고 전장으로 떠나셨습니다..." 몽롱한 시간 끝에 정신을 차렸더니 낭송은 끝났고 당신은 {CHARACTER-2}(과)와 열띤 대화를 나누던 중이었습니다. "...저들이 어떻게 반응할지는 상상할 수 없지만, 그래도 {CITY-0}의 새로운 link(IMPROVEMENT_SHRINE_ARINNITTI)에서 열리는 전체 행사에 당신의 참석을 기대해도 되겠지요?"</ko>
+		<fixja>杉の香りが暖かい広間を満たす中、巫女が暗唱する経典の文句を聞いていると、眠気を感じてきた。「そして女神は我を膝の上に置き、我の手を取って、戦いに赴き…」あっという間に時間が過ぎ、気がつくと朗読が終わっていて、あなたは{CHARACTER-2}と楽しげに話している最中だった。 「彼らがどう反応するのか想像もつかないですが、ともかく、{CITY-0}の新しいlink(IMPROVEMENT_SHRINE_ARINNITTI)で行われる正式な儀式にご参加してくださるということでよいのですね？」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_ARINNITTI</zType>
@@ -232,6 +249,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>{CHARACTER-2}走进大厅，身后领着一队相貌庄严的女祭司，她们身穿着阳光般的艳丽金色服饰。 「我敬爱的{TITLE-3}，我就直说了，阿丽宁提已经抛弃了你，而如同黑暗会随着日落而来一般，人民很快也会抛弃你。不过，每个夜晚都会带来新的晨曦，就连像你这样的人也可以在{CITY-0}为link(IMPROVEMENT_SHRINE_ARINNITTI)举办盛大的落成仪式来祈求宽恕。」 </zh-CN>
 		<pt-BR>{CHARACTER-2} adentra o salão encabeçando uma formação de sacerdotisas de aparência severa envoltas pela luz dourada do sol. "{sentencecase:{TITLE-3,3}}, não medirei minhas palavras: Arinnitti lhe abandonou e logo seu povo também o fará, assim como é certo que a escuridão segue o pôr do sol. Mas cada noite traz um novo amanhecer, e mesmo alguém como você pode suplicar por perdão na grande cerimônia de dedicação ao link(IMPROVEMENT_SHRINE_ARINNITTI) em {CITY-0}."</pt-BR>
 		<ko>{CHARACTER-2}(이)가 태양의 밝은 금빛을 두른 근엄한 여사제 행렬의 선두에 서서 회랑으로 들어옵니다. "{TITLE-3}(이)시여, 둘러말하지 않겠습니다. 아린니티께서 당신을 저버리셨으며, 곧 백성들 역시 노을이 끝나고 덮치는 어둠처럼 그리할 것입니다. 하나 모든 밤 뒤에는 새벽이 있듯, 당신 같은 사람일지라도 {CITY-0}의 link(IMPROVEMENT_SHRINE_ARINNITTI)에서 진행하는 대제를 통해 용서를 구할 수 있습니다." </ko>
+		<fixja>太陽の輝きに包まれた、厳粛な面持ちの巫女たちを先頭に、{CHARACTER-2}が広間に入ってくる。「{TITLE-3}よ、言葉を選ばずに申し上げましょう。アリンニティはあなた様を見捨てました。闇が日没の後に続くように、やがて民も見放されることになるでしょう。それでも、明けない夜はありません。あなた様のような方でも、{CITY-0}のlink(IMPROVEMENT_SHRINE_ARINNITTI)で行われる盛大な奉献式で、赦しを請うことができます。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_TARHUN</zType>
@@ -247,6 +265,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>在你和最亲近的顾问一起参观防御工事时，{CHARACTER-2}走在你的身边。 「我敬爱的{TITLE-3}，我们的部队很强大，然而，少了众神的支持，任何人都无法在战争中获胜。请祈求塔尔亨的祝福。让他的闪电降于我们的敌人，让他们在他的圣牛脚边颤抖吧。请到{CITY-0}来，在link(IMPROVEMENT_SHRINE_TARHUN)的圣化过程中接受荣耀的位置，这样祂一定会注意到你的。」 </zh-CN>
 		<pt-BR>Em uma ronda das defesas junto com seus conselheiros mais próximos, {CHARACTER-2} caminha ao seu lado. "{sentencecase:{TITLE-3,3}}, nossas tropas são fortes, mas ninguém pode prevalecer sem o apoio dos deuses. Busque as bênçãos de Tahrun. Que os raios dele caiam sobre nossos inimigos, que eles tremam aos pés dos bois dele. Venha a {CITY-0}, e assuma uma posição honrada na santificação do link(IMPROVEMENT_SHRINE_TARHUN), tenho certeza que não passará despercebido a ele."</pt-BR>
 		<ko>당신이 측근들과 방비를 시찰하는 동안 {CHARACTER-2}(은)는 당신 곁에서 걷고 있습니다. "{TITLE-3}(이)시여, 우리의 군대는 강력하나 신들의 보살핌이 없는 한 절대로 전쟁에서 승리할 수 없습니다. 타르훈의 축복을 구하십시오. 적들에게 그분의 번개를 내려 신성한 황소들의 발치에서 그들이 떨게 하십시오. {CITY-0}의 link(IMPROVEMENT_SHRINE_TARHUN)에 오셔서 축성이 이루어지는 신성한 자리에 참석하시면 그분께서도 분명 주목하실 것입니다." </ko>
+		<fixja>あなたは側近の{CHARACTER-2}と共に我が国の防衛施設を視察して回った。「{TITLE-3}よ、我が軍は確かに強い。しかし、神々の後ろ盾なしには、何人も戦争に勝つことはできませぬ。タルフンのご加護を求めましょう。敵に稲妻を降らせ、主の雄牛の足元で震え上がらせるのです。{CITY-0}へおいでください。link(IMPROVEMENT_SHRINE_TARHUN)でお待ちしております。きっと主や民も歓迎してくれるはずです」 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_TARHUN</zType>
@@ -262,6 +281,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>随着一阵蹄声，{CHARACTER-2}带领着一群塔尔亨祭司和他们的的圣牛来到你面前。 「我敬爱的{TITLE-3}，诸神需要你的关注。在昨夜的暴风雨中，闪电先打下三次，随后又再次打下三次，所有的征兆都符合要在{CITY-0}的大link(IMPROVEMENT_SHRINE_TARHUN)举行奉献典礼一事。如果你想要塔尔亨的力量在背后加持你的军队，我恳请你前来参加。」 </zh-CN>
 		<pt-BR>Ouve-se o som de cascos quando {CHARACTER-2} vem liderando uma procissão de sacerdotes de Tarhun e seus bois sagrados ante você. "{sentencecase:{TITLE-3,3}}, os deuses exigem sua atenção. Os raios caíram três vezes e três vezes mais na tempestade de ontem a noite, e os sinais indicam que o grande link(IMPROVEMENT_SHRINE_TARHUN) em {CITY-0} deve ser aberto. Se você deseja a força de Tarhun encorajando nossos exércitos, eu lhe imploro que esteja presente na dedicação."</pt-BR>
 		<ko>{CHARACTER-2}(이)가 당신 앞으로 이끄는 타르훈의 사제들과 신성한 황소들의 발소리가 들립니다. "{TITLE-3}(이)시여, 신들께서 당신의 관심을 원하십니다. 간밤의 폭풍 때 벼락이 세 번 하고도 세 번 더 내리쳤으며, 이는 {CITY-0}의 위대한 link(IMPROVEMENT_SHRINE_TARHUN)에 봉헌하라는 징조가 분명합니다. 타르훈의 힘이 우리 군대를 편들어 주기를 원하신다면 그 자리에 참석해 주시기를 간청합니다." </ko>
+		<fixja>蹄の音が響く中、{CHARACTER-2}がタルフンの司祭と彼らの神聖な雄牛から成る行列を率いて、あなたの前に現れる。「{TITLE-3}よ、神々が注目を求めています。昨夜の嵐で雷が何度も鳴り響きました。これは主のお告げです。{CITY-0}のlink(IMPROVEMENT_SHRINE_TARHUN)で奉献式を開くべきでしょう。我が軍にタルフンの力を望むのであれば、是非とも参加していただきたい」 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_TARHUN</zType>
@@ -277,6 +297,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>在你骑马出去和你的将军在原野中会合时，{CHARACTER-2}挡在你的面前。 「噢，{TITLE-3}，你并不比诸神伟大。如果你不想要为你张狂的亵渎赎罪的话，塔尔亨会确保所有效忠你的人都被长矛或闪电击倒，让你自己因为傲慢而自取灭亡。忏悔吧，在{CITY-0}的link(IMPROVEMENT_SHRINE_TARHUN)奉献仪式中祈求宽恕，你和你的手下或许还有机会能得救。」</zh-CN>
 		<pt-BR>Enquanto você se prepara para ir se encontrar com seus generais no campo, {CHARACTER-2} se põe em seu caminho. "Você não tem mais poder que os deuses, {TITLE-3,3}. Se você não buscar se redimir por sua leviana impiedade, Tarhun fará com que, por raio ou por espada, caia todo homem que lhe jurou lealdade, e que sua própria soberba lhe derrube tão certeira como qualquer lâmina. Arrependa-se, suplique na dedicação do link(IMPROVEMENT_SHRINE_TARHUN) em {CITY-0}, e você e seus homens ainda poderão ser salvos."</pt-BR>
 		<ko>전장의 장군들과 합류하려고 말에 오른 당신의 길을 {CHARACTER-2}(이)가 가로막습니다. "{TITLE-3}(이)시여, 당신은 신들보다 위대하지 않습니다. 당신의 불경함에 대한 용서를 구하지 않는다면 당신을 받드는 모든 이에게 타르훈의 창과 번개가 필히 내려칠 것이며, 당신의 교만은 칼날이 되어 스스로를 벨 것입니다. 당신과 당신의 부하들이 아직 구원받을 수 있을 때 {CITY-0}의 link(IMPROVEMENT_SHRINE_TARHUN)에 오셔서 의식에 참석해 회개하시고 애원하십시오."</ko>
+		<fixja>戦場に乗り込み、将官たちに合流しようとするあなたの前に、{CHARACTER-2}が立ちはだかる。「{TITLE-3}よ、あなた様の力は神々には及びません。もし神々を敬わず、自らの不信心な行為を償わないのなら、タルフンが必ずや、あなた様に忠誠を誓う者の上に槍や雷を振り落とすことでしょう。己の驕りで身を滅ぼすことになりますよ。悔い改め、{CITY-0}のlink(IMPROVEMENT_SHRINE_TARHUN)で行われる奉献式にご参加ください。まだ救いの可能性は残されています」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_KAMRUSEPA</zType>
@@ -292,6 +313,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>在冬天的黑夜中，你在梦中看见了一个充满疾病与病痛的季节。在你和{CHARACTER-2}谈论此事时，你得到了劝告：「你必须去向卡姆鲁塞帕祈求，她是对抗心灵及身体弊病的良药。跟我一起走，去参加她在{CITY-0}的link(IMPROVEMENT_SHRINE_KAMRUSEPA)的盛大仪式吧。」</zh-CN>
 		<pt-BR>Nas escuras noites de inverno, você sonhou com uma estação de aflições e doenças. Ao falar sobre seu sonho com {CHARACTER-2}, {G2:ele:ela} lhe oferece seu conselho: "Busque Kamrusepa, ela é o bálsamo contra as fraquezas do corpo e da alma. Venha comigo à grande cerimônia no link(IMPROVEMENT_SHRINE_KAMRUSEPA) em {CITY-0}."</pt-BR>
 		<ko>겨울의 어두운 밤, 꿈에서 당신은 역병의 계절을 목도했습니다. 이를 {CHARACTER-2}에게 말했더니 이렇게 조언을 들었습니다. "당신은 심신의 쇠약으로부터 구원해 주시는 캄루세파를 찾으셔야 합니다. 저와 함께 {CITY-0}의 link(IMPROVEMENT_SHRINE_KAMRUSEPA)에서 진행하는 그분을 위한 대제에 참석하십시오."</ko>
+		<fixja>冬の闇夜に恐ろしい夢を見た。その中では、もうすぐ病魔の季節が訪れることが告げられていた。そのことを{CHARACTER-2}に話すと、助言を受けることができた。「あなた様が求めるべきはカムルセパです。彼女は魂や肉体の衰弱を防いでくれます。私と一緒に、{CITY-0}のlink(IMPROVEMENT_SHRINE_KAMRUSEPA)で行われる偉大な奉献式に参加しましょう」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_KAMRUSEPA</zType>
@@ -307,6 +329,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>这个季节充满了疾病与病痛，直到你在朝臣的催促下请来了卡姆鲁塞帕的女祭司。她们带着薰香、香膏及净化诵词穿越宫殿。在她们所经之处，气氛都变得轻松，生气也恢复了。然而，在女祭司离开时，{CHARACTER-2}却徘徊不去。 「请留意，我敬爱的{TITLE-3}，卡姆鲁塞帕并不要求回报，不过你可以到{CITY-0}的link(IMPROVEMENT_SHRINE_KAMRUSEPA)参与她的奉献仪式来荣耀她。」</zh-CN>
 		<pt-BR>Se passou uma estação de aflições e doenças, até que, por insistência da corte, sacerdotisas de Kamrusepa foram chamadas. Elas fazem uma ronda no palácio levando incenso, bálsamos e entoando cantos purificadores. Seguido aos rituais, o clima fica mais leve e uma animação volta aos salões e corredores. {CHARACTER-2}, porém, se demora enquanto as sacerdotisas estão para ir embora. "Fique alerta, {TITLE-3,3}, Kamrusepa não exige qualquer pagamento, mas seria bom que você a homenageasse na dedicação do link(IMPROVEMENT_SHRINE_KAMRUSEPA) em {CITY-0}."</pt-BR>
 		<ko>역병의 계절이 도래하자 궁정의 촉구에 따라 캄루세파의 여사제들이 도착했습니다. 이들은 향초와 향유, 정화의 영창으로 궁전을 청소하며, 지나간 자리는 분위기가 밝아지고 생기가 돌아옵니다. 하지만 여사제들이 떠났음에도 {CHARACTER-2}(은)는 머물고 있습니다. "{TITLE-3}(이)시여, 귀를 기울이십시오. 캄루세파께서는 어떠한 보답도 바라지 않으시지만, 당신은 {CITY-0}의 link(IMPROVEMENT_SHRINE_KAMRUSEPA)에 오셔서 여신을 기리는 의식에 참석하시는 것이 바람직합니다."</ko>
+		<fixja>今季は疫病が流行り、民衆は病魔に悩まされた。やがて宮廷ではカムルスパの巫女たちが呼び出されることとなった。お香や香油を持った巫女たちは、清めの言葉を唱えながら、宮殿の中を歩き回る。そのおかげか、人々の表情は明るくなり、街の活気も戻ってきた。しかし、巫女たちが去った後でも、{CHARACTER-2}は居残り続けた。「{TITLE-3}よ、お気をつけください。カムルセパは捧げ物を要求しません。しかし、{CITY-0}のlink(IMPROVEMENT_SHRINE_KAMRUSEPA)で行われる奉献式に参加することをお勧めします」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_KAMRUSEPA</zType>
@@ -322,6 +345,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>这个季节充满了疾病与病痛，在{CHARACTER-2}于宫廷找你对质时，气氛十分凝重。 「噢，{TITLE-3}，你并不比诸神伟大。亵渎及腐败的恶臭将我们包围，如果你不想要在其中腐朽，你必须在卡姆鲁塞帕面前保持谦卑。到{CITY-0}的link(IMPROVEMENT_SHRINE_KAMRUSEPA)的第一场盛大仪式上寻求宽恕，她或许就会心怀慈悲。」 </zh-CN>
 		<pt-BR>Está sendo uma estação de aflições e doenças, e o clima é tenso quando {CHARACTER-2} lhe confronta na corte: "Você não tem mais poder que os deuses, {TITLE-3,3}. O fedor da impiedade e da corrupção nos cerca, e se você não quiser apodrecer nessas condições, deve submeter-se a Kamrusepa. Venha suplicar na primeira grande cerimônia do link(IMPROVEMENT_SHRINE_KAMRUSEPA) em {CITY-0}, e ela pode ainda lhe demonstrar misericórdia."</pt-BR>
 		<ko>역병의 계절이 도래한 침울한 분위기 속에서 {CHARACTER-2}(이)가 궁정에서 당신을 알현합니다. "{TITLE-3}(이)시여, 당신은 신들보다 위대하지 않습니다. 우리를 휘감은 불경함과 부패의 악취 속에서 사그라들기를 원치 않으신다면 캄루세파 앞에 몸을 겸허히 낮추셔야 합니다. 여신께서 아직 자비를 베푸시는 동안 {CITY-0}의 link(IMPROVEMENT_SHRINE_KAMRUSEPA)에서 있을 첫 대제에 참석해 애원하십시오." </ko>
+		<fixja>今季は疫病が流行り、民衆は病魔に悩まされた。宮廷では暗い表情をした{CHARACTER-2}があなたの前に現れる。「{TITLE-3}よ、あなた様の力は神々には及びません。不信心と腐敗の悪臭が我々を取り囲んでいます。その中で腐りたくなければ、カムルセパの前に謙虚にならねばなりません。{CITY-0}のlink(IMPROVEMENT_SHRINE_KAMRUSEPA)で行われる最初の奉献式にご参加ください。女神様はまだ慈悲を授けてくださるかもしれません」 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_HALKI</zType>
@@ -337,6 +361,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>在夏季的最后几日，城市里的氛围变得欢腾，人们都等不及要迎接收获的庆典，你隐约听见歌唱及舞蹈的声音从远方传到宫殿来。 {CHARACTER-2}似乎领会到你的心思，带着理解的微笑打岔：「我敬爱的{TITLE-3}，人民已经准备好要感谢哈尔基带来这次的丰收，你何不加入他们呢？在{CITY-0}的link(IMPROVEMENT_SHRINE_HALKI)有一场圣化仪式，你在那里一定会受到光荣的款待。」</zh-CN>
 		<pt-BR>Nos últimos dias do verão, há um clamor alegre na cidade, uma impaciência pelos festivais da colheita, e você percebe os sons distantes de música e dança mesmo pelas paredes do palácio. {CHARACTER-2} parece notar no que você está pensando e lhe fala com um sorriso conhecedor: "{sentencecase:{TITLE-3,3}}, o povo já está se preparando para agradecer a Halki pela fartura de nossas colheitas, você se juntará a eles? Você seria {choice_GL:recebido:recebida} com muitas honras na santificação do link(IMPROVEMENT_SHRINE_HALKI) em {CITY-0}."</pt-BR>
 		<ko>여름이 끝나갈 무렵, 도시의 분위기는 수확 철 축제를 기다리는 갈망의 환락으로 넘실대고 궁전 벽 너머에서 노래와 춤의 소리가 들려옵니다. 그런 당신의 생각을 읽듯 {CHARACTER-2}(이)가 알겠다는 미소를 지으며 불쑥 끼어듭니다. "{TITLE-3}(이)시여, 백성들이 벌써 할키에게 풍년에 감사할 준비를 하고 있으니, 당신도 함께하지 않으시겠습니까? {CITY-0}의 link(IMPROVEMENT_SHRINE_HALKI)에서 여신의 축성을 기리는 영예로운 자리에 참석하시지요."</ko>
+		<fixja>夏も終わりに近づくと、街は収穫祭を目前に控えて陽気な雰囲気に包まれ、宮殿の壁伝いに遠くから歌声や踊りの音が聞こえてくる。{CHARACTER-2}はあなたの考えを察したようで、事情は分かっているという様子の笑顔を浮かべながらこう切り出した。「{TITLE-3}よ、人々はハルキに収穫の恵みを感謝するため、すでに収穫祭を開く準備を終えています。あなた様も参加しませんか？祭りは{CITY-0}のlink(IMPROVEMENT_SHRINE_HALKI)で開かれます。民もあなた様を歓迎することでしょう」</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_HALKI</zType>
@@ -352,6 +377,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>你礼貌性地看着{CHARACTER-2}执行本季的第七次占卜。对方皱起眉头转向你。 「我敬爱的{TITLE-3}，预兆仍未明朗，但有些人为即将到来的收成感到担忧。我恳请你寻求哈尔基的恩惠，在{CITY-0}的link(IMPROVEMENT_SHRINE_HALKI)奉献仪式上让人民和诸神看到你的参与吧。」 </zh-CN>
 		<pt-BR>Você assiste educadamente enquanto {CHARACTER-2} realiza o sétimo augúrio da estação. De cenho franzido, {G0:ele:ela} se volta em sua direção: "{sentencecase:{TITLE-3,3}}, os presságios não estão claros, mas há aqueles que temem pelas próximas colheitas. Eu lhe imploro que procure as bênçãos de Halki, deixe que o povo e os deuses vejam a sua presença na dedicação do link(IMPROVEMENT_SHRINE_HALKI) em {CITY-0}."</pt-BR>
 		<ko>당신이 지켜보는 앞에서 이번 계절의 일곱 번째 점술을 시행하는 {CHARACTER-2}(이)가 눈썹을 찌푸리며 당신을 돌아봅니다. "{TITLE-3}(이)시여, 분명한 징조는 아닙니다만, 다가오는 수확 철에 우려되는 기운이 있습니다. 할키의 혜택을 구하시는 것을 간청합니다. {CITY-0}의 link(IMPROVEMENT_SHRINE_HALKI)에서 진행하는 의식에 당신이 참여하시는 모습을 백성들과 신들께 보이십시오." </ko>
+		<fixja>{CHARACTER-2}が今季7回目となる占いの儀式を執り行う中、あなたはそれを礼儀正しく見守る。巫女たちは顔をしかめながら、こちらを向く。「{TITLE-3}よ、お告げはまだはっきりしていません。しかし、次の収穫を心配する人々もいます。ハルキのご加護を授かりましょう。どうか、{CITY-0}のlink(IMPROVEMENT_SHRINE_HALKI)で行われる奉献式に参加し、人々や神々にあなた様の姿をお見せください」 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_HALKI</zType>
@@ -367,6 +393,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>雨季晚了，令人不适的高温和歉收的谣言使整个宫殿烦躁不已。 {CHARACTER-2}在朝臣前向你对质。 「噢，{TITLE-3}，你并不比诸神伟大。你张狂的亵渎种下的种子已经开花，现在整个王国都在哈尔基愤怒的注视下逐渐枯萎。在我们于{CITY-0}的link(IMPROVEMENT_SHRINE_HALKI)举办奉献仪式时，你去请求她的原谅吧，不然她会摧毁你珍视的一切。」 </zh-CN>
 		<pt-BR>As chuvas estão atrasadas e o palácio está sufocado pelo calor desconfortável e com os rumores de uma terrível estação de colheitas. {CHARACTER-2} lhe confronta perante a corte. "Você não tem mais poder que os deuses, {TITLE-3,3}. A sua heresia imprudente deu frutos e agora todo o reino murcha sob o olhar irado de Halki. Implore pelo perdão dela na dedicação do link(IMPROVEMENT_SHRINE_HALKI) em {CITY-0}, ou ela irá destruir tudo que você preza."</pt-BR>
 		<ko>비가 좀체 오지 않자 궁전은 불쾌한 더위로 푹푹 찌고 올해는 흉년이라는 소문이 퍼지고 있습니다. {CHARACTER-2}(이)가 궁정에서 당신을 알현합니다. "{TITLE-3}(이)시여, 당신은 신들보다 위대하지 않습니다. 당신의 무모한 불경함이 싹을 틔웠고, 이제 할키의 분노한 눈빛 아래 온 나라가 시들고 있습니다. 여신께서 당신의 소중한 모든 것을 파괴하기 전에 {CITY-0}의 link(IMPROVEMENT_SHRINE_HALKI)에 봉헌하여 용서를 구하십시오." </ko>
+		<fixja>雨がなかなか降らず、不快な暑さで宮廷の中は蒸し風呂のような状態だ。今季は収穫量も少ないとの噂が流れている。宮廷では、{CHARACTER-2}が姿を現す。「{TITLE-3}よ、あなた様の力は神々には及びません。あなた様が神々を敬わず、その不信心な行為を悔い改めなかったため、神々がお怒りになったのです。ハルキの怒りに満ちた眼差しの下で、すべての土地が枯れようとしています。{CITY-0}のlink(IMPROVEMENT_SHRINE_HALKI)で行われる奉献式で許しを請うのです。さもなければ、女神様はあなた様が愛するものをすべて破壊していまうでしょう。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_SALT_OF_THE_EARTH</zType>
@@ -380,6 +407,7 @@ Nous ne nions les dieux de personne, peu importe l'endroit. Alors que son tuteur
 		<zh-CN>在我们的第一支皇家商队准备前往遥远的国度时，被指派为远征队领袖的商人坚持主张{CITY-0}附近常见的link(RESOURCE_SALT)在异国被视为高价的奢侈品。他们主张我们应该考虑把它当作重要的贸易物品。</zh-CN>
 		<pt-BR>Enquanto preparamos nossa primeira caravana real para partir a terras distantes, os mercadores encarregados de liderar a expedição insistem que o link(RESOURCE_SALT), um produto tão comum perto de {CITY-0}, é considerado um luxo de bastante valor em terras estrangeiras. Eles argumentam que nós devemos considerá-lo um bem importante para o comércio.</pt-BR>
 		<ko>첫 왕실 행상단이 머나먼 땅으로 떠날 준비를 하는 동안, 탐사를 이끌 상인들은 {CITY-0} 주변에 흔한 link(RESOURCE_SALT)이 타국의 사치품이자 상당히 가치 있는 물품으로 여겨진다고 역설합니다. 그러면서 우리가 그것을 주요 교역 상품으로 간주해야 한다고 주장합니다.</ko>
+		<fixja>王室が支援する第一キャラバン隊は、遠方へ旅立つための準備を行っていた。遠征隊を率いることになった商人たちによれば、{CITY-0}ではありふれたlink(RESOURCE_SALT)が、異国の地では贅沢品として扱われ、極めて貴重な資源になるという。彼らはそれを貿易資源と見なすべきだと主張している。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_HITTITES</zType>
@@ -453,6 +481,13 @@ A horda incontável foi derrotada e eles tiveram que se retirar. {CITY-5} está 
 우리는 천둥처럼 공격했고, 저들의 마음에는 공포가 들어찼습니다. {CHARACTER-4}(은)는 놈들에게 타르훈과도 같은 존재였던 것입니다! 우리는 적 전사들을 바람에 날린 겨처럼 흩어 버렸으며, 그들의 군세를 몰아내고 주둔지를 파괴했습니다. {TITLE-8}(은)는 목숨만 겨우 부지했고요!
 
 적의 수많은 병력은 패배와 함께 후퇴해야 했습니다. {CITY-5}(은)는 이제 안전하며, 우리는 지금껏 없었던 역사상 최대 규모의 기병전에서 승리했습니다!</ko>
+		<fixja>今日は{PLAYER-0,1}にとって輝かしい一日となった。
+
+忌むべき{PLAYER-1,3}は、数え切れないほどの騎馬隊を進軍させ、我が国と我が国民を脅かしていた。
+我々は奴らを欺き、{CITY-5}の近郊に誘い込むことに成功した。そこには{TITLE-4}が我々の誇る優秀な戦車を集結させていた。奴らはその間違いに気づくのがあまりにも遅すぎた。
+我々は雷のように襲いかかり、奴らの心を恐怖で満たした。{CHARACTER-4}は、まるでタルフンの如く勇敢に戦った。奴らの戦士は風の中の籾殻のように散り散りなって逃げた。我々は奴らの自慢の軍隊を撃退し、駐留地を略奪した。{TITLE-8}も逃げるのがやっとだった。
+
+敵の大群は敗れ、撤退を余儀なくされた。{CITY-5}はもう安全だ。我々は史上最大の戦車戦に勝利したのだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_EGYPTIANS</zType>
@@ -535,6 +570,14 @@ A despeito de quão traiçoeiros são os {PLAYER-1,3}, hoje nós vencemos a maio
 {TITLE-4}(은)는 우리 주둔지에서 {PLAYER-1,3}을 몰아내고 그중 상당수를 학살했습니다. 놈들은 우리 앞에서 뿔뿔이 흩어졌으며, 전차를 버리고 강을 건너 도망친 다음 헤엄치는 악어처럼 사라졌습니다!
 
 비록 {PLAYER-1,3}의 배신이 있었지만, 오늘 우리는 지금껏 없었던 역사상 최대 규모의 기병전에서 승리했습니다!</ko>
+		<fixja>今日は{PLAYER-0}にとって輝かしい一日となった。
+卑劣な{PLAYER-1,3}とその無数の騎兵隊は、{CITY-6}近郊で我が王家の隊列を待ち伏せた。武力ではかなわないからといって、卑怯な手段を用い、勝利を得ようとしたのだ。
+奴らは我々の戦士を撃退し、孤立した{TITLE-4}を取り囲むことに成功した。強欲な{PLAYER-1,3}は自分たちの勝利を確信し、我々の駐留地を略奪し始めた。奴らとしては勝利を祝っているつもりだった。
+
+しかし最も厳しい状況下で、勝利の主アムンが{TITLE-4}の前に現れた。{CHARACTER-4}はまるでセトのように奴らと戦った。軍隊は{G4:彼:彼女}の周りに結集し、再び突撃した。
+{TITLE-4}は{PLAYER-1,3}を駐留地から追い払い、大勢の兵士を虐殺した。奴らは戦車を捨て、川を渡って逃げ去り、まるで泳ぐ鰐のように素早く散っていった。
+
+{PLAYER-1,3}の裏切りにも屈せず、今日我々は史上最大の戦車戦に勝利したのだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_PEACE_OFFER</zType>
@@ -568,6 +611,9 @@ Eles até mesmo sugeriram que compartilhemos técnicas de treinamento para comba
 		<ko>{PLAYER-0,3}이 대표단을 보내 우리에게 훨씬 유리한 평화 조약을 제안했습니다. 이번 기병 부대 간의 대전투에서 우리 군대의 무용에 굉장한 감명을 받은 것입니다.
 
 심지어 그들은 존중의 뜻으로 국가 간에 군사 기술을 교환하자고 제의합니다.</ko>
+		<fixja>{PLAYER-0,3}が使節団を送り、我々にとって極めて有利な講和条約を申し出てきた。彼らは、騎兵隊同士の大戦闘を通じ、我が国の武勇に強い感銘を受けたのである。
+
+さらに、国家間の信頼関係の証として、戦闘訓練の技術を共有しようという提案まで行ってきた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_TRUCE</zType>
@@ -601,6 +647,9 @@ Eles oferecem presentes como sinal de benevolência e respeito.</pt-BR>
 		<ko>{PLAYER-0,3}이 휴전 협상을 제안했습니다. 우리가 보여 준 군사 기술을 존중하며, 우리 백성들이 전장에서 용맹을 증명하기 위해 피를 더 흘릴 필요가 없다는 말을 꺼냅니다.
 
 그들은 자비와 존경의 뜻을 담은 선물도 가져왔습니다.</ko>
+		<fixja>{PLAYER-0,3}から休戦協定の申し出を受けた。彼らは我々が見せた軍事技術に敬意を表し、戦争を終結させて、戦場における我が国の武勇を認めようと申し出ている。
+
+善意と敬意を表すために、彼らは贈り物を用意しているようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_KINGMAKERS</zType>
@@ -614,6 +663,7 @@ Eles oferecem presentes como sinal de benevolência e respeito.</pt-BR>
 		<zh-CN>我们刚才又再次和{PLAYER-0,3}取得了联系。在过去的期间，{PLAYER-2}国王劫掠了{CITY-3}，并指派{FAMILY-3,3}成为他们首都及王国的统治者。</zh-CN>
 		<pt-BR>Nós acabamos de fazer contato com os {PLAYER-0,3} novamente. No passado, um rei {PLAYER-0,1} saqueou {PLAYER-2} e instaurou os {FAMILY-3,1} como governantes da capital e do reino.</pt-BR>
 		<ko>{PLAYER-0,3}과 다시 만났습니다. 과거에 {PLAYER-2}의 왕이 {CITY-3}(을)를 약탈하고 {FAMILY-4,3} 가문을 수도와 왕국의 통치자로 옹립했습니다.</ko>
+		<fixja>再び{PLAYER-0,3}と接触した。その昔、{PLAYER-2}の王が{CITY-3}を略奪し、{FAMILY-3,3}を首都と王国の支配者として据えたという歴史がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_WOULDBE_KINGMAKERS</zType>
@@ -647,6 +697,9 @@ Porém, desde então os {FAMILY-4,1} foram removidos do poder e {CHARACTER-5} n�
 		<ko>{PLAYER-0,3}과 다시 만났습니다. 과거에 {PLAYER-2}의 왕이 {CITY-3}(을)를 약탈하고 {FAMILY-4,1} 가문을 수도와 왕국의 통치자로 옹립하려 했습니다.
 
 하지만 그 후에 {FAMILY-4,1} 가문은 축출되었고, {CHARACTER-5}(은)는 우리 나라를 썩 좋게 보고 있지 않습니다.</ko>
+		<fixja>再び{PLAYER-0,3}と接触した。その昔、{PLAYER-2}の王は{CITY-3}を略奪し、{FAMILY-4,1}を首都と王国の支配者として据えようとした。
+
+しかし、{FAMILY-4,1}はその後支配権を奪われた。{CHARACTER-5}は我が国民にあまり良い印象を持っていない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_EDUCATION_AT_THE_PANKUS</zType>
@@ -671,6 +724,8 @@ Dans le contexte de leur éducation, il est parfois permis aux enfants {PLAYER-1
 Como parte de sua educação, ocasionalmente é permitido que as crianças {PLAYER_F-1,3} estejam presentes nas deliberações.</pt-BR>
 		<ko>판쿠스는 {PLAYER-0}의 총회이자 헌법 문제를 판단하는 최고 법원입니다. 심지어는 왕도 이들 앞에서 해명해야 합니다!
 교육의 일환으로 {PLAYER-1,3}의 아이들이 심의회를 참관하는 것을 허용하기도 합니다.</ko>
+		<fixja>パンクスは、{PLAYER-0}の立法機関であり、憲法に関する事項を決定する最高法院である。王でさえも、この場所では釈明義務を負う場合がある。
+また、教育の一環として、{PLAYER-1,3}の子供たちが審議に参加することも認められている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK</zType>
@@ -693,6 +748,8 @@ Par le passé, leurs armées avaient mis à sac {CITY-3}… C'était en cette oc
 No passado distante, os exércitos deles saquearam {CITY-3}... Foi nesta ocasião que os {FAMILY-4,1} chegaram ao poder.</pt-BR>
 		<ko>{PLAYER-1,3}과 다시 만났습니다.
 오래전 그들의 군대가 {CITY-3}(을)를 약탈했습니다... {FAMILY-4,3} 가문이 득세한 것은 그때부터였습니다.</ko>
+		<fixja>再び{PLAYER-1,3}と接触した。
+遠い昔、奴らの軍隊が{CITY-3}を略奪したという歴史がある…。{FAMILY-4,3}が勢力を伸ばしたのは、そのときだった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_HITTITE</zType>
@@ -746,6 +803,11 @@ Devemos aceitar?</pt-BR>
 우리가 적당한 값을 지불하면 {PLAYER-0}에서만 볼 수 있는 막강한 link(UNIT_HITTITE_CHARIOT_1)을 이용하게 해 준다는 것입니다. 전갈은 다음과 같이 말을 맺습니다. "만약 거절하신다면, 남아도는 저의 병력을 다른 곳에 활용해야 할 것입니다. 결국은 그 병력이 {CITY-1}(으)로 향하겠죠."
 
 제안을 받아들일까요?</ko>
+		<fixja>{PLAYER-0}から魅力的な提案を携えた使者がやってきた。{CHARACTER-0}は、{G0:彼自身:彼女自身}、強力な軍事力を装備したが、資源が不足していた。また、{G0:彼:彼女}の書状は、「もしかしたら、我々は双方とも、この状況から利益を得ることができるかもしれない」ということを示唆している。
+
+手頃な料金で、強力なlink(UNIT_HITTITE_CHARIOT_1)の支援を受けることができるのだ。これは、{PLAYER-0}の勢力の外では珍しい光景である。「無論」、書状は次のように締めくくられている。「貴殿が拒否するならば、私は私の余剰戦力の他の使い道を見つける必要があるだろう。{CITY-1}に行くことになるかもしれないな」
+
+受け入れるべきだろうか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NAMED_UNIT_MESEDI</zType>
@@ -792,6 +854,11 @@ Você passou a confiar neles como guarda-costas e liderá-los é uma grande honr
 		
 {G1:그:그녀}가 제안하기를 정식 칭호라는 영광을 부여한다면 그들의 우수성을 더욱 고취할 것이라고 합니다.
 		</ko>
+		<fixja>{CHARACTER-1}の率いる{UNIT-0,2}は、その軍事技術の高さ、そして何よりあなたに対する絶対的な忠誠心に定評がある。
+あなたは彼らを護衛隊として頼るようになった。隊長の{CHARACTER-1}は明らかにその任務を楽しんでいるように見える。
+		
+{G1:彼:彼女}は、正式名称を授かることができれば、部隊としての能力をさらに高めることができるかもしれないと主張している。
+		</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NAMED_UNIT_GOLDEN_SPEARMEN</zType>
@@ -843,5 +910,10 @@ Devemos reconhecer este título como uma honraria adicional?</pt-BR>
 사람들은 그런 이들을 '황금 창병'이라 부르고는 합니다.
 
 영광을 더할 수 있도록 이 명칭을 정식으로 수여할까요?</ko>
+		<fixja>{UNIT-0,2}は一日中あなたを護衛しながら、護衛兵として配属された他の全ユニットの管理まで担当している。言うまでもなく、護衛を行うには、彼らの持つような絶対的な忠誠心が欠かせない。彼らには名誉の印として、特別派手な武具を装備することが認められている。
+
+人々はこの部隊のことを「黄金の槍兵」と呼ぶようになった。
+
+この名前を、正式名称として認めるべきだろうか？</fixja>
 	</Entry>
 </Root>

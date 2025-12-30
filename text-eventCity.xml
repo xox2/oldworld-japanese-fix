@@ -26,6 +26,7 @@
 		<zh-CN>{CITY}出现了婴儿潮</zh-CN>
 		<pt-BR>{CITY} teve uma explosão demográfica</pt-BR>
 		<ko>{CITY}의 출생률이 급등했습니다</ko>
+		<fixja>{CITY}でベビーブームが起こった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>{CITY}的市民人口暴增</zh-CN>
 		<pt-BR>{CITY} teve uma ascensão cívica</pt-BR>
 		<ko>{CITY}의 사회력이 급증했습니다</ko>
+		<fixja>{CITY}で都市力の急成長があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>{CITY}的训练蓬勃</zh-CN>
 		<pt-BR>{CITY} teve uma ascensão em treinamentos</pt-BR>
 		<ko>{CITY}의 군사력이 급증했습니다</ko>
+		<fixja>{CITY}で修練度の急成長があった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>{CITY}经历了科学文艺复兴</zh-CN>
 		<pt-BR>{CITY} teve um renascimento científico</pt-BR>
 		<ko>{CITY}에 과학 부흥이 일어났습니다</ko>
+		<fixja>{CITY}で科学の復興が起こった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>{CITY}的经济蒸蒸日上</zh-CN>
 		<pt-BR>{CITY} teve um milagre econômico</pt-BR>
 		<ko>{CITY}(이)가 경제 호황을 맞았습니다</ko>
+		<fixja>{CITY}は好景気に見舞われた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>{CITY}举办了许多活动</zh-CN>
 		<pt-BR>{CITY} teve um súbito aumento de atividade</pt-BR>
 		<ko>{CITY}(이)가 활발해졌습니다</ko>
+		<fixja>{CITY}で活動が活発化した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>{CITY}产生了一名link(COURTIER_SOLDIER)</zh-CN>
 		<pt-BR>Um link(COURTIER_SOLDIER) veio de {CITY}</pt-BR>
 		<ko>{CITY}에서 link(COURTIER_SOLDIER)가 나타났습니다</ko>
+		<fixja>link(COURTIER_SOLDIER)が{CITY}から現れた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>{CITY}产生了一名link(COURTIER_MINISTER)</zh-CN>
 		<pt-BR>Um link(COURTIER_MINISTER) veio de {CITY}</pt-BR>
 		<ko>{CITY}에서 link(COURTIER_MINISTER)이 나타났습니다</ko>
+		<fixja>link(COURTIER_MINISTER)が{CITY}から現れた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>{CITY}产生了一名link(COURTIER_MERCHANT)</zh-CN>
 		<pt-BR>Um link(COURTIER_MERCHANT) veio de {CITY}</pt-BR>
 		<ko>{CITY}에서 link(COURTIER_MERCHANT)이 나타났습니다</ko>
+		<fixja>link(COURTIER_MERCHANT)が{CITY}から現れた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>{CITY}产生了一名link(COURTIER_SCIENTIST)</zh-CN>
 		<pt-BR>Um link(COURTIER_SCIENTIST) veio de {CITY}</pt-BR>
 		<ko>{CITY}에서 link(COURTIER_SCIENTIST)가 나타났습니다</ko>
+		<fixja>link(COURTIER_SCIENTIST)が{CITY}から現れた</fixja>
 	</Entry>
 	<!-- Name -->
 	<Entry>
@@ -157,6 +167,7 @@
 		<zh-CN>link(YIELD_GROWTH)大增</zh-CN>
 		<pt-BR>Ascensão de link(YIELD_GROWTH)</pt-BR>
 		<ko>link(YIELD_GROWTH) 급등</ko>
+		<fixja>link(YIELD_GROWTH)の急増</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>link(YIELD_CIVICS)大增</zh-CN>
 		<pt-BR>Ascensão de link(YIELD_CIVICS)</pt-BR>
 		<ko>link(YIELD_CIVICS) 급증</ko>
+		<fixja>link(YIELD_CIVICS)の急成長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>link(YIELD_TRAINING)大增</zh-CN>
 		<pt-BR>Ascensão de link(YIELD_TRAINING)</pt-BR>
 		<ko>link(YIELD_TRAINING) 급증</ko>
+		<fixja>link(YIELD_TRAINING)の急成長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>link(YIELD_SCIENCE)大增</zh-CN>
 		<pt-BR>Ascensão de link(YIELD_SCIENCE)</pt-BR>
 		<ko>link(YIELD_SCIENCE) 급증</ko>
+		<fixja>link(YIELD_SCIENCE)の急成長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>link(YIELD_MONEY)大增</zh-CN>
 		<pt-BR>Ascensão de link(YIELD_MONEY)</pt-BR>
 		<ko>link(YIELD_MONEY) 급증</ko>
+		<fixja>link(YIELD_MONEY)の急増</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>link(YIELD_ORDERS)大增</zh-CN>
 		<pt-BR>Ascensão de link(YIELD_ORDERS)</pt-BR>
 		<ko>link(YIELD_ORDERS) 급증</ko>
+		<fixja>link(YIELD_ORDERS)の急増</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>新的link(COURTIER_SOLDIER)</zh-CN>
 		<pt-BR>Novo link(COURTIER_SOLDIER)</pt-BR>
 		<ko>새로운 link(COURTIER_SOLDIER)</ko>
+		<fixja>新しいlink(COURTIER_SOLDIER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MINISTER_NAME</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>新的link(COURTIER_MINISTER)</zh-CN>
 		<pt-BR>Novo link(COURTIER_MINISTER)</pt-BR>
 		<ko>새로운 link(COURTIER_MINISTER)</ko>
+		<fixja>新しいlink(COURTIER_MINISTER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_MERCHANT_NAME</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>新的link(COURTIER_MERCHANT)</zh-CN>
 		<pt-BR>Novo link(COURTIER_MERCHANT)</pt-BR>
 		<ko>새로운 link(COURTIER_MERCHANT)</ko>
+		<fixja>新しいlink(COURTIER_MERCHANT)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
@@ -274,5 +293,6 @@
 		<zh-CN>新的link(COURTIER_SCIENTIST)</zh-CN>
 		<pt-BR>Novo link(COURTIER_SCIENTIST)</pt-BR>
 		<ko>새로운 link(COURTIER_SCIENTIST)</ko>
+		<fixja>新しいlink(COURTIER_SCIENTIST)</fixja>
 	</Entry>
 </Root>

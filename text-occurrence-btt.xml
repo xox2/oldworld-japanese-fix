@@ -13,6 +13,7 @@
 		<zh-CN>堕落时代</zh-CN>
 		<pt-BR>Era de Decadência</pt-BR>
 		<ko>타락의 시대</ko>
+		<fixja>退廃の時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERA_OF_REFORMS</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>改革时代</zh-CN>
 		<pt-BR>Era de Reformas</pt-BR>
 		<ko>개혁의 시대</ko>
+		<fixja>変革の時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERA_OF_REFORMS_HELP</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>当这个时代结束时，可能会产生新的法律</zh-CN>
 		<pt-BR>Pode causar o surgimento de novas leis ao fim da era</pt-BR>
 		<ko>시대가 끝나면 새로운 법률이 시행될 수 있음</ko>
+		<fixja>この時代が終わると、新たな法律が生まれる可能性がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERA_OF_CORRUPTION</zType>
@@ -52,6 +55,7 @@
 		<zh-CN>腐败时代</zh-CN>
 		<pt-BR>Era de Corrupção</pt-BR>
 		<ko>부패의 시대</ko>
+		<fixja>堕落の時代</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCE_RALLY_NATIONAL_DEFENSE</zType>
@@ -65,6 +69,7 @@
 		<zh-CN>防卫军集结</zh-CN>
 		<pt-BR>Defesas Reunidas</pt-BR>
 		<ko>방어 병력 집결</ko>
+		<fixja>防衛部隊の奮起</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_RALLY_DEFENSE_DESCRIPTION</zType>
@@ -78,6 +83,7 @@
 		<zh-CN>[常规军事单位损失时]link(BONUS_UNIT_EMERGENCY)</zh-CN>
 		<pt-BR>[Quando perder unidade militar comum] link(BONUS_UNIT_EMERGENCY)</pt-BR>
 		<ko>[정식 군사 유닛을 잃는 경우] link(BONUS_UNIT_EMERGENCY)</ko>
+		<fixja>[通常の軍事ユニット喪失時に] link(BONUS_UNIT_EMERGENCY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RESISTING_YOUR_RULE</zType>
@@ -91,5 +97,6 @@
 		<zh-CN>内战</zh-CN>
 		<pt-BR>Guerra Civil</pt-BR>
 		<ko>내전</ko>
+		<fixja>内戦</fixja>
 	</Entry>
 </Root>

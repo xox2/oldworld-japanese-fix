@@ -39,6 +39,7 @@
 		<zh-CN>link(CONCEPT_PAGAN_CLERGY)</zh-CN>
 		<pt-BR>link(CONCEPT_PAGAN_CLERGY)</pt-BR>
 		<ko>link(CONCEPT_PAGAN_CLERGY)</ko>
+		<fixja>link(CONCEPT_PAGAN_CLERGY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_RELIGIOUS_CLERGY_WORLD</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>link(CONCEPT_WORLD_CLERGY)</zh-CN>
 		<pt-BR>link(CONCEPT_WORLD_CLERGY)</pt-BR>
 		<ko>link(CONCEPT_WORLD_CLERGY)</ko>
+		<fixja>link(CONCEPT_WORLD_CLERGY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_INJURED</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>受伤</zh-CN>
 		<pt-BR>Ferido</pt-BR>
 		<ko>부상당함</ko>
+		<fixja>負傷した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_INJURED_F</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>受伤</zh-CN>
 		<pt-BR>Ferida</pt-BR>
 		<ko>부상당함</ko>
+		<fixja>負傷した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CONCEPT_PAGAN_CLERGY</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>异教神职人员</zh-CN>
 		<pt-BR>Clero Pagão</pt-BR>
 		<ko>다신교 성직자</ko>
+		<fixja>多神教の聖職者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CONCEPT_WORLD_CLERGY</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>世界神职人员</zh-CN>
 		<pt-BR>Clero de religião mundial</pt-BR>
 		<ko>세계 종교 성직자</ko>
+		<fixja>世界の聖職者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CULT_MEMBER</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>教徒</zh-CN>
 		<pt-BR>Cultista</pt-BR>
 		<ko>교단 신자</ko>
+		<fixja>カルトメンバー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECT_CULT_MEMBER_F</zType>
@@ -130,5 +137,6 @@
 		<zh-CN>教徒</zh-CN>
 		<pt-BR>Cultista</pt-BR>
 		<ko>교단 신자</ko>
+		<fixja>カルトメンバー</fixja>
 	</Entry>
 </Root>

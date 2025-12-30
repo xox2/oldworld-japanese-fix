@@ -39,6 +39,7 @@
 		<zh-CN>阿达德尼拉里</zh-CN>
 		<pt-BR>Adadenirari</pt-BR>
 		<ko>아다드-니라리</ko>
+		<fixja>アダド・ニラリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADAMU</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>阿达姆</zh-CN>
 		<pt-BR>Adamu</pt-BR>
 		<ko>아다무</ko>
+		<fixja>アダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMINU</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>阿米奴</zh-CN>
 		<pt-BR>Aminu</pt-BR>
 		<ko>아미누</ko>
+		<fixja>アミヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHUR_DAN</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>亚述丹</zh-CN>
 		<pt-BR>Assurdã</pt-BR>
 		<ko>아슈르-단</ko>
+		<fixja>アッシュル・ダン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHUR_NIRARI</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>亚述尼拉里</zh-CN>
 		<pt-BR>Assurnirari</pt-BR>
 		<ko>아슈르-니라리</ko>
+		<fixja>アッシュル・ニラリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHUR_UBALLIT</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>亚述乌巴立特</zh-CN>
 		<pt-BR>Assurubalite</pt-BR>
 		<ko>아슈르-우발리트</ko>
+		<fixja>アッシュル・ウバリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHURBANIPAL</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>亚述巴尼拔</zh-CN>
 		<pt-BR>Assurbanípal</pt-BR>
 		<ko>아슈르바니팔</ko>
+		<fixja>アッシュルバニパル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAZAYA</zType>
@@ -130,6 +137,7 @@
 		<zh-CN>巴扎亚</zh-CN>
 		<pt-BR>Bazaia</pt-BR>
 		<ko>바자이아</ko>
+		<fixja>バザヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENLIL_NASIR</zType>
@@ -143,6 +151,7 @@
 		<zh-CN>恩利尔纳西尔</zh-CN>
 		<pt-BR>Enlilnasir</pt-BR>
 		<ko>엔릴-나시르</ko>
+		<fixja>エンリル・ナシル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERIBA_ADAD</zType>
@@ -156,6 +165,7 @@
 		<zh-CN>伊里巴阿达德</zh-CN>
 		<pt-BR>Eribadade</pt-BR>
 		<ko>에리바-아다드</ko>
+		<fixja>エリバ・アダド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ESARHADDON</zType>
@@ -169,6 +179,7 @@
 		<zh-CN>以萨哈顿</zh-CN>
 		<pt-BR>Assaradão</pt-BR>
 		<ko>에사르하돈</ko>
+		<fixja>エサルハドン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GIRITU</zType>
@@ -182,6 +193,7 @@
 		<zh-CN>吉里土</zh-CN>
 		<pt-BR>Giritu</pt-BR>
 		<ko>기리투</ko>
+		<fixja>ギリツ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ISHME_DAGAN</zType>
@@ -195,6 +207,7 @@
 		<zh-CN>伊什麦达干</zh-CN>
 		<pt-BR>Ismedagã</pt-BR>
 		<ko>이시메-다간</ko>
+		<fixja>イシュメ・ダゴン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NIMEDU</zType>
@@ -208,6 +221,7 @@
 		<zh-CN>纳米杜</zh-CN>
 		<pt-BR>Nimedu</pt-BR>
 		<ko>니메두</ko>
+		<fixja>ニメドゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PUZUR_ASHUR</zType>
@@ -221,6 +235,7 @@
 		<zh-CN>普祖尔亚述</zh-CN>
 		<pt-BR>Puzurassur</pt-BR>
 		<ko>푸주르-아슈르</ko>
+		<fixja>プズル・アッシュル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RIMUT_ADAD</zType>
@@ -234,6 +249,7 @@
 		<zh-CN>瑞穆特阿达德</zh-CN>
 		<pt-BR>Rimutadade</pt-BR>
 		<ko>리무트-아다드</ko>
+		<fixja>リムト・アダド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENNACHERIB</zType>
@@ -247,6 +263,7 @@
 		<zh-CN>辛那赫里布</zh-CN>
 		<pt-BR>Senaqueribe</pt-BR>
 		<ko>센나케립</ko>
+		<fixja>センナケリブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHALMANESER</zType>
@@ -260,6 +277,7 @@
 		<zh-CN>沙尔马那塞尔</zh-CN>
 		<pt-BR>Salmanaser</pt-BR>
 		<ko>샬마네세르</ko>
+		<fixja>シャルマネセル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAMASH_SHUM</zType>
@@ -273,6 +291,7 @@
 		<zh-CN>沙马什舒姆</zh-CN>
 		<pt-BR>Samassumuquim</pt-BR>
 		<ko>샤마쉬-슘</ko>
+		<fixja>​シャマシュ・シャム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAMSHI_ADAD</zType>
@@ -286,6 +305,7 @@
 		<zh-CN>沙姆希阿达德</zh-CN>
 		<pt-BR>Samsiadade</pt-BR>
 		<ko>샴시-아다드</ko>
+		<fixja>シャムシ・アダド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SULILI</zType>
@@ -299,6 +319,7 @@
 		<zh-CN>苏利利</zh-CN>
 		<pt-BR>Sulili</pt-BR>
 		<ko>술릴리</ko>
+		<fixja>スリリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TIGLATH_PILESER</zType>
@@ -312,6 +333,7 @@
 		<zh-CN>提格拉特帕拉沙尔</zh-CN>
 		<pt-BR>Tiglate-Pileser</pt-BR>
 		<ko>티글라트-필레세르</ko>
+		<fixja>ティグラト・ピレセル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUKULTI_WAR</zType>
@@ -325,6 +347,7 @@
 		<zh-CN>图库尔蒂尼努尔塔</zh-CN>
 		<pt-BR>Tuculti-Ninurta</pt-BR>
 		<ko>투쿨티-닌우르타</ko>
+		<fixja>トゥクルティ・ニヌルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_USHPIA</zType>
@@ -338,6 +361,7 @@
 		<zh-CN>乌什皮亚</zh-CN>
 		<pt-BR>Uspia</pt-BR>
 		<ko>우쉬피아</ko>
+		<fixja>ウシュピア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZUBIR</zType>
@@ -351,6 +375,7 @@
 		<zh-CN>祖比尔</zh-CN>
 		<pt-BR>Zubir</pt-BR>
 		<ko>주비르</ko>
+		<fixja>ズビル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADDATI</zType>
@@ -364,6 +389,7 @@
 		<zh-CN>阿达提</zh-CN>
 		<pt-BR>Adati</pt-BR>
 		<ko>아다티</ko>
+		<fixja>アダティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHAT_ABISHA</zType>
@@ -377,6 +403,7 @@
 		<zh-CN>阿哈特阿比沙</zh-CN>
 		<pt-BR>Aatabisa</pt-BR>
 		<ko>아하트-아비샤</ko>
+		<fixja>アハト・アビシャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHAT_ABU</zType>
@@ -390,6 +417,7 @@
 		<zh-CN>阿哈特阿布</zh-CN>
 		<pt-BR>Aatabu</pt-BR>
 		<ko>아하트-아부</ko>
+		<fixja>アハト・アブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHI_TALLI</zType>
@@ -403,6 +431,7 @@
 		<zh-CN>阿西塔利</zh-CN>
 		<pt-BR>Aitali</pt-BR>
 		<ko>아히-탈리</ko>
+		<fixja>アヒ・タリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKBARA</zType>
@@ -416,6 +445,7 @@
 		<zh-CN>阿克巴</zh-CN>
 		<pt-BR>Akbara</pt-BR>
 		<ko>아크바라</ko>
+		<fixja>アクバラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATALIYA</zType>
@@ -429,6 +459,7 @@
 		<zh-CN>阿塔利亚</zh-CN>
 		<pt-BR>Atalia</pt-BR>
 		<ko>아탈리야</ko>
+		<fixja>アタリヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATTAR_PALTI</zType>
@@ -442,6 +473,7 @@
 		<zh-CN>阿塔尔帕提</zh-CN>
 		<pt-BR>Atarpalti</pt-BR>
 		<ko>앗타르-팔티</ko>
+		<fixja>​アッタル・パルティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BALHITI</zType>
@@ -455,6 +487,7 @@
 		<zh-CN>巴利海</zh-CN>
 		<pt-BR>Balihíti</pt-BR>
 		<ko>발리히티</ko>
+		<fixja>バリヒティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BANITU</zType>
@@ -468,6 +501,7 @@
 		<zh-CN>巴尼图</zh-CN>
 		<pt-BR>Banitu</pt-BR>
 		<ko>바니투</ko>
+		<fixja>バニトゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ESHARRA_HAMMAT</zType>
@@ -481,6 +515,7 @@
 		<zh-CN>埃莎拉哈马特</zh-CN>
 		<pt-BR>Esar-Hamate</pt-BR>
 		<ko>에샤라-하마트</ko>
+		<fixja>エシャラ・ハンマト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EZIPTU</zType>
@@ -494,6 +529,7 @@
 		<zh-CN>埃席皮图</zh-CN>
 		<pt-BR>Eziptu</pt-BR>
 		<ko>에집투</ko>
+		<fixja>エジプツ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HAMA</zType>
@@ -507,6 +543,7 @@
 		<zh-CN>哈玛</zh-CN>
 		<pt-BR>Hama</pt-BR>
 		<ko>하마</ko>
+		<fixja>ハマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KABALAIA</zType>
@@ -520,6 +557,7 @@
 		<zh-CN>卡布拉亚</zh-CN>
 		<pt-BR>Kabalaia</pt-BR>
 		<ko>카발라이아</ko>
+		<fixja>カバライア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KIDINITI</zType>
@@ -533,6 +571,7 @@
 		<zh-CN>奇德尼提</zh-CN>
 		<pt-BR>Kidiniti</pt-BR>
 		<ko>키디니티</ko>
+		<fixja>キディニティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LIBBALI_SHARRAT</zType>
@@ -546,6 +585,7 @@
 		<zh-CN>利比亚沙拉特</zh-CN>
 		<pt-BR>Libali-Sarrate</pt-BR>
 		<ko>리발리-샤라트</ko>
+		<fixja>​リバリ・シャラット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARQIHITA</zType>
@@ -559,6 +599,7 @@
 		<zh-CN>马奇西塔</zh-CN>
 		<pt-BR>Marqihita</pt-BR>
 		<ko>마르키히타</ko>
+		<fixja>マルキヒタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NAQIA</zType>
@@ -572,6 +613,7 @@
 		<zh-CN>娜琪娅</zh-CN>
 		<pt-BR>Naquia</pt-BR>
 		<ko>나키아</ko>
+		<fixja>ナキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NUR_EKALLI</zType>
@@ -585,6 +627,7 @@
 		<zh-CN>努儿埃卡利</zh-CN>
 		<pt-BR>Nur-Ekali</pt-BR>
 		<ko>누르-에칼리</ko>
+		<fixja>ヌル・エカリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SAMMU_RAMAT</zType>
@@ -598,6 +641,7 @@
 		<zh-CN>萨穆拉玛特</zh-CN>
 		<pt-BR>Samuramate</pt-BR>
 		<ko>삼무-라마트</ko>
+		<fixja>サンムラマート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SARAIA</zType>
@@ -611,6 +655,7 @@
 		<zh-CN>萨莱亚</zh-CN>
 		<pt-BR>Saraia</pt-BR>
 		<ko>사라이아</ko>
+		<fixja>サライア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHADDITU</zType>
@@ -624,6 +669,7 @@
 		<zh-CN>沙迪图</zh-CN>
 		<pt-BR>Saditu</pt-BR>
 		<ko>샤디투</ko>
+		<fixja>シャディットゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TASHMETU_SHARRAT</zType>
@@ -637,6 +683,7 @@
 		<zh-CN>塔什梅图沙拉特</zh-CN>
 		<pt-BR>Tasmetu-Sarrate</pt-BR>
 		<ko>타슈메툼-샤라트</ko>
+		<fixja>タシュメトゥ・シャラット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_YABA</zType>
@@ -650,6 +697,7 @@
 		<zh-CN>亚巴</zh-CN>
 		<pt-BR>Yaba</pt-BR>
 		<ko>야바</ko>
+		<fixja>ヤバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZARPANITU</zType>
@@ -663,6 +711,7 @@
 		<zh-CN>萨尔帕尼</zh-CN>
 		<pt-BR>Zarpanit</pt-BR>
 		<ko>자르파니투</ko>
+		<fixja>ザルバニトゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABI_RATTASH</zType>
@@ -676,6 +725,7 @@
 		<zh-CN>阿比-拉塔什</zh-CN>
 		<pt-BR>Abirratas</pt-BR>
 		<ko>아비-라타쉬</ko>
+		<fixja>​アビ・ラッタシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABIL_SIN</zType>
@@ -689,6 +739,7 @@
 		<zh-CN>阿比尔-辛</zh-CN>
 		<pt-BR>Apil-Sim</pt-BR>
 		<ko>아빌-신</ko>
+		<fixja>アビルシン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AGUM</zType>
@@ -702,6 +753,7 @@
 		<zh-CN>阿贡</zh-CN>
 		<pt-BR>Agum</pt-BR>
 		<ko>아굼</ko>
+		<fixja>アグム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMEL_MARDUK</zType>
@@ -715,6 +767,7 @@
 		<zh-CN>以未米罗达</zh-CN>
 		<pt-BR>Amel-Marduque</pt-BR>
 		<ko>아멜-마르두크</ko>
+		<fixja>アメル・マルドゥク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BURNABURIASH</zType>
@@ -728,6 +781,7 @@
 		<zh-CN>布尔那布里亚什</zh-CN>
 		<pt-BR>Burnaburias</pt-BR>
 		<ko>부르나부리아쉬</ko>
+		<fixja>ブルナブリアシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERIBA</zType>
@@ -741,6 +795,7 @@
 		<zh-CN>伊里巴</zh-CN>
 		<pt-BR>Eriba</pt-BR>
 		<ko>에리바</ko>
+		<fixja>エリバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GANDASH</zType>
@@ -754,6 +809,7 @@
 		<zh-CN>甘达什</zh-CN>
 		<pt-BR>Gandas</pt-BR>
 		<ko>간다쉬</ko>
+		<fixja>ガンダシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HAMMURABI</zType>
@@ -767,6 +823,7 @@
 		<zh-CN>汉摩拉比</zh-CN>
 		<pt-BR>Hamurabi</pt-BR>
 		<ko>함무라비</ko>
+		<fixja>ハンムラビ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IMMERUM</zType>
@@ -780,6 +837,7 @@
 		<zh-CN>伊墨伦</zh-CN>
 		<pt-BR>Imerum</pt-BR>
 		<ko>임메룸</ko>
+		<fixja>​イマーラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KARA_HARDASH</zType>
@@ -793,6 +851,7 @@
 		<zh-CN>卡拉哈达什</zh-CN>
 		<pt-BR>Caracardas</pt-BR>
 		<ko>카라-하르다쉬</ko>
+		<fixja>​カラ・ハルダシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KASHTILIASH</zType>
@@ -806,6 +865,7 @@
 		<zh-CN>卡什提里亚什</zh-CN>
 		<pt-BR>Castiliasu</pt-BR>
 		<ko>카쉬틸리아쉬</ko>
+		<fixja>カシュティリアッシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KUDUR_ENLIL</zType>
@@ -819,6 +879,7 @@
 		<zh-CN>库杜尔恩利尔</zh-CN>
 		<pt-BR>Cudurenlil</pt-BR>
 		<ko>쿠두르-엔릴</ko>
+		<fixja>クドゥル・エンリル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KURIGALZU</zType>
@@ -832,6 +893,7 @@
 		<zh-CN>库瑞噶尔祖</zh-CN>
 		<pt-BR>Curigalzu</pt-BR>
 		<ko>쿠리갈주</ko>
+		<fixja>クリガルズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LABASHI_MARDUK</zType>
@@ -845,6 +907,7 @@
 		<zh-CN>拉巴施马尔杜克</zh-CN>
 		<pt-BR>Labasi-Marduque</pt-BR>
 		<ko>라바쉬-마르두크</ko>
+		<fixja>ラバシ・マルドゥク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LUTIPRI</zType>
@@ -858,6 +921,7 @@
 		<zh-CN>卢蒂普里</zh-CN>
 		<pt-BR>Lutipri</pt-BR>
 		<ko>루티프리</ko>
+		<fixja>ルティプリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MELI_SHIPAK</zType>
@@ -871,6 +935,7 @@
 		<zh-CN>美里什帕克</zh-CN>
 		<pt-BR>Melisipaque</pt-BR>
 		<ko>멜리-시팍</ko>
+		<fixja>メリ・シパク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NABONIDUS</zType>
@@ -884,6 +949,7 @@
 		<zh-CN>那波尼德</zh-CN>
 		<pt-BR>Nabonido</pt-BR>
 		<ko>나보니두스</ko>
+		<fixja>ナボニドゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NABOPOLASSAR</zType>
@@ -897,6 +963,7 @@
 		<zh-CN>那波帕拉萨尔</zh-CN>
 		<pt-BR>Nabopolassar</pt-BR>
 		<ko>나보폴라사르</ko>
+		<fixja>ナボポラッサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEBUCHADNEZZAR</zType>
@@ -910,6 +977,7 @@
 		<zh-CN>尼布甲尼撒</zh-CN>
 		<pt-BR>Nabucodonosor</pt-BR>
 		<ko>네부카드네자르</ko>
+		<fixja>ネブカドネザル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARDUK_NADIN_AHI</zType>
@@ -923,6 +991,7 @@
 		<zh-CN>马尔杜克那丁阿海</zh-CN>
 		<pt-BR>Marduquenadinaque</pt-BR>
 		<ko>마르두크-나딘-아헤</ko>
+		<fixja>​マルドゥク・ナディン・アヒ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NERIGLISSAR</zType>
@@ -936,6 +1005,7 @@
 		<zh-CN>涅里格利沙尔</zh-CN>
 		<pt-BR>Neriglissar</pt-BR>
 		<ko>네리글리사르</ko>
+		<fixja>ネリグリッサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SABIUM</zType>
@@ -949,6 +1019,7 @@
 		<zh-CN>萨比乌姆</zh-CN>
 		<pt-BR>Sabium</pt-BR>
 		<ko>사비움</ko>
+		<fixja>サビウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHUMA</zType>
@@ -962,6 +1033,7 @@
 		<zh-CN>舒马</zh-CN>
 		<pt-BR>Suma</pt-BR>
 		<ko>슈마</ko>
+		<fixja>シュマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIN_MUBALLIT</zType>
@@ -975,6 +1047,7 @@
 		<zh-CN>辛穆巴里特</zh-CN>
 		<pt-BR>Sim-Mubalite</pt-BR>
 		<ko>신-무발리트</ko>
+		<fixja>シン・ムバリット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SU_ABU</zType>
@@ -988,6 +1061,7 @@
 		<zh-CN>苏阿布</zh-CN>
 		<pt-BR>Su-Abu</pt-BR>
 		<ko>수무-아붐</ko>
+		<fixja>スー・アブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ULAMBURIASH</zType>
@@ -1001,6 +1075,7 @@
 		<zh-CN>乌拉姆布里亚什</zh-CN>
 		<pt-BR>Ulamburias</pt-BR>
 		<ko>울람부리아쉬</ko>
+		<fixja>​ウランブリアシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHATSUNU</zType>
@@ -1014,6 +1089,7 @@
 		<zh-CN>阿哈祖努</zh-CN>
 		<pt-BR>Aatsunu</pt-BR>
 		<ko>아하트수누</ko>
+		<fixja>アハツヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALITTUM</zType>
@@ -1027,6 +1103,7 @@
 		<zh-CN>阿力提姆</zh-CN>
 		<pt-BR>Alitum</pt-BR>
 		<ko>알리툼</ko>
+		<fixja>アリッタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMATA</zType>
@@ -1040,6 +1117,7 @@
 		<zh-CN>阿玛塔</zh-CN>
 		<pt-BR>Amata</pt-BR>
 		<ko>아마타</ko>
+		<fixja>アマタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BELESSUNU</zType>
@@ -1053,6 +1131,7 @@
 		<zh-CN>贝勒苏努</zh-CN>
 		<pt-BR>Belessunu</pt-BR>
 		<ko>벨라수누</ko>
+		<fixja>ベレスヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BELTUM_RIMENNI</zType>
@@ -1066,6 +1145,7 @@
 		<zh-CN>贝尔腾瑞曼尼</zh-CN>
 		<pt-BR>Beltunrimeni</pt-BR>
 		<ko>벨툼-리메니</ko>
+		<fixja>​ベルトゥム・リメニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DAMIQTUM</zType>
@@ -1079,6 +1159,7 @@
 		<zh-CN>达米克图</zh-CN>
 		<pt-BR>Damiqtum</pt-BR>
 		<ko>다미크툼</ko>
+		<fixja>ダミクタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERISHTI_AYA</zType>
@@ -1092,6 +1173,7 @@
 		<zh-CN>埃利斯提阿雅</zh-CN>
 		<pt-BR>Eristiaia</pt-BR>
 		<ko>에리쉬티-아야</ko>
+		<fixja>エリシュティ・アヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ETTU</zType>
@@ -1105,6 +1187,7 @@
 		<zh-CN>埃图</zh-CN>
 		<pt-BR>Etu</pt-BR>
 		<ko>엣투</ko>
+		<fixja>エットゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GASHANSUNU</zType>
@@ -1118,6 +1201,7 @@
 		<zh-CN>咖山苏努</zh-CN>
 		<pt-BR>Gasansunu</pt-BR>
 		<ko>가샨수누</ko>
+		<fixja>ガシャンスヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GEMETI</zType>
@@ -1131,6 +1215,7 @@
 		<zh-CN>叶美提</zh-CN>
 		<pt-BR>Gemeti</pt-BR>
 		<ko>게메티</ko>
+		<fixja>ジェメティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HUMUSI</zType>
@@ -1144,6 +1229,7 @@
 		<zh-CN>赫姆斯</zh-CN>
 		<pt-BR>Humusi</pt-BR>
 		<ko>후무시</ko>
+		<fixja>フムシ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ILTANI</zType>
@@ -1157,6 +1243,7 @@
 		<zh-CN>伊尔塔尼</zh-CN>
 		<pt-BR>Iltani</pt-BR>
 		<ko>일타니</ko>
+		<fixja>イルタニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SUN_GAMELAT</zType>
@@ -1170,6 +1257,7 @@
 		<zh-CN>伊斯塔葛美莱</zh-CN>
 		<pt-BR>Ishtar-Gamelate</pt-BR>
 		<ko>이슈타르-가멜랏</ko>
+		<fixja>​イシュタル・ガメラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LAMASSANI</zType>
@@ -1183,6 +1271,7 @@
 		<zh-CN>拉玛撒尼</zh-CN>
 		<pt-BR>Lamassani</pt-BR>
 		<ko>라맛사니</ko>
+		<fixja>ラマッサーニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MELULATUM</zType>
@@ -1196,6 +1285,7 @@
 		<zh-CN>梅禄拉图</zh-CN>
 		<pt-BR>Melulatum</pt-BR>
 		<ko>멜루라툼</ko>
+		<fixja>メルラタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NIDINTU</zType>
@@ -1209,6 +1299,7 @@
 		<zh-CN>尼丁图</zh-CN>
 		<pt-BR>Nidintu</pt-BR>
 		<ko>니딘투</ko>
+		<fixja>ニディントゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NINSUNU</zType>
@@ -1222,6 +1313,7 @@
 		<zh-CN>宁松</zh-CN>
 		<pt-BR>Ninsuna</pt-BR>
 		<ko>닌수누</ko>
+		<fixja>ニンスヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NISHI_INISHU</zType>
@@ -1235,6 +1327,7 @@
 		<zh-CN>尼希伊尼苏</zh-CN>
 		<pt-BR>Nisi-Inisu</pt-BR>
 		<ko>니쉬-이니슈</ko>
+		<fixja>ニシ・イニシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PALATUM</zType>
@@ -1248,6 +1341,7 @@
 		<zh-CN>普拉图</zh-CN>
 		<pt-BR>Palatum</pt-BR>
 		<ko>팔라툼</ko>
+		<fixja>パラタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RAMTU</zType>
@@ -1261,6 +1355,7 @@
 		<zh-CN>拉姆图</zh-CN>
 		<pt-BR>Ramtu</pt-BR>
 		<ko>람투</ko>
+		<fixja>ラムトゥ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHERITUM</zType>
@@ -1274,6 +1369,7 @@
 		<zh-CN>谢利图姆</zh-CN>
 		<pt-BR>Seritum</pt-BR>
 		<ko>셰리툼</ko>
+		<fixja>シェリタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TABNI_SUN</zType>
@@ -1287,6 +1383,7 @@
 		<zh-CN>塔布尼伊斯塔</zh-CN>
 		<pt-BR>Tabni-Ishtar</pt-BR>
 		<ko>타브니-이슈타르</ko>
+		<fixja>タブニ・イシュタル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_UBALNU</zType>
@@ -1300,6 +1397,7 @@
 		<zh-CN>乌巴伦</zh-CN>
 		<pt-BR>Ubalnu</pt-BR>
 		<ko>우발누</ko>
+		<fixja>ウバルヌ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_UMMI_NINGAL</zType>
@@ -1313,6 +1411,7 @@
 		<zh-CN>阿米宁加</zh-CN>
 		<pt-BR>Umi-Ningal</pt-BR>
 		<ko>움미-닌갈</ko>
+		<fixja>ウミ・ニンガル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZAKITI</zType>
@@ -1326,6 +1425,7 @@
 		<zh-CN>札奇提</zh-CN>
 		<pt-BR>Zakiti</pt-BR>
 		<ko>자키티</ko>
+		<fixja>ザキティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABDOSIR</zType>
@@ -1339,6 +1439,7 @@
 		<zh-CN>阿布达熙</zh-CN>
 		<pt-BR>Abdosir</pt-BR>
 		<ko>압도시르</ko>
+		<fixja>アブドシル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ACERBAS</zType>
@@ -1352,6 +1453,7 @@
 		<zh-CN>亚瑟巴斯</zh-CN>
 		<pt-BR>Acerbas</pt-BR>
 		<ko>아케르바스</ko>
+		<fixja>アセルバス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADHERBAL</zType>
@@ -1365,6 +1467,7 @@
 		<zh-CN>阿德尔巴尔</zh-CN>
 		<pt-BR>Aderbal</pt-BR>
 		<ko>아데르발</ko>
+		<fixja>アドヘルバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADONIBAAL</zType>
@@ -1378,6 +1481,7 @@
 		<zh-CN>阿多尼巴尔</zh-CN>
 		<pt-BR>Adonibaal</pt-BR>
 		<ko>아도니바알</ko>
+		<fixja>アドニバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARMILIK</zType>
@@ -1391,6 +1495,7 @@
 		<zh-CN>阿米利克</zh-CN>
 		<pt-BR>Armilique</pt-BR>
 		<ko>아르밀리크</ko>
+		<fixja>​アルミリク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AZRUBAAL</zType>
@@ -1404,6 +1509,7 @@
 		<zh-CN>阿兹鲁巴</zh-CN>
 		<pt-BR>Asdrúbal</pt-BR>
 		<ko>아즈루바알</ko>
+		<fixja>アズルバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAALHANNO</zType>
@@ -1417,6 +1523,7 @@
 		<zh-CN>巴拉诺</zh-CN>
 		<pt-BR>Baalano</pt-BR>
 		<ko>바알한노</ko>
+		<fixja>バアルハンノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAELBAD</zType>
@@ -1430,6 +1537,7 @@
 		<zh-CN>贝巴德</zh-CN>
 		<pt-BR>Baelbade</pt-BR>
 		<ko>바엘바드</ko>
+		<fixja>バエルバッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BODASHTART</zType>
@@ -1443,6 +1551,7 @@
 		<zh-CN>波答斯塔</zh-CN>
 		<pt-BR>Bodastarte</pt-BR>
 		<ko>보다슈타르트</ko>
+		<fixja>ボダシュタルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BOMILCAR</zType>
@@ -1456,6 +1565,7 @@
 		<zh-CN>波米尔卡</zh-CN>
 		<pt-BR>Bomílcar</pt-BR>
 		<ko>보밀카르</ko>
+		<fixja>ボミルカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BOSTAR</zType>
@@ -1469,6 +1579,7 @@
 		<zh-CN>博斯塔</zh-CN>
 		<pt-BR>Fameia</pt-BR>
 		<ko>보스타르</ko>
+		<fixja>ボスタル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CARTHALO</zType>
@@ -1482,6 +1593,7 @@
 		<zh-CN>卡塔洛</zh-CN>
 		<pt-BR>Cartalo</pt-BR>
 		<ko>카르탈로</ko>
+		<fixja>カルタロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ESHMUNAZAR</zType>
@@ -1495,6 +1607,7 @@
 		<zh-CN>埃什穆纳札尔</zh-CN>
 		<pt-BR>Esmunazar</pt-BR>
 		<ko>에쉬문아자르</ko>
+		<fixja>エシュムナザール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FEROAN</zType>
@@ -1508,6 +1621,7 @@
 		<zh-CN>费洛昂</zh-CN>
 		<pt-BR>Feroan</pt-BR>
 		<ko>페로안</ko>
+		<fixja>フェロアン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GISCO</zType>
@@ -1521,6 +1635,7 @@
 		<zh-CN>吉斯戈</zh-CN>
 		<pt-BR>Gisco</pt-BR>
 		<ko>기스코</ko>
+		<fixja>ジスコ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HAMILCAR</zType>
@@ -1534,6 +1649,7 @@
 		<zh-CN>哈米尔卡</zh-CN>
 		<pt-BR>Amílcar</pt-BR>
 		<ko>하밀카르</ko>
+		<fixja>ハミルカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANNIBAL</zType>
@@ -1547,6 +1663,7 @@
 		<zh-CN>汉尼拔</zh-CN>
 		<pt-BR>Aníbal</pt-BR>
 		<ko>한니발</ko>
+		<fixja>ハンニバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANNIBAL_HISTORICAL</zType>
@@ -1560,6 +1677,7 @@
 		<zh-CN>𐤇𐤍𐤁𐤏𐤋</zh-CN>
 		<pt-BR>𐤇𐤍𐤁𐤏𐤋</pt-BR>
 		<ko>𐤇𐤍𐤁𐤏𐤋</ko>
+		<fixja>𐤇𐤍𐤁𐤏𐤋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANNO</zType>
@@ -1573,6 +1691,7 @@
 		<zh-CN>杏萝</zh-CN>
 		<pt-BR>Hanão</pt-BR>
 		<ko>한노</ko>
+		<fixja>ハンノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANNO_HISTORICAL</zType>
@@ -1586,6 +1705,7 @@
 		<zh-CN>𐤇𐤍𐤀</zh-CN>
 		<pt-BR>𐤇𐤍𐤀</pt-BR>
 		<ko>𐤇𐤍𐤀</ko>
+		<fixja>𐤇𐤍𐤀</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HASDRUBAL</zType>
@@ -1599,6 +1719,7 @@
 		<zh-CN>哈斯德鲁巴</zh-CN>
 		<pt-BR>Asdrúbal</pt-BR>
 		<ko>하스드루발</ko>
+		<fixja>ハスドルバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HISHMAT</zType>
@@ -1612,6 +1733,7 @@
 		<zh-CN>希斯马</zh-CN>
 		<pt-BR>Hismate</pt-BR>
 		<ko>히슈마트</ko>
+		<fixja>ヒシュマット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIMILCO</zType>
@@ -1625,6 +1747,7 @@
 		<zh-CN>希米尔科</zh-CN>
 		<pt-BR>Himilcão</pt-BR>
 		<ko>히밀코</ko>
+		<fixja>ヒミルコ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIRAM</zType>
@@ -1638,6 +1761,7 @@
 		<zh-CN>希拉姆</zh-CN>
 		<pt-BR>Hirão</pt-BR>
 		<ko>히람</ko>
+		<fixja>ヒラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IBOHAM</zType>
@@ -1651,6 +1775,7 @@
 		<zh-CN>伊伯翰</zh-CN>
 		<pt-BR>Iboham</pt-BR>
 		<ko>이보함</ko>
+		<fixja>イボハム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAGO</zType>
@@ -1664,6 +1789,7 @@
 		<zh-CN>马戈</zh-CN>
 		<pt-BR>Magão</pt-BR>
 		<ko>마고</ko>
+		<fixja>マゴ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAGO_HISTORICAL</zType>
@@ -1677,6 +1803,7 @@
 		<zh-CN>𐤌𐤂𐤍</zh-CN>
 		<pt-BR>𐤌𐤂𐤍</pt-BR>
 		<ko>𐤌𐤂𐤍</ko>
+		<fixja>𐤌𐤂𐤍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAHARBAL</zType>
@@ -1690,6 +1817,7 @@
 		<zh-CN>马哈巴尔</zh-CN>
 		<pt-BR>Maárbal</pt-BR>
 		<ko>마하르발</ko>
+		<fixja>マハルバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MALCHUS</zType>
@@ -1703,6 +1831,7 @@
 		<zh-CN>马勒古斯</zh-CN>
 		<pt-BR>Malco</pt-BR>
 		<ko>말쿠스</ko>
+		<fixja>マルクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MATTAN</zType>
@@ -1716,6 +1845,7 @@
 		<zh-CN>玛坦</zh-CN>
 		<pt-BR>Matã</pt-BR>
 		<ko>맛탄</ko>
+		<fixja>マタン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MELAK</zType>
@@ -1729,6 +1859,7 @@
 		<zh-CN>梅拉克</zh-CN>
 		<pt-BR>Melaque</pt-BR>
 		<ko>멜라크</ko>
+		<fixja>メラク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NAVOEL</zType>
@@ -1742,6 +1873,7 @@
 		<zh-CN>纳佛威</zh-CN>
 		<pt-BR>Navoel</pt-BR>
 		<ko>나보엘</ko>
+		<fixja>ナボエル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OZMELEK</zType>
@@ -1755,6 +1887,7 @@
 		<zh-CN>厄兹梅莱克</zh-CN>
 		<pt-BR>Osmeleque</pt-BR>
 		<ko>오즈멜레크</ko>
+		<fixja>オズメレク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PYGMALION</zType>
@@ -1768,6 +1901,7 @@
 		<zh-CN>皮马里翁</zh-CN>
 		<pt-BR>Pigmalião</pt-BR>
 		<ko>피그말리온</ko>
+		<fixja>ピュグマリオーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_QAMR</zType>
@@ -1781,6 +1915,7 @@
 		<zh-CN>加姆尔</zh-CN>
 		<pt-BR>Qamar</pt-BR>
 		<ko>카므르</ko>
+		<fixja>カムル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_QODMUSH</zType>
@@ -1794,6 +1929,7 @@
 		<zh-CN>科德穆许</zh-CN>
 		<pt-BR>Qodmus</pt-BR>
 		<ko>코드무쉬</ko>
+		<fixja>コドムシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RABIH</zType>
@@ -1807,6 +1943,7 @@
 		<zh-CN>拉宾</zh-CN>
 		<pt-BR>Rabi</pt-BR>
 		<ko>라비</ko>
+		<fixja>ラビ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHADA</zType>
@@ -1820,6 +1957,7 @@
 		<zh-CN>沙达</zh-CN>
 		<pt-BR>Sada</pt-BR>
 		<ko>샤다</ko>
+		<fixja>シャダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_YUTPAN</zType>
@@ -1833,6 +1971,7 @@
 		<zh-CN>尤攀</zh-CN>
 		<pt-BR>Yutpan</pt-BR>
 		<ko>유트판</ko>
+		<fixja>ユッパン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZOUSHAN</zType>
@@ -1846,6 +1985,7 @@
 		<zh-CN>舟山</zh-CN>
 		<pt-BR>Zousan</pt-BR>
 		<ko>조우샨</ko>
+		<fixja>ゾウシャン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KARALY</zType>
@@ -1859,6 +1999,7 @@
 		<zh-CN>卡拉利</zh-CN>
 		<pt-BR>Karali</pt-BR>
 		<ko>카랄리</ko>
+		<fixja>カラリー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMATBAAL</zType>
@@ -1872,6 +2013,7 @@
 		<zh-CN>阿玛特巴</zh-CN>
 		<pt-BR>Amatebáal</pt-BR>
 		<ko>아마트바알</ko>
+		<fixja>アマトバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMATMELQART</zType>
@@ -1885,6 +2027,7 @@
 		<zh-CN>阿玛特梅卡</zh-CN>
 		<pt-BR>Amatemelcarte</pt-BR>
 		<ko>아마트멜카르트</ko>
+		<fixja>アマトメルカート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMATMILIK</zType>
@@ -1898,6 +2041,7 @@
 		<zh-CN>阿玛特梅利克</zh-CN>
 		<pt-BR>Amatemilik</pt-BR>
 		<ko>아마트밀리크</ko>
+		<fixja>アマトミリク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANBAR</zType>
@@ -1911,6 +2055,7 @@
 		<zh-CN>安巴尔</zh-CN>
 		<pt-BR>Anbar</pt-BR>
 		<ko>안바르</ko>
+		<fixja>アンバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARISHAT</zType>
@@ -1924,6 +2069,7 @@
 		<zh-CN>阿利沙特</zh-CN>
 		<pt-BR>Arisate</pt-BR>
 		<ko>아리샤트</ko>
+		<fixja>アリシャト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARISHATBAAL</zType>
@@ -1937,6 +2083,7 @@
 		<zh-CN>阿利沙巴尔</zh-CN>
 		<pt-BR>Arisatebáal</pt-BR>
 		<ko>아리샤트바알</ko>
+		<fixja>​アリシャトバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHDANAT</zType>
@@ -1950,6 +2097,7 @@
 		<zh-CN>阿斯丹纳</zh-CN>
 		<pt-BR>Asdanate</pt-BR>
 		<ko>아슈다나트</ko>
+		<fixja>アシュダナート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASHTARTE</zType>
@@ -1963,6 +2111,7 @@
 		<zh-CN>阿斯塔蒂</zh-CN>
 		<pt-BR>Astarte</pt-BR>
 		<ko>아슈타르테</ko>
+		<fixja>アスタルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAALZEBEL</zType>
@@ -1976,6 +2125,7 @@
 		<zh-CN>巴泽贝</zh-CN>
 		<pt-BR>Balzebel</pt-BR>
 		<ko>바알제벨</ko>
+		<fixja>バアルゼブル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BATBAAL</zType>
@@ -1989,6 +2139,7 @@
 		<zh-CN>巴特巴</zh-CN>
 		<pt-BR>Batebáal</pt-BR>
 		<ko>바트바알</ko>
+		<fixja>バトバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BIRICH</zType>
@@ -2002,6 +2153,7 @@
 		<zh-CN>比里奇</zh-CN>
 		<pt-BR>Biriche</pt-BR>
 		<ko>비리치</ko>
+		<fixja>ビリッチ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BIRQOT</zType>
@@ -2015,6 +2167,7 @@
 		<zh-CN>比丘</zh-CN>
 		<pt-BR>Birqot</pt-BR>
 		<ko>비르코트</ko>
+		<fixja>ビルコット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIDO</zType>
@@ -2028,6 +2181,7 @@
 		<zh-CN>狄多</zh-CN>
 		<pt-BR>Dido</pt-BR>
 		<ko>디도</ko>
+		<fixja>ディードー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ELISSAR</zType>
@@ -2041,6 +2195,7 @@
 		<zh-CN>埃利沙</zh-CN>
 		<pt-BR>Elissa</pt-BR>
 		<ko>엘리사르</ko>
+		<fixja>エリサール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FAIRUZ</zType>
@@ -2054,6 +2209,7 @@
 		<zh-CN>菲鲁兹</zh-CN>
 		<pt-BR>Fairuz</pt-BR>
 		<ko>파이루즈</ko>
+		<fixja>ファイルーズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANBI</zType>
@@ -2067,6 +2223,7 @@
 		<zh-CN>汉比</zh-CN>
 		<pt-BR>Hambi</pt-BR>
 		<ko>한비</ko>
+		<fixja>ハンビ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HANNAH</zType>
@@ -2080,6 +2237,7 @@
 		<zh-CN>汉纳</zh-CN>
 		<pt-BR>Hannah</pt-BR>
 		<ko>한나</ko>
+		<fixja>ハンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ILDASH</zType>
@@ -2093,6 +2251,7 @@
 		<zh-CN>伊利达斯</zh-CN>
 		<pt-BR>Ildas</pt-BR>
 		<ko>일다쉬</ko>
+		<fixja>イルダッシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IMILCE</zType>
@@ -2106,6 +2265,7 @@
 		<zh-CN>艾米切</zh-CN>
 		<pt-BR>Imilce</pt-BR>
 		<ko>이밀케</ko>
+		<fixja>イミルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MUTUNBAAL</zType>
@@ -2119,6 +2279,7 @@
 		<zh-CN>木图巴尔</zh-CN>
 		<pt-BR>Mutunbáal</pt-BR>
 		<ko>무툰바알</ko>
+		<fixja>ムトゥンバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NASMA</zType>
@@ -2132,6 +2293,7 @@
 		<zh-CN>纳斯马</zh-CN>
 		<pt-BR>Nasma</pt-BR>
 		<ko>나스마</ko>
+		<fixja>ナスマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OTR</zType>
@@ -2145,6 +2307,7 @@
 		<zh-CN>欧特</zh-CN>
 		<pt-BR>Oter</pt-BR>
 		<ko>오트르</ko>
+		<fixja>​オトル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SAPANBAAL</zType>
@@ -2158,6 +2321,7 @@
 		<zh-CN>萨攀巴尔</zh-CN>
 		<pt-BR>Sapanbáal</pt-BR>
 		<ko>사판바알</ko>
+		<fixja>サパンバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAMSHYE</zType>
@@ -2171,6 +2335,7 @@
 		<zh-CN>撒姆希</zh-CN>
 		<pt-BR>Samsie</pt-BR>
 		<ko>샤므쉬예</ko>
+		<fixja>シャムシェ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SOPHONISBA</zType>
@@ -2184,6 +2349,7 @@
 		<zh-CN>索芙妮丝芭</zh-CN>
 		<pt-BR>Sofonisba</pt-BR>
 		<ko>소포니스바</ko>
+		<fixja>ソフォニスバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TABIBA</zType>
@@ -2197,6 +2363,7 @@
 		<zh-CN>塔比巴</zh-CN>
 		<pt-BR>Tabiba</pt-BR>
 		<ko>타비바</ko>
+		<fixja>タビバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THUALATH</zType>
@@ -2210,6 +2377,7 @@
 		<zh-CN>苏娃拉</zh-CN>
 		<pt-BR>Tualate</pt-BR>
 		<ko>투알라트</ko>
+		<fixja>トゥアラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THUBABATH</zType>
@@ -2223,6 +2391,7 @@
 		<zh-CN>撒巴巴斯</zh-CN>
 		<pt-BR>Tubabate</pt-BR>
 		<ko>투바바트</ko>
+		<fixja>トゥババス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_UMASHTART</zType>
@@ -2236,6 +2405,7 @@
 		<zh-CN>乌马斯塔德</zh-CN>
 		<pt-BR>Umastarte</pt-BR>
 		<ko>우마슈타르트</ko>
+		<fixja>ウマシュタルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_YASMIN</zType>
@@ -2249,6 +2419,7 @@
 		<zh-CN>叶丝敏</zh-CN>
 		<pt-BR>Yasmin</pt-BR>
 		<ko>야스민</ko>
+		<fixja>ヤスミン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_YZBAAL</zType>
@@ -2262,6 +2433,7 @@
 		<zh-CN>伊兹巴尔</zh-CN>
 		<pt-BR>Izbáal</pt-BR>
 		<ko>이즈바알</ko>
+		<fixja>イズバール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZANBAK</zType>
@@ -2275,6 +2447,7 @@
 		<zh-CN>禅巴克</zh-CN>
 		<pt-BR>Zanbaque</pt-BR>
 		<ko>잔바크</ko>
+		<fixja>ザンバク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZOHUR</zType>
@@ -2288,6 +2461,7 @@
 		<zh-CN>佐哈</zh-CN>
 		<pt-BR>Zohur</pt-BR>
 		<ko>조후르</ko>
+		<fixja>ゾフール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZMORROD</zType>
@@ -2301,6 +2475,7 @@
 		<zh-CN>祖莫罗</zh-CN>
 		<pt-BR>Zemorrode</pt-BR>
 		<ko>즈모로드</ko>
+		<fixja>ズモロッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZYARA</zType>
@@ -2314,6 +2489,7 @@
 		<zh-CN>泽亚拉</zh-CN>
 		<pt-BR>Ziara</pt-BR>
 		<ko>지야라</ko>
+		<fixja>ジアラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZYABQOT</zType>
@@ -2327,6 +2503,7 @@
 		<zh-CN>泽亚比丘</zh-CN>
 		<pt-BR>Ziabcot</pt-BR>
 		<ko>지얍코트</ko>
+		<fixja>ザブコット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHMOSE</zType>
@@ -2340,6 +2517,7 @@
 		<zh-CN>雅赫摩斯</zh-CN>
 		<pt-BR>Amósis</pt-BR>
 		<ko>아흐모세</ko>
+		<fixja>アーモセ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKHENATEN</zType>
@@ -2353,6 +2531,7 @@
 		<zh-CN>阿肯那顿</zh-CN>
 		<pt-BR>Aquenáton</pt-BR>
 		<ko>아케나톤</ko>
+		<fixja>アケナテン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMENEMHAT</zType>
@@ -2366,6 +2545,7 @@
 		<zh-CN>阿蒙涅姆赫特</zh-CN>
 		<pt-BR>Amenemate</pt-BR>
 		<ko>아메넴헤트</ko>
+		<fixja>アメンエムハト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMENHOTEP</zType>
@@ -2379,6 +2559,7 @@
 		<zh-CN>阿蒙霍特普</zh-CN>
 		<pt-BR>Amenotepe</pt-BR>
 		<ko>아멘호테프</ko>
+		<fixja>アメンホテプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_API</zType>
@@ -2392,6 +2573,7 @@
 		<zh-CN>阿匹</zh-CN>
 		<pt-BR>Ápis</pt-BR>
 		<ko>아피</ko>
+		<fixja>アピ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BESIS</zType>
@@ -2405,6 +2587,7 @@
 		<zh-CN>贝西斯</zh-CN>
 		<pt-BR>Besis</pt-BR>
 		<ko>베시스</ko>
+		<fixja>ベシス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DJEDEFRE</zType>
@@ -2418,6 +2601,7 @@
 		<zh-CN>雷吉德夫</zh-CN>
 		<pt-BR>Jedefré</pt-BR>
 		<ko>제데프레</ko>
+		<fixja>ジェドエフラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DJOSER</zType>
@@ -2431,6 +2615,7 @@
 		<zh-CN>左塞尔</zh-CN>
 		<pt-BR>Djozer</pt-BR>
 		<ko>조세르</ko>
+		<fixja>ジェセル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HORAPIS</zType>
@@ -2444,6 +2629,7 @@
 		<zh-CN>荷拉皮斯</zh-CN>
 		<pt-BR>Horapis</pt-BR>
 		<ko>호라피스</ko>
+		<fixja>ホラピス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HOREMHEB</zType>
@@ -2457,6 +2643,7 @@
 		<zh-CN>霍朗赫布</zh-CN>
 		<pt-BR>Horemebe</pt-BR>
 		<ko>호렘헤브</ko>
+		<fixja>ホルエムヘブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_INET</zType>
@@ -2470,6 +2657,7 @@
 		<zh-CN>伊奈特</zh-CN>
 		<pt-BR>Inete</pt-BR>
 		<ko>이네트</ko>
+		<fixja>イネット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KAMOSE</zType>
@@ -2483,6 +2671,7 @@
 		<zh-CN>卡摩斯</zh-CN>
 		<pt-BR>Comósis</pt-BR>
 		<ko>카모세</ko>
+		<fixja>カモセ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHAFRE</zType>
@@ -2496,6 +2685,7 @@
 		<zh-CN>卡夫拉</zh-CN>
 		<pt-BR>Cafré</pt-BR>
 		<ko>카프레</ko>
+		<fixja>カフラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHUFU</zType>
@@ -2509,6 +2699,7 @@
 		<zh-CN>胡夫</zh-CN>
 		<pt-BR>Quenum</pt-BR>
 		<ko>쿠푸</ko>
+		<fixja>クフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MENKAURE</zType>
@@ -2522,6 +2713,7 @@
 		<zh-CN>孟卡拉</zh-CN>
 		<pt-BR>Mencauré</pt-BR>
 		<ko>멘카우레</ko>
+		<fixja>メンカウラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MENTUHOTEP</zType>
@@ -2535,6 +2727,7 @@
 		<zh-CN>曼图霍特普</zh-CN>
 		<pt-BR>Mentuotepe</pt-BR>
 		<ko>멘투호테프</ko>
+		<fixja>メンチュヘテプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MERENPTAH</zType>
@@ -2548,6 +2741,7 @@
 		<zh-CN>麦伦普塔</zh-CN>
 		<pt-BR>Merneptá</pt-BR>
 		<ko>메르넵타</ko>
+		<fixja>メレンプタハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NARMER</zType>
@@ -2561,6 +2755,7 @@
 		<zh-CN>那尔迈</zh-CN>
 		<pt-BR>Narmer</pt-BR>
 		<ko>나르메르</ko>
+		<fixja>ナルメル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEFERKARE</zType>
@@ -2574,6 +2769,7 @@
 		<zh-CN>内弗卡拉</zh-CN>
 		<pt-BR>Nefercaré</pt-BR>
 		<ko>네페르카레</ko>
+		<fixja>ネフェルカレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PEPI</zType>
@@ -2587,6 +2783,7 @@
 		<zh-CN>佩皮</zh-CN>
 		<pt-BR>Pepi</pt-BR>
 		<ko>페피</ko>
+		<fixja>ペピ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PSAMTIK</zType>
@@ -2600,6 +2797,7 @@
 		<zh-CN>普萨美提克</zh-CN>
 		<pt-BR>Psamético</pt-BR>
 		<ko>프삼티크</ko>
+		<fixja>プサムテク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENUSRET</zType>
@@ -2613,6 +2811,7 @@
 		<zh-CN>辛努塞尔特</zh-CN>
 		<pt-BR>Senuserete</pt-BR>
 		<ko>세누스레트</ko>
+		<fixja>センウセレト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SETI</zType>
@@ -2626,6 +2825,7 @@
 		<zh-CN>塞提</zh-CN>
 		<pt-BR>Seti</pt-BR>
 		<ko>세티</ko>
+		<fixja>セティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THUTMOSE</zType>
@@ -2639,6 +2839,7 @@
 		<zh-CN>图特摩斯</zh-CN>
 		<pt-BR>Tutemés</pt-BR>
 		<ko>투트모세</ko>
+		<fixja>トトメス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTANKHAMUN</zType>
@@ -2652,6 +2853,7 @@
 		<zh-CN>图坦卡门</zh-CN>
 		<pt-BR>Tutancâmon</pt-BR>
 		<ko>투탕카멘</ko>
+		<fixja>ツタンカーメン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_WERHETEP</zType>
@@ -2665,6 +2867,7 @@
 		<zh-CN>沃西提普</zh-CN>
 		<pt-BR>Uerhetepe</pt-BR>
 		<ko>웨르헤텝</ko>
+		<fixja>ウェレテップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANKHESENAMUN</zType>
@@ -2678,6 +2881,7 @@
 		<zh-CN>安克姗海娜曼</zh-CN>
 		<pt-BR>Anquesenamon</pt-BR>
 		<ko>안케세나멘</ko>
+		<fixja>アンケセナーメン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BERENIB</zType>
@@ -2691,6 +2895,7 @@
 		<zh-CN>贝内里卜</zh-CN>
 		<pt-BR>Berenibe</pt-BR>
 		<ko>베레니브</ko>
+		<fixja>ベレニブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ESENCHEBIS</zType>
@@ -2704,6 +2909,7 @@
 		<zh-CN>埃森色毕斯</zh-CN>
 		<pt-BR>Esenchebis</pt-BR>
 		<ko>에센체비스</ko>
+		<fixja>エセンチェビス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HATSHEPSUT</zType>
@@ -2717,6 +2923,7 @@
 		<zh-CN>哈特谢普苏特</zh-CN>
 		<pt-BR>Hatexepsute</pt-BR>
 		<ko>하트셉수트</ko>
+		<fixja>ハトシェプスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HATSHEPSUT_HISTORICAL</zType>
@@ -2730,6 +2937,7 @@
 		<zh-CN>𓄂𓏏𓀼𓏏𓏥 (ḥꜣt-špswt)</zh-CN>
 		<pt-BR>𓄂𓏏𓀼𓏏𓏥 (ḥꜣt-špswt)</pt-BR>
 		<ko>𓄂𓏏𓀼𓏏𓏥 (하트셉수트)</ko>
+		<fixja>ハトシェプスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HETEPHERES</zType>
@@ -2743,6 +2951,7 @@
 		<zh-CN>海特菲莉斯</zh-CN>
 		<pt-BR>Heteferés</pt-BR>
 		<ko>헤테페레스</ko>
+		<fixja>ヘテプヘレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IPUT</zType>
@@ -2756,6 +2965,7 @@
 		<zh-CN>安普特</zh-CN>
 		<pt-BR>Ipute</pt-BR>
 		<ko>입풋</ko>
+		<fixja>イプチ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ISIS</zType>
@@ -2769,6 +2979,7 @@
 		<zh-CN>伊西斯</zh-CN>
 		<pt-BR>Isis</pt-BR>
 		<ko>이시스</ko>
+		<fixja>イシス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHENUT</zType>
@@ -2782,6 +2993,7 @@
 		<zh-CN>克恩努特</zh-CN>
 		<pt-BR>Khenut</pt-BR>
 		<ko>케누트</ko>
+		<fixja>ケヌート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MEHAA</zType>
@@ -2795,6 +3007,7 @@
 		<zh-CN>梅哈</zh-CN>
 		<pt-BR>Mehaa</pt-BR>
 		<ko>메하</ko>
+		<fixja>メハア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MERESANKH</zType>
@@ -2808,6 +3021,7 @@
 		<zh-CN>梅雷桑赫</zh-CN>
 		<pt-BR>Meresankh</pt-BR>
 		<ko>메레산크</ko>
+		<fixja>メレスアンク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MERNIT</zType>
@@ -2821,6 +3035,7 @@
 		<zh-CN>墨妮特</zh-CN>
 		<pt-BR>Mernite</pt-BR>
 		<ko>메르니트</ko>
+		<fixja>​メルニット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEBET</zType>
@@ -2834,6 +3049,7 @@
 		<zh-CN>奈蓓</zh-CN>
 		<pt-BR>Nebete</pt-BR>
 		<ko>네벳</ko>
+		<fixja>ネベット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEBWENET</zType>
@@ -2847,6 +3063,7 @@
 		<zh-CN>内布乌涅特</zh-CN>
 		<pt-BR>Nebuenete</pt-BR>
 		<ko>네브웨넷</ko>
+		<fixja>ネブウェネット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEFERTARI</zType>
@@ -2860,6 +3077,7 @@
 		<zh-CN>妮菲塔莉</zh-CN>
 		<pt-BR>Nefertari</pt-BR>
 		<ko>네페르타리</ko>
+		<fixja>ネフェルタリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEFERTITI</zType>
@@ -2873,6 +3091,7 @@
 		<zh-CN>娜芙蒂蒂</zh-CN>
 		<pt-BR>Nefertiti</pt-BR>
 		<ko>네페르티티</ko>
+		<fixja>ネフェルティティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEFERURE</zType>
@@ -2886,6 +3105,7 @@
 		<zh-CN>奈菲露勒</zh-CN>
 		<pt-BR>Neferuré</pt-BR>
 		<ko>네페루레</ko>
+		<fixja>ネフェルア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NITIQRET</zType>
@@ -2899,6 +3119,7 @@
 		<zh-CN>尼托克里斯</zh-CN>
 		<pt-BR>Nitocris</pt-BR>
 		<ko>니티크렛</ko>
+		<fixja>ニトクリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_REKHETRE</zType>
@@ -2912,6 +3133,7 @@
 		<zh-CN>雷赫特</zh-CN>
 		<pt-BR>Requetré</pt-BR>
 		<ko>레케트레</ko>
+		<fixja>レケトレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEBAT</zType>
@@ -2925,6 +3147,7 @@
 		<zh-CN>塞巴特</zh-CN>
 		<pt-BR>Sebate</pt-BR>
 		<ko>세바트</ko>
+		<fixja>セバット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEMAT</zType>
@@ -2938,6 +3161,7 @@
 		<zh-CN>塞玛特</zh-CN>
 		<pt-BR>Semate</pt-BR>
 		<ko>세마트</ko>
+		<fixja>セマット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SENMINIS</zType>
@@ -2951,6 +3175,7 @@
 		<zh-CN>珊米尼斯</zh-CN>
 		<pt-BR>Senminis</pt-BR>
 		<ko>센미니스</ko>
+		<fixja>センミニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SERETHOR</zType>
@@ -2964,6 +3189,7 @@
 		<zh-CN>塞雷斯托尔</zh-CN>
 		<pt-BR>Seretor</pt-BR>
 		<ko>세레토르</ko>
+		<fixja>セレトール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SOBEKNEFERU</zType>
@@ -2977,6 +3203,7 @@
 		<zh-CN>塞贝克涅弗鲁</zh-CN>
 		<pt-BR>Sobequeneferu</pt-BR>
 		<ko>소베크네페루</ko>
+		<fixja>セベクネフェル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TETOBASTIS</zType>
@@ -2990,6 +3217,7 @@
 		<zh-CN>提托贝斯提斯</zh-CN>
 		<pt-BR>Tetobastis</pt-BR>
 		<ko>테토바스티스</ko>
+		<fixja>テトバスティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TIYE</zType>
@@ -3003,6 +3231,7 @@
 		<zh-CN>泰伊</zh-CN>
 		<pt-BR>Tiye</pt-BR>
 		<ko>티예</ko>
+		<fixja>ティイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TWOSRET</zType>
@@ -3016,6 +3245,7 @@
 		<zh-CN>塔沃斯塔</zh-CN>
 		<pt-BR>Tuosserete</pt-BR>
 		<ko>투스레트</ko>
+		<fixja>タウセルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_UDJEBTEN</zType>
@@ -3029,6 +3259,7 @@
 		<zh-CN>乌蒂杰布吞</zh-CN>
 		<pt-BR>Udjebeten</pt-BR>
 		<ko>우제브텐</ko>
+		<fixja>ウジェブテン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AEACIDES</zType>
@@ -3042,6 +3273,7 @@
 		<zh-CN>埃阿喀得斯</zh-CN>
 		<pt-BR>Eácides</pt-BR>
 		<ko>아이아키데스</ko>
+		<fixja>アイアキデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AGIS</zType>
@@ -3055,6 +3287,7 @@
 		<zh-CN>亚基斯</zh-CN>
 		<pt-BR>Ágis</pt-BR>
 		<ko>아기스</ko>
+		<fixja>アギス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALCETAS</zType>
@@ -3068,6 +3301,7 @@
 		<zh-CN>阿尔塞塔斯</zh-CN>
 		<pt-BR>Alcetas</pt-BR>
 		<ko>알케타스</ko>
+		<fixja>アルケタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALCIBIADES</zType>
@@ -3081,6 +3315,7 @@
 		<zh-CN>阿尔西比亚德斯</zh-CN>
 		<pt-BR>Alcibíades</pt-BR>
 		<ko>알키비아데스</ko>
+		<fixja>アルキビアデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALEXANDER</zType>
@@ -3094,6 +3329,7 @@
 		<zh-CN>亚历山大</zh-CN>
 		<pt-BR>Alexandre</pt-BR>
 		<ko>알렉산드로스</ko>
+		<fixja>アレクサンドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALEXANDER_HISTORICAL</zType>
@@ -3107,6 +3343,7 @@
 		<zh-CN>Ἀλέξανδρος(Alexandros)</zh-CN>
 		<pt-BR>Ἀλέξανδρος (Alexandros)</pt-BR>
 		<ko>Ἀλέξανδρος (알렉산드로스)</ko>
+		<fixja>アレクサンドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTIGONUS</zType>
@@ -3120,6 +3357,7 @@
 		<zh-CN>安提柯</zh-CN>
 		<pt-BR>Antígono</pt-BR>
 		<ko>안티고노스</ko>
+		<fixja>アンティゴノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTIOCHUS</zType>
@@ -3133,6 +3371,7 @@
 		<zh-CN>安条克</zh-CN>
 		<pt-BR>Antíoco</pt-BR>
 		<ko>안티오코스</ko>
+		<fixja>アンティオコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTIPATER</zType>
@@ -3146,6 +3385,7 @@
 		<zh-CN>安提帕特</zh-CN>
 		<pt-BR>Antípatro</pt-BR>
 		<ko>안티파트로스</ko>
+		<fixja>アンティパトロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARISTANDER</zType>
@@ -3159,6 +3399,7 @@
 		<zh-CN>亚里斯坦德</zh-CN>
 		<pt-BR>Aristandro</pt-BR>
 		<ko>아리스탄드로스</ko>
+		<fixja>アリスタンドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARYBBAS</zType>
@@ -3172,6 +3413,7 @@
 		<zh-CN>阿瑞巴斯</zh-CN>
 		<pt-BR>Arribas</pt-BR>
 		<ko>아리바스</ko>
+		<fixja>アリュバス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATTALUS</zType>
@@ -3185,6 +3427,7 @@
 		<zh-CN>阿塔罗斯</zh-CN>
 		<pt-BR>Átalo</pt-BR>
 		<ko>아탈로스</ko>
+		<fixja>アッタロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BALACRUS</zType>
@@ -3198,6 +3441,7 @@
 		<zh-CN>巴拉克鲁斯</zh-CN>
 		<pt-BR>Balacrus</pt-BR>
 		<ko>발라크로스</ko>
+		<fixja>バラクルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BARDYLIS</zType>
@@ -3211,6 +3455,7 @@
 		<zh-CN>巴迪里斯</zh-CN>
 		<pt-BR>Bardilis</pt-BR>
 		<ko>바르딜리스</ko>
+		<fixja>バルデュリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CASSANDER</zType>
@@ -3224,6 +3469,7 @@
 		<zh-CN>卡山德</zh-CN>
 		<pt-BR>Cassandro</pt-BR>
 		<ko>카산드로스</ko>
+		<fixja>カッサンドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHRYSEIS</zType>
@@ -3237,6 +3483,7 @@
 		<zh-CN>克律塞伊斯</zh-CN>
 		<pt-BR>Criseida</pt-BR>
 		<ko>크리세이스</ko>
+		<fixja>クリューセーイス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CIMON</zType>
@@ -3250,6 +3497,7 @@
 		<zh-CN>客蒙</zh-CN>
 		<pt-BR>Címon</pt-BR>
 		<ko>키몬</ko>
+		<fixja>キモン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLEISTHENES</zType>
@@ -3263,6 +3511,7 @@
 		<zh-CN>克里斯提尼</zh-CN>
 		<pt-BR>Clístenes</pt-BR>
 		<ko>클레이스테네스</ko>
+		<fixja>クレイステネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLEITARCHUS</zType>
@@ -3276,6 +3525,7 @@
 		<zh-CN>克来塔卡斯</zh-CN>
 		<pt-BR>Clitarco</pt-BR>
 		<ko>클레이타르코스</ko>
+		<fixja>クレイタルコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLEOMENES</zType>
@@ -3289,6 +3539,7 @@
 		<zh-CN>克莱奥梅尼</zh-CN>
 		<pt-BR>Cleômenes</pt-BR>
 		<ko>클레오메네스</ko>
+		<fixja>クレオメネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CRATERUS</zType>
@@ -3302,6 +3553,7 @@
 		<zh-CN>克拉特鲁斯</zh-CN>
 		<pt-BR>Crátero</pt-BR>
 		<ko>크라테로스</ko>
+		<fixja>クラテロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DERDAS</zType>
@@ -3315,6 +3567,7 @@
 		<zh-CN>德尔达斯</zh-CN>
 		<pt-BR>Derdas</pt-BR>
 		<ko>데르다스</ko>
+		<fixja>デルダス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DEMETRIUS</zType>
@@ -3328,6 +3581,7 @@
 		<zh-CN>德米特里</zh-CN>
 		<pt-BR>Demétrio</pt-BR>
 		<ko>데메트리오스</ko>
+		<fixja>デメトリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIODORUS</zType>
@@ -3341,6 +3595,7 @@
 		<zh-CN>狄奥多罗斯</zh-CN>
 		<pt-BR>Diodoro</pt-BR>
 		<ko>디오도로스</ko>
+		<fixja>ディオドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HEPHAESTION</zType>
@@ -3354,6 +3609,7 @@
 		<zh-CN>赫费斯提翁</zh-CN>
 		<pt-BR>Heféstio</pt-BR>
 		<ko>헤파이스티온</ko>
+		<fixja>ヘファイスティオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIPPIAS</zType>
@@ -3367,6 +3623,7 @@
 		<zh-CN>希庇亚</zh-CN>
 		<pt-BR>Hípias</pt-BR>
 		<ko>히피아스</ko>
+		<fixja>ヒッピアス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIPPOSTRATUS</zType>
@@ -3380,6 +3637,7 @@
 		<zh-CN>希波斯特拉托斯</zh-CN>
 		<pt-BR>Hipostrato</pt-BR>
 		<ko>히포스트라토스</ko>
+		<fixja>​ヒッポストラトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LEONIDAS</zType>
@@ -3393,6 +3651,7 @@
 		<zh-CN>列奥尼达</zh-CN>
 		<pt-BR>Leônidas</pt-BR>
 		<ko>레오니다스</ko>
+		<fixja>レオニダス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LEONNATUS</zType>
@@ -3406,6 +3665,7 @@
 		<zh-CN>列昂纳托斯</zh-CN>
 		<pt-BR>Leonato</pt-BR>
 		<ko>레온나토스</ko>
+		<fixja>レオンナトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LYSANDER</zType>
@@ -3419,6 +3679,7 @@
 		<zh-CN>吕山德</zh-CN>
 		<pt-BR>Lisandro</pt-BR>
 		<ko>리산드로스</ko>
+		<fixja>リュサンドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LYSIMACHUS</zType>
@@ -3432,6 +3693,7 @@
 		<zh-CN>利西马科斯</zh-CN>
 		<pt-BR>Lisímaco</pt-BR>
 		<ko>리시마코스</ko>
+		<fixja>リュシマコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MACHATAS</zType>
@@ -3445,6 +3707,7 @@
 		<zh-CN>马卡塔斯</zh-CN>
 		<pt-BR>Machatas</pt-BR>
 		<ko>마카타스</ko>
+		<fixja>マチャタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MELEAGER</zType>
@@ -3458,6 +3721,7 @@
 		<zh-CN>梅列阿格</zh-CN>
 		<pt-BR>Meleagro</pt-BR>
 		<ko>멜레아그로스</ko>
+		<fixja>メレアグロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MILTIADES</zType>
@@ -3471,6 +3735,7 @@
 		<zh-CN>米太亚德</zh-CN>
 		<pt-BR>Milcíades</pt-BR>
 		<ko>밀티아데스</ko>
+		<fixja>ミルティアデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NEOPTLEMUS</zType>
@@ -3484,6 +3749,7 @@
 		<zh-CN>奈奥普托勒姆斯</zh-CN>
 		<pt-BR>Neoptólemo</pt-BR>
 		<ko>네오프톨레모스</ko>
+		<fixja>ネオプトレモス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NICIAS</zType>
@@ -3497,6 +3763,7 @@
 		<zh-CN>尼西阿斯</zh-CN>
 		<pt-BR>Nícias</pt-BR>
 		<ko>니키아스</ko>
+		<fixja>ニキアス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ORESTES</zType>
@@ -3510,6 +3777,7 @@
 		<zh-CN>俄瑞斯忒斯希</zh-CN>
 		<pt-BR>Orestes</pt-BR>
 		<ko>오레스테스</ko>
+		<fixja>オレステス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PARMENIO</zType>
@@ -3523,6 +3791,7 @@
 		<zh-CN>帕曼纽</zh-CN>
 		<pt-BR>Parménio</pt-BR>
 		<ko>파르메니온</ko>
+		<fixja>パルメニオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PAUSANIAS</zType>
@@ -3536,6 +3805,7 @@
 		<zh-CN>保萨尼亚斯</zh-CN>
 		<pt-BR>Pausânias</pt-BR>
 		<ko>파우사니아스</ko>
+		<fixja>パウサニアス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PEITHON</zType>
@@ -3549,6 +3819,7 @@
 		<zh-CN>培松</zh-CN>
 		<pt-BR>Píton</pt-BR>
 		<ko>페이톤</ko>
+		<fixja>ペイトン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PELOPIDAS</zType>
@@ -3562,6 +3833,7 @@
 		<zh-CN>佩洛皮达斯</zh-CN>
 		<pt-BR>Pelópidas</pt-BR>
 		<ko>펠로피다스</ko>
+		<fixja>ペロピダス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PERDICCAS</zType>
@@ -3575,6 +3847,7 @@
 		<zh-CN>佩尔狄卡斯</zh-CN>
 		<pt-BR>Pérdicas</pt-BR>
 		<ko>페르디카스</ko>
+		<fixja>ペルディッカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PERIANDER</zType>
@@ -3588,6 +3861,7 @@
 		<zh-CN>佩里安德</zh-CN>
 		<pt-BR>Periandro</pt-BR>
 		<ko>페리안드로스</ko>
+		<fixja>ペリアンドロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PERICLES</zType>
@@ -3601,6 +3875,7 @@
 		<zh-CN>伯里克里斯</zh-CN>
 		<pt-BR>Péricles</pt-BR>
 		<ko>페리클레스</ko>
+		<fixja>ペリクレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PERSEUS</zType>
@@ -3614,6 +3889,7 @@
 		<zh-CN>柏修斯</zh-CN>
 		<pt-BR>Perseu</pt-BR>
 		<ko>페르세우스</ko>
+		<fixja>ペルセウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHILOTAS</zType>
@@ -3627,6 +3903,7 @@
 		<zh-CN>菲罗塔斯</zh-CN>
 		<pt-BR>Filotas</pt-BR>
 		<ko>필로타스</ko>
+		<fixja>フィロタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POLYPERCHON</zType>
@@ -3640,6 +3917,7 @@
 		<zh-CN>波利伯孔</zh-CN>
 		<pt-BR>Poliperconte</pt-BR>
 		<ko>폴리페르콘</ko>
+		<fixja>ポリュペルコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHILIP</zType>
@@ -3653,6 +3931,7 @@
 		<zh-CN>腓力</zh-CN>
 		<pt-BR>Filipe</pt-BR>
 		<ko>필리포스</ko>
+		<fixja>フィリポ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PYRRHUS</zType>
@@ -3666,6 +3945,7 @@
 		<zh-CN>皮洛士</zh-CN>
 		<pt-BR>Pirro</pt-BR>
 		<ko>피로스</ko>
+		<fixja>ピュロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SELEUCUS</zType>
@@ -3679,6 +3959,7 @@
 		<zh-CN>塞琉古</zh-CN>
 		<pt-BR>Seleuco</pt-BR>
 		<ko>셀레우코스</ko>
+		<fixja>セレウコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SOPOLIS</zType>
@@ -3692,6 +3973,7 @@
 		<zh-CN>索波里斯</zh-CN>
 		<pt-BR>Sópolis</pt-BR>
 		<ko>소폴리스</ko>
+		<fixja>ソポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THEMISTOCLES</zType>
@@ -3705,6 +3987,7 @@
 		<zh-CN>提米斯托克利</zh-CN>
 		<pt-BR>Temístocles</pt-BR>
 		<ko>테미스토클레스</ko>
+		<fixja>テミストクレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANYTE</zType>
@@ -3718,6 +4001,7 @@
 		<zh-CN>阿尼特</zh-CN>
 		<pt-BR>Anite</pt-BR>
 		<ko>아니테</ko>
+		<fixja>アニュテー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARCHIDAMIA</zType>
@@ -3731,6 +4015,7 @@
 		<zh-CN>阿希达米亚</zh-CN>
 		<pt-BR>Araquidamia</pt-BR>
 		<ko>아르키다미아</ko>
+		<fixja>アルキダミア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARETE</zType>
@@ -3744,6 +4029,7 @@
 		<zh-CN>阿瑞特</zh-CN>
 		<pt-BR>Areta</pt-BR>
 		<ko>아레테</ko>
+		<fixja>アレテ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARSINOE</zType>
@@ -3757,6 +4043,7 @@
 		<zh-CN>阿尔西诺伊</zh-CN>
 		<pt-BR>Arsínoe</pt-BR>
 		<ko>아르시노에</ko>
+		<fixja>アルシノエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTEMISIA</zType>
@@ -3770,6 +4057,7 @@
 		<zh-CN>阿耳忒弥西亚</zh-CN>
 		<pt-BR>Artemísia</pt-BR>
 		<ko>아르테미시아</ko>
+		<fixja>​アルテミシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASPASIA</zType>
@@ -3783,6 +4071,7 @@
 		<zh-CN>阿斯帕西亚</zh-CN>
 		<pt-BR>Aspásia</pt-BR>
 		<ko>아스파시아</ko>
+		<fixja>アスパシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AUDATA</zType>
@@ -3796,6 +4085,7 @@
 		<zh-CN>奥妲塔</zh-CN>
 		<pt-BR>Audata</pt-BR>
 		<ko>아우다타</ko>
+		<fixja>アウダタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BERENICE</zType>
@@ -3809,6 +4099,7 @@
 		<zh-CN>贝勒尼基</zh-CN>
 		<pt-BR>Berenice</pt-BR>
 		<ko>베레니케</ko>
+		<fixja>ベレニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BILISTICHE</zType>
@@ -3822,6 +4113,7 @@
 		<zh-CN>比莉丝提刻</zh-CN>
 		<pt-BR>Belistiche</pt-BR>
 		<ko>빌리스타케</ko>
+		<fixja>ビリスティチェ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CHILONIS</zType>
@@ -3835,6 +4127,7 @@
 		<zh-CN>契洛妮斯</zh-CN>
 		<pt-BR>Quilônis</pt-BR>
 		<ko>킬로니스</ko>
+		<fixja>チロニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CYNANE</zType>
@@ -3848,6 +4141,7 @@
 		<zh-CN>库娜涅</zh-CN>
 		<pt-BR>Cinane</pt-BR>
 		<ko>키나네</ko>
+		<fixja>キュナネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DEIDAMIA</zType>
@@ -3861,6 +4155,7 @@
 		<zh-CN>德伊达弥亚</zh-CN>
 		<pt-BR>Deidamia</pt-BR>
 		<ko>데이다미아</ko>
+		<fixja>デーイダメイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIONASSA</zType>
@@ -3874,6 +4169,7 @@
 		<zh-CN>戴奥娜莎</zh-CN>
 		<pt-BR>Dionassa</pt-BR>
 		<ko>디오나사</ko>
+		<fixja>ディオナッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIOTIMA</zType>
@@ -3887,6 +4183,7 @@
 		<zh-CN>迪奥蒂玛</zh-CN>
 		<pt-BR>Diotima</pt-BR>
 		<ko>디오티마</ko>
+		<fixja>ディオティマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERYXO</zType>
@@ -3900,6 +4197,7 @@
 		<zh-CN>埃里克索</zh-CN>
 		<pt-BR>Erixo</pt-BR>
 		<ko>에릭소</ko>
+		<fixja>エリュクソ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EURYDICE</zType>
@@ -3913,6 +4211,7 @@
 		<zh-CN>尤丽狄丝</zh-CN>
 		<pt-BR>Eurídice</pt-BR>
 		<ko>에우리디케</ko>
+		<fixja>エウリュディケー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GORGO</zType>
@@ -3926,6 +4225,7 @@
 		<zh-CN>戈尔贡</zh-CN>
 		<pt-BR>Gorgo</pt-BR>
 		<ko>고르고</ko>
+		<fixja>ゴルゴー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIPPARCHIA</zType>
@@ -3939,6 +4239,7 @@
 		<zh-CN>希帕嘉</zh-CN>
 		<pt-BR>Hipárquia</pt-BR>
 		<ko>히파르키아</ko>
+		<fixja>ヒッパルキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HYDNA</zType>
@@ -3952,6 +4253,7 @@
 		<zh-CN>海德娜</zh-CN>
 		<pt-BR>Hidna</pt-BR>
 		<ko>히드나</ko>
+		<fixja>ハイドナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LAODICE</zType>
@@ -3965,6 +4267,7 @@
 		<zh-CN>劳迪丝</zh-CN>
 		<pt-BR>Laódice</pt-BR>
 		<ko>라오디케</ko>
+		<fixja>ラオディケ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LANASSA</zType>
@@ -3978,6 +4281,7 @@
 		<zh-CN>拉纳莎</zh-CN>
 		<pt-BR>Lanassa</pt-BR>
 		<ko>라나사</ko>
+		<fixja>ラナッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LANIKE</zType>
@@ -3991,6 +4295,7 @@
 		<zh-CN>兰妮基</zh-CN>
 		<pt-BR>Lanice</pt-BR>
 		<ko>라니케</ko>
+		<fixja>ラニケ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_METRODORA</zType>
@@ -4004,6 +4309,7 @@
 		<zh-CN>梅卓多拉</zh-CN>
 		<pt-BR>Metrodora</pt-BR>
 		<ko>메트로도라</ko>
+		<fixja>メトロドラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MORALIA</zType>
@@ -4017,6 +4323,7 @@
 		<zh-CN>莫拉莉亚</zh-CN>
 		<pt-BR>Moralia</pt-BR>
 		<ko>모랄리아</ko>
+		<fixja>モラリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MYRTALE</zType>
@@ -4030,6 +4337,7 @@
 		<zh-CN>茉特尔</zh-CN>
 		<pt-BR>Mirtale</pt-BR>
 		<ko>미르탈레</ko>
+		<fixja>ミルテール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NICAEA</zType>
@@ -4043,6 +4351,7 @@
 		<zh-CN>尼西亚</zh-CN>
 		<pt-BR>Niceia</pt-BR>
 		<ko>니카이아</ko>
+		<fixja>ニカイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NICASIPOLIS</zType>
@@ -4056,6 +4365,7 @@
 		<zh-CN>尼刻西波莉丝</zh-CN>
 		<pt-BR>Nicasipolis</pt-BR>
 		<ko>니카시폴리스</ko>
+		<fixja>ニカシポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OLYMPIAS</zType>
@@ -4069,6 +4379,7 @@
 		<zh-CN>奥林匹亚丝</zh-CN>
 		<pt-BR>Olímpia</pt-BR>
 		<ko>올림피아스</ko>
+		<fixja>オリュンピアス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHERETIMA</zType>
@@ -4082,6 +4393,7 @@
 		<zh-CN>斐列提玛</zh-CN>
 		<pt-BR>Feretima</pt-BR>
 		<ko>페레티마</ko>
+		<fixja>​ペレティマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHILA</zType>
@@ -4095,6 +4407,7 @@
 		<zh-CN>菲拉</zh-CN>
 		<pt-BR>Fila</pt-BR>
 		<ko>필라</ko>
+		<fixja>フィラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHILINNA</zType>
@@ -4108,6 +4421,7 @@
 		<zh-CN>菲琳娜</zh-CN>
 		<pt-BR>Filina</pt-BR>
 		<ko>필린나</ko>
+		<fixja>ピリンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHTHIA</zType>
@@ -4121,6 +4435,7 @@
 		<zh-CN>普西亚</zh-CN>
 		<pt-BR>Fítia</pt-BR>
 		<ko>프티아</ko>
+		<fixja>プティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POLYCRATIA</zType>
@@ -4134,6 +4449,7 @@
 		<zh-CN>波利克拉蒂亚</zh-CN>
 		<pt-BR>Policrácia</pt-BR>
 		<ko>폴리크라티아</ko>
+		<fixja>ポリクラティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POLYXENA</zType>
@@ -4147,6 +4463,7 @@
 		<zh-CN>波吕克塞娜</zh-CN>
 		<pt-BR>Polixena</pt-BR>
 		<ko>폴릭세네</ko>
+		<fixja>ポリュクセネー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STRATONICE</zType>
@@ -4160,6 +4477,7 @@
 		<zh-CN>斯特拉托妮可</zh-CN>
 		<pt-BR>Estratonice</pt-BR>
 		<ko>스트라토니케</ko>
+		<fixja>ストラトニケ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TELESILLA</zType>
@@ -4173,6 +4491,7 @@
 		<zh-CN>泰勒希拉</zh-CN>
 		<pt-BR>Telesila</pt-BR>
 		<ko>텔레실라</ko>
+		<fixja>テレシラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THEANO</zType>
@@ -4186,6 +4505,7 @@
 		<zh-CN>西雅娜</zh-CN>
 		<pt-BR>Teano</pt-BR>
 		<ko>테아노</ko>
+		<fixja>テアーノー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TIMAEA</zType>
@@ -4199,6 +4519,7 @@
 		<zh-CN>蒂玛雅</zh-CN>
 		<pt-BR>Timeia</pt-BR>
 		<ko>티마이아</ko>
+		<fixja>ティマエア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_XANTHIPPE</zType>
@@ -4212,6 +4533,7 @@
 		<zh-CN>赞西佩</zh-CN>
 		<pt-BR>Xântipe</pt-BR>
 		<ko>크산티페</ko>
+		<fixja>クサンティッペ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARDASHIR</zType>
@@ -4225,6 +4547,7 @@
 		<zh-CN>阿尔达希尔</zh-CN>
 		<pt-BR>Artaxes</pt-BR>
 		<ko>아르다시르</ko>
+		<fixja>アルダシール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARIASPES</zType>
@@ -4238,6 +4561,7 @@
 		<zh-CN>阿里亚斯佩斯</zh-CN>
 		<pt-BR>Ariaspes</pt-BR>
 		<ko>아리아스페스</ko>
+		<fixja>アリアスペス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTABANUS</zType>
@@ -4251,6 +4575,7 @@
 		<zh-CN>阿尔达班</zh-CN>
 		<pt-BR>Artabano</pt-BR>
 		<ko>아르타바누스</ko>
+		<fixja>アルタバノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTAXERXES</zType>
@@ -4264,6 +4589,7 @@
 		<zh-CN>阿尔塔薛西斯</zh-CN>
 		<pt-BR>Artaxerxes</pt-BR>
 		<ko>아르타크세르크세스</ko>
+		<fixja>アルタクセルクセス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASTYAGES</zType>
@@ -4277,6 +4603,7 @@
 		<zh-CN>阿斯提阿格斯</zh-CN>
 		<pt-BR>Astíages</pt-BR>
 		<ko>아스티아게스</ko>
+		<fixja>アステュアゲス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARUKU</zType>
@@ -4290,6 +4617,7 @@
 		<zh-CN>阿鲁库</zh-CN>
 		<pt-BR>Arucu</pt-BR>
 		<ko>아루쿠</ko>
+		<fixja>アルク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAHRAM</zType>
@@ -4303,6 +4631,7 @@
 		<zh-CN>巴赫拉姆</zh-CN>
 		<pt-BR>Baram</pt-BR>
 		<ko>바흐람</ko>
+		<fixja>バハラーム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BARDIYA</zType>
@@ -4316,6 +4645,7 @@
 		<zh-CN>高墨达</zh-CN>
 		<pt-BR>Bardiya</pt-BR>
 		<ko>바르디야</ko>
+		<fixja>バルディヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CAMBYSES</zType>
@@ -4329,6 +4659,7 @@
 		<zh-CN>冈比西斯王</zh-CN>
 		<pt-BR>Cambises</pt-BR>
 		<ko>캄비세스</ko>
+		<fixja>カンビュセス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CYRUS</zType>
@@ -4342,6 +4673,7 @@
 		<zh-CN>居鲁士</zh-CN>
 		<pt-BR>Ciro</pt-BR>
 		<ko>키루스</ko>
+		<fixja>サイラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DARIUS</zType>
@@ -4355,6 +4687,7 @@
 		<zh-CN>大流士</zh-CN>
 		<pt-BR>Dario</pt-BR>
 		<ko>다리우스</ko>
+		<fixja>ダレイオス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HARPAGUS</zType>
@@ -4368,6 +4701,7 @@
 		<zh-CN>哈尔帕格</zh-CN>
 		<pt-BR>Hárpago</pt-BR>
 		<ko>하르파고스</ko>
+		<fixja>ハルパゴス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HORMIZD</zType>
@@ -4381,6 +4715,7 @@
 		<zh-CN>荷姆兹</zh-CN>
 		<pt-BR>Hormisda</pt-BR>
 		<ko>호르미즈드</ko>
+		<fixja>ホルミズド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HYSTASPES</zType>
@@ -4394,6 +4729,7 @@
 		<zh-CN>希斯塔斯佩斯</zh-CN>
 		<pt-BR>Histaspes</pt-BR>
 		<ko>히스타스페스</ko>
+		<fixja>ヒュスタスペス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHOSRAU</zType>
@@ -4407,6 +4743,7 @@
 		<zh-CN>霍斯劳</zh-CN>
 		<pt-BR>Cosroes</pt-BR>
 		<ko>호스로</ko>
+		<fixja>ホスロー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAZYAR</zType>
@@ -4420,6 +4757,7 @@
 		<zh-CN>马扎亚尔</zh-CN>
 		<pt-BR>Maziar</pt-BR>
 		<ko>마지아르</ko>
+		<fixja>マジャール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MEGABAZUS</zType>
@@ -4433,6 +4771,7 @@
 		<zh-CN>梅加巴祖斯</zh-CN>
 		<pt-BR>Megabazus</pt-BR>
 		<ko>메가바주스</ko>
+		<fixja>メガバズス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MITHRIDATES</zType>
@@ -4446,6 +4785,7 @@
 		<zh-CN>米特里达梯</zh-CN>
 		<pt-BR>Mitrídates</pt-BR>
 		<ko>미트리타테스</ko>
+		<fixja>ミトリダテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ORODES</zType>
@@ -4459,6 +4799,7 @@
 		<zh-CN>奥罗德斯</zh-CN>
 		<pt-BR>Orodes</pt-BR>
 		<ko>오로데스</ko>
+		<fixja>オロデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OXATHRES</zType>
@@ -4472,6 +4813,7 @@
 		<zh-CN>奥克沙特瑞斯</zh-CN>
 		<pt-BR>Oxartres</pt-BR>
 		<ko>옥사트레스</ko>
+		<fixja>オキサスレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHARNASPES</zType>
@@ -4485,6 +4827,7 @@
 		<zh-CN>法利赛人</zh-CN>
 		<pt-BR>Farnaspes</pt-BR>
 		<ko>파르나스페스</ko>
+		<fixja>ファルナスペス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PHRAATES</zType>
@@ -4498,6 +4841,7 @@
 		<zh-CN>弗拉特斯</zh-CN>
 		<pt-BR>Fraates</pt-BR>
 		<ko>프라아테스</ko>
+		<fixja>フラーテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHAPUR</zType>
@@ -4511,6 +4855,7 @@
 		<zh-CN>沙布尔</zh-CN>
 		<pt-BR>Sapor</pt-BR>
 		<ko>샤푸르</ko>
+		<fixja>シャプール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SMERDIS</zType>
@@ -4524,6 +4869,7 @@
 		<zh-CN>斯摩底斯</zh-CN>
 		<pt-BR>Esmérdis</pt-BR>
 		<ko>스메르디스</ko>
+		<fixja>スメルディス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SUKHRA</zType>
@@ -4537,6 +4883,7 @@
 		<zh-CN>苏赫拉</zh-CN>
 		<pt-BR>Sucra</pt-BR>
 		<ko>수흐라</ko>
+		<fixja>スフラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TEISPES</zType>
@@ -4550,6 +4897,7 @@
 		<zh-CN>铁伊斯佩斯</zh-CN>
 		<pt-BR>Teispes</pt-BR>
 		<ko>테이스페스</ko>
+		<fixja>テイスペス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TIRIDATES</zType>
@@ -4563,6 +4911,7 @@
 		<zh-CN>梯利达特斯</zh-CN>
 		<pt-BR>Tirídates</pt-BR>
 		<ko>티리다테스</ko>
+		<fixja>ティリダテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VOLOGASES</zType>
@@ -4576,6 +4925,7 @@
 		<zh-CN>沃诺奈斯</zh-CN>
 		<pt-BR>Vologases</pt-BR>
 		<ko>볼로가세스</ko>
+		<fixja>ヴォロガセス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_XERXES</zType>
@@ -4589,6 +4939,7 @@
 		<zh-CN>薛西斯</zh-CN>
 		<pt-BR>Xerxes</pt-BR>
 		<ko>크세르크세스</ko>
+		<fixja>クセルクセス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_YAZDEGERD</zType>
@@ -4602,6 +4953,7 @@
 		<zh-CN>伊嗣俟</zh-CN>
 		<pt-BR>Isdigerdes</pt-BR>
 		<ko>야즈데게르드</ko>
+		<fixja>ヤズデギルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DARBAND</zType>
@@ -4615,6 +4967,7 @@
 		<zh-CN>达尔班德</zh-CN>
 		<pt-BR>Darbande</pt-BR>
 		<ko>다르반드</ko>
+		<fixja>ダーバンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASPADANA</zType>
@@ -4628,6 +4981,7 @@
 		<zh-CN>阿斯帕达纳</zh-CN>
 		<pt-BR>Aspadana</pt-BR>
 		<ko>아스파다나</ko>
+		<fixja>アスパダナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMESTRIS</zType>
@@ -4641,6 +4995,7 @@
 		<zh-CN>阿美翠丝</zh-CN>
 		<pt-BR>Améstris</pt-BR>
 		<ko>아메스트리스</ko>
+		<fixja>アメストリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMYTIS</zType>
@@ -4654,6 +5009,7 @@
 		<zh-CN>亚米缇斯</zh-CN>
 		<pt-BR>Amitis</pt-BR>
 		<ko>아미티스</ko>
+		<fixja>アミティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KASHSHAYA</zType>
@@ -4667,6 +5023,7 @@
 		<zh-CN>卡什萨亚</zh-CN>
 		<pt-BR>Cassaia</pt-BR>
 		<ko>카샤야</ko>
+		<fixja>カシュシャヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_APAMA</zType>
@@ -4680,6 +5037,7 @@
 		<zh-CN>阿帕玛</zh-CN>
 		<pt-BR>Apama</pt-BR>
 		<ko>아파마</ko>
+		<fixja>アパマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTAKAMA</zType>
@@ -4693,6 +5051,7 @@
 		<zh-CN>阿塔卡玛</zh-CN>
 		<pt-BR>Artácama</pt-BR>
 		<ko>아르타카마</ko>
+		<fixja>アルタカマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTAZOSTRE</zType>
@@ -4706,6 +5065,7 @@
 		<zh-CN>阿塔索丝特里</zh-CN>
 		<pt-BR>Artazostre</pt-BR>
 		<ko>아트라조스트레</ko>
+		<fixja>アルタゾストレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTYSTONE</zType>
@@ -4719,6 +5079,7 @@
 		<zh-CN>阿尔塔斯图娜</zh-CN>
 		<pt-BR>Artístone</pt-BR>
 		<ko>아르티스토네</ko>
+		<fixja>アルテュストネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASTAR</zType>
@@ -4732,6 +5093,7 @@
 		<zh-CN>阿丝塔</zh-CN>
 		<pt-BR>Astar</pt-BR>
 		<ko>아스타르</ko>
+		<fixja>アスタル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AZARMIDOKHT</zType>
@@ -4745,6 +5107,7 @@
 		<zh-CN>阿扎米多克特</zh-CN>
 		<pt-BR>Azarmiducte</pt-BR>
 		<ko>아자르미도흐트</ko>
+		<fixja>アーザルミードゥフト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BARSINE</zType>
@@ -4758,6 +5121,7 @@
 		<zh-CN>芭尔妮</zh-CN>
 		<pt-BR>Barsina</pt-BR>
 		<ko>바르시네</ko>
+		<fixja>バルシネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BORAN</zType>
@@ -4771,6 +5135,7 @@
 		<zh-CN>宝蓝</zh-CN>
 		<pt-BR>Borana</pt-BR>
 		<ko>보란</ko>
+		<fixja>ボラン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CASSANDANE</zType>
@@ -4784,6 +5149,7 @@
 		<zh-CN>卡桑达妮</zh-CN>
 		<pt-BR>Cassandana</pt-BR>
 		<ko>카산다네</ko>
+		<fixja>カッサンダネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GORDIYA</zType>
@@ -4797,6 +5163,7 @@
 		<zh-CN>戈尔迪亚</zh-CN>
 		<pt-BR>Gordia</pt-BR>
 		<ko>고르디야</ko>
+		<fixja>​ゴルディヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GURDZAD</zType>
@@ -4810,6 +5177,7 @@
 		<zh-CN>古德扎德</zh-CN>
 		<pt-BR>Curdzade</pt-BR>
 		<ko>구르드자드</ko>
+		<fixja>グルザド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IFRA</zType>
@@ -4823,6 +5191,7 @@
 		<zh-CN>伊芙拉</zh-CN>
 		<pt-BR>Ifra</pt-BR>
 		<ko>이프라</ko>
+		<fixja>イフラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IRDABAMA</zType>
@@ -4836,6 +5205,7 @@
 		<zh-CN>伊尔妲巴玛</zh-CN>
 		<pt-BR>Irdabama</pt-BR>
 		<ko>이르다바마</ko>
+		<fixja>イルダバマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHURANZIM</zType>
@@ -4849,6 +5219,7 @@
 		<zh-CN>库兰昔姆</zh-CN>
 		<pt-BR>Curanzim</pt-BR>
 		<ko>후란짐</ko>
+		<fixja>クランジム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MANDANA</zType>
@@ -4862,6 +5233,7 @@
 		<zh-CN>曼妲纳</zh-CN>
 		<pt-BR>Mandane</pt-BR>
 		<ko>만다나</ko>
+		<fixja>マンダナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MYROD</zType>
@@ -4875,6 +5247,7 @@
 		<zh-CN>麦洛</zh-CN>
 		<pt-BR>Mirode</pt-BR>
 		<ko>미로드</ko>
+		<fixja>マイロッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PARMIDA</zType>
@@ -4888,6 +5261,7 @@
 		<zh-CN>帕尔米达</zh-CN>
 		<pt-BR>Parmida</pt-BR>
 		<ko>파르미다</ko>
+		<fixja>パルミダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PARMYS</zType>
@@ -4901,6 +5275,7 @@
 		<zh-CN>帕尔米斯</zh-CN>
 		<pt-BR>Pármis</pt-BR>
 		<ko>파르미스</ko>
+		<fixja>パルミュス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PARYSATIS</zType>
@@ -4914,6 +5289,7 @@
 		<zh-CN>帕瑞萨娣丝</zh-CN>
 		<pt-BR>Parisátide</pt-BR>
 		<ko>파리사티스</ko>
+		<fixja>パリュサティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ROXANA</zType>
@@ -4927,6 +5303,7 @@
 		<zh-CN>罗克珊娜</zh-CN>
 		<pt-BR>Roxana</pt-BR>
 		<ko>록산나</ko>
+		<fixja>ロクサーナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHIRIN</zType>
@@ -4940,6 +5317,7 @@
 		<zh-CN>席琳</zh-CN>
 		<pt-BR>Sirém, Xirim</pt-BR>
 		<ko>시린</ko>
+		<fixja>シーリン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STATEIRA</zType>
@@ -4953,6 +5331,7 @@
 		<zh-CN>斯妲特拉</zh-CN>
 		<pt-BR>Estatira</pt-BR>
 		<ko>스타테이라</ko>
+		<fixja>スタテイラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SURA</zType>
@@ -4966,6 +5345,7 @@
 		<zh-CN>苏拉</zh-CN>
 		<pt-BR>Sura</pt-BR>
 		<ko>수라</ko>
+		<fixja>スラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZAND</zType>
@@ -4979,6 +5359,7 @@
 		<zh-CN>灿德</zh-CN>
 		<pt-BR>Zande</pt-BR>
 		<ko>잔드</ko>
+		<fixja>ザンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZURVANDOKHT</zType>
@@ -4992,6 +5373,7 @@
 		<zh-CN>祖凡朵克</zh-CN>
 		<pt-BR>Zurvandokte</pt-BR>
 		<ko>주르반도흐트</ko>
+		<fixja>ズルヴァンドクト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_APPIUS</zType>
@@ -5005,6 +5387,7 @@
 		<zh-CN>阿庇乌斯</zh-CN>
 		<pt-BR>Ápio</pt-BR>
 		<ko>아피우스</ko>
+		<fixja>アピウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AULUS</zType>
@@ -5018,6 +5401,7 @@
 		<zh-CN>奥卢斯</zh-CN>
 		<pt-BR>Aulo</pt-BR>
 		<ko>아울루스</ko>
+		<fixja>オーラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BRUTUS</zType>
@@ -5031,6 +5415,7 @@
 		<zh-CN>布鲁图斯</zh-CN>
 		<pt-BR>Bruto</pt-BR>
 		<ko>브루투스</ko>
+		<fixja>ブルータス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VAULTING</zType>
@@ -5044,6 +5429,7 @@
 		<zh-CN>卡西乌斯</zh-CN>
 		<pt-BR>Cássio</pt-BR>
 		<ko>카시우스</ko>
+		<fixja>カッシウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DECIMUS</zType>
@@ -5057,6 +5443,7 @@
 		<zh-CN>德西默斯</zh-CN>
 		<pt-BR>Décimo</pt-BR>
 		<ko>데키무스</ko>
+		<fixja>​デシムス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FAUSTUS</zType>
@@ -5070,6 +5457,7 @@
 		<zh-CN>浮士德</zh-CN>
 		<pt-BR>Fausto</pt-BR>
 		<ko>파우스투스</ko>
+		<fixja>​ファウストゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAIUS</zType>
@@ -5083,6 +5471,7 @@
 		<zh-CN>盖乌斯</zh-CN>
 		<pt-BR>Gaio</pt-BR>
 		<ko>가이우스</ko>
+		<fixja>ガイウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GNAEUS</zType>
@@ -5096,6 +5485,7 @@
 		<zh-CN>格奈乌斯</zh-CN>
 		<pt-BR>Cneu</pt-BR>
 		<ko>그나이우스</ko>
+		<fixja>グナエウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HOSTUS</zType>
@@ -5109,6 +5499,7 @@
 		<zh-CN>荷斯特斯</zh-CN>
 		<pt-BR>Hosto</pt-BR>
 		<ko>호스투스</ko>
+		<fixja>​ホスタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KAESO</zType>
@@ -5122,6 +5513,7 @@
 		<zh-CN>凯索</zh-CN>
 		<pt-BR>Cesão</pt-BR>
 		<ko>카이소</ko>
+		<fixja>カエソ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LUCIUS</zType>
@@ -5135,6 +5527,7 @@
 		<zh-CN>卢修斯</zh-CN>
 		<pt-BR>Lúcio</pt-BR>
 		<ko>루키우스</ko>
+		<fixja>ルシウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAMERCUS</zType>
@@ -5148,6 +5541,7 @@
 		<zh-CN>马梅尔库斯</zh-CN>
 		<pt-BR>Mamerco</pt-BR>
 		<ko>마메르쿠스</ko>
+		<fixja>マメルカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MANIUS</zType>
@@ -5161,6 +5555,7 @@
 		<zh-CN>马尼乌斯</zh-CN>
 		<pt-BR>Mânio</pt-BR>
 		<ko>마니우스</ko>
+		<fixja>マニウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARCUS</zType>
@@ -5174,6 +5569,7 @@
 		<zh-CN>马可斯</zh-CN>
 		<pt-BR>Marco</pt-BR>
 		<ko>마르쿠스</ko>
+		<fixja>マーカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NONUS</zType>
@@ -5187,6 +5583,7 @@
 		<zh-CN>诺努斯</zh-CN>
 		<pt-BR>Nono</pt-BR>
 		<ko>노누스</ko>
+		<fixja>ノヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NUMERIUS</zType>
@@ -5200,6 +5597,7 @@
 		<zh-CN>努梅里乌斯</zh-CN>
 		<pt-BR>Numério</pt-BR>
 		<ko>누메리우스</ko>
+		<fixja>ヌメリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OCTAVIUS</zType>
@@ -5213,6 +5611,7 @@
 		<zh-CN>屋大维</zh-CN>
 		<pt-BR>Otávio</pt-BR>
 		<ko>옥타비우스</ko>
+		<fixja>オクタビウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POSTUMUS</zType>
@@ -5226,6 +5625,7 @@
 		<zh-CN>波斯图穆斯</zh-CN>
 		<pt-BR>Póstumo</pt-BR>
 		<ko>포스투무스</ko>
+		<fixja>ポストムス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PUBLIUS</zType>
@@ -5239,6 +5639,7 @@
 		<zh-CN>普布利乌斯</zh-CN>
 		<pt-BR>Públio</pt-BR>
 		<ko>푸불리우스</ko>
+		<fixja>パブリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_QUINTUS</zType>
@@ -5252,6 +5653,7 @@
 		<zh-CN>昆图斯</zh-CN>
 		<pt-BR>Quinto</pt-BR>
 		<ko>퀸투스</ko>
+		<fixja>クイントゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_REMUS</zType>
@@ -5265,6 +5667,7 @@
 		<zh-CN>雷穆斯</zh-CN>
 		<pt-BR>Remo</pt-BR>
 		<ko>레무스</ko>
+		<fixja>レムス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ROMULUS</zType>
@@ -5278,6 +5681,7 @@
 		<zh-CN>罗慕路斯</zh-CN>
 		<pt-BR>Rômulo</pt-BR>
 		<ko>로물루스</ko>
+		<fixja>ロームルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SERVIUS</zType>
@@ -5291,6 +5695,7 @@
 		<zh-CN>塞尔维乌斯</zh-CN>
 		<pt-BR>Sérvio</pt-BR>
 		<ko>세르비우스</ko>
+		<fixja>セルウィウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEXTUS</zType>
@@ -5304,6 +5709,7 @@
 		<zh-CN>塞克斯图斯</zh-CN>
 		<pt-BR>Sexto</pt-BR>
 		<ko>섹스투스</ko>
+		<fixja>セクストス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SPURIUS</zType>
@@ -5317,6 +5723,7 @@
 		<zh-CN>斯普里尤斯</zh-CN>
 		<pt-BR>Espúrio</pt-BR>
 		<ko>스푸리우스</ko>
+		<fixja>​スプリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STATIUS</zType>
@@ -5330,6 +5737,7 @@
 		<zh-CN>斯塔提乌斯</zh-CN>
 		<pt-BR>Estácio</pt-BR>
 		<ko>스타티우스</ko>
+		<fixja>スタティウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TIBERIUS</zType>
@@ -5343,6 +5751,7 @@
 		<zh-CN>提贝里乌斯</zh-CN>
 		<pt-BR>Tibério</pt-BR>
 		<ko>티베리우스</ko>
+		<fixja>ティベリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TITUS</zType>
@@ -5356,6 +5765,7 @@
 		<zh-CN>提图斯</zh-CN>
 		<pt-BR>Tito</pt-BR>
 		<ko>티투스</ko>
+		<fixja>タイタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VIBIUS</zType>
@@ -5369,6 +5779,7 @@
 		<zh-CN>维比乌斯</zh-CN>
 		<pt-BR>Víbio</pt-BR>
 		<ko>비비우스</ko>
+		<fixja>ビビウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AEMILIA</zType>
@@ -5382,6 +5793,7 @@
 		<zh-CN>艾米利亚</zh-CN>
 		<pt-BR>Emília</pt-BR>
 		<ko>아이밀리아</ko>
+		<fixja>​アエミリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AGRIPPINA</zType>
@@ -5395,6 +5807,7 @@
 		<zh-CN>阿格里皮娜</zh-CN>
 		<pt-BR>Agripina</pt-BR>
 		<ko>아그리피나</ko>
+		<fixja>アグリッピナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTONIA</zType>
@@ -5408,6 +5821,7 @@
 		<zh-CN>安东尼</zh-CN>
 		<pt-BR>Antônia</pt-BR>
 		<ko>안토니아</ko>
+		<fixja>アントニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATIA</zType>
@@ -5421,6 +5835,7 @@
 		<zh-CN>阿蒂亚</zh-CN>
 		<pt-BR>Atia</pt-BR>
 		<ko>아티아</ko>
+		<fixja>アティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AURELIA</zType>
@@ -5434,6 +5849,7 @@
 		<zh-CN>奥雷利亚</zh-CN>
 		<pt-BR>Aurélia</pt-BR>
 		<ko>아우렐리아</ko>
+		<fixja>アウレリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CALPURNIA</zType>
@@ -5447,6 +5863,7 @@
 		<zh-CN>卡普妮娅</zh-CN>
 		<pt-BR>Calpúrnia</pt-BR>
 		<ko>칼푸르니아</ko>
+		<fixja>カルプルニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CAMILLA</zType>
@@ -5460,6 +5877,7 @@
 		<zh-CN>卡蜜拉</zh-CN>
 		<pt-BR>Camila</pt-BR>
 		<ko>카밀라</ko>
+		<fixja>カミラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLODIA</zType>
@@ -5473,6 +5891,7 @@
 		<zh-CN>克劳迪亚</zh-CN>
 		<pt-BR>Clódia</pt-BR>
 		<ko>클로디아</ko>
+		<fixja>クローディア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CORNELIA</zType>
@@ -5486,6 +5905,7 @@
 		<zh-CN>科妮莉亚</zh-CN>
 		<pt-BR>Cornélia</pt-BR>
 		<ko>코르넬리아</ko>
+		<fixja>コルネリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DOMITIA</zType>
@@ -5499,6 +5919,7 @@
 		<zh-CN>朵蜜蒂雅</zh-CN>
 		<pt-BR>Domícia</pt-BR>
 		<ko>도미티아</ko>
+		<fixja>ドミティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DRUSILLA</zType>
@@ -5512,6 +5933,7 @@
 		<zh-CN>德鲁席拉</zh-CN>
 		<pt-BR>Drusila</pt-BR>
 		<ko>드루실라</ko>
+		<fixja>ドルシラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DRYPETIS</zType>
@@ -5525,6 +5947,7 @@
 		<zh-CN>德莉比娣丝</zh-CN>
 		<pt-BR>Dripetis</pt-BR>
 		<ko>드리페티스</ko>
+		<fixja>ドリュペティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FULVIA</zType>
@@ -5538,6 +5961,7 @@
 		<zh-CN>富尔维亚</zh-CN>
 		<pt-BR>Fúlvia</pt-BR>
 		<ko>풀비아</ko>
+		<fixja>フルヴィア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HORTENSIA</zType>
@@ -5551,6 +5975,7 @@
 		<zh-CN>霍坦希雅</zh-CN>
 		<pt-BR>Hortênsia</pt-BR>
 		<ko>호르텐시아</ko>
+		<fixja>ホルテンシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ILIA</zType>
@@ -5564,6 +5989,7 @@
 		<zh-CN>伊利亚</zh-CN>
 		<pt-BR>Ília</pt-BR>
 		<ko>일리아</ko>
+		<fixja>イリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LIVIA</zType>
@@ -5577,6 +6003,7 @@
 		<zh-CN>莉维亚</zh-CN>
 		<pt-BR>Lívia</pt-BR>
 		<ko>리비아</ko>
+		<fixja>リビア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LUCILLA</zType>
@@ -5590,6 +6017,7 @@
 		<zh-CN>露希拉</zh-CN>
 		<pt-BR>Lucila</pt-BR>
 		<ko>루킬라</ko>
+		<fixja>ルキラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARCIA</zType>
@@ -5603,6 +6031,7 @@
 		<zh-CN>马西亚</zh-CN>
 		<pt-BR>Márcia</pt-BR>
 		<ko>마르키아</ko>
+		<fixja>マルシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PLAUTIA</zType>
@@ -5616,6 +6045,7 @@
 		<zh-CN>普劳蒂亚</zh-CN>
 		<pt-BR>Pláucia</pt-BR>
 		<ko>플라우티아</ko>
+		<fixja>プラウティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POMPEIA</zType>
@@ -5629,6 +6059,7 @@
 		<zh-CN>庞贝亚</zh-CN>
 		<pt-BR>Pompeia</pt-BR>
 		<ko>폼페이아</ko>
+		<fixja>ポンペイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PORCIA</zType>
@@ -5642,6 +6073,7 @@
 		<zh-CN>鲍西娅</zh-CN>
 		<pt-BR>Pórcia</pt-BR>
 		<ko>포르키아</ko>
+		<fixja>ポルシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RHEA</zType>
@@ -5655,6 +6087,7 @@
 		<zh-CN>雷亚</zh-CN>
 		<pt-BR>Réia</pt-BR>
 		<ko>레아</ko>
+		<fixja>レア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCRIBONIA</zType>
@@ -5668,6 +6101,7 @@
 		<zh-CN>斯里柏尼娅</zh-CN>
 		<pt-BR>Escribônia</pt-BR>
 		<ko>스크리보니아</ko>
+		<fixja>スクリボニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEMPRONIA</zType>
@@ -5681,6 +6115,7 @@
 		<zh-CN>塞姆普罗妮</zh-CN>
 		<pt-BR>Semprônia</pt-BR>
 		<ko>셈프로니아</ko>
+		<fixja>センプロニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SERVILIA</zType>
@@ -5694,6 +6129,7 @@
 		<zh-CN>塞薇利娅</zh-CN>
 		<pt-BR>Servília</pt-BR>
 		<ko>세르빌리아</ko>
+		<fixja>セルウィリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SULPICIA</zType>
@@ -5707,6 +6143,7 @@
 		<zh-CN>索皮希雅</zh-CN>
 		<pt-BR>Sulpícia</pt-BR>
 		<ko>술피키아</ko>
+		<fixja>スルピシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TULLIA</zType>
@@ -5720,6 +6157,7 @@
 		<zh-CN>图利娅</zh-CN>
 		<pt-BR>Túlia</pt-BR>
 		<ko>툴리아</ko>
+		<fixja>トゥッリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VIPSANIA</zType>
@@ -5733,6 +6171,7 @@
 		<zh-CN>维普桑尼亚</zh-CN>
 		<pt-BR>Vipsânia</pt-BR>
 		<ko>빕사니아</ko>
+		<fixja>ウィプサニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ACCO</zType>
@@ -5746,6 +6185,7 @@
 		<zh-CN>亚柯</zh-CN>
 		<pt-BR>Acco</pt-BR>
 		<ko>아코</ko>
+		<fixja>アコ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMBIORIX</zType>
@@ -5759,6 +6199,7 @@
 		<zh-CN>安比奥里克斯</zh-CN>
 		<pt-BR>Ambiórix</pt-BR>
 		<ko>암비오릭스</ko>
+		<fixja>アンビオリクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATIS</zType>
@@ -5772,6 +6213,7 @@
 		<zh-CN>阿提斯</zh-CN>
 		<pt-BR>Atis</pt-BR>
 		<ko>아티스</ko>
+		<fixja>アティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BITUITIS</zType>
@@ -5785,6 +6227,7 @@
 		<zh-CN>毕图提斯</zh-CN>
 		<pt-BR>Bituitis</pt-BR>
 		<ko>비투이티스</ko>
+		<fixja>​ビチュイティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CAMULOGENOS</zType>
@@ -5798,6 +6241,7 @@
 		<zh-CN>卡慕罗炎诺斯</zh-CN>
 		<pt-BR>Camulôgeno</pt-BR>
 		<ko>카물로게누스</ko>
+		<fixja>カミュロジェノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CASTICOS</zType>
@@ -5811,6 +6255,7 @@
 		<zh-CN>卡斯提柯斯</zh-CN>
 		<pt-BR>Cástico</pt-BR>
 		<ko>카스티쿠스</ko>
+		<fixja>カスティコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CAVARINOS</zType>
@@ -5824,6 +6269,7 @@
 		<zh-CN>卡瓦利诺斯</zh-CN>
 		<pt-BR>Cavarino</pt-BR>
 		<ko>카바리누스</ko>
+		<fixja>カヴァリノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_COMMIOS</zType>
@@ -5837,6 +6283,7 @@
 		<zh-CN>科密乌斯</zh-CN>
 		<pt-BR>Cômio</pt-BR>
 		<ko>콤미우스</ko>
+		<fixja>コンミウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIVICO</zType>
@@ -5850,6 +6297,7 @@
 		<zh-CN>迪维科</zh-CN>
 		<pt-BR>Divico</pt-BR>
 		<ko>디비코</ko>
+		<fixja>ディビコ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIVITIACOS</zType>
@@ -5863,6 +6311,7 @@
 		<zh-CN>狄维西亚科斯</zh-CN>
 		<pt-BR>Divitiaco</pt-BR>
 		<ko>디비티아쿠스</ko>
+		<fixja>ディビティアコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DUMNORIX</zType>
@@ -5876,6 +6325,7 @@
 		<zh-CN>杜姆诺里克斯</zh-CN>
 		<pt-BR>Dumnorix</pt-BR>
 		<ko>둠노릭스</ko>
+		<fixja>ドゥムノリクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DURATIOS</zType>
@@ -5889,6 +6339,7 @@
 		<zh-CN>杜拉提欧斯</zh-CN>
 		<pt-BR>Durácio</pt-BR>
 		<ko>두라티우스</ko>
+		<fixja>デュラティオス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAESORIX</zType>
@@ -5902,6 +6353,7 @@
 		<zh-CN>卡埃索里克斯</zh-CN>
 		<pt-BR>Gaesorix</pt-BR>
 		<ko>가이소릭스</ko>
+		<fixja>ガエソリクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GALATOS</zType>
@@ -5915,6 +6367,7 @@
 		<zh-CN>加拉托斯</zh-CN>
 		<pt-BR>Galato</pt-BR>
 		<ko>갈라투스</ko>
+		<fixja>ガラトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LICNOS</zType>
@@ -5928,6 +6381,7 @@
 		<zh-CN>力克诺斯</zh-CN>
 		<pt-BR>Licno</pt-BR>
 		<ko>린코스</ko>
+		<fixja>リクノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RIGATIKOS</zType>
@@ -5941,6 +6395,7 @@
 		<zh-CN>芮加提克斯</zh-CN>
 		<pt-BR>Rigático</pt-BR>
 		<ko>리가티쿠스</ko>
+		<fixja>リガティコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TOGODUMNOS</zType>
@@ -5954,6 +6409,7 @@
 		<zh-CN>托哥多姆诺斯</zh-CN>
 		<pt-BR>Togodumino</pt-BR>
 		<ko>토고둠누스</ko>
+		<fixja>トゴダムノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VECTITOS</zType>
@@ -5967,6 +6423,7 @@
 		<zh-CN>维克缇多斯</zh-CN>
 		<pt-BR>Vectito</pt-BR>
 		<ko>벡티투스</ko>
+		<fixja>ベクティトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VINDIACOS</zType>
@@ -5980,6 +6437,7 @@
 		<zh-CN>芬迪亚克斯</zh-CN>
 		<pt-BR>Vindiaco</pt-BR>
 		<ko>빈디카쿠스</ko>
+		<fixja>ヴィンディアコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VIRIDOMAROS</zType>
@@ -5993,6 +6451,7 @@
 		<zh-CN>维利多马洛斯</zh-CN>
 		<pt-BR>Viridomaro</pt-BR>
 		<ko>비리도마루스</ko>
+		<fixja>ウィリドマルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABESIA</zType>
@@ -6006,6 +6465,7 @@
 		<zh-CN>阿贝西亚</zh-CN>
 		<pt-BR>Abesia</pt-BR>
 		<ko>아베시아</ko>
+		<fixja>アベシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADIEGA</zType>
@@ -6019,6 +6479,7 @@
 		<zh-CN>阿迪加</zh-CN>
 		<pt-BR>Adiega</pt-BR>
 		<ko>아디에가</ko>
+		<fixja>アディエガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AIA</zType>
@@ -6032,6 +6493,7 @@
 		<zh-CN>埃阿</zh-CN>
 		<pt-BR>Aia</pt-BR>
 		<ko>아이아</ko>
+		<fixja>アイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATEGNATA</zType>
@@ -6045,6 +6507,7 @@
 		<zh-CN>阿特格纳塔</zh-CN>
 		<pt-BR>Ategnata</pt-BR>
 		<ko>아테그나타</ko>
+		<fixja>アテグナタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BANONA</zType>
@@ -6058,6 +6521,7 @@
 		<zh-CN>巴诺拿</zh-CN>
 		<pt-BR>Banona</pt-BR>
 		<ko>바노나</ko>
+		<fixja>バノナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BOUDILATIS</zType>
@@ -6071,6 +6535,7 @@
 		<zh-CN>布迪拉提斯</zh-CN>
 		<pt-BR>Boudilati</pt-BR>
 		<ko>보우딜라티스</ko>
+		<fixja>ブディラティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CELA</zType>
@@ -6084,6 +6549,7 @@
 		<zh-CN>瑟拉</zh-CN>
 		<pt-BR>Cela</pt-BR>
 		<ko>켈라</ko>
+		<fixja>セーラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DUGIAVA</zType>
@@ -6097,6 +6563,7 @@
 		<zh-CN>杜吉雅巴</zh-CN>
 		<pt-BR>Dugiava</pt-BR>
 		<ko>두기아바</ko>
+		<fixja>ドゥジアバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ESKENGA</zType>
@@ -6110,6 +6577,7 @@
 		<zh-CN>伊斯肯加</zh-CN>
 		<pt-BR>Esgenga</pt-BR>
 		<ko>에스켄가</ko>
+		<fixja>エスケンガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EPONINA</zType>
@@ -6123,6 +6591,7 @@
 		<zh-CN>爱波妮娜</zh-CN>
 		<pt-BR>Eponina</pt-BR>
 		<ko>에포니나</ko>
+		<fixja>エポニーナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LUPALA</zType>
@@ -6136,6 +6605,7 @@
 		<zh-CN>卢帕拉</zh-CN>
 		<pt-BR>Lupala</pt-BR>
 		<ko>루팔라</ko>
+		<fixja>ルパラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OBALDA</zType>
@@ -6149,6 +6619,7 @@
 		<zh-CN>奥伯妲</zh-CN>
 		<pt-BR>Obalda</pt-BR>
 		<ko>오발다</ko>
+		<fixja>オバルダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PAULLA</zType>
@@ -6162,6 +6633,7 @@
 		<zh-CN>宝拉</zh-CN>
 		<pt-BR>Paulla</pt-BR>
 		<ko>파울라</ko>
+		<fixja>​パウラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_POTITA</zType>
@@ -6175,6 +6647,7 @@
 		<zh-CN>坡堤塔</zh-CN>
 		<pt-BR>Potita</pt-BR>
 		<ko>포티타</ko>
+		<fixja>ポティタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RUFENA</zType>
@@ -6188,6 +6661,7 @@
 		<zh-CN>鲁菲娜</zh-CN>
 		<pt-BR>Rufena</pt-BR>
 		<ko>루페나</ko>
+		<fixja>ルフェナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STAIA</zType>
@@ -6201,6 +6675,7 @@
 		<zh-CN>斯塔牙</zh-CN>
 		<pt-BR>Staia</pt-BR>
 		<ko>스타이아</ko>
+		<fixja>スタイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TOCCA</zType>
@@ -6214,6 +6689,7 @@
 		<zh-CN>托卡</zh-CN>
 		<pt-BR>Tocca</pt-BR>
 		<ko>톡카</ko>
+		<fixja>トッカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_USTA</zType>
@@ -6227,6 +6703,7 @@
 		<zh-CN>乌斯塔</zh-CN>
 		<pt-BR>Usta</pt-BR>
 		<ko>우스타</ko>
+		<fixja>ウスタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VENITOUTA</zType>
@@ -6240,6 +6717,7 @@
 		<zh-CN>维尼图塔</zh-CN>
 		<pt-BR>Venitouta</pt-BR>
 		<ko>베니토우타</ko>
+		<fixja>ヴェニトゥータ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VLATUCA</zType>
@@ -6253,6 +6731,7 @@
 		<zh-CN>芙拉图卡</zh-CN>
 		<pt-BR>Vlatuca</pt-BR>
 		<ko>블라투카</ko>
+		<fixja>ヴラトゥカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARIFRIDOS</zType>
@@ -6266,6 +6745,7 @@
 		<zh-CN>阿利佛瑞多斯</zh-CN>
 		<pt-BR>Arifrido</pt-BR>
 		<ko>아리프리도스</ko>
+		<fixja>アリフリドス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FREDIBAL</zType>
@@ -6279,6 +6759,7 @@
 		<zh-CN>弗瑞迪巴</zh-CN>
 		<pt-BR>Fredibal</pt-BR>
 		<ko>프레디발</ko>
+		<fixja>フレディバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FRIDAMAL</zType>
@@ -6292,6 +6773,7 @@
 		<zh-CN>佛瑞达莫</zh-CN>
 		<pt-BR>Fridamal</pt-BR>
 		<ko>프리다말</ko>
+		<fixja>フリダマル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAISERIC</zType>
@@ -6305,6 +6787,7 @@
 		<zh-CN>盖萨里克</zh-CN>
 		<pt-BR>Genserico</pt-BR>
 		<ko>가이세리크</ko>
+		<fixja>ガイセリック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GELIMER</zType>
@@ -6318,6 +6801,7 @@
 		<zh-CN>盖利默</zh-CN>
 		<pt-BR>Gelimero</pt-BR>
 		<ko>겔리메르</ko>
+		<fixja>ゲリメル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GENTO</zType>
@@ -6331,6 +6815,7 @@
 		<zh-CN>亨托</zh-CN>
 		<pt-BR>Gentão</pt-BR>
 		<ko>겐토</ko>
+		<fixja>ゲント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GIBAMUND</zType>
@@ -6344,6 +6829,7 @@
 		<zh-CN>吉巴蒙德</zh-CN>
 		<pt-BR>Gibamundo</pt-BR>
 		<ko>기바문드</ko>
+		<fixja>ギバムンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAMUTH</zType>
@@ -6357,6 +6843,7 @@
 		<zh-CN>加慕斯</zh-CN>
 		<pt-BR>Gamute</pt-BR>
 		<ko>가무트</ko>
+		<fixja>ガムス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GODEGISEL</zType>
@@ -6370,6 +6857,7 @@
 		<zh-CN>戈迪吉塞尔</zh-CN>
 		<pt-BR>Godegisílio</pt-BR>
 		<ko>고디기셀</ko>
+		<fixja>ゴデギセル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUNDERIC</zType>
@@ -6383,6 +6871,7 @@
 		<zh-CN>冈德里克</zh-CN>
 		<pt-BR>Gunderico</pt-BR>
 		<ko>군데리크</ko>
+		<fixja>グンデリク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUNTHAMUND</zType>
@@ -6396,6 +6885,7 @@
 		<zh-CN>古萨蒙德</zh-CN>
 		<pt-BR>Guntamundo</pt-BR>
 		<ko>군타문드</ko>
+		<fixja>グンタムント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HILDERIC</zType>
@@ -6409,6 +6899,7 @@
 		<zh-CN>希尔德里克</zh-CN>
 		<pt-BR>Hilderico</pt-BR>
 		<ko>힐데리크</ko>
+		<fixja>ヒルデリック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HUNERIC</zType>
@@ -6422,6 +6913,7 @@
 		<zh-CN>胡内里克</zh-CN>
 		<pt-BR>Hunerico</pt-BR>
 		<ko>후네리크</ko>
+		<fixja>フネリック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SCARILA</zType>
@@ -6435,6 +6927,7 @@
 		<zh-CN>斯卡里拉</zh-CN>
 		<pt-BR>Escárila</pt-BR>
 		<ko>스카릴라</ko>
+		<fixja>​スカリラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SINDIVULT</zType>
@@ -6448,6 +6941,7 @@
 		<zh-CN>辛蒂佛特</zh-CN>
 		<pt-BR>Sindivulte</pt-BR>
 		<ko>신디불트</ko>
+		<fixja>シンディヴルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STILICHO</zType>
@@ -6461,6 +6955,7 @@
 		<zh-CN>斯提里科</zh-CN>
 		<pt-BR>Estilicão</pt-BR>
 		<ko>스틸리코</ko>
+		<fixja>スティリコ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THRASAMUND</zType>
@@ -6474,6 +6969,7 @@
 		<zh-CN>色雷萨蒙德</zh-CN>
 		<pt-BR>Trasamundo</pt-BR>
 		<ko>트라사문드</ko>
+		<fixja>トラサムンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VILIMUT</zType>
@@ -6487,6 +6983,7 @@
 		<zh-CN>维利慕特</zh-CN>
 		<pt-BR>Vilimute</pt-BR>
 		<ko>빌리무트</ko>
+		<fixja>ヴィリムット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VITARIT</zType>
@@ -6500,6 +6997,7 @@
 		<zh-CN>维他利</zh-CN>
 		<pt-BR>Vitarite</pt-BR>
 		<ko>비타리트</ko>
+		<fixja>ヴィタリット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VISIMAR</zType>
@@ -6513,6 +7011,7 @@
 		<zh-CN>维西玛</zh-CN>
 		<pt-BR>Visimar</pt-BR>
 		<ko>비시마르</ko>
+		<fixja>ヴィジマール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMALAFRIDA</zType>
@@ -6526,6 +7025,7 @@
 		<zh-CN>阿玛拉弗里达</zh-CN>
 		<pt-BR>Amalafrida</pt-BR>
 		<ko>아말라프리다</ko>
+		<fixja>アマラフリーダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BEREMUDA</zType>
@@ -6539,6 +7039,7 @@
 		<zh-CN>贝雷慕达</zh-CN>
 		<pt-BR>Beremuda</pt-BR>
 		<ko>베레무다</ko>
+		<fixja>バミューダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BRUNHILDA</zType>
@@ -6552,6 +7053,7 @@
 		<zh-CN>布伦希尔德</zh-CN>
 		<pt-BR>Brunilda</pt-BR>
 		<ko>브룬힐다</ko>
+		<fixja>ブリュンヒルダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EGILONA</zType>
@@ -6565,6 +7067,7 @@
 		<zh-CN>伊吉罗娜</zh-CN>
 		<pt-BR>Egilona</pt-BR>
 		<ko>에길로나</ko>
+		<fixja>エギロナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERELEUVA</zType>
@@ -6578,6 +7081,7 @@
 		<zh-CN>埃雷洛瓦</zh-CN>
 		<pt-BR>Ereleuva</pt-BR>
 		<ko>에렐레우바</ko>
+		<fixja>エレレウヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ERMENGON</zType>
@@ -6591,6 +7095,7 @@
 		<zh-CN>埃尔门贡</zh-CN>
 		<pt-BR>Ermengon</pt-BR>
 		<ko>에르멘곤</ko>
+		<fixja>エルメンゴン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GALSUINTHA</zType>
@@ -6604,6 +7109,7 @@
 		<zh-CN>加尔斯温特</zh-CN>
 		<pt-BR>Galsuinta</pt-BR>
 		<ko>갈쉰타</ko>
+		<fixja>ガルスインタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAMBARA</zType>
@@ -6617,6 +7123,7 @@
 		<zh-CN>甘巴拉</zh-CN>
 		<pt-BR>Gambara</pt-BR>
 		<ko>감바라</ko>
+		<fixja>ガンバラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GLISMODA</zType>
@@ -6630,6 +7137,7 @@
 		<zh-CN>吉尔斯蒙妲</zh-CN>
 		<pt-BR>Glismoda</pt-BR>
 		<ko>글리스모다</ko>
+		<fixja>グリスモダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUDELIVA</zType>
@@ -6643,6 +7151,7 @@
 		<zh-CN>古德利瓦</zh-CN>
 		<pt-BR>Gudeliva</pt-BR>
 		<ko>구델리바</ko>
+		<fixja>グデリバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUILIARUNA</zType>
@@ -6656,6 +7165,7 @@
 		<zh-CN>及利亚鲁纳</zh-CN>
 		<pt-BR>Guiliaruna</pt-BR>
 		<ko>귈리아루나</ko>
+		<fixja>​ギリアルナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUITIFRIDA</zType>
@@ -6669,6 +7179,7 @@
 		<zh-CN>吉提菲达</zh-CN>
 		<pt-BR>Guitifrida</pt-BR>
 		<ko>귀티프리다</ko>
+		<fixja>ギティフリダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUNIFRIDA</zType>
@@ -6682,6 +7193,7 @@
 		<zh-CN>古妮菲达</zh-CN>
 		<pt-BR>Gunifrida</pt-BR>
 		<ko>구니프리다</ko>
+		<fixja>グニフリダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HELDICA</zType>
@@ -6695,6 +7207,7 @@
 		<zh-CN>赫狄卡</zh-CN>
 		<pt-BR>Heldica</pt-BR>
 		<ko>헬디카</ko>
+		<fixja>ヘルディカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MATASUNTHA</zType>
@@ -6708,6 +7221,7 @@
 		<zh-CN>玛瑟逊莎</zh-CN>
 		<pt-BR>Matasunta</pt-BR>
 		<ko>마타순타</ko>
+		<fixja>マタスンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RAGNAGILD</zType>
@@ -6721,6 +7235,7 @@
 		<zh-CN>拉格纳吉德</zh-CN>
 		<pt-BR>Ragnagilda</pt-BR>
 		<ko>라그나길드</ko>
+		<fixja>ラグナギルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SUNILDA</zType>
@@ -6734,6 +7249,7 @@
 		<zh-CN>素妮妲</zh-CN>
 		<pt-BR>Sunilda</pt-BR>
 		<ko>수닐다</ko>
+		<fixja>スニルダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TEUCHARIA</zType>
@@ -6747,6 +7263,7 @@
 		<zh-CN>图卡利亚</zh-CN>
 		<pt-BR>Teucaria</pt-BR>
 		<ko>테우카리아</ko>
+		<fixja>​テウカリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VALILU</zType>
@@ -6760,6 +7277,7 @@
 		<zh-CN>瓦利卢</zh-CN>
 		<pt-BR>Valilu</pt-BR>
 		<ko>발릴루</ko>
+		<fixja>ヴァリル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_WELLA</zType>
@@ -6773,6 +7291,7 @@
 		<zh-CN>威拉</zh-CN>
 		<pt-BR>Wella</pt-BR>
 		<ko>웰라</ko>
+		<fixja>ウェラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMLETH</zType>
@@ -6786,6 +7305,7 @@
 		<zh-CN>艾姆雷斯</zh-CN>
 		<pt-BR>Amleto</pt-BR>
 		<ko>아믈레트</ko>
+		<fixja>アムレート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BJARKE</zType>
@@ -6799,6 +7319,7 @@
 		<zh-CN>比亚克</zh-CN>
 		<pt-BR>Bjarke</pt-BR>
 		<ko>비야르케</ko>
+		<fixja>ビャルケ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CANUTE</zType>
@@ -6812,6 +7333,7 @@
 		<zh-CN>克努特</zh-CN>
 		<pt-BR>Canuto</pt-BR>
 		<ko>크누트</ko>
+		<fixja>カヌート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FENG</zType>
@@ -6825,6 +7347,7 @@
 		<zh-CN>范</zh-CN>
 		<pt-BR>Feng</pt-BR>
 		<ko>펭</ko>
+		<fixja>フェン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FRODE</zType>
@@ -6838,6 +7361,7 @@
 		<zh-CN>弗罗德</zh-CN>
 		<pt-BR>Frodo</pt-BR>
 		<ko>프로데</ko>
+		<fixja>フローデ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GORM</zType>
@@ -6851,6 +7375,7 @@
 		<zh-CN>戈尔姆</zh-CN>
 		<pt-BR>Gormo</pt-BR>
 		<ko>고름</ko>
+		<fixja>ゴーム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HADDING</zType>
@@ -6864,6 +7389,7 @@
 		<zh-CN>哈汀</zh-CN>
 		<pt-BR>Hading</pt-BR>
 		<ko>하딩</ko>
+		<fixja>ハディング</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HALFDAN</zType>
@@ -6877,6 +7403,7 @@
 		<zh-CN>哈夫丹</zh-CN>
 		<pt-BR>Haldano</pt-BR>
 		<ko>할프단</ko>
+		<fixja>ハルフダン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HARALD</zType>
@@ -6890,6 +7417,7 @@
 		<zh-CN>哈拉尔</zh-CN>
 		<pt-BR>Haroldo</pt-BR>
 		<ko>하랄</ko>
+		<fixja>ハラルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HARTHACANUTE</zType>
@@ -6903,6 +7431,7 @@
 		<zh-CN>哈德克努特</zh-CN>
 		<pt-BR>Hardacanuto</pt-BR>
 		<ko>하르다크누트</ko>
+		<fixja>ハルタカヌート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HAVELOK</zType>
@@ -6916,6 +7445,7 @@
 		<zh-CN>哈夫洛克</zh-CN>
 		<pt-BR>Havelok</pt-BR>
 		<ko>하벨록</ko>
+		<fixja>ハヴェロック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HEMMING</zType>
@@ -6929,6 +7459,7 @@
 		<zh-CN>海明</zh-CN>
 		<pt-BR>Heming</pt-BR>
 		<ko>헤밍</ko>
+		<fixja>ヘミング</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HJALTE</zType>
@@ -6942,6 +7473,7 @@
 		<zh-CN>海雅特</zh-CN>
 		<pt-BR>Hjalte</pt-BR>
 		<ko>얄테</ko>
+		<fixja>ヤルデ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HROTHGAR</zType>
@@ -6955,6 +7487,7 @@
 		<zh-CN>洛斯格</zh-CN>
 		<pt-BR>Hrothgar</pt-BR>
 		<ko>흐로스가르</ko>
+		<fixja>フロースガール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IVAR</zType>
@@ -6968,6 +7501,7 @@
 		<zh-CN>伊瓦尔</zh-CN>
 		<pt-BR>Ivaro</pt-BR>
 		<ko>이바르</ko>
+		<fixja>イヴァル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAGNUS</zType>
@@ -6981,6 +7515,7 @@
 		<zh-CN>马格努斯</zh-CN>
 		<pt-BR>Magno</pt-BR>
 		<ko>마그누스</ko>
+		<fixja>マグナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ROLF</zType>
@@ -6994,6 +7529,7 @@
 		<zh-CN>罗夫</zh-CN>
 		<pt-BR>Rolf</pt-BR>
 		<ko>롤프</ko>
+		<fixja>ロルフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RORIK</zType>
@@ -7007,6 +7543,7 @@
 		<zh-CN>罗里克</zh-CN>
 		<pt-BR>Rorik</pt-BR>
 		<ko>로리크</ko>
+		<fixja>ロリック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SOREN</zType>
@@ -7020,6 +7557,7 @@
 		<zh-CN>索伦</zh-CN>
 		<pt-BR>Soren</pt-BR>
 		<ko>쇠렌</ko>
+		<fixja>ソレン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SWEYN</zType>
@@ -7033,6 +7571,7 @@
 		<zh-CN>斯文</zh-CN>
 		<pt-BR>Sweyn</pt-BR>
 		<ko>스벤</ko>
+		<fixja>スヴェン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_VALDEMAR</zType>
@@ -7046,6 +7585,7 @@
 		<zh-CN>瓦尔德马</zh-CN>
 		<pt-BR>Valdemar</pt-BR>
 		<ko>발데마르</ko>
+		<fixja>バルデマール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALFHILD</zType>
@@ -7059,6 +7599,7 @@
 		<zh-CN>阿尔菲尔德</zh-CN>
 		<pt-BR>Alfhilda</pt-BR>
 		<ko>알프힐드</ko>
+		<fixja>アルフィルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASA</zType>
@@ -7072,6 +7613,7 @@
 		<zh-CN>雅撒</zh-CN>
 		<pt-BR>Asa</pt-BR>
 		<ko>아사</ko>
+		<fixja>アサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FROGERTHA</zType>
@@ -7085,6 +7627,7 @@
 		<zh-CN>芙格莎</zh-CN>
 		<pt-BR>Frogerta</pt-BR>
 		<ko>프로가사</ko>
+		<fixja>フロガーサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GROA</zType>
@@ -7098,6 +7641,7 @@
 		<zh-CN>格萝亚</zh-CN>
 		<pt-BR>Gróa</pt-BR>
 		<ko>그로아</ko>
+		<fixja>グローア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUNNHILD</zType>
@@ -7111,6 +7655,7 @@
 		<zh-CN>冈希尔德</zh-CN>
 		<pt-BR>Gunhilda</pt-BR>
 		<ko>군힐드</ko>
+		<fixja>グンヒルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GURUTHA</zType>
@@ -7124,6 +7669,7 @@
 		<zh-CN>格露莎</zh-CN>
 		<pt-BR>Guruta</pt-BR>
 		<ko>구루사</ko>
+		<fixja>グルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HELGA</zType>
@@ -7137,6 +7683,7 @@
 		<zh-CN>海尔嘉</zh-CN>
 		<pt-BR>Helga</pt-BR>
 		<ko>헬가</ko>
+		<fixja>ヘルガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HERMUTRUDE</zType>
@@ -7150,6 +7697,7 @@
 		<zh-CN>赫姆特露德</zh-CN>
 		<pt-BR>Hermutrude</pt-BR>
 		<ko>헤르무트루다</ko>
+		<fixja>ヘルミントルーダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HETHA</zType>
@@ -7163,6 +7711,7 @@
 		<zh-CN>赫塔</zh-CN>
 		<pt-BR>Heta</pt-BR>
 		<ko>헤사</ko>
+		<fixja>ヘサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KRAKA</zType>
@@ -7176,6 +7725,7 @@
 		<zh-CN>克莱卡</zh-CN>
 		<pt-BR>Kráka</pt-BR>
 		<ko>크라카</ko>
+		<fixja>クラカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RUSILA</zType>
@@ -7189,6 +7739,7 @@
 		<zh-CN>鲁西拉</zh-CN>
 		<pt-BR>Rusila</pt-BR>
 		<ko>루실라</ko>
+		<fixja>ルシラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RUTE</zType>
@@ -7202,6 +7753,7 @@
 		<zh-CN>鲁特</zh-CN>
 		<pt-BR>Rute</pt-BR>
 		<ko>루테</ko>
+		<fixja>ルーテ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SELA</zType>
@@ -7215,6 +7767,7 @@
 		<zh-CN>瑟拉</zh-CN>
 		<pt-BR>Sela</pt-BR>
 		<ko>셀라</ko>
+		<fixja>セラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIGNE</zType>
@@ -7228,6 +7781,7 @@
 		<zh-CN>希格尼</zh-CN>
 		<pt-BR>Signe</pt-BR>
 		<ko>시그네</ko>
+		<fixja>シグネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIGRID</zType>
@@ -7241,6 +7795,7 @@
 		<zh-CN>希格利德</zh-CN>
 		<pt-BR>Sigrid</pt-BR>
 		<ko>시그리드</ko>
+		<fixja>シグリッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SKULDE</zType>
@@ -7254,6 +7809,7 @@
 		<zh-CN>丝克尔德</zh-CN>
 		<pt-BR>Eskulde</pt-BR>
 		<ko>스쿨데</ko>
+		<fixja>スカルデ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THORA</zType>
@@ -7267,6 +7823,7 @@
 		<zh-CN>索拉</zh-CN>
 		<pt-BR>Thora</pt-BR>
 		<ko>소라</ko>
+		<fixja>ソーラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_URSE</zType>
@@ -7280,6 +7837,7 @@
 		<zh-CN>厄希</zh-CN>
 		<pt-BR>Urse</pt-BR>
 		<ko>우르세</ko>
+		<fixja>ウルセ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_WEBIORG</zType>
@@ -7293,6 +7851,7 @@
 		<zh-CN>薇伯格</zh-CN>
 		<pt-BR>Webiorg</pt-BR>
 		<ko>베비오르그</ko>
+		<fixja>ヴェボルグ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_WISNA</zType>
@@ -7306,6 +7865,7 @@
 		<zh-CN>薇丝娜</zh-CN>
 		<pt-BR>Wisna</pt-BR>
 		<ko>비스나</ko>
+		<fixja>ウィスナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABRUPOLIS</zType>
@@ -7319,6 +7879,7 @@
 		<zh-CN>阿布罗波利斯</zh-CN>
 		<pt-BR>Abrupolis</pt-BR>
 		<ko>아브루폴리스</ko>
+		<fixja>アブルポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMADOCUS</zType>
@@ -7332,6 +7893,7 @@
 		<zh-CN>阿马多库斯</zh-CN>
 		<pt-BR>Amádoco</pt-BR>
 		<ko>아마도코스</ko>
+		<fixja>アマドコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BERISADES</zType>
@@ -7345,6 +7907,7 @@
 		<zh-CN>贝里萨德斯</zh-CN>
 		<pt-BR>Berisades</pt-BR>
 		<ko>베리사데스</ko>
+		<fixja>ベリサデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CERSOBLEPTES</zType>
@@ -7358,6 +7921,7 @@
 		<zh-CN>塞索布林普斯</zh-CN>
 		<pt-BR>Cersobleptes</pt-BR>
 		<ko>케르소블렙테스</ko>
+		<fixja>セルソブレプテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_COSINGAS</zType>
@@ -7371,6 +7935,7 @@
 		<zh-CN>科辛加斯</zh-CN>
 		<pt-BR>Cosingas</pt-BR>
 		<ko>코신가스</ko>
+		<fixja>コシンガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_COTYS</zType>
@@ -7384,6 +7949,7 @@
 		<zh-CN>科蒂</zh-CN>
 		<pt-BR>Cótis</pt-BR>
 		<ko>코티스</ko>
+		<fixja>コティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GETAS</zType>
@@ -7397,6 +7963,7 @@
 		<zh-CN>盖塔</zh-CN>
 		<pt-BR>Getas</pt-BR>
 		<ko>게타스</ko>
+		<fixja>ゲタス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LANGARUS</zType>
@@ -7410,6 +7977,7 @@
 		<zh-CN>兰加罗斯</zh-CN>
 		<pt-BR>Langaro</pt-BR>
 		<ko>랑가로스</ko>
+		<fixja>ランガルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MESADES</zType>
@@ -7423,6 +7991,7 @@
 		<zh-CN>梅赛德斯</zh-CN>
 		<pt-BR>Mesades</pt-BR>
 		<ko>메사데스</ko>
+		<fixja>メサデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MOSTIS</zType>
@@ -7436,6 +8005,7 @@
 		<zh-CN>莫斯蒂斯</zh-CN>
 		<pt-BR>Mostis</pt-BR>
 		<ko>모스티스</ko>
+		<fixja>モスティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OLORUS</zType>
@@ -7449,6 +8019,7 @@
 		<zh-CN>欧洛鲁斯</zh-CN>
 		<pt-BR>Oloro</pt-BR>
 		<ko>올로로스</ko>
+		<fixja>オロルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RHAISCUS</zType>
@@ -7462,6 +8033,7 @@
 		<zh-CN>莱伊斯库斯</zh-CN>
 		<pt-BR>Rasco</pt-BR>
 		<ko>라스코스</ko>
+		<fixja>ライスカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RHESCUPORIS</zType>
@@ -7475,6 +8047,7 @@
 		<zh-CN>里斯库珀里斯</zh-CN>
 		<pt-BR>Rescupori</pt-BR>
 		<ko>레스쿠포리스</ko>
+		<fixja>レスキュポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SADALAS</zType>
@@ -7488,6 +8061,7 @@
 		<zh-CN>萨达拉斯</zh-CN>
 		<pt-BR>Sadalas</pt-BR>
 		<ko>사달라스</ko>
+		<fixja>サダラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SADOCUS</zType>
@@ -7501,6 +8075,7 @@
 		<zh-CN>萨多库斯</zh-CN>
 		<pt-BR>Sadoco</pt-BR>
 		<ko>사도코스</ko>
+		<fixja>サドカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEUTHES</zType>
@@ -7514,6 +8089,7 @@
 		<zh-CN>苏西斯</zh-CN>
 		<pt-BR>Seutes</pt-BR>
 		<ko>세우테스</ko>
+		<fixja>スーテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SITALCES</zType>
@@ -7527,6 +8103,7 @@
 		<zh-CN>西塔尔西斯</zh-CN>
 		<pt-BR>Sitalces</pt-BR>
 		<ko>시탈케스</ko>
+		<fixja>シタルケス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SPARTOCUS</zType>
@@ -7540,6 +8117,7 @@
 		<zh-CN>斯帕尔多科斯</zh-CN>
 		<pt-BR>Espártoco</pt-BR>
 		<ko>스파르토코스</ko>
+		<fixja>スパルトカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TERES</zType>
@@ -7553,6 +8131,7 @@
 		<zh-CN>特雷斯</zh-CN>
 		<pt-BR>Teres</pt-BR>
 		<ko>테레스</ko>
+		<fixja>テレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZOLTES</zType>
@@ -7566,6 +8145,7 @@
 		<zh-CN>佐尔特斯</zh-CN>
 		<pt-BR>Zoltes</pt-BR>
 		<ko>졸테스</ko>
+		<fixja>ゾルテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABROTONON</zType>
@@ -7579,6 +8159,7 @@
 		<zh-CN>阿布罗托侬</zh-CN>
 		<pt-BR>Abrotono</pt-BR>
 		<ko>아브로토논</ko>
+		<fixja>アブロトノン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AETHAZIA</zType>
@@ -7592,6 +8173,7 @@
 		<zh-CN>艾莎西亚</zh-CN>
 		<pt-BR>Aetázia</pt-BR>
 		<ko>아이타지아</ko>
+		<fixja>アエタジア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMA</zType>
@@ -7605,6 +8187,7 @@
 		<zh-CN>阿玛</zh-CN>
 		<pt-BR>Ama</pt-BR>
 		<ko>아마</ko>
+		<fixja>アマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BASCHIA</zType>
@@ -7618,6 +8201,7 @@
 		<zh-CN>巴斯奇亚</zh-CN>
 		<pt-BR>Basquia</pt-BR>
 		<ko>바스키아</ko>
+		<fixja>バスキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BRIZENIS</zType>
@@ -7631,6 +8215,7 @@
 		<zh-CN>布里赞尼斯</zh-CN>
 		<pt-BR>Brizenis</pt-BR>
 		<ko>브리제니스</ko>
+		<fixja>ブリゼニス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CARTOUZA</zType>
@@ -7644,6 +8229,7 @@
 		<zh-CN>卡图萨</zh-CN>
 		<pt-BR>Cartouza</pt-BR>
 		<ko>카르토우자</ko>
+		<fixja>カルトゥーザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DENSOLA</zType>
@@ -7657,6 +8243,7 @@
 		<zh-CN>登索拉</zh-CN>
 		<pt-BR>Densola</pt-BR>
 		<ko>덴솔라</ko>
+		<fixja>デンソラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DITA</zType>
@@ -7670,6 +8257,7 @@
 		<zh-CN>蒂塔</zh-CN>
 		<pt-BR>Dita</pt-BR>
 		<ko>디타</ko>
+		<fixja>ディタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EPYRIS</zType>
@@ -7683,6 +8271,7 @@
 		<zh-CN>埃皮里斯</zh-CN>
 		<pt-BR>Epiris</pt-BR>
 		<ko>에피리스</ko>
+		<fixja>エピリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HARPALYCE</zType>
@@ -7696,6 +8285,7 @@
 		<zh-CN>哈耳帕吕刻</zh-CN>
 		<pt-BR>Harpalice</pt-BR>
 		<ko>하르팔리케</ko>
+		<fixja>​ハルパリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HEGESIPYLE</zType>
@@ -7709,6 +8299,7 @@
 		<zh-CN>艾格西比</zh-CN>
 		<pt-BR>Hegesipile</pt-BR>
 		<ko>헤게시필레</ko>
+		<fixja>ヘゲシピル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KIASA</zType>
@@ -7722,6 +8313,7 @@
 		<zh-CN>基亚莎</zh-CN>
 		<pt-BR>Kiasa</pt-BR>
 		<ko>키아사</ko>
+		<fixja>キアサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAESIRA</zType>
@@ -7735,6 +8327,7 @@
 		<zh-CN>梅西拉</zh-CN>
 		<pt-BR>Mésira</pt-BR>
 		<ko>마이시라</ko>
+		<fixja>マエシラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MEDA</zType>
@@ -7748,6 +8341,7 @@
 		<zh-CN>美达</zh-CN>
 		<pt-BR>Meda</pt-BR>
 		<ko>메다</ko>
+		<fixja>メダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MOCASOCOS</zType>
@@ -7761,6 +8355,7 @@
 		<zh-CN>摩卡索科丝</zh-CN>
 		<pt-BR>Mocasocos</pt-BR>
 		<ko>모카소코스</ko>
+		<fixja>モカソコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OZEA</zType>
@@ -7774,6 +8369,7 @@
 		<zh-CN>奥泽亚</zh-CN>
 		<pt-BR>Ozeia</pt-BR>
 		<ko>오제아</ko>
+		<fixja>オゼア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PYTHODORIS</zType>
@@ -7787,6 +8383,7 @@
 		<zh-CN>皮托多里斯</zh-CN>
 		<pt-BR>Pitodorida</pt-BR>
 		<ko>피토도리스</ko>
+		<fixja>ピトドリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RHODOPIS</zType>
@@ -7800,6 +8397,7 @@
 		<zh-CN>洛多庇斯</zh-CN>
 		<pt-BR>Rodópis</pt-BR>
 		<ko>로도피스</ko>
+		<fixja>ロドピス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIPA</zType>
@@ -7813,6 +8411,7 @@
 		<zh-CN>希帕</zh-CN>
 		<pt-BR>Sipa</pt-BR>
 		<ko>시파</ko>
+		<fixja>シパ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TATAZA</zType>
@@ -7826,6 +8425,7 @@
 		<zh-CN>塔塔扎</zh-CN>
 		<pt-BR>Tataza</pt-BR>
 		<ko>타타자</ko>
+		<fixja>タタザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABARIS</zType>
@@ -7839,6 +8439,7 @@
 		<zh-CN>艾巴瑞斯</zh-CN>
 		<pt-BR>Ábaris</pt-BR>
 		<ko>아바리스</ko>
+		<fixja>アバリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AGAR</zType>
@@ -7852,6 +8453,7 @@
 		<zh-CN>阿格</zh-CN>
 		<pt-BR>Agar</pt-BR>
 		<ko>아가르</ko>
+		<fixja>​アガール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTIR</zType>
@@ -7865,6 +8467,7 @@
 		<zh-CN>安提尔</zh-CN>
 		<pt-BR>Antir</pt-BR>
 		<ko>안티르</ko>
+		<fixja>アンティル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARIANT</zType>
@@ -7878,6 +8481,7 @@
 		<zh-CN>亚里安</zh-CN>
 		<pt-BR>Ariantas</pt-BR>
 		<ko>아리안트</ko>
+		<fixja>アリアント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARIMAZ</zType>
@@ -7891,6 +8495,7 @@
 		<zh-CN>阿瑞玛兹</zh-CN>
 		<pt-BR>Arimazes</pt-BR>
 		<ko>아리마즈</ko>
+		<fixja>アリマズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATEAS</zType>
@@ -7904,6 +8509,7 @@
 		<zh-CN>阿特斯</zh-CN>
 		<pt-BR>Ateias</pt-BR>
 		<ko>아테아스</ko>
+		<fixja>アテアス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BRADACOS</zType>
@@ -7917,6 +8523,7 @@
 		<zh-CN>布拉达科斯</zh-CN>
 		<pt-BR>Bradacos</pt-BR>
 		<ko>브라다코스</ko>
+		<fixja>ブラダコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_IDANTHIRS</zType>
@@ -7930,6 +8537,7 @@
 		<zh-CN>伊丹蒂斯</zh-CN>
 		<pt-BR>Idantirs</pt-BR>
 		<ko>이단튀르소스</ko>
+		<fixja>イダンティルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ISHPAKAI</zType>
@@ -7943,6 +8551,7 @@
 		<zh-CN>伊斯帕凯</zh-CN>
 		<pt-BR>Ispakai</pt-BR>
 		<ko>이슈파카</ko>
+		<fixja>イシュパカイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KANITA</zType>
@@ -7956,6 +8565,7 @@
 		<zh-CN>卡尼塔</zh-CN>
 		<pt-BR>Kanita</pt-BR>
 		<ko>카니타</ko>
+		<fixja>カニタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LIPOKSAI</zType>
@@ -7969,6 +8579,7 @@
 		<zh-CN>利波克赛</zh-CN>
 		<pt-BR>Lipoksai</pt-BR>
 		<ko>리폭사이</ko>
+		<fixja>リポクサイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HUNTINGAGET</zType>
@@ -7982,6 +8593,7 @@
 		<zh-CN>玛撒热</zh-CN>
 		<pt-BR>Marsagete</pt-BR>
 		<ko>마르사게트</ko>
+		<fixja>マルサゲット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MORDOS</zType>
@@ -7995,6 +8607,7 @@
 		<zh-CN>莫多斯</zh-CN>
 		<pt-BR>Mordo</pt-BR>
 		<ko>모르도스</ko>
+		<fixja>モルドス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OLKAVAS</zType>
@@ -8008,6 +8621,7 @@
 		<zh-CN>奥尔卡瓦斯</zh-CN>
 		<pt-BR>Olcavas</pt-BR>
 		<ko>올카바스</ko>
+		<fixja>​オルカヴァス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PALAK</zType>
@@ -8021,6 +8635,7 @@
 		<zh-CN>帕拉卡</zh-CN>
 		<pt-BR>Palaque</pt-BR>
 		<ko>팔락</ko>
+		<fixja>パラク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PARTATUA</zType>
@@ -8034,6 +8649,7 @@
 		<zh-CN>帕尔塔图亚</zh-CN>
 		<pt-BR>Partatua</pt-BR>
 		<ko>바르타투아</ko>
+		<fixja>パルタトゥア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SAVLIUS</zType>
@@ -8047,6 +8663,7 @@
 		<zh-CN>撒芙流斯</zh-CN>
 		<pt-BR>Sávlio</pt-BR>
 		<ko>사블리오스</ko>
+		<fixja>サヴリウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SAVMAKOS</zType>
@@ -8060,6 +8677,7 @@
 		<zh-CN>萨瓦马科斯</zh-CN>
 		<pt-BR>Saumaco</pt-BR>
 		<ko>사브마코스</ko>
+		<fixja>サヴマコス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SKILUR</zType>
@@ -8073,6 +8691,7 @@
 		<zh-CN>斯鲁克</zh-CN>
 		<pt-BR>Ésklur</pt-BR>
 		<ko>스클루르</ko>
+		<fixja>スクル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TANUS</zType>
@@ -8086,6 +8705,7 @@
 		<zh-CN>塔努斯</zh-CN>
 		<pt-BR>Tanus</pt-BR>
 		<ko>타누스</ko>
+		<fixja>タヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTIANIRA</zType>
@@ -8099,6 +8719,7 @@
 		<zh-CN>安提亚涅拉</zh-CN>
 		<pt-BR>Antianira</pt-BR>
 		<ko>안티아니라</ko>
+		<fixja>アンティアニラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANTIOPE</zType>
@@ -8112,6 +8733,7 @@
 		<zh-CN>安提俄珀</zh-CN>
 		<pt-BR>Antíopa</pt-BR>
 		<ko>안티오페</ko>
+		<fixja>アンティオペ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARGA</zType>
@@ -8125,6 +8747,7 @@
 		<zh-CN>阿尔嘉</zh-CN>
 		<pt-BR>Arga</pt-BR>
 		<ko>아르가</ko>
+		<fixja>アルガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DEIANIRA</zType>
@@ -8138,6 +8761,7 @@
 		<zh-CN>德伊阿妮拉</zh-CN>
 		<pt-BR>Dejanira</pt-BR>
 		<ko>데이아니라</ko>
+		<fixja>デーイアネイラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIPPOLYTA</zType>
@@ -8151,6 +8775,7 @@
 		<zh-CN>希波利塔</zh-CN>
 		<pt-BR>Hipólita</pt-BR>
 		<ko>히폴리타</ko>
+		<fixja>ヒッポリュテー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LAMPEDO</zType>
@@ -8164,6 +8789,7 @@
 		<zh-CN>兰佩多</zh-CN>
 		<pt-BR>Lâmpedo</pt-BR>
 		<ko>람페도</ko>
+		<fixja>ランペド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MADA</zType>
@@ -8177,6 +8803,7 @@
 		<zh-CN>玛达</zh-CN>
 		<pt-BR>Mada</pt-BR>
 		<ko>마다</ko>
+		<fixja>マダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MARPESIA</zType>
@@ -8190,6 +8817,7 @@
 		<zh-CN>马佩西娅</zh-CN>
 		<pt-BR>Marpésia</pt-BR>
 		<ko>마르페시아</ko>
+		<fixja>マルペシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MOLPADIA</zType>
@@ -8203,6 +8831,7 @@
 		<zh-CN>摩帕狄亚</zh-CN>
 		<pt-BR>Molpadia</pt-BR>
 		<ko>몰파디아</ko>
+		<fixja>モルパディア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MYRINA</zType>
@@ -8216,6 +8845,7 @@
 		<zh-CN>迈里娜</zh-CN>
 		<pt-BR>Mirina</pt-BR>
 		<ko>미리나</ko>
+		<fixja>ミリナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OPIS</zType>
@@ -8229,6 +8859,7 @@
 		<zh-CN>欧庇斯</zh-CN>
 		<pt-BR>Opis</pt-BR>
 		<ko>오피스</ko>
+		<fixja>オピス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OPIYA</zType>
@@ -8242,6 +8873,7 @@
 		<zh-CN>欧琵亚</zh-CN>
 		<pt-BR>Opiya</pt-BR>
 		<ko>오피야</ko>
+		<fixja>オピヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OTRERA</zType>
@@ -8255,6 +8887,7 @@
 		<zh-CN>奥特雷拉</zh-CN>
 		<pt-BR>Otreta</pt-BR>
 		<ko>오트레라</ko>
+		<fixja>オトレラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PENTHESILEA</zType>
@@ -8268,6 +8901,7 @@
 		<zh-CN>彭忒西勒亚</zh-CN>
 		<pt-BR>Pentesileia</pt-BR>
 		<ko>펜테실레아</ko>
+		<fixja>ペンテシレイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PITANE</zType>
@@ -8281,6 +8915,7 @@
 		<zh-CN>皮塔内</zh-CN>
 		<pt-BR>Pitane</pt-BR>
 		<ko>피타네</ko>
+		<fixja>ピタネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SKILEIA</zType>
@@ -8294,6 +8929,7 @@
 		<zh-CN>斯基莱亚</zh-CN>
 		<pt-BR>Esquiléia</pt-BR>
 		<ko>스킬레이아</ko>
+		<fixja>スキレイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TAMURA</zType>
@@ -8307,6 +8943,7 @@
 		<zh-CN>塔姆拉</zh-CN>
 		<pt-BR>Tamura</pt-BR>
 		<ko>타무라</ko>
+		<fixja>タムラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TIRGATAO</zType>
@@ -8320,6 +8957,7 @@
 		<zh-CN>特尔加道</zh-CN>
 		<pt-BR>Tirgatao</pt-BR>
 		<ko>티르가타오</ko>
+		<fixja>ティルガタオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TOXARIS</zType>
@@ -8333,6 +8971,7 @@
 		<zh-CN>塔克萨瑞斯</zh-CN>
 		<pt-BR>Toxaris</pt-BR>
 		<ko>톡사리스</ko>
+		<fixja>トキサリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZARINA</zType>
@@ -8346,6 +8985,7 @@
 		<zh-CN>扎里娜</zh-CN>
 		<pt-BR>Zarina</pt-BR>
 		<ko>자리나</ko>
+		<fixja>ザリナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALYAMAS</zType>
@@ -8359,6 +8999,7 @@
 		<zh-CN>阿亚玛斯</zh-CN>
 		<pt-BR>Alyamas</pt-BR>
 		<ko>알야마스</ko>
+		<fixja>アルヤマス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAGA</zType>
@@ -8372,6 +9013,7 @@
 		<zh-CN>巴加</zh-CN>
 		<pt-BR>Baga</pt-BR>
 		<ko>바가</ko>
+		<fixja>バガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BOCCHUS</zType>
@@ -8385,6 +9027,7 @@
 		<zh-CN>波库斯</zh-CN>
 		<pt-BR>Boco</pt-BR>
 		<ko>보쿠스</ko>
+		<fixja>ボッチュス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CAPUSSA</zType>
@@ -8398,6 +9041,7 @@
 		<zh-CN>卡普萨</zh-CN>
 		<pt-BR>Capussa</pt-BR>
 		<ko>카푸사</ko>
+		<fixja>カプッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GALA</zType>
@@ -8411,6 +9055,7 @@
 		<zh-CN>卡拉</zh-CN>
 		<pt-BR>Gala</pt-BR>
 		<ko>갈라</ko>
+		<fixja>ガラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GALUSSA</zType>
@@ -8424,6 +9069,7 @@
 		<zh-CN>加卢萨</zh-CN>
 		<pt-BR>Galussa</pt-BR>
 		<ko>갈루사</ko>
+		<fixja>ガルッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GAUDA</zType>
@@ -8437,6 +9083,7 @@
 		<zh-CN>高达</zh-CN>
 		<pt-BR>Gauda</pt-BR>
 		<ko>가우다</ko>
+		<fixja>ガウダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIEMPSAL</zType>
@@ -8450,6 +9097,7 @@
 		<zh-CN>希耶姆普萨</zh-CN>
 		<pt-BR>Hiempsal</pt-BR>
 		<ko>히엠프살</ko>
+		<fixja>ヒエンプサル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ISALCAS</zType>
@@ -8463,6 +9111,7 @@
 		<zh-CN>伊萨尔卡斯</zh-CN>
 		<pt-BR>Isalcas</pt-BR>
 		<ko>이살카스</ko>
+		<fixja>イサルカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_JUBA</zType>
@@ -8476,6 +9125,7 @@
 		<zh-CN>朱巴</zh-CN>
 		<pt-BR>Juba</pt-BR>
 		<ko>유바</ko>
+		<fixja>ジュバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_JUGURTHA</zType>
@@ -8489,6 +9139,7 @@
 		<zh-CN>朱古达</zh-CN>
 		<pt-BR>Jugurta</pt-BR>
 		<ko>유구르타</ko>
+		<fixja>ユグルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MASSINISSA</zType>
@@ -8502,6 +9153,7 @@
 		<zh-CN>马西尼萨</zh-CN>
 		<pt-BR>Massinissa</pt-BR>
 		<ko>마시니사</ko>
+		<fixja>マシニッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MASTEABAR</zType>
@@ -8515,6 +9167,7 @@
 		<zh-CN>马斯蒂巴</zh-CN>
 		<pt-BR>Masteabar</pt-BR>
 		<ko>마스테아바르</ko>
+		<fixja>マステアバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MICIPSA</zType>
@@ -8528,6 +9181,7 @@
 		<zh-CN>米西普萨</zh-CN>
 		<pt-BR>Micipsa</pt-BR>
 		<ko>미킵사</ko>
+		<fixja>ミキプサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NIPTASAN</zType>
@@ -8541,6 +9195,7 @@
 		<zh-CN>尼普塔桑</zh-CN>
 		<pt-BR>Niptasan</pt-BR>
 		<ko>닙타산</ko>
+		<fixja>ニプタサン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OXYNTA</zType>
@@ -8554,6 +9209,7 @@
 		<zh-CN>奥辛塔</zh-CN>
 		<pt-BR>Oxinta</pt-BR>
 		<ko>옥신타</ko>
+		<fixja>オキシンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_STEMBANOS</zType>
@@ -8567,6 +9223,7 @@
 		<zh-CN>斯坦巴诺斯</zh-CN>
 		<pt-BR>Estebano</pt-BR>
 		<ko>스템바노스</ko>
+		<fixja>ステムバノス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SYPHAX</zType>
@@ -8580,6 +9237,7 @@
 		<zh-CN>西法克斯</zh-CN>
 		<pt-BR>Sífax</pt-BR>
 		<ko>시팍스</ko>
+		<fixja>シュファクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TABAT</zType>
@@ -8593,6 +9251,7 @@
 		<zh-CN>塔巴特</zh-CN>
 		<pt-BR>Tabate</pt-BR>
 		<ko>타바트</ko>
+		<fixja>タバト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZALELSAN</zType>
@@ -8606,6 +9265,7 @@
 		<zh-CN>扎德尔桑</zh-CN>
 		<pt-BR>Zalelsan</pt-BR>
 		<ko>잘레산</ko>
+		<fixja>ザレルサン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DASSIN</zType>
@@ -8619,6 +9279,7 @@
 		<zh-CN>达辛</zh-CN>
 		<pt-BR>Dassina</pt-BR>
 		<ko>다신</ko>
+		<fixja>ダッシン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIHYA</zType>
@@ -8632,6 +9293,7 @@
 		<zh-CN>迪哈</zh-CN>
 		<pt-BR>Dihya</pt-BR>
 		<ko>디흐야</ko>
+		<fixja>ディヒヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FARIZA</zType>
@@ -8645,6 +9307,7 @@
 		<zh-CN>法里萨</zh-CN>
 		<pt-BR>Fariza</pt-BR>
 		<ko>파리자</ko>
+		<fixja>ファリザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FEDDADA</zType>
@@ -8658,6 +9321,7 @@
 		<zh-CN>费达达</zh-CN>
 		<pt-BR>Fedada</pt-BR>
 		<ko>펫다다</ko>
+		<fixja>フェダーダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GHIDA</zType>
@@ -8671,6 +9335,7 @@
 		<zh-CN>吉达</zh-CN>
 		<pt-BR>Guida</pt-BR>
 		<ko>기다</ko>
+		<fixja>ギダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KELLA</zType>
@@ -8684,6 +9349,7 @@
 		<zh-CN>克拉</zh-CN>
 		<pt-BR>Kela</pt-BR>
 		<ko>켈라</ko>
+		<fixja>ケラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LALLA</zType>
@@ -8697,6 +9363,7 @@
 		<zh-CN>拉拉</zh-CN>
 		<pt-BR>Lala</pt-BR>
 		<ko>랄라</ko>
+		<fixja>ララ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LUNDJA</zType>
@@ -8710,6 +9377,7 @@
 		<zh-CN>伦贾</zh-CN>
 		<pt-BR>Lundja</pt-BR>
 		<ko>룬드야</ko>
+		<fixja>​ルンジャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MADELE</zType>
@@ -8723,6 +9391,7 @@
 		<zh-CN>马黛尔</zh-CN>
 		<pt-BR>Madele</pt-BR>
 		<ko>마델레</ko>
+		<fixja>マデレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MENZA</zType>
@@ -8736,6 +9405,7 @@
 		<zh-CN>门萨</zh-CN>
 		<pt-BR>Menza</pt-BR>
 		<ko>멘자</ko>
+		<fixja>メンザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MERNISSA</zType>
@@ -8749,6 +9419,7 @@
 		<zh-CN>梅尼萨</zh-CN>
 		<pt-BR>Mernissa</pt-BR>
 		<ko>메르닛사</ko>
+		<fixja>メルニッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_RULA</zType>
@@ -8762,6 +9433,7 @@
 		<zh-CN>鲁拉</zh-CN>
 		<pt-BR>Rula</pt-BR>
 		<ko>룰라</ko>
+		<fixja>ルーラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEKKURA</zType>
@@ -8775,6 +9447,7 @@
 		<zh-CN>色库拉</zh-CN>
 		<pt-BR>Sekkura</pt-BR>
 		<ko>세쿠라</ko>
+		<fixja>セクラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SILYA</zType>
@@ -8788,6 +9461,7 @@
 		<zh-CN>西利亚</zh-CN>
 		<pt-BR>Silia</pt-BR>
 		<ko>실랴</ko>
+		<fixja>シルヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TAFAT</zType>
@@ -8801,6 +9475,7 @@
 		<zh-CN>塔发特</zh-CN>
 		<pt-BR>Tafate</pt-BR>
 		<ko>타파트</ko>
+		<fixja>タファト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TALALLIT</zType>
@@ -8814,6 +9489,7 @@
 		<zh-CN>塔拉利特</zh-CN>
 		<pt-BR>Talalita</pt-BR>
 		<ko>탈라리트</ko>
+		<fixja>タラリット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TANEST</zType>
@@ -8827,6 +9503,7 @@
 		<zh-CN>坦内斯特</zh-CN>
 		<pt-BR>Tanest</pt-BR>
 		<ko>타네스트</ko>
+		<fixja>タネスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TAYRI</zType>
@@ -8840,6 +9517,7 @@
 		<zh-CN>泰里</zh-CN>
 		<pt-BR>Tairi</pt-BR>
 		<ko>타이리</ko>
+		<fixja>タイリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TINHINAN</zType>
@@ -8853,6 +9531,7 @@
 		<zh-CN>锡海南</zh-CN>
 		<pt-BR>Tininan</pt-BR>
 		<ko>틴히난</ko>
+		<fixja>ティンヒナン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZAMRA</zType>
@@ -8866,6 +9545,7 @@
 		<zh-CN>赞拉</zh-CN>
 		<pt-BR>Zamra</pt-BR>
 		<ko>잠라</ko>
+		<fixja>ザムラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATOSSA</zType>
@@ -8879,6 +9559,7 @@
 		<zh-CN>阿托撒</zh-CN>
 		<pt-BR>Atossa</pt-BR>
 		<ko>아톳사</ko>
+		<fixja>アトッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CATO</zType>
@@ -8892,6 +9573,7 @@
 		<zh-CN>加图</zh-CN>
 		<pt-BR>Catão</pt-BR>
 		<ko>카토</ko>
+		<fixja>カトー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HIARBAS</zType>
@@ -8905,6 +9587,7 @@
 		<zh-CN>希尔巴斯</zh-CN>
 		<pt-BR>Jarbas</pt-BR>
 		<ko>히아르바스</ko>
+		<fixja>ヒアルバス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AUGUSTINE</zType>
@@ -8918,6 +9601,7 @@
 		<zh-CN>奥古斯丁</zh-CN>
 		<pt-BR>Agostinho</pt-BR>
 		<ko>아우구스티누스</ko>
+		<fixja>アウグスティヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_LIVIUS_ANDRONICUS</zType>
@@ -8931,6 +9615,7 @@
 		<zh-CN>卢修斯安德罗尼库斯</zh-CN>
 		<pt-BR>Lívio Andrônico</pt-BR>
 		<ko>리비우스 안드로니쿠스</ko>
+		<fixja>リビウス・アンドロニカス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_PLINY_THE_ELDER</zType>
@@ -8944,6 +9629,7 @@
 		<zh-CN>老普林尼</zh-CN>
 		<pt-BR>Plínio, o Velho</pt-BR>
 		<ko>대 플리니우스</ko>
+		<fixja>プリニウス長老</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_CORNELIA</zType>
@@ -8957,6 +9643,7 @@
 		<zh-CN>科妮莉亚</zh-CN>
 		<pt-BR>Cornélia</pt-BR>
 		<ko>코르넬리아</ko>
+		<fixja>コルネリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_AGNODICE</zType>
@@ -8970,6 +9657,7 @@
 		<zh-CN>阿妮欧迪丝</zh-CN>
 		<pt-BR>Agnodice</pt-BR>
 		<ko>아그노디케</ko>
+		<fixja>​アグノディス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_ARISTOTLE</zType>
@@ -8983,6 +9671,7 @@
 		<zh-CN>亚里斯多德</zh-CN>
 		<pt-BR>Aristóteles</pt-BR>
 		<ko>아리스토텔레스</ko>
+		<fixja>アリストテレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_PYTHAGORAS</zType>
@@ -8996,6 +9685,7 @@
 		<zh-CN>毕达哥拉斯</zh-CN>
 		<pt-BR>Pitágoras</pt-BR>
 		<ko>피타고라스</ko>
+		<fixja>ピタゴラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_BARDAISAN</zType>
@@ -9009,6 +9699,7 @@
 		<zh-CN>巴达伊臣</zh-CN>
 		<pt-BR>Bardesanes</pt-BR>
 		<ko>바르다이산</ko>
+		<fixja>バルダイサン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_ANACHARSIS</zType>
@@ -9022,6 +9713,7 @@
 		<zh-CN>阿纳卡哈尔西斯</zh-CN>
 		<pt-BR>Anacársis</pt-BR>
 		<ko>아나카르시스</ko>
+		<fixja>アナカルシス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_OSTANES</zType>
@@ -9035,6 +9727,7 @@
 		<zh-CN>奥斯坦尼斯</zh-CN>
 		<pt-BR>Ostanes</pt-BR>
 		<ko>오스타네스</ko>
+		<fixja>オスタネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_HANNO</zType>
@@ -9048,6 +9741,7 @@
 		<zh-CN>杏萝</zh-CN>
 		<pt-BR>Hanão</pt-BR>
 		<ko>한노</ko>
+		<fixja>ハンノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_CLITOMACHUS</zType>
@@ -9061,6 +9755,7 @@
 		<zh-CN>克莱托马库斯</zh-CN>
 		<pt-BR>Clitômaco</pt-BR>
 		<ko>클레이토마코스</ko>
+		<fixja>クリトマチュス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_MAGO</zType>
@@ -9074,6 +9769,7 @@
 		<zh-CN>马戈</zh-CN>
 		<pt-BR>Magão</pt-BR>
 		<ko>마고</ko>
+		<fixja>マゴ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_ESAGIL_KIN_APLI</zType>
@@ -9087,6 +9783,7 @@
 		<zh-CN>埃萨吉尔金阿普利</zh-CN>
 		<pt-BR>Esagilquinapli</pt-BR>
 		<ko>에사길-킨-아플리</ko>
+		<fixja>エサギル・キン・アプリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_SERUA_ETERAT</zType>
@@ -9100,6 +9797,7 @@
 		<zh-CN>瑟卢娃伊特拉</zh-CN>
 		<pt-BR>Seruaeterate</pt-BR>
 		<ko>셰루아-에테라트</ko>
+		<fixja>シェルア・エテラト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_SIN_LEQI_UNNINNI</zType>
@@ -9113,6 +9811,7 @@
 		<zh-CN>辛乐奇乌尼尼</zh-CN>
 		<pt-BR>Sinlequiunini</pt-BR>
 		<ko>신-레키-운닌니</ko>
+		<fixja>シンレキウニンニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_PTAHHOTEP</zType>
@@ -9126,6 +9825,7 @@
 		<zh-CN>普塔霍特普</zh-CN>
 		<pt-BR>Ptaotepe</pt-BR>
 		<ko>프타호텝</ko>
+		<fixja>プタハホテップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_SENENMUT</zType>
@@ -9139,6 +9839,7 @@
 		<zh-CN>赛门姆特</zh-CN>
 		<pt-BR>Senemute</pt-BR>
 		<ko>세넨무트</ko>
+		<fixja>センエンムウト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_CLEOPATRA_SELENE</zType>
@@ -9152,6 +9853,7 @@
 		<zh-CN>克娄巴特拉·塞勒涅</zh-CN>
 		<pt-BR>Cleópatra Selene</pt-BR>
 		<ko>클레오파트라 셀레네</ko>
+		<fixja>クレオパトラ・セレネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_HARPAGUS</zType>
@@ -9165,6 +9867,7 @@
 		<zh-CN>哈尔帕格</zh-CN>
 		<pt-BR>Hárpago</pt-BR>
 		<ko>하르파고스</ko>
+		<fixja>ハルパゴス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_AVICENNA</zType>
@@ -9178,6 +9881,7 @@
 		<zh-CN>阿维森纳</zh-CN>
 		<pt-BR>Avicena</pt-BR>
 		<ko>이븐 시나</ko>
+		<fixja>アヴィセンナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TUTOR_KARTIR</zType>
@@ -9191,6 +9895,7 @@
 		<zh-CN>科提尔</zh-CN>
 		<pt-BR>Cartir</pt-BR>
 		<ko>카르티르</ko>
+		<fixja>カルティール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARISTOTLE</zType>
@@ -9204,6 +9909,7 @@
 		<zh-CN>亚里斯多德</zh-CN>
 		<pt-BR>Aristóteles</pt-BR>
 		<ko>아리스토텔레스</ko>
+		<fixja>アリストテレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PIEFACE</zType>
@@ -9217,6 +9923,7 @@
 		<zh-CN>派费西</zh-CN>
 		<pt-BR>Bobofácio</pt-BR>
 		<ko>얼빵이</ko>
+		<fixja>パイフェイス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CIMON_THE_FOREIGNER</zType>
@@ -9230,6 +9937,7 @@
 		<zh-CN>客蒙</zh-CN>
 		<pt-BR>Címon</pt-BR>
 		<ko>키몬</ko>
+		<fixja>キモン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CONFUCIUS</zType>
@@ -9243,6 +9951,7 @@
 		<zh-CN>孔子</zh-CN>
 		<pt-BR>Confúcio</pt-BR>
 		<ko>공자</ko>
+		<fixja>孔子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BOUDICEA</zType>
@@ -9256,6 +9965,7 @@
 		<zh-CN>布狄卡</zh-CN>
 		<pt-BR>Boadiceia</pt-BR>
 		<ko>부디카</ko>
+		<fixja>ブーディカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EPICTETUS</zType>
@@ -9269,6 +9979,7 @@
 		<zh-CN>埃比克泰德</zh-CN>
 		<pt-BR>Epiteto</pt-BR>
 		<ko>에픽테토스</ko>
+		<fixja>エピクテトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZENOBIA</zType>
@@ -9282,6 +9993,7 @@
 		<zh-CN>塞诺维娅</zh-CN>
 		<pt-BR>Zenóbia</pt-BR>
 		<ko>제노비아</ko>
+		<fixja>ゼノビア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_THE_ORPHAN_EATER</zType>
@@ -9295,6 +10007,7 @@
 		<zh-CN>食孤儿者</zh-CN>
 		<pt-BR>Devorador de Órfãos</pt-BR>
 		<ko>고아 먹는 자</ko>
+		<fixja>孤児喰い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_INCITATUS</zType>
@@ -9308,6 +10021,7 @@
 		<zh-CN>英西塔土斯</zh-CN>
 		<pt-BR>Incitato</pt-BR>
 		<ko>인키타투스</ko>
+		<fixja>インキタトゥス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIEGYLIS</zType>
@@ -9321,6 +10035,7 @@
 		<zh-CN>迪格里斯</zh-CN>
 		<pt-BR>Diégilis</pt-BR>
 		<ko>디에길리스</ko>
+		<fixja>ディエギリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PYGMALION_OF_TYRE</zType>
@@ -9334,6 +10049,7 @@
 		<zh-CN>提尔的皮马里翁</zh-CN>
 		<pt-BR>Pigmalião de Tiro</pt-BR>
 		<ko>티레의 피그말리온</ko>
+		<fixja>テュロスのピグマリオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PROPHET</zType>
@@ -9347,6 +10063,7 @@
 		<zh-CN>约拿</zh-CN>
 		<pt-BR>Jonas</pt-BR>
 		<ko>요나</ko>
+		<fixja>ヨナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SEER</zType>
@@ -9360,6 +10077,7 @@
 		<zh-CN>黛佛比</zh-CN>
 		<pt-BR>Deifoba</pt-BR>
 		<ko>데이포베</ko>
+		<fixja>デイフォベ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LEOTYCHIDAS</zType>
@@ -9373,6 +10091,7 @@
 		<zh-CN>列奥提齐德斯</zh-CN>
 		<pt-BR>Leotíquides</pt-BR>
 		<ko>레오티키다스</ko>
+		<fixja>レオテュキデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_CLEOPATRA</zType>
@@ -9386,6 +10105,7 @@
 		<zh-CN>克丽奥佩脱拉</zh-CN>
 		<pt-BR>Cleópatra</pt-BR>
 		<ko>클레오파트라</ko>
+		<fixja>クレオパトラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHADOWLIGHTNING</zType>
@@ -9399,6 +10119,7 @@
 		<zh-CN>暗影闪电，卑劣者之敌</zh-CN>
 		<pt-BR>Trovão Negro, Oponente dos Indignos</pt-BR>
 		<ko>무쓸모한 자들의 적, 그림자번개</ko>
+		<fixja>不倶戴天の敵、シャドウライトニング</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PTOLEMY</zType>
@@ -9412,6 +10133,7 @@
 		<zh-CN>托勒密</zh-CN>
 		<pt-BR>Ptolomeu</pt-BR>
 		<ko>프톨레마이오스</ko>
+		<fixja>プトレマイオス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EUCLID</zType>
@@ -9425,6 +10147,7 @@
 		<zh-CN>欧几里得</zh-CN>
 		<pt-BR>Euclides</pt-BR>
 		<ko>에우클레이데스</ko>
+		<fixja>エウクレイデス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANIRENA</zType>
@@ -9438,6 +10161,7 @@
 		<zh-CN>阿马尼蕾娜斯</zh-CN>
 		<pt-BR>Amanirenas</pt-BR>
 		<ko>아마니레나스</ko>
+		<fixja>アマニレナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KASHTA</zType>
@@ -9451,6 +10175,7 @@
 		<zh-CN>卡什塔</zh-CN>
 		<pt-BR>Cáchita</pt-BR>
 		<ko>카슈타</ko>
+		<fixja>カシュタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHEBITKU</zType>
@@ -9464,6 +10189,7 @@
 		<zh-CN>沙巴塔卡</zh-CN>
 		<pt-BR>Xabataca</pt-BR>
 		<ko>셰비쿠</ko>
+		<fixja>シャバタカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHABAKA</zType>
@@ -9477,6 +10203,7 @@
 		<zh-CN>沙巴卡</zh-CN>
 		<pt-BR>Xabaca</pt-BR>
 		<ko>샤바카</ko>
+		<fixja>シャバカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TAHARQA</zType>
@@ -9490,6 +10217,7 @@
 		<zh-CN>塔哈尔卡</zh-CN>
 		<pt-BR>Taraca</pt-BR>
 		<ko>타하르카</ko>
+		<fixja>タハルカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TANAMANI</zType>
@@ -9503,6 +10231,7 @@
 		<zh-CN>塔纳玛尼</zh-CN>
 		<pt-BR>Tanutamon</pt-BR>
 		<ko>탄타마니</ko>
+		<fixja>タナマニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATLANERSA</zType>
@@ -9516,6 +10245,7 @@
 		<zh-CN>阿特兰尔萨</zh-CN>
 		<pt-BR>Atlanersa</pt-BR>
 		<ko>아틀란네르사</ko>
+		<fixja>アトラネルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANLAMANI</zType>
@@ -9529,6 +10259,7 @@
 		<zh-CN>安拉玛尼</zh-CN>
 		<pt-BR>Anlamani</pt-BR>
 		<ko>안라마니</ko>
+		<fixja>アンラマニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MALONAQEN</zType>
@@ -9542,6 +10273,7 @@
 		<zh-CN>玛隆纳库恩</zh-CN>
 		<pt-BR>Malonaquen</pt-BR>
 		<ko>말로나켄</ko>
+		<fixja>マロナケン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SIASPIQA</zType>
@@ -9555,6 +10287,7 @@
 		<zh-CN>西亚斯皮卡</zh-CN>
 		<pt-BR>Siaspiqa</pt-BR>
 		<ko>시아스피카</ko>
+		<fixja>シャスピカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NASAKHMA</zType>
@@ -9568,6 +10301,7 @@
 		<zh-CN>纳萨卡马</zh-CN>
 		<pt-BR>Nasacama</pt-BR>
 		<ko>나사흐마</ko>
+		<fixja>ナサクマ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HARSIOTEF</zType>
@@ -9581,6 +10315,7 @@
 		<zh-CN>哈尔斯欧托夫</zh-CN>
 		<pt-BR>Harsiotef</pt-BR>
 		<ko>하르시오테프</ko>
+		<fixja>ハルショテフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKHRATEN</zType>
@@ -9594,6 +10329,7 @@
 		<zh-CN>阿卡尔腾</zh-CN>
 		<pt-BR>Acraten</pt-BR>
 		<ko>아크라텐</ko>
+		<fixja>アクラテン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANIBAKHI</zType>
@@ -9607,6 +10343,7 @@
 		<zh-CN>阿马尼巴凯</zh-CN>
 		<pt-BR>Amanibaqui</pt-BR>
 		<ko>아마니바키</ko>
+		<fixja>アマニバキ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NASTASEN</zType>
@@ -9620,6 +10357,7 @@
 		<zh-CN>纳斯塔森</zh-CN>
 		<pt-BR>Nastasen</pt-BR>
 		<ko>나스타센</ko>
+		<fixja>ナスタセン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHALIUT</zType>
@@ -9633,6 +10371,7 @@
 		<zh-CN>卡里乌特</zh-CN>
 		<pt-BR>Caliut</pt-BR>
 		<ko>칼리우트</ko>
+		<fixja>カリュート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KARKAMANI</zType>
@@ -9646,6 +10385,7 @@
 		<zh-CN>卡尔卡玛尼</zh-CN>
 		<pt-BR>Carcamani</pt-BR>
 		<ko>카르카마니</ko>
+		<fixja>カラカマニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TALAKHAMANI</zType>
@@ -9659,6 +10399,7 @@
 		<zh-CN>塔拉卡玛尼</zh-CN>
 		<pt-BR>Talacamani</pt-BR>
 		<ko>탈라하마니</ko>
+		<fixja>タラカマニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARYAMANI</zType>
@@ -9672,6 +10413,7 @@
 		<zh-CN>阿里亚玛尼</zh-CN>
 		<pt-BR>Aryamani</pt-BR>
 		<ko>아리아마니</ko>
+		<fixja>アルヤマニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKTISANES</zType>
@@ -9685,6 +10427,7 @@
 		<zh-CN>阿克提萨奈斯</zh-CN>
 		<pt-BR>Actisanes</pt-BR>
 		<ko>악티사네스</ko>
+		<fixja>アクティサネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANISLO</zType>
@@ -9698,6 +10441,7 @@
 		<zh-CN>阿马尼斯洛</zh-CN>
 		<pt-BR>Amanislo</pt-BR>
 		<ko>아마니슬로</ko>
+		<fixja>アマニスロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANTEKHA</zType>
@@ -9711,6 +10455,7 @@
 		<zh-CN>阿曼特卡</zh-CN>
 		<pt-BR>Amanteca</pt-BR>
 		<ko>아만테카</ko>
+		<fixja>アマヌテカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TERITEQAS</zType>
@@ -9724,6 +10469,7 @@
 		<zh-CN>特立特卡斯</zh-CN>
 		<pt-BR>Teriteqas</pt-BR>
 		<ko>테리테카스</ko>
+		<fixja>テリテクァス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NATAKAMANI</zType>
@@ -9737,6 +10483,7 @@
 		<zh-CN>纳塔卡玛尼</zh-CN>
 		<pt-BR>Natacamani</pt-BR>
 		<ko>나타카마니</ko>
+		<fixja>ナタカマニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PISAKAR</zType>
@@ -9750,6 +10497,7 @@
 		<zh-CN>皮萨卡尔</zh-CN>
 		<pt-BR>Pisacar</pt-BR>
 		<ko>피사카르</ko>
+		<fixja>ピサカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHORKAROR</zType>
@@ -9763,6 +10511,7 @@
 		<zh-CN>绍尔卡欧尔</zh-CN>
 		<pt-BR>Xorcaror</pt-BR>
 		<ko>쇼르카로르</ko>
+		<fixja>ショルカルロル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABAR</zType>
@@ -9776,6 +10525,7 @@
 		<zh-CN>阿巴尔</zh-CN>
 		<pt-BR>Abar</pt-BR>
 		<ko>아바르</ko>
+		<fixja>アバル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHENSA</zType>
@@ -9789,6 +10539,7 @@
 		<zh-CN>肯萨</zh-CN>
 		<pt-BR>Quensa</pt-BR>
 		<ko>켄사</ko>
+		<fixja>ケンサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_QALHATA</zType>
@@ -9802,6 +10553,7 @@
 		<zh-CN>卡尔哈塔</zh-CN>
 		<pt-BR>Qalhata</pt-BR>
 		<ko>칼하타</ko>
+		<fixja>カルハタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NAPARAYE</zType>
@@ -9815,6 +10567,7 @@
 		<zh-CN>纳帕拉耶</zh-CN>
 		<pt-BR>Naparaye</pt-BR>
 		<ko>나파라예</ko>
+		<fixja>ナパラエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTY</zType>
@@ -9828,6 +10581,7 @@
 		<zh-CN>阿尔提</zh-CN>
 		<pt-BR>Arty</pt-BR>
 		<ko>아르티</ko>
+		<fixja>アーティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MUTIRDIS</zType>
@@ -9841,6 +10595,7 @@
 		<zh-CN>穆提尔迪斯</zh-CN>
 		<pt-BR>Mutirdis</pt-BR>
 		<ko>무티르디스</ko>
+		<fixja>ムティルディス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMENIRDIS</zType>
@@ -9854,6 +10609,7 @@
 		<zh-CN>阿梅尼尔迪斯</zh-CN>
 		<pt-BR>Amenirdis</pt-BR>
 		<ko>아메니르디스</ko>
+		<fixja>アメニルディス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHEPENUPET</zType>
@@ -9867,6 +10623,7 @@
 		<zh-CN>舍朋乌佩特</zh-CN>
 		<pt-BR>Xepenupete</pt-BR>
 		<ko>셰페누펫</ko>
+		<fixja>シェペヌペット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANIRENAS</zType>
@@ -9880,6 +10637,7 @@
 		<zh-CN>阿马尼蕾娜斯</zh-CN>
 		<pt-BR>Amanirenas</pt-BR>
 		<ko>아마니레나스</ko>
+		<fixja>アマニレナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NAWIDEMAK</zType>
@@ -9893,6 +10651,7 @@
 		<zh-CN>纳维德马克</zh-CN>
 		<pt-BR>Nawidemak</pt-BR>
 		<ko>나위데막</ko>
+		<fixja>ナウィデマク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANIPILADE</zType>
@@ -9906,6 +10665,7 @@
 		<zh-CN>阿玛尼皮拉德</zh-CN>
 		<pt-BR>Amanipilade</pt-BR>
 		<ko>아마니필라데</ko>
+		<fixja>アマニピラデ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALAKHEBASKEN</zType>
@@ -9919,6 +10679,7 @@
 		<zh-CN>阿拉克巴斯肯</zh-CN>
 		<pt-BR>Alaquebasken</pt-BR>
 		<ko>알라케바스켄</ko>
+		<fixja>アラケバスケン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BATAHALIYE</zType>
@@ -9932,6 +10693,7 @@
 		<zh-CN>巴塔哈利耶</zh-CN>
 		<pt-BR>Batahaliye</pt-BR>
 		<ko>바타할리예</ko>
+		<fixja>バタハリー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKHRASAN</zType>
@@ -9945,6 +10707,7 @@
 		<zh-CN>阿卡拉森</zh-CN>
 		<pt-BR>Acrasan</pt-BR>
 		<ko>아크라산</ko>
+		<fixja>アカラサン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HENUTIRDIS</zType>
@@ -9958,6 +10721,7 @@
 		<zh-CN>合姆提尔迪斯</zh-CN>
 		<pt-BR>Henutirdis</pt-BR>
 		<ko>헤누티르디스</ko>
+		<fixja>ヘヌティディス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ATASAMALE</zType>
@@ -9971,6 +10735,7 @@
 		<zh-CN>阿塔萨马勒</zh-CN>
 		<pt-BR>Atasamale</pt-BR>
 		<ko>아타사말레</ko>
+		<fixja>アタサマル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TAGTAL</zType>
@@ -9984,6 +10749,7 @@
 		<zh-CN>塔格塔尔</zh-CN>
 		<pt-BR>Tagtal</pt-BR>
 		<ko>타그탈</ko>
+		<fixja>タグタル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKHEQA</zType>
@@ -9997,6 +10763,7 @@
 		<zh-CN>阿克卡</zh-CN>
 		<pt-BR>Aqueqa</pt-BR>
 		<ko>아케카</ko>
+		<fixja>アケーカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MALETASEN</zType>
@@ -10010,6 +10777,7 @@
 		<zh-CN>马勒塔森</zh-CN>
 		<pt-BR>Maletasen</pt-BR>
 		<ko>말레타센</ko>
+		<fixja>マレタサン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NASALSA</zType>
@@ -10023,6 +10791,7 @@
 		<zh-CN>纳萨拉</zh-CN>
 		<pt-BR>Nasalsa</pt-BR>
 		<ko>나살사</ko>
+		<fixja>ナサルサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MADIQEN</zType>
@@ -10036,6 +10805,7 @@
 		<zh-CN>马蒂库恩</zh-CN>
 		<pt-BR>Madiqen</pt-BR>
 		<ko>마디켄</ko>
+		<fixja>マディケン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ARTAHA</zType>
@@ -10049,6 +10819,7 @@
 		<zh-CN>阿尔塔哈</zh-CN>
 		<pt-BR>Artaha</pt-BR>
 		<ko>아르타하</ko>
+		<fixja>アルタハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ASATA</zType>
@@ -10062,6 +10833,7 @@
 		<zh-CN>阿萨塔</zh-CN>
 		<pt-BR>Asata</pt-BR>
 		<ko>아사타</ko>
+		<fixja>アサタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KHALISET</zType>
@@ -10075,6 +10847,7 @@
 		<zh-CN>卡里赛特</zh-CN>
 		<pt-BR>Caliset</pt-BR>
 		<ko>칼리세트</ko>
+		<fixja>ハーリセット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KASAQA</zType>
@@ -10088,6 +10861,7 @@
 		<zh-CN>卡萨卡</zh-CN>
 		<pt-BR>Casaqa</pt-BR>
 		<ko>카사카</ko>
+		<fixja>カサカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANISHAKHETO</zType>
@@ -10101,6 +10875,7 @@
 		<zh-CN>阿马尼沙克托</zh-CN>
 		<pt-BR>Amani-Xaquéto</pt-BR>
 		<ko>아마니샤케토</ko>
+		<fixja>アマニシャケト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AKINIDAD</zType>
@@ -10114,6 +10889,7 @@
 		<zh-CN>阿金尼达德</zh-CN>
 		<pt-BR>Akinidad</pt-BR>
 		<ko>아키니다드</ko>
+		<fixja>アキニダド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NAQYRINSAN</zType>
@@ -10127,6 +10903,7 @@
 		<zh-CN>纳克林桑</zh-CN>
 		<pt-BR>Naqyrinsan</pt-BR>
 		<ko>나키린산</ko>
+		<fixja>ナクィリヌサン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AMANITORE</zType>
@@ -10140,6 +10917,7 @@
 		<zh-CN>阿马尼托蕾</zh-CN>
 		<pt-BR>Amanitore</pt-BR>
 		<ko>아마니토레</ko>
+		<fixja>アマニトレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALARA</zType>
@@ -10153,6 +10931,7 @@
 		<zh-CN>阿拉拉</zh-CN>
 		<pt-BR>Alara</pt-BR>
 		<ko>알라라</ko>
+		<fixja>アララ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_PIYE</zType>
@@ -10166,6 +10945,7 @@
 		<zh-CN>皮耶</zh-CN>
 		<pt-BR>Piiê</pt-BR>
 		<ko>피예</ko>
+		<fixja>ピイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SHANAKDAKHETE</zType>
@@ -10179,6 +10959,7 @@
 		<zh-CN>莎娜卡达科特</zh-CN>
 		<pt-BR>Shanakdakhete</pt-BR>
 		<ko>샤나크다케테</ko>
+		<fixja>シャナクダケテ</fixja>
 	</Entry>
 	<!-- Aksum -->
 	<Entry>
@@ -10193,6 +10974,7 @@
 		<zh-CN>阿德拉兹</zh-CN>
 		<pt-BR>Aderaz</pt-BR>
 		<ko>아데라즈</ko>
+		<fixja>アデラズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ALAMEDA</zType>
@@ -10206,6 +10988,7 @@
 		<zh-CN>阿拉美达</zh-CN>
 		<pt-BR>Alameda</pt-BR>
 		<ko>알라메다</ko>
+		<fixja>アラメダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ANGABO</zType>
@@ -10219,6 +11002,7 @@
 		<zh-CN>安加波</zh-CN>
 		<pt-BR>Angabo</pt-BR>
 		<ko>앙가보</ko>
+		<fixja>アンガボ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AYZOR</zType>
@@ -10232,6 +11016,7 @@
 		<zh-CN>阿伊泽尔</zh-CN>
 		<pt-BR>Aizor</pt-BR>
 		<ko>아이조르</ko>
+		<fixja>アイゾル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AZABA</zType>
@@ -10245,6 +11030,7 @@
 		<zh-CN>阿扎巴</zh-CN>
 		<pt-BR>Azaba</pt-BR>
 		<ko>아자바</ko>
+		<fixja>アザバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_BAZEN</zType>
@@ -10258,6 +11044,7 @@
 		<zh-CN>巴泽恩</zh-CN>
 		<pt-BR>Bazen</pt-BR>
 		<ko>바젠</ko>
+		<fixja>バゼン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DATAWNAS</zType>
@@ -10271,6 +11058,7 @@
 		<zh-CN>达陶纳斯</zh-CN>
 		<pt-BR>Dataunas</pt-BR>
 		<ko>다토나스</ko>
+		<fixja>ダタウナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_DIL_NAOD</zType>
@@ -10284,6 +11072,7 @@
 		<zh-CN>迪尔达欧德</zh-CN>
 		<pt-BR>Dil Na'od</pt-BR>
 		<ko>딜 나오드</ko>
+		<fixja>ディル・ナオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ENDUBIS</zType>
@@ -10297,6 +11086,7 @@
 		<zh-CN>恩度比斯</zh-CN>
 		<pt-BR>Endubis</pt-BR>
 		<ko>엔두비스</ko>
+		<fixja>エンドゥビス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_EZANA</zType>
@@ -10310,6 +11100,7 @@
 		<zh-CN>埃扎纳</zh-CN>
 		<pt-BR>Ezana</pt-BR>
 		<ko>에자나</ko>
+		<fixja>エザナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_FRUMENTIUS</zType>
@@ -10323,6 +11114,7 @@
 		<zh-CN>弗鲁门提乌斯</zh-CN>
 		<pt-BR>Frumêncio</pt-BR>
 		<ko>프루멘티우스</ko>
+		<fixja>フルメンティウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GABRA_MASKAL</zType>
@@ -10336,6 +11128,7 @@
 		<zh-CN>加布拉马斯卡尔</zh-CN>
 		<pt-BR>Gabra Maskal</pt-BR>
 		<ko>가브라 마스칼</ko>
+		<fixja>ガブラ・マスカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GADARAT</zType>
@@ -10349,6 +11142,7 @@
 		<zh-CN>加达拉特</zh-CN>
 		<pt-BR>Gadarate</pt-BR>
 		<ko>가다라트</ko>
+		<fixja>ガダラット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ISRAEL</zType>
@@ -10362,6 +11156,7 @@
 		<zh-CN>以色列</zh-CN>
 		<pt-BR>Israel</pt-BR>
 		<ko>이스라엘</ko>
+		<fixja>イスラエル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KALEB</zType>
@@ -10375,6 +11170,7 @@
 		<zh-CN>卡莱布</zh-CN>
 		<pt-BR>Calebe</pt-BR>
 		<ko>칼레브</ko>
+		<fixja>カレブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAWAT</zType>
@@ -10388,6 +11184,7 @@
 		<zh-CN>马瓦特</zh-CN>
 		<pt-BR>Mawat</pt-BR>
 		<ko>마와트</ko>
+		<fixja>マワト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MENELIK</zType>
@@ -10401,6 +11198,7 @@
 		<zh-CN>孟尼利克</zh-CN>
 		<pt-BR>Menelik</pt-BR>
 		<ko>메넬리크</ko>
+		<fixja>メネリク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_OUSANAS</zType>
@@ -10414,6 +11212,7 @@
 		<zh-CN>奥萨纳斯</zh-CN>
 		<pt-BR>Ousanas</pt-BR>
 		<ko>오우사나스</ko>
+		<fixja>オウザナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SAIZANA</zType>
@@ -10427,6 +11226,7 @@
 		<zh-CN>赛扎纳</zh-CN>
 		<pt-BR>Saizana</pt-BR>
 		<ko>사이자나</ko>
+		<fixja>サイザナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_WAZEB</zType>
@@ -10440,6 +11240,7 @@
 		<zh-CN>瓦泽布</zh-CN>
 		<pt-BR>Uazeb</pt-BR>
 		<ko>와제브</ko>
+		<fixja>ワゼブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZAQARNAS</zType>
@@ -10453,6 +11254,7 @@
 		<zh-CN>扎卡尔纳斯</zh-CN>
 		<pt-BR>Zaqarnas</pt-BR>
 		<ko>자카르나스</ko>
+		<fixja>ザカルナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZENOBIS</zType>
@@ -10466,6 +11268,7 @@
 		<zh-CN>泽诺比斯</zh-CN>
 		<pt-BR>Zenobis</pt-BR>
 		<ko>제노비스</ko>
+		<fixja>ゼノビス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ZOSKALES</zType>
@@ -10479,6 +11282,7 @@
 		<zh-CN>佐斯卡勒斯</zh-CN>
 		<pt-BR>Zoskales</pt-BR>
 		<ko>조스칼레스</ko>
+		<fixja>ゾスカレス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ABABA_ESAT</zType>
@@ -10492,6 +11296,7 @@
 		<zh-CN>阿巴巴-埃萨特</zh-CN>
 		<pt-BR>Ababa-Esat</pt-BR>
 		<ko>아바바에사트</ko>
+		<fixja>アババ・エサト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADHANA</zType>
@@ -10505,6 +11310,7 @@
 		<zh-CN>阿德哈拿</zh-CN>
 		<pt-BR>Adhana</pt-BR>
 		<ko>아드하나</ko>
+		<fixja>アドハナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ADMAS</zType>
@@ -10518,6 +11324,7 @@
 		<zh-CN>阿德马斯</zh-CN>
 		<pt-BR>Admas</pt-BR>
 		<ko>아드마스</ko>
+		<fixja>アドマス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AHYWA</zType>
@@ -10531,6 +11338,7 @@
 		<zh-CN>阿海瓦</zh-CN>
 		<pt-BR>Ahiua</pt-BR>
 		<ko>아히와</ko>
+		<fixja>アヒワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_AWSENA</zType>
@@ -10544,6 +11352,7 @@
 		<zh-CN>奥瑟纳</zh-CN>
 		<pt-BR>Ausena</pt-BR>
 		<ko>아우세나</ko>
+		<fixja>アウェセナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ESMENI</zType>
@@ -10557,6 +11366,7 @@
 		<zh-CN>埃斯美尼</zh-CN>
 		<pt-BR>Esmeni</pt-BR>
 		<ko>에스메니</ko>
+		<fixja>エスメニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GARSEMOT</zType>
@@ -10570,6 +11380,7 @@
 		<zh-CN>加瑟莫特</zh-CN>
 		<pt-BR>Garsemote</pt-BR>
 		<ko>가르세모트</ko>
+		<fixja>ガルセモト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_GUDIT</zType>
@@ -10583,6 +11394,7 @@
 		<zh-CN>游娣特</zh-CN>
 		<pt-BR>Gudit</pt-BR>
 		<ko>구디트</ko>
+		<fixja>グディト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_HADENA</zType>
@@ -10596,6 +11408,7 @@
 		<zh-CN>哈德纳</zh-CN>
 		<pt-BR>Hadena</pt-BR>
 		<ko>하데나</ko>
+		<fixja>ハデナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_ISMENIE</zType>
@@ -10609,6 +11422,7 @@
 		<zh-CN>伊斯莫涅</zh-CN>
 		<pt-BR>Ismenie</pt-BR>
 		<ko>이스메니에</ko>
+		<fixja>イスメニエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KALINA</zType>
@@ -10622,6 +11436,7 @@
 		<zh-CN>卡里纳</zh-CN>
 		<pt-BR>Kalina</pt-BR>
 		<ko>칼리나</ko>
+		<fixja>カリナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_KUNAME</zType>
@@ -10635,6 +11450,7 @@
 		<zh-CN>库那莫</zh-CN>
 		<pt-BR>Kuname</pt-BR>
 		<ko>쿠나메</ko>
+		<fixja>クナメ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_LAB</zType>
@@ -10648,6 +11464,7 @@
 		<zh-CN>拉布</zh-CN>
 		<pt-BR>Lab</pt-BR>
 		<ko>라브</ko>
+		<fixja>ラブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MAKEDA</zType>
@@ -10661,6 +11478,7 @@
 		<zh-CN>玛珂达</zh-CN>
 		<pt-BR>Makeda</pt-BR>
 		<ko>마케다</ko>
+		<fixja>マケダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_MASOBA</zType>
@@ -10674,6 +11492,7 @@
 		<zh-CN>玛索巴</zh-CN>
 		<pt-BR>Masoba</pt-BR>
 		<ko>마소바</ko>
+		<fixja>マソバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NIKANTA</zType>
@@ -10687,6 +11506,7 @@
 		<zh-CN>尼坎塔</zh-CN>
 		<pt-BR>Nikanta</pt-BR>
 		<ko>니칸타</ko>
+		<fixja>ニカンタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_NIKAWLA</zType>
@@ -10700,6 +11520,7 @@
 		<zh-CN>尼卡乌拉</zh-CN>
 		<pt-BR>Nikawla</pt-BR>
 		<ko>니카울라</ko>
+		<fixja>ニカウラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_SOFYA</zType>
@@ -10713,6 +11534,7 @@
 		<zh-CN>索菲亚</zh-CN>
 		<pt-BR>Sofia</pt-BR>
 		<ko>소피아</ko>
+		<fixja>ソフィア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_TSETISI</zType>
@@ -10726,6 +11548,7 @@
 		<zh-CN>瑟提斯</zh-CN>
 		<pt-BR>Tsetisi</pt-BR>
 		<ko>체티시</ko>
+		<fixja>トセティシ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_WAKANA</zType>
@@ -10739,5 +11562,6 @@
 		<zh-CN>瓦卡纳</zh-CN>
 		<pt-BR>Wakana</pt-BR>
 		<ko>와카나</ko>
+		<fixja>ワカナ</fixja>
 	</Entry>
 </Root>

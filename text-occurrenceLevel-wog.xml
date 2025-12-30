@@ -13,6 +13,7 @@
 		<zh-CN>无</zh-CN>
 		<pt-BR>Nenhuma</pt-BR>
 		<ko>발생하지 않음</ko>
+		<fixja>なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_VERY_LOW</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>极罕见</zh-CN>
 		<pt-BR>Muito Rara</pt-BR>
 		<ko>매우 낮은 빈도</ko>
+		<fixja>非常に少ない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_VERY_LOW_HELP</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>自然灾害会在游戏大后期发生，而且发生的频率也会大大降低</zh-CN>
 		<pt-BR>As calamidades acontecerão muito tardiamente em jogo e com frequência muito menor</pt-BR>
 		<ko>재난이 게임 극후반에 발생하며 빈도가 매우 낮음</ko>
+		<fixja>自然災害はゲームの最終盤に発生し、その頻度は非常に低い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_LOW</zType>
@@ -52,6 +55,7 @@
 		<zh-CN>罕见</zh-CN>
 		<pt-BR>Rara</pt-BR>
 		<ko>낮은 빈도</ko>
+		<fixja>少ない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_LOW_HELP</zType>
@@ -65,6 +69,7 @@
 		<zh-CN>自然灾害会在游戏后期发生，而且发生的频率也会降低</zh-CN>
 		<pt-BR>As calamidades acontecerão tardiamente e com menos frequência</pt-BR>
 		<ko>재난이 게임 후반에 발생하며 빈도가 낮음</ko>
+		<fixja>自然災害はゲームの後半に発生し、その頻度は低い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_NORMAL</zType>
@@ -78,6 +83,7 @@
 		<zh-CN>预设</zh-CN>
 		<pt-BR>Padrão</pt-BR>
 		<ko>기본값</ko>
+		<fixja>標準</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_NORMAL_HELP</zType>
@@ -91,6 +97,7 @@
 		<zh-CN>自然灾害的情况较为平衡。</zh-CN>
 		<pt-BR>A quantidade de calamidades será equilibrada</pt-BR>
 		<ko>균형 있는 수준의 재난이 발생함</ko>
+		<fixja>自然災害はゲーム全体を通してバランスよく発生する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_HIGH</zType>
@@ -104,6 +111,7 @@
 		<zh-CN>普遍</zh-CN>
 		<pt-BR>Comum</pt-BR>
 		<ko>흔한 빈도</ko>
+		<fixja>多い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_HIGH_HELP</zType>
@@ -117,6 +125,7 @@
 		<zh-CN>自然灾害会在游戏前期发生，而且发生的频率也会提高</zh-CN>
 		<pt-BR>As calamidades acontecerão logo em jogo e com mais frequência</pt-BR>
 		<ko>재난이 게임 초반에 발생하며 빈도가 높음</ko>
+		<fixja>自然災害は序盤より発生し、頻度は高い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_VERY_HIGH</zType>
@@ -130,6 +139,7 @@
 		<zh-CN>极普遍</zh-CN>
 		<pt-BR>Muito Comum</pt-BR>
 		<ko>매우 흔한 빈도</ko>
+		<fixja>非常に多い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCCURRENCELEVEL_CALAMITIES_VERY_HIGH_HELP</zType>
@@ -143,5 +153,6 @@
 		<zh-CN>自然灾害会在游戏大前期发生，而且发生的频率也会大大提高</zh-CN>
 		<pt-BR>As calamidades acontecerão prontamente em jogo e com muito mais frequência</pt-BR>
 		<ko>재난이 게임 극초반에 발생하며 빈도가 매우 높음</ko>
+		<fixja>災害は最序盤より発生し、その頻度は非常に高い</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>山脉坍塌</zh-CN>
 		<pt-BR>Montanha Desmoronante</pt-BR>
 		<ko>무너지는 산</ko>
+		<fixja>崩壊する山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_TUMBLING_MOUNTAINS</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>山脉坍塌</zh-CN>
 		<pt-BR>Montanhas Desmoronantes</pt-BR>
 		<ko>무너지는 산맥</ko>
+		<fixja>崩壊する山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_TUMBLING_MOUNTAIN</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>一系列陆地区域，由不可通行的山脉隔开。经过一定数量的回合之后，山脉就会变成可以通行的丘陵。{br}{br}在多人游戏中，此选项会较为平衡，支持团队模式或混战模式。</zh-CN>
 		<pt-BR>Uma série de regiões de terra separadas por montanhas instransponíveis. Após uma determinada quantidade de turnos, as montanhas se tornarão colinas que permitem a passagem.{br}{br}Equilibrado para divisão entre equipes ou todos contra todos em partidas multijogador.</pt-BR>
 		<ko>통과할 수 없는 산맥으로 분리된 일련의 지역입니다. 지정된 턴 이후 산맥이 언덕으로 평평해지면서 통과할 수 있게 됩니다.{br}{br}멀티 플레이 협력 게임이나 데스 매치를 지원하기 위해 밸런스를 설정했습니다.</ko>
+		<fixja>通行不能な山によって隔てられたいくつかの土地からなるマップです。一定のターン数が経過すると山脈の一部は通行可能な丘陵に変化します。{br}{br}マルチプレイヤーゲームで、チームまたはフリーフォーオールのいずれにも対応できるように調整されています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_MULTI_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>分界山脉稳定性</zh-CN>
 		<pt-BR>Estabilidade de divisão das montanhas</pt-BR>
 		<ko>분리 산맥의 안정성</ko>
+		<fixja>山脈による隔離の持続性</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_SHORT</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>短（60 回合）</zh-CN>
 		<pt-BR>Curta (60 turnos)</pt-BR>
 		<ko>짧음 (60턴)</ko>
+		<fixja>短い (60ターン)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_SHORT_HELP</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>link(HEIGHT_MOUNTAIN)图块会将地图上的区域划分为几个部分，这些图块会在第 60 回合变成link(HEIGHT_HILL)。</zh-CN>
 		<pt-BR>As casas de link(HEIGHT_MOUNTAIN) que dividem as regiões do mapa se tornarão casas de link(HEIGHT_HILL) no turno 60.</pt-BR>
 		<ko>60번째 턴에서 지도의 지역을 분리하는 link(HEIGHT_MOUNTAIN) 타일이 link(HEIGHT_HILL) 타일로 바뀝니다.</ko>
+		<fixja>マップを複数の地域に分けているlink(HEIGHT_MOUNTAIN)は60ターン目にlink(HEIGHT_HILL)に変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_MEDIUM</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>中（80 回合）</zh-CN>
 		<pt-BR>Média (80 turnos)</pt-BR>
 		<ko>중간 (80턴)</ko>
+		<fixja>標準 (80ターン)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_MEDIUM_HELP</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>link(HEIGHT_MOUNTAIN)图块会将地图上的区域划分为几个部分，这些图块会在第 80 回合变成link(HEIGHT_HILL)。</zh-CN>
 		<pt-BR>As casas de link(HEIGHT_MOUNTAIN) que dividem as regiões do mapa se tornarão casas de link(HEIGHT_HILL) no turno 80.</pt-BR>
 		<ko>80번째 턴에서 지도의 지역을 분리하는 link(HEIGHT_MOUNTAIN) 타일이 link(HEIGHT_HILL) 타일로 바뀝니다.</ko>
+		<fixja>マップを複数の地域に分けているlink(HEIGHT_MOUNTAIN)は80ターン目にlink(HEIGHT_HILL)に変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_LONG</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>长（100 回合）</zh-CN>
 		<pt-BR>Longa (100 turnos)</pt-BR>
 		<ko>긺 (100턴)</ko>
+		<fixja>長い (100ターン)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_LONG_HELP</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>link(HEIGHT_MOUNTAIN)图块会将地图上的区域划分为几个部分，这些图块会在第 100 回合变成link(HEIGHT_HILL)。</zh-CN>
 		<pt-BR>As casas de link(HEIGHT_MOUNTAIN) que dividem as regiões do mapa se tornarão casas de link(HEIGHT_HILL) no turno 100.</pt-BR>
 		<ko>100번째 턴에서 지도의 지역을 분리하는 link(HEIGHT_MOUNTAIN) 타일이 link(HEIGHT_HILL) 타일로 바뀝니다.</ko>
+		<fixja>マップを複数の地域に分けているlink(HEIGHT_MOUNTAIN)は100ターン目にlink(HEIGHT_HILL)に変化します。す。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_GRADUAL</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>逐渐变化</zh-CN>
 		<pt-BR>Gradual</pt-BR>
 		<ko>점진적</ko>
+		<fixja>段階的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_GRADUAL_HELP</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>link(HEIGHT_MOUNTAIN)图块会将地图上的区域划分为几个部分，从第 20 回合开始，这些图块会逐渐变成link(HEIGHT_HILL)，每回合都会改变一点点。</zh-CN>
 		<pt-BR>A partir do turno 20, as casas de link(HEIGHT_MOUNTAIN) que dividem as regiões do mapa se tornarão casas de link(HEIGHT_HILL) gradualmente a cada turno.</pt-BR>
 		<ko>20번째 턴부터 점진적으로 지도의 지역을 분리하는 link(HEIGHT_MOUNTAIN) 타일이 매 턴에 몇 개씩 link(HEIGHT_HILL) 타일로 바뀝니다.</ko>
+		<fixja>20ターン目以降、徐々にマップを複数の地域に分けているlink(HEIGHT_MOUNTAIN)がlink(HEIGHT_HILL)に変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_NEVER</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>从不变化</zh-CN>
 		<pt-BR>Nunca</pt-BR>
 		<ko>없음</ko>
+		<fixja>永続</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_TUMBLING_MOUNTAIN_OPTIONS_TIME_NEVER_HELP</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>地图上的区域会始终被不可逾越的link(HEIGHT_MOUNTAIN)图块划分为几个部分，国与国之间不会发生战斗。</zh-CN>
 		<pt-BR>As regiões do mapa permanecerão separadas pelas casas de link(HEIGHT_MOUNTAIN) intransponíveis. Não haverá combate entre nações.</pt-BR>
 		<ko>지도의 지역은 통과할 수 없는 link(HEIGHT_MOUNTAIN) 타일로 계속 분리됩니다. 국가 대 국가 전투가 발생하지 않습니다.</ko>
+		<fixja>マップを複数の地域に分けているlink(HEIGHT_MOUNTAIN)は最後まで通行不能なままです。国家間の戦闘は発生しません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_EBBING_SEA</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>退潮之海</zh-CN>
 		<pt-BR>Mar em Baixa</pt-BR>
 		<ko>물이 빠지는 바다</ko>
+		<fixja>引き潮</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_EBBING_SEA</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>海岸线慢慢退去，就会显露出一系列岛屿。这张地图上没有水资源，但是干涸的海洋图块上会出现一些新的资源。</zh-CN>
 		<pt-BR>Uma série de ilhas em meio a um mar que recua lentamente da linha costeira. Não há recursos de água neste mapa, mas alguns novos recursos aparecerão nas novas casas secas no oceano.</pt-BR>
 		<ko>바다의 섬들이 해안에서 조금씩 멀어집니다. 이 지도에는 수자원이 없지만 말라버린 바다 타일에 새로운 자원이 나타납니다.</ko>
+		<fixja>海岸線が徐々に交代していく海に浮かんだ複数の島からなるマップです。このマップには海上資源は存在しませんが、干上がった海のタイルに新たな資源が出現します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_MULTI_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>水域消退</zh-CN>
 		<pt-BR>Recessão da água</pt-BR>
 		<ko>물이 줄어드는 속도</ko>
+		<fixja>引き潮の速度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION_SLOW</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>慢速</zh-CN>
 		<pt-BR>Lenta</pt-BR>
 		<ko>느림</ko>
+		<fixja>遅い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION_SLOW_HELP</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>沿海水域图块每回合都有 1% 的几率变成link(TERRAIN_ARID)地形</zh-CN>
 		<pt-BR>As casas de água litorânea têm 1% de chance a cada turno de se transformarem em terreno link(TERRAIN_ARID)</pt-BR>
 		<ko>해안 수역 타일이 1%의 확률로 link(TERRAIN_ARID) 지형으로 바뀔 수 있습니다.</ko>
+		<fixja>沿岸タイルは毎ターン、1%の確率でlink(TERRAIN_ARID)地形に変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION_MEDIUM</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>中等</zh-CN>
 		<pt-BR>Média</pt-BR>
 		<ko>중간</ko>
+		<fixja>標準</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION_MEDIUM_HELP</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>沿海水域图块每回合都有 2% 的几率变成link(TERRAIN_ARID)地形</zh-CN>
 		<pt-BR>As casas de água litorânea têm 2% de chance a cada turno de se transformarem em terreno link(TERRAIN_ARID)</pt-BR>
 		<ko>해안 수역 타일이 2%의 확률로 link(TERRAIN_ARID) 지형으로 바뀔 수 있습니다.</ko>
+		<fixja>沿岸タイルは毎ターン、2%の確率でlink(TERRAIN_ARID)地形に変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION_FAST</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>快速</zh-CN>
 		<pt-BR>Rápida</pt-BR>
 		<ko>빠름</ko>
+		<fixja>早い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_EBBING_SEA_OPTIONS_EVAPORATION_FAST_HELP</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>沿海水域图块每回合都有 3% 的几率变成link(TERRAIN_ARID)地形</zh-CN>
 		<pt-BR>As casas de água litorânea têm 3% de chance a cada turno de se transformarem em terreno link(TERRAIN_ARID)</pt-BR>
 		<ko>해안 수역 타일이 3%의 확률로 link(TERRAIN_ARID) 지형으로 바뀔 수 있습니다.</ko>
+		<fixja>沿岸タイルは毎ターン、3%の確率でlink(TERRAIN_ARID)地形に変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_NAME_DESOLATION</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>荒地</zh-CN>
 		<pt-BR>Desolação</pt-BR>
 		<ko>황폐화</ko>
+		<fixja>荒廃</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_HELP_DESOLATION</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>土地肥沃，但沙漠会慢慢扩张。</zh-CN>
 		<pt-BR>Terras férteis com desertos que crescem com o passar do tempo.</pt-BR>
 		<ko>시간에 따라 확장하는 사막이 있는 비옥한 땅입니다.</ko>
+		<fixja>肥沃な土地と、時間経過とともに広がっていく砂漠。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_MULTI_CALAMITIES_DESOLATION_OPTIONS_DESOLATION</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>沙漠扩张</zh-CN>
 		<pt-BR>Deserto em expansão</pt-BR>
 		<ko>사막 확장</ko>
+		<fixja>砂漠の拡張</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_DESOLATION_OPTIONS_DESOLATION_SLOW</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>慢速</zh-CN>
 		<pt-BR>Lenta</pt-BR>
 		<ko>느림</ko>
+		<fixja>遅い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_DESOLATION_OPTIONS_DESOLATION_MEDIUM</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>中等</zh-CN>
 		<pt-BR>Média</pt-BR>
 		<ko>중간</ko>
+		<fixja>標準</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_DESOLATION_OPTIONS_DESOLATION_FAST</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>快速</zh-CN>
 		<pt-BR>Rápida</pt-BR>
 		<ko>빠름</ko>
+		<fixja>早い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_DESOLATION_OPTIONS_DESOLATION_SLOW_HELP</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>邻近沙漠的图块每回合都有 5% 的几率变得更加干旱</zh-CN>
 		<pt-BR>As casas adjacentes a casas de deserto têm 5% de chance a cada turno de ficarem mais áridas</pt-BR>
 		<ko>사막과 인접한 타일이 턴마다 5%의 확률로 더 건조해집니다.</ko>
+		<fixja>砂漠に隣接するタイルは毎ターン、5%の確率でより乾燥した地形に変化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_DESOLATION_OPTIONS_DESOLATION_MEDIUM_HELP</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>邻近沙漠的图块每回合都有 10% 的几率变得更加干旱</zh-CN>
 		<pt-BR>As casas adjacentes a casas de deserto têm 10% de chance a cada turno de ficarem mais áridas</pt-BR>
 		<ko>사막과 인접한 타일이 턴마다 10%의 확률로 더 건조해집니다.</ko>
+		<fixja>砂漠に隣接するタイルは毎ターン、10%の確率でより乾燥した地形に変化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CALAMITIES_DESOLATION_OPTIONS_DESOLATION_FAST_HELP</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>邻近沙漠的图块每回合都有 20% 的几率变得更加干旱</zh-CN>
 		<pt-BR>As casas adjacentes a casas de deserto têm 20% de chance a cada turno de ficarem mais áridas</pt-BR>
 		<ko>사막과 인접한 타일이 턴마다 20%의 확률로 더 건조해집니다.</ko>
+		<fixja>砂漠に隣接するタイルは毎ターン、20%の確率でより乾燥した地形に変化する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_RANDOM</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_START_ANY</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>任一地点</zh-CN>
 		<pt-BR>Qualquer lugar</pt-BR>
 		<ko>임의 지점</ko>
+		<fixja>任意の場所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_START_ANY_HELP</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>从任一地点开始</zh-CN>
 		<pt-BR>Comece em qualquer lugar</pt-BR>
 		<ko>임의 지점에서 시작합니다.</ko>
+		<fixja>任意の場所から開始</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_START_COAST</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>沿海</zh-CN>
 		<pt-BR>Litoral</pt-BR>
 		<ko>해안가</ko>
+		<fixja>沿岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_START_INLAND</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>内陆</zh-CN>
 		<pt-BR>Interior</pt-BR>
 		<ko>내륙</ko>
+		<fixja>内陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_REJUVENATION_COAST</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>水域</zh-CN>
 		<pt-BR>Água</pt-BR>
 		<ko>물</ko>
+		<fixja>水</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_NONE</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>无海岸</zh-CN>
 		<pt-BR>Nenhum</pt-BR>
 		<ko>없음</ko>
+		<fixja>なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_DRY</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>干燥海岸</zh-CN>
 		<pt-BR>Litoral Seco</pt-BR>
 		<ko>건조 해안</ko>
+		<fixja>乾燥した海岸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_DRY_HELP</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>该地图有一个海岸，类似于海滨地图脚本。</zh-CN>
 		<pt-BR>O mapa tem uma costa. É similar ao script do mapa Costeiro.</pt-BR>
 		<ko>해변 맵 스크립트와 비슷한 해안이 있는 맵입니다.</ko>
+		<fixja>マップに海岸がある（「海辺」のマップスクリプトと類似）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_START_COAST_HELP</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>从临近海洋开始（如果游玩时没有水域则没有影响）</zh-CN>
 		<pt-BR>Comece perto da água salgada (não tem efeito se o mapa não tiver água)</pt-BR>
 		<ko>바다 가까이에서 시작합니다. (물 없이 플레이하면 적용되지 않는 설정입니다)</ko>
+		<fixja>海水に隣接した状態でスタート（海水なしでのプレイでは影響なし）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_REJUVENATION_START_INLAND_HELP</zType>
@@ -572,5 +614,6 @@
 		<zh-CN>从远离海岸的地方开始（如果游玩时没有水域则没有影响）</zh-CN>
 		<pt-BR>Comece longe do litoral (não tem efeito se o mapa não tiver água)</pt-BR>
 		<ko>해안가가 아닌 곳에서 시작합니다. (물 없이 플레이하면 적용되지 않는 설정입니다)</ko>
+		<fixja>海岸から離れてスタートする（海水なしでのプレイでは影響なし）</fixja>
 	</Entry>
 </Root>

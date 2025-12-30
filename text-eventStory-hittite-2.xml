@@ -136,6 +136,18 @@
 <p=SUBJECT_PLAYER_HITTITE>물려받았습니다. {TITLE-0}에 추대된 {G0:그:그녀}는 {PLAYER-0,1}의 고토에 대한 자신의 권리를 선포했습니다. 폭풍의 자식으로 알려진 이 새로운 지도자는 경계해야 할 세력이라고 할 수 있습니다.
 <else>물려받았습니다. {G0:그:그녀}에게는 강력한 (을)를 새로운 시대로 이끌 권한이 주어졌습니다.
 <end>]]></ko>
+		<fixja><![CDATA[国外から、あなたの<p.is_sub.S0=SUBJECT_CHARACTER_FRIENDLY>友人<p=SUBJECT_CHARACTER_MAX_ANGRY>敵<else>統治者の仲間<end>である{CHARACTER-1}が、{random_R0:不満を持った助言者に暗殺されて:自国の指導者に暗殺されて:嫉妬深い恋人の怒りを買って:正体不明の襲撃隊にやられて:外国の暗殺者に突然襲われて:急病に倒れ:暴走する戦車に轢かれて:軍事訓練中の失敗によって:最終的に悪化した負傷に蝕まれ:行方不明になってから数週間後に{random_R1:井戸の中で:谷底で:バラバラになって:乱暴に樽に入れられた状態で:浅く掘った墓に急いで埋められた状態で:猟師が狩った巨大な猪の体の中で:一部が食べられた状態で:明らかに拷問を受けた状態で}見つかり:反逆する司令官の派閥に倒れ:貴族の指導者との名誉をかけた決闘で敗れて:首都で暴徒に押しつぶされて:落馬による即死で:謎の病との闘病の末:狩りの最中に獰猛な動物に引き裂かれて:王室の護衛に激しく裏切られて:激しい後継者争いの最中に殺害されて:激しい後継者争いの末に殺害されて:バーバリアンの襲撃への抗戦の最中に}死んだという知らせが届いた。
+
+{CHARACTER-0}は、{PLAYER-0}<p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>の統治を行うため地位を上げ、{CHARACTER-SHORT-1}と{G1:彼:彼女}の家臣が結んだ継承契約に従って{G0:王:女王}に任命された。まもなく{PLAYER-0}全土で{CHARACTER-SHORT-0}の力と権力を示す碑文の作成が依頼される。
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:彼:彼女}は{CITY-0}の司祭によって聖別され、他の誰よりも優れた{G0:王:女王}に任命された。まもなく{PLAYER-4}全土で{CHARACTER-SHORT-0}の保護と敬虔さを示す碑文が掲げられる。
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:彼:彼女}は{CHARACTER-SHORT-1}の後を継ぐ{G0:王:女王}としての務めを果たすため貴族院により選出され、{PLAYER-0}の民と元老院を新しい時代へ導くこととなる。
+<p=SUBJECT_PLAYER_EGYPT>{G0:彼:彼女}はファラオとして初めて登場することとなる伝統的な祝宴を即座に開き、{PLAYER-4}の新しいファラオとしての{G0:彼:彼女}の役割を確かなものとする、1年間の一連の儀式と催しの開始とした。
+<p=SUBJECT_PLAYER_GREECE>{G0:彼:彼女}は{CHARACTER-SHORT-1}の死後、直ちに貴族と司令官たちによって{G0:王:女王}であると宣言された。王位が約束された{CHARACTER-SHORT-0}は、{PLAYER-4}の人々を導く準備ができている。
+<p=SUBJECT_PLAYER_PERSIA>{G0:彼:彼女}は{CITY-4}の神殿に入り、かつては{CHARACTER-SHORT-1}が着ていたローブに着替えた。イチジクとサワーミルクでの儀式的食事の後、{CHARACTER-SHORT-0}は{PLAYER-4}の{G0:王:女王}という新しい称号を手に入れた。
+<p=SUBJECT_PLAYER_ROME>{G0:彼:彼女}は強大な{PLAYER-0}を率いる権限を与えられ、12人のリクトル護衛兵という伝統的な従者を従えることとなった。彼らは、{CHARACTER-SHORT-0}が新しい指導者の座につくための道を切り開く。
+<p=SUBJECT_PLAYER_HITTITE>{G0:彼:彼女}は{TITLE-0}に任命され、{PLAYER-0,1}の先祖代々の土地に対する{G0:彼の:彼女の}権利を宣言している。嵐の神の子として名高いこの新しい支配者は警戒すべき勢力と言えるだろう。
+<else>{G0:彼:彼女}は、強大な{PLAYER-0}を新時代に導く力を授かった。
+<end>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED</zType>
@@ -259,6 +271,18 @@ An {G1:seiner:ihrer} Stelle regiert nun {CHARACTER-0} aus {PLAYER-0}. <p.is_sub.
 <p=SUBJECT_PLAYER_HITTITE>{TITLE-0}에 추대된 {G0:그:그녀}는 {PLAYER-0,1}의 고토에 대한 자신의 권리를 선포했습니다. 폭풍의 자식으로 알려진 이 새로운 지도자는 경계해야 할 세력이라고 할 수 있습니다.
 <else>{G0:그:그녀}에게는 강력한 {PLAYER-0}(을)를 새로운 시대로 이끌 권한이 주어졌습니다.
 <end>]]></ko>
+		<fixja><![CDATA[国外から知らせが舞い込んでくる。意外な動向だが、{CHARACTER-1}が{PLAYER-0}の指導者から退いたのだ。
+
+{G1:彼:彼女}の代わりに{CHARACTER-0}が{PLAYER-0}を支配するために地位をあげた。<p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0}は{CHARACTER-SHORT-1}と{G1:彼:彼女}の家臣が結んだ継承契約に従って{G0:王:女王}に任命された。まもなく{PLAYER-0}全土で{CHARACTER-SHORT-0}の力と権力を示す碑文の作成が依頼される。
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:彼:彼女}は{CITY-0}の司祭によって聖別され、他の誰よりも優れた{G0:王:女王}に任命された。まもなく{PLAYER-0}全土で{CHARACTER-SHORT-0}の保護と敬虔さを示す碑文が掲げられる。
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:彼:彼女}は{CHARACTER-SHORT-1}の後を継ぐ{G0:王:女王}としての務めを果たすため貴族院により選出され、{PLAYER-0}の民と元老院を新しい時代へ導くこととなる。
+<p=SUBJECT_PLAYER_EGYPT>{G0:彼:彼女}はファラオとして初めて登場することとなる伝統的な祝宴を即座に開き、{PLAYER-0}の新しいファラオとしての{G0:彼:彼女}の役割を確かなものとする、1年間の一連の儀式と催しの開始とした。
+<p=SUBJECT_PLAYER_GREECE>{G0:彼:彼女}は{CHARACTER-SHORT-1}の退位後、直ちに貴族と司令官たちによって{G0:王:女王}であると宣言された。王位が約束された{CHARACTER-SHORT-0}は、{PLAYER-0}の人々を導く準備ができている。
+<p=SUBJECT_PLAYER_PERSIA>{G0:彼:彼女}は{CITY-0}の神殿に入り、かつては{CHARACTER-SHORT-1}が着ていたローブに着替えた。イチジクとサワーミルクでの儀式的食事の後、{CHARACTER-SHORT-0}は{PLAYER-0}の{G0:王:女王}という新しい称号を手に入れた。
+<p=SUBJECT_PLAYER_ROME>{G0:彼:彼女}は強大な{PLAYER-0}を率いる権限を与えられ、12人のリクトル護衛兵という伝統的な従者を従えることとなった。彼らは、{CHARACTER-SHORT-0}が新しい指導者の座につくための道を切り開く。
+<p=SUBJECT_PLAYER_HITTITE>{G0:彼:彼女}は{TITLE-0}に任命され、{PLAYER-0,1}の先祖代々の土地に対する{G0:彼の:彼女の}権利を宣言している。嵐の神の子として名高いこの新しい支配者は警戒すべき勢力と言えるだろう。
+<else>{G0:彼:彼女}は、強大な{PLAYER-0}を新時代に導く力を授かった。
+<end>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED_WAR</zType>
@@ -383,6 +407,18 @@ An {G1:seiner:ihrer} Stelle regiert nun {CHARACTER-0} aus {PLAYER-0}. <p.is_sub.
 <p=SUBJECT_PLAYER_HITTITE>{TITLE-0}에 추대된 {G0:그:그녀}는 {PLAYER-0,1}의 고토에 대한 자신의 권리를 선포했습니다. 폭풍의 자식으로 알려진 이 새로운 지도자는 경계해야 할 세력이라고 할 수 있습니다.
 <else>{G0:그:그녀}에게는 강력한 {PLAYER-0}(을)를 새로운 시대로 이끌 권한이 주어졌습니다.
 <end>]]></ko>
+		<fixja><![CDATA[国外から知らせが舞い込んでくる。臆病な{CHARACTER-1}が{PLAYER-0}の指導者から退いたのだ。どうやら{G1:彼:彼女}は我々とのlink(DIPLOMACY_WAR)の緊張に耐えることができなかったようだ！
+
+{G1:彼:彼女}の代わりに、同じくらい卑劣な後継者である{CHARACTER-SHORT-0}が{PLAYER-0}を統治するために地位をあげた。<p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0}は{CHARACTER-SHORT-1}と{G1:彼:彼女}の家臣が結んだ継承契約に従って{G0:王:女王}に任命された。まもなく{PLAYER-0}全土で、強く主張されている{CHARACTER-SHORT-0}の力と権力を示す碑文の作成が依頼される。
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:彼:彼女}は{CITY-0}の司祭によって聖別され、他の誰よりも優れた{G0:王:女王}に任命された。{CHARACTER-SHORT-0}の守護と敬虔さを謳う怪しい碑文が、{PLAYER-0}の随所に建てられている。
+{PLAYER-0}全土で{CHARACTER-SHORT-0}の保護と敬虔さを示すものの、真偽が定かでない碑文が掲げられる。<p=SUBJECT_PLAYER_CARTHAGE>{G0:彼:彼女}は{CHARACTER-SHORT-1}の跡を継ぐ{G0:王:女王}としての務めを果たすため貴族院により選出され、民と{PLAYER-0}の元老院を率い、{PLAYER-2}との無益な抗争を繰り広げることとなった。
+<p=SUBJECT_PLAYER_EGYPT>{CHARACTER-SHORT-0}はファラオとして初めて登場することとなる伝統的な祝宴を即座に開き、{PLAYER-0}の新しいファラオとしての{G0:彼:彼女}の役割を確かなものとする1年間の一連の儀式と催しの開始とした。我らが栄光の軍勢により、{G0:彼:彼女}の支配が断ち切られんことを！
+<p=SUBJECT_PLAYER_GREECE>{G0:彼:彼女}は{CHARACTER-SHORT-1}の退位後、直ちに貴族と司令官たちによって{G0:王:女王}であると宣言された。王位が約束された{CHARACTER-SHORT-0}は、{PLAYER-0}の人々を率いて{PLAYER-2}と戦う準備ができている。
+<p=SUBJECT_PLAYER_PERSIA>{CHARACTER-SHORT-0}は{CITY-0}の神殿に入り、かつては{CHARACTER-SHORT-1}が着ていたローブに着替えた。イチジクとサワーミルクでの儀式的食事の後、{CHARACTER-SHORT-0}は{PLAYER-0}の{G0:王:女王}という新しい称号を手に入れた。尊敬に値する敵なのか、それとも偉大な親から生まれた出来損ないの{G0:息子:娘}なのか？
+<p=SUBJECT_PLAYER_ROME>{CHARACTER-SHORT-0} は{PLAYER-0}を率いる権限を与えられ、12人のリクトル護衛兵という伝統的な従者を従えることとなった。彼らは、{G0:彼:彼女}が新しい指導者の座につくための道を切り開く。間違いなく、この狂人は前任者と同じくらい残忍になるだろう。
+<p=SUBJECT_PLAYER_HITTITE>{G0:彼:彼女}は{TITLE-0}に任命され、{PLAYER-0,1}の先祖代々の土地に対する{G0:彼の:彼女の}権利を宣言している。嵐の神の子として名高いこの新しい支配者は警戒すべき勢力と言えるだろう。
+<else>{G0:彼:彼女}は、強大な{PLAYER-0}を新時代に導く力を授かった。
+<end>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOST_IN_TRANSLATION</zType>
@@ -436,6 +472,11 @@ Parece que houve um problema na tradução e que o contrato diz coisas diferente
 부유한 {PLAYER-1,1}(은)는 {PLAYER-2}의 토지와 소를 구매했으며, 양쪽 다 계약서에 서명하고 날인했습니다. 구매 측은 {S1.LANGUAGE}로 된 계약서에 따라 수소와 암소를 받아야 하지만, 받은 것은 수소뿐이라고 합니다. 판매 측인 {PLAYER-2,1}의 말에 따르면 자신의 {S2.LANGUAGE}로 된 계약서 사본에는 수컷 소만 명시되어 있다고 합니다.
 
 아무래도 번역 문제가 생겨 언어마다 서로 다른 계약 내용이 적힌 것으로 보입니다!</ko>
+		<fixja>{PLAYER-1}と{PLAYER-2}が、我々に契約上の紛争の和解を申し込んできた。
+
+裕福な{PLAYER-1,1}が{PLAYER-2}で土地と牛を購入した。その際、両者の印が押された契約書が交わされた。契約書には{S1.LANGUAGE}で雄牛と雌牛と記されていたにも関わらず、買い手は雄牛しか手に入れることができなかった。{PLAYER-2,1}の売り手は、{S2.LANGUAGE}の契約書の写しには、はっきりと雄牛のみだと書かれていると言う。
+
+翻訳に問題があったのだろう。異なる言語の契約書にはそれぞれ別の内容が書かれているようだ！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FUEL_FOR_THE_FIRES</zType>
@@ -469,5 +510,8 @@ El cabeza de familia, {CHARACTER-2}, se ha presentado ante ti, afirmando que los
 		<ko><![CDATA[{FAMILY-0} 가문은 {RELIGION-1}의 충실한 숭배자로, 때때로 <p.is_sub.S3=SUBJECT_PLAYER_ROME>유피테르<p=SUBJECT_PLAYER_EGYPT>라<p=SUBJECT_PLAYER_GREECE>제우스<p=SUBJECT_PLAYER_PERSIA>아타르<p=SUBJECT_PLAYER_ASSYRIA>아슈르<p=SUBJECT_PLAYER_BABYLONIA>이슈타르<p=SUBJECT_PLAYER_CARTHAGE>멜카르트<p=SUBJECT_PLAYER_HITTITE>아린니티<else>신들<end>의 호의를 청합니다.
 
 가문의 수장인 {CHARACTER-2}(이)가 당신에게 다가와서는 신들이 {PLAYER-3}의 헌신을 요구했다고 합니다. 어떤 명령을 내리시겠습니까?]]></ko>
+		<fixja><![CDATA[{FAMILY-0}氏族は{RELIGION-1}の熱心な崇拝者であり、しばしば<p.is_sub.S3=SUBJECT_PLAYER_ROME>ユピテル<p=SUBJECT_PLAYER_EGYPT>ラー<p=SUBJECT_PLAYER_GREECE>ゼウス<p=SUBJECT_PLAYER_PERSIA>アータル<p=SUBJECT_PLAYER_ASSYRIA>アッシュル<p=SUBJECT_PLAYER_BABYLONIA>イシュタル<p=SUBJECT_PLAYER_CARTHAGE>メルカート<p=SUBJECT_PLAYER_HITTITE>アリンニティ<else>神々<end>の恩恵を求めている。
+
+氏族の長である{CHARACTER-2}があなたの前に現れ、神々は{PLAYER-3}の民が信仰を示すことを望んでおられる、と言う。なんと命令しようか？]]></fixja>
 	</Entry>
 </Root>

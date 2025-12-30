@@ -26,6 +26,7 @@
 		<zh-CN>Mohawk Games 人才招募中！</zh-CN>
 		<pt-BR>A Mohawk Games está contratando!</pt-BR>
 		<ko>Mohawk Games 직원 채용 중!</ko>
+		<fixja>Mohawk Gamesは人材を募集しています！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRIBE_ADJECTIVE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>{0,1_TribeAdjective}</zh-CN>
 		<pt-BR>{0,1_TribeAdjective}</pt-BR>
 		<ko>{0,1_TribeAdjective}</ko>
+		<fixja>{0,1_TribeAdjective}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRIBE_SITE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>{0,1_TribeAdjective}据点</zh-CN>
 		<pt-BR>Local {0,1_TribeAdjective}</pt-BR>
 		<ko>{0,1_TribeAdjective} 부지</ko>
+		<fixja>{0,1_TribeAdjective}拠点</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_SITE</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>{0,1_NationAdjective}据点</zh-CN>
 		<pt-BR>Local {0,1_NationAdjective}</pt-BR>
 		<ko>{0,1_NationAdjective} 부지</ko>
+		<fixja>{0,1_NationAdjective}拠点</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAYER_NUMBER</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>玩家{0_number}</zh-CN>
 		<pt-BR>Jogador {0_number}</pt-BR>
 		<ko>플레이어 {0_number}</ko>
+		<fixja>プレイヤー {0_number}</fixja>
 	</Entry>
 	<!-- HotKeys -->
 	<Entry>
@@ -92,6 +97,7 @@
 		<zh-CN>{0_key} + {1_key}</zh-CN>
 		<pt-BR>{0_key} + {1_key}</pt-BR>
 		<ko>{0_key} + {1_key}</ko>
+		<fixja>{0_key} + {1_key}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>{0_key}+{1_key}</zh-CN>
 		<pt-BR>{0_key}+{1_key}</pt-BR>
 		<ko>{0_key}+{1_key}</ko>
+		<fixja>{0_key}+{1_key}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_LEFT_CLICK</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>[点击左键]</zh-CN>
 		<pt-BR>[CLIQUE ESQUERDO]</pt-BR>
 		<ko>[왼쪽 클릭]</ko>
+		<fixja>[左クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>[点击右键]</zh-CN>
 		<pt-BR>[CLIQUE DIREITO]</pt-BR>
 		<ko>[오른쪽 클릭]</ko>
+		<fixja>[右クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>[CTRL+点击]</zh-CN>
 		<pt-BR>[CTRL+CLIQUE]</pt-BR>
 		<ko>[CTRL+클릭]</ko>
+		<fixja>[CTRLキー+クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL_RIGHT_CLICK</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>[CTRL+点击右键]</zh-CN>
 		<pt-BR>[CTRL+CLIQUE DIREITO]</pt-BR>
 		<ko>[CTRL+오른쪽 클릭]</ko>
+		<fixja>[CTRLキー+右クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>[SHIFT+点击]</zh-CN>
 		<pt-BR>[SHIFT+CLIQUE]</pt-BR>
 		<ko>[SHIFT+클릭]</ko>
+		<fixja>[SHIFTキー+クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>[CTRL+SHIFT+点击]</zh-CN>
 		<pt-BR>[CTRL+SHIFT+CLIQUE]</pt-BR>
 		<ko>[CTRL+SHIFT+클릭]</ko>
+		<fixja>[CTRLキー+SHIFTキー+クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_SHIFT</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>[SHIFT]</zh-CN>
 		<pt-BR>[SHIFT]</pt-BR>
 		<ko>[SHIFT]</ko>
+		<fixja>[SHIFTキー]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>[CTRL]</zh-CN>
 		<pt-BR>[CTRL]</pt-BR>
 		<ko>[CTRL]</ko>
+		<fixja>[CTRLキー]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_ALT</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>[ALT]</zh-CN>
 		<pt-BR>[ALT]</pt-BR>
 		<ko>[ALT]</ko>
+		<fixja>[Altキー]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_ALT_CLICK</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>[ALT+点击]</zh-CN>
 		<pt-BR>[ALT+CLIQUE]</pt-BR>
 		<ko>[ALT+클릭]</ko>
+		<fixja>[ALTキー+クリック]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_F1</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>[F1]</zh-CN>
 		<pt-BR>[F1]</pt-BR>
 		<ko>[F1]</ko>
+		<fixja>[F1キー]</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>资源密度</zh-CN>
 		<pt-BR>Densidade de recursos</pt-BR>
 		<ko>자원 밀도</ko>
+		<fixja>資源密度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
@@ -274,6 +293,7 @@
 		<zh-CN>镜像地图</zh-CN>
 		<pt-BR>Mapa espelhado</pt-BR>
 		<ko>대칭 맵</ko>
+		<fixja>ミラーマップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
@@ -287,6 +307,7 @@
 		<zh-CN>资源</zh-CN>
 		<pt-BR>Recursos</pt-BR>
 		<ko>자원</ko>
+		<fixja>資源</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
@@ -300,6 +321,7 @@
 		<zh-CN>水域范围</zh-CN>
 		<pt-BR>Tamanho da água</pt-BR>
 		<ko>수역 크기</ko>
+		<fixja>水域のサイズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
@@ -313,6 +335,7 @@
 		<zh-CN>水域位置</zh-CN>
 		<pt-BR>Posição da água</pt-BR>
 		<ko>수역 위치</ko>
+		<fixja>水域の位置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
@@ -326,6 +349,7 @@
 		<zh-CN>玩家开始位置</zh-CN>
 		<pt-BR>Posição inicial do jogador</pt-BR>
 		<ko>플레이어 시작 위치</ko>
+		<fixja>プレイヤーの開始位置</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_DESERT_SIZE</zType>
@@ -339,6 +363,7 @@
 		<zh-CN>沙漠尺寸</zh-CN>
 		<pt-BR>Tamanho do deserto</pt-BR>
 		<ko>사막 크기</ko>
+		<fixja>砂漠のサイズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TRIBES</zType>
@@ -352,6 +377,7 @@
 		<zh-CN>部落</zh-CN>
 		<pt-BR>Tribos</pt-BR>
 		<ko>부족</ko>
+		<fixja>部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
@@ -365,6 +391,7 @@
 		<zh-CN>地形变化</zh-CN>
 		<pt-BR>Variação de terreno</pt-BR>
 		<ko>지형 변종</ko>
+		<fixja>地形のバリエーション</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_STAMP_VOLCANO_7</zType>
@@ -378,6 +405,7 @@
 		<zh-CN>火山 7</zh-CN>
 		<pt-BR>Vulcão 7</pt-BR>
 		<ko>화산 7</ko>
+		<fixja>火山 7</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
@@ -391,6 +419,7 @@
 		<zh-CN>部落占地</zh-CN>
 		<pt-BR>Terras tribais</pt-BR>
 		<ko>부족 영토</ko>
+		<fixja>部族の土地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
@@ -404,6 +433,7 @@
 		<zh-CN>极端地形</zh-CN>
 		<pt-BR>Terreno extremo</pt-BR>
 		<ko>극한 지형</ko>
+		<fixja>極限地域</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
@@ -417,6 +447,7 @@
 		<zh-CN>大陆</zh-CN>
 		<pt-BR>Continentes</pt-BR>
 		<ko>대륙</ko>
+		<fixja>大陸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS</zType>
@@ -430,6 +461,7 @@
 		<zh-CN>岛屿范围</zh-CN>
 		<pt-BR>Tamanho das ilhas</pt-BR>
 		<ko>섬 크기</ko>
+		<fixja>島のサイズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER</zType>
@@ -443,6 +475,7 @@
 		<zh-CN>大陆数量</zh-CN>
 		<pt-BR>Número de continentes</pt-BR>
 		<ko>대륙 개수</ko>
+		<fixja>大陸の数</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_KING_OF_THE_HILL</zType>
@@ -456,6 +489,7 @@
 		<zh-CN>丘陵之王</zh-CN>
 		<pt-BR>Rei da Montanha</pt-BR>
 		<ko>언덕의 제왕</ko>
+		<fixja>キング・オブ・ザ・ヒル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_GOOD_PLAYER_START_RESOURCES</zType>
@@ -469,6 +503,7 @@
 		<zh-CN>平衡的起始资源</zh-CN>
 		<pt-BR>Recursos iniciais equilibrados</pt-BR>
 		<ko>균형 잡힌 초기 자원</ko>
+		<fixja>バランスの取れた初期資源</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_FORCE_RANDOM_TRIBES</zType>
@@ -482,6 +517,7 @@
 		<zh-CN>随机部落</zh-CN>
 		<pt-BR>Tribos aleatórias</pt-BR>
 		<ko>무작위 부족</ko>
+		<fixja>ランダムな部族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTIONS_SINGLE_FORCE_RANDOM_TRIBES_HELP</zType>
@@ -495,6 +531,7 @@
 		<zh-CN>覆盖脚本的默认部落，改为使用随机部落</zh-CN>
 		<pt-BR>Em vez das tribos padrões do script, tribos aleatórias serão utilizadas</pt-BR>
 		<ko>스크립트의 기본 부족 설정을 무작위 부족 설정으로 덮어씌움</ko>
+		<fixja>スクリプトにあるデフォルトの部族を上書きし、ランダムな部族を使用する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECTRELATION_TRIBE_WAR_ALLIANCE</zType>
@@ -508,6 +545,7 @@
 		<zh-CN>与link(CONCEPT_ALLIANCE_TRIBE,4)处于link(DIPLOMACY_WAR)状态</zh-CN>
 		<pt-BR>Em link(DIPLOMACY_WAR) com sua link(CONCEPT_ALLIANCE_TRIBE,4)</pt-BR>
 		<ko>플레이어가 부족의 link(CONCEPT_ALLIANCE_TRIBE,4)과 link(DIPLOMACY_WAR) 상태</ko>
+		<fixja>link(CONCEPT_ALLIANCE_TRIBE,4)とのlink(DIPLOMACY_WAR)にて</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECTRELATION_PLAYER_MIN_PLEASED</zType>
@@ -521,6 +559,7 @@
 		<zh-CN>link(CONCEPT_OPINION_PLAYER,3)link(OPINIONPLAYER_PLEASED)最小值</zh-CN>
 		<pt-BR>link(CONCEPT_OPINION_PLAYER,3) link(OPINIONPLAYER_PLEASED) do alvo mín.</pt-BR>
 		<ko>대상의 link(CONCEPT_OPINION_PLAYER,3) 최소 link(OPINIONPLAYER_PLEASED) 상태</ko>
+		<fixja>ターゲットのlink(OPINIONPLAYER_PLEASED)状態にあるlink(CONCEPT_OPINION_PLAYER,3)の最少数</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECTRELATION_MIN_CONFLICT_TURNS</zType>
@@ -534,6 +573,7 @@
 		<zh-CN>上次link(DIPLOMACY_WAR)后，只剩不到int(MIN_TREATY_TURNS)回合</zh-CN>
 		<pt-BR>Fazem menos de int(MIN_TREATY_TURNS) turnos desde a última link(DIPLOMACY_WAR)</pt-BR>
 		<ko>마지막 link(DIPLOMACY_WAR)으로부터 int(MIN_TREATY_TURNS)턴 미만 경과</ko>
+		<fixja>前回のlink(DIPLOMACY_WAR)以降のint(MIN_TREATY_TURNS)ターン数より短くする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBJECTRELATION_RELIGION_PLAYER</zType>
@@ -547,6 +587,7 @@
 		<zh-CN>信奉此宗教的城市</zh-CN>
 		<pt-BR>Cidade com esta religião</pt-BR>
 		<ko>해당 종교가 있는 도시</ko>
+		<fixja>この宗教を持つ都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_AMBASSADOR</zType>
@@ -560,6 +601,7 @@
 		<zh-CN>大使~大使</zh-CN>
 		<pt-BR>Embaixador~um Embaixador~Embaixadores</pt-BR>
 		<ko>대사~대사</ko>
+		<fixja>大使~大使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_AMBASSADOR_F</zType>
@@ -573,6 +615,7 @@
 		<zh-CN>大使~大使</zh-CN>
 		<pt-BR>Embaixadora~uma Embaixadora~Embaixadoras</pt-BR>
 		<ko>대사~대사</ko>
+		<fixja>大使~大使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_CHANCELLOR</zType>
@@ -586,6 +629,7 @@
 		<zh-CN>大臣~大臣</zh-CN>
 		<pt-BR>Chanceler~um Chanceler~Chanceleres</pt-BR>
 		<ko>재상~재상</ko>
+		<fixja>大臣~大臣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_CHANCELLOR_F</zType>
@@ -599,6 +643,7 @@
 		<zh-CN>大臣~大臣</zh-CN>
 		<pt-BR>Chanceler~uma Chanceler~Chanceleres</pt-BR>
 		<ko>재상~재상</ko>
+		<fixja>大臣~大臣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_SPYMASTER</zType>
@@ -612,6 +657,7 @@
 		<zh-CN>间谍长~间谍长</zh-CN>
 		<pt-BR>Chefe de Espionagem~um Chefe de Espionagem~Chefes de Espionagem</pt-BR>
 		<ko>첩보대장~첩보대장</ko>
+		<fixja>スパイ長~スパイ長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COUNCIL_SPYMASTER_F</zType>
@@ -625,6 +671,7 @@
 		<zh-CN>间谍长~间谍长</zh-CN>
 		<pt-BR>Chefe de Espionagem~uma Chefe de Espionagem~Chefes de Espionagem</pt-BR>
 		<ko>첩보대장~첩보대장</ko>
+		<fixja>スパイ長~スパイ長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAPCLASS_RANDOM</zType>
@@ -638,6 +685,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAPCLASS_RANDOM_HELP</zType>
@@ -651,6 +699,7 @@
 		<zh-CN>随机地图脚本</zh-CN>
 		<pt-BR>Mapa aleatório</pt-BR>
 		<ko>무작위 맵 스크립트</ko>
+		<fixja>ランダムマップスクリプト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RUINS_CITY</zType>
@@ -664,6 +713,7 @@
 		<zh-CN>{0_city}遗迹</zh-CN>
 		<pt-BR>Ruínas de {0_city}</pt-BR>
 		<ko>{0_city} 폐허</ko>
+		<fixja>{0_city}廃虚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RUINS_SPACE</zType>
@@ -677,6 +727,7 @@
 		<zh-CN> 遗迹</zh-CN>
 		<pt-BR> Ruínas</pt-BR>
 		<ko>폐허</ko>
+		<fixja> 廃墟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OF_CITY</zType>
@@ -690,6 +741,7 @@
 		<zh-CN>{0_city}的</zh-CN>
 		<pt-BR>de {0_city}</pt-BR>
 		<ko>{0_city}의</ko>
+		<fixja>{0_city}の</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_QUEUE_ROAD</zType>
@@ -703,6 +755,7 @@
 		<zh-CN>道路</zh-CN>
 		<pt-BR>Estrada</pt-BR>
 		<ko>도로</ko>
+		<fixja>道路</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_QUEUE_REPAIR</zType>
@@ -716,6 +769,7 @@
 		<zh-CN>修复</zh-CN>
 		<pt-BR>Consertar</pt-BR>
 		<ko>복구</ko>
+		<fixja>修復</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONNECTION_LOST</zType>
@@ -729,6 +783,7 @@
 		<zh-CN>服务器已断线。</zh-CN>
 		<pt-BR>Conexão com o servidor foi perdida.</pt-BR>
 		<ko>서버와 연결이 끊겼습니다.</ko>
+		<fixja>サーバーへの接続が失われました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONNECTION_RESTORED</zType>
@@ -742,6 +797,7 @@
 		<zh-CN>服务器连接已恢复</zh-CN>
 		<pt-BR>A conexão com o servidor foi reestabelecida</pt-BR>
 		<ko>서버 연결을 복구했습니다</ko>
+		<fixja>サーバーの再接続に成功しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_USERNAME_TIMEOUT</zType>
@@ -755,6 +811,7 @@
 		<zh-CN>查找用户名时连接超时。</zh-CN>
 		<pt-BR>O tempo de conexão se esgotou durante a busca do nome de usuário.</pt-BR>
 		<ko>이용자 프로필 이름 검색 중 연결 시간이 초과되었습니다.</ko>
+		<fixja>ユーザー表示名を検索中に接続がタイムアウトしました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN</zType>
@@ -768,6 +825,7 @@
 		<zh-CN>回合{0}</zh-CN>
 		<pt-BR>Turno {0}</pt-BR>
 		<ko>{0}턴</ko>
+		<fixja>ターン {0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_SUMMARY</zType>
@@ -781,6 +839,7 @@
 		<zh-CN>-摘要-</zh-CN>
 		<pt-BR>-Resumo-</pt-BR>
 		<ko>-요약-</ko>
+		<fixja>-概要-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_COMBAT</zType>
@@ -794,6 +853,7 @@
 		<zh-CN>-战斗-</zh-CN>
 		<pt-BR>-Combate-</pt-BR>
 		<ko>-전투-</ko>
+		<fixja>-戦闘-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_OCCURRENCE</zType>
@@ -807,6 +867,7 @@
 		<zh-CN>- 发生率 -</zh-CN>
 		<pt-BR>-Ocorrências-</pt-BR>
 		<ko>-현상-</ko>
+		<fixja>-発生-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_COMBAT_ATTACKED</zType>
@@ -820,6 +881,7 @@
 		<zh-CN>你的单位遭到{2} {1} 次{true_0:s}攻击！</zh-CN>
 		<pt-BR>Suas unidades foram atacadas por {2} {1} vezes!</pt-BR>
 		<ko>당신의 유닛은 {2}에게 {1}번 공격당했습니다!</ko>
+		<fixja>あなたのユニットは{2} {1}時間{true_0:s}に攻撃されました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_COMBAT_OCCURRENCE_UNITS_DAMAGED</zType>
@@ -833,6 +895,7 @@
 		<zh-CN>{1,1_occurrence}毁坏了你的{0_count}个单位！</zh-CN>
 		<pt-BR>{0_count} de suas unidades {singular_0:sofreu:sofreram} danos devido a {1,1_occurrence}!</pt-BR>
 		<ko>유닛 {0_count}개가 {1,1_occurrence}(으)로 인해 피해를 입었습니다!</ko>
+		<fixja>あなたのユニットのうち{0_count}体が、{1,1_occurrence}によってダメージを受けました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_ECONOMY</zType>
@@ -846,6 +909,7 @@
 		<zh-CN>-经济-</zh-CN>
 		<pt-BR>-Economia-</pt-BR>
 		<ko>-경제-</ko>
+		<fixja>-経済-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_SCIENCE</zType>
@@ -859,6 +923,7 @@
 		<zh-CN>-科学-</zh-CN>
 		<pt-BR>-Ciência-</pt-BR>
 		<ko>-과학-</ko>
+		<fixja>-科学-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_GOAL</zType>
@@ -872,6 +937,7 @@
 		<zh-CN>-目标与抱负-</zh-CN>
 		<pt-BR>-Objetivos e Ambições-</pt-BR>
 		<ko>-목표와 야망-</ko>
+		<fixja>-目的と野望-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_RELIGION</zType>
@@ -885,6 +951,7 @@
 		<zh-CN>-宗教-</zh-CN>
 		<pt-BR>-Religião-</pt-BR>
 		<ko>-종교-</ko>
+		<fixja>-宗教-</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURN_EVENT</zType>
@@ -898,6 +965,7 @@
 		<zh-CN>-事件-</zh-CN>
 		<pt-BR>-Eventos-</pt-BR>
 		<ko>-사건-</ko>
+		<fixja>- イベント -</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_START_GAME</zType>
@@ -911,6 +979,7 @@
 		<zh-CN>无法产生新游戏：请尝试不同设定</zh-CN>
 		<pt-BR>Erro ao criar uma nova partida: por favor, tente configurações diferentes</pt-BR>
 		<ko>새로운 게임 생성에 실패했습니다. 다른 설정으로 시도해 보십시오.</ko>
+		<fixja>新しいゲームの生成に失敗しました。別の設定を試してください</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_JOIN_GAME</zType>
@@ -924,6 +993,7 @@
 		<zh-CN>无法加入游戏：{0}</zh-CN>
 		<pt-BR>Erro ao juntar-se à partida: {0}</pt-BR>
 		<ko>게임 참여에 실패했습니다: {0}</ko>
+		<fixja>ゲームに参加できませんでした：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_PLATFORM_NOT_CONNECTED</zType>
@@ -937,6 +1007,7 @@
 		<zh-CN>线上平台未连线</zh-CN>
 		<pt-BR>Plataforma online não está conectada</pt-BR>
 		<ko>온라인 플랫폼에 연결되지 않았습니다</ko>
+		<fixja>オンラインプラットフォームが接続されていません</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_ENTER_DISPLAY_NAME</zType>
@@ -950,6 +1021,7 @@
 		<zh-CN>为每名玩家输入一个显示名称</zh-CN>
 		<pt-BR>Escolha um nome de usuário para cada jogador</pt-BR>
 		<ko>각 플레이어의 프로필 이름을 입력하십시오</ko>
+		<fixja>各プレイヤーの表示名を入力してください</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_INVALID_DISPLAY_NAME</zType>
@@ -963,6 +1035,7 @@
 		<zh-CN>显示名称无效：{0}</zh-CN>
 		<pt-BR>Nome de usuário inválido: {0}</pt-BR>
 		<ko>프로필 이름 유효하지 않음: {0}</ko>
+		<fixja>無効な表示名：{0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_JOIN_SERVER</zType>
@@ -976,6 +1049,7 @@
 		<zh-CN>无法加入服务器</zh-CN>
 		<pt-BR>Erro ao juntar-se ao servidor</pt-BR>
 		<ko>서버에 참여하지 못했습니다</ko>
+		<fixja>サーバーへの参加に失敗しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_INVALID_GAME_PASSWORD</zType>
@@ -989,6 +1063,7 @@
 		<zh-CN>游戏密码无效</zh-CN>
 		<pt-BR>Senha de jogo inválida</pt-BR>
 		<ko>게임 비밀번호 유효하지 않음</ko>
+		<fixja>ゲームパスワードが無効です</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_INVALID_HOST_PASSWORD</zType>
@@ -1002,6 +1077,7 @@
 		<zh-CN>发起人密码无效</zh-CN>
 		<pt-BR>Senha de anfitrião inválida</pt-BR>
 		<ko>호스트 비밀번호 유효하지 않음</ko>
+		<fixja>ホストパスワードが無効です</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_LOAD_SCENARIO_MAP</zType>
@@ -1015,6 +1091,7 @@
 		<zh-CN>无法读取情境地图 ({0})</zh-CN>
 		<pt-BR>Erro ao carregar mapa de cenário ({0})</pt-BR>
 		<ko>시나리오 맵을 불러오지 못했습니다 ({0})</ko>
+		<fixja>シナリオマップの読み込みに失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_LOAD_SCENARIO_SCRIPT</zType>
@@ -1028,6 +1105,7 @@
 		<zh-CN>无法读取情境脚本 ({0})</zh-CN>
 		<pt-BR>Erro ao carregar configurações do cenário ({0})</pt-BR>
 		<ko>시나리오 스크립트를 불러오지 못했습니다 ({0})</ko>
+		<fixja>シナリオスクリプトの読み込みに失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_LOAD_SCENARIO_MAP_DATA</zType>
@@ -1041,6 +1119,7 @@
 		<zh-CN>无法指定情境地图资料 ({0})</zh-CN>
 		<pt-BR>Erro ao designar dados do mapa de cenário ({0})</pt-BR>
 		<ko>시나리오 맵 데이터를 할당하지 못했습니다 ({0})</ko>
+		<fixja>シナリオマップデータの割り当てに失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_INITIALIZE_SCENARIO_SCRIPT</zType>
@@ -1054,6 +1133,7 @@
 		<zh-CN>无法开启情境脚本 ({0})</zh-CN>
 		<pt-BR>Erro ao iniciar configurações do cenário ({0})</pt-BR>
 		<ko>시나리오 스크립트를 초기화하지 못했습니다 ({0})</ko>
+		<fixja>シナリオスクリプトの初期化に失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_INITIALIZE_MAP_DATA</zType>
@@ -1067,6 +1147,7 @@
 		<zh-CN>无法开启情境地图资料 ({0})</zh-CN>
 		<pt-BR>Erro ao iniciar dados do mapa ({0})</pt-BR>
 		<ko>맵 데이터를 초기화하지 못했습니다 ({0})</ko>
+		<fixja>マップデータの初期化に失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_LOAD_MAP</zType>
@@ -1080,6 +1161,7 @@
 		<zh-CN>无法读取地图 ({0})</zh-CN>
 		<pt-BR>Erro ao carregar mapa ({0})</pt-BR>
 		<ko>맵을 불러오지 못했습니다 ({0})</ko>
+		<fixja>マップの読み込みに失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_INITIALIZE_MAP</zType>
@@ -1093,6 +1175,7 @@
 		<zh-CN>无法读取地图 ({0})</zh-CN>
 		<pt-BR>Erro ao carregar mapa ({0})</pt-BR>
 		<ko>맵을 불러오지 못했습니다 ({0})</ko>
+		<fixja>マップの読み込みに失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_ASSIGN_MAP</zType>
@@ -1106,6 +1189,7 @@
 		<zh-CN>无法指定地图 ({0})</zh-CN>
 		<pt-BR>Erro ao designar mapa ({0})</pt-BR>
 		<ko>맵을 할당하지 못했습니다 ({0})</ko>
+		<fixja>マップの割り当てに失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_TO_GENERATE_MAP</zType>
@@ -1119,6 +1203,7 @@
 		<zh-CN>无法产生地图 ({0})</zh-CN>
 		<pt-BR>Erro ao criar mapa ({0})</pt-BR>
 		<ko>맵을 생성하지 못했습니다 ({0})</ko>
+		<fixja>マップの生成に失敗しました（{0}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_FAILED_CONNECT_SERVER</zType>
@@ -1132,6 +1217,7 @@
 		<zh-CN>无法连接至服务器</zh-CN>
 		<pt-BR>Erro na conexão com o servidor</pt-BR>
 		<ko>서버에 연결하지 못했습니다</ko>
+		<fixja>サーバーとの接続に失敗しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_DEMO_INVALID_SCENARIO</zType>
@@ -1145,6 +1231,7 @@
 		<zh-CN>此场景在演示中不可用。</zh-CN>
 		<pt-BR>Este cenário não está disponível na demo.</pt-BR>
 		<ko>이 시나리오는 데모에서 플레이할 수 없습니다</ko>
+		<fixja>このシナリオは、デモ版ではプレイできません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_DEMO_INVALID_SAVE</zType>
@@ -1158,6 +1245,7 @@
 		<zh-CN>在演示中不可保存</zh-CN>
 		<pt-BR>Este arquivo salvo não é válido para a demo</pt-BR>
 		<ko>이 저장 데이터는 데모에서 사용할 수 없습니다</ko>
+		<fixja>デモ版では、このセーブは無効です</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_INVALID_DISPLAY_NAME_STEAM</zType>
@@ -1171,6 +1259,7 @@
 		<zh-CN>无法查找到名叫{0}的玩家。云端游玩的参与者需要是您的Steam好友。如果您好友的游戏端不是Steam的话，您无法直接和他们发起云端游戏，但您可以选择先发起一场联网游戏，之后将其转换成云端游戏。请确保所有玩家加入后保存联网游戏并将其加载为云端游戏。</zh-CN>
 		<pt-BR>Não foi possível encontrar um jogador com o nome {0}. Este jogador deve estar na sua lista de amigos da Steam para que seja possível dar início a uma partida pela nuvem. Se o jogador tiver o jogo em outra plataforma que não seja a Steam, não será possível iniciar diretamente uma partida na nuvem com ele. Porém, você pode iniciar uma partida em rede e convertê-la em uma partida pela nuvem: salve a partida por rede assim que todos os jogadores tiverem entrado e carregue-a como uma partida na nuvem.</pt-BR>
 		<ko>"{0}" 플레이어를 찾을 수 없습니다. 클라우드 플레이를 시작하려면 플레이어가 당신의 Steam 친구 목록에 있어야 합니다. 플레이어가 Steam이 아닌 다른 플랫폼을 이용하고 있다면 직접적으로 클라우드 플레이를 시작할 수는 없으므로, 먼저 네트워크 게임을 시작해 클라우드 게임으로 변환해야 합니다. 모든 플레이어가 참여하면 네트워크 게임을 저장하고 저장 파일을 클라우드 게임으로 불러오십시오.</ko>
+		<fixja>{0}という名前のプレイヤーは見つかりませんでした。クラウドゲームを始めるには、そのプレイヤーをSteamのフレンドリストを登録しておく必要があります。そのプレイヤーがSteam以外のプラットフォームでゲームを所有している場合、そのプレイヤーと直接クラウドゲームを始めることができませんが、ネットワークゲームを開始してクラウドゲームに変換することは可能です。その場合、全てのプレイヤーが参加した後で、ネットワークゲームを保存し、クラウドゲームとしてロードしてください。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_MAP_SCRIPT_FAILED_TO_LOAD</zType>
@@ -1184,6 +1273,7 @@
 		<zh-CN>自定义地图脚本{0}没有完全加载。你可能需要为包含{0}的安装额外的相关项目；或者该模组可能需要更新，从而适配当前的游戏版本。如果问题仍然存在，请尝试卸载并重新安装该模组。</zh-CN>
 		<pt-BR>O script de mapa personalizado {0} não carregou completamente. Talvez você tenha que instalar dependências adicionais para o mod que contém {0} ou o mod tenha que ser atualizado para a versão atual do jogo. Se o problema persistir, tente reinstalar o mod.</pt-BR>
 		<ko>사용자 맞춤 맵 스크립트 {0}이(가) 완전히 불러와지지 않았습니다. MOD에 포함된 추가 의존성 파일을 설치하거나 {0} MOD 자체를 현재 게임 버전에 맞게 갱신해야 할 수도 있습니다. 문제가 지속된다면 MOD를 삭제하고 재설치해 보십시오.</ko>
+		<fixja>カスタムマップスクリプト{0}が完全にロードされませんでした。{0}を含むMODファイルに必要な追加ツールをインストールするか、現在のバージョンに合わせてMODファイルを更新する必要があります。問題が解決しない場合はMODをアンインストールし、再インストールしてみてください。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERROR_MAP_SCRIPT_FAILED_TO_COMPILE</zType>
@@ -1197,6 +1287,7 @@
 		<zh-CN>由于编译错误，自定义地图脚本{0}似乎没有生效。模组未加载。请联系模组作者，获得进一步的帮助。</zh-CN>
 		<pt-BR>O script de mapa personalizado {0} parece não ser válido devido a erros de compilação. O mod não foi carregado. Entre em contato com a pessoa que criou o mod para receber mais ajuda.</pt-BR>
 		<ko>컴파일 오류 때문에 사용자 맞춤 맵 스크립트 {0} 을(를) 사용할 수 없습니다. 이 MOD는 불러오지 못했습니다. 지원이 필요하다면 MOD의 제작자에게 문의하십시오.</ko>
+		<fixja>コンパイルエラーにより、カスタムマップスクリプト{0}が有効でないようです。このMODはロードされていません。MODの制作者にご連絡ください。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EMAIL_SUBJECT_YOUR_TURN</zType>
@@ -1210,6 +1301,7 @@
 		<zh-CN>《旧世界》{0} - 你的回合</zh-CN>
 		<pt-BR>Old World {0} - Seu turno</pt-BR>
 		<ko>올드 월드 {0} - 당신의 턴</ko>
+		<fixja>Old World {0} - あなたのターン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EMAIL_SUBJECT_DEFEAT</zType>
@@ -1223,6 +1315,7 @@
 		<zh-CN>《旧世界》{0} - 你已被击败</zh-CN>
 		<pt-BR>Old World {0} - Você sofreu uma derrota</pt-BR>
 		<ko>올드 월드 {0} - 패배했습니다</ko>
+		<fixja>Old World {0} - あなたは敗北しました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EMAIL_UNSUBSCRIBE</zType>
@@ -1236,6 +1329,7 @@
 		<zh-CN>要停止接收此类消息，请使用《旧世界》游戏内菜单中的“开启通知”按钮移除您的电子邮箱。（在已加载游戏中按[ESC]打开）</zh-CN>
 		<pt-BR>Para deixar de receber essas mensagens, remova seu endereço de email usando o botão Notificações de Turno no menu de jogo em Old World (pressione [ESC] após entrar em uma partida).</pt-BR>
 		<ko>메시지 수신을 원치 않는 경우 올드 월드 게임 내 메뉴의 턴 안내 버튼을 클릭하여 이메일 주소를 삭제하십시오. (게임을 로딩한 뒤에 [ESC] 키를 누르십시오).</ko>
+		<fixja>メッセージを受け取りたくない場合は、設定の「ターン通知」からメールアドレスを削除してください。（ゲームが起動したら、[ESC]を押してください）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EMAIL_SUBJECT_REMINDER</zType>
@@ -1249,6 +1343,7 @@
 		<zh-CN>《旧世界》{0} - 提醒</zh-CN>
 		<pt-BR>Old World {0} - Lembrete</pt-BR>
 		<ko>올드 월드 {0} - 알림</ko>
+		<fixja>Old World {0} : リマインダー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EMAIL_REMINDER</zType>
@@ -1262,6 +1357,7 @@
 		<zh-CN>所有其他玩家的回合已经结束，正在等待。</zh-CN>
 		<pt-BR>Todos os demais jogadores já completaram seus respectivos turnos e estão aguardando.</pt-BR>
 		<ko>다른 국가들이 모두 턴을 완료하고 기다리는 중입니다.</ko>
+		<fixja>他のプレーヤーは、すでにターンを終えて待機しています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POPUP_SCREENSHOT_TAKEN</zType>
@@ -1275,6 +1371,7 @@
 		<zh-CN>已截图</zh-CN>
 		<pt-BR>Captura de tela tirada</pt-BR>
 		<ko>스크린샷 촬영됨</ko>
+		<fixja>スクリーンショット撮影完了</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDITIONAL_CONTENT_DLC_HEROES_OF_AEGEAN</zType>
@@ -1288,6 +1385,7 @@
 		<zh-CN>爱琴海英雄</zh-CN>
 		<pt-BR>Heroes Of The Aegean</pt-BR>
 		<ko>에게해의 영웅들</ko>
+		<fixja>『エーゲの英雄たち』</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDITIONAL_CONTENT_DLC_THE_SACRED_AND_THE_PROFANE</zType>
@@ -1301,6 +1399,7 @@
 		<zh-CN>神圣与亵渎</zh-CN>
 		<pt-BR>The Sacred and the Profane</pt-BR>
 		<ko>신성한 자와 불경한 자</ko>
+		<fixja>『神聖と冒涜』</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDITIONAL_CONTENT_DLC_PHARAOHS_OF_THE_NILE</zType>
@@ -1314,6 +1413,7 @@
 		<zh-CN>Pharaohs Of The Nile</zh-CN>
 		<pt-BR>Pharaohs Of The Nile</pt-BR>
 		<ko>나일강의 파라오</ko>
+		<fixja>Pharaohs Of The Nile</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDITIONAL_CONTENT_DLC_WONDERS_AND_DYNASTIES</zType>
@@ -1327,6 +1427,7 @@
 		<zh-CN>奇迹与王朝</zh-CN>
 		<pt-BR>Wonders And Dynasties</pt-BR>
 		<ko>불가사의와 왕조들</ko>
+		<fixja>Wonders And Dynasties</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDITIONAL_CONTENT_DLC_BEHIND_THE_THRONE</zType>
@@ -1340,6 +1441,7 @@
 		<zh-CN>王冠的阴影</zh-CN>
 		<pt-BR>Behind the Throne</pt-BR>
 		<ko>왕실의 흑막</ko>
+		<fixja>王座の陰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDITIONAL_CONTENT_DLC_CALAMITIES</zType>
@@ -1353,6 +1455,7 @@
 		<zh-CN>天灾怒潮</zh-CN>
 		<pt-BR>Wrath of Gods</pt-BR>
 		<ko>래스 오브 갓</ko>
+		<fixja>神々の怒り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NUMERIC_SUFFIXES</zType>
@@ -1366,6 +1469,7 @@
 		<zh-CN>{0}世</zh-CN>
 		<pt-BR>{0}</pt-BR>
 		<ko>{0}</ko>
+		<fixja>{0}世</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAUSE_OF_DEATH</zType>
@@ -1379,6 +1483,7 @@
 		<zh-CN>死因：{0}</zh-CN>
 		<pt-BR>Causa de morte: {0}</pt-BR>
 		<ko>사망 원인: {0}</ko>
+		<fixja>死因: {0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_KILLED</zType>
@@ -1392,6 +1497,7 @@
 		<zh-CN>已被害</zh-CN>
 		<pt-BR>Morto</pt-BR>
 		<ko>살해됨</ko>
+		<fixja>殺害された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_MURDERED</zType>
@@ -1405,6 +1511,7 @@
 		<zh-CN>已被谋杀</zh-CN>
 		<pt-BR>Assassinado</pt-BR>
 		<ko>살해함</ko>
+		<fixja>故意に殺害された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_ASSASSINATED</zType>
@@ -1418,6 +1525,7 @@
 		<zh-CN>已被暗杀</zh-CN>
 		<pt-BR>Assassinado</pt-BR>
 		<ko>암살됨</ko>
+		<fixja>暗殺された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_SACRIFICED</zType>
@@ -1431,6 +1539,7 @@
 		<zh-CN>被献祭</zh-CN>
 		<pt-BR>Sacrificado</pt-BR>
 		<ko>희생함</ko>
+		<fixja>生贄にされた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_PERISHED</zType>
@@ -1444,6 +1553,7 @@
 		<zh-CN>已死亡</zh-CN>
 		<pt-BR>Pereceu</pt-BR>
 		<ko>사망함</ko>
+		<fixja>滅びた</fixja>
 	</Entry>
 	<!-- <Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_1</zType>
@@ -1456,6 +1566,7 @@
 		<ru>I</ru>
 		<zh-CN>一</zh-CN>
 		<pt-BR>I</pt-BR>
+		<fixja>1</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_2</zType>
@@ -1468,6 +1579,7 @@
 		<ru>II</ru>
 		<zh-CN>二</zh-CN>
 		<pt-BR>II</pt-BR>
+		<fixja>2</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_3</zType>
@@ -1480,6 +1592,7 @@
 		<ru>III</ru>
 		<zh-CN>三</zh-CN>
 		<pt-BR>III</pt-BR>
+		<fixja>3</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_4</zType>
@@ -1492,6 +1605,7 @@
 		<ru>IV</ru>
 		<zh-CN>四</zh-CN>
 		<pt-BR>IV</pt-BR>
+		<fixja>4</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_5</zType>
@@ -1504,6 +1618,7 @@
 		<ru>V</ru>
 		<zh-CN>五</zh-CN>
 		<pt-BR>V</pt-BR>
+		<fixja>5</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_6</zType>
@@ -1516,6 +1631,7 @@
 		<ru>VI</ru>
 		<zh-CN>六</zh-CN>
 		<pt-BR>VI</pt-BR>
+		<fixja>6</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_7</zType>
@@ -1528,6 +1644,7 @@
 		<ru>VII</ru>
 		<zh-CN>七</zh-CN>
 		<pt-BR>VII</pt-BR>
+		<fixja>7</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_8</zType>
@@ -1540,6 +1657,7 @@
 		<ru>VIII</ru>
 		<zh-CN>八</zh-CN>
 		<pt-BR>VIII</pt-BR>
+		<fixja>8</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_9</zType>
@@ -1552,6 +1670,7 @@
 		<ru>IX</ru>
 		<zh-CN>九</zh-CN>
 		<pt-BR>IX</pt-BR>
+		<fixja>9</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUFFIX_NUMBERS_10</zType>
@@ -1564,5 +1683,6 @@
 		<ru>X</ru>
 		<zh-CN>十</zh-CN>
 		<pt-BR>X</pt-BR>
+		<fixja>10</fixja>
 	</Entry> -->
 </Root>

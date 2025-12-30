@@ -27,6 +27,7 @@
 		<zh-CN>祆教~祆教的~祆教徒~祆教徒~祆教徒</zh-CN>
 		<pt-BR>Zoroastrismo~Zoroastrista~um Zoroastrista~Zoroastristas~Zoroastrista</pt-BR>
 		<ko>조로아스터교~조로아스터교~조로아스터교도~조로아스터교도~조로아스터교</ko>
+		<fixja>ゾロアスター教~ゾロアスター教~ゾロアスター教~ゾロアスター教~ゾロアスター教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_ZOROASTRIANISM_F</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>祆教~祆教的~祆教徒~祆教徒~祆教徒</zh-CN>
 		<pt-BR>Zoroastrismo~Zoroastrista~uma Zoroastrista~Zoroastristas~Zoroastrista</pt-BR>
 		<ko>조로아스터교~조로아스터교~조로아스터교도~조로아스터교도~조로아스터교</ko>
+		<fixja>ゾロアスター教~ゾロアスター教~ゾロアスター教~ゾロアスター教~ゾロアスター教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_JUDAISM</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>犹太教~犹太教的~犹太教徒~犹太教徒~犹太教徒</zh-CN>
 		<pt-BR>Judaísmo~Judeu~um Judeu~Judeus~Judeu~Judia</pt-BR>
 		<ko>유대교~유대교~유대교도~유대교도~유대교</ko>
+		<fixja>ユダヤ教~ユダヤ教~ユダヤ教~ユダヤ教~ユダヤ教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_JUDAISM_F</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>犹太教~犹太教的~犹太教徒~犹太教徒~犹太教徒</zh-CN>
 		<pt-BR>Judaísmo~Judia~uma Judia~Judias~Judia</pt-BR>
 		<ko>유대교~유대교~유대교도~유대교도~유대교</ko>
+		<fixja>ユダヤ教~ユダヤ教~ユダヤ教~ユダヤ教~ユダヤ教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_CHRISTIANITY</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>基督教~基督教的~基督教徒~基督教徒~基督教徒</zh-CN>
 		<pt-BR>Cristianismo~Cristão~um Cristão~Cristãos~Cristão~Cristã</pt-BR>
 		<ko>기독교~기독교~기독교도~기독교도~기독교</ko>
+		<fixja>キリスト教~キリスト教~キリスト教~キリスト教~キリスト教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_CHRISTIANITY_F</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>基督教~基督教的~基督教徒~基督教徒~基督教徒</zh-CN>
 		<pt-BR>Cristianismo~Cristã~uma Cristã~Cristãs~Cristã</pt-BR>
 		<ko>기독교~기독교~기독교도~기독교도~기독교</ko>
+		<fixja>キリスト教~キリスト教~キリスト教~キリスト教~キリスト教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_MANICHAEISM</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>摩尼教~摩尼教的~摩尼教徒~摩尼教徒~摩尼教徒</zh-CN>
 		<pt-BR>Maniqueísmo~Maniqueísta~um Maniqueísta~Maniqueístas~Maniqueísta</pt-BR>
 		<ko>마니교~마니교~마니교도~마니교도~마니교</ko>
+		<fixja>マニ教~マニ教~マニ教~マニ教~マニ教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_MANICHAEISM_F</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>摩尼教~摩尼教的~摩尼教徒~摩尼教徒~摩尼教徒</zh-CN>
 		<pt-BR>Maniqueísmo~Maniqueísta~uma Maniqueísta~Maniqueístas~Maniqueísta</pt-BR>
 		<ko>마니교~마니교~마니교도~마니교도~마니교</ko>
+		<fixja>マニ教~マニ教~マニ教~マニ教~マニ教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>万神教~万神教的~万神教徒~万神教徒~万神教徒</zh-CN>
 		<pt-BR>Paganismo~Pagão~um Pagão~Pagãos~Pagão</pt-BR>
 		<ko>다신교~다신교~다신교도~다신교도~다신교</ko>
+		<fixja>多神教~多神教~多神教~多神教~多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_F</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>万神教~万神教的~万神教徒~万神教徒~万神教徒</zh-CN>
 		<pt-BR>Paganismo~Pagã~uma Pagã~Pagãs~Pagã</pt-BR>
 		<ko>다신교~다신교~다신교도~다신교도~다신교</ko>
+		<fixja>多神教~多神教~多神教~多神教~多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ASSYRIA</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>亚述万神教~亚述万神教的~亚述万神教徒~亚述万神教徒~亚述万神教徒</zh-CN>
 		<pt-BR>Paganismo Assírio~Pagão Assírio~um Pagão Assírio~Pagãos Assírios~Pagão Assírio</pt-BR>
 		<ko>아시리아 다신교~아시리아 다신교~아시리아 다신교도~아시리아 다신교도~아시리아 다신교</ko>
+		<fixja>アッシリア多神教~アッシリア多神教~アッシリア多神教~アッシリア多神教~アッシリア多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ASSYRIA_F</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>亚述万神教~亚述万神教的~亚述万神教徒~亚述万神教徒~亚述万神教徒</zh-CN>
 		<pt-BR>Paganismo Assírio~Pagã Assíria~uma Pagã Assíria~Pagãs Assírias~Pagã Assíria</pt-BR>
 		<ko>아시리아 다신교~아시리아 다신교~아시리아 다신교도~아시리아 다신교도~아시리아 다신교</ko>
+		<fixja>アッシリア多神教~アッシリア多神教~アッシリア多神教~アッシリア多神教~アッシリア多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_BABYLONIA</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>巴比伦尼亚万神教~巴比伦尼亚万神教的~巴比伦尼亚万神教徒~巴比伦尼亚万神教徒~巴比伦尼亚万神教徒</zh-CN>
 		<pt-BR>Paganismo Babilônico~Pagão Babilônico~um Pagão Babilônico~Pagãos Babilônicos~Pagão Babilônico</pt-BR>
 		<ko>바빌로니아 다신교~바빌로니아 다신교~바빌로니아 다신교도~바빌로니아 다신교도~바빌로니아 다신교</ko>
+		<fixja>バビロニア多神教~バビロニア多神教~バビロニア多神教~バビロニア多神教~バビロニア多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_BABYLONIA_F</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>巴比伦尼亚万神教~巴比伦尼亚万神教的~巴比伦尼亚万神教徒~巴比伦尼亚万神教徒~巴比伦尼亚万神教徒</zh-CN>
 		<pt-BR>Paganismo Babilônico~Pagã Babilônica~uma Pagã Babilônica~Pagãs Babilônicas~Pagã Babilônica</pt-BR>
 		<ko>바빌로니아 다신교~바빌로니아 다신교~바빌로니아 다신교도~바빌로니아 다신교도~바빌로니아 다신교</ko>
+		<fixja>バビロニア多神教~バビロニア多神教~バビロニア多神教~バビロニア多神教~バビロニア多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_CARTHAGE</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>迦太基万神教~迦太基万神教的~迦太基万神教徒~迦太基万神教徒~迦太基万神教徒</zh-CN>
 		<pt-BR>Paganismo Cartaginês~Pagão Cartaginês~um Pagão Cartaginês~Pagãos Cartagineses~Pagão Cartaginês</pt-BR>
 		<ko>카르타고 다신교~카르타고 다신교~카르타고 다신교도~카르타고 다신교도~카르타고 다신교</ko>
+		<fixja>カルタゴ多神教~カルタゴ多神教~カルタゴ多神教~カルタゴ多神教~カルタゴ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_CARTHAGE_F</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>迦太基万神教~迦太基万神教的~迦太基万神教徒~迦太基万神教徒~迦太基万神教徒</zh-CN>
 		<pt-BR>Paganismo Cartaginês~Pagã Cartaginesa~uma Pagã Cartaginesa~Pagãs Cartaginesas~Pagã Cartaginesa</pt-BR>
 		<ko>카르타고 다신교~카르타고 다신교~카르타고 다신교도~카르타고 다신교도~카르타고 다신교</ko>
+		<fixja>カルタゴ多神教~カルタゴ多神教~カルタゴ多神教~カルタゴ多神教~カルタゴ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_EGYPT</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>埃及万神教~埃及万神教的~埃及万神教徒~埃及万神教徒~埃及万神教徒</zh-CN>
 		<pt-BR>Paganismo Egípcio~Pagão Egípcio~um Pagão Egípcio~Pagãos Egípcios~Pagão Egípcio</pt-BR>
 		<ko>이집트 다신교~이집트 다신교~이집트 다신교도~이집트 다신교도~이집트 다신교</ko>
+		<fixja>エジプト多神教~エジプト多神教~エジプト多神教~エジプト多神教~エジプト多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_EGYPT_F</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>埃及万神教~埃及万神教的~埃及万神教徒~埃及万神教徒~埃及万神教徒</zh-CN>
 		<pt-BR>Paganismo Egípcio~Pagã Egípcia~uma Pagã Egípcia~Pagãs Egípcias~Pagã Egípcia</pt-BR>
 		<ko>이집트 다신교~이집트 다신교~이집트 다신교도~이집트 다신교도~이집트 다신교</ko>
+		<fixja>エジプト多神教~エジプト多神教~エジプト多神教~エジプト多神教~エジプト多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_GREECE</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>希腊万神教~希腊万神教的~希腊万神教徒~希腊万神教徒~希腊万神教徒</zh-CN>
 		<pt-BR>Paganismo Grego~Pagão Grego~um Pagão Grego~Pagãos Gregos~Pagão Grego</pt-BR>
 		<ko>그리스 다신교~그리스 다신교~그리스 다신교도~그리스 다신교도~그리스 다신교</ko>
+		<fixja>ギリシャ多神教~ギリシャ多神教~ギリシャ多神教~ギリシャ多神教~ギリシャ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_GREECE_F</zType>
@@ -274,6 +293,7 @@
 		<zh-CN>希腊万神教~希腊万神教的~希腊万神教徒~希腊万神教徒~希腊万神教徒</zh-CN>
 		<pt-BR>Paganismo Grego~Pagã Grega~uma Pagã Grega~Pagãs Gregas~Pagã Grega</pt-BR>
 		<ko>그리스 다신교~그리스 다신교~그리스 다신교도~그리스 다신교도~그리스 다신교</ko>
+		<fixja>ギリシャ多神教~ギリシャ多神教~ギリシャ多神教~ギリシャ多神教~ギリシャ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ROME</zType>
@@ -287,6 +307,7 @@
 		<zh-CN>罗马万神教~罗马万神教的~罗马万神教徒~罗马万神教徒~罗马万神教徒</zh-CN>
 		<pt-BR>Paganismo Romano~Pagão Romano~um Pagão Romano~Pagãos Romanos~Pagão Romano</pt-BR>
 		<ko>로마 다신교~로마 다신교~로마 다신교도~로마 다신교도~로마 다신교</ko>
+		<fixja>ローマ多神教~ローマ多神教~ローマ多神教~ローマ多神教~ローマ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ROME_F</zType>
@@ -300,6 +321,7 @@
 		<zh-CN>罗马万神教~罗马万神教的~罗马万神教徒~罗马万神教徒~罗马万神教徒</zh-CN>
 		<pt-BR>Paganismo Romano~Pagã Romana~uma Pagã Romana~Pagãs Romanas~Pagã Romana</pt-BR>
 		<ko>로마 다신교~로마 다신교~로마 다신교도~로마 다신교도~로마 다신교</ko>
+		<fixja>ローマ多神教~ローマ多神教~ローマ多神教~ローマ多神教~ローマ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_PERSIA</zType>
@@ -313,6 +335,7 @@
 		<zh-CN>波斯万神教~波斯万神教的~波斯万神教徒~波斯万神教徒~波斯万神教徒</zh-CN>
 		<pt-BR>Paganismo Persa~Pagão Persa~um Pagão Persa~Pagãos Persas~Pagão Persa</pt-BR>
 		<ko>페르시아 다신교~페르시아 다신교~페르시아 다신교도~페르시아 다신교도~페르시아 다신교</ko>
+		<fixja>ペルシャ多神教~ペルシャ多神教~ペルシャ多神教~ペルシャ多神教~ペルシャ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_PERSIA_F</zType>
@@ -326,6 +349,7 @@
 		<zh-CN>波斯万神教~波斯万神教的~波斯万神教徒~波斯万神教徒~波斯万神教徒</zh-CN>
 		<pt-BR>Paganismo Persa~Pagã Persa~uma Pagã Persa~Pagãs Persas~Pagã Persa</pt-BR>
 		<ko>페르시아 다신교~페르시아 다신교~페르시아 다신교도~페르시아 다신교도~페르시아 다신교</ko>
+		<fixja>ペルシャ多神教~ペルシャ多神教~ペルシャ多神教~ペルシャ多神教~ペルシャ多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_CUSTOM</zType>
@@ -339,6 +363,7 @@
 		<zh-CN>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}</zh-CN>
 		<pt-BR>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~um {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</pt-BR>
 		<ko>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE} 교도~{RELIGION-ADJECTIVE} 교도</ko>
+		<fixja>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_CUSTOM_F</zType>
@@ -352,6 +377,7 @@
 		<zh-CN>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</zh-CN>
 		<pt-BR>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~uma {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</pt-BR>
 		<ko>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE} 교도~{RELIGION-ADJECTIVE} 교도</ko>
+		<fixja>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_KUSH</zType>
@@ -365,6 +391,7 @@
 		<zh-CN>库希特异教~库希特异教~库希特异教~库希特异教</zh-CN>
 		<pt-BR>Paganismo Cuxita~Pagão Cuxita~um Pagão Cuxita~Pagãos Cuxitas~Pagão Cuxita</pt-BR>
 		<ko>쿠시 다신교~쿠시 다신교~쿠시 다신교도~쿠시 다신교도~쿠시 다신교</ko>
+		<fixja>クシュの異教~クシュの異教徒~クシュの異教徒~クシュの異教徒~クシュの異教徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_KUSH_F</zType>
@@ -378,6 +405,7 @@
 		<zh-CN>库希特异教~库希特异教~库希特异教~库希特异教</zh-CN>
 		<pt-BR>Paganismo Cuxita~Pagã Cuxita~uma Pagã Cuxita~Pagãs Cuxitas~Pagã Cuxita</pt-BR>
 		<ko>쿠시 다신교~쿠시 다신교~쿠시 다신교도~쿠시 다신교도~쿠시 다신교</ko>
+		<fixja>クシュの異教~クシュの異教徒~クシュの異教徒~クシュの異教徒~クシュの異教徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_AKSUM</zType>
@@ -391,6 +419,7 @@
 		<zh-CN>阿克苏姆异教~阿克苏姆异教~阿克苏姆异教~阿克苏姆异教~阿克苏姆异教</zh-CN>
 		<pt-BR>Paganismo Axumita~Pagão Axumita~um Pagão Axumita~Pagãos Axumitas~Pagão Axumita</pt-BR>
 		<ko>악숨 다신교~악숨 다신교~악숨 다신교도~악숨 다신교도~악숨 다신교</ko>
+		<fixja>アクスム多神教~アクスム多神教~アクスム多神教~アクスム多神教~アクスム多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_AKSUM_F</zType>
@@ -404,6 +433,7 @@
 		<zh-CN>阿克苏姆异教~阿克苏姆异教~阿克苏姆异教~阿克苏姆异教~阿克苏姆异教</zh-CN>
 		<pt-BR>Paganismo Axumita~Pagã Axumita~uma Pagã Axumita~Pagãs Axumitas~Pagã Axumita</pt-BR>
 		<ko>악숨 다신교~악숨 다신교~악숨 다신교도~악숨 다신교도~악숨 다신교</ko>
+		<fixja>アクスム多神教~アクスム多神教~アクスム多神教~アクスム多神教~アクスム多神教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_ATENISM</zType>
@@ -417,5 +447,6 @@
 		<zh-CN>阿顿教派</zh-CN>
 		<pt-BR>Atonismo</pt-BR>
 		<ko>아톤교</ko>
+		<fixja>アテン信仰</fixja>
 	</Entry>
 </Root>

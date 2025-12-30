@@ -26,6 +26,7 @@
 		<zh-CN>培训link(COUNCIL_AMBASSADOR)</zh-CN>
 		<pt-BR>Tornar link(COUNCIL_AMBASSADOR)</pt-BR>
 		<ko>link(COUNCIL_AMBASSADOR) 임명</ko>
+		<fixja>link(COUNCIL_AMBASSADOR)に任命する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHANCELLOR</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>培训link(COUNCIL_CHANCELLOR)</zh-CN>
 		<pt-BR>Tornar link(COUNCIL_CHANCELLOR)</pt-BR>
 		<ko>link(COUNCIL_CHANCELLOR) 임명</ko>
+		<fixja>link(COUNCIL_CHANCELLOR)に任命する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPYMASTER</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>培训link(COUNCIL_SPYMASTER)</zh-CN>
 		<pt-BR>Tornar link(COUNCIL_SPYMASTER)</pt-BR>
 		<ko>link(COUNCIL_SPYMASTER) 임명</ko>
+		<fixja>link(COUNCIL_SPYMASTER)に任命する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEAVE_COUNCIL</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>离开理事会</zh-CN>
 		<pt-BR>Deixar Conselho</pt-BR>
 		<ko>평의회 탈퇴</ko>
+		<fixja>評議会を離脱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>link(CONCEPT_ALLIANCE_PLAYER)</zh-CN>
 		<pt-BR>link(CONCEPT_ALLIANCE_PLAYER)</pt-BR>
 		<ko>link(CONCEPT_ALLIANCE_PLAYER) 체결</ko>
+		<fixja>link(CONCEPT_ALLIANCE_PLAYER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE_TARGET</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>link(CONCEPT_ALLIANCE_PLAYER)，与</zh-CN>
 		<pt-BR>link(CONCEPT_ALLIANCE_PLAYER) com</pt-BR>
 		<ko>다음 국가와 link(CONCEPT_ALLIANCE_PLAYER) 체결:</ko>
+		<fixja>link(CONCEPT_ALLIANCE_PLAYER)を結ぶ相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TEAM_ALLIANCE_HUMAN</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>link(CONCEPT_ALLIANCE_PLAYER)</zh-CN>
 		<pt-BR>link(CONCEPT_ALLIANCE_PLAYER)</pt-BR>
 		<ko>다음 인물이 link(CONCEPT_ALLIANCE_PLAYER) 체결:</ko>
+		<fixja>link(CONCEPT_ALLIANCE_PLAYER)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>国家的link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) Nacional</pt-BR>
 		<ko>국가와 link(DIPLOMACY_PEACE) 협정 체결</ko>
+		<fixja>国家link(DIPLOMACY_PEACE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_TARGET</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>达成国家的link(DIPLOMACY_PEACE)，与</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) Nacional com</pt-BR>
 		<ko>다음 국가와 link(DIPLOMACY_PEACE) 협정 체결:</ko>
+		<fixja>link(DIPLOMACY_PEACE)外交を行う</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_CHARACTER</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>达成国家的link(DIPLOMACY_PEACE)，透过</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) Nacional através de</pt-BR>
 		<ko>다음 인물이 link(DIPLOMACY_PEACE) 협정 체결:</ko>
+		<fixja>国家link(DIPLOMACY_PEACE)を行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>进贡以达link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>Oferecer Tributo em troca de link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 협정용 공물 조공</ko>
+		<fixja>link(DIPLOMACY_PEACE)のために貢ぎ物を贈る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE_TARGET</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>进贡以达link(DIPLOMACY_PEACE)，与</zh-CN>
 		<pt-BR>Oferecer Tributo em troca de link(DIPLOMACY_PEACE) com</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_PEACE) 협정용 공물 조공:</ko>
+		<fixja>link(DIPLOMACY_PEACE)のために貢ぎ物を贈る相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>要求link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>Pedir por link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 협정 요청</ko>
+		<fixja>link(DIPLOMACY_PEACE)を求める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE_TARGET</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>要求link(DIPLOMACY_PEACE)，与</zh-CN>
 		<pt-BR>Pedir por link(DIPLOMACY_PEACE) a</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_PEACE) 협정 요청:</ko>
+		<fixja>link(DIPLOMACY_PEACE)を求める相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>要求进贡以达link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>Exigir Tributo em troca de link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 협정용 공물 요구</ko>
+		<fixja>link(DIPLOMACY_PEACE)のための貢ぎ物を要求する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE_TARGET</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>要求进贡以达link(DIPLOMACY_PEACE)，与</zh-CN>
 		<pt-BR>Exigir Tributo em troca de link(DIPLOMACY_PEACE) a</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_PEACE) 협정용 공물 요구:</ko>
+		<fixja>link(DIPLOMACY_PEACE)の見返りに貢ぎ物を要求する相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>国家的link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Nacional</pt-BR>
 		<ko>국가와 link(DIPLOMACY_TRUCE) 협정 체결</ko>
+		<fixja>国家link(DIPLOMACY_TRUCE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_TARGET</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>达成国家的link(DIPLOMACY_TRUCE)，与</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Nacional com</pt-BR>
 		<ko>다음 국가와 link(DIPLOMACY_TRUCE) 협정 체결:</ko>
+		<fixja>国家link(DIPLOMACY_TRUCE)する相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_CHARACTER</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>达成国家的link(DIPLOMACY_TRUCE)，透过</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Nacional através de</pt-BR>
 		<ko>다음 인물이 link(DIPLOMACY_TRUCE) 협정 체결:</ko>
+		<fixja>国家link(DIPLOMACY_TRUCE)を取りつける人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>进贡以达link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>Oferecer Tributo em troca de uma link(DIPLOMACY_TRUCE)</pt-BR>
 		<ko>link(DIPLOMACY_TRUCE) 협정용 공물 조공</ko>
+		<fixja>link(DIPLOMACY_TRUCE)のために貢ぎ物を贈る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE_TARGET</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>进贡以达link(DIPLOMACY_TRUCE)，与</zh-CN>
 		<pt-BR>Oferecer Tributo em troca de uma link(DIPLOMACY_TRUCE) com</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_TRUCE) 협정용 공물 조공:</ko>
+		<fixja>link(DIPLOMACY_TRUCE)のために貢ぎ物を贈る相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>要求link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>Pedir por uma link(DIPLOMACY_TRUCE)</pt-BR>
 		<ko>link(DIPLOMACY_TRUCE) 협정 요청</ko>
+		<fixja>link(DIPLOMACY_TRUCE)を求める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE_TARGET</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>要求link(DIPLOMACY_TRUCE)，与</zh-CN>
 		<pt-BR>Pedir por uma link(DIPLOMACY_TRUCE) a</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_TRUCE) 협정 요청:</ko>
+		<fixja>link(DIPLOMACY_TRUCE)を求める相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>要求进贡以达link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>Exigir Tributo em troca de uma link(DIPLOMACY_TRUCE)</pt-BR>
 		<ko>link(DIPLOMACY_TRUCE) 협정용 공물 요구</ko>
+		<fixja>link(DIPLOMACY_TRUCE)のための貢ぎ物を要求する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE_TARGET</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>要求进贡以达link(DIPLOMACY_TRUCE)，与</zh-CN>
 		<pt-BR>Exigir Tributo em troca de link(DIPLOMACY_TRUCE) a</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_TRUCE) 협정용 공물 요구:</ko>
+		<fixja>link(DIPLOMACY_TRUCE)の見返りとして貢ぎ物を要求する相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_HUMAN</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>国家的link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Nacional</pt-BR>
 		<ko>국가와 link(DIPLOMACY_TRUCE) 협정 체결</ko>
+		<fixja>国家link(DIPLOMACY_TRUCE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>宣布link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Declarar link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR) 선포</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>打破link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>Cessar a link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 협정 파기</ko>
+		<fixja>link(DIPLOMACY_PEACE)の解消</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>结束联盟</zh-CN>
 		<pt-BR>Dissolver Aliança</pt-BR>
 		<ko>동맹 파기</ko>
+		<fixja>同盟の破棄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>取消所有贸易</zh-CN>
 		<pt-BR>Encerrar Relações Comerciais</pt-BR>
 		<ko>모든 교역 중단</ko>
+		<fixja>すべての交易の中止</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_ALLIANCE</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>部落联盟</zh-CN>
 		<pt-BR>Aliança Tribal</pt-BR>
 		<ko>부족 동맹 체결</ko>
+		<fixja>部族同盟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_ALLIANCE_TARGET</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>建立部落联盟，与</zh-CN>
 		<pt-BR>Aliança Tribal com</pt-BR>
 		<ko>다음 부족과 동맹 체결:</ko>
+		<fixja>部族同盟を結ぶ相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_ALLIANCE_CHARACTER</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>建立部落联盟，透过</zh-CN>
 		<pt-BR>Aliança Tribal através de</pt-BR>
 		<ko>다음 인물이 동맹 체결:</ko>
+		<fixja>部族同盟を取りつける人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_PEACE</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>部落的link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) Tribal</pt-BR>
 		<ko>부족과 link(DIPLOMACY_PEACE) 협정 체결</ko>
+		<fixja>部族link(DIPLOMACY_PEACE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_PEACE_TARGET</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>部落的link(DIPLOMACY_PEACE)，与</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) Tribal com</pt-BR>
 		<ko>다음 부족과 link(DIPLOMACY_PEACE) 협정 체결:</ko>
+		<fixja>部族link(DIPLOMACY_PEACE)を取り付ける相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_PEACE_CHARACTER</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>部落的link(DIPLOMACY_PEACE)，透过</zh-CN>
 		<pt-BR>link(DIPLOMACY_PEACE) Tribal através de</pt-BR>
 		<ko>다음 인물이 link(DIPLOMACY_PEACE) 협정 체결:</ko>
+		<fixja>部族link(DIPLOMACY_PEACE)を取り付ける人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_TRUCE</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>部落的link(DIPLOMACY_TRUCE)</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Tribal</pt-BR>
 		<ko>부족과 link(DIPLOMACY_TRUCE) 협정 체결</ko>
+		<fixja>部族link(DIPLOMACY_TRUCE)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_TRUCE_TARGET</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>部落的link(DIPLOMACY_TRUCE)，与</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Tribal com</pt-BR>
 		<ko>다음 부족과 link(DIPLOMACY_TRUCE) 협정 체결:</ko>
+		<fixja>部族link(DIPLOMACY_TRUCE)する相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_TRUCE_CHARACTER</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>部落的link(DIPLOMACY_TRUCE)，透过</zh-CN>
 		<pt-BR>link(DIPLOMACY_TRUCE) Tribal através de</pt-BR>
 		<ko>다음 인물이 link(DIPLOMACY_TRUCE) 협정 체결:</ko>
+		<fixja>部族link(DIPLOMACY_TRUCE)を取りつける人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_DECLARE_WAR</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>宣布link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Declarar link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR) 선포</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_BREAK_PEACE</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>打破link(DIPLOMACY_PEACE)</zh-CN>
 		<pt-BR>Cessar a link(DIPLOMACY_PEACE)</pt-BR>
 		<ko>link(DIPLOMACY_PEACE) 협정 파기</ko>
+		<fixja>link(DIPLOMACY_PEACE)の解消</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_END_ALLIANCE</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>结束联盟</zh-CN>
 		<pt-BR>Dissolver Aliança</pt-BR>
 		<ko>동맹 파기</ko>
+		<fixja>同盟の破棄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>接受link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>Adotar uma link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>link(CONCEPT_STATE_RELIGION) 지정</ko>
+		<fixja>link(CONCEPT_STATE_RELIGION)を採用する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEAVE_RELIGION</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>离开link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>Abandonar a link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>link(CONCEPT_STATE_RELIGION) 탈교</ko>
+		<fixja>link(CONCEPT_STATE_RELIGION)から離脱する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SEND_COURTIER</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>派遣link(CONCEPT_COURTIER)</zh-CN>
 		<pt-BR>Enviar link(CONCEPT_COURTIER)</pt-BR>
 		<ko>link(CONCEPT_COURTIER) 파견</ko>
+		<fixja>link(CONCEPT_COURTIER)を遣わす</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SEND_COURTIER_TARGET</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>派遣link(CONCEPT_COURTIER)至</zh-CN>
 		<pt-BR>Enviar link(CONCEPT_COURTIER) para</pt-BR>
 		<ko>다음 장소에 link(CONCEPT_COURTIER)를 파견:</ko>
+		<fixja>link(CONCEPT_COURTIER)を遣わす先：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONCLASS_MARRIAGE</zType>
@@ -624,6 +670,7 @@
 		<zh-CN>联姻</zh-CN>
 		<pt-BR>Casamento</pt-BR>
 		<ko>결혼</ko>
+		<fixja>結婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_MARRIAGE</zType>
@@ -637,6 +684,7 @@
 		<zh-CN>异国联姻</zh-CN>
 		<pt-BR>Casamento com Estrangeiro</pt-BR>
 		<ko>국외 결혼</ko>
+		<fixja>外国との結婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_MARRIAGE</zType>
@@ -650,6 +698,7 @@
 		<zh-CN>部落联姻</zh-CN>
 		<pt-BR>Casamento com Membro Tribal</pt-BR>
 		<ko>부족과 결혼</ko>
+		<fixja>部族との結婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
@@ -663,6 +712,7 @@
 		<zh-CN>家族联姻</zh-CN>
 		<pt-BR>Casamento com Membro Familiar</pt-BR>
 		<ko>가문 결혼</ko>
+		<fixja>氏族間結婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
@@ -676,6 +726,7 @@
 		<zh-CN>与朝臣联姻</zh-CN>
 		<pt-BR>Casar com Membro da Corte</pt-BR>
 		<ko>신하와 결혼</ko>
+		<fixja>廷臣との結婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER_TARGET</zType>
@@ -689,6 +740,7 @@
 		<zh-CN>联姻</zh-CN>
 		<pt-BR>Casar-se com</pt-BR>
 		<ko>결혼</ko>
+		<fixja>結婚相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER_CHARACTER</zType>
@@ -702,6 +754,7 @@
 		<zh-CN>联姻</zh-CN>
 		<pt-BR>Casar-se com</pt-BR>
 		<ko>결혼</ko>
+		<fixja>結婚相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RALLY_TROOPS</zType>
@@ -715,6 +768,7 @@
 		<zh-CN>集结部队</zh-CN>
 		<pt-BR>Encorajar Tropas</pt-BR>
 		<ko>부대 집결</ko>
+		<fixja>部隊を結集</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RALLY_TROOPS_DESCRIPTION</zType>
@@ -728,6 +782,7 @@
 		<zh-CN>鼓励部队接受link(YIELD_TRAINING)</zh-CN>
 		<pt-BR>Inspire as tropas para obter link(YIELD_TRAINING)</pt-BR>
 		<ko>부대를 고취하여 link(YIELD_TRAINING)을 얻는다</ko>
+		<fixja>兵士たちを奮い立たせて、link(YIELD_TRAINING)を積ませる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_HOLD_COURT</zType>
@@ -741,6 +796,7 @@
 		<zh-CN>统领朝廷</zh-CN>
 		<pt-BR>Realizar Audiência</pt-BR>
 		<ko>국정 논의</ko>
+		<fixja>開廷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_HOLD_COURT_DESCRIPTION</zType>
@@ -754,6 +810,7 @@
 		<zh-CN>通过审判增加link(YIELD_CIVICS)</zh-CN>
 		<pt-BR>Realize julgamentos para ganhar link(YIELD_CIVICS)</pt-BR>
 		<ko>판결을 내려 link(YIELD_CIVICS)을 얻는다</ko>
+		<fixja>link(YIELD_CIVICS)獲得のための判断を下す</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ABDICATE</zType>
@@ -767,6 +824,7 @@
 		<zh-CN>退位</zh-CN>
 		<pt-BR>Abdicar ao Trono</pt-BR>
 		<ko>폐위</ko>
+		<fixja>王位の退位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFLUENCE</zType>
@@ -780,6 +838,7 @@
 		<zh-CN>影响力</zh-CN>
 		<pt-BR>Influência</pt-BR>
 		<ko>영향력 행사</ko>
+		<fixja>影響力</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFLUENCE_CHARACTER</zType>
@@ -793,6 +852,7 @@
 		<zh-CN>影响力，透过</zh-CN>
 		<pt-BR>Exercer Influência através de</pt-BR>
 		<ko>다음 인물이 영향력 행사:</ko>
+		<fixja>影響力を振るう人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CONVERT_SELF</zType>
@@ -806,6 +866,7 @@
 		<zh-CN>皈依宗教</zh-CN>
 		<pt-BR>Converter à Religião</pt-BR>
 		<ko>종교 개종</ko>
+		<fixja>改宗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CONVERT_SELF_TARGET</zType>
@@ -819,6 +880,7 @@
 		<zh-CN>皈依</zh-CN>
 		<pt-BR>Converter ao</pt-BR>
 		<ko>다음 종교로 개종:</ko>
+		<fixja>改宗する宗教：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CONVERT_STATE</zType>
@@ -832,6 +894,7 @@
 		<zh-CN>皈依link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>Converter à link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>link(CONCEPT_STATE_RELIGION)로 개종</ko>
+		<fixja>link(CONCEPT_STATE_RELIGION)に改宗する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CONVERT_RELIGION</zType>
@@ -845,6 +908,7 @@
 		<zh-CN>皈依link(CONCEPT_RELIGION)</zh-CN>
 		<pt-BR>Converter à link(CONCEPT_RELIGION)</pt-BR>
 		<ko>link(CONCEPT_RELIGION) 개종</ko>
+		<fixja>link(CONCEPT_RELIGION)改宗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CONVERT_RELIGION_CHARACTER</zType>
@@ -858,6 +922,7 @@
 		<zh-CN>皈依link(CONCEPT_RELIGION)，透过</zh-CN>
 		<pt-BR>Converter à link(CONCEPT_RELIGION) através de</pt-BR>
 		<ko>다음 인물을 통해 link(CONCEPT_RELIGION) 개종:</ko>
+		<fixja>link(CONCEPT_RELIGION)の改宗を司る人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INTERCESSION</zType>
@@ -871,6 +936,7 @@
 		<zh-CN>调解</zh-CN>
 		<pt-BR>Intervenção</pt-BR>
 		<ko>중재</ko>
+		<fixja>仲裁</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INTERCESSION_RELIGION</zType>
@@ -884,6 +950,7 @@
 		<zh-CN>调解 (宗教)</zh-CN>
 		<pt-BR>Intervenção Religiosa</pt-BR>
 		<ko>중재(종교)</ko>
+		<fixja>仲裁（宗教）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INTERCESSION_FAMILY</zType>
@@ -897,6 +964,7 @@
 		<zh-CN>调解 (家族)</zh-CN>
 		<pt-BR>Intervenção Familiar</pt-BR>
 		<ko>중재(가문)</ko>
+		<fixja>仲裁（氏族）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INTERCESSION_CHARACTER</zType>
@@ -910,6 +978,7 @@
 		<zh-CN>调解，透过</zh-CN>
 		<pt-BR>Realizar Intervenção através de</pt-BR>
 		<ko>다음 인물이 중재:</ko>
+		<fixja>仲裁を行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT</zType>
@@ -923,6 +992,7 @@
 		<zh-CN>收养小孩</zh-CN>
 		<pt-BR>Adotar uma Criança</pt-BR>
 		<ko>양자 입양</ko>
+		<fixja>養子縁組</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGITIMIZE</zType>
@@ -936,6 +1006,7 @@
 		<zh-CN>认祖归宗</zh-CN>
 		<pt-BR>Legitimar</pt-BR>
 		<ko>적통 서자 임명</ko>
+		<fixja>合法化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
@@ -949,6 +1020,7 @@
 		<zh-CN>选定继承人</zh-CN>
 		<pt-BR>Escolher Herdeiro</pt-BR>
 		<ko>후계자 임명</ko>
+		<fixja>後継者の選択</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE</zType>
@@ -962,6 +1034,7 @@
 		<zh-CN>渗透国家</zh-CN>
 		<pt-BR>Infiltrar Nação</pt-BR>
 		<ko>잠입</ko>
+		<fixja>国家への潜入</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_DESCRIPTION</zType>
@@ -975,6 +1048,7 @@
 		<zh-CN>潜入一个国家，揭示其版图</zh-CN>
 		<pt-BR>Infiltre-se em uma nação para revelar o território deles</pt-BR>
 		<ko>국가에 잠입하여 영토를 개척한다</ko>
+		<fixja>国家に潜入して、その土地の詳細を探る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_TARGET</zType>
@@ -988,6 +1062,7 @@
 		<zh-CN>渗透</zh-CN>
 		<pt-BR>Infiltrar</pt-BR>
 		<ko>잠입</ko>
+		<fixja>潜入対象：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_CHARACTER</zType>
@@ -1001,6 +1076,7 @@
 		<zh-CN>渗透国家，透过</zh-CN>
 		<pt-BR>Infiltrar Nação através de</pt-BR>
 		<ko>다음 인물이 국가에 잠입:</ko>
+		<fixja>国家潜入を行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SLANDER</zType>
@@ -1014,6 +1090,7 @@
 		<zh-CN>诽谤国家</zh-CN>
 		<pt-BR>Caluniar Nação</pt-BR>
 		<ko>비방</ko>
+		<fixja>国家を誹謗中傷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SLANDER_DESCRIPTION</zType>
@@ -1027,6 +1104,7 @@
 		<zh-CN>诽谤一个国家以降低其他国家对该国的link(CONCEPT_OPINION_PLAYER,3)</zh-CN>
 		<pt-BR>Conte calúnias sobre uma nação para diminuir a link(CONCEPT_OPINION_PLAYER,3) de outras nações sobre eles</pt-BR>
 		<ko>국가를 비방하여 그 국가에 대한 다른 국가의 태도를 악화한다</ko>
+		<fixja>対象の国（link(CONCEPT_OPINION_PLAYER,3)）のことを中傷して、他国からの評価を下げる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SLANDER_TARGET</zType>
@@ -1040,6 +1118,7 @@
 		<zh-CN>诽谤</zh-CN>
 		<pt-BR>Caluniar</pt-BR>
 		<ko>비방</ko>
+		<fixja>誹謗中傷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SLANDER_CHARACTER</zType>
@@ -1053,6 +1132,7 @@
 		<zh-CN>诽谤国家，透过</zh-CN>
 		<pt-BR>Caluniar Nação através de</pt-BR>
 		<ko>다음 인물이 국가를 비방:</ko>
+		<fixja>誹謗中傷を行う人物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_STEAL_RESEARCH</zType>
@@ -1066,6 +1146,7 @@
 		<zh-CN>偷走研究</zh-CN>
 		<pt-BR>Roubar Pesquisa</pt-BR>
 		<ko>연구물 절도</ko>
+		<fixja>研究盗用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_STEAL_RESEARCH_DESCRIPTION</zType>
@@ -1079,6 +1160,7 @@
 		<zh-CN>盗窃一个国家的研究成果以提升link(YIELD_SCIENCE)</zh-CN>
 		<pt-BR>Roube a pesquisa de uma nação para obter link(YIELD_SCIENCE)</pt-BR>
 		<ko>국가의 연구를 훔쳐 link(YIELD_SCIENCE)을 얻는다</ko>
+		<fixja>他国の研究を盗んで、link(YIELD_SCIENCE)を獲得する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_STEAL_RESEARCH_TARGET</zType>
@@ -1092,6 +1174,7 @@
 		<zh-CN>偷走研究，从</zh-CN>
 		<pt-BR>Roubar Pesquisa de</pt-BR>
 		<ko>다음 국가에서 연구물 절도:</ko>
+		<fixja>研究を盗む対象：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_STEAL_RESEARCH_CHARACTER</zType>
@@ -1105,6 +1188,7 @@
 		<zh-CN>偷走研究，透过</zh-CN>
 		<pt-BR>Roubar Pesquisa através de</pt-BR>
 		<ko>다음 인물이 연구물 절도:</ko>
+		<fixja>研究を盗む人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE</zType>
@@ -1118,6 +1202,7 @@
 		<zh-CN>暗杀</zh-CN>
 		<pt-BR>Assassinar</pt-BR>
 		<ko>암살</ko>
+		<fixja>暗殺</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE_CHARACTER</zType>
@@ -1131,6 +1216,7 @@
 		<zh-CN>暗杀，透过</zh-CN>
 		<pt-BR>Assassinar através de</pt-BR>
 		<ko>다음 인물이 암살:</ko>
+		<fixja>暗殺を行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_EXPOSE_AGENT</zType>
@@ -1144,6 +1230,7 @@
 		<zh-CN>揭露link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>Expor link(CONCEPT_AGENT_NETWORK)</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK) 색출</ko>
+		<fixja>link(CONCEPT_AGENT)を公開する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_EXPOSE_AGENT_TARGET</zType>
@@ -1157,6 +1244,7 @@
 		<zh-CN>揭露目标link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>Expor link(CONCEPT_AGENT_NETWORK) em</pt-BR>
 		<ko>다음 국가에서 link(CONCEPT_AGENT_NETWORK)을 색출:</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)を公開する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TREACHERY</zType>
@@ -1170,6 +1258,7 @@
 		<zh-CN>谋反</zh-CN>
 		<pt-BR>Inconfidência</pt-BR>
 		<ko>모반</ko>
+		<fixja>背信</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TREACHERY_TARGET</zType>
@@ -1183,6 +1272,7 @@
 		<zh-CN>谋反，在</zh-CN>
 		<pt-BR>Inconfidência em</pt-BR>
 		<ko>다음 장소에서 모반:</ko>
+		<fixja>裏切りを行う地：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INSURRECTION</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>叛变</zh-CN>
 		<pt-BR>Insurreição</pt-BR>
 		<ko>반란</ko>
+		<fixja>反乱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INSURRECTION_TARGET</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>叛变，在</zh-CN>
 		<pt-BR>Insurreição em</pt-BR>
 		<ko>다음 장소에서 반란:</ko>
+		<fixja>反乱の地：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MOVE_NETWORK</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>转移link(CONCEPT_AGENT_NETWORK)</zh-CN>
 		<pt-BR>Mover link(CONCEPT_AGENT_NETWORK)</pt-BR>
 		<ko>link(CONCEPT_AGENT_NETWORK) 이동</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)を移転させる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MOVE_NETWORK_TARGET</zType>
@@ -1235,6 +1328,7 @@
 		<zh-CN>将link(CONCEPT_AGENT_NETWORK)转移至</zh-CN>
 		<pt-BR>Mover link(CONCEPT_AGENT_NETWORK) para</pt-BR>
 		<ko>다음 장소로 link(CONCEPT_AGENT_NETWORK) 이동:</ko>
+		<fixja>link(CONCEPT_AGENT_NETWORK)の移転先: </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DEMAND_TRIBUTE</zType>
@@ -1248,6 +1342,7 @@
 		<zh-CN>要求进贡</zh-CN>
 		<pt-BR>Exigir Tributo</pt-BR>
 		<ko>공물 요구</ko>
+		<fixja>貢ぎ物の要求</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DEMAND_TRIBUTE_TARGET</zType>
@@ -1261,6 +1356,7 @@
 		<zh-CN>要求进贡，向</zh-CN>
 		<pt-BR>Exigir Tributo de</pt-BR>
 		<ko>다음 대상에게서 공물 요구:</ko>
+		<fixja>貢ぎ物を要求する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DEMAND_TRIBUTE_CHARACTER</zType>
@@ -1274,6 +1370,7 @@
 		<zh-CN>要求进贡，透过</zh-CN>
 		<pt-BR>Exigir Tributo através de</pt-BR>
 		<ko>다음 인물이 공물 요구:</ko>
+		<fixja>貢ぎ物を要求する人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
@@ -1287,6 +1384,7 @@
 		<zh-CN>贸易任务~贸易任务~贸易任务</zh-CN>
 		<pt-BR>Missão de Comércio~uma Missão de Comércio~Missões de Comércio</pt-BR>
 		<ko>교역~교역~교역</ko>
+		<fixja>交易ミッション</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION_TARGET</zType>
@@ -1300,6 +1398,7 @@
 		<zh-CN>贸易任务，与</zh-CN>
 		<pt-BR>Missão de Comércio com</pt-BR>
 		<ko>다음 대상과 교역:</ko>
+		<fixja>交易ミッション</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION_CHARACTER</zType>
@@ -1313,6 +1412,7 @@
 		<zh-CN>贸易任务，透过</zh-CN>
 		<pt-BR>Missão de Comércio através de</pt-BR>
 		<ko>다음 인물이 교역:</ko>
+		<fixja>交易ミッションを行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_HIGH_SYNOD</zType>
@@ -1326,6 +1426,7 @@
 		<zh-CN>宗教会议</zh-CN>
 		<pt-BR>Alto Sínodo</pt-BR>
 		<ko>최고 종교 회의 개최</ko>
+		<fixja>高等評議会</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_HIGH_SYNOD_DESCRIPTION</zType>
@@ -1339,6 +1440,7 @@
 		<zh-CN>与宗教领袖会面，以改善宗教的link(CONCEPT_OPINION_RELIGION,3)</zh-CN>
 		<pt-BR>Reúna-se com líderes religiosos para melhorar a link(CONCEPT_OPINION_RELIGION,3) da religião</pt-BR>
 		<ko>종교 수장들과 만나 해당 종교의 link(CONCEPT_OPINION_RELIGION,3)를 개선한다</ko>
+		<fixja>宗教の指導者たちと会うことで、そのlink(CONCEPT_OPINION_RELIGION,3)への評価を高める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_HIGH_SYNOD_TARGET</zType>
@@ -1352,6 +1454,7 @@
 		<zh-CN>宗教会议，与</zh-CN>
 		<pt-BR>Alto Sínodo com</pt-BR>
 		<ko>다음 대상과 최고 종교 회의 개최:</ko>
+		<fixja>高等評議会を共催する相手：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_HIGH_SYNOD_CHARACTER</zType>
@@ -1365,6 +1468,7 @@
 		<zh-CN>宗教会议，透过</zh-CN>
 		<pt-BR>Alto Sínodo através de</pt-BR>
 		<ko>다음 인물이 최고 종교 회의 개최:</ko>
+		<fixja>高等評議会を取り仕切る人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
@@ -1378,6 +1482,7 @@
 		<zh-CN>家族赠礼</zh-CN>
 		<pt-BR>Presentear Família</pt-BR>
 		<ko>가문에게 선물</ko>
+		<fixja>氏族への贈り物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT_DESCRIPTION</zType>
@@ -1391,6 +1496,7 @@
 		<zh-CN>用礼物贿赂家族成员以改善link(CONCEPT_OPINION_FAMILY,3)</zh-CN>
 		<pt-BR>Suborne a família com presentes para melhorar a link(CONCEPT_OPINION_FAMILY,3) deles</pt-BR>
 		<ko>가문에 뇌물을 주어 해당 가문의 link(CONCEPT_OPINION_FAMILY,3)를 개선한다</ko>
+		<fixja>氏族に贈り物をして、彼らのlink(CONCEPT_OPINION_FAMILY,3)を高める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT_CHARACTER</zType>
@@ -1404,6 +1510,7 @@
 		<zh-CN>家族赠礼，透过</zh-CN>
 		<pt-BR>Presentear Família através de</pt-BR>
 		<ko>다음 인물이 가문에게 선물:</ko>
+		<fixja>氏族への贈り物をする人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PACIFY_CITY</zType>
@@ -1417,6 +1524,7 @@
 		<zh-CN>绥定城市</zh-CN>
 		<pt-BR>Pacificar Cidade</pt-BR>
 		<ko>도시 진정</ko>
+		<fixja>都市鎮圧</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PACIFY_CITY_DESCRIPTION</zType>
@@ -1430,6 +1538,7 @@
 		<zh-CN>尝试增加城市的link(YIELD_HAPPINESS)</zh-CN>
 		<pt-BR>Tente aumentar a link(YIELD_HAPPINESS) em uma cidade</pt-BR>
 		<ko>도시의 link(YIELD_HAPPINESS)를 높이려고 시도한다</ko>
+		<fixja>都市のlink(YIELD_HAPPINESS)上昇を試みる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PACIFY_CITY_TARGET</zType>
@@ -1443,6 +1552,7 @@
 		<zh-CN>绥定</zh-CN>
 		<pt-BR>Pacificar</pt-BR>
 		<ko>진정</ko>
+		<fixja>鎮圧</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PACIFY_CITY_CHARACTER</zType>
@@ -1456,6 +1566,7 @@
 		<zh-CN>绥定城市，透过</zh-CN>
 		<pt-BR>Pacificar Cidade através de</pt-BR>
 		<ko>다음 인물이 도시 진정:</ko>
+		<fixja>都市鎮圧を行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON</zType>
@@ -1469,6 +1580,7 @@
 		<zh-CN>囚禁</zh-CN>
 		<pt-BR>Aprisionar</pt-BR>
 		<ko>투옥</ko>
+		<fixja>投獄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON_CHARACTER</zType>
@@ -1482,6 +1594,7 @@
 		<zh-CN>囚禁，透过</zh-CN>
 		<pt-BR>Aprisionar através de</pt-BR>
 		<ko>다음 인물이 대상을 투옥:</ko>
+		<fixja>投獄を行う人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RELEASE</zType>
@@ -1495,6 +1608,7 @@
 		<zh-CN>获释</zh-CN>
 		<pt-BR>Soltar da Prisão</pt-BR>
 		<ko>석방</ko>
+		<fixja>牢獄から解放</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURE</zType>
@@ -1508,6 +1622,7 @@
 		<zh-CN>捕获</zh-CN>
 		<pt-BR>Capturar</pt-BR>
 		<ko>생포</ko>
+		<fixja>占拠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PAY_RANSOM</zType>
@@ -1521,6 +1636,7 @@
 		<zh-CN>支付赎金</zh-CN>
 		<pt-BR>Pagar Resgate</pt-BR>
 		<ko>몸값 지불</ko>
+		<fixja>身代金の支払い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DIVORCE</zType>
@@ -1534,6 +1650,7 @@
 		<zh-CN>与配偶离婚</zh-CN>
 		<pt-BR>Divorciar do Cônjuge</pt-BR>
 		<ko>배우자와 이혼</ko>
+		<fixja>配偶者との離婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
@@ -1547,6 +1664,7 @@
 		<zh-CN>离婚</zh-CN>
 		<pt-BR>Divorciar</pt-BR>
 		<ko>이혼</ko>
+		<fixja>離婚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR</zType>
@@ -1560,6 +1678,7 @@
 		<zh-CN>link(CONCEPT_TUTOR)孩子</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4) Criança</pt-BR>
 		<ko>자손 link(CONCEPT_TUTOR)</ko>
+		<fixja>子供をlink(CONCEPT_TUTOR)する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_LEADER</zType>
@@ -1573,6 +1692,7 @@
 		<zh-CN>link(CONCEPT_TUTOR)孩子</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4) Criança</pt-BR>
 		<ko>자손 link(CONCEPT_TUTOR)</ko>
+		<fixja>子供のlink(CONCEPT_TUTOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_COURTIER</zType>
@@ -1586,6 +1706,7 @@
 		<zh-CN>link(CONCEPT_TUTOR)孩子 (作为朝臣)</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4) Criança (como membro da corte)</pt-BR>
 		<ko>자손 link(CONCEPT_TUTOR) (신하로)</ko>
+		<fixja>子供をlink(CONCEPT_TUTOR)する（廷臣として）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_TARGET</zType>
@@ -1599,6 +1720,7 @@
 		<zh-CN>link(CONCEPT_TUTOR)</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4)</pt-BR>
 		<ko>link(CONCEPT_TUTOR)</ko>
+		<fixja>link(CONCEPT_TUTOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TUTOR_CHARACTER</zType>
@@ -1612,6 +1734,7 @@
 		<zh-CN>link(CONCEPT_TUTOR)，透过</zh-CN>
 		<pt-BR>link(CONCEPT_TUTOR,4) através de</pt-BR>
 		<ko>다음 인물이 link(CONCEPT_TUTOR):</ko>
+		<fixja>link(CONCEPT_TUTOR)する人物：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_PLAYER_WAR</zType>
@@ -1625,6 +1748,7 @@
 		<zh-CN>要求宣布link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Pedir para Declarar link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR) 선포 요청</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告するよう求める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRIBE_PLAYER_WAR_TARGET</zType>
@@ -1638,6 +1762,7 @@
 		<zh-CN>要求宣布link(DIPLOMACY_WAR)，对</zh-CN>
 		<pt-BR>Pedir para Declarar link(DIPLOMACY_WAR) contra</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_WAR) 선포 요청:</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告するよう求める対象：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRIBE_WAR</zType>
@@ -1651,6 +1776,7 @@
 		<zh-CN>要求宣布link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Pedir para Declarar link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR) 선포 요청</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告するよう求める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRIBE_WAR_TARGET</zType>
@@ -1664,6 +1790,7 @@
 		<zh-CN>要求宣布link(DIPLOMACY_WAR)，对</zh-CN>
 		<pt-BR>Pedir para Declarar link(DIPLOMACY_WAR) contra</pt-BR>
 		<ko>다음 부족에 link(DIPLOMACY_WAR) 선포 요청:</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告するよう求める対象：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
@@ -1677,6 +1804,7 @@
 		<zh-CN>要求宣布link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Pedir para Declarar link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR) 선포 요청</ko>
+		<fixja>link(DIPLOMACY_WAR)を布告するよう求める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR_TARGET</zType>
@@ -1690,6 +1818,7 @@
 		<zh-CN>要求宣布link(DIPLOMACY_WAR)，对</zh-CN>
 		<pt-BR>Pedir para Declarar link(DIPLOMACY_WAR) contra</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_WAR) 선포 요청:</ko>
+		<fixja>link(DIPLOMACY_WAR)への参加を求める：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_JOIN_PLAYER_WAR</zType>
@@ -1703,6 +1832,7 @@
 		<zh-CN>要求参加link(DIPLOMACY_WAR)</zh-CN>
 		<pt-BR>Pedir para juntar-se à link(DIPLOMACY_WAR)</pt-BR>
 		<ko>link(DIPLOMACY_WAR) 요청 참전을</ko>
+		<fixja>link(DIPLOMACY_WAR)への参加を求める</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_JOIN_PLAYER_WAR_TARGET</zType>
@@ -1716,6 +1846,7 @@
 		<zh-CN>要求参加link(DIPLOMACY_WAR)，对</zh-CN>
 		<pt-BR>Pedir para juntar-se à link(DIPLOMACY_WAR) contra</pt-BR>
 		<ko>다음 국가에 link(DIPLOMACY_WAR) 요청 참전을</ko>
+		<fixja>link(DIPLOMACY_WAR)への参加を求める：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RECRUIT_SCHOLAR</zType>
@@ -1729,6 +1860,7 @@
 		<zh-CN>招募学者</zh-CN>
 		<pt-BR>Recrutar Acadêmico</pt-BR>
 		<ko>학자 채용</ko>
+		<fixja>学者採用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INTIMIDATE</zType>
@@ -1742,6 +1874,7 @@
 		<zh-CN>威吓</zh-CN>
 		<pt-BR>Intimidar</pt-BR>
 		<ko>위협</ko>
+		<fixja>脅迫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INTIMIDATE_CHARACTER</zType>
@@ -1755,6 +1888,7 @@
 		<zh-CN>威吓，通过</zh-CN>
 		<pt-BR>Intimidar através de</pt-BR>
 		<ko>다음 인물이 위협:</ko>
+		<fixja>脅迫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEAD_DELEGATION</zType>
@@ -1768,6 +1902,7 @@
 		<zh-CN>率领代表团~率领代表团</zh-CN>
 		<pt-BR>Liderar Delegação~Liderar uma Delegação</pt-BR>
 		<ko>대표단 주도~대표단 주도</ko>
+		<fixja>使節団を指揮~使節団を指揮</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEAD_DELEGATION_CHARACTER</zType>
@@ -1781,5 +1916,6 @@
 		<zh-CN>率领代表团，通过</zh-CN>
 		<pt-BR>Liderar Delegação através de</pt-BR>
 		<ko>다음 인물이 대표단을 주도:</ko>
+		<fixja>使節団を指揮</fixja>
 	</Entry>
 </Root>

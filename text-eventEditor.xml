@@ -47,6 +47,9 @@ Prefixos genéricos como EVENTSTORY_ e EVENTOPTION_ serão automaticamente adici
 		<ko>FAMILY_SQUABBLE처럼 이 사건에 사용되는 고유한 베이스입니다. 이 스트링에는 EVENTSTORY_ 를 포함하지 않도록 하십시오.
 
 이름 베이스는 EVENTSTORY_ 나 EVENTOPTION_ 같은 일반 접두사에 자동으로 붙어 zType을 생성합니다.</ko>
+		<fixja>「FAMILY_SQUABBLE」のような、このイベントストーリーの一意のネームベースとなるものです。この文字列に「EVENTSTORY_」を含めないようにしてください。
+
+ネームベースは、「EVENTSTORY_」や「EVENTOPTION_」などの一般的なプレフィックスに自動的に追加され、zTypeを作成します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTEDITOR_OPTION_NAME_BASES_DESC</zType>
@@ -82,6 +85,9 @@ Caso você queria utilizar opções já existentes ou opções cujo nome não se
 
 
 이미 존재하는 선택지나 다른 방식으로 계산되는 선택지를 넣으려면 이곳에 공백을 추가하십시오.</ko>
+		<fixja>このストーリーのオプションのネームベース。これらは、ストーリーネームベースの後のオプションzTypeに追加されます。
+		
+既存のオプションや、同じ属性で名前が定義されないオプションを追加する場合は、ここに空白の項目を追加します。</fixja>
 	</Entry>
 	<!-- Other -->
 	<Entry>
@@ -96,6 +102,7 @@ Caso você queria utilizar opções já existentes ou opções cujo nome não se
 		<zh-CN>此笔输入条目所属的群组。这是为了用于在浏览器/xml 中分类。</zh-CN>
 		<pt-BR>O grupo ao qual esta entrada pertence. Será usado para organização no navegador/xml.</pt-BR>
 		<ko>이 항목이 속하는 그룹입니다. 탐색기/xml에서 분류할 때 사용됩니다.</ko>
+		<fixja>このエントリが属するグループ。これは、ブラウザー/xmlでソートするためのものです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTEDITOR_SHOW_REFERENCES_DESC</zType>
@@ -109,6 +116,7 @@ Caso você queria utilizar opções já existentes ou opções cujo nome não se
 		<zh-CN>显示直接提及此笔输入条目的资讯标签清单。</zh-CN>
 		<pt-BR>Mostra uma lista de etiquetas informativas que fazem referência direta à esta entrada.</pt-BR>
 		<ko>이 항목을 직접 참조하는 정보 태그 목록을 표시합니다.</ko>
+		<fixja>このエントリを直接参照する情報タグのリストを表示します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTEDITOR_SHOW_EVENT_ROOTS_DESC</zType>
@@ -122,5 +130,6 @@ Caso você queria utilizar opções já existentes ou opções cujo nome não se
 		<zh-CN>显示在阶层中某处提及此笔输入条目的事件清单。</zh-CN>
 		<pt-BR>Mostra uma lista de eventos que fazem referência à esta entrada em algum lugar da hierarquia.</pt-BR>
 		<ko>같은 계층에서 이 항목을 참조하는 모든 이벤트를 표시합니다.</ko>
+		<fixja>階層内のどこかでこのエントリを参照するイベントのリストを表示します。</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>所有城市都失去了一位link(CONCEPT_CITIZEN)！</zh-CN>
 		<pt-BR>Todas as cidades perdem um link(CONCEPT_CITIZEN)!</pt-BR>
 		<ko>모든 도시가 link(CONCEPT_CITIZEN) 한 명을 잃습니다!</ko>
+		<fixja>全ての都市がlink(CONCEPT_CITIZEN) 1人を喪失！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_REBUILDER_OATH_REPAIR_IMPROVEMENT</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>我履行了誓言，修缮了一处改良设施</zh-CN>
 		<pt-BR>Honrei meu juramento ao reparar uma melhoria</pt-BR>
 		<ko>시설을 수리하여 나의 맹세를 지켰다</ko>
+		<fixja>建設物を修理して誓いを果たした</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_REBUILDER_OATH_BUILD_IMPROVEMENT</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>我履行了誓言，建造了一处改良设施</zh-CN>
 		<pt-BR>Honrei meu juramento ao construir uma melhoria</pt-BR>
 		<ko>시설을 건설하여 나의 맹세를 지켰다</ko>
+		<fixja>建設物を作成して誓いを果たした</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_REBUILDER_OATH_KILL_UNIT</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>我背弃了誓言，没能重建国家</zh-CN>
 		<pt-BR>Perdi o foco sobre meu juramento de reconstruir a nação</pt-BR>
 		<ko>나라를 재건한다는 나의 맹세를 지키지 못했다</ko>
+		<fixja>国家再建の誓いより外れた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_AVENGER_OATH_IMPROVEMENT</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>我背弃了誓言，没能为国家复仇</zh-CN>
 		<pt-BR>Perdi o foco sobre meu juramento de vingar a nação</pt-BR>
 		<ko>나라를 위해 복수하겠다는 나의 맹세를 지키지 못했다</ko>
+		<fixja>国家の復讐の誓いより外れた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_AVENGER_OATH_KILL_UNIT</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>我履行了誓言，成功为国家复仇</zh-CN>
 		<pt-BR>Honrei meu juramento de vingar a nação</pt-BR>
 		<ko>나라를 위해 복수하겠다는 나의 맹세를 지켰다</ko>
+		<fixja>国家の復讐の誓いを果たした</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_TRUCE_PEACE_LEADER</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>在艰难时期达成了一项和平协议</zh-CN>
 		<pt-BR>Firmei um acordo de paz durante tempos difíceis</pt-BR>
 		<ko>힘든 시기에 평화 협정을 이끌어냈다</ko>
+		<fixja>困難な時期に和平交渉を成立させた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_END_POLYTHEISM_CONVERT_LEADER</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>让一个家族影响了我的信仰</zh-CN>
 		<pt-BR>Permiti que uma família influenciasse minha fé</pt-BR>
 		<ko>가문이 나의 신앙에 영향을 주는 것을 허용했다</ko>
+		<fixja>家族1つに我が信仰を広めた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_DROUGHT_BATHS_CHARMING_PLAYER</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>与抗议的农民达成了妥协方案</zh-CN>
 		<pt-BR>Busquei um acordo com fazendeiros insatisfeitos</pt-BR>
 		<ko>시위하는 농부들과 합의에 성공했다</ko>
+		<fixja>抗議する農民たちとの妥協案をまとめた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_DROUGHT_FOOD_RATIONS_TYRANNY_PLAYER</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>镇压了质疑我统治的公民</zh-CN>
 		<pt-BR>Reprimi cidadãos que questionaram meu governo</pt-BR>
 		<ko>내 통치에 의문을 가지는 시민들을 달랬다</ko>
+		<fixja>我が統治を疑った市民を鎮圧した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_DROUGHT_END_STEWARD_INTOLERANT_LEADER</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>拒绝采用部落治理的惯例</zh-CN>
 		<pt-BR>Recusou-se a adotar práticas de governo tribais</pt-BR>
 		<ko>부족의 통치 방식을 채택하는 것을 거절했다</ko>
+		<fixja>部族の統治慣行の採用を拒否した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_DROUGHT_TRIBE_HARVEST_APOLOGIZE_LEADER</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>与一个部落抢夺食物来源时败退</zh-CN>
 		<pt-BR>Recuou de uma tribo defendendo sua fonte de comida</pt-BR>
 		<ko>식량원을 방어하는 부족으로부터 물러났다</ko>
+		<fixja>食料源を守ろうとする部族より引き下がった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_DROUGHT_WAR_OFFER_WARN_LEADER</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>对外国领袖没有表现出软弱</zh-CN>
 		<pt-BR>Não demonstrou sinais de fraqueza a um líder estrangeiro</pt-BR>
 		<ko>외국 지도자에게 약점을 보이지 않았다</ko>
+		<fixja>外国の指導者に弱みを見せなかった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_PLAGUE_WAR_OFFER_WAR_LEADER</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>勇敢面对敌对国家的威胁</zh-CN>
 		<pt-BR>Enfrentou as ameaças de uma nação hostil</pt-BR>
 		<ko>적대적 국가의 위협에 맞섰다</ko>
+		<fixja>敵国の脅威に立ち向かった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_HURRICANE_SHIP_OF_ONES_OWN_YES_SWIFT</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>{0_character}似乎克服了所有的困难，证明自己确实是一位适合远航的船长。{masculine_0_他的:她的}船非常link(TRAIT_SWIFT)，令人咋舌！</zh-CN>
 		<pt-BR>{0_character}, mesmo com todas as dúvidas, provou ser {masculine_0:um capitão:uma capitã} de valor. Seu navio impressiona de tão link(TRAIT_SWIFT)!</pt-BR>
 		<ko>전혀 가능성이 없어 보였지만 {0_character}(은)는 선장의 자격이 있었습니다. {masculine_0:그:그녀}의 배는 인상적일 정도로 link(TRAIT_SWIFT) 모습입니다!</ko>
+		<fixja>{0_character}は大きな困難に打ち勝ち、立派な船長であることを証明した。{masculine_0:彼:彼女}の船は今やlink(TRAIT_SWIFT)となった！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_HURRICANE_SHIP_OF_ONES_OWN_YES_TRACKER</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>事实证明，link(OCCURRENCE_HURRICANE)对{0_character}而言不成问题。{masculine_0:他:她}可以在波涛汹涌的水面上磨炼自己的link(TRAIT_TRACKER)技艺。</zh-CN>
 		<pt-BR>{0_character} não teve problemas com o link(OCCURRENCE_HURRICANE). Nas águas agitadas {masculine_0:ele:ela} refinou ainda mais suas habilidades de link(TRAIT_TRACKER,{masculine_0:M:F}).</pt-BR>
 		<ko>{0_character}에게 link(OCCURRENCE_HURRICANE)은 큰 문제가 아니었습니다. 거센 물살 속에서 link(TRAIT_TRACKER)의 기술을 연마할 수 있었습니다.</ko>
+		<fixja>link(OCCURRENCE_HURRICANE)は{0_character}にとって何の脅威ともならなかった。荒波の中で{masculine_0:彼:彼女}はlink(TRAIT_TRACKER)の技術を磨くことができた。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_HURRICANE_SHIP_OF_ONES_OWN_YES_MISSING</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>可惜，{0_character}在link(OCCURRENCE_HURRICANE)期间在海上link(TRAIT_MISSING)了。也许你看好{masculine_0:他:她}就是一个错误。</zh-CN>
 		<pt-BR>{0_character}, infelizmente, está  link(TRAIT_MISSING,{masculine_0:M:F}) no mar devido ao link(OCCURRENCE_HURRICANE). Talvez a confiança que você depositou {masculine_0:nele:nela} não fora merecida.</pt-BR>
 		<ko>{0_character}(은)는 link(OCCURRENCE_HURRICANE) 때 바다에서 link(TRAIT_MISSING)가 됐던 많은 사람 중 하나입니다. 어쩌면 {masculine_0:그:그녀}에 대한 신뢰를 잘못 판단했는지도 모르겠습니다.</ko>
+		<fixja>残念ながら{0_character}もまたlink(OCCURRENCE_HURRICANE)の最中、海でlink(TRAIT_MISSING)となった者の1人となった。どうやらあなたの{masculine_0:彼:彼女}に対する評価は誤っていたようだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_TSUNAMI_RETREAT_NO_LEADER</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>在抗击海啸时没有怯懦退缩</zh-CN>
 		<pt-BR>Não retrocedeu do combate durante um tsunami</pt-BR>
 		<ko>해일 도중에 전투를 포기하지 않았다</ko>
+		<fixja>津波の間でも戦闘より引き下がらなかった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_EARTHQUAKE_COLOSSUS_BUILDER_LEADER</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>已重建巨人像</zh-CN>
 		<pt-BR>Reconstruiu o Colosso</pt-BR>
 		<ko>거상을 다시 건설했다</ko>
+		<fixja>巨像を再建した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_NAMED_UNIT_CHAMPIONS_OF_THE_STORM</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>风暴勇士</zh-CN>
 		<pt-BR>Campeões da Tempestade</pt-BR>
 		<ko>폭풍의 지배자</ko>
+		<fixja>嵐の勇者たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_HURRICANE_START_ANCHOR_OK_LEADER</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>面对将军犯下的疏忽，没有采取任何措施</zh-CN>
 		<pt-BR>Não agiu em resposta ao erro de um general</pt-BR>
 		<ko>장군의 실수에 대한 조치를 취하지 않았다</ko>
+		<fixja>将軍の失態に対して何も行動を起こさなかった</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_HURRICANE_END_POSEIDON_ARTIST_LEADER</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>创作了一件伟大的艺术品，向波塞冬致敬</zh-CN>
 		<pt-BR>Criou um grande trabalho de arte em homenagem a Poseidon</pt-BR>
 		<ko>포세이돈을 기리는 위대한 예술품을 창조했다</ko>
+		<fixja>ポセイドンを讃えるための偉大なる芸術作品を作り上げた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_SANDSTORM_BLINDNESS_HEAL_TOUGH</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>经过不知疲倦的治疗师夜以继日的护理，{0_character}的视力已经恢复。很少有人能忍受如此惨痛的苦难，也没有人能否认{0_character}是一个link(TRAIT_TOUGH)的人。</zh-CN>
 		<pt-BR>{0_character} teve sua visão restaurada após muitos dias e noites sob cuidados. Poucos teriam aguentado tal tratamento com tamanho estoicismo, não há ninguém que possa negar como {masculine_0:ele:ela} é link(TRAIT_TOUGH,{masculine_0:M:F}).</pt-BR>
 		<ko>치유사들이 수많은 날에 걸쳐 쉴 새 없이 돌본 덕분에 {0_character}의 시력이 돌아왔습니다. 이렇게 차분하게 치료를 견딜 사람은 얼마 되지 않았을 겁니다. 이제 그 누구도 {0_character}(이)가 link(TRAIT_TOUGH) 성격이라는 걸 부정할 수 없습니다.</ko>
+		<fixja>休むことを知らない医師が何日も昼夜を問わぬ献身を続けた結果、{0_character}は視力を取り戻した。このような過酷な境遇に耐えられる者はそうそういるものではない。{0_character}の(TRAIT_TOUGH)さを否定できる者はまずいないだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_SANDSTORM_BLINDNESS_HEAL_SCARRED</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>经过不知疲倦的治疗师夜以继日的护理，{0_character}的视力已经恢复。然而，尽管治疗师们尽了最大努力，{0_character}仍然不可避免地link(TRAIT_SCARRED)。</zh-CN>
 		<pt-BR>{0_character} teve sua visão restaurada após muitos dias e noites sob cuidados. Mesmo com muito esforço, não foi possível evitar que {masculine_0:ele:ela} ficasse  link(TRAIT_SCARRED,{masculine_0:M:F}).</pt-BR>
 		<ko>치유사들이 수많은 날에 걸쳐 쉴 새 없이 돌본 덕분에 {0_character}의 시력이 돌아왔습니다. 최대한 노력했지만 {0_character}에게 link(TRAIT_SCARRED) 것을 피할 수는 없었습니다.</ko>
+		<fixja>休むことを知らない医師たちが何日も昼夜を問わぬ献身を続けた結果、{0_character}は視力を取り戻した。しかし最善を尽くしたにも関わらず、{0_character}がlink(TRAIT_SCARRED)になることは避けられなかった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_SANDSTORM_BLINDNESS_HEAL_BLINDED</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>尽管技术高超的治疗师尽了最大的努力，却没能挽救{0_character}的视力。{masculine_0:他:她}现已link(TRAIT_BLINDED)。</zh-CN>
 		<pt-BR>Mesmo com os grandes esforços dos curandeiros mais talentosos, não foi possível fazer nada pela visão {masculine_0:dele:dela}. {0_character} está link(TRAIT_BLINDED,{masculine_0:M:F}).</pt-BR>
 		<ko>숙련된 치유사들이 최대한 노력했지만 {0_character}의 시력을 복구할 수 없었습니다. 이제 {masculine_0:그:그녀}는 맹인이 되었습니다.</ko>
+		<fixja>我が国の最高の医師たちの努力にも関わらず{0_character}の視力は戻らなかった。{masculine_0:彼:彼女}はlink(TRAIT_BLINDED)となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_SANDSTORM_SANDBORN_NAME_UNIT</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>沙漠之子</zh-CN>
 		<pt-BR>Criança da Areia</pt-BR>
 		<ko>모래에서 태어난 자</ko>
+		<fixja>砂の子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_EVENTOPTION_CALAMITIES_WILDFIRE_UNTOUCHED_REJECT_LEADER</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>否认某个神明与野火有关</zh-CN>
 		<pt-BR>Negou o envolvimento de uma deidade em um incêndio</pt-BR>
 		<ko>산불에 신이 개입했음을 부정했다</ko>
+		<fixja>山火事が神の仕業であることを否定した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_WILDFIRE_PREPARED</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>熄灭了野火，拯救了家园</zh-CN>
 		<pt-BR>Salvou casas dos incêndios</pt-BR>
 		<ko>산불로부터 집을 구했다</ko>
+		<fixja>山火事より住居を守った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_SPOKE_OF_NATIONS_GREATNESS</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>谈到了这个国家的伟大</zh-CN>
 		<pt-BR>Falou da grandeza da nação</pt-BR>
 		<ko>국가의 위대함에 대해 얘기했다</ko>
+		<fixja>国家の偉大さを語った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_AVERTED_GREATER_DISASTER</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>避免引发更大的灾难</zh-CN>
 		<pt-BR>Impediu um grande desastre</pt-BR>
 		<ko>대규모 재앙을 피했다</ko>
+		<fixja>より大きな災害を回避した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_WARNED_OF_THE_SLEEPING_MOUNTAIN</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>警告大家当心沉睡的火山</zh-CN>
 		<pt-BR>Avisou sobre a montanha adormecida</pt-BR>
 		<ko>잠든 산에 대해 경고했다</ko>
+		<fixja>眠れる山について警告した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_HUNT_FOR_HERETICS</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>发动了对异教徒的追捕</zh-CN>
 		<pt-BR>Iniciou uma caçada por hereges</pt-BR>
 		<ko>이단자 사냥을 지시했다</ko>
+		<fixja>異端者狩りを行った</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_SEEKING_IN_SANDSTORM_RETURNING</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>我们找到了{0_character}，虽然由于link(OCCURRENCE_SANDSTORM)迷失了方向，但还活着。{masculine_0:他:她}现在已经link(TRAIT_RETURNING)。</zh-CN>
 		<pt-BR>{0_character} foi {masculine_0:encontrado:encontrada} com uma grave desorientação, mas com vida, após a link(OCCURRENCE_SANDSTORM). {masculine_0:Ele:Ela} está link(TRAIT_RETURNING).</pt-BR>
 		<ko>link(OCCURRENCE_SANDSTORM) 이후 {0_character}(이)가 발견되었고 정신이 혼미하지만 살아 있습니다. {masculine_0:그:그녀}는 지금 link(TRAIT_RETURNING)입니다.</ko>
+		<fixja>link(OCCURRENCE_SANDSTORM)の後、{0_character}が発見された。混乱しているが命に別状はない。{masculine_0:彼:彼女}はlink(TRAIT_RETURNING)の状態となった。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BONUS_SEEKING_IN_SANDSTORM_MISSING</zType>
@@ -455,5 +488,6 @@
 		<zh-CN>尽管我们一直在努力寻找{0_character}，{masculine_0:他:她}却仍然由于link(OCCURRENCE_SANDSTORM)而link(TRAIT_MISSING)。</zh-CN>
 		<pt-BR>{0_character}, mesmo com todos os esforços, ainda está {masculine_0:link(TRAIT_MISSING):link(TRAIT_MISSING,F)} após a link(OCCURRENCE_SANDSTORM).</pt-BR>
 		<ko>{0_character}(을)를 찾으려고 백방으로 노력했지만 {masculine_0:그:그녀}는 link(OCCURRENCE_SANDSTORM) 이후 계속 link(TRAIT_MISSING) 상태입니다.</ko>
+		<fixja>link(OCCURRENCE_SANDSTORM)の後、{0_character}を探して全力を尽くしたが{masculine_0:彼:彼女}はいまだlink(TRAIT_MISSING)のままだ。</fixja>
 	</Entry>
 </Root>

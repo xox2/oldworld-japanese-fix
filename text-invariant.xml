@@ -21,6 +21,7 @@
 		<zh-TW>{0},{1}</zh-TW>
 		<ru>{0},{1}</ru>
 		<zh-CN>{0},{1}</zh-CN>
+		<fixja>{0},{1}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK</zType>
@@ -32,6 +33,7 @@
 		<zh-TW><![CDATA[<lt>link="{1_data}"<gt>{0_value}<lt>/link<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>link="{1_data}"<gt>{0_value}<lt>/link<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>link="{1_data}"<gt>{0_value}<lt>/link<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>link="{1_data}"<gt>{0_value}<lt>/link<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COLOR</zType>
@@ -43,6 +45,7 @@
 		<zh-TW><![CDATA[<lt>color={1_hexcode}<gt>{0_value}<lt>/color<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>color={1_hexcode}<gt>{0_value}<lt>/color<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>color={1_hexcode}<gt>{0_value}<lt>/color<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>color={1_hexcode}<gt>{0_value}<lt>/color<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SIZE</zType>
@@ -54,6 +57,7 @@
 		<zh-TW><![CDATA[<lt>size={0_size}%<gt>{1_value}<lt>/size<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>size={0_size}%<gt>{1_value}<lt>/size<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>size={0_size}%<gt>{1_value}<lt>/size<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>size={0_size}%<gt>{1_value}<lt>/size<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SIZE_AND_COLOR</zType>
@@ -65,6 +69,7 @@
 		<zh-TW><![CDATA[<lt>size={0_size}%<gt><lt>color={1_hexcode}<gt>{2_value}<lt>/color<gt><lt>/size<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>size={0_size}%<gt><lt>color={1_hexcode}<gt>{2_value}<lt>/color<gt><lt>/size<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>size={0_size}%<gt><lt>color={1_hexcode}<gt>{2_value}<lt>/color<gt><lt>/size<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>size={0_size}%<gt><lt>color={1_hexcode}<gt>{2_value}<lt>/color<gt><lt>/size<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_INLINE_ICON</zType>
@@ -76,6 +81,7 @@
 		<zh-TW><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}"/<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}"/<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}"/<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}"/<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_INLINE_ICON_TINT</zType>
@@ -87,6 +93,7 @@
 		<zh-TW><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}" tint<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}" tint<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}" tint<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}" tint<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DEFAULT_INLINE_ICON</zType>
@@ -98,6 +105,7 @@
 		<zh-TW><![CDATA[<lt>sprite name="{1_spriteName}"/<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>sprite name="{1_spriteName}"/<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>sprite name="{1_spriteName}"/<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>sprite name="{1_spriteName}"/<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DEFAULT_INLINE_ICON_TINT</zType>
@@ -109,6 +117,7 @@
 		<zh-TW><![CDATA[<lt>sprite name="{1_spriteName}" tint<gt>]]></zh-TW>
 		<ru><![CDATA[<lt>sprite name="{1_spriteName}" tint<gt>]]></ru>
 		<zh-CN><![CDATA[<lt>sprite name="{1_spriteName}" tint<gt>]]></zh-CN>
+		<fixja><![CDATA[<lt>sprite name="{1_spriteName}" tint<gt>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TITLE</zType>
@@ -120,6 +129,7 @@
 		<zh-TW><![CDATA[<style=H1>{0}</style>]]></zh-TW>
 		<ru><![CDATA[<style=H1>{0}</style>]]></ru>
 		<zh-CN><![CDATA[<style=H1>{0}</style>]]></zh-CN>
+		<fixja><![CDATA[<style=H1>{0}</style>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SUBTITLE</zType>
@@ -131,6 +141,7 @@
 		<zh-TW><![CDATA[<style=H2>{LIST}</style>]]></zh-TW>
 		<ru><![CDATA[<style=H2>{LIST}</style>]]></ru>
 		<zh-CN><![CDATA[<style=H2>{LIST}</style>]]></zh-CN>
+		<fixja><![CDATA[<style=H2>{LIST}</style>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PARAGRAPH</zType>
@@ -142,6 +153,7 @@
 		<zh-TW><![CDATA[<style=P>{0}</style>]]></zh-TW>
 		<ru><![CDATA[<style=P>{0}</style>]]></ru>
 		<zh-CN><![CDATA[<style=P>{0}</style>]]></zh-CN>
+		<fixja><![CDATA[<style=P>{0}</style>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINE_TWO</zType>
@@ -153,6 +165,7 @@
 		<zh-TW><![CDATA[{0}<size=200%>|</size>{1}]]></zh-TW>
 		<ru><![CDATA[{0}<size=200%>|</size>{1}]]></ru>
 		<zh-CN><![CDATA[{0}<size=200%>|</size>{1}]]></zh-CN>
+		<fixja><![CDATA[{0}<size=200%>|</size>{1}]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DIVIDER_LINE</zType>
@@ -164,5 +177,6 @@
 		<zh-TW><![CDATA[<style=Line></style>]]></zh-TW>
 		<ru><![CDATA[<style=Line></style>]]></ru>
 		<zh-CN><![CDATA[<style=Line></style>]]></zh-CN>
+		<fixja><![CDATA[<style=Line></style>]]></fixja>
 	</Entry>
 </Root>

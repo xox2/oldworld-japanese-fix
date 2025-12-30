@@ -26,6 +26,7 @@
 		<zh-CN>哈桑山</zh-CN>
 		<pt-BR>Monte Haçane~o Monte Haçane~do Monte Haçane</pt-BR>
 		<ko>하산산</ko>
+		<fixja>ハッサン山</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MYSIAN_OLYMPUS</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>密细亚奥林帕斯山</zh-CN>
 		<pt-BR>Olimpo da Mísia~o Olimpo da Mísia~do Olimpo da Mísia</pt-BR>
 		<ko>미시아 올림포스</ko>
+		<fixja>ミュシアン・オリュンポス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZULIYA</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>祖利亚河</zh-CN>
 		<pt-BR>Rio Zuliya~o Rio Zuliya~do Rio Zuliya</pt-BR>
 		<ko>줄리야강</ko>
+		<fixja>ズリヤ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KUMMESMAHA</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>库姆什马哈河</zh-CN>
 		<pt-BR>Rio Kummesmaha~o Rio Kummesmaha~do Rio Kummesmaha</pt-BR>
 		<ko>쿰메스마하강</ko>
+		<fixja>クメスマハ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PYRAMUS_RIVER</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>皮拉姆斯河</zh-CN>
 		<pt-BR>Rio Píramo~o Rio Píramo~do Rio Píramo</pt-BR>
 		<ko>피라무스강</ko>
+		<fixja>ピラマス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADANA_SWEETGUM_FOREST</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>阿达纳枫香森林</zh-CN>
 		<pt-BR>Floresta de Liquidambar de Adana~a Floresta de Liquidambar de Adana~da Floresta de Liquidambar de Adana</pt-BR>
 		<ko>아다나 풍나무 숲</ko>
+		<fixja>アダナのスウィートガムの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EASTERN_ANATOLIAN_MONTANE_STEPPE</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>东部安纳托力亚山地草原</zh-CN>
 		<pt-BR>Estepe Montanhosa da Anatólia Oriental~a Estepe Montanhosa da Anatólia Oriental~da Estepe Montanhosa da Anatólia Oriental</pt-BR>
 		<ko>동부 아나톨리아 산간 스텝</ko>
+		<fixja>東部アナトリア山地草原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KONYA_PLAINS</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>科尼亚平原</zh-CN>
 		<pt-BR>Planície de Konya~a Planície de Konya~da Planície de Konya</pt-BR>
 		<ko>콘야평야</ko>
+		<fixja>コンヤ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IHLARA_VALLEY</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>佩里斯特雷马谷</zh-CN>
 		<pt-BR>Vale de Peristrema~o Vale de Peristrema~do Vale de Peristrema</pt-BR>
 		<ko>페리스트레마 계곡</ko>
+		<fixja>ペリストレマ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SOGANLI_VALLEY</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>卡帕多奇亚谷</zh-CN>
 		<pt-BR>Vale da Capadócia~o Vale da Capadócia~do Vale da Capadócia</pt-BR>
 		<ko>카파도키아 계곡</ko>
+		<fixja>カッパドキアの渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZALPUWA</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>扎尔普瓦</zh-CN>
 		<pt-BR>Zalpuwa~Zalpuwa~de Zalpuwa</pt-BR>
 		<ko>잘푸와</ko>
+		<fixja>ザルプワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LEVANTINE_SEA</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>黎凡特海</zh-CN>
 		<pt-BR>Mar Levantino~o Mar Levantino~do Mar Levantino</pt-BR>
 		<ko>레반트해</ko>
+		<fixja>レバント海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARANDYNIAN_BAY</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>马兰迪尼亚湾</zh-CN>
 		<pt-BR>Baía de Miriando~a Baía de Miriando~da Baía de Miriando</pt-BR>
 		<ko>무리안도스만</ko>
+		<fixja>マランディニアン湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_ANTALYA</zType>
@@ -195,5 +208,6 @@
 		<zh-CN>阿列亚湾</zh-CN>
 		<pt-BR>Golfo de Antália~o Golfo de Antália~do Golfo de Antália</pt-BR>
 		<ko>아탈레이아만</ko>
+		<fixja>アッタレイア湾</fixja>
 	</Entry>
 </Root>

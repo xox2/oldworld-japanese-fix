@@ -38,6 +38,7 @@
 		<zh-CN>祆教异议</zh-CN>
 		<pt-BR>Dissidência Zoroastrista~a Dissidência Zoroastrista</pt-BR>
 		<ko>조로아스터교의 반발</ko>
+		<fixja>ゾロアスター教の反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISSENT_JUDAISM</zType>
@@ -51,6 +52,7 @@
 		<zh-CN>犹太教异议</zh-CN>
 		<pt-BR>Dissidência Judaica~a Dissidência Judaica</pt-BR>
 		<ko>유대교의 반발</ko>
+		<fixja>ユダヤ教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISSENT_CHRISTIANITY</zType>
@@ -64,6 +66,7 @@
 		<zh-CN>基督教异议</zh-CN>
 		<pt-BR>Dissidência Cristã~a Dissidência Cristã</pt-BR>
 		<ko>기독교의 반발</ko>
+		<fixja>キリスト教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISSENT_MANICHAEISM</zType>
@@ -77,6 +80,7 @@
 		<zh-CN>摩尼教异议</zh-CN>
 		<pt-BR>Dissidência Maniqueísta~a Dissidência Maniqueísta</pt-BR>
 		<ko>마니교의 반발</ko>
+		<fixja>マニ教反対者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM</zType>
@@ -90,6 +94,7 @@
 		<zh-CN>镇压link(RELIGION_ZOROASTRIANISM,1)异议</zh-CN>
 		<pt-BR>Suprimir Dissidência link(RELIGION_ZOROASTRIANISM,1)</pt-BR>
 		<ko>link(RELIGION_ZOROASTRIANISM,1) 반발 진압</ko>
+		<fixja>link(RELIGION_ZOROASTRIANISM,1)反対派を抑圧する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_JUDAISM</zType>
@@ -103,6 +108,7 @@
 		<zh-CN>镇压link(RELIGION_JUDAISM,1)异议</zh-CN>
 		<pt-BR>Suprimir Dissidência link(RELIGION_JUDAISM,5)</pt-BR>
 		<ko>link(RELIGION_JUDAISM,1) 반발 진압</ko>
+		<fixja>link(RELIGION_JUDAISM,1)反対派を抑圧する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_CHRISTIANITY</zType>
@@ -116,6 +122,7 @@
 		<zh-CN>镇压link(RELIGION_CHRISTIANITY,1)异议</zh-CN>
 		<pt-BR>Suprimir Dissidência link(RELIGION_CHRISTIANITY,5)</pt-BR>
 		<ko>link(RELIGION_CHRISTIANITY,1) 반발 진압</ko>
+		<fixja>link(RELIGION_CHRISTIANITY,1)反対派を抑圧する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_MANICHAEISM</zType>
@@ -129,6 +136,7 @@
 		<zh-CN>镇压link(RELIGION_MANICHAEISM,1)异议</zh-CN>
 		<pt-BR>Suprimir Dissidência link(RELIGION_MANICHAEISM,1)</pt-BR>
 		<ko>link(RELIGION_MANICHAEISM,1) 반발 진압</ko>
+		<fixja>link(RELIGION_MANICHAEISM,1)反対派を抑圧する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MONASTIC_TRADITIONS</zType>
@@ -142,6 +150,7 @@
 		<zh-CN>改革修道传统</zh-CN>
 		<pt-BR>Tradições Monásticas Reformadas~as Tradições Monásticas Reformadas</pt-BR>
 		<ko>수도승 전통 개혁</ko>
+		<fixja>改革派修道士の伝統</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DIVINE_STEED</zType>
@@ -155,6 +164,7 @@
 		<zh-CN>神马</zh-CN>
 		<pt-BR>Cavalos Nascidos do Divino~os Cavalos Nascidos do Divino</pt-BR>
 		<ko>신성 준마</ko>
+		<fixja>神から授かった馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_UNTAXED_TEMPLES</zType>
@@ -168,6 +178,7 @@
 		<zh-CN>免税神殿</zh-CN>
 		<pt-BR>Templos Não Tributados~os Templos Não Tributados</pt-BR>
 		<ko>비과세 사원</ko>
+		<fixja>非課税の寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SHRINE_OF_THE_HERO</zType>
@@ -181,6 +192,7 @@
 		<zh-CN>保护者英雄崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto Heroico do Protetor</pt-BR>
 		<ko>수호자 숭배 영웅 교단</ko>
+		<fixja>守護者の英雄のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
@@ -194,6 +206,7 @@
 		<zh-CN>堕落女神崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto da Deusa Caída</pt-BR>
 		<ko>타락한 여신 숭배 교단</ko>
+		<fixja>堕ちた女神のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CAVALRY_CULT</zType>
@@ -207,6 +220,7 @@
 		<zh-CN>骑兵崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto da Cavalaria</pt-BR>
 		<ko>기병 교단 숭배</ko>
+		<fixja>騎兵隊のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AMAZON_CULT</zType>
@@ -220,6 +234,7 @@
 		<zh-CN>亚马逊崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto das Amazonas</pt-BR>
 		<ko>아마존 교단 숭배</ko>
+		<fixja>女戦士のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MARTYR_CULT</zType>
@@ -233,6 +248,7 @@
 		<zh-CN>殉道者崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto do Mártir</pt-BR>
 		<ko>순교자 숭배 교단</ko>
+		<fixja>殉教者のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DUAL_CULT</zType>
@@ -246,6 +262,7 @@
 		<zh-CN>联合众神崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto dos Deuses Unidos</pt-BR>
 		<ko>합일된 신 숭배 교단</ko>
+		<fixja>神々の結びつきのカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CULT_OF_THE_ANGELIC_DIVINE</zType>
@@ -259,6 +276,7 @@
 		<zh-CN>神圣天使崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto do Divino Angelical</pt-BR>
 		<ko>신성 천사 숭배 교단</ko>
+		<fixja>天使の神性のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ECSTATIC_CULT</zType>
@@ -272,6 +290,7 @@
 		<zh-CN>狂喜崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto Extasiado</pt-BR>
 		<ko>황홀 교단 숭배</ko>
+		<fixja>熱狂的なカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CULT_OF_THE_MOTHER</zType>
@@ -285,6 +304,7 @@
 		<zh-CN>母亲崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto da Mãe</pt-BR>
 		<ko>모성 숭배 교단</ko>
+		<fixja>聖母のカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CULT_OF_ISIS_AND_SERAPIS</zType>
@@ -298,6 +318,7 @@
 		<zh-CN>伊西斯与塞拉比斯崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto de Ísis e Serapis</pt-BR>
 		<ko>이시스와 세라피스 숭배 교단</ko>
+		<fixja>イシスとセラピスのカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CULT_OF_MITHRAS</zType>
@@ -311,6 +332,7 @@
 		<zh-CN>密特拉崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto de Mitras</pt-BR>
 		<ko>미트라 숭배 교단</ko>
+		<fixja>ミスラのカルトの信仰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CULT_OF_THE_HEALER</zType>
@@ -324,5 +346,6 @@
 		<zh-CN>治疗师崇拜礼</zh-CN>
 		<pt-BR>Adoração ao Culto do Curandeiro</pt-BR>
 		<ko>치유자 숭배 교단</ko>
+		<fixja>癒術師のカルトの信仰</fixja>
 	</Entry>
 </Root>

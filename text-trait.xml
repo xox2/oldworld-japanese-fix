@@ -27,6 +27,7 @@
 		<zh-CN>稍后再选</zh-CN>
 		<pt-BR>Escolher depois</pt-BR>
 		<ko>차후에 선택</ko>
+		<fixja>後で選ぶ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RANDOM_ARCHETYPE</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>随机</zh-CN>
 		<pt-BR>Aleatório</pt-BR>
 		<ko>무작위</ko>
+		<fixja>ランダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRESET_ARCHETYPE</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>预设领袖</zh-CN>
 		<pt-BR>Líder predefinido</pt-BR>
 		<ko>사전 설정 지도자</ko>
+		<fixja>プリセット指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERO_ARCHETYPE</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>英雄~英雄~英雄</zh-CN>
 		<pt-BR>Herói~um Herói~Heróis</pt-BR>
 		<ko>영웅~영웅~영웅</ko>
+		<fixja>英雄~英雄~英雄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERO_ARCHETYPE_F</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>英雄~英雄~英雄</zh-CN>
 		<pt-BR>Heroína~uma Heroína~Heroínas</pt-BR>
 		<ko>영웅~영웅~영웅</ko>
+		<fixja>英雄~英雄~英雄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>指挥官~指挥官~指挥官</zh-CN>
 		<pt-BR>Comandante~um Comandante~Comandantes</pt-BR>
 		<ko>사령관~사령관~사령관</ko>
+		<fixja>司令官~司令官~司令官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE_F</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>指挥官~指挥官~指挥官</zh-CN>
 		<pt-BR>Comandante~uma Comandante~Comandantes</pt-BR>
 		<ko>사령관~사령관~사령관</ko>
+		<fixja>司令官~司令官~司令官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>战术家~战术家~战术家</zh-CN>
 		<pt-BR>Estrategista~um Estrategista~Estrategistas</pt-BR>
 		<ko>전술가~전술가~전술가</ko>
+		<fixja>戦術家~戦術家~戦術家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE_F</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>战术家~战术家~战术家</zh-CN>
 		<pt-BR>Estrategista~uma Estrategista~Estrategistas</pt-BR>
 		<ko>전술가~전술가~전술가</ko>
+		<fixja>戦術家~戦術家~戦術家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>狂热者~狂热者~狂热者</zh-CN>
 		<pt-BR>Fanático~um Fanático~Fanáticos</pt-BR>
 		<ko>광신자~광신자~광신자</ko>
+		<fixja>狂信者~狂信者~狂信者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE_F</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>奋锐党成员~奋锐党成员~奋锐党成员</zh-CN>
 		<pt-BR>Fanática~uma Fanática~Fanáticas</pt-BR>
 		<ko>광신자~광신자~광신자</ko>
+		<fixja>狂信者~狂信者~狂信者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>谋略家~谋略家~谋略家</zh-CN>
 		<pt-BR>Maquinador~um Maquinador~Maquinadores</pt-BR>
 		<ko>책략가~책략가~책략가</ko>
+		<fixja>策略家~策略家~策略家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE_F</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>阴谋家~阴谋家~阴谋家</zh-CN>
 		<pt-BR>Maquinadora~uma Maquinadora~Maquinadoras</pt-BR>
 		<ko>책략가~책략가~책략가</ko>
+		<fixja>策略家~策略家~策略家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>演说家~演说家~演说家</zh-CN>
 		<pt-BR>Orador~um Orador~Oradores</pt-BR>
 		<ko>웅변가~웅변가~웅변가</ko>
+		<fixja>能弁家~能弁家~能弁家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE_F</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>演说家~演说家~演说家</zh-CN>
 		<pt-BR>Oradora~uma Oradora~Oradoras</pt-BR>
 		<ko>웅변가~웅변가~웅변가</ko>
+		<fixja>能弁家~能弁家~能弁家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>法官~法官~法官</zh-CN>
 		<pt-BR>Juiz~um Juiz~Juizes</pt-BR>
 		<ko>판관~판관~판관</ko>
+		<fixja>判事~判事~判事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE_F</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>法官~法官~法官</zh-CN>
 		<pt-BR>Juiza~uma Juiza~Juizas</pt-BR>
 		<ko>판관~판관~판관</ko>
+		<fixja>判事~判事~判事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUILDER_ARCHETYPE</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>建筑师~建筑师~建筑师</zh-CN>
 		<pt-BR>Construtor~um Construtor~Construtores</pt-BR>
 		<ko>건축가~건축가~건축가</ko>
+		<fixja>建築家~建築家~建築家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUILDER_ARCHETYPE_F</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>建筑师~建筑师~建筑师</zh-CN>
 		<pt-BR>Construtora~uma Construtora~Construtoras</pt-BR>
 		<ko>건축가~건축가~건축가</ko>
+		<fixja>建築家~建築家~建築家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
@@ -274,6 +293,7 @@
 		<zh-CN>学者~学者~学者</zh-CN>
 		<pt-BR>Acadêmico~um Acadêmico~Acadêmicos</pt-BR>
 		<ko>학자~학자~학자</ko>
+		<fixja>学者~学者~学者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE_F</zType>
@@ -287,6 +307,7 @@
 		<zh-CN>学者~学者~学者</zh-CN>
 		<pt-BR>Acadêmica~uma Acadêmica~Acadêmicas</pt-BR>
 		<ko>학자~학자~학자</ko>
+		<fixja>学者~学者~学者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
@@ -300,6 +321,7 @@
 		<zh-CN>外交官~外交官~外交官</zh-CN>
 		<pt-BR>Diplomata~um Diplomata~Diplomatas</pt-BR>
 		<ko>외교관~외교관~외교관</ko>
+		<fixja>外交官~外交官~外交官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_F</zType>
@@ -313,6 +335,7 @@
 		<zh-CN>外交官~外交官~外交官</zh-CN>
 		<pt-BR>Diplomata~uma Diplomata~Diplomatas</pt-BR>
 		<ko>외교관~외교관~외교관</ko>
+		<fixja>外交官~外交官~外交官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AFFABLE</zType>
@@ -326,6 +349,7 @@
 		<zh-CN>和蔼亲善</zh-CN>
 		<pt-BR>Afável</pt-BR>
 		<ko>우호적인</ko>
+		<fixja>友好的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AFFABLE_F</zType>
@@ -339,6 +363,7 @@
 		<zh-CN>和蔼亲善</zh-CN>
 		<pt-BR>Afável</pt-BR>
 		<ko>우호적인</ko>
+		<fixja>友好的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AFFABLE_GAIN_1</zType>
@@ -352,6 +377,7 @@
 		<zh-CN>{0_character}对所有人都友好而乐于往来，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Amigável e social com todos, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>모두에게 친절하고 사교적인 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>すべての人に対し親しみを示し、付き合いが良い{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AFFABLE_GAIN_2</zType>
@@ -365,6 +391,7 @@
 		<zh-CN>{0_character}永远是个令人愉快的伙伴，以其{1_trait}而为人所知。</zh-CN>
 		<pt-BR>{0_character} é sempre uma companhia agradável e agora é {masculine_0:famoso:famosa} por ser {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 언제나 상냥하고 {1_trait} 인물입니다.</ko>
+		<fixja>{0_character}はいつでも気分良く付き合える仲間で、{1_trait}だと思われています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRUEL</zType>
@@ -378,6 +405,7 @@
 		<zh-CN>残酷无情</zh-CN>
 		<pt-BR>Cruel</pt-BR>
 		<ko>잔혹한</ko>
+		<fixja>非情</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRUEL_F</zType>
@@ -391,6 +419,7 @@
 		<zh-CN>残酷无情</zh-CN>
 		<pt-BR>Cruel</pt-BR>
 		<ko>잔혹한</ko>
+		<fixja>非情</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRUEL_GAIN_1</zType>
@@ -404,6 +433,7 @@
 		<zh-CN>{0_character}热衷于造成他人的痛苦与折磨，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{masculine_0:Ávido:Ávida} para causar dor e sofrimento, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>고통과 괴로움을 주며 희열을 느끼는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>苦痛を与えることを好む{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRUEL_GAIN_2</zType>
@@ -417,6 +447,7 @@
 		<zh-CN>{0_character}以令他人痛苦为乐。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} sente prazer em machucar os outros, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 다른 이를 상처 입히며 즐거워합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다.</ko>
+		<fixja>{0_character}は他人を傷つけることを楽しみます。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOQUENT</zType>
@@ -430,6 +461,7 @@
 		<zh-CN>能言雄辩</zh-CN>
 		<pt-BR>Eloquente</pt-BR>
 		<ko>유창한</ko>
+		<fixja>雄弁</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOQUENT_F</zType>
@@ -443,6 +475,7 @@
 		<zh-CN>能言雄辩</zh-CN>
 		<pt-BR>Eloquente</pt-BR>
 		<ko>유창한</ko>
+		<fixja>雄弁</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOQUENT_GAIN_1</zType>
@@ -456,6 +489,7 @@
 		<zh-CN>{0_character}巧舌如簧，是个{1_trait}的人。</zh-CN>
 		<pt-BR>As palavras nunca lhe faltam, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>언제든 할 말을 찾아내는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>言葉に詰まるということがない{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOQUENT_GAIN_2</zType>
@@ -469,6 +503,7 @@
 		<zh-CN>{0_character}机智灵敏、口才便给，堪称最{1_trait}之人！</zh-CN>
 		<pt-BR>{0_character} pensa rápido e tem facilidade de puxar os outros pela língua, é uma pessoa {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 지혜로운 달변가로 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は機転が利き弁も立つ、非常に{1_trait}な人物です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTOLERANT</zType>
@@ -482,6 +517,7 @@
 		<zh-CN>心胸偏狭</zh-CN>
 		<pt-BR>Intolerante</pt-BR>
 		<ko>편협한</ko>
+		<fixja>偏狭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTOLERANT_F</zType>
@@ -495,6 +531,7 @@
 		<zh-CN>心胸偏狭</zh-CN>
 		<pt-BR>Intolerante</pt-BR>
 		<ko>편협한</ko>
+		<fixja>偏狭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTOLERANT_GAIN_1</zType>
@@ -508,6 +545,7 @@
 		<zh-CN>{0_character}鄙视与其不同的看法，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Crenças diferentes lhe repulsam, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>자신과 다른 신념을 경멸하는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>信条が異なることに不快感を表す{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTOLERANT_GAIN_2</zType>
@@ -521,6 +559,7 @@
 		<zh-CN>{0_character}完全无法容忍不同的处世之道。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} não tem paciência para outros estilos de vida, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 절대 다른 삶의 방식을 받아들이지 않습니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다.</ko>
+		<fixja>{0_character}は、異なる生き方を認める度量がありません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WARLIKE</zType>
@@ -534,6 +573,7 @@
 		<zh-CN>尚武好战</zh-CN>
 		<pt-BR>Belicoso</pt-BR>
 		<ko>호전적인</ko>
+		<fixja>好戦的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WARLIKE_F</zType>
@@ -547,6 +587,7 @@
 		<zh-CN>尚武好战</zh-CN>
 		<pt-BR>Belicosa</pt-BR>
 		<ko>호전적인</ko>
+		<fixja>好戦的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WARLIKE_GAIN_1</zType>
@@ -560,6 +601,7 @@
 		<zh-CN>{0_character}随时准备作战，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} é {lowercase:{1_trait}}, não perde uma luta.</pt-BR>
 		<ko>언제나 싸울 준비가 되어 있는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>常に戦闘に備えている{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WARLIKE_GAIN_2</zType>
@@ -573,6 +615,7 @@
 		<zh-CN>{0_character}对于剑、矛、盾等兵器都十分擅长。堪称最{1_trait}之人！</zh-CN>
 		<pt-BR>{0_character} tem habilidade com a espada, a lança e o escudo. É {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 검술, 창술, 방패술에 능하며 아주 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は剣、槍、盾の扱いに長けています。極めて{1_trait}な人です！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLOTHFUL</zType>
@@ -586,6 +629,7 @@
 		<zh-CN>懒散怠惰</zh-CN>
 		<pt-BR>Preguiçoso</pt-BR>
 		<ko>나태한</ko>
+		<fixja>怠惰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLOTHFUL_F</zType>
@@ -599,6 +643,7 @@
 		<zh-CN>懒散怠惰</zh-CN>
 		<pt-BR>Preguiçosa</pt-BR>
 		<ko>나태한</ko>
+		<fixja>怠惰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLOTHFUL_GAIN_1</zType>
@@ -612,6 +657,7 @@
 		<zh-CN>{0_character}不愿意为任何事情付出努力，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Sem coragem de se esforçar para nada, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>그 무엇에도 품을 들이려 하지 않는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>あらゆる努力を嫌がる{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLOTHFUL_GAIN_2</zType>
@@ -625,6 +671,7 @@
 		<zh-CN>{0_character}从来没有想要去做任何事情。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} nunca se aplica para fazer nada, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 아무런 일도 하지 않으려 합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다.</ko>
+		<fixja>{0_character}は、何かに力を入れるということを全くしません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRING</zType>
@@ -638,6 +685,7 @@
 		<zh-CN>鼓舞人心</zh-CN>
 		<pt-BR>Inspirador</pt-BR>
 		<ko>고취하는</ko>
+		<fixja>モチベーター</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRING_F</zType>
@@ -651,6 +699,7 @@
 		<zh-CN>鼓舞人心</zh-CN>
 		<pt-BR>Inspiradora</pt-BR>
 		<ko>고취하는</ko>
+		<fixja>モチベーター</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRING_GAIN_1</zType>
@@ -664,6 +713,7 @@
 		<zh-CN>{0_character}能够在需要时发表振奋人心的演说，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Capaz de fazer discursos estimulantes com um simples pedido, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>필요한 순간에 북돋우는 연설을 할 수 있는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>必要な時に、やる気の出る言葉を投げかけられる{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRING_GAIN_2</zType>
@@ -677,6 +727,7 @@
 		<zh-CN>{0_character}能以{masculine_0:他的:她的}言词来激励任何人。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} é capaz de motivar qualquer um com suas palavras. É {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 누구든지 북돋을 수 있는 언변을 지녔습니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、{masculine_0:彼:彼女}の言葉で人を勇気づけることができます。{masculine_0:彼:彼女}は{1_trait}です！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNCOUTH</zType>
@@ -690,6 +741,7 @@
 		<zh-CN>粗野低俗</zh-CN>
 		<pt-BR>Bruto</pt-BR>
 		<ko>상스러운</ko>
+		<fixja>下品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNCOUTH_F</zType>
@@ -703,6 +755,7 @@
 		<zh-CN>粗野低俗</zh-CN>
 		<pt-BR>Bruta</pt-BR>
 		<ko>상스러운</ko>
+		<fixja>下品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNCOUTH_GAIN_1</zType>
@@ -716,6 +769,7 @@
 		<zh-CN>{0_character}欠缺教养和礼仪，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} não tem graça ou boas maneiras, é {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>품위와 예절이 없는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>気品や礼節に欠ける{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNCOUTH_GAIN_2</zType>
@@ -729,6 +783,7 @@
 		<zh-CN>{0_character}的言行不得体又下流。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} é {masculine_0:esquisito:esquisita} e destoante, que {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 이상하고 천박합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は奇行が目立ち、人を不快にさせます。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT</zType>
@@ -742,6 +797,7 @@
 		<zh-CN>聪明机敏</zh-CN>
 		<pt-BR>Inteligente</pt-BR>
 		<ko>지적인</ko>
+		<fixja>知的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT_F</zType>
@@ -755,6 +811,7 @@
 		<zh-CN>聪明机敏</zh-CN>
 		<pt-BR>Inteligente</pt-BR>
 		<ko>지적인</ko>
+		<fixja>知的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT_GAIN_1</zType>
@@ -768,6 +825,7 @@
 		<zh-CN>{0_character}很轻松就能学习和理解新的事物，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Capaz de aprender e entender coisas novas facilmente, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>새로운 것을 쉽게 배우고 이해하는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>新しい物事を容易に理解し、身に付ける{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT_GAIN_2</zType>
@@ -781,6 +839,7 @@
 		<zh-CN>{0_character}能迅速了解新的情况。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} entende novas situações com rapidez, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 새로운 상황을 빠르게 이해합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は状況が変わってもたちどころに理解します。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLISH</zType>
@@ -794,6 +853,7 @@
 		<zh-CN>愚蠢笨拙</zh-CN>
 		<pt-BR>Tolo</pt-BR>
 		<ko>우둔한</ko>
+		<fixja>愚鈍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLISH_F</zType>
@@ -807,6 +867,7 @@
 		<zh-CN>愚蠢笨拙</zh-CN>
 		<pt-BR>Tola</pt-BR>
 		<ko>우둔한</ko>
+		<fixja>愚鈍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLISH_GAIN_1</zType>
@@ -820,6 +881,7 @@
 		<zh-CN>{0_character}头脑愚笨且经常闹笑话，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Imprudente e suscetível a fazer coisas absurdas, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>어리석고 엉뚱한 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>浅はかで、愚劣であることも多い{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLISH_GAIN_2</zType>
@@ -833,6 +895,7 @@
 		<zh-CN>{0_character}不仅判断力差，且往往毫无道理可言。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} tem pouca sensatez e raramente {masculine_0:ele:ela} diz algo que faça sentido, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 판단력이 떨어지고 사리를 잘 분별하지 못합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は判断力に欠け、有意義なことをほとんど口にしません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROSPEROUS</zType>
@@ -846,6 +909,7 @@
 		<zh-CN>富裕殷实</zh-CN>
 		<pt-BR>Próspero</pt-BR>
 		<ko>수완 좋은</ko>
+		<fixja>豪商</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROSPEROUS_F</zType>
@@ -859,6 +923,7 @@
 		<zh-CN>富裕殷实</zh-CN>
 		<pt-BR>Próspera</pt-BR>
 		<ko>수완 좋은</ko>
+		<fixja>豪商</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROSPEROUS_GAIN_1</zType>
@@ -872,6 +937,7 @@
 		<zh-CN>{0_character}精通于财富之术，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Que talento para ganhar dinheiro, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>돈을 버는 데 천재적인 능력이 있는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>金を稼ぐことが得意な{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROSPEROUS_GAIN_2</zType>
@@ -885,6 +951,7 @@
 		<zh-CN>{0_character}能够把稻草纺成黄金。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} transforma palha em ouro, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 지푸라기로도 금을 짜낼 수 있는 사람입니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、枯れ草から黄金を生み出すことができます。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXTRAVAGANT</zType>
@@ -898,6 +965,7 @@
 		<zh-CN>奢侈无度</zh-CN>
 		<pt-BR>Gastador</pt-BR>
 		<ko>사치스러운</ko>
+		<fixja>浪費家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXTRAVAGANT_F</zType>
@@ -911,6 +979,7 @@
 		<zh-CN>奢侈无度</zh-CN>
 		<pt-BR>Gastadora</pt-BR>
 		<ko>사치스러운</ko>
+		<fixja>浪費家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXTRAVAGANT_GAIN_1</zType>
@@ -924,6 +993,7 @@
 		<zh-CN>{0_character}挥金如土，以其{1_trait}而为人所知。</zh-CN>
 		<pt-BR>Gastar é o que {0_character} faz de melhor, é {masculine_0:famoso:famosa} por ser {lowercase:{1_trait}}.</pt-BR>
 		<ko>호사스러운 소비를 일삼는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>湯水のように金を使う{0_character}は、{1_trait}として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXTRAVAGANT_GAIN_2</zType>
@@ -937,6 +1007,7 @@
 		<zh-CN>{0_character}会买下{masculine_0:他:她}中意的任何东西。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} compra qualquer coisa que lhe dê vontade, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 {masculine_0:그:그녀}의 취향에 맞는 것이라면 무엇이든 사들입니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、{masculine_0:彼:彼女}の気に入ったものは何でも購入します。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FRUGAL</zType>
@@ -950,6 +1021,7 @@
 		<zh-CN>勤俭节约</zh-CN>
 		<pt-BR>Frugal</pt-BR>
 		<ko>검소한</ko>
+		<fixja>倹約家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FRUGAL_F</zType>
@@ -963,6 +1035,7 @@
 		<zh-CN>勤俭节约</zh-CN>
 		<pt-BR>Frugal</pt-BR>
 		<ko>검소한</ko>
+		<fixja>倹約家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FRUGAL_GAIN_1</zType>
@@ -976,6 +1049,7 @@
 		<zh-CN>{0_character}从来不喜欢花钱，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} é {lowercase:{1_trait}}, não gosta de gastar dinheiro.</pt-BR>
 		<ko>돈 쓰기를 좋아하지 않는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>まったく金を使いたがらない{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FRUGAL_GAIN_2</zType>
@@ -989,6 +1063,7 @@
 		<zh-CN>{0_character}能够把稻草纺成黄金。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} transforma palha em ouro, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 지푸라기로도 금을 짜낼 수 있는 사람입니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、枯れ草から黄金を生み出すことができます。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPT</zType>
@@ -1002,6 +1077,7 @@
 		<zh-CN>败坏堕落</zh-CN>
 		<pt-BR>Corrupto</pt-BR>
 		<ko>부패한</ko>
+		<fixja>奸賊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPT_F</zType>
@@ -1015,6 +1091,7 @@
 		<zh-CN>败坏堕落</zh-CN>
 		<pt-BR>Corrupta</pt-BR>
 		<ko>부패한</ko>
+		<fixja>奸賊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPT_GAIN_1</zType>
@@ -1028,6 +1105,7 @@
 		<zh-CN>{0_character}为人贪婪又不老实，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Desonestidade e ganância lhe são familiares, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>불성실하고 탐욕스러운 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>不誠実かつ強欲な{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPT_GAIN_2</zType>
@@ -1041,6 +1119,7 @@
 		<zh-CN>{0_character}会为了个人利益而不择手段。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} é capaz de fazer qualquer coisa em benefício próprio, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 자신의 성공을 위해서라면 무엇이든 할 것입니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、自分が得をするためならどんなことでもします。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTEOUS</zType>
@@ -1054,6 +1133,7 @@
 		<zh-CN>刚正不阿</zh-CN>
 		<pt-BR>Justo</pt-BR>
 		<ko>의로운</ko>
+		<fixja>公明正大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTEOUS_F</zType>
@@ -1067,6 +1147,7 @@
 		<zh-CN>刚正不阿</zh-CN>
 		<pt-BR>Justa</pt-BR>
 		<ko>의로운</ko>
+		<fixja>公明正大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTEOUS_GAIN_1</zType>
@@ -1080,6 +1161,7 @@
 		<zh-CN>{0_character}永远坚守道德，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} é {lowercase:{1_trait}}, sempre age de acordo com seu senso moral.</pt-BR>
 		<ko>언제나 도덕적인 입장을 취하는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>常に分別ある態度を見せる{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTEOUS_GAIN_2</zType>
@@ -1093,6 +1175,7 @@
 		<zh-CN>{0_character}永远努力做最正确的事。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} sempre tenta fazer o que é certo, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 언제나 최선의 방법을 택하려 합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、いつでも最善となる行動を取ろうとします。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEBAUCHED</zType>
@@ -1106,6 +1189,7 @@
 		<zh-CN>放荡堕落</zh-CN>
 		<pt-BR>Libertino</pt-BR>
 		<ko>방탕한</ko>
+		<fixja>放蕩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEBAUCHED_F</zType>
@@ -1119,6 +1203,7 @@
 		<zh-CN>放荡堕落</zh-CN>
 		<pt-BR>Libertina</pt-BR>
 		<ko>방탕한</ko>
+		<fixja>放蕩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEBAUCHED_GAIN_1</zType>
@@ -1132,6 +1217,7 @@
 		<zh-CN>{0_character}放纵自己沉溺于各种恶习，以其{1_trait}而为人所知。</zh-CN>
 		<pt-BR>{masculine_0:Disposto:Disposta} a satisfazer qualquer uma de suas vontades, conhecem {0_character} por ser {lowercase:{1_trait}}.</pt-BR>
 		<ko>어떠한 음행이든 받아들일 준비가 되어 있는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>すぐに欲望に負けてしまう{0_character}は、{1_trait}として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEBAUCHED_GAIN_2</zType>
@@ -1145,6 +1231,7 @@
 		<zh-CN>{0_character}过着糜烂放纵的生活。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} vive a boa vida, é {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 달콤한 인생을 살아갑니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、快楽にふけっています。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROBUST</zType>
@@ -1158,6 +1245,7 @@
 		<zh-CN>健壮有力</zh-CN>
 		<pt-BR>Robusto</pt-BR>
 		<ko>강직한</ko>
+		<fixja>活発</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROBUST_F</zType>
@@ -1171,6 +1259,7 @@
 		<zh-CN>健壮有力</zh-CN>
 		<pt-BR>Robusta</pt-BR>
 		<ko>강직한</ko>
+		<fixja>活発</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROBUST_GAIN_1</zType>
@@ -1184,6 +1273,7 @@
 		<zh-CN>{0_character}身体健康而强壮，以其{1_trait}而为人所知。</zh-CN>
 		<pt-BR>Saudável e forte, conhecem {0_character} por ser {lowercase:{1_trait}}.</pt-BR>
 		<ko>건강하고 굳센 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>健康かつ頑丈な{0_character}は、{1_trait}として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROBUST_GAIN_2</zType>
@@ -1197,6 +1287,7 @@
 		<zh-CN>{0_character}强壮如牛，而且从不生病。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} é forte como um muralha e nunca fica doente, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 황소처럼 강하고 앓아누운 적이 없습니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は猛牛のごとく強靭で、病気をしたことがありません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VIGILANT</zType>
@@ -1210,6 +1301,7 @@
 		<zh-CN>机警敏锐</zh-CN>
 		<pt-BR>Vigilante</pt-BR>
 		<ko>주의 깊은</ko>
+		<fixja>慎重</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VIGILANT_F</zType>
@@ -1223,6 +1315,7 @@
 		<zh-CN>机警敏锐</zh-CN>
 		<pt-BR>Vigilante</pt-BR>
 		<ko>주의 깊은</ko>
+		<fixja>慎重</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VIGILANT_GAIN_1</zType>
@@ -1236,6 +1329,7 @@
 		<zh-CN>{0_character}时刻保持警觉，许多人都称其是个{1_trait}的人。</zh-CN>
 		<pt-BR>Sempre alerta, muitos chamam {0_character} de {lowercase:{1_trait}}.</pt-BR>
 		<ko>언제나 조심스러운 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>常に注意を怠らない{0_character}は、多くの人に{1_trait}と呼ばれています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VIGILANT_GAIN_2</zType>
@@ -1249,6 +1343,7 @@
 		<zh-CN>{0_character}随时都在注意危险。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} sempre está de olho no perigo, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 항상 위험에 대비하고 있습니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、危険はないかといつも注意を払っています。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STRICT</zType>
@@ -1262,6 +1357,7 @@
 		<zh-CN>严谨周密</zh-CN>
 		<pt-BR>Rigoroso</pt-BR>
 		<ko>엄격한</ko>
+		<fixja>厳格</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STRICT_F</zType>
@@ -1275,6 +1371,7 @@
 		<zh-CN>严谨周密</zh-CN>
 		<pt-BR>Rigorosa</pt-BR>
 		<ko>엄격한</ko>
+		<fixja>厳格</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STRICT_GAIN_1</zType>
@@ -1288,6 +1385,7 @@
 		<zh-CN>{0_character}善尽职守，许多人都称其是个{1_trait}的人。</zh-CN>
 		<pt-BR>Sempre a serviço de seus deveres, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>의무를 충실히 수행하는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>義務に忠実な{0_character}は、多くの人に{1_trait}と呼ばれています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STRICT_GAIN_2</zType>
@@ -1301,6 +1399,7 @@
 		<zh-CN>{0_character}不仅严守纪律，而且办事细心。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} tem disciplina e atenção, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 규율이 바르고 세심합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は規律を重んじ、気配りを忘れません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EQUESTRIAN</zType>
@@ -1314,6 +1413,7 @@
 		<zh-CN>专於马术</zh-CN>
 		<pt-BR>Equestre</pt-BR>
 		<ko>명기수</ko>
+		<fixja>馬術師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EQUESTRIAN_F</zType>
@@ -1327,6 +1427,7 @@
 		<zh-CN>专於马术</zh-CN>
 		<pt-BR>Equestre</pt-BR>
 		<ko>명기수</ko>
+		<fixja>馬術師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EQUESTRIAN_GAIN_1</zType>
@@ -1340,6 +1441,7 @@
 		<zh-CN>{0_character}精通骑术与驯马，是一位著名的{1_trait}。</zh-CN>
 		<pt-BR>{0_character} sabe cavalgar e treinar cavalos como ninguém, é uma pessoa {lowercase:{1_trait}}.</pt-BR>
 		<ko>승마와 말 육성에 통달한 {0_character}(은)는 {1_trait}입니다.</ko>
+		<fixja>優秀な騎手で、馬の調教も得意な{0_character}は、{1_trait}として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EQUESTRIAN_GAIN_2</zType>
@@ -1353,6 +1455,7 @@
 		<zh-CN>{0_character}与{masculine_0:他的:她的}马形影不离。 {masculine_0:他:她}是一位{1_trait}！</zh-CN>
 		<pt-BR>{0_character} nunca está longe de seu cavalo, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 언제나 말과 함께합니다. {masculine_0:그:그녀}는 {1_trait}입니다!</ko>
+		<fixja>{0_character}は、{masculine_0:自分:自分}の馬のそばを片時も離れません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CARPENTER</zType>
@@ -1366,6 +1469,7 @@
 		<zh-CN>精通木工</zh-CN>
 		<pt-BR>Carpinteiro</pt-BR>
 		<ko>목수</ko>
+		<fixja>大工</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CARPENTER_F</zType>
@@ -1379,6 +1483,7 @@
 		<zh-CN>精通木工</zh-CN>
 		<pt-BR>Carpinteira</pt-BR>
 		<ko>목수</ko>
+		<fixja>大工</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CARPENTER_GAIN_1</zType>
@@ -1392,6 +1497,7 @@
 		<zh-CN>{0_character}精通木工，是一位著名的{1_trait}。</zh-CN>
 		<pt-BR>Seus trabalhos com madeira são obras-primas, {0_character} é {masculine_0:famoso:famosa} por ser {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>목공의 대가인 {0_character}(은)는 유명한 {1_trait}입니다.</ko>
+		<fixja>木材の加工に長けた{0_character}は、{1_trait}として名を知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PATHFINDER</zType>
@@ -1405,6 +1511,7 @@
 		<zh-CN>探路者</zh-CN>
 		<pt-BR>Descobridor</pt-BR>
 		<ko>선도자</ko>
+		<fixja>先導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PATHFINDER_F</zType>
@@ -1418,6 +1525,7 @@
 		<zh-CN>探路者</zh-CN>
 		<pt-BR>Descobridora</pt-BR>
 		<ko>선도자</ko>
+		<fixja>先導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PATHFINDER_GAIN_1</zType>
@@ -1431,6 +1539,7 @@
 		<zh-CN>{0_character}是一名充满自信的猎人、侦察兵及猎场看守人，也是著名的{1_trait}。</zh-CN>
 		<pt-BR>Seu renome se deve a sua confiança com a caça, a exploração e como guarda-caça, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>자신감 있는 사냥꾼, 정찰병, 사냥터지기인 {0_character}(은)는 유명한 {1_trait}입니다.</ko>
+		<fixja>勇壮なる狩人、斥候兵、猟師である{0_character}は、名の知れた{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTIVATOR</zType>
@@ -1444,6 +1553,7 @@
 		<zh-CN>耕种专家</zh-CN>
 		<pt-BR>Agricultor</pt-BR>
 		<ko>재배자</ko>
+		<fixja>園芸家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTIVATOR_F</zType>
@@ -1457,6 +1567,7 @@
 		<zh-CN>耕种专家</zh-CN>
 		<pt-BR>Agricultora</pt-BR>
 		<ko>재배자</ko>
+		<fixja>園芸家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTIVATOR_GAIN_1</zType>
@@ -1470,6 +1581,7 @@
 		<zh-CN>绿手指{0_character}是一位什么都能种得出来的{1_trait}！</zh-CN>
 		<pt-BR>{0_character} é {masculine_0:um:uma} {lowercase:{1_trait}} de primeira, consegue cultivar qualquer planta!</pt-BR>
 		<ko>원예에 재능이 있는 {0_character}(은)는 어떤 식물이든 기를 수 있는 {1_trait}입니다!</ko>
+		<fixja>栽培が得意な{0_character}は、どんな植物でも育て上げる{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NATURALIST</zType>
@@ -1483,6 +1595,7 @@
 		<zh-CN>博物多闻</zh-CN>
 		<pt-BR>Naturalista</pt-BR>
 		<ko>박물학자</ko>
+		<fixja>自然主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NATURALIST_F</zType>
@@ -1496,6 +1609,7 @@
 		<zh-CN>博物多闻</zh-CN>
 		<pt-BR>Naturalista</pt-BR>
 		<ko>박물학자</ko>
+		<fixja>自然主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NATURALIST_GAIN_1</zType>
@@ -1509,6 +1623,7 @@
 		<zh-CN>{0_character}热衷于学习动植物的知识，是一位有名的{1_trait}！</zh-CN>
 		<pt-BR>Devido a seus estudos sobre plantas e animais, conhecem {0_character} por ser {lowercase:{1_trait}}.</pt-BR>
 		<ko>동식물을 열렬히 탐구하는 {0_character}(은)는 꽤나 유명한 {1_trait}입니다!</ko>
+		<fixja>動植物に非常に詳しい{0_character}は、少しは名の知れた{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DELVER</zType>
@@ -1522,6 +1637,7 @@
 		<zh-CN>钻探专家</zh-CN>
 		<pt-BR>Escavador</pt-BR>
 		<ko>발굴자</ko>
+		<fixja>採掘家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DELVER_F</zType>
@@ -1535,6 +1651,7 @@
 		<zh-CN>钻探专家</zh-CN>
 		<pt-BR>Escavadora</pt-BR>
 		<ko>발굴자</ko>
+		<fixja>採掘家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DELVER_GAIN_1</zType>
@@ -1548,6 +1665,7 @@
 		<zh-CN>{0_character}能够挖掘任何东西，是一位{1_trait}！</zh-CN>
 		<pt-BR>Capaz de desencavar o que for, {0_character} é {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>무엇이든 파내는 {0_character}(은)는 {1_trait}입니다!</ko>
+		<fixja>あらゆる物を採掘する{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CUNNING</zType>
@@ -1561,6 +1679,7 @@
 		<zh-CN>机灵狡诈</zh-CN>
 		<pt-BR>Sagaz</pt-BR>
 		<ko>교활한</ko>
+		<fixja>狡猾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CUNNING_F</zType>
@@ -1574,6 +1693,7 @@
 		<zh-CN>机灵狡诈</zh-CN>
 		<pt-BR>Sagaz</pt-BR>
 		<ko>교활한</ko>
+		<fixja>狡猾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CUNNING_GAIN_1</zType>
@@ -1587,6 +1707,7 @@
 		<zh-CN>{0_character}具备协商谈判的才能，是著名的{1_trait}！</zh-CN>
 		<pt-BR>{0_character} tem um dom para negociar, lhe conhecem como {lowercase:{1_trait}}!</pt-BR>
 		<ko>설득에 천부적인 재능이 있는 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>交渉の才がある{0_character}は、その{1_trait}さで知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CUNNING_GAIN_2</zType>
@@ -1600,6 +1721,7 @@
 		<zh-CN>{0_character}有办法得到任何想要的东西，同时还让对方感到满意。 {masculine_0:他:她}真是{1_trait}！</zh-CN>
 		<pt-BR>{0_character} consegue tudo o que quer e ainda deixa a outra parte satisfeita, {masculine_0:ele:ela} é muito {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 상대를 만족시키면서도 {masculine_0:그:그녀}가 원하는 것은 모두 쟁취해 냅니다. {masculine_0:그:그녀}는 상당히 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、相手方を満足させつつ自分の欲しいものを何でも手に入れます。{masculine_0:彼:彼女}は非常に{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACKER</zType>
@@ -1613,6 +1735,7 @@
 		<zh-CN>追踪专家</zh-CN>
 		<pt-BR>Rastreador</pt-BR>
 		<ko>추적자</ko>
+		<fixja>追跡家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACKER_F</zType>
@@ -1626,6 +1749,7 @@
 		<zh-CN>追踪专家</zh-CN>
 		<pt-BR>Rastreadora</pt-BR>
 		<ko>추적자</ko>
+		<fixja>追跡家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACKER_GAIN_1</zType>
@@ -1639,6 +1763,7 @@
 		<zh-CN>{0_character}能够追踪任何线索，是一位专业的{1_trait}！</zh-CN>
 		<pt-BR>Capaz de seguir qualquer rastro, {0_character} é {masculine_0:um:uma} {lowercase:{1_trait}} de talento!</pt-BR>
 		<ko>어떤 흔적이라도 쫓을 수 있는 {0_character}(은)는 전문 {1_trait}입니다!</ko>
+		<fixja>どのような痕跡でも追跡できる{0_character}は、優れた{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWIFT</zType>
@@ -1652,6 +1777,7 @@
 		<zh-CN>迅速敏捷</zh-CN>
 		<pt-BR>Veloz</pt-BR>
 		<ko>신속한</ko>
+		<fixja>機敏</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWIFT_F</zType>
@@ -1665,6 +1791,7 @@
 		<zh-CN>迅速敏捷</zh-CN>
 		<pt-BR>Veloz</pt-BR>
 		<ko>신속한</ko>
+		<fixja>機敏</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWIFT_GAIN_1</zType>
@@ -1678,6 +1805,7 @@
 		<zh-CN>大家都知道{0_character}的动作就如同俯冲的老鹰般{1_trait}！</zh-CN>
 		<pt-BR>Assim como um falcão, todos conhecem {0_character} por ser {lowercase:{1_trait}}!</pt-BR>
 		<ko>활강하는 매처럼 빠른 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>獲物を狙うタカのごとく素早い{0_character}は、皆に{1_trait}な人物として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER</zType>
@@ -1691,6 +1819,7 @@
 		<zh-CN>攻城专家</zh-CN>
 		<pt-BR>Assediador</pt-BR>
 		<ko>공성 전문가</ko>
+		<fixja>包囲屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER_F</zType>
@@ -1704,6 +1833,7 @@
 		<zh-CN>攻城专家</zh-CN>
 		<pt-BR>Assediadora</pt-BR>
 		<ko>공성 전문가</ko>
+		<fixja>包囲屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER_GAIN_1</zType>
@@ -1717,6 +1847,7 @@
 		<zh-CN>{0_character}精通攻城战，是一位著名的{1_trait}。</zh-CN>
 		<pt-BR>As guerras de cerco é onde {masculine_0:ele:ela} mais brilha, {0_character} é {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>공성전에 능한 {0_character}(은)는 {1_trait}로 이름을 떨쳤습니다.</ko>
+		<fixja>戦場で攻囲を得意とする{0_character}は、{1_trait}として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TOUGH</zType>
@@ -1730,6 +1861,7 @@
 		<zh-CN>坚毅不拔</zh-CN>
 		<pt-BR>Durão</pt-BR>
 		<ko>굳센</ko>
+		<fixja>頑健</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TOUGH_F</zType>
@@ -1743,6 +1875,7 @@
 		<zh-CN>坚毅不拔</zh-CN>
 		<pt-BR>Durona</pt-BR>
 		<ko>굳센</ko>
+		<fixja>頑健</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TOUGH_GAIN_1</zType>
@@ -1756,6 +1889,7 @@
 		<zh-CN>{0_character}坚强而心志坚定，被认为是个{1_trait}的人。</zh-CN>
 		<pt-BR>Por sua força e determinação, conhecem {0_character} como {lowercase:{1_trait}}.</pt-BR>
 		<ko>강하고 단호한 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>身体も意志も強靭な{0_character}は、{1_trait}と見なされています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
@@ -1769,6 +1903,7 @@
 		<zh-CN>残忍嗜血</zh-CN>
 		<pt-BR>Sanguinário</pt-BR>
 		<ko>피에 굶주린</ko>
+		<fixja>残忍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY_F</zType>
@@ -1782,6 +1917,7 @@
 		<zh-CN>残忍嗜血</zh-CN>
 		<pt-BR>Sanguinária</pt-BR>
 		<ko>피에 굶주린</ko>
+		<fixja>残忍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY_GAIN_1</zType>
@@ -1795,6 +1931,7 @@
 		<zh-CN>{0_character}是个{1_trait}的怪物！</zh-CN>
 		<pt-BR>A monstruosidade de {0_character} não tem limites, é {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 {1_trait} 괴물입니다!</ko>
+		<fixja>{0_character}は{1_trait}な怪物です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY_GAIN_2</zType>
@@ -1808,6 +1945,7 @@
 		<zh-CN>极端的暴力能给{0_character}带来最大的快乐，是个{1_trait}的人！</zh-CN>
 		<pt-BR>Sua felicidade é vista quando comete atos de violência extrema, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>극단적인 폭력을 행할 때 가장 행복한 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>すさまじい暴力に酔いしれる{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HECKLER</zType>
@@ -1821,6 +1959,7 @@
 		<zh-CN>扰乱分子</zh-CN>
 		<pt-BR>Atrevido</pt-BR>
 		<ko>방해꾼</ko>
+		<fixja>不平屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HECKLER_F</zType>
@@ -1834,6 +1973,7 @@
 		<zh-CN>扰乱分子</zh-CN>
 		<pt-BR>Atrevida</pt-BR>
 		<ko>방해꾼</ko>
+		<fixja>不平屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HECKLER_GAIN_1</zType>
@@ -1847,6 +1987,7 @@
 		<zh-CN>{0_character}会让{masculine_0:他的:她的}敌人永远不得宁静。 {masculine_0:他:她}是个不讲情面的{1_trait}。</zh-CN>
 		<pt-BR>{0_character} não deixa seus inimigos em paz, é incrivelmente {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}은 적에게 절대 쉴 틈을 주지 않습니다. {masculine_0:그:그녀}는 가차없는 {1_trait}입니다.</ko>
+		<fixja>{0_character}は、{masculine_0:彼:彼女}の敵に休む暇を与えません。{masculine_0:彼:彼女}は容赦ない{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST</zType>
@@ -1860,6 +2001,7 @@
 		<zh-CN>坚定不移</zh-CN>
 		<pt-BR>Resoluto</pt-BR>
 		<ko>꿋꿋한</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST_F</zType>
@@ -1873,6 +2015,7 @@
 		<zh-CN>坚定不移</zh-CN>
 		<pt-BR>Resoluta</pt-BR>
 		<ko>꿋꿋한</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST_GAIN_1</zType>
@@ -1886,6 +2029,7 @@
 		<zh-CN>{0_character}会永远坚守{masculine_0:他的:她的}立场与选择。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} sempre se mantém firme em suas escolhas, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 항상 주어진 역할을 굳건히 수행합니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다.</ko>
+		<fixja>{0_character}は、{masculine_0:彼:彼女}に選ばれた場所を常に死守します。{masculine_0:彼:彼女}は{1_trait}の人です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERBALIST</zType>
@@ -1899,6 +2043,7 @@
 		<zh-CN>草药专家</zh-CN>
 		<pt-BR>Herborista</pt-BR>
 		<ko>약초사</ko>
+		<fixja>薬草医</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERBALIST_F</zType>
@@ -1912,6 +2057,7 @@
 		<zh-CN>草药专家</zh-CN>
 		<pt-BR>Herborista</pt-BR>
 		<ko>약초사</ko>
+		<fixja>薬草医</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERBALIST_GAIN_1</zType>
@@ -1925,6 +2071,7 @@
 		<zh-CN>{0_character}比大多数人都更了解各种草药的功用，是一位{1_trait}！</zh-CN>
 		<pt-BR>{0_character} sabe como usar plantas como ninguém, é {masculine_0:um:uma} hábil {lowercase:{1_trait}}.</pt-BR>
 		<ko>전문 {1_trait}로서 {0_character}(은)는 약초 사용법을 누구보다 많이 알고 있습니다!</ko>
+		<fixja>優秀な{1_trait}の{0_character}は、植物の利用法について、匹敵する者がほとんどいないほどの知識を持っています!</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIGHLANDER</zType>
@@ -1938,6 +2085,7 @@
 		<zh-CN>高地人</zh-CN>
 		<pt-BR>Montanhês</pt-BR>
 		<ko>산악인</ko>
+		<fixja>高地の民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIGHLANDER_F</zType>
@@ -1951,6 +2099,7 @@
 		<zh-CN>高地人</zh-CN>
 		<pt-BR>Montanhesa</pt-BR>
 		<ko>산악인</ko>
+		<fixja>高地の民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIGHLANDER_GAIN_1</zType>
@@ -1964,6 +2113,7 @@
 		<zh-CN>{0_character}以高山和丘陵为家。 {masculine_0:他:她}是一名{1_trait}。</zh-CN>
 		<pt-BR>{0_character} se sente em casa nas colinas e montanhas, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 언덕과 산에 있을 때 가장 편안합니다. {masculine_0:그:그녀}는 {1_trait}입니다.</ko>
+		<fixja>{0_character}は、丘陵地や山地を好みます。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RANGER</zType>
@@ -1977,6 +2127,7 @@
 		<zh-CN>游侠</zh-CN>
 		<pt-BR>Guardião Silvestre</pt-BR>
 		<ko>파수꾼</ko>
+		<fixja>レンジャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RANGER_F</zType>
@@ -1990,6 +2141,7 @@
 		<zh-CN>游侠</zh-CN>
 		<pt-BR>Guardiã Silvestre</pt-BR>
 		<ko>파수꾼</ko>
+		<fixja>レンジャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RANGER_GAIN_1</zType>
@@ -2003,6 +2155,7 @@
 		<zh-CN>{0_character}能在森林中静悄悄地移动，是一位{1_trait}！</zh-CN>
 		<pt-BR>{0_character} se move tão silenciosamente pelas florestas que lhe conhecem como {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 숲에서 빠르게 움직일 수 있는 전문 {1_trait}입니다!</ko>
+		<fixja>{0_character}は、森の中を音もなく移動できる、達人の{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BRAVE</zType>
@@ -2016,6 +2169,7 @@
 		<zh-CN>勇敢无畏</zh-CN>
 		<pt-BR>Valente</pt-BR>
 		<ko>용감한</ko>
+		<fixja>勇敢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BRAVE_F</zType>
@@ -2029,6 +2183,7 @@
 		<zh-CN>勇敢无畏</zh-CN>
 		<pt-BR>Valente</pt-BR>
 		<ko>용감한</ko>
+		<fixja>勇敢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BRAVE_GAIN_1</zType>
@@ -2042,6 +2197,7 @@
 		<zh-CN>即使{0_character}感到害怕，也没有人能察觉。 {masculine_0:他:她}是个极其{1_trait}的人！</zh-CN>
 		<pt-BR>Se {0_character} sente qualquer medo, jamais demonstra. É uma pessoa {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}에게도 과연 공포라는 감정이 있을지 누구도 알지 못합니다. {masculine_0:그:그녀}는 매우 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、恐怖を感じているのかどうかすら誰にもわかりません。{masculine_0:彼:彼女}は実に{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHIELDBEARER</zType>
@@ -2055,6 +2211,7 @@
 		<zh-CN>执盾兵</zh-CN>
 		<pt-BR>Porta-escudo</pt-BR>
 		<ko>방패지기</ko>
+		<fixja>盾使い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHIELDBEARER_F</zType>
@@ -2068,6 +2225,7 @@
 		<zh-CN>执盾兵</zh-CN>
 		<pt-BR>Porta-escudo</pt-BR>
 		<ko>방패지기</ko>
+		<fixja>盾使い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHIELDBEARER_GAIN_1</zType>
@@ -2081,6 +2239,7 @@
 		<zh-CN>{0_character}相信，最好的进攻就是坚不可摧的防御。 {masculine_0:他:她}是一名{1_trait}！</zh-CN>
 		<pt-BR>{0_character} acredita que o melhor ataque é uma defesa impenetrável, é {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 최고의 공격은 최고의 방어라고 생각합니다. {masculine_0:그:그녀}는 {1_trait}입니다!</ko>
+		<fixja>{0_character}は、破られることのない防御こそ最大の攻撃だと考えています。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FIERCE</zType>
@@ -2094,6 +2253,7 @@
 		<zh-CN>暴躁好斗</zh-CN>
 		<pt-BR>Feroz</pt-BR>
 		<ko>사나운</ko>
+		<fixja>剛気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FIERCE_F</zType>
@@ -2107,6 +2267,7 @@
 		<zh-CN>暴躁好斗</zh-CN>
 		<pt-BR>Feroz</pt-BR>
 		<ko>사나운</ko>
+		<fixja>剛気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FIERCE_GAIN_1</zType>
@@ -2120,6 +2281,7 @@
 		<zh-CN>个性过于好斗，要不是因为害怕遭到{masculine_0:他:她}的攻击，许多人都会说{0_character}是个{1_trait}的人！</zh-CN>
 		<pt-BR>Com agressividade para dar e vender, chamariam {0_character} de {lowercase:{1_trait}} se não fosse pelo medo de sua reação.</pt-BR>
 		<ko>{0_character}(은)는 아주 공격적인 인물으로, 뒤탈이 두렵지만 않았다면 많은 사람들은 {masculine_0:그:그녀}를 {1_trait} 사람으로 취급했을 것입니다!</ko>
+		<fixja>失敗を許さない{0_character}は、多くの人に{1_trait}的と呼ばれそうですが、{masculine_0:彼:彼女}が怒るため、誰も口には出しません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE</zType>
@@ -2133,6 +2295,7 @@
 		<zh-CN>骑兵终结者</zh-CN>
 		<pt-BR>Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽</ko>
+		<fixja>馬殺し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE_F</zType>
@@ -2146,6 +2309,7 @@
 		<zh-CN>毒水芹</zh-CN>
 		<pt-BR>Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽</ko>
+		<fixja>馬殺し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE_GAIN_1</zType>
@@ -2159,6 +2323,7 @@
 		<zh-CN>{0_character}十分擅长与骑马的对手作战，因此{masculine_0:他:她}被称为{1_trait}！</zh-CN>
 		<pt-BR>{0_character} tem tanta habilidade em combater oponentes de montaria que lhe chamam de {lowercase:{1_trait}}.</pt-BR>
 		<ko>거침없이 기병을 쓰러뜨리는 {0_character}(은)는 {1_trait}으로 유명합니다!</ko>
+		<fixja>{0_character}は、馬に乗った敵と戦うための高い技術を身に付けています。そのため{masculine_0:彼:彼女}は{1_trait}として知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENGINEER</zType>
@@ -2172,6 +2337,7 @@
 		<zh-CN>精通工程</zh-CN>
 		<pt-BR>Engenheiro</pt-BR>
 		<ko>기술자</ko>
+		<fixja>技師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENGINEER_F</zType>
@@ -2185,6 +2351,7 @@
 		<zh-CN>精通工程</zh-CN>
 		<pt-BR>Engenheira</pt-BR>
 		<ko>기술자</ko>
+		<fixja>技師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENGINEER_GAIN_1</zType>
@@ -2198,6 +2365,7 @@
 		<zh-CN>{0_character}永远都在敲敲打打些什么东西，是个{1_trait}！</zh-CN>
 		<pt-BR>{masculine_0:Ele:Ela} está sempre querendo saber mais sobre o funcionamento das coisas, {0_character} é {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>언제나 무언가를 만들고 있는 {0_character}(은)는 {1_trait}입니다!</ko>
+		<fixja>いつも何かの道具を使っている{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BOLD</zType>
@@ -2211,6 +2379,7 @@
 		<zh-CN>大胆无畏</zh-CN>
 		<pt-BR>Ousado</pt-BR>
 		<ko>대담한</ko>
+		<fixja>大胆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BOLD_F</zType>
@@ -2224,6 +2393,7 @@
 		<zh-CN>大胆无畏</zh-CN>
 		<pt-BR>Ousada</pt-BR>
 		<ko>대담한</ko>
+		<fixja>大胆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BOLD_GAIN_1</zType>
@@ -2237,6 +2407,7 @@
 		<zh-CN>{0_character}从来不害怕冒险，是个{1_trait}的人！</zh-CN>
 		<pt-BR>Os riscos não lhe assustam, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>위험을 감수하는 것이 두렵지 않은 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>危険に立ち向かうことを恐れない{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TIMID</zType>
@@ -2250,6 +2421,7 @@
 		<zh-CN>胆小怯懦</zh-CN>
 		<pt-BR>Vacilante</pt-BR>
 		<ko>소심한</ko>
+		<fixja>臆病</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TIMID_F</zType>
@@ -2263,6 +2435,7 @@
 		<zh-CN>胆小怯懦</zh-CN>
 		<pt-BR>Vacilante</pt-BR>
 		<ko>소심한</ko>
+		<fixja>臆病</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TIMID_GAIN_1</zType>
@@ -2276,6 +2449,7 @@
 		<zh-CN>{0_character}不敢冒险，甚至害怕犯错，成了一个{1_trait}的人！</zh-CN>
 		<pt-BR>Com medo de se arriscar (e até dos mínimos erros!), {0_character} se tornou {lowercase:{1_trait}}.</pt-BR>
 		<ko>위험을 감수하는 것은 고사하고 실수하는 것조차 두려운 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>危険に近寄らず、間違いすらも恐れる{0_character}は、{1_trait}になってしまいました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GRACIOUS</zType>
@@ -2289,6 +2463,7 @@
 		<zh-CN>谦和有礼</zh-CN>
 		<pt-BR>Gracioso</pt-BR>
 		<ko>자애로운</ko>
+		<fixja>慈愛家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GRACIOUS_F</zType>
@@ -2302,6 +2477,7 @@
 		<zh-CN>谦和有礼</zh-CN>
 		<pt-BR>Graciosa</pt-BR>
 		<ko>자애로운</ko>
+		<fixja>慈愛家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GRACIOUS_GAIN_1</zType>
@@ -2315,6 +2491,7 @@
 		<zh-CN>{0_character}友善、礼貌而亲切，是个{1_trait}的人！</zh-CN>
 		<pt-BR>Gentil e agradável, {0_character} é {lowercase:{1_trait}}!</pt-BR>
 		<ko>친절하고 상냥한 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>親切で人当たりのいい{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREEDY</zType>
@@ -2328,6 +2505,7 @@
 		<zh-CN>贪得无厌</zh-CN>
 		<pt-BR>Ganancioso</pt-BR>
 		<ko>탐욕스러운</ko>
+		<fixja>強欲</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREEDY_F</zType>
@@ -2341,6 +2519,7 @@
 		<zh-CN>贪得无厌</zh-CN>
 		<pt-BR>Gananciosa</pt-BR>
 		<ko>탐욕스러운</ko>
+		<fixja>強欲</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREEDY_GAIN_1</zType>
@@ -2354,6 +2533,7 @@
 		<zh-CN>{0_character}可以为了两枚硬币卖掉{masculine_0:他的:她的}老祖母。大家都知道{masculine_0:他:她}{1_trait}！</zh-CN>
 		<pt-BR>{0_character} venderia até a própria avó por duas moedas, todos sabem que {masculine_0:ele:ela} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 금화 한두 푼을 위해 자신의 조모도 팔아치울 수 있습니다. {masculine_0:그:그녀}가 {1_trait} 인물이라는 것은 자명합니다!</ko>
+		<fixja>{0_character}は、{masculine_0:彼:彼女}の実の祖母でもコイン2枚で売り飛ばすでしょう。誰もが知っている通り、{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROMANTIC</zType>
@@ -2367,6 +2547,7 @@
 		<zh-CN>浪漫主义者</zh-CN>
 		<pt-BR>Romântico</pt-BR>
 		<ko>낭만적인</ko>
+		<fixja>ロマンチスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROMANTIC_F</zType>
@@ -2380,6 +2561,7 @@
 		<zh-CN>浪漫主义者</zh-CN>
 		<pt-BR>Romântica</pt-BR>
 		<ko>낭만적인</ko>
+		<fixja>ロマンチスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROMANTIC_GAIN_1</zType>
@@ -2393,6 +2575,7 @@
 		<zh-CN>{0_character}总是深情款款且挥舞着激昂的手势，是个无可救药的{1_trait}！</zh-CN>
 		<pt-BR>{masculine_0:Ele:Ela} demonstra afeição profundamente e tem uma disposição para gestos passionais, {0_character} é {masculine_0:um:uma} {lowercase:{1_trait}} incurável!</pt-BR>
 		<ko>아주 다정하며 열정적인 몸짓에 약한 {0_character}(은)는 끔찍하게 {1_trait} 인물입니다!</ko>
+		<fixja>愛情深く、情熱が行動に表れやすい{0_character}は、どうしようもないほどの{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BITTER</zType>
@@ -2406,6 +2589,7 @@
 		<zh-CN>满怀仇恨</zh-CN>
 		<pt-BR>Amargo</pt-BR>
 		<ko>부정적인</ko>
+		<fixja>悲観的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BITTER_F</zType>
@@ -2419,6 +2603,7 @@
 		<zh-CN>满怀仇恨</zh-CN>
 		<pt-BR>Amarga</pt-BR>
 		<ko>부정적인</ko>
+		<fixja>悲観的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BITTER_GAIN_1</zType>
@@ -2432,6 +2617,7 @@
 		<zh-CN>{0_character}无法放下怨气，总是气愤填膺。堪称最{1_trait}之人！</zh-CN>
 		<pt-BR>{0_character} não é capaz de superar suas mágoas e sempre está com raiva. Como é {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 불만을 삭히지 못하며 자주 화가 나 있습니다. 아주 {1_trait} 인물이죠!</ko>
+		<fixja>{0_character}は不満点にこだわり、よく怒っています。極めて{1_trait}な人です！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EDUCATED</zType>
@@ -2445,6 +2631,7 @@
 		<zh-CN>深受教育</zh-CN>
 		<pt-BR>Culto</pt-BR>
 		<ko>박식한</ko>
+		<fixja>聡明</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EDUCATED_F</zType>
@@ -2458,6 +2645,7 @@
 		<zh-CN>深受教育</zh-CN>
 		<pt-BR>Culta</pt-BR>
 		<ko>박식한</ko>
+		<fixja>聡明</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EDUCATED_GAIN_1</zType>
@@ -2471,6 +2659,7 @@
 		<zh-CN>{0_character}认真努力地学习了多年时间，如今是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} estudou muito e agora lhe conhecem por ser {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 오랫동안 열심히 공부하여 {1_trait} 인물로 알려지게 되었습니다.</ko>
+		<fixja>{0_character}は、長年懸命に研究を行っており、{1_trait}な人物として知られるようになりました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUPERSTITIOUS</zType>
@@ -2484,6 +2673,7 @@
 		<zh-CN>迷信</zh-CN>
 		<pt-BR>Supersticioso</pt-BR>
 		<ko>미신적인</ko>
+		<fixja>迷信家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUPERSTITIOUS_F</zType>
@@ -2497,6 +2687,7 @@
 		<zh-CN>迷信</zh-CN>
 		<pt-BR>Supersticiosa</pt-BR>
 		<ko>미신적인</ko>
+		<fixja>迷信家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUPERSTITIOUS_GAIN_1</zType>
@@ -2510,6 +2701,7 @@
 		<zh-CN>{0_character}是个{1_trait}的人，相信许多奇怪与神秘的事物。</zh-CN>
 		<pt-BR>Por ser {lowercase:{1_trait}}, {0_character} acredita em todo tipo de coisa estranha e misteriosa.</pt-BR>
 		<ko>{0_character}(은)는 {1_trait} 인물로 기묘하고 신비한 것들을 신봉합니다.</ko>
+		<fixja>{0_character}は{1_trait}で、多数の神秘的で奇妙な物事を信じています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE</zType>
@@ -2523,6 +2715,7 @@
 		<zh-CN>富同情心</zh-CN>
 		<pt-BR>Piedoso</pt-BR>
 		<ko>인정 많은</ko>
+		<fixja>篤志家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE_F</zType>
@@ -2536,6 +2729,7 @@
 		<zh-CN>富同情心</zh-CN>
 		<pt-BR>Piedosa</pt-BR>
 		<ko>인정 많은</ko>
+		<fixja>篤志家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE_GAIN_1</zType>
@@ -2549,6 +2743,7 @@
 		<zh-CN>{0_character}对他人怀抱着极大的同情与关怀之心。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} sente muita simpatia e preocupação pelos outros, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 동정심이 깊고 타인을 보살필 줄 압니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다.</ko>
+		<fixja>{0_character}は、他人への思いやりが強く、気づかいを忘れません。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RUTHLESS</zType>
@@ -2562,6 +2757,7 @@
 		<zh-CN>冷酷无情</zh-CN>
 		<pt-BR>Impiedoso</pt-BR>
 		<ko>무자비한</ko>
+		<fixja>冷酷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RUTHLESS_F</zType>
@@ -2575,6 +2771,7 @@
 		<zh-CN>冷酷无情</zh-CN>
 		<pt-BR>Impiedosa</pt-BR>
 		<ko>무자비한</ko>
+		<fixja>冷酷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RUTHLESS_GAIN_1</zType>
@@ -2588,6 +2785,7 @@
 		<zh-CN>{0_character}会不计一切代价得到{masculine_0:他:她}想要的事物。 {masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} fará o que for preciso para conseguir o que quer, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 원하는 것을 쟁취하기 위해서라면 무엇이든 할 것입니다. {masculine_0:그:그녀}는 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、{masculine_0:自分:自分}が欲しいものを手に入れるためならどんなことでも実行します。{masculine_0:彼:彼女}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS</zType>
@@ -2601,6 +2799,7 @@
 		<zh-CN>信仰虔诚</zh-CN>
 		<pt-BR>Beato</pt-BR>
 		<ko>신실한</ko>
+		<fixja>敬虔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS_F</zType>
@@ -2614,6 +2813,7 @@
 		<zh-CN>信仰虔诚</zh-CN>
 		<pt-BR>Beata</pt-BR>
 		<ko>신실한</ko>
+		<fixja>敬虔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS_GAIN_1</zType>
@@ -2627,6 +2827,7 @@
 		<zh-CN>{0_character}为{masculine_0:他的:她的}信仰而奉献，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} tem uma profunda devoção por sua fé, é {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>{masculine_0:그:그녀}의 신앙에 헌신하는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>{masculine_0:自分:自分}の信念にその身を捧げる{0_character}は、{1_trait}な人物です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WANTON</zType>
@@ -2640,6 +2841,7 @@
 		<zh-CN>荒淫放荡</zh-CN>
 		<pt-BR>Lascivo</pt-BR>
 		<ko>음탕한</ko>
+		<fixja>好色</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WANTON_F</zType>
@@ -2653,6 +2855,7 @@
 		<zh-CN>荒淫放荡</zh-CN>
 		<pt-BR>Lasciva</pt-BR>
 		<ko>음탕한</ko>
+		<fixja>好色</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WANTON_GAIN_1</zType>
@@ -2666,6 +2869,7 @@
 		<zh-CN>{0_character}热衷放纵于肉体的享乐，是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} se deixa levar pelos prazeres da carne, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>살과 살이 부딪히는 쾌락을 즐기는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>肉欲に引き付けられてしまう{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LOYAL</zType>
@@ -2679,6 +2883,7 @@
 		<zh-CN>忠诚不渝</zh-CN>
 		<pt-BR>Leal</pt-BR>
 		<ko>충성스러운</ko>
+		<fixja>忠実</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LOYAL_F</zType>
@@ -2692,6 +2897,7 @@
 		<zh-CN>忠诚不渝</zh-CN>
 		<pt-BR>Leal</pt-BR>
 		<ko>충성스러운</ko>
+		<fixja>忠実</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LOYAL_GAIN_1</zType>
@@ -2705,6 +2911,7 @@
 		<zh-CN>{0_character}为自己誓言投入的志业而奉献，所有人都知道{masculine_0:他:她}是个{1_trait}的人！</zh-CN>
 		<pt-BR>Sua devoção a qualquer causa que defenda é inquestionável, todos sabem que {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>충성을 맹세한 모든 것에 헌신하는 {0_character}(은)는 {1_trait} 인물입니다!</ko>
+		<fixja>{masculine_0:自分:自分}が信じる理念に魂を捧げる{0_character}は、{1_trait}な人物として皆に知られています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DECEITFUL</zType>
@@ -2718,6 +2925,7 @@
 		<zh-CN>欺骗不实</zh-CN>
 		<pt-BR>Enganador</pt-BR>
 		<ko>부정직한</ko>
+		<fixja>二枚舌</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DECEITFUL_F</zType>
@@ -2731,6 +2939,7 @@
 		<zh-CN>欺骗不实</zh-CN>
 		<pt-BR>Enganadora</pt-BR>
 		<ko>부정직한</ko>
+		<fixja>二枚舌</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DECEITFUL_GAIN_1</zType>
@@ -2744,6 +2953,7 @@
 		<zh-CN>{0_character}似乎从来不信守{masculine_0:他的:她的}诺言，现在成了一个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} nunca mantém sua palavra e lhe conhecem por ser {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 약속을 절대 지키지 않아 {1_trait} 인물로 알려졌습니다.</ko>
+		<fixja>{0_character}は、{masculine_0:自分:自分}のした約束を守ったことがなく、今や{1_trait}として知られるようになりました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HUMBLE</zType>
@@ -2757,6 +2967,7 @@
 		<zh-CN>谦卑为怀</zh-CN>
 		<pt-BR>Humilde</pt-BR>
 		<ko>겸손한</ko>
+		<fixja>謙虚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HUMBLE_F</zType>
@@ -2770,6 +2981,7 @@
 		<zh-CN>谦卑为怀</zh-CN>
 		<pt-BR>Humilde</pt-BR>
 		<ko>겸손한</ko>
+		<fixja>謙虚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HUMBLE_GAIN_1</zType>
@@ -2783,6 +2995,7 @@
 		<zh-CN>{0_character}态度谦逊，从不把{masculine_0:他:她}自己放在第一位，是个{1_trait}的人。</zh-CN>
 		<pt-BR>Modéstia é seu forte, {masculine_0:ele:ela} nunca se põe na frente dos outros, {0_character} é {lowercase:{1_trait}}.</pt-BR>
 		<ko>겸허하고 항상 타인을 먼저 두는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>慎み深く、決して{masculine_0:自分:自分}を優先しない{0_character}は、{1_trait}な人物です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROUD</zType>
@@ -2796,6 +3009,7 @@
 		<zh-CN>骄傲自豪</zh-CN>
 		<pt-BR>Orgulhoso</pt-BR>
 		<ko>교만한</ko>
+		<fixja>尊大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROUD_F</zType>
@@ -2809,6 +3023,7 @@
 		<zh-CN>骄傲自豪</zh-CN>
 		<pt-BR>Orgulhosa</pt-BR>
 		<ko>교만한</ko>
+		<fixja>尊大</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROUD_GAIN_1</zType>
@@ -2822,6 +3037,7 @@
 		<zh-CN>{0_character}对{masculine_0:他的:她的}自我成就深感欣悦。 {masculine_0:他:她}是个{1_trait}的人。</zh-CN>
 		<pt-BR>{0_character} se satisfaz com seus próprios feitos, não é exagero chamar-lhe de {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 자신의 업적에 깊은 희열을 느낍니다. {masculine_0:그:그녀}가 {1_trait} 인물이라는 것은 틀린 말이 아닙니다.</ko>
+		<fixja>{0_character}は、{masculine_0:自分:自分}のみが成し遂げたことに深い喜びを感じています。{masculine_0:彼:彼女}を{1_trait}と呼んでも間違いではないでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WITTY</zType>
@@ -2835,6 +3051,7 @@
 		<zh-CN>机智逗趣</zh-CN>
 		<pt-BR>Astuto</pt-BR>
 		<ko>재치 있는</ko>
+		<fixja>口上手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WITTY_F</zType>
@@ -2848,6 +3065,7 @@
 		<zh-CN>机智逗趣</zh-CN>
 		<pt-BR>Astuta</pt-BR>
 		<ko>재치 있는</ko>
+		<fixja>口上手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WITTY_GAIN_1</zType>
@@ -2861,6 +3079,7 @@
 		<zh-CN>{0_character}是个{1_trait}的人，能以{masculine_0:他的:她的}伶俐口齿和充满创意的笑话令人发笑！</zh-CN>
 		<pt-BR>{0_character} sabe como fazer todos rirem com sua inteligência e criatividade, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>{1_trait} {0_character}(은)는 뛰어난 말재간과 창의적인 농담으로 타인을 즐겁게 해 줍니다!</ko>
+		<fixja>{0_character}は{1_trait}な人物で、{masculine_0:彼:彼女}ならではの機転の効いた冗談で皆を笑わせます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SPOILED</zType>
@@ -2874,6 +3093,7 @@
 		<zh-CN>娇生惯养</zh-CN>
 		<pt-BR>Mimado</pt-BR>
 		<ko>버릇없는</ko>
+		<fixja>駄々っ子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SPOILED_F</zType>
@@ -2887,6 +3107,7 @@
 		<zh-CN>娇生惯养</zh-CN>
 		<pt-BR>Mimada</pt-BR>
 		<ko>버릇없는</ko>
+		<fixja>駄々っ子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SPOILED_GAIN_1</zType>
@@ -2900,6 +3121,7 @@
 		<zh-CN>只要有任何事情无法让{masculine_0:他:她}称心如意，{0_character}就会大发雷霆，是个最{1_trait}的人！</zh-CN>
 		<pt-BR>{0_character} está sempre {masculine_0:pronto:pronta} para fazer birra se não conseguir o que quer, mas que {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 자신이 원하는 대로 하지 못하면 크게 화를 내는 아주 {1_trait} 인물입니다!</ko>
+		<fixja>{0_character}は、{masculine_0:彼:彼女}の希望が{masculine_0:自分:自分}の思った通りに叶えられないと怒り出します。大変な{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
@@ -2913,6 +3135,7 @@
 		<zh-CN>哲学学生</zh-CN>
 		<pt-BR>Estudante de Filosofia</pt-BR>
 		<ko>철학도</ko>
+		<fixja>哲学の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY_DESCRIPTION</zType>
@@ -2926,6 +3149,7 @@
 		<zh-CN>可前往link(TRAIT_TACTICIAN_ARCHETYPE)、link(TRAIT_ZEALOT_ARCHETYPE)、link(TRAIT_JUDGE_ARCHETYPE)、link(TRAIT_BUILDER_ARCHETYPE)或link(TRAIT_SCHOLAR_ARCHETYPE)</zh-CN>
 		<pt-BR>Desbloqueia as opções de link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE) ou link(TRAIT_SCHOLAR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE) 성향으로 성장할 수 있습니다.</ko>
+		<fixja>link(TRAIT_TACTICIAN_ARCHETYPE)、link(TRAIT_ZEALOT_ARCHETYPE)、link(TRAIT_JUDGE_ARCHETYPE)、link(TRAIT_BUILDER_ARCHETYPE)、link(TRAIT_SCHOLAR_ARCHETYPE)になることができる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY_F</zType>
@@ -2939,6 +3163,7 @@
 		<zh-CN>哲学学生</zh-CN>
 		<pt-BR>Estudante de Filosofia</pt-BR>
 		<ko>철학도</ko>
+		<fixja>哲学の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_POLITICS</zType>
@@ -2952,6 +3177,7 @@
 		<zh-CN>政治学学生</zh-CN>
 		<pt-BR>Estudante de Política</pt-BR>
 		<ko>정치학도</ko>
+		<fixja>政治の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_POLITICS_DESCRIPTION</zType>
@@ -2965,6 +3191,7 @@
 		<zh-CN>可前往link(TRAIT_HERO_ARCHETYPE)、link(TRAIT_ORATOR_ARCHETYPE)、link(TRAIT_JUDGE_ARCHETYPE)、link(TRAIT_SCHOLAR_ARCHETYPE)或link(TRAIT_DIPLOMAT_ARCHETYPE)</zh-CN>
 		<pt-BR>Desbloqueia as opções de link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE) ou link(TRAIT_DIPLOMAT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE) 성향으로 성장할 수 있습니다.</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)、link(TRAIT_ORATOR_ARCHETYPE)、link(TRAIT_JUDGE_ARCHETYPE)、link(TRAIT_SCHOLAR_ARCHETYPE)、link(TRAIT_DIPLOMAT_ARCHETYPE)になることができる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_POLITICS_F</zType>
@@ -2978,6 +3205,7 @@
 		<zh-CN>政治学学生</zh-CN>
 		<pt-BR>Estudante de Política</pt-BR>
 		<ko>정치학도</ko>
+		<fixja>政治の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS</zType>
@@ -2991,6 +3219,7 @@
 		<zh-CN>战略学学生</zh-CN>
 		<pt-BR>Estudante de Estratégias</pt-BR>
 		<ko>전술학도</ko>
+		<fixja>戦術の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS_DESCRIPTION</zType>
@@ -3004,6 +3233,7 @@
 		<zh-CN>可前往link(TRAIT_HERO_ARCHETYPE)、link(TRAIT_COMMANDER_ARCHETYPE)、link(TRAIT_TACTICIAN_ARCHETYPE)、link(TRAIT_ZEALOT_ARCHETYPE)或link(TRAIT_SCHEMER_ARCHETYPE)</zh-CN>
 		<pt-BR>Desbloqueia as opções de link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE) ou link(TRAIT_SCHEMER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE) 성향으로 성장할 수 있습니다.</ko>
+		<fixja>link(TRAIT_HERO_ARCHETYPE)、link(TRAIT_COMMANDER_ARCHETYPE)、link(TRAIT_TACTICIAN_ARCHETYPE)、link(TRAIT_ZEALOT_ARCHETYPE)、link(TRAIT_SCHEMER_ARCHETYPE)になることができる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS_F</zType>
@@ -3017,6 +3247,7 @@
 		<zh-CN>战略学学生</zh-CN>
 		<pt-BR>Estudante de Estratégias</pt-BR>
 		<ko>전술학도</ko>
+		<fixja>戦術の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
@@ -3030,6 +3261,7 @@
 		<zh-CN>贸易学学生</zh-CN>
 		<pt-BR>Estudante de Comércio</pt-BR>
 		<ko>상업학도</ko>
+		<fixja>商売の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE_DESCRIPTION</zType>
@@ -3043,6 +3275,7 @@
 		<zh-CN>可前往link(TRAIT_COMMANDER_ARCHETYPE)、link(TRAIT_SCHEMER_ARCHETYPE)、link(TRAIT_ORATOR_ARCHETYPE)、link(TRAIT_BUILDER_ARCHETYPE)或link(TRAIT_DIPLOMAT_ARCHETYPE)</zh-CN>
 		<pt-BR>Desbloqueia as opções de link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE) ou link(TRAIT_DIPLOMAT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE) 성향으로 성장할 수 있습니다.</ko>
+		<fixja>link(TRAIT_COMMANDER_ARCHETYPE)、link(TRAIT_SCHEMER_ARCHETYPE)、link(TRAIT_ORATOR_ARCHETYPE)、link(TRAIT_BUILDER_ARCHETYPE)、link(TRAIT_DIPLOMAT_ARCHETYPE)になることができる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE_F</zType>
@@ -3056,6 +3289,7 @@
 		<zh-CN>贸易学学生</zh-CN>
 		<pt-BR>Estudante de Comércio</pt-BR>
 		<ko>상업학도</ko>
+		<fixja>商売の徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRAVELLING_AFAR</zType>
@@ -3069,6 +3303,7 @@
 		<zh-CN>远行</zh-CN>
 		<pt-BR>Viajando ao longe</pt-BR>
 		<ko>멀리 여행하는</ko>
+		<fixja>遠行</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRAVELLING_AFAR_F</zType>
@@ -3082,6 +3317,7 @@
 		<zh-CN>远行</zh-CN>
 		<pt-BR>Viajando ao longe</pt-BR>
 		<ko>멀리 여행하는</ko>
+		<fixja>遠行</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRAVELLING_AFAR_DESCRIPTION</zType>
@@ -3095,6 +3331,7 @@
 		<zh-CN>有远行特性的人物将会经历独特事件，同時在周围世界探险。</zh-CN>
 		<pt-BR>Os personagens que estão viajando ao longe passarão por eventos únicos enquanto descobrem o mundo ao seu redor.</pt-BR>
 		<ko>멀리 여행하는 자는 주변 세상을 발견하면서 독특한 사건을 경험할 것입니다.</ko>
+		<fixja>遠くを旅する人々は、周囲を探索するうちに固有の出来事に遭遇するでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXPLORING</zType>
@@ -3108,6 +3345,7 @@
 		<zh-CN>探索</zh-CN>
 		<pt-BR>Explorador</pt-BR>
 		<ko>탐험하는</ko>
+		<fixja>探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXPLORING_F</zType>
@@ -3121,6 +3359,7 @@
 		<zh-CN>探索</zh-CN>
 		<pt-BR>Exploradora</pt-BR>
 		<ko>탐험하는</ko>
+		<fixja>探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXPLORING_DESCRIPTION</zType>
@@ -3134,6 +3373,7 @@
 		<zh-CN>有探索特性的人物将会经历独特事件，同時在周围世界探险。</zh-CN>
 		<pt-BR>Os personagens que saem para explorar passarão por eventos únicos enquanto descobrem o mundo ao seu redor.</pt-BR>
 		<ko>탐험하는 인물은 주위에 있는 세계를 발견하면서 독특한 사건을 경험할 것입니다.</ko>
+		<fixja>「探検家」の特性を持つキャラクターの場合、世界中を探検している最中に固有イベントが発生します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXOTIC</zType>
@@ -3147,6 +3387,7 @@
 		<zh-CN>异国</zh-CN>
 		<pt-BR>Exótico</pt-BR>
 		<ko>이국적인</ko>
+		<fixja>異国的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXOTIC_F</zType>
@@ -3160,6 +3401,7 @@
 		<zh-CN>异国</zh-CN>
 		<pt-BR>Exótica</pt-BR>
 		<ko>이국적인</ko>
+		<fixja>異国的</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED</zType>
@@ -3173,6 +3415,7 @@
 		<zh-CN>福佑</zh-CN>
 		<pt-BR>Abençoado</pt-BR>
 		<ko>축복받은</ko>
+		<fixja>幸運</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED_F</zType>
@@ -3186,6 +3429,7 @@
 		<zh-CN>福佑</zh-CN>
 		<pt-BR>Abençoada</pt-BR>
 		<ko>축복받은</ko>
+		<fixja>幸運</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED_DESCRIPTION</zType>
@@ -3199,6 +3443,7 @@
 		<zh-CN>有些人就是比其他人更好运、更有福佑。谁知道这会带来什么好事呢？</zh-CN>
 		<pt-BR>Alguma pessoas são abençoadas com mais sorte do que outras. Quem sabe o que há de bom ainda por vir?</pt-BR>
 		<ko>어떤 사람들은 다른 사람들보다 더 많은 운을 타고 태어났습니다. 이 축복은 어떤 좋은 일로 이어질까요?</ko>
+		<fixja>他よりも幸運に恵まれた人々がいます。どのような良き出来事が待ち受けているのでしょう?</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CURSED</zType>
@@ -3212,6 +3457,7 @@
 		<zh-CN>被诅咒</zh-CN>
 		<pt-BR>Amaldiçoado</pt-BR>
 		<ko>저주받은</ko>
+		<fixja>不幸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CURSED_F</zType>
@@ -3225,6 +3471,7 @@
 		<zh-CN>被诅咒</zh-CN>
 		<pt-BR>Amaldiçoada</pt-BR>
 		<ko>저주받은</ko>
+		<fixja>不幸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CURSED_DESCRIPTION</zType>
@@ -3238,6 +3485,7 @@
 		<zh-CN>没有人知道诅咒到底是不是真的，但某些人招来的不幸肯定是真的。无论接下来会发生什么事，都不会令人太开心。</zh-CN>
 		<pt-BR>Ninguém sabe se maldições são reais, mas a desgraça que algumas pessoas atraem com certeza é. O que está por vir não será nada agradável.</pt-BR>
 		<ko>저주라는 것이 진짜인지 아닌지는 아무도 모르지만 불행을 불러오는 사람은 확실히 존재합니다. 다음에 어떤 일이 일어나든 썩 유쾌한 일은 아닐 것입니다.</ko>
+		<fixja>不幸な運命が実在するかはわかりませんが、不吉な出来事を引き付ける人々は確かに存在します。次にやってくる出来事は、楽しいものではないでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL</zType>
@@ -3251,6 +3499,7 @@
 		<zh-CN>生病</zh-CN>
 		<pt-BR>Doente</pt-BR>
 		<ko>환자</ko>
+		<fixja>病気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_F</zType>
@@ -3264,6 +3513,7 @@
 		<zh-CN>生病</zh-CN>
 		<pt-BR>Doente</pt-BR>
 		<ko>환자</ko>
+		<fixja>病気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_GAIN_1</zType>
@@ -3277,6 +3527,7 @@
 		<zh-CN>{0_character}{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} ficou {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 {1_trait}가 되었습니다.</ko>
+		<fixja>{0_character}は{1_trait}になっています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_GAIN_2</zType>
@@ -3290,6 +3541,7 @@
 		<zh-CN>{0_character}有轻微发烧和流鼻涕，有点{1_trait}。</zh-CN>
 		<pt-BR>Com um pouco de febre e um nariz escorrendo, {0_character} está {lowercase:{1_trait}}.</pt-BR>
 		<ko>콧물이 나고 미열이 생겼습니다. {0_character}(은)는 {1_trait}가 되었습니다.</ko>
+		<fixja>微熱と鼻水の症状がある{0_character}は、やや{1_trait}が重いようです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_GAIN_3</zType>
@@ -3303,6 +3555,7 @@
 		<zh-CN>{0_character}感觉{1_trait}、头昏眼花而且虚弱无力。</zh-CN>
 		<pt-BR>{0_character} se sente {lowercase:{1_trait}}, está {masculine_0:desorientado:desorientada} e {masculine_0:fraco:fraca}.</pt-BR>
 		<ko>어지럽고 기운이 없는 {0_character}(은)는 {1_trait}입니다.</ko>
+		<fixja>{0_character}は{1_trait}のようです。目まいがして体調がよくありません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_GAIN_4</zType>
@@ -3316,6 +3569,7 @@
 		<zh-CN>{0_character}最近一直感觉不太舒服，现在{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} não tem se sentido bem ultimamente e agora está {lowercase:{1_trait}}.</pt-BR>
 		<ko>최근 상당히 몸이 좋지 않았던 {0_character}(은)는 {1_trait}가 되었습니다.</ko>
+		<fixja>{0_character}は最近良くない気分が続いており、今は{1_trait}になっています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_GAIN_5</zType>
@@ -3329,6 +3583,7 @@
 		<zh-CN>{0_character}的健康状况开始变差，{masculine_0:他:她}现在{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} está com a saúde comprometida e agora {masculine_0:ele:ela} está {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}의 건강이 악화되고 있습니다. {masculine_0:그:그녀}는 {1_trait}가 되었습니다.</ko>
+		<fixja>{0_character}の健康状態は悪化していましたが、{masculine_0:彼:彼女}は今{1_trait}になっています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_LOSS_1</zType>
@@ -3342,6 +3597,7 @@
 		<zh-CN>{0_character}不再{1_trait}了，{masculine_0:他:她}已经完全康复了！</zh-CN>
 		<pt-BR>{0_character} não está mais {lowercase:{1_trait}}, {masculine_0:ele:ela} se recuperou completamente!</pt-BR>
 		<ko>{0_character}(은)는 더 이상 {1_trait}가 아닙니다. {masculine_0:그:그녀}는 완전히 회복되었습니다!</ko>
+		<fixja>{0_character}の{1_trait}はもう治りました。{masculine_0:彼:彼女}はすっかり元気です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_LOSS_2</zType>
@@ -3355,6 +3611,7 @@
 		<zh-CN>{0_character}已经从{masculine_0:他的:她的}病中康复，不再{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} se recuperou de seu mal-estar e já não está {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(이)가 완치되어 {1_trait} 신세를 벗어났습니다.</ko>
+		<fixja>{0_character}は回復しました。もう{masculine_0:彼:彼女}は不調を感じておらず、{1_trait}ではありません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL_LOSS_3</zType>
@@ -3368,6 +3625,7 @@
 		<zh-CN>谢天谢地，{0_character}现在感觉好多了，不再{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} felizmente se sente muito melhor agora e não está mais {lowercase:{1_trait}}.</pt-BR>
 		<ko>{1_trait}였던 {0_character}(이)가 다행히도 말끔히 회복되었습니다.</ko>
+		<fixja>ありがたいことに、{0_character}は気分がかなり良くなりました。もう{1_trait}ではありません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
@@ -3381,6 +3639,7 @@
 		<zh-CN>重病</zh-CN>
 		<pt-BR>Muito Doente</pt-BR>
 		<ko>중환자</ko>
+		<fixja>重症</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_F</zType>
@@ -3394,6 +3653,7 @@
 		<zh-CN>重病</zh-CN>
 		<pt-BR>Muito Doente</pt-BR>
 		<ko>중환자</ko>
+		<fixja>重症</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
@@ -3407,6 +3667,7 @@
 		<zh-CN>{0_character}不断上吐下泻，生了{1_trait}。</zh-CN>
 		<pt-BR>{0_character} está sofrendo com diarreia e vômitos constantes, está {lowercase:{1_trait}}.</pt-BR>
 		<ko>종일 구토와 설사로 고통받는 {0_character}(은)는 {1_trait}입니다.</ko>
+		<fixja>ほぼ絶え間なく吐き気と下痢に襲われている{0_character}は{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
@@ -3420,6 +3681,7 @@
 		<zh-CN>{0_character}生了{1_trait}，持续发高烧而且不断冷颤，让{masculine_0:他:她}几乎无法走路。</zh-CN>
 		<pt-BR>{0_character} está {lowercase:{1_trait}}: {masculine_0:ele:ela} tem uma febre alta, não para de tremer e mal consegue andar.</pt-BR>
 		<ko>고열과 오한이 몰려오며 걷기조차 힘들어진 {0_character}(은)는 {1_trait}입니다.</ko>
+		<fixja>{0_character}は{1_trait}です。高熱が出て震えが止まらず、{masculine_0:彼:彼女}はほとんど歩くこともままなりません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
@@ -3433,6 +3695,7 @@
 		<zh-CN>{0_character}生了{1_trait}，咳出带血的黏液，而且{masculine_0:他的:她的}胸部剧烈疼痛，恐怕{masculine_0:他:她}所剩的时间不多了。</zh-CN>
 		<pt-BR>{0_character} está tossindo sangue e tem dores fortes no peito, {masculine_0:ele:ela} teme que já não tenha mais muito tempo sobrando.</pt-BR>
 		<ko>{1_trait}가 된 {0_character}(은)는 피를 토하며 날카로운 흉통을 느낍니다. 두렵게도 {masculine_0:그:그녀}에게 시간이 얼마 남지 않았다는 것이 느껴집니다.</ko>
+		<fixja>{0_character}は{1_trait}です。喀血し、胸に激痛が走っています。{masculine_0:彼:彼女}は、{masculine_0:自分:自分}にはあまり時間が残されていないと恐れています。.</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
@@ -3446,6 +3709,7 @@
 		<zh-CN>{0_character}的身体一直都有点不舒服，现在已经演变成{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} sempre teve uma saúde fraca, mas agora {masculine_0:ele:ela} está {lowercase:{1_trait}}.</pt-BR>
 		<ko>항상 잔병치레하던 {0_character}(은)는 {1_trait}가 되었습니다.</ko>
+		<fixja>{0_character}はいつも病気がちでしたが、今や{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
@@ -3459,6 +3723,7 @@
 		<zh-CN>{0_character}的健康状况已严重恶化，{masculine_0:他:她}现在已得了{1_trait}。</zh-CN>
 		<pt-BR>{0_character} piorou consideravelmente e agora {masculine_0:ele:ela} está {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}의 건강이 크게 나빠졌으며 현재 {masculine_0:그:그녀}는 {1_trait}입니다.</ko>
+		<fixja>{0_character}の健康状態は急激に悪化し、{masculine_0:彼:彼女}は今や{1_trait}です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_6</zType>
@@ -3472,6 +3737,7 @@
 		<zh-CN>{0_character}渐渐失去了意识，显然，{masculine_0:他的:她的}{1_trait}和生命处于危险之中。</zh-CN>
 		<pt-BR>{0_character} está oscilando entre a consciência e inconsciência, {lowercase:{1_trait}}, com sua vida claramente em perigo.</pt-BR>
 		<ko>{0_character}은(는) 의식이 흐릿한 {1_trait}로 생명이 위태로운 상태입니다.</ko>
+		<fixja>{0_character}は意識が朦朧としている。{1_trait}…{masculine_0:彼の:彼女の}命は、明らかに危険に晒されている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_7</zType>
@@ -3485,6 +3751,7 @@
 		<zh-CN>{0_character}意识到{masculine_0:他:她}成为了{1_trait}，一直在思考{masculine_0:他的:她的}死后归宿。</zh-CN>
 		<pt-BR>{0_character} tem refletido sobre sua posição no além vida, após perceber que está {lowercase:{1_trait}}.</pt-BR>
 		<ko>자신이 {1_trait}임을 깨달은 {0_character}은(는) 내세에 어디로 가게 될지를 성찰하고 있습니다.</ko>
+		<fixja>{1_trait}であることを悟り、{0_character}は自身の来世での役割について考えている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
@@ -3498,6 +3765,7 @@
 		<zh-CN>{0_character}已经摆脱{1_trait}，{masculine_0:他:她}惊人地康复了！</zh-CN>
 		<pt-BR>{0_character} já não está {lowercase:{1_trait}}, sua recuperação foi incrível!</pt-BR>
 		<ko>{0_character}(은)는 {1_trait} 신세에서 벗어났습니다. {masculine_0:그:그녀}는 놀라울 정도로 말끔히 나았습니다!</ko>
+		<fixja>{0_character}は{1_trait}の状態を脱しました。{masculine_0:彼:彼女}は驚くべき回復をとげました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
@@ -3511,6 +3779,7 @@
 		<zh-CN>虽然{masculine_0:他:她}在鬼门关前走了一遭，{0_character}却奇迹般地从{1_trait}中康复了。</zh-CN>
 		<pt-BR>Embora {0_character} estivesse prestes a morrer, como um milagre, {masculine_0:ele:ela} conseguiu se recuperar e já não está {lowercase:{1_trait}}.</pt-BR>
 		<ko>{1_trait}였던 {0_character}(은)는 죽음의 문턱에 있었지만 기적적으로 회복하였습니다.</ko>
+		<fixja>{0_character} は死を目前にしていましたが、奇跡的に{1_trait}の状態から回復しました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
@@ -3524,6 +3793,7 @@
 		<zh-CN>{0_character}现在正在康复中，已经摆脱了{1_trait}。</zh-CN>
 		<pt-BR>{0_character} já está se recuperando e não está mais {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(은)는 회복 궤도에 올랐으며 더 이상 {1_trait}가 아닙니다.</ko>
+		<fixja>{0_character}は今回復しつつあります。もう{1_trait}ではありません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCUBATED</zType>
@@ -3537,6 +3807,7 @@
 		<zh-CN>疾病潜伏</zh-CN>
 		<pt-BR>Quarentenado</pt-BR>
 		<ko>요양 중인</ko>
+		<fixja>保護</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCUBATED_F</zType>
@@ -3550,6 +3821,7 @@
 		<zh-CN>疾病潜伏</zh-CN>
 		<pt-BR>Quarentenada</pt-BR>
 		<ko>요양 중인</ko>
+		<fixja>保護</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCUBATED_LOSS_1</zType>
@@ -3563,6 +3835,7 @@
 		<zh-CN>{0_character}已经从圣地归来，体内不再有{1_trait}了。</zh-CN>
 		<pt-BR>{0_character} retornou das áreas sagradas e não está mais {lowercase:{1_trait}}.</pt-BR>
 		<ko>{1_trait} {0_character}(이)가 성역에서 돌아왔습니다.</ko>
+		<fixja>{0_character}は聖地から戻ってきました。もう{1_trait}されていません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONED</zType>
@@ -3576,6 +3849,7 @@
 		<zh-CN>中毒</zh-CN>
 		<pt-BR>Envenenado</pt-BR>
 		<ko>중독된</ko>
+		<fixja>中毒状態</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONED_F</zType>
@@ -3589,6 +3863,7 @@
 		<zh-CN>遭到下毒</zh-CN>
 		<pt-BR>Envenenada</pt-BR>
 		<ko>중독된</ko>
+		<fixja>中毒状態</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONED_LOSS_1</zType>
@@ -3602,6 +3877,7 @@
 		<zh-CN>{0_character}已经从{1_trait}中康复过来了。</zh-CN>
 		<pt-BR>{0_character} se recuperou e já não está {lowercase:{1_trait}}.</pt-BR>
 		<ko>{0_character}(이)가 회복되어 {1_trait} 상태에서 벗어났습니다.</ko>
+		<fixja>{0_character}は回復し、もう{1_trait}は抜けました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISERABLE</zType>
@@ -3615,6 +3891,7 @@
 		<zh-CN>痛苦</zh-CN>
 		<pt-BR>Miserável</pt-BR>
 		<ko>비참한</ko>
+		<fixja>悲惨</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISERABLE_F</zType>
@@ -3628,6 +3905,7 @@
 		<zh-CN>痛苦</zh-CN>
 		<pt-BR>Miserável</pt-BR>
 		<ko>비참한</ko>
+		<fixja>悲惨</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED</zType>
@@ -3641,6 +3919,7 @@
 		<zh-CN>伤疤</zh-CN>
 		<pt-BR>Marcado</pt-BR>
 		<ko>흉터가 남은</ko>
+		<fixja>傷跡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED_F</zType>
@@ -3654,6 +3933,7 @@
 		<zh-CN>伤疤</zh-CN>
 		<pt-BR>Marcada</pt-BR>
 		<ko>흉터가 남은</ko>
+		<fixja>傷跡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED_GAIN_1</zType>
@@ -3667,6 +3947,7 @@
 		<zh-CN>{0_character}已经从{masculine_0:他:她}最近受的伤中康复了，但给{masculine_0:他:她}留下了永远的{1_trait}。</zh-CN>
 		<pt-BR>{0_character} se recuperou de sua ferida recente, porém isso lhe deixou {lowercase:{1_trait}} com cicatrizes permanentementes.</pt-BR>
 		<ko>{0_character}(이)가 최근에 입었던 부상은 나았지만 {masculine_0:그:그녀}는 영원히 {1_trait} 신체를 안고 살아야 합니다.</ko>
+		<fixja>{0_character}は、{masculine_0:自分:自分}の最近受けた傷から回復しましたが、{masculine_0:その:その}身体には一生消えない{1_trait}が残りました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED_GAIN_2</zType>
@@ -3680,6 +3961,7 @@
 		<zh-CN>在经历最近所受的伤之后，{0_character}现在有了令人触目惊心的{1_trait}！</zh-CN>
 		<pt-BR>Depois de uma ferida recente, {0_character} está {lowercase:{1_trait}} com cicatrizes impressionantes!</pt-BR>
 		<ko>{0_character}(이)가 최근에 입은 상처가 아물어 멋지게 {1_trait} 모양입니다!</ko>
+		<fixja>最近負傷した{0_character}には、大きな{1_trait}がついています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED_GAIN_3</zType>
@@ -3693,6 +3975,7 @@
 		<zh-CN>虽然{masculine_0:他的:她的}伤势已经痊愈，{0_character}现在却留下了骇人的{1_trait}！</zh-CN>
 		<pt-BR>Mesmo que sua ferida tenha sarado, {0_character} ficou terrivelmente {lowercase:{1_trait}} com cicatrizes!</pt-BR>
 		<ko>{0_character}의 부상은 치료되었지만, {masculine_0:그:그녀}는 끔찍한 {1_trait} 신체를 안고 살아야 합니다!</ko>
+		<fixja>{0_character}の怪我は癒えましたが、{masculine_0:彼:彼女}にはひどい{1_trait}が残りました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRIPPLED</zType>
@@ -3706,6 +3989,7 @@
 		<zh-CN>伤残</zh-CN>
 		<pt-BR>Aleijado</pt-BR>
 		<ko>불구</ko>
+		<fixja>不具</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRIPPLED_F</zType>
@@ -3719,6 +4003,7 @@
 		<zh-CN>伤残</zh-CN>
 		<pt-BR>Aleijada</pt-BR>
 		<ko>불구</ko>
+		<fixja>不具</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRIPPLED_GAIN_1</zType>
@@ -3732,6 +4017,7 @@
 		<zh-CN>{0_character}再也无法和以前一样了。最近所受的伤给{masculine_0:他:她}造成了{1_trait}！</zh-CN>
 		<pt-BR>{0_character} já não será como antes. Sua ferida recente lhe deixou {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 이전과 같은 모습으로 지낼 수 없을 것입니다. 최근에 입은 부상으로 {masculine_0:그:그녀}는 {1_trait}가 되었습니다!</ko>
+		<fixja>{0_character}は、決して元のようには戻らないでしょう。最近の怪我によって、{masculine_0:彼:彼女}は{1_trait}となりました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLINDED</zType>
@@ -3745,6 +4031,7 @@
 		<zh-CN>失明</zh-CN>
 		<pt-BR>Cego</pt-BR>
 		<ko>맹인</ko>
+		<fixja>めしい</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLINDED_F</zType>
@@ -3758,6 +4045,7 @@
 		<zh-CN>失明</zh-CN>
 		<pt-BR>Cega</pt-BR>
 		<ko>맹인</ko>
+		<fixja>めしい</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNAVAILABLE</zType>
@@ -3771,6 +4059,7 @@
 		<zh-CN>不可用</zh-CN>
 		<pt-BR>Indisponível</pt-BR>
 		<ko>사용 불가</ko>
+		<fixja>使用不可</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNAVAILABLE_F</zType>
@@ -3784,6 +4073,7 @@
 		<zh-CN>不可用</zh-CN>
 		<pt-BR>Indisponível</pt-BR>
 		<ko>사용 불가</ko>
+		<fixja>使用不可</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLINDED_GAIN_1</zType>
@@ -3797,6 +4087,7 @@
 		<zh-CN>{0_character}的眼睛再也看不见了，必须努力适应黑暗中的生活，因为{masculine_0:他:她}已经{1_trait}了！</zh-CN>
 		<pt-BR>{0_character} já não será como antes e agora deve se adaptar a uma vida no escuro, está {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 다시는 빛을 볼 수 없게 되었습니다. {1_trait}이 된 이상 빛이 없는 삶에 적응해 나가야 할 것입니다!</ko>
+		<fixja>{0_character}は二度と物を見ることができません。暗闇の生活に慣れなければならないのです。{masculine_0:彼:彼女}は{1_trait}となりました。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPRISONED</zType>
@@ -3810,6 +4101,7 @@
 		<zh-CN>被囚禁</zh-CN>
 		<pt-BR>Preso</pt-BR>
 		<ko>투옥된</ko>
+		<fixja>収監中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPRISONED_F</zType>
@@ -3823,6 +4115,7 @@
 		<zh-CN>被囚禁</zh-CN>
 		<pt-BR>Presa</pt-BR>
 		<ko>투옥된</ko>
+		<fixja>収監中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FUGITIVE</zType>
@@ -3836,6 +4129,7 @@
 		<zh-CN>逃亡</zh-CN>
 		<pt-BR>Fugitivo</pt-BR>
 		<ko>도망자</ko>
+		<fixja>逃亡者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FUGITIVE_F</zType>
@@ -3849,6 +4143,7 @@
 		<zh-CN>逃亡</zh-CN>
 		<pt-BR>Fugitiva</pt-BR>
 		<ko>도망자</ko>
+		<fixja>逃亡者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISSING</zType>
@@ -3862,6 +4157,7 @@
 		<zh-CN>失踪</zh-CN>
 		<pt-BR>Desaparecido</pt-BR>
 		<ko>실종자</ko>
+		<fixja>行方不明</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISSING_F</zType>
@@ -3875,6 +4171,7 @@
 		<zh-CN>失踪</zh-CN>
 		<pt-BR>Desaparecida</pt-BR>
 		<ko>실종자</ko>
+		<fixja>行方不明</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNDER_ASYLUM</zType>
@@ -3888,6 +4185,7 @@
 		<zh-CN>庇护</zh-CN>
 		<pt-BR>Asilado</pt-BR>
 		<ko>망명 중인</ko>
+		<fixja>収容中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNDER_ASYLUM_F</zType>
@@ -3901,6 +4199,7 @@
 		<zh-CN>庇护</zh-CN>
 		<pt-BR>Asilada</pt-BR>
 		<ko>망명 중인</ko>
+		<fixja>収容中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOPED</zType>
@@ -3914,6 +4213,7 @@
 		<zh-CN>潜逃</zh-CN>
 		<pt-BR>Fugido</pt-BR>
 		<ko>사랑의 도피 중인</ko>
+		<fixja>駆け落ち中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOPED_F</zType>
@@ -3927,6 +4227,7 @@
 		<zh-CN>潜逃</zh-CN>
 		<pt-BR>Fugida</pt-BR>
 		<ko>사랑의 도피 중인</ko>
+		<fixja>駆け落ち中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CAPTURED</zType>
@@ -3940,6 +4241,7 @@
 		<zh-CN>被捕</zh-CN>
 		<pt-BR>Capturado</pt-BR>
 		<ko>생포된</ko>
+		<fixja>捕縛中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CAPTURED_F</zType>
@@ -3953,6 +4255,7 @@
 		<zh-CN>被捕</zh-CN>
 		<pt-BR>Capturada</pt-BR>
 		<ko>생포된</ko>
+		<fixja>捕縛中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXILED</zType>
@@ -3966,6 +4269,7 @@
 		<zh-CN>流放</zh-CN>
 		<pt-BR>Exilado</pt-BR>
 		<ko>추방된</ko>
+		<fixja>追放中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXILED_F</zType>
@@ -3979,6 +4283,7 @@
 		<zh-CN>流放</zh-CN>
 		<pt-BR>Exilada</pt-BR>
 		<ko>추방된</ko>
+		<fixja>追放中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESERTER</zType>
@@ -3992,6 +4297,7 @@
 		<zh-CN>逃兵</zh-CN>
 		<pt-BR>Desertor</pt-BR>
 		<ko>탈영병</ko>
+		<fixja>脱走者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESERTER_F</zType>
@@ -4005,6 +4311,7 @@
 		<zh-CN>逃兵</zh-CN>
 		<pt-BR>Desertora</pt-BR>
 		<ko>탈영병</ko>
+		<fixja>脱走者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXCLUDED</zType>
@@ -4018,6 +4325,7 @@
 		<zh-CN>无法继承</zh-CN>
 		<pt-BR>Excluído da Sucessão</pt-BR>
 		<ko>계승 배제된</ko>
+		<fixja>継承対象外</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXCLUDED_F</zType>
@@ -4031,6 +4339,7 @@
 		<zh-CN>无法继承</zh-CN>
 		<pt-BR>Excluída da Sucessão</pt-BR>
 		<ko>계승 배제된</ko>
+		<fixja>継承対象外</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMILY_EXCLUDED</zType>
@@ -4044,6 +4353,7 @@
 		<zh-CN>家族无法继承</zh-CN>
 		<pt-BR>Famíliar excluído da sucessão</pt-BR>
 		<ko>계승 배제된 가문</ko>
+		<fixja>継承対象外の氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMILY_EXCLUDED_F</zType>
@@ -4057,6 +4367,7 @@
 		<zh-CN>家族无法继承</zh-CN>
 		<pt-BR>Famíliar excluída da sucessão</pt-BR>
 		<ko>계승 배제된 가문</ko>
+		<fixja>継承対象外の氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DOOMED</zType>
@@ -4070,6 +4381,7 @@
 		<zh-CN>在劫难逃</zh-CN>
 		<pt-BR>Condenado</pt-BR>
 		<ko>죽음을 앞둔</ko>
+		<fixja>絶体絶命</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DOOMED_F</zType>
@@ -4083,6 +4395,7 @@
 		<zh-CN>在劫难逃</zh-CN>
 		<pt-BR>Condenada</pt-BR>
 		<ko>죽음을 앞둔</ko>
+		<fixja>絶体絶命</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DOOMED_DESCRIPTION</zType>
@@ -4096,6 +4409,7 @@
 		<zh-CN>据说，命运三女神中最年长的阿特罗波斯，负责决定要如何切断一个人的生命之线。如果阿特罗波斯找上你，代表你注定在劫难逃。</zh-CN>
 		<pt-BR>Dizem que Átropos, a mais velha das moiras, é responsável por decidir como termina o fio da vida. Receber a visita de Átropos é um sinônimo da sua condenação.</pt-BR>
 		<ko>아트로포스는 운명의 세 자매 중 맏이로서 생명의 실타래를 잘라 낸다고 합니다. 아트로포스와 만났다는 것은 당신이 곧 절명한다는 의미입니다.</ko>
+		<fixja>運命の三女神の長女、アトロポスは、生命の糸を断ち切ることを司っていると言われている。アトロポスが訪れた者は、避けられぬ死の定めにある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GAY</zType>
@@ -4109,6 +4423,7 @@
 		<zh-CN>同性恋</zh-CN>
 		<pt-BR>Gay</pt-BR>
 		<ko>동성애자</ko>
+		<fixja>快活</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GAY_F</zType>
@@ -4122,6 +4437,7 @@
 		<zh-CN>同性恋</zh-CN>
 		<pt-BR>Lésbica</pt-BR>
 		<ko>동성애자</ko>
+		<fixja>快活</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BISEXUAL</zType>
@@ -4135,6 +4451,7 @@
 		<zh-CN>双性恋</zh-CN>
 		<pt-BR>Bisexual</pt-BR>
 		<ko>양성애자</ko>
+		<fixja>バイセクシュアル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BISEXUAL_F</zType>
@@ -4148,6 +4465,7 @@
 		<zh-CN>双性恋</zh-CN>
 		<pt-BR>Bisexual</pt-BR>
 		<ko>양성애자</ko>
+		<fixja>バイセクシュアル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BASTARD</zType>
@@ -4161,6 +4479,7 @@
 		<zh-CN>私生子</zh-CN>
 		<pt-BR>Bastardo</pt-BR>
 		<ko>사생아</ko>
+		<fixja>庶子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BASTARD_F</zType>
@@ -4174,6 +4493,7 @@
 		<zh-CN>私生子</zh-CN>
 		<pt-BR>Bastarda</pt-BR>
 		<ko>사생아</ko>
+		<fixja>庶子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEGITIMIZED</zType>
@@ -4187,6 +4507,7 @@
 		<zh-CN>认祖归宗</zh-CN>
 		<pt-BR>Legitimado</pt-BR>
 		<ko>적통 서자</ko>
+		<fixja>嫡出子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEGITIMIZED_F</zType>
@@ -4200,6 +4521,7 @@
 		<zh-CN>承认合法身分</zh-CN>
 		<pt-BR>Legitimada</pt-BR>
 		<ko>적통 서자</ko>
+		<fixja>嫡出子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLIGHTED</zType>
@@ -4213,6 +4535,7 @@
 		<zh-CN>受人轻视</zh-CN>
 		<pt-BR>Esnobado</pt-BR>
 		<ko>무시당하는</ko>
+		<fixja>屈辱を受けた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLIGHTED_F</zType>
@@ -4226,6 +4549,7 @@
 		<zh-CN>受人轻视</zh-CN>
 		<pt-BR>Esnobada</pt-BR>
 		<ko>무시당하는</ko>
+		<fixja>屈辱を受けた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLAIMED</zType>
@@ -4239,6 +4563,7 @@
 		<zh-CN>宣称</zh-CN>
 		<pt-BR>Reivindicado</pt-BR>
 		<ko>권리가 있는</ko>
+		<fixja>死亡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLAIMED_F</zType>
@@ -4252,6 +4577,7 @@
 		<zh-CN>宣称</zh-CN>
 		<pt-BR>Reivindicada</pt-BR>
 		<ko>권리가 있는</ko>
+		<fixja>死亡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY</zType>
@@ -4265,6 +4591,7 @@
 		<zh-CN>神职人员</zh-CN>
 		<pt-BR>Clérigo</pt-BR>
 		<ko>성직자</ko>
+		<fixja>聖職者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_F</zType>
@@ -4278,6 +4605,7 @@
 		<zh-CN>神职人员</zh-CN>
 		<pt-BR>Clériga</pt-BR>
 		<ko>성직자</ko>
+		<fixja>聖職者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ASCETIC</zType>
@@ -4291,6 +4619,7 @@
 		<zh-CN>苦修者</zh-CN>
 		<pt-BR>Asceta</pt-BR>
 		<ko>금욕적인</ko>
+		<fixja>行者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ASCETIC_F</zType>
@@ -4304,6 +4633,7 @@
 		<zh-CN>苦修者</zh-CN>
 		<pt-BR>Asceta</pt-BR>
 		<ko>금욕적인</ko>
+		<fixja>行者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARTIST</zType>
@@ -4317,6 +4647,7 @@
 		<zh-CN>艺术家</zh-CN>
 		<pt-BR>Artista</pt-BR>
 		<ko>예술가</ko>
+		<fixja>芸術家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARTIST_F</zType>
@@ -4330,6 +4661,7 @@
 		<zh-CN>艺术家</zh-CN>
 		<pt-BR>Artista</pt-BR>
 		<ko>예술가</ko>
+		<fixja>芸術家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS</zType>
@@ -4343,6 +4675,7 @@
 		<zh-CN>名声显著</zh-CN>
 		<pt-BR>Famoso</pt-BR>
 		<ko>유명한</ko>
+		<fixja>著名</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_F</zType>
@@ -4356,6 +4689,7 @@
 		<zh-CN>名声显著</zh-CN>
 		<pt-BR>Famosa</pt-BR>
 		<ko>유명한</ko>
+		<fixja>著名</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFAMOUS</zType>
@@ -4369,6 +4703,7 @@
 		<zh-CN>声名狼藉</zh-CN>
 		<pt-BR>Infame</pt-BR>
 		<ko>악명 높은</ko>
+		<fixja>不埒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFAMOUS_F</zType>
@@ -4382,6 +4717,7 @@
 		<zh-CN>声名狼藉</zh-CN>
 		<pt-BR>Infame</pt-BR>
 		<ko>악명 높은</ko>
+		<fixja>不埒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ADOPTED</zType>
@@ -4395,6 +4731,7 @@
 		<zh-CN>收养</zh-CN>
 		<pt-BR>Adotado</pt-BR>
 		<ko>양자</ko>
+		<fixja>養子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ADOPTED_F</zType>
@@ -4408,6 +4745,7 @@
 		<zh-CN>收养</zh-CN>
 		<pt-BR>Adotada</pt-BR>
 		<ko>양자</ko>
+		<fixja>養子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PREGNANT</zType>
@@ -4421,6 +4759,7 @@
 		<zh-CN>怀孕</zh-CN>
 		<pt-BR>Grávida</pt-BR>
 		<ko>임신한</ko>
+		<fixja>妊婦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PREGNANT_DESCRIPTION</zType>
@@ -4434,6 +4773,7 @@
 		<zh-CN>会在获得这种特质的一年后生孩子</zh-CN>
 		<pt-BR>Dará a luz um ano após obter o atributo</pt-BR>
 		<ko>본 특성을 얻은 후 1년 뒤에 출산함</ko>
+		<fixja>その「特性」を獲得してから1年後に生まれる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ABDICATED</zType>
@@ -4447,6 +4787,7 @@
 		<zh-CN>退位</zh-CN>
 		<pt-BR>Abdicou</pt-BR>
 		<ko>퇴위한</ko>
+		<fixja>退位中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ABDICATED_F</zType>
@@ -4460,6 +4801,7 @@
 		<zh-CN>退位</zh-CN>
 		<pt-BR>Abdicou</pt-BR>
 		<ko>퇴위한</ko>
+		<fixja>退位中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REGENT</zType>
@@ -4473,6 +4815,7 @@
 		<zh-CN>摄政</zh-CN>
 		<pt-BR>Regente</pt-BR>
 		<ko>섭정</ko>
+		<fixja>摂政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REGENT_F</zType>
@@ -4486,6 +4829,7 @@
 		<zh-CN>摄政</zh-CN>
 		<pt-BR>Regente</pt-BR>
 		<ko>섭정</ko>
+		<fixja>摂政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REGENT_DESCRIPTION</zType>
@@ -4499,6 +4843,7 @@
 		<zh-CN>这位角色是其国家的link(CONCEPT_REGENT)</zh-CN>
 		<pt-BR>Este personagem é link(CONCEPT_REGENT) de sua nação</pt-BR>
 		<ko>이 인물은 이 국가의 link(CONCEPT_REGENT)입니다</ko>
+		<fixja>自国のlink(CONCEPT_REGENT)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FORMER_REGENT</zType>
@@ -4512,6 +4857,7 @@
 		<zh-CN>前摄政王</zh-CN>
 		<pt-BR>Antigo Regente</pt-BR>
 		<ko>전 섭정</ko>
+		<fixja>前摂政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FORMER_REGENT_F</zType>
@@ -4525,6 +4871,7 @@
 		<zh-CN>前摄政王</zh-CN>
 		<pt-BR>Antiga Regente</pt-BR>
 		<ko>전 섭정</ko>
+		<fixja>前摂政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_USURPER</zType>
@@ -4538,6 +4885,7 @@
 		<zh-CN>篡权</zh-CN>
 		<pt-BR>Usurpador</pt-BR>
 		<ko>강탈자</ko>
+		<fixja>簒奪者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_USURPER_F</zType>
@@ -4551,6 +4899,7 @@
 		<zh-CN>篡权</zh-CN>
 		<pt-BR>Usurpadora</pt-BR>
 		<ko>강탈자</ko>
+		<fixja>簒奪者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTFUL_HEIR</zType>
@@ -4564,6 +4913,7 @@
 		<zh-CN>合法继承人</zh-CN>
 		<pt-BR>Herdeiro Legítimo</pt-BR>
 		<ko>정통 후계자</ko>
+		<fixja>正統なる後継者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTFUL_HEIR_F</zType>
@@ -4577,6 +4927,7 @@
 		<zh-CN>合法继承人</zh-CN>
 		<pt-BR>Herdeira Legítima</pt-BR>
 		<ko>정통 후계자</ko>
+		<fixja>正統なる後継者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIVINE</zType>
@@ -4590,6 +4941,7 @@
 		<zh-CN>神圣</zh-CN>
 		<pt-BR>Divino</pt-BR>
 		<ko>신성한</ko>
+		<fixja>神聖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIVINE_F</zType>
@@ -4603,6 +4955,7 @@
 		<zh-CN>神圣</zh-CN>
 		<pt-BR>Divina</pt-BR>
 		<ko>신성한</ko>
+		<fixja>神聖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SOLDIER</zType>
@@ -4616,6 +4969,7 @@
 		<zh-CN>士兵</zh-CN>
 		<pt-BR>Soldado</pt-BR>
 		<ko>병사</ko>
+		<fixja>兵士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SOLDIER_F</zType>
@@ -4629,6 +4983,7 @@
 		<zh-CN>士兵</zh-CN>
 		<pt-BR>Soldado</pt-BR>
 		<ko>병사</ko>
+		<fixja>兵士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK</zType>
@@ -4642,6 +4997,7 @@
 		<zh-CN>醉生梦死</zh-CN>
 		<pt-BR>Bêbado</pt-BR>
 		<ko>주정뱅이</ko>
+		<fixja>酩酊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK_F</zType>
@@ -4655,6 +5011,7 @@
 		<zh-CN>醉生梦死</zh-CN>
 		<pt-BR>Bêbada</pt-BR>
 		<ko>주정뱅이</ko>
+		<fixja>酩酊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK_GAIN_1</zType>
@@ -4668,6 +5025,7 @@
 		<zh-CN>在度过了太多狂欢的夜晚之后，{0_character}现在成了一个{1_trait}。</zh-CN>
 		<pt-BR>Depois de noitadas de folia, {0_character} agora tem fama de {lowercase:{1_trait}}.</pt-BR>
 		<ko>수많은 밤을 흥청망청 지새운 {0_character}(은)는 {1_trait}가 되었습니다.</ko>
+		<fixja>何日も夜通し楽しんだ{0_character}は、今{1_trait}状態です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK_GAIN_2</zType>
@@ -4681,6 +5039,7 @@
 		<zh-CN>{0_character}最近的许多夜晚都只有酒壶相伴，现在成了一个{1_trait}。</zh-CN>
 		<pt-BR>{0_character} tem passado noites demais com uma jarra de vinho como sua única companhia, virou {masculine_0:um:uma} {lowercase:{1_trait}}.</pt-BR>
 		<ko>포도주 한 병을 벗삼아 수많은 밤을 보낸 {0_character}(은)는 {1_trait}가 되었습니다.</ko>
+		<fixja>{0_character}は、このところ夜毎にワインばかりを友としており、今は{1_trait}状態です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSANE</zType>
@@ -4694,6 +5053,7 @@
 		<zh-CN>精神失常</zh-CN>
 		<pt-BR>Louco</pt-BR>
 		<ko>미친</ko>
+		<fixja>狂人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSANE_F</zType>
@@ -4707,6 +5067,7 @@
 		<zh-CN>精神失常</zh-CN>
 		<pt-BR>Louca</pt-BR>
 		<ko>미친</ko>
+		<fixja>狂人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSANE_GAIN_1</zType>
@@ -4720,6 +5081,7 @@
 		<zh-CN>{0_character}已经完全疯了！ {masculine_0:他:她}现在简直是{1_trait}。</zh-CN>
 		<pt-BR>{0_character} está completamente demente, é {masculine_0:um:uma} {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(이)가 완전히 {1_trait} 듯합니다! {masculine_0:그:그녀}는 광인이 되고 말았습니다.</ko>
+		<fixja>{0_character}は完全におかしくなってしまいました。{masculine_0:彼:彼女}は今{1_trait}状態です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
@@ -4733,6 +5095,7 @@
 		<zh-CN>哀痛</zh-CN>
 		<pt-BR>De luto</pt-BR>
 		<ko>비탄하는</ko>
+		<fixja>悲嘆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING_F</zType>
@@ -4746,6 +5109,7 @@
 		<zh-CN>哀痛</zh-CN>
 		<pt-BR>De Luto</pt-BR>
 		<ko>비탄하는</ko>
+		<fixja>悲嘆</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING_LOSS_1</zType>
@@ -4759,6 +5123,7 @@
 		<zh-CN>{0_character}的悲伤终于结束了。 {masculine_0:他:她}已不再{1_trait}。</zh-CN>
 		<pt-BR>{0_character} já não está mais {lowercase:{1_trait}}, seu pesar passou.</pt-BR>
 		<ko>{0_character}의 {1_trait} 마음도 어느덧 끝에 이르렀습니다. {masculine_0:그:그녀}는 더 이상 슬퍼하지 않습니다.</ko>
+		<fixja>{0_character}の悲しみは終わりを告げました。{masculine_0:彼:彼女}はもう{1_trait}に暮れてはいません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROPHET</zType>
@@ -4772,6 +5137,7 @@
 		<zh-CN>预言家</zh-CN>
 		<pt-BR>Profeta</pt-BR>
 		<ko>예언가</ko>
+		<fixja>預言者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROPHET_F</zType>
@@ -4785,6 +5151,7 @@
 		<zh-CN>预言家</zh-CN>
 		<pt-BR>Profeta</pt-BR>
 		<ko>예언가</ko>
+		<fixja>預言者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON</zType>
@@ -4798,6 +5165,7 @@
 		<zh-CN>执政官</zh-CN>
 		<pt-BR>Arconte</pt-BR>
 		<ko>집정관</ko>
+		<fixja>アルコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON_F</zType>
@@ -4811,6 +5179,7 @@
 		<zh-CN>执政官</zh-CN>
 		<pt-BR>Arconte</pt-BR>
 		<ko>집정관</ko>
+		<fixja>アルコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_KING_OF_TYRE</zType>
@@ -4824,6 +5193,7 @@
 		<zh-CN>提尔王</zh-CN>
 		<pt-BR>Rei de Tiro</pt-BR>
 		<ko>티레의 왕</ko>
+		<fixja>テュロス王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHEIF_PRIEST_OF_MELQUART</zType>
@@ -4837,6 +5207,7 @@
 		<zh-CN>提尔国米尔夸特大祭司</zh-CN>
 		<pt-BR>Sumo Sacerdote de Melcarte no Tiro</pt-BR>
 		<ko>티레의 멜카르트 사제장</ko>
+		<fixja>テュロスのメルカルトの祭司長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHEIF_PRIEST_OF_MELQUART_F</zType>
@@ -4850,6 +5221,7 @@
 		<zh-CN>提尔国米尔夸特大祭司</zh-CN>
 		<pt-BR>Suma Sacerdotisa de Melcarte no Tiro</pt-BR>
 		<ko>티레의 멜카르트 사제장</ko>
+		<fixja>テュロスのメルカルトの祭司長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
@@ -4863,6 +5235,7 @@
 		<zh-CN>神秘的剑</zh-CN>
 		<pt-BR>Espada Misteriosa</pt-BR>
 		<ko>신비한 검</ko>
+		<fixja>謎の剣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERIOUS_SWORD_F</zType>
@@ -4876,6 +5249,7 @@
 		<zh-CN>神秘的剑</zh-CN>
 		<pt-BR>Espada Misteriosa</pt-BR>
 		<ko>신비한 검</ko>
+		<fixja>謎の剣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
@@ -4889,6 +5263,7 @@
 		<zh-CN>诸神之剑</zh-CN>
 		<pt-BR>Espada dos Deuses</pt-BR>
 		<ko>신들의 칼날 소유자</ko>
+		<fixja>神々の剣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWORD_OF_THE_GODS_F</zType>
@@ -4902,6 +5277,7 @@
 		<zh-CN>诸神之剑</zh-CN>
 		<pt-BR>Espada dos Deuses</pt-BR>
 		<ko>신들의 칼날 소유자</ko>
+		<fixja>神々の剣</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_FISH</zType>
@@ -4915,6 +5291,7 @@
 		<zh-CN>宠物鱼的主人</zh-CN>
 		<pt-BR>Dono de um peixe de estimação</pt-BR>
 		<ko>애완 물고기 소유자</ko>
+		<fixja>魚の飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_FISH_F</zType>
@@ -4928,6 +5305,7 @@
 		<zh-CN>宠物鱼的主人</zh-CN>
 		<pt-BR>Dona de um peixe de estimação</pt-BR>
 		<ko>애완 물고기 소유자</ko>
+		<fixja>魚の飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_MONKEY</zType>
@@ -4941,6 +5319,7 @@
 		<zh-CN>宠物猴的主人</zh-CN>
 		<pt-BR>Dono de um macaco de estimação</pt-BR>
 		<ko>애완 원숭이 소유자</ko>
+		<fixja>猿の飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_MONKEY_F</zType>
@@ -4954,6 +5333,7 @@
 		<zh-CN>宠物猴的主人</zh-CN>
 		<pt-BR>Dona de um macaco de estimação</pt-BR>
 		<ko>애완 원숭이 소유자</ko>
+		<fixja>猿の飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_ASSASSIN</zType>
@@ -4967,6 +5347,7 @@
 		<zh-CN>猴子刺客的主人</zh-CN>
 		<pt-BR>Dono de um macaco assassino</pt-BR>
 		<ko>암살 원숭이 소유자</ko>
+		<fixja>殺人ザルの飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_ASSASSIN_F</zType>
@@ -4980,6 +5361,7 @@
 		<zh-CN>猴子刺客的主人</zh-CN>
 		<pt-BR>Dona de um macaco assassino</pt-BR>
 		<ko>암살 원숭이 소유자</ko>
+		<fixja>殺人ザルの飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_PAW</zType>
@@ -4993,6 +5375,7 @@
 		<zh-CN>猴爪</zh-CN>
 		<pt-BR>Pata do Macaco</pt-BR>
 		<ko>원숭이 손 소유자</ko>
+		<fixja>猿の手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_PAW_F</zType>
@@ -5006,6 +5389,7 @@
 		<zh-CN>猴爪</zh-CN>
 		<pt-BR>Pata do Macaco</pt-BR>
 		<ko>원숭이 손 소유자</ko>
+		<fixja>猿の手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DOG_OWNER</zType>
@@ -5019,6 +5403,7 @@
 		<zh-CN>狗主人</zh-CN>
 		<pt-BR>Dono de um cachorro</pt-BR>
 		<ko>개 소유자</ko>
+		<fixja>犬の飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DOG_OWNER_F</zType>
@@ -5032,6 +5417,7 @@
 		<zh-CN>狗主人</zh-CN>
 		<pt-BR>Dona de um cachorro</pt-BR>
 		<ko>개 소유자</ko>
+		<fixja>犬の飼い主</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS</zType>
@@ -5045,6 +5431,7 @@
 		<zh-CN>田地管理人</zh-CN>
 		<pt-BR>Supervisor dos Campos</pt-BR>
 		<ko>농지 감독관</ko>
+		<fixja>野の守人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS_F</zType>
@@ -5058,6 +5445,7 @@
 		<zh-CN>田地管理人</zh-CN>
 		<pt-BR>Supervisora dos Campos</pt-BR>
 		<ko>농지 감독관</ko>
+		<fixja>野の守人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION</zType>
@@ -5071,6 +5459,7 @@
 		<zh-CN>神祇崇拜管理人</zh-CN>
 		<pt-BR>Possuidor da Veneração</pt-BR>
 		<ko>공경받는 자</ko>
+		<fixja>崇拝されし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION_F</zType>
@@ -5084,6 +5473,7 @@
 		<zh-CN>神祇崇拜管理人</zh-CN>
 		<pt-BR>Possuidora da Veneração</pt-BR>
 		<ko>공경받는 자</ko>
+		<fixja>崇拝されし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER</zType>
@@ -5097,6 +5487,7 @@
 		<zh-CN>会议厅管理人</zh-CN>
 		<pt-BR>Administrador da Câmara</pt-BR>
 		<ko>응접실 관리인</ko>
+		<fixja>執務長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER_F</zType>
@@ -5110,6 +5501,7 @@
 		<zh-CN>会议厅管理人</zh-CN>
 		<pt-BR>Administradora da Câmara</pt-BR>
 		<ko>응접실 관리인</ko>
+		<fixja>執務長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE</zType>
@@ -5123,6 +5515,7 @@
 		<zh-CN>激活的生育护身符</zh-CN>
 		<pt-BR>Amuleto de fertilidade aberto</pt-BR>
 		<ko>해방된 다산의 호부 소유자</ko>
+		<fixja>解き放たれし豊穣の護符</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE_F</zType>
@@ -5136,6 +5529,7 @@
 		<zh-CN>激活的生育护身符</zh-CN>
 		<pt-BR>Amuleto de fertilidade aberto</pt-BR>
 		<ko>해방된 다산의 호부 소유자</ko>
+		<fixja>解き放たれし豊穣の護符</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE</zType>
@@ -5149,6 +5543,7 @@
 		<zh-CN>封印的生育护身符</zh-CN>
 		<pt-BR>Amuleto de fertilidade fechado</pt-BR>
 		<ko>봉인된 다산의 호부 소유자</ko>
+		<fixja>閉ざされし豊穣の護符</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE_F</zType>
@@ -5162,6 +5557,7 @@
 		<zh-CN>封印的生育护身符</zh-CN>
 		<pt-BR>Amuleto de fertilidade fechado</pt-BR>
 		<ko>봉인된 다산의 호부 소유자</ko>
+		<fixja>閉ざされし豊穣の護符</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GODS_CONSORT</zType>
@@ -5175,6 +5571,7 @@
 		<zh-CN>神之配偶</zh-CN>
 		<pt-BR>Consorte da Divindade</pt-BR>
 		<ko>신의 배우자</ko>
+		<fixja>神と結ばれし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GODS_CONSORT_F</zType>
@@ -5188,6 +5585,7 @@
 		<zh-CN>神之配偶</zh-CN>
 		<pt-BR>Consorte da Divindade</pt-BR>
 		<ko>신의 배우자</ko>
+		<fixja>神と結ばれし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DROUGHT_STRICKEN</zType>
@@ -5201,6 +5599,7 @@
 		<zh-CN>遭受旱灾</zh-CN>
 		<pt-BR>Afetado pela seca</pt-BR>
 		<ko>가뭄 피해</ko>
+		<fixja>干魃に見舞われし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DROUGHT_STRICKEN_F</zType>
@@ -5214,6 +5613,7 @@
 		<zh-CN>遭受旱灾</zh-CN>
 		<pt-BR>Afetada pela seca</pt-BR>
 		<ko>가뭄 피해</ko>
+		<fixja>干魃に見舞われし者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DROUGHT_STRICKEN_LOSS_1</zType>
@@ -5227,6 +5627,7 @@
 		<zh-CN>雨水回来了。 {0_character}已不再{1_trait}！</zh-CN>
 		<pt-BR>As chuvas voltaram. {0_character} já não está {lowercase:{1_trait}}!</pt-BR>
 		<ko>비가 다시 오기 시작했습니다. {0_character}(은)는 {1_trait}에서 벗어났습니다!</ko>
+		<fixja>雨が戻ってきました。もう{0_character}は{1_trait}ではありません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSE</zType>
@@ -5240,6 +5641,7 @@
 		<zh-CN>马</zh-CN>
 		<pt-BR>Cavalo</pt-BR>
 		<ko>말</ko>
+		<fixja>馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSE_F</zType>
@@ -5253,6 +5655,7 @@
 		<zh-CN>马</zh-CN>
 		<pt-BR>Égua</pt-BR>
 		<ko>말</ko>
+		<fixja>馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSE_DESCRIPTION</zType>
@@ -5266,6 +5669,7 @@
 		<zh-CN>大家都知道什么是马。</zh-CN>
 		<pt-BR>Todos sabem o que é um cavalo.</pt-BR>
 		<ko>말이 무엇인지 모르는 사람은 없습니다.</ko>
+		<fixja>誰でも馬のことを知っている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMARNA_REFORMER</zType>
@@ -5279,6 +5683,7 @@
 		<zh-CN>阿玛纳的改革者</zh-CN>
 		<pt-BR>Reformista de Amarna</pt-BR>
 		<ko>아마르나 개혁가</ko>
+		<fixja>アマルナの改革者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AMARNA_REFORMER_F</zType>
@@ -5292,6 +5697,7 @@
 		<zh-CN>阿玛纳的改革者</zh-CN>
 		<pt-BR>Reformista de Amarna</pt-BR>
 		<ko>아마르나 개혁가</ko>
+		<fixja>アマルナの改革者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BARRACKS_INSTRUCTOR</zType>
@@ -5305,6 +5711,7 @@
 		<zh-CN>军营教官</zh-CN>
 		<pt-BR>Instrutor do Quartel</pt-BR>
 		<ko>병영 교관</ko>
+		<fixja>兵舎の指導員</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BARRACKS_INSTRUCTOR_F</zType>
@@ -5318,6 +5725,7 @@
 		<zh-CN>军营教官</zh-CN>
 		<pt-BR>Instrutora do Quartel</pt-BR>
 		<ko>병영 교관</ko>
+		<fixja>兵舎の指導員</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SAVIOR_OF_THE_THRONE</zType>
@@ -5331,6 +5739,7 @@
 		<zh-CN>王位拯救者</zh-CN>
 		<pt-BR>Salvador do Trono</pt-BR>
 		<ko>왕좌의 구원자</ko>
+		<fixja>王座の救い手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SAVIOR_OF_THE_THRONE_F</zType>
@@ -5344,6 +5753,7 @@
 		<zh-CN>王位的救主</zh-CN>
 		<pt-BR>Salvadora do Trono</pt-BR>
 		<ko>왕좌의 구원자</ko>
+		<fixja>王座の救い手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SAOSHYANT</zType>
@@ -5357,6 +5767,7 @@
 		<zh-CN>苏什扬特</zh-CN>
 		<pt-BR>Saoshyant</pt-BR>
 		<ko>사오샨트</ko>
+		<fixja>サオシュヤント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SAOSHYANT_F</zType>
@@ -5370,6 +5781,7 @@
 		<zh-CN>苏什扬特</zh-CN>
 		<pt-BR>Saoshyant</pt-BR>
 		<ko>사오샨트</ko>
+		<fixja>サオシュヤント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WOUNDED</zType>
@@ -5383,6 +5795,7 @@
 		<zh-CN>受伤</zh-CN>
 		<pt-BR>Ferido</pt-BR>
 		<ko>부상</ko>
+		<fixja>手負い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WOUNDED_F</zType>
@@ -5396,6 +5809,7 @@
 		<zh-CN>受伤</zh-CN>
 		<pt-BR>Ferida</pt-BR>
 		<ko>부상</ko>
+		<fixja>手負い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WOUNDED_GAIN_1</zType>
@@ -5409,6 +5823,7 @@
 		<zh-CN>{0_character}{1_trait}了！</zh-CN>
 		<pt-BR>{0_character} foi {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(이)가 {1_trait}을 입었습니다!</ko>
+		<fixja>{0_character}は{1_trait}になっています。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WOUNDED_LOSS_1</zType>
@@ -5422,6 +5837,7 @@
 		<zh-CN>{0_character}{1_trait}之处已经痊愈，{masculine_0:他:她}甚至没有留下伤疤！</zh-CN>
 		<pt-BR>{0_character} já não está {lowercase:{1_trait}}, nem ficou com qualquer cicatriz.</pt-BR>
 		<ko>{0_character}의 {1_trait}이 나았습니다. 흉터조차 남지 않았습니다!</ko>
+		<fixja>{0_character}はもう{1_trait}ではありません。{masculine_0:彼:彼女}には傷一つ残っていません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_WOUNDED</zType>
@@ -5435,6 +5851,7 @@
 		<zh-CN>重伤</zh-CN>
 		<pt-BR>Gravemente Ferido</pt-BR>
 		<ko>중상</ko>
+		<fixja>深手負い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_WOUNDED_F</zType>
@@ -5448,6 +5865,7 @@
 		<zh-CN>重伤</zh-CN>
 		<pt-BR>Gravemente Ferida</pt-BR>
 		<ko>중상</ko>
+		<fixja>深手負い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_WOUNDED_GAIN_1</zType>
@@ -5461,6 +5879,7 @@
 		<zh-CN>{0_character}受了{1_trait}，{masculine_0:他:她}能否痊愈还有待观察。</zh-CN>
 		<pt-BR>{0_character} foi {lowercase:{1_trait}}, veremos se irá conseguir se recuperar.</pt-BR>
 		<ko>{0_character}(이)가 {1_trait}을 입었습니다. {masculine_0:그:그녀}가 회복 가능성은 더 지켜보아야 알 수 있을 것입니다.</ko>
+		<fixja>{0_character}は{1_trait}となっています。{masculine_0:彼:彼女}が回復しても、跡は残るでしょう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_WOUNDED_LOSS_1</zType>
@@ -5474,6 +5893,7 @@
 		<zh-CN>{0_character}所受的{1_trait}已经奇迹般地痊愈了，可怕的伤口已经完全愈合！</zh-CN>
 		<pt-BR>{0_character} se recuperou milagrosamente depois de ter ficado {lowercase:{1_trait}}, aquela ferida excruciante se curou completamente!</pt-BR>
 		<ko>{1_trait}을 입었던 {0_character}(이)가 기적적으로 회복했습니다. 깊은 상처가 완전히 회복되었습니다!</ko>
+		<fixja>{0_character}は{1_trait}となった後、奇跡的な回復を見せました。痛々しかった傷もすっかり元通りです。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBEL_SLAVE</zType>
@@ -5487,6 +5907,7 @@
 		<zh-CN>反抗的奴隶</zh-CN>
 		<pt-BR>Escravo Rebelde</pt-BR>
 		<ko>반란군 노예</ko>
+		<fixja>反乱奴隷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REBEL_SLAVE_F</zType>
@@ -5500,6 +5921,7 @@
 		<zh-CN>反抗的奴隶</zh-CN>
 		<pt-BR>Escrava Rebelde</pt-BR>
 		<ko>반란군 노예</ko>
+		<fixja>反乱奴隷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_ROYAL_GUARD</zType>
@@ -5513,6 +5935,7 @@
 		<zh-CN>皇家禁卫军指挥官</zh-CN>
 		<pt-BR>Comandante da Guarda Real</pt-BR>
 		<ko>근위대장</ko>
+		<fixja>近衛兵司令官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_ROYAL_GUARD_F</zType>
@@ -5526,6 +5949,7 @@
 		<zh-CN>皇家禁卫军指挥官</zh-CN>
 		<pt-BR>Comandante da Guarda Real</pt-BR>
 		<ko>근위대장</ko>
+		<fixja>近衛兵司令官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_BORDER_FORTS</zType>
@@ -5539,6 +5963,7 @@
 		<zh-CN>边境之地指挥官</zh-CN>
 		<pt-BR>Comandante das Fronteiras</pt-BR>
 		<ko>국경의 수호자</ko>
+		<fixja>境界地の司令官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_BORDER_FORTS_F</zType>
@@ -5552,6 +5977,7 @@
 		<zh-CN>边境之地指挥官</zh-CN>
 		<pt-BR>Comandante das Fronteiras</pt-BR>
 		<ko>국경의 수호자</ko>
+		<fixja>境界地の司令官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POLITICAL_WARD</zType>
@@ -5565,6 +5991,7 @@
 		<zh-CN>政治选区</zh-CN>
 		<pt-BR>Protegido Político</pt-BR>
 		<ko>정치적 피후견인</ko>
+		<fixja>政治家の弟子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POLITICAL_WARD_F</zType>
@@ -5578,6 +6005,7 @@
 		<zh-CN>政治选区</zh-CN>
 		<pt-BR>Protegida Política</pt-BR>
 		<ko>정치적 피후견인</ko>
+		<fixja>政治家の弟子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEONIDAS_LEADER</zType>
@@ -5591,6 +6019,7 @@
 		<zh-CN>不屈不挠</zh-CN>
 		<pt-BR>Indomável</pt-BR>
 		<ko>불굴</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEONIDAS_LEADER_DOOMED</zType>
@@ -5604,6 +6033,7 @@
 		<zh-CN>注定死亡</zh-CN>
 		<pt-BR>Destinado a Morrer</pt-BR>
 		<ko>사망할 운명</ko>
+		<fixja>死する運命</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEONIDAS_LEADER_DOOMED_DESCRIPTION</zType>
@@ -5617,6 +6047,7 @@
 		<zh-CN>列奥尼达会成就大事，但他活不久。</zh-CN>
 		<pt-BR>Leônidas fará grandes coisas, mas não viverá até uma idade avançada.</pt-BR>
 		<ko>레오니다스는 위대한 업적을 남길 수 있으나 장수하지 못합니다.</ko>
+		<fixja>レオニダスは偉大なることを成し遂げられるが、老齢まで生きていられない。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PERICLES_LEADER</zType>
@@ -5630,6 +6061,7 @@
 		<zh-CN>第一公民</zh-CN>
 		<pt-BR>Primeiro Cidadão</pt-BR>
 		<ko>일등 시민</ko>
+		<fixja>第一市民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_KEEPSAKE</zType>
@@ -5643,6 +6075,7 @@
 		<zh-CN>纪念品</zh-CN>
 		<pt-BR>Lembrança</pt-BR>
 		<ko>유품</ko>
+		<fixja>形見</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RETIRED_GENERAL</zType>
@@ -5656,6 +6089,7 @@
 		<zh-CN>退役的将军</zh-CN>
 		<pt-BR>General Aposentado</pt-BR>
 		<ko>퇴역 장군</ko>
+		<fixja>退役軍人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLAIMANT</zType>
@@ -5669,6 +6103,7 @@
 		<zh-CN>套索型</zh-CN>
 		<pt-BR>Pretendente</pt-BR>
 		<ko>권리자</ko>
+		<fixja>権利者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLAIMANT_F</zType>
@@ -5682,6 +6117,7 @@
 		<zh-CN>套索型</zh-CN>
 		<pt-BR>Pretendente</pt-BR>
 		<ko>권리자</ko>
+		<fixja>権利者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLAIMANT_DESC</zType>
@@ -5695,6 +6131,7 @@
 		<zh-CN>此人物虽不再是统治者，但其仍有重新登顶的可能。</zh-CN>
 		<pt-BR>Embora não seja mais regente, este personagem ainda tem direito ao trono.</pt-BR>
 		<ko>더 이상 지도자는 아니지만 왕위를 주장할 수 있습니다.</ko>
+		<fixja>このキャラクターはすでに支配者ではありませんが、まだ王位継承権があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RECURVE_BOW</zType>
@@ -5708,6 +6145,7 @@
 		<zh-CN>反曲弓</zh-CN>
 		<pt-BR>Arco Recurvo</pt-BR>
 		<ko>곡궁</ko>
+		<fixja>リカーブボウ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BATTLE_DIARY</zType>
@@ -5721,6 +6159,7 @@
 		<zh-CN>战争日记</zh-CN>
 		<pt-BR>Diário de Batalha</pt-BR>
 		<ko>전투 일지</ko>
+		<fixja>戦闘日誌</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MASTER_STRATEGIST</zType>
@@ -5734,6 +6173,7 @@
 		<zh-CN>高明的战略家</zh-CN>
 		<pt-BR>Mestre Estrategista</pt-BR>
 		<ko>전략의 대가</ko>
+		<fixja>熟練の策略家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MASTER_STRATEGIST_F</zType>
@@ -5747,6 +6187,7 @@
 		<zh-CN>高明的战略家</zh-CN>
 		<pt-BR>Mestre Estrategista</pt-BR>
 		<ko>전략의 대가</ko>
+		<fixja>熟練の策略家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MASTER_STRATEGIST_GAIN_1</zType>
@@ -5760,6 +6201,7 @@
 		<zh-CN>{0_character}努力地研究了敌人的link(TRAIT_BATTLE_DIARY)，逐渐成为了一位link(TRAIT_MASTER_STRATEGIST)。</zh-CN>
 		<pt-BR>{0_character} se tornou {masculine_0:um:uma} {lowercase:link(TRAIT_MASTER_STRATEGIST)} graças aos estudos que fez do {lowercase:link(TRAIT_BATTLE_DIARY)} do inimigo.</pt-BR>
 		<ko>적의 link(TRAIT_BATTLE_DIARY)를 연구한 결과 {0_character}이(가) link(TRAIT_MASTER_STRATEGIST)가 되었습니다.</ko>
+		<fixja>敵のlink(TRAIT_BATTLE_DIARY)を研究し続けた{0_character}。それがlink(TRAIT_MASTER_STRATEGIST)としての能力を形成した。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BOW_OF_PLENTY</zType>
@@ -5773,6 +6215,7 @@
 		<zh-CN>丰饶之弓</zh-CN>
 		<pt-BR>Arco da Abundância</pt-BR>
 		<ko>풍요의 활</ko>
+		<fixja>豊穣の弓</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_JESTERS_MASK</zType>
@@ -5786,6 +6229,7 @@
 		<zh-CN>弄臣面具</zh-CN>
 		<pt-BR>A Máscara do Bufão</pt-BR>
 		<ko>어릿광대의 가면</ko>
+		<fixja>道化の仮面</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUTCHERS_MASK</zType>
@@ -5799,6 +6243,7 @@
 		<zh-CN>屠夫面具</zh-CN>
 		<pt-BR>A Máscara do Açougueiro</pt-BR>
 		<ko>도살자의 가면</ko>
+		<fixja>肉屋の仮面</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WOODSMANS_MASK</zType>
@@ -5812,6 +6257,7 @@
 		<zh-CN>樵夫面具</zh-CN>
 		<pt-BR>A Máscara do Lenhador</pt-BR>
 		<ko>나무꾼의 가면</ko>
+		<fixja>きこりの仮面</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REGALIA_OF_THE_CONQUERER</zType>
@@ -5825,6 +6271,7 @@
 		<zh-CN>征服者的盛装</zh-CN>
 		<pt-BR>Trajes do Conquistador</pt-BR>
 		<ko>정복자의 휘장</ko>
+		<fixja>征服者の装具</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REGALIA_OF_THE_CONQUERER_F</zType>
@@ -5838,6 +6285,7 @@
 		<zh-CN>征服者的盛装</zh-CN>
 		<pt-BR>Trajes da Conquistadora</pt-BR>
 		<ko>정복자의 휘장</ko>
+		<fixja>征服者の装具</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLS_RING</zType>
@@ -5851,6 +6299,7 @@
 		<zh-CN>愚人之环</zh-CN>
 		<pt-BR>Anel da Tolice</pt-BR>
 		<ko>우둔한 자의 반지</ko>
+		<fixja>愚人のリング</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARVEST_CROWN</zType>
@@ -5864,6 +6313,7 @@
 		<zh-CN>收获之冠</zh-CN>
 		<pt-BR>Coroa da Colheita</pt-BR>
 		<ko>수확의 왕관</ko>
+		<fixja>豊穣の冠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARVEST_CROWN_F</zType>
@@ -5877,6 +6327,7 @@
 		<zh-CN>收获之冠</zh-CN>
 		<pt-BR>Coroa da Colheita</pt-BR>
 		<ko>수확의 왕관</ko>
+		<fixja>豊穣の冠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BANNER_OF_LOYALTY</zType>
@@ -5890,6 +6341,7 @@
 		<zh-CN>忠诚的旗帜</zh-CN>
 		<pt-BR>Estandarte dos Leais</pt-BR>
 		<ko>충성심의 깃발</ko>
+		<fixja>忠義の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BANNER_OF_LOYALTY_F</zType>
@@ -5903,6 +6355,7 @@
 		<zh-CN>忠诚的旗帜</zh-CN>
 		<pt-BR>Estandarte dos Leais</pt-BR>
 		<ko>충성심의 깃발</ko>
+		<fixja>忠義の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNYIELDING_BANNER</zType>
@@ -5916,6 +6369,7 @@
 		<zh-CN>不屈的旗帜</zh-CN>
 		<pt-BR>Estandarte Inabalável</pt-BR>
 		<ko>꿋꿋한 깃발</ko>
+		<fixja>不屈の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNYIELDING_BANNER_F</zType>
@@ -5929,6 +6383,7 @@
 		<zh-CN>不屈的旗帜</zh-CN>
 		<pt-BR>Estandarte Inabalável</pt-BR>
 		<ko>꿋꿋한 깃발</ko>
+		<fixja>不屈の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BULWARK_ARMOR</zType>
@@ -5942,6 +6397,7 @@
 		<zh-CN>堡垒胸甲</zh-CN>
 		<pt-BR>Couraça Baluarte</pt-BR>
 		<ko>단단한 흉갑</ko>
+		<fixja>ブルワーク・キュイラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BULWARK_ARMOR_F</zType>
@@ -5955,6 +6411,7 @@
 		<zh-CN>堡垒胸甲</zh-CN>
 		<pt-BR>Couraça Baluarte</pt-BR>
 		<ko>단단한 흉갑</ko>
+		<fixja>ブルワーク・キュイラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PLANTERS_CLOAK</zType>
@@ -5968,6 +6425,7 @@
 		<zh-CN>播种者的斗篷</zh-CN>
 		<pt-BR>Capa de Plantio</pt-BR>
 		<ko>재배자의 망토</ko>
+		<fixja>農園主の外套</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PLANTERS_CLOAK_F</zType>
@@ -5981,6 +6439,7 @@
 		<zh-CN>播种者的斗篷</zh-CN>
 		<pt-BR>Capa de Plantio</pt-BR>
 		<ko>재배자의 망토</ko>
+		<fixja>農園主の外套</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BANNER_OF_UNITY</zType>
@@ -5994,6 +6453,7 @@
 		<zh-CN>统一的旗帜</zh-CN>
 		<pt-BR>Estandarte da União</pt-BR>
 		<ko>화합의 깃발</ko>
+		<fixja>統一の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BANNER_OF_UNITY_F</zType>
@@ -6007,6 +6467,7 @@
 		<zh-CN>统一的旗帜</zh-CN>
 		<pt-BR>Estandarte da União</pt-BR>
 		<ko>화합의 깃발</ko>
+		<fixja>統一の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SILVERED_CLASP</zType>
@@ -6020,6 +6481,7 @@
 		<zh-CN>镀银扣环</zh-CN>
 		<pt-BR>Fecho de Prata</pt-BR>
 		<ko>은을 입힌 걸쇠</ko>
+		<fixja>銀の留め金</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SILVERED_CLASP_F</zType>
@@ -6033,6 +6495,7 @@
 		<zh-CN>镀银扣环</zh-CN>
 		<pt-BR>Fecho de Prata</pt-BR>
 		<ko>은을 입힌 걸쇠</ko>
+		<fixja>銀の留め金</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BULWARK_BANNER</zType>
@@ -6046,6 +6509,7 @@
 		<zh-CN>堡垒旗帜</zh-CN>
 		<pt-BR>Estandarte Baluarte</pt-BR>
 		<ko>방벽 깃발</ko>
+		<fixja>防護の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BULWARK_BANNER_F</zType>
@@ -6059,6 +6523,7 @@
 		<zh-CN>堡垒旗帜</zh-CN>
 		<pt-BR>Estandarte Baluarte</pt-BR>
 		<ko>방벽 깃발</ko>
+		<fixja>防護の旗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FICKLE_BAND</zType>
@@ -6072,6 +6537,7 @@
 		<zh-CN>善变军团</zh-CN>
 		<pt-BR>Bracelete Frágil</pt-BR>
 		<ko>변덕스러운 동맹</ko>
+		<fixja>移り気な人々</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FICKLE_BAND_F</zType>
@@ -6085,6 +6551,7 @@
 		<zh-CN>善变军团</zh-CN>
 		<pt-BR>Bracelete Frágil</pt-BR>
 		<ko>변덕스러운 동맹</ko>
+		<fixja>移り気な人々</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CROWN_OF_THE_UNJUST</zType>
@@ -6098,6 +6565,7 @@
 		<zh-CN>不正之冠</zh-CN>
 		<pt-BR>Coroa do Injusto</pt-BR>
 		<ko>부조리의 왕관</ko>
+		<fixja>不当なる冠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CROWN_OF_THE_UNJUST_F</zType>
@@ -6111,6 +6579,7 @@
 		<zh-CN>不正之冠</zh-CN>
 		<pt-BR>Coroa da Injusta</pt-BR>
 		<ko>부조리의 왕관</ko>
+		<fixja>不当なる冠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CROWN_OF_THE_JUST</zType>
@@ -6124,6 +6593,7 @@
 		<zh-CN>正直之冠</zh-CN>
 		<pt-BR>Coroa do Justo</pt-BR>
 		<ko>정의의 왕관</ko>
+		<fixja>正当なる冠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CROWN_OF_THE_JUST_F</zType>
@@ -6137,6 +6607,7 @@
 		<zh-CN>正直之冠</zh-CN>
 		<pt-BR>Coroa da Justa</pt-BR>
 		<ko>정의의 왕관</ko>
+		<fixja>正当なる冠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THE_CORNERSTONE</zType>
@@ -6150,6 +6621,7 @@
 		<zh-CN>基石</zh-CN>
 		<pt-BR>A Pedra Angular</pt-BR>
 		<ko>주춧돌</ko>
+		<fixja>礎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THE_CORNERSTONE_F</zType>
@@ -6163,6 +6635,7 @@
 		<zh-CN>基石</zh-CN>
 		<pt-BR>A Pedra Angular</pt-BR>
 		<ko>주춧돌</ko>
+		<fixja>礎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CROWN_OF_THE_JUST_DESCRIPTION</zType>
@@ -6176,6 +6649,7 @@
 		<zh-CN>眉宇间展露link(TRAIT_MISERABLE)特质</zh-CN>
 		<pt-BR>Um peso link(TRAIT_MISERABLE) senta em sua testa.</pt-BR>
 		<ko>이마 위를 짓누르는 link(TRAIT_MISERABLE) 무게</ko>
+		<fixja>link(TRAIT_MISERABLE)に深い皺</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EVANGELIST</zType>
@@ -6189,6 +6663,7 @@
 		<zh-CN>福音传道者</zh-CN>
 		<pt-BR>Evangelista</pt-BR>
 		<ko>전도사</ko>
+		<fixja>伝道者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EVANGELIST_F</zType>
@@ -6202,6 +6677,7 @@
 		<zh-CN>福音传道者</zh-CN>
 		<pt-BR>Evangelista</pt-BR>
 		<ko>전도사</ko>
+		<fixja>伝道者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_EVANGELIST</zType>
@@ -6215,6 +6691,7 @@
 		<zh-CN>福音传道者</zh-CN>
 		<pt-BR>o Evangelista</pt-BR>
 		<ko>전도사</ko>
+		<fixja>伝道する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_EVANGELIST_F</zType>
@@ -6228,6 +6705,7 @@
 		<zh-CN>福音传道者</zh-CN>
 		<pt-BR>a Evangelista</pt-BR>
 		<ko>전도사</ko>
+		<fixja>伝道する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENVOY</zType>
@@ -6241,6 +6719,7 @@
 		<zh-CN>特使</zh-CN>
 		<pt-BR>Enviado</pt-BR>
 		<ko>사절</ko>
+		<fixja>特使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENVOY_F</zType>
@@ -6254,6 +6733,7 @@
 		<zh-CN>特使</zh-CN>
 		<pt-BR>Enviada</pt-BR>
 		<ko>사절</ko>
+		<fixja>特使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_ENVOY</zType>
@@ -6267,6 +6747,7 @@
 		<zh-CN>特使</zh-CN>
 		<pt-BR>o Enviado</pt-BR>
 		<ko>사절</ko>
+		<fixja>特使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_ENVOY_F</zType>
@@ -6280,6 +6761,7 @@
 		<zh-CN>特使</zh-CN>
 		<pt-BR>a Enviada</pt-BR>
 		<ko>사절</ko>
+		<fixja>特使</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUBJUGATOR</zType>
@@ -6293,6 +6775,7 @@
 		<zh-CN>镇压者</zh-CN>
 		<pt-BR>Subjugador</pt-BR>
 		<ko>패왕</ko>
+		<fixja>征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUBJUGATOR_F</zType>
@@ -6306,6 +6789,7 @@
 		<zh-CN>镇压者</zh-CN>
 		<pt-BR>Subjugadora</pt-BR>
 		<ko>패왕</ko>
+		<fixja>征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_SUBJUGATOR</zType>
@@ -6319,6 +6803,7 @@
 		<zh-CN>镇压者</zh-CN>
 		<pt-BR>o Subjugador</pt-BR>
 		<ko>패왕</ko>
+		<fixja>征服する者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NICKNAME_THE_SUBJUGATOR_F</zType>
@@ -6332,5 +6817,6 @@
 		<zh-CN>镇压者</zh-CN>
 		<pt-BR>a Subjugadora</pt-BR>
 		<ko>패왕</ko>
+		<fixja>征服する者</fixja>
 	</Entry>
 </Root>

@@ -28,6 +28,7 @@
 		<zh-CN>古代遗迹~古代遗迹~古代遗迹</zh-CN>
 		<pt-BR>Ruínas Antigas~umas Ruínas Antigas~Ruínas Antigas~as Ruínas Antigas~das Ruínas Antigas~nas Ruínas Antigas</pt-BR>
 		<ko>고대 유적~고대 유적~고대 유적</ko>
+		<fixja>古代遺跡~古代遺跡~古代遺跡</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
@@ -41,6 +42,7 @@
 		<zh-CN>城市据点~城市据点~城市据点</zh-CN>
 		<pt-BR>Assentamento de Cidade~um Assentamento de Cidade~Assentamentos de Cidade~o Assentamento de Cidade~do Assentamento de Cidade~no Assentamento de Cidade</pt-BR>
 		<ko>도시 부지~도시 부지~도시 부지</ko>
+		<fixja>都市拠点~都市拠点~都市拠点</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CITY_SITE_DESCRIPTION</zType>
@@ -54,6 +56,7 @@
 		<zh-CN>将单位派遣至已征服的link(CONCEPT_CITY_SITE)，就能将该地标记为你的领土。若没有好好防守该地，它可能就会被一个新的link(CONCEPT_TRIBE,3)link(CONCEPT_SETTLEMENT)或被你的对手占领。</zh-CN>
 		<pt-BR>Colocar uma unidade em um link(CONCEPT_CITY_SITE) conquistado demarca esse território como sendo seu. Se você não conseguir defendê-lo, um novo link(CONCEPT_SETTLEMENT) link(CONCEPT_TRIBE,3) pode surgir ou seus oponentes podem conquistar o local.</pt-BR>
 		<ko>정복한 link(CONCEPT_CITY_SITE)에 병력을 배치함으로써 본인의 영역임을 표시할 수 있습니다. 하지만 방어하는데 실패할 경우 새로운 link(CONCEPT_TRIBE,3)나 link(CONCEPT_SETTLEMENT), 또는 적에 의해 빼앗길 수 있습니다.</ko>
+		<fixja>征服したlink(CONCEPT_CITY_SITE)にユニットを駐留させることで、その領土は自分のものとしてマークされます。その領土を防御できなかった場合、新しいlink(CONCEPT_TRIBE,3)link(CONCEPT_SETTLEMENT)として占領されたり、敵対国に開拓されたりする可能性があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
@@ -67,6 +70,7 @@
 		<zh-CN>茅屋遗迹</zh-CN>
 		<pt-BR>Cabana em Ruínas</pt-BR>
 		<ko>막사 폐허</ko>
+		<fixja>あばら家の廃墟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
@@ -80,6 +84,7 @@
 		<zh-CN>哨站遗迹</zh-CN>
 		<pt-BR>Posto Avançado em Ruínas</pt-BR>
 		<ko>전초 기지 폐허</ko>
+		<fixja>前哨基地の廃虚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
@@ -93,6 +98,7 @@
 		<zh-CN>驻扎地遗迹</zh-CN>
 		<pt-BR>Acampamento em Ruínas</pt-BR>
 		<ko>군영 폐허</ko>
+		<fixja>野営地の廃虚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_4</zType>
@@ -106,6 +112,7 @@
 		<zh-CN>棱堡遗迹</zh-CN>
 		<pt-BR>Bastião em Ruínas</pt-BR>
 		<ko>보루 폐허</ko>
+		<fixja>砦の廃虚</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
@@ -119,6 +126,7 @@
 		<zh-CN>茅屋~茅屋~茅屋</zh-CN>
 		<pt-BR>Cabana~uma Cabana~Cabanas~a Cabana~da Cabana~na Cabana</pt-BR>
 		<ko>막사~막사~막사</ko>
+		<fixja>あばら家~あばら家~あばら家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
@@ -132,6 +140,7 @@
 		<zh-CN>哨站~哨站~哨站</zh-CN>
 		<pt-BR>Posto Avançado~um Posto Avançado~uns Postos Avançados~o Posto Avançado~do Posto Avançado~no Posto Avançado</pt-BR>
 		<ko>전초지~전초지~전초지</ko>
+		<fixja>前哨基地~前哨基地~前哨基地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
@@ -145,6 +154,7 @@
 		<zh-CN>驻扎地~驻扎地~驻扎地</zh-CN>
 		<pt-BR>Acampamento~um Acampamento~Acampamentos~o Acampamento~do Acampamento~no Acampamento</pt-BR>
 		<ko>군영~군영~군영</ko>
+		<fixja>野営地~野営地~野営地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
@@ -158,6 +168,7 @@
 		<zh-CN>棱堡~棱堡~棱堡</zh-CN>
 		<pt-BR>Bastião~um Bastião~Bastiões~o Bastião~do Bastião~no Bastião</pt-BR>
 		<ko>보루~보루~보루</ko>
+		<fixja>砦~砦~砦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FORT</zType>
@@ -171,6 +182,7 @@
 		<zh-CN>碉堡~碉堡~碉堡</zh-CN>
 		<pt-BR>Forte~um Forte~Fortes~o Forte~do Forte~no Forte</pt-BR>
 		<ko>진지~진지~진지</ko>
+		<fixja>要塞~要塞~要塞</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FARM</zType>
@@ -184,6 +196,7 @@
 		<zh-CN>农地~农地~农地</zh-CN>
 		<pt-BR>Fazenda~uma Fazenda~Fazendas~a Fazenda~da Fazenda~na Fazenda</pt-BR>
 		<ko>농장~농장~농장</ko>
+		<fixja>農場~農場~農場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINE</zType>
@@ -197,6 +210,7 @@
 		<zh-CN>矿场~矿场~矿场</zh-CN>
 		<pt-BR>Mina~uma Mina~Minas~a Mina~da Mina~na Mina</pt-BR>
 		<ko>광산~광산~광산</ko>
+		<fixja>鉱山~鉱山~鉱山</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
@@ -210,6 +224,7 @@
 		<zh-CN>采石场~采石场~采石场</zh-CN>
 		<pt-BR>Pedreira~uma Pedreira~Pedreiras~a Pedreira~da Pedreira~na Pedreira</pt-BR>
 		<ko>채석장~채석장~채석장</ko>
+		<fixja>採石場~採石場~採石場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
@@ -223,6 +238,7 @@
 		<zh-CN>锯木厂~锯木厂~锯木厂</zh-CN>
 		<pt-BR>Serraria~uma Serraria~Serrarias~a Serraria~da Serraria~na Serraria</pt-BR>
 		<ko>목재소~목재소~목재소</ko>
+		<fixja>製材所~製材所~製材所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
@@ -236,6 +252,7 @@
 		<zh-CN>牧场~牧场~牧场</zh-CN>
 		<pt-BR>Pasto~um Pasto~Pastos~o Pasto~do Pasto~no Pasto</pt-BR>
 		<ko>목초지~목초지~목초지</ko>
+		<fixja>牧草地~牧草地~牧草地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CAMP</zType>
@@ -249,6 +266,7 @@
 		<zh-CN>营地~营地~营地</zh-CN>
 		<pt-BR>Campo~um Campo~Campos~o Campo~do Campo~no Campo</pt-BR>
 		<ko>야영지~야영지~야영지</ko>
+		<fixja>駐留地~駐留地~駐留地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GROVE</zType>
@@ -262,6 +280,7 @@
 		<zh-CN>种植园~种植园~种植园</zh-CN>
 		<pt-BR>Pomar~um Pomar~Pomares~o Pomar~do Pomar~no Pomar</pt-BR>
 		<ko>과수원~과수원~과수원</ko>
+		<fixja>木立~木立~木立</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NETS</zType>
@@ -275,6 +294,7 @@
 		<zh-CN>渔网</zh-CN>
 		<pt-BR>Redes</pt-BR>
 		<ko>어망</ko>
+		<fixja>網</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
@@ -288,6 +308,7 @@
 		<zh-CN>港口~港口~港口</zh-CN>
 		<pt-BR>Porto~um Porto~Portos~o Porto~do Porto~no Porto</pt-BR>
 		<ko>항구~항구~항구</ko>
+		<fixja>港~港~港</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
@@ -301,6 +322,7 @@
 		<zh-CN>粮仓~粮仓~粮仓</zh-CN>
 		<pt-BR>Granel~um Granel~Granéis~o Granel~do Granel~no Granel</pt-BR>
 		<ko>곡창~곡창~곡창</ko>
+		<fixja>穀物倉~穀物倉~穀物倉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
@@ -314,6 +336,7 @@
 		<zh-CN>水磨坊~水磨坊~水磨坊</zh-CN>
 		<pt-BR>Moinho de Água~um Moinho de Água~Moinhos de Água~o Moinho de Água~do Moinho de Água~no Moinho de Água</pt-BR>
 		<ko>물레방아~물레방아~물레방아</ko>
+		<fixja>水車小屋~水車小屋~水車小屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
@@ -327,6 +350,7 @@
 		<zh-CN>风磨坊~风磨坊~风磨坊</zh-CN>
 		<pt-BR>Moinho de Vento~um Moinho de Vento~Moinhos de Vento~o Moinho de Vento~do Moinho de Vento~no Moinho de Vento</pt-BR>
 		<ko>풍차~풍차~풍차</ko>
+		<fixja>風車小屋~風車小屋~風車小屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
@@ -340,6 +364,7 @@
 		<zh-CN>村庄~村庄~村庄</zh-CN>
 		<pt-BR>Aldeia~uma Aldeia~Aldeias~a Aldeia~da Aldeia~na Aldeia</pt-BR>
 		<ko>촌락~촌락~촌락</ko>
+		<fixja>小集落~小集落~小集落</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
@@ -353,6 +378,7 @@
 		<zh-CN>村镇~村镇~村镇</zh-CN>
 		<pt-BR>Povoado~um Povoado~Povoados~o Povoado~do Povoado~no Povoado</pt-BR>
 		<ko>마을~마을~마을</ko>
+		<fixja>村~村~村</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TOWN</zType>
@@ -366,6 +392,7 @@
 		<zh-CN>城镇~城镇~城镇</zh-CN>
 		<pt-BR>Vila~uma Vila~Vilas~a Vila~da Vila~na Vila</pt-BR>
 		<ko>읍~읍~읍</ko>
+		<fixja>町~町~町</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINOR_CITY</zType>
@@ -379,6 +406,7 @@
 		<zh-CN>小型城市~小型城市~小型城市</zh-CN>
 		<pt-BR>Cidade Pequena~uma Cidade Pequena~Cidades Pequenas~a Cidade Pequena~da Cidade Pequena~na Cidade Pequena</pt-BR>
 		<ko>소도시~소도시~소도시</ko>
+		<fixja>小都市~小都市~小都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
@@ -392,6 +420,7 @@
 		<zh-CN>营寨~营寨~营寨</zh-CN>
 		<pt-BR>Guarnição~uma Guarnição~Guarnições~a Guarnição~da Guarnição~na Guarnição</pt-BR>
 		<ko>주둔지~주둔지~주둔지</ko>
+		<fixja>駐屯地~駐屯地~駐屯地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
@@ -405,6 +434,7 @@
 		<zh-CN>要塞~要塞~要塞</zh-CN>
 		<pt-BR>Fortaleza~uma Fortaleza~Fortalezas~a Fortaleza~da Fortaleza~na Fortaleza</pt-BR>
 		<ko>요새~요새~요새</ko>
+		<fixja>牙城~牙城~牙城</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
@@ -418,6 +448,7 @@
 		<zh-CN>堡垒~堡垒~堡垒</zh-CN>
 		<pt-BR>Cidadela~uma Cidadela~Cidadelas~a Cidadela~da Cidadela~na Cidadela</pt-BR>
 		<ko>성채~성채~성채</ko>
+		<fixja>城塞~城塞~城塞</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
@@ -431,6 +462,7 @@
 		<zh-CN>军营~军营~军营</zh-CN>
 		<pt-BR>Quartel~um Quartel~Quarteis~o Quartel~do Quartel~no Quartel</pt-BR>
 		<ko>병영</ko>
+		<fixja>兵舎~兵舎~兵舎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RANGE</zType>
@@ -444,6 +476,7 @@
 		<zh-CN>靶场~靶场~靶场</zh-CN>
 		<pt-BR>Campo de Tiro~um Campo de Tiro~Campos de Tiro~o Campo de Tiro~do Campo de Tiro~no Campo de Tiro</pt-BR>
 		<ko>사격장~사격장~사격장</ko>
+		<fixja>射撃場~射撃場~射撃場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
@@ -457,6 +490,7 @@
 		<zh-CN>剧场~剧场~剧场</zh-CN>
 		<pt-BR>Odeão~um Odeão~Odeões~o Odeão~do Odeão~no Odeão</pt-BR>
 		<ko>음악당~음악당~음악당</ko>
+		<fixja>オデオン~オデオン~オデオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
@@ -470,6 +504,7 @@
 		<zh-CN>剧院~剧院~剧院</zh-CN>
 		<pt-BR>Teatro~um Teatro~Teatros~o Teatro~do Teatro~no Teatro</pt-BR>
 		<ko>공연장~공연장~공연장</ko>
+		<fixja>劇場~劇場~劇場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
@@ -483,6 +518,7 @@
 		<zh-CN>圆形竞技场~圆形竞技场~圆形竞技场</zh-CN>
 		<pt-BR>Anfiteatro~um Anfiteatro~Anfiteatros~o Anfiteatro~do Anfiteatro~no Anfiteatro</pt-BR>
 		<ko>원형 극장~원형 극장~원형 극장</ko>
+		<fixja>円形劇場~円形劇場~円形劇場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
@@ -496,6 +532,7 @@
 		<zh-CN>冷水浴场</zh-CN>
 		<pt-BR>Banhos Frios</pt-BR>
 		<ko>냉탕</ko>
+		<fixja>冷水浴場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
@@ -509,6 +546,7 @@
 		<zh-CN>温水浴场</zh-CN>
 		<pt-BR>Banhos Mornos</pt-BR>
 		<ko>온탕</ko>
+		<fixja>温水浴場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
@@ -522,6 +560,7 @@
 		<zh-CN>加热浴场</zh-CN>
 		<pt-BR>Banhos Aquecidos</pt-BR>
 		<ko>열탕</ko>
+		<fixja>温熱浴場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
@@ -535,6 +574,7 @@
 		<zh-CN>市场~市场~市场</zh-CN>
 		<pt-BR>Mercado~um Mercado~Mercados~o Mercado~do Mercado~no Mercado</pt-BR>
 		<ko>상점~상점~상점</ko>
+		<fixja>市場~市場~市場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
@@ -548,6 +588,7 @@
 		<zh-CN>杂货商~杂货商~杂货商</zh-CN>
 		<pt-BR>Verdureiro~um Verdureiro~Verdureiros~o Verdureiro~do Verdureiro~no Verdureiro</pt-BR>
 		<ko>잡화점~잡화점~잡화점</ko>
+		<fixja>雑貨屋~雑貨屋~雑貨屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
@@ -561,6 +602,7 @@
 		<zh-CN>市集~市集~市集</zh-CN>
 		<pt-BR>Feira~uma Feira~Feiras~a Feira~da Feira~na Feira</pt-BR>
 		<ko>시장~시장~시장</ko>
+		<fixja>見本市~見本市~見本市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
@@ -574,6 +616,7 @@
 		<zh-CN>图书馆~图书馆~图书馆</zh-CN>
 		<pt-BR>Biblioteca~uma Biblioteca~Bibliotecas~a Biblioteca~da Biblioteca~na Biblioteca</pt-BR>
 		<ko>도서관~도서관~도서관</ko>
+		<fixja>図書館~図書館~図書館</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
@@ -587,6 +630,7 @@
 		<zh-CN>学院~学院~学院</zh-CN>
 		<pt-BR>Academia~uma Academia~Academias~a Academia~da Academia~na Academia</pt-BR>
 		<ko>학술원~학술원~학술원</ko>
+		<fixja>アカデミー~アカデミー~アカデミー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
@@ -600,6 +644,7 @@
 		<zh-CN>大学~大学~大学</zh-CN>
 		<pt-BR>Universidade~uma Universidade~Universidades~a Universidade~da Universidade~na Universidade</pt-BR>
 		<ko>대학~대학~대학</ko>
+		<fixja>大学~大学~大学</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
@@ -613,6 +658,7 @@
 		<zh-CN>法院~法院~法院</zh-CN>
 		<pt-BR>Tribunal~um Tribunal~Tribunais~o Tribunal~do Tribunal~no Tribunal</pt-BR>
 		<ko>법원~법원~법원</ko>
+		<fixja>裁判所~裁判所~裁判所</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
@@ -626,6 +672,7 @@
 		<zh-CN>部院~部院~部院</zh-CN>
 		<pt-BR>Ministério~um Ministério~Ministérios~o Ministério~do Ministério~no Ministério</pt-BR>
 		<ko>관청~관청~관청</ko>
+		<fixja>庁舎~庁舎~庁舎</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
@@ -639,6 +686,7 @@
 		<zh-CN>宫殿~宫殿~宫殿</zh-CN>
 		<pt-BR>Palácio~um Palácio~Palácios~o Palácio~do Palácio~no Palácio</pt-BR>
 		<ko>궁전~궁전~궁전</ko>
+		<fixja>宮殿~宮殿~宮殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
@@ -652,6 +700,7 @@
 		<zh-CN>尼努尔塔神祠~尼努尔塔神祠</zh-CN>
 		<pt-BR>Santuário de Ninurta~um Santuário de Ninurta</pt-BR>
 		<ko>닌우르타 신전~닌우르타 신전</ko>
+		<fixja>ニヌルタの神殿~ニヌルタの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_BELLONA</zType>
@@ -665,6 +714,7 @@
 		<zh-CN>柏洛娜神殿~柏洛娜神殿</zh-CN>
 		<pt-BR>Santuário de Bellona~um Santuário de Bellona</pt-BR>
 		<ko>벨로나 신전~벨로나 신전</ko>
+		<fixja>ベローナ神殿~ベローナ神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_SOL</zType>
@@ -678,6 +728,7 @@
 		<zh-CN>苏尔神殿~苏尔神殿</zh-CN>
 		<pt-BR>Santuário de Sol~um Santuário de Sol</pt-BR>
 		<ko>솔 신전~솔 신전</ko>
+		<fixja>ソル神殿~ソル神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_FERONIA</zType>
@@ -691,6 +742,7 @@
 		<zh-CN>菲罗尼娅神殿~菲罗尼娅神殿</zh-CN>
 		<pt-BR>Santuário de Feronia~um Santuário de Feronia</pt-BR>
 		<ko>페로니아 신전~페로니아 신전</ko>
+		<fixja>フェロニア神殿~フェロニア神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_CERES</zType>
@@ -704,6 +756,7 @@
 		<zh-CN>克瑞斯神殿~克瑞斯神殿</zh-CN>
 		<pt-BR>Santuário de Ceres~um Santuário de Ceres</pt-BR>
 		<ko>케레스 신전~케레스 신전</ko>
+		<fixja>セレス神殿~セレス神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
@@ -717,6 +770,7 @@
 		<zh-CN>玛尔斯神祠~玛尔斯神祠</zh-CN>
 		<pt-BR>Santuário de Marte~um Santuário de Marte</pt-BR>
 		<ko>마르스 신전~마르스 신전</ko>
+		<fixja>マルスの神殿~マルスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
@@ -730,6 +784,7 @@
 		<zh-CN>努斯卡神祠~努斯卡神祠</zh-CN>
 		<pt-BR>Santuário de Nusca~um Santuário de Nusca</pt-BR>
 		<ko>누스카 신전~누스카 신전</ko>
+		<fixja>ヌスカの神殿~ヌスカの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
@@ -743,6 +798,7 @@
 		<zh-CN>阿塔尔神祠~阿塔尔神祠</zh-CN>
 		<pt-BR>Santuário de Atar~um Santuário de Atar</pt-BR>
 		<ko>아타르 신전~아타르 신전</ko>
+		<fixja>アータルの神殿~アータルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
@@ -756,6 +812,7 @@
 		<zh-CN>兀儿肯神祠~兀儿肯神祠</zh-CN>
 		<pt-BR>Santuário de Vulcano~um Santuário de Vulcano</pt-BR>
 		<ko>불카누스 신전~불카누스 신전</ko>
+		<fixja>ウルカヌスの神殿~ウルカヌスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
@@ -769,6 +826,7 @@
 		<zh-CN>纳布神祠~纳布神祠</zh-CN>
 		<pt-BR>Santuário de Nabu~um Santuário de Nabu</pt-BR>
 		<ko>나부 신전~나부 신전</ko>
+		<fixja>ナブーの神殿~ナブーの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
@@ -782,6 +840,7 @@
 		<zh-CN>雅典娜神祠~雅典娜神祠</zh-CN>
 		<pt-BR>Santuário de Atena~um Santuário de Atena</pt-BR>
 		<ko>아테나 신전~아테나 신전</ko>
+		<fixja>アテナの神殿~アテナの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_SHAMASH</zType>
@@ -795,6 +854,7 @@
 		<zh-CN>沙玛什神祠~沙玛什神祠</zh-CN>
 		<pt-BR>Santuário de Samas~um Santuário de Samas</pt-BR>
 		<ko>샤마쉬 신전~샤마쉬 신전</ko>
+		<fixja>シャマシュの神殿~シャマシュの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
@@ -808,6 +868,7 @@
 		<zh-CN>拉神祠~拉神祠</zh-CN>
 		<pt-BR>Santuário de Rá~um Santuário de Rá</pt-BR>
 		<ko>라 신전~라 신전</ko>
+		<fixja>ラーの神殿~ラーの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
@@ -821,6 +882,7 @@
 		<zh-CN>密特拉神祠~密特拉神祠</zh-CN>
 		<pt-BR>Santuário de Mitra~um Santuário de Mitra</pt-BR>
 		<ko>미트라 신전~미트라 신전</ko>
+		<fixja>ミスラの神殿~ミスラの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
@@ -834,6 +896,7 @@
 		<zh-CN>米尔夸特神祠~米尔夸特神祠</zh-CN>
 		<pt-BR>Santuário de Melcarte~um Santuário de Melcarte</pt-BR>
 		<ko>멜카르트 신전~멜카르트 신전</ko>
+		<fixja>メルカートの神殿~メルカートの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
@@ -847,6 +910,7 @@
 		<zh-CN>波赛顿神祠~波赛顿神祠</zh-CN>
 		<pt-BR>Santuário de Poseidon~um Santuário de Poseidon</pt-BR>
 		<ko>포세이돈 신전~포세이돈 신전</ko>
+		<fixja>ポセイドンの神殿~ポセイドンの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
@@ -860,6 +924,7 @@
 		<zh-CN>阿娜希塔神祠~阿娜希塔神祠</zh-CN>
 		<pt-BR>Santuário de Anaíta~um Santuário de Anaíta</pt-BR>
 		<ko>아나히타 신전~아나히타 신전</ko>
+		<fixja>アナーヒターの神殿~アナーヒターの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
@@ -873,6 +938,7 @@
 		<zh-CN>伊丝塔神祠~伊丝塔神祠</zh-CN>
 		<pt-BR>Santuário de Ishtar~um Santuário de Ishtar</pt-BR>
 		<ko>이슈타르 신전~이슈타르 신전</ko>
+		<fixja>イシュタルの神殿~イシュタルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
@@ -886,6 +952,7 @@
 		<zh-CN>阿斯塔蒂神祠~阿斯塔蒂神祠</zh-CN>
 		<pt-BR>Santuário de Astarte~um Santuário de Astarte</pt-BR>
 		<ko>아스타르테 신전~아스타르테 신전</ko>
+		<fixja>アスタルトの神殿~アスタルトの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_BAAL_HAMMON</zType>
@@ -899,6 +966,7 @@
 		<zh-CN>巴尔·哈蒙神殿~巴尔·哈蒙神殿</zh-CN>
 		<pt-BR>Santuário de Baal Hammon~um Santuário de Baal Hammon</pt-BR>
 		<ko>바알 하몬 신전~바알 하몬 신전</ko>
+		<fixja>バアル・ハモン神殿~バアル・ハモン神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
@@ -912,6 +980,7 @@
 		<zh-CN>维纳斯神祠~维纳斯神祠</zh-CN>
 		<pt-BR>Santuário de Vênus~um Santuário de Vênus</pt-BR>
 		<ko>베누스 신전~베누스 신전</ko>
+		<fixja>ヴィーナスの神殿~ヴィーナスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
@@ -925,6 +994,7 @@
 		<zh-CN>埃列什基伽勒神祠~埃列什基伽勒神祠</zh-CN>
 		<pt-BR>Santuário de Eresquigal~um Santuário de Eresquigal</pt-BR>
 		<ko>에레슈키갈 신전~에레슈키갈 신전</ko>
+		<fixja>エレシュキガルの神殿~エレシュキガルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
@@ -938,6 +1008,7 @@
 		<zh-CN>欧西里斯神祠~欧西里斯神祠</zh-CN>
 		<pt-BR>Santuário de Osíris~um Santuário de Osíris</pt-BR>
 		<ko>오시리스 신전~오시리스 신전</ko>
+		<fixja>オシリスの神殿~オシリスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
@@ -951,6 +1022,7 @@
 		<zh-CN>黑帝斯神祠~黑帝斯神祠</zh-CN>
 		<pt-BR>Santuário de Hades~um Santuário de Hades</pt-BR>
 		<ko>하데스 신전~하데스 신전</ko>
+		<fixja>ハデスの神殿~ハデスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
@@ -964,6 +1036,7 @@
 		<zh-CN>埃什蒙神祠~埃什蒙神祠</zh-CN>
 		<pt-BR>Santuário de Eshmun~um Santuário de Eshmun</pt-BR>
 		<ko>에쉬문 신전~에쉬문 신전</ko>
+		<fixja>エシュムンの神殿~エシュムンの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
@@ -977,6 +1050,7 @@
 		<zh-CN>伊西斯神祠~伊西斯神祠</zh-CN>
 		<pt-BR>Santuário de Ísis~um Santuário de Ísis</pt-BR>
 		<ko>이시스 신전~이시스 신전</ko>
+		<fixja>イシスの神殿~イシスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
@@ -990,6 +1064,7 @@
 		<zh-CN>亚述神祠~亚述神祠</zh-CN>
 		<pt-BR>Santuário de Assur~um Santuário de Assur</pt-BR>
 		<ko>아슈르 신전~아슈르 신전</ko>
+		<fixja>アッシュルの神殿~アッシュルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
@@ -1003,6 +1078,7 @@
 		<zh-CN>马尔杜克神祠~马尔杜克神祠</zh-CN>
 		<pt-BR>Santuário de Marduque~um Santuário de Marduque</pt-BR>
 		<ko>마르두크 신전~마르두크 신전</ko>
+		<fixja>マルドゥクの神殿~マルドゥクの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
@@ -1016,6 +1092,7 @@
 		<zh-CN>宙斯神祠~宙斯神祠</zh-CN>
 		<pt-BR>Santuário de Zeus~um Santuário de Zeus</pt-BR>
 		<ko>제우스 신전~제우스 신전</ko>
+		<fixja>ゼウスの神殿~ゼウスの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
@@ -1029,6 +1106,7 @@
 		<zh-CN>塔尼特神祠~塔尼特神祠</zh-CN>
 		<pt-BR>Santuário de Tanit~um Santuário de Tanit</pt-BR>
 		<ko>타니트 신전~타니트 신전</ko>
+		<fixja>タニットの神殿~タニットの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_VESTA</zType>
@@ -1042,6 +1120,7 @@
 		<zh-CN>维斯塔神祠~维斯塔神祠</zh-CN>
 		<pt-BR>Santuário de Vesta~um Santuário de Vesta</pt-BR>
 		<ko>베스타 신전~베스타 신전</ko>
+		<fixja>ウェスタの神殿~ウェスタの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
@@ -1055,6 +1134,7 @@
 		<zh-CN>奈斯神祠~奈斯神祠</zh-CN>
 		<pt-BR>Santuário de Neite~um Santuário de Neite</pt-BR>
 		<ko>네이트 신전~네이트 신전</ko>
+		<fixja>ネイトの神殿~ネイトの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_HVAR_KHSHAITA</zType>
@@ -1068,6 +1148,7 @@
 		<zh-CN>赫瓦克夏塔神祠~赫瓦克夏塔神祠</zh-CN>
 		<pt-BR>Santuário de Hvar Khshaita~um Santuário de Hvar Khshaita</pt-BR>
 		<ko>흐바르 흐샤에타 신전~흐바르 흐샤에타 신전</ko>
+		<fixja>フワル・フシャエータの神殿~フワル・フシャエータの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_SERAPIS</zType>
@@ -1081,6 +1162,7 @@
 		<zh-CN>塞拉比斯神祠</zh-CN>
 		<pt-BR>Santuário de Serápis</pt-BR>
 		<ko>세라피스 신전~세라피스 신전</ko>
+		<fixja>セラピス神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
@@ -1094,6 +1176,7 @@
 		<zh-CN>icon(RELIGION_ZOROASTRIANISM)祆教修道院~icon(RELIGION_ZOROASTRIANISM)祆教修道院~icon(RELIGION_ZOROASTRIANISM)祆教修道院</zh-CN>
 		<pt-BR>icon(RELIGION_ZOROASTRIANISM)Monastério Zoroastrista~um icon(RELIGION_ZOROASTRIANISM)Monastério Zoroastrista~icon(RELIGION_ZOROASTRIANISM)Monastérios Zoroastristas</pt-BR>
 		<ko>icon(RELIGION_ZOROASTRIANISM)조로아스터교 수도원~icon(RELIGION_ZOROASTRIANISM)조로아스터교 수도원~icon(RELIGION_ZOROASTRIANISM)조로아스터교 수도원</ko>
+		<fixja>icon(RELIGION_ZOROASTRIANISM)ゾロアスター教修道院~icon(RELIGION_ZOROASTRIANISM)ゾロアスター教修道院~icon(RELIGION_ZOROASTRIANISM)ゾロアスター教修道院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
@@ -1107,6 +1190,7 @@
 		<zh-CN>icon(RELIGION_JUDAISM)犹太教修道院~icon(RELIGION_JUDAISM)犹太教修道院~icon(RELIGION_JUDAISM)犹太教修道院</zh-CN>
 		<pt-BR>icon(RELIGION_JUDAISM)Monastério Judaico~um icon(RELIGION_JUDAISM)Monastério Judaico~icon(RELIGION_JUDAISM)Monastérios Judaicos</pt-BR>
 		<ko>icon(RELIGION_JUDAISM)유대교 수도원~icon(RELIGION_JUDAISM)유대교 수도원~icon(RELIGION_JUDAISM)유대교 수도원</ko>
+		<fixja>icon(RELIGION_JUDAISM)ユダヤ教修道院~icon(RELIGION_JUDAISM)ユダヤ教修道院~icon(RELIGION_JUDAISM)ユダヤ教修道院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
@@ -1120,6 +1204,7 @@
 		<zh-CN>icon(RELIGION_CHRISTIANITY)基督教修道院~icon(RELIGION_CHRISTIANITY)基督教修道院~icon(RELIGION_CHRISTIANITY)基督教修道院</zh-CN>
 		<pt-BR>icon(RELIGION_CHRISTIANITY)Monastério Cristão~um icon(RELIGION_CHRISTIANITY)Monastério Cristão~icon(RELIGION_CHRISTIANITY)Monastérios Cristãos</pt-BR>
 		<ko>icon(RELIGION_CHRISTIANITY)기독교 수도원~icon(RELIGION_CHRISTIANITY)기독교 수도원~icon(RELIGION_CHRISTIANITY)기독교 수도원</ko>
+		<fixja>icon(RELIGION_CHRISTIANITY)キリスト教修道院~icon(RELIGION_CHRISTIANITY)キリスト教修道院~icon(RELIGION_CHRISTIANITY)キリスト教修道院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
@@ -1133,6 +1218,7 @@
 		<zh-CN>icon(RELIGION_MANICHAEISM)摩尼教修道院~icon(RELIGION_MANICHAEISM)摩尼教修道院~icon(RELIGION_MANICHAEISM)摩尼教修道院</zh-CN>
 		<pt-BR>icon(RELIGION_MANICHAEISM)Monastério Maniqueísta~um icon(RELIGION_MANICHAEISM)Monastério Maniqueísta~icon(RELIGION_MANICHAEISM)Monastérios Maniqueístas</pt-BR>
 		<ko>icon(RELIGION_MANICHAEISM)마니교 수도원~icon(RELIGION_MANICHAEISM)마니교 수도원~icon(RELIGION_MANICHAEISM)마니교 수도원</ko>
+		<fixja>icon(RELIGION_MANICHAEISM)マニ教修道院~icon(RELIGION_MANICHAEISM)マニ教修道院~icon(RELIGION_MANICHAEISM)マニ教修道院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
@@ -1146,6 +1232,7 @@
 		<zh-CN>icon(RELIGION_ZOROASTRIANISM)祆神殿~icon(RELIGION_ZOROASTRIANISM)祆神殿~icon(RELIGION_ZOROASTRIANISM)祆神殿</zh-CN>
 		<pt-BR>icon(RELIGION_ZOROASTRIANISM)Templo Zoroastrista~um icon(RELIGION_ZOROASTRIANISM)Templo Zoroastrista~icon(RELIGION_ZOROASTRIANISM)Templos Zoroastristas</pt-BR>
 		<ko>icon(RELIGION_ZOROASTRIANISM)조로아스터교 사원~icon(RELIGION_ZOROASTRIANISM)조로아스터교 사원~icon(RELIGION_ZOROASTRIANISM)조로아스터교 사원</ko>
+		<fixja>icon(RELIGION_ZOROASTRIANISM)ゾロアスター寺院~icon(RELIGION_ZOROASTRIANISM)ゾロアスター寺院~icon(RELIGION_ZOROASTRIANISM)ゾロアスター寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
@@ -1159,6 +1246,7 @@
 		<zh-CN>icon(RELIGION_JUDAISM)犹太神殿~icon(RELIGION_JUDAISM)犹太神殿~icon(RELIGION_JUDAISM)犹太神殿</zh-CN>
 		<pt-BR>icon(RELIGION_JUDAISM)Templo Judaico~um icon(RELIGION_JUDAISM)Templo Judaico~icon(RELIGION_JUDAISM)Templos Judaicos</pt-BR>
 		<ko>icon(RELIGION_JUDAISM)유대교 사원~icon(RELIGION_JUDAISM)유대교 사원~icon(RELIGION_JUDAISM)유대교 사원</ko>
+		<fixja>icon(RELIGION_JUDAISM)ユダヤ教寺院~icon(RELIGION_JUDAISM)ユダヤ教寺院~icon(RELIGION_JUDAISM)ユダヤ教寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
@@ -1172,6 +1260,7 @@
 		<zh-CN>icon(RELIGION_CHRISTIANITY)基督神殿~icon(RELIGION_CHRISTIANITY)基督神殿~icon(RELIGION_CHRISTIANITY)基督神殿</zh-CN>
 		<pt-BR>icon(RELIGION_CHRISTIANITY)Templo Cristão~um icon(RELIGION_CHRISTIANITY)Templo Cristão~icon(RELIGION_CHRISTIANITY)Templos Cristãos</pt-BR>
 		<ko>icon(RELIGION_CHRISTIANITY)기독교 사원~icon(RELIGION_CHRISTIANITY)기독교 사원~icon(RELIGION_CHRISTIANITY)기독교 사원</ko>
+		<fixja>icon(RELIGION_CHRISTIANITY)キリスト教寺院~icon(RELIGION_CHRISTIANITY)キリスト教寺院~icon(RELIGION_CHRISTIANITY)キリスト教寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
@@ -1185,6 +1274,7 @@
 		<zh-CN>icon(RELIGION_MANICHAEISM)摩尼神殿~icon(RELIGION_MANICHAEISM)摩尼神殿~icon(RELIGION_MANICHAEISM)摩尼神殿</zh-CN>
 		<pt-BR>icon(RELIGION_MANICHAEISM)Templo Maniqueísta~um icon(RELIGION_MANICHAEISM)Templo Maniqueísta~icon(RELIGION_MANICHAEISM)Templos Maniqueístas</pt-BR>
 		<ko>icon(RELIGION_MANICHAEISM)마니교 사원~icon(RELIGION_MANICHAEISM)마니교 사원~icon(RELIGION_MANICHAEISM)마니교 사원</ko>
+		<fixja>icon(RELIGION_MANICHAEISM)マニ教寺院~icon(RELIGION_MANICHAEISM)マニ教寺院~icon(RELIGION_MANICHAEISM)マニ教寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
@@ -1198,6 +1288,7 @@
 		<zh-CN>icon(RELIGION_ZOROASTRIANISM)祆教大教堂~icon(RELIGION_ZOROASTRIANISM)祆教大教堂~icon(RELIGION_ZOROASTRIANISM)祆教大教堂</zh-CN>
 		<pt-BR>icon(RELIGION_ZOROASTRIANISM)Catedral Zoroastrista~uma icon(RELIGION_ZOROASTRIANISM)Catedral Zoroastrista~icon(RELIGION_ZOROASTRIANISM)Catedrais Zoroastrista</pt-BR>
 		<ko>icon(RELIGION_ZOROASTRIANISM)조로아스터교 대성당~icon(RELIGION_ZOROASTRIANISM)조로아스터교 대성당~icon(RELIGION_ZOROASTRIANISM)조로아스터교 대성당</ko>
+		<fixja>icon(RELIGION_ZOROASTRIANISM)ゾロアスター教大聖堂~icon(RELIGION_ZOROASTRIANISM)ゾロアスター教大聖堂~icon(RELIGION_ZOROASTRIANISM)ゾロアスター教大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
@@ -1211,6 +1302,7 @@
 		<zh-CN>icon(RELIGION_JUDAISM)犹太教大教堂~icon(RELIGION_JUDAISM)犹太教大教堂~icon(RELIGION_JUDAISM)犹太教大教堂</zh-CN>
 		<pt-BR>icon(RELIGION_JUDAISM)Catedral Judaica~uma icon(RELIGION_JUDAISM)Catedral Judaica~icon(RELIGION_JUDAISM)Catedrais Judaicas</pt-BR>
 		<ko>icon(RELIGION_JUDAISM)유대교 대성당~icon(RELIGION_JUDAISM)유대교 대성당~icon(RELIGION_JUDAISM)유대교 대성당</ko>
+		<fixja>icon(RELIGION_JUDAISM)ユダヤ教大聖堂~icon(RELIGION_JUDAISM)ユダヤ教大聖堂~icon(RELIGION_JUDAISM)ユダヤ教大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
@@ -1224,6 +1316,7 @@
 		<zh-CN>icon(RELIGION_CHRISTIANITY)基督教大教堂~icon(RELIGION_CHRISTIANITY)基督教大教堂~icon(RELIGION_CHRISTIANITY)基督教大教堂</zh-CN>
 		<pt-BR>icon(RELIGION_CHRISTIANITY)Catedral Cristã~uma icon(RELIGION_CHRISTIANITY)Catedral Cristã~icon(RELIGION_CHRISTIANITY)Catedrais Cristãs</pt-BR>
 		<ko>icon(RELIGION_CHRISTIANITY)기독교 대성당~icon(RELIGION_CHRISTIANITY)기독교 대성당~icon(RELIGION_CHRISTIANITY)기독교 대성당</ko>
+		<fixja>icon(RELIGION_CHRISTIANITY)キリスト教大聖堂~icon(RELIGION_CHRISTIANITY)キリスト教大聖堂~icon(RELIGION_CHRISTIANITY)キリスト教大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
@@ -1237,6 +1330,7 @@
 		<zh-CN>icon(RELIGION_MANICHAEISM)摩尼教大教堂~icon(RELIGION_MANICHAEISM)摩尼教大教堂~icon(RELIGION_MANICHAEISM)摩尼教大教堂</zh-CN>
 		<pt-BR>icon(RELIGION_MANICHAEISM)Catedral Maniqueísta~uma icon(RELIGION_MANICHAEISM)Catedral Maniqueísta~icon(RELIGION_MANICHAEISM)Catedrais Maniqueístas</pt-BR>
 		<ko>icon(RELIGION_MANICHAEISM)마니교 대성당~icon(RELIGION_MANICHAEISM)마니교 대성당~icon(RELIGION_MANICHAEISM)마니교 대성당</ko>
+		<fixja>icon(RELIGION_MANICHAEISM)マニ教大聖堂~icon(RELIGION_MANICHAEISM)マニ教大聖堂~icon(RELIGION_MANICHAEISM)マニ教大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
@@ -1250,6 +1344,7 @@
 		<zh-CN>伯赞米尔圣火庙</zh-CN>
 		<pt-BR>O Adur Burzen-Mihr~Adur Burzen-Mihr</pt-BR>
 		<ko>아두르 부르젠미흐르</ko>
+		<fixja>アドゥー・ファーンバッグ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
@@ -1263,6 +1358,7 @@
 		<zh-CN>所罗门神殿</zh-CN>
 		<pt-BR>O Templo de Salomão~Templo de Salomão</pt-BR>
 		<ko>솔로몬 사원</ko>
+		<fixja>ソロモン神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
@@ -1276,6 +1372,7 @@
 		<zh-CN>圣墓教堂</zh-CN>
 		<pt-BR>A Igreja do Santo Sepulcro~Igreja do Santo Sepulcro</pt-BR>
 		<ko>성묘교회</ko>
+		<fixja>聖墳墓教会</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
@@ -1289,6 +1386,7 @@
 		<zh-CN>草庵</zh-CN>
 		<pt-BR>O Cao'an~Cao'an</pt-BR>
 		<ko>초암</ko>
+		<fixja>草庵寺</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
@@ -1302,6 +1400,7 @@
 		<zh-CN>金字塔群</zh-CN>
 		<pt-BR>As Pirâmides~Pirâmides</pt-BR>
 		<ko>피라미드</ko>
+		<fixja>ピラミッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
@@ -1315,6 +1414,7 @@
 		<zh-CN>神塔</zh-CN>
 		<pt-BR>O Zigurate</pt-BR>
 		<ko>대지구라트</ko>
+		<fixja>ジッグラト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
@@ -1328,6 +1428,7 @@
 		<zh-CN>神庙</zh-CN>
 		<pt-BR>O Oráculo~Oráculo</pt-BR>
 		<ko>신탁소~신탁소</ko>
+		<fixja>神託神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
@@ -1341,6 +1442,7 @@
 		<zh-CN>空中花园</zh-CN>
 		<pt-BR>Os Jardins Suspensos~Jardins Suspensos</pt-BR>
 		<ko>공중 정원</ko>
+		<fixja>空中庭園</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
@@ -1354,6 +1456,7 @@
 		<zh-CN>大墓群</zh-CN>
 		<pt-BR>A Necrópole~Necrópole</pt-BR>
 		<ko>네크로폴리스</ko>
+		<fixja>ネクロポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
@@ -1367,6 +1470,7 @@
 		<zh-CN>伊丝塔城门</zh-CN>
 		<pt-BR>A Porta de Ishtar~Porta de Ishtar</pt-BR>
 		<ko>이슈타르의 문</ko>
+		<fixja>イシュタルの門</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ALTAR_ATEN</zType>
@@ -1380,6 +1484,7 @@
 		<zh-CN>阿顿祭坛</zh-CN>
 		<pt-BR>Altar de Áton</pt-BR>
 		<ko>아톤의 제단</ko>
+		<fixja>アテンの祭壇</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
@@ -1393,6 +1498,7 @@
 		<zh-CN>大灯塔</zh-CN>
 		<pt-BR>O Farol~Farol</pt-BR>
 		<ko>등대</ko>
+		<fixja>灯台</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_APADANA</zType>
@@ -1406,6 +1512,7 @@
 		<zh-CN>阿帕达纳宫</zh-CN>
 		<pt-BR>A Apadana~Apadana</pt-BR>
 		<ko>아파다나</ko>
+		<fixja>アパダーナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
@@ -1419,6 +1526,7 @@
 		<zh-CN>陵墓</zh-CN>
 		<pt-BR>O Mausoléu~Mausoléu</pt-BR>
 		<ko>영묘</ko>
+		<fixja>霊廟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
@@ -1432,6 +1540,7 @@
 		<zh-CN>卫城</zh-CN>
 		<pt-BR>A Acrópole~Acrópole</pt-BR>
 		<ko>아크로폴리스</ko>
+		<fixja>アクロポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
@@ -1445,6 +1554,7 @@
 		<zh-CN>巨人像</zh-CN>
 		<pt-BR>O Colosso~Colosso</pt-BR>
 		<ko>거상</ko>
+		<fixja>巨像</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
@@ -1458,6 +1568,7 @@
 		<zh-CN>博物院</zh-CN>
 		<pt-BR>O Mouseion~Mouseion</pt-BR>
 		<ko>무세이온</ko>
+		<fixja>ムセイオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
@@ -1471,6 +1582,7 @@
 		<zh-CN>马克西穆斯竞技场</zh-CN>
 		<pt-BR>O Circo Máximo~Circo Máximo</pt-BR>
 		<ko>키르쿠스 막시무스</ko>
+		<fixja>チルコ・マッシモ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
@@ -1484,6 +1596,7 @@
 		<zh-CN>万神殿</zh-CN>
 		<pt-BR>O Panteão~Panteão</pt-BR>
 		<ko>판테온</ko>
+		<fixja>パンテオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
@@ -1497,6 +1610,7 @@
 		<zh-CN>圣索菲亚大教堂</zh-CN>
 		<pt-BR>A Santa Sofia~Santa Sofia</pt-BR>
 		<ko>하기아 소피아</ko>
+		<fixja>アヤソフィア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
@@ -1510,6 +1624,7 @@
 		<zh-CN>直街市集</zh-CN>
 		<pt-BR>O Soco da Rua Direita~Soco da Rua Direita</pt-BR>
 		<ko>직가</ko>
+		<fixja>ビア・レクタのスーク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
@@ -1523,6 +1638,7 @@
 		<zh-CN>劳里昂矿场~劳里昂矿场~劳里昂矿场</zh-CN>
 		<pt-BR>Mina de Laurion~uma Mina de Laurion~Minas de Laurion~a Mina de Laurion~da Mina de Laurion~na Mina de Laurion</pt-BR>
 		<ko>라우리온 광산~라우리온 광산~라우리온 광산</ko>
+		<fixja>ラウリオン鉱山~ラウリオン鉱山~ラウリオン鉱山</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
@@ -1536,6 +1652,7 @@
 		<zh-CN>古墓~古墓~古墓</zh-CN>
 		<pt-BR>Tumba Antiga~uma Tumba Antiga~Tumbas Antigas~a Tumba Antiga~da Tumba Antiga~na Tumba Antiga</pt-BR>
 		<ko>고분~고분~고분</ko>
+		<fixja>古墳~古墳~古墳</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
@@ -1549,6 +1666,7 @@
 		<zh-CN>国家纪念碑~国家纪念碑~国家纪念碑</zh-CN>
 		<pt-BR>Monumento Nacional~um Monumento Nacional~Monumentos Nacionais~o Monumento Nacional~do Monumento Nacional~no Monumento Nacional</pt-BR>
 		<ko>국가 기념물~국가 기념물~국가 기념물</ko>
+		<fixja>国定記念物~国定記念物~国定記念物</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
@@ -1562,6 +1680,7 @@
 		<zh-CN>神之配偶神祠~神之配偶神祠~神之配偶神祠</zh-CN>
 		<pt-BR>Santuário Cultista ao Consorte da Divindade~um Santuário Cultista ao Consorte da Divindade~Santuários Cultistas ao Consorte da Divindade</pt-BR>
 		<ko>신의 배우자 교단 신전~신의 배우자 교단 신전~신의 배우자 교단 신전</ko>
+		<fixja>神と結ばれし者の神殿~神と結ばれし者の神殿~神と結ばれし者の神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE_F</zType>
@@ -1575,6 +1694,7 @@
 		<zh-CN>神之配偶神祠~神之配偶神祠~神之配偶神祠</zh-CN>
 		<pt-BR>Santuário Cultista ao Consorte da Divindade~um Santuário Cultista ao Consorte da Divindade~Santuários Cultistas ao Consorte da Divindade</pt-BR>
 		<ko>신의 배우자 교단 신전~신의 배우자 교단 신전~신의 배우자 교단 신전</ko>
+		<fixja>神と結ばれし者の神殿~神と結ばれし者の神殿~神と結ばれし者の神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_TRIBE_PAGANISM</zType>
@@ -1588,6 +1708,7 @@
 		<zh-CN>部落神殿~部落神殿~部落神殿</zh-CN>
 		<pt-BR>Santuário Tribal~um Santuário Tribal~Santuários Tribais</pt-BR>
 		<ko>부족 신전~부족 신전~부족 신전</ko>
+		<fixja>部族の神殿~部族の神殿~部族の神殿</fixja>
 	</Entry>
 	<!-- Hints -->
 	<Entry>
@@ -1612,6 +1733,8 @@ link(SPECIALISTCLASS_FARMER)を開発すると、さらに改良することが�
 Pode ser melhorada ao treinar um link(SPECIALISTCLASS_FARMER).</pt-BR>
 		<ko>유닛들이 매 턴 소비하는 link(YIELD_FOOD) 생산량을 늘립니다. link(RESOURCE_WHEAT)이나 link(RESOURCE_BARLEY) 위, 혹은 link(IMPROVEMENT_GRANARY) 옆에 설치하면 link(UNIT_SETTLER,2)와 link(UNIT_WORKER,2) 유닛을 만들 때 사용되는 link(YIELD_GROWTH) 생산량도 증가합니다.
 link(SPECIALISTCLASS_FARMER)를 육성해 기능을 향상시킬 수 있습니다.</ko>
+		<fixja>ユニットが各ターンに消費するlink(YIELD_FOOD)をブーストします。link(RESOURCE_WHEAT)またはlink(RESOURCE_BARLEY)の上、あるいはlink(IMPROVEMENT_GRANARY)の隣に建てると、link(YIELD_GROWTH)が向上し、都市はlink(UNIT_SETTLER,2)またはlink(UNIT_WORKER,2)を速く生産できるようになります。
+link(SPECIALISTCLASS_FARMER)を開発すると、さらに改良することができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINE_HINT</zType>
@@ -1635,6 +1758,8 @@ link(YIELD_TRAINING)を増加させるlink(SPECIALISTCLASS_MINER)で発展させ
 Pode ser melhorada com um link(SPECIALISTCLASS_MINER) para aumentar link(YIELD_TRAINING).</pt-BR>
 		<ko>군사 유닛에 사용되는 link(YIELD_IRON) 생산량을 늘립니다. 언덕 위에 건설하면 생산량이 더욱 늘어납니다. link(RESOURCE_SILVER), link(RESOURCE_GOLD), link(RESOURCE_SALT), link(RESOURCE_GEM) 위에 설치하면 link(YIELD_MONEY)을 생산합니다.
 link(SPECIALISTCLASS_MINER)를 육성해 link(YIELD_TRAINING)을 증가시키도록 개량할 수 있습니다.</ko>
+		<fixja>多くの軍用ユニットに必要なlink(YIELD_IRON)の生産をブーストします。丘での出力がより高くなります。link(RESOURCE_SILVER)、link(RESOURCE_GOLD)、link(RESOURCE_SALT)、link(RESOURCE_GEM)の上に建てた場合、代わりにlink(YIELD_MONEY)をもたらします。
+link(YIELD_TRAINING)を増加させるlink(SPECIALISTCLASS_MINER)で発展させることができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY_HINT</zType>
@@ -1660,6 +1785,8 @@ Pode ser melhorada com um link(SPECIALISTCLASS_STONECUTTER) para produzir mais p
 
 
 link(SPECIALISTCLASS_STONECUTTER)을 육성해 석재와 link(YIELD_CIVICS)을 추가로 생산하도록 개량할 수 있습니다.</ko>
+		<fixja>ほとんどの建物と一部のユニットの構築に必要なlink(YIELD_STONE)の生産をブーストします。
+		より多くの石材と追加のlink(YIELD_CIVICS)を付与するlink(SPECIALISTCLASS_STONECUTTER)でさらに発展させることができます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LUMBERMILL_HINT</zType>
@@ -1673,6 +1800,7 @@ link(SPECIALISTCLASS_STONECUTTER)을 육성해 석재와 link(YIELD_CIVICS)을 �
 		<zh-CN>唯一会产出link(YIELD_WOOD)的改良设施。盖在河流上时产量特别高。</zh-CN>
 		<pt-BR>A única melhoria que produz link(YIELD_WOOD). Mais eficiente quando construída sobre um rio.</pt-BR>
 		<ko>link(YIELD_WOOD)를 생산하는 유일한 시설입니다. 강 위에 건설하면 더욱 효과적입니다.</ko>
+		<fixja>link(YIELD_WOOD)をもたらす唯一の建設物です。川に建てると、極めて効果的です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE_HINT</zType>
@@ -1686,6 +1814,7 @@ link(SPECIALISTCLASS_STONECUTTER)을 육성해 석재와 link(YIELD_CIVICS)을 �
 		<zh-CN>建立在link(RESOURCE_HORSE)上时会产出link(YIELD_ORDERS)，在其他资源上则会产出link(YIELD_FOOD)及link(YIELD_GROWTH)。</zh-CN>
 		<pt-BR>Produz link(YIELD_ORDERS) se construído sobre link(RESOURCE_HORSE) ou produz link(YIELD_FOOD) e link(YIELD_GROWTH) sobre outros recursos.</pt-BR>
 		<ko>link(RESOURCE_HORSE)이나 link(YIELD_FOOD) 위에 건설하면 link(YIELD_ORDERS)을 생산하며 다른 자원 위에 설치하면 link(YIELD_GROWTH)을 생산합니다.</ko>
+		<fixja>link(RESOURCE_HORSE)がいる場所に建てた場合はlink(YIELD_ORDERS)をもたらし、他の資源がある場所ではlink(YIELD_FOOD)とlink(YIELD_GROWTH)をもたらします。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CAMP_HINT</zType>
@@ -1699,6 +1828,7 @@ link(SPECIALISTCLASS_STONECUTTER)을 육성해 석재와 link(YIELD_CIVICS)을 �
 		<zh-CN>建立在不同的资源上会产出不同的收益。如果建立在link(RESOURCE_ELEPHANT)或link(RESOURCE_CAMEL)上，且已经拥有必要的科技，城市就能建造需要这些资源的单位。建立在link(IMPROVEMENT_LUMBERMILL)旁产量特别高。</zh-CN>
 		<pt-BR>Produz recursos a depender da casa sobre o qual é construído. Se construído sobre link(RESOURCE_ELEPHANT) ou link(RESOURCE_CAMEL), permitirá que a cidade produza unidades que necessitem desses recursos assim que a tecnologia necessária seja adquirida. É mais eficiente junto a uma link(IMPROVEMENT_LUMBERMILL).</pt-BR>
 		<ko>타일에 있는 자원에 따라 생산품이 달라집니다. link(RESOURCE_ELEPHANT)나 link(RESOURCE_CAMEL) 위에 생산했다면 기술 개발이 끝난 후 해당 자원을 필요로 하는 유닛을 생산할 수 있게 됩니다. link(IMPROVEMENT_LUMBERMILL) 옆에 건설하면 더욱 효과적입니다.</ko>
+		<fixja>どの資源のある場所で建設されたかによって、それに応じた産出物が得られます。link(RESOURCE_ELEPHANT)やlink(RESOURCE_CAMEL)がいる場所に建てた場合、必要な技術を取得すると、都市はそれらの資源を必要とするユニットを構築できるようになります。link(IMPROVEMENT_LUMBERMILL)の隣に建てると、極めて効果的です。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GROVE_HINT</zType>
@@ -1712,6 +1842,7 @@ link(SPECIALISTCLASS_STONECUTTER)을 육성해 석재와 link(YIELD_CIVICS)을 �
 		<zh-CN>通常会建立在link(CONCEPT_LUXURY)资源上，能根据资源提供不同的收益。</zh-CN>
 		<pt-BR>Normalmente é construído sobre um recurso de link(CONCEPT_LUXURY,1) e produz benefícios diferentes em função de tal recurso.</pt-BR>
 		<ko>일반적으로 link(CONCEPT_LUXURY,1) 자원 위에 설치합니다. 자원에 따라 생산품이 달라집니다.</ko>
+		<fixja>通常、link(CONCEPT_LUXURY)の資源がある場所に建設され、資源に応じて異なる産出物をもたらします。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GRANARY_HINT</zType>
@@ -1735,6 +1866,8 @@ Les greniers à grains ne sont associés à aucun link(CONCEPT_SPECIALIST).</fr>
 Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<ko>link(YIELD_GROWTH)을 제공하며 인접한 link(IMPROVEMENT_FARM,2)의 효율을 높입니다. link(IMPROVEMENT_FARM,2)에 둘러싸이도록 배치하면 가장 효과적입니다.
 곡창에는 연관 link(CONCEPT_SPECIALIST)이 없습니다.</ko>
+		<fixja>link(YIELD_GROWTH)を付加し、隣接するlink(IMPROVEMENT_FARM,2)をブーストします。link(IMPROVEMENT_FARM,2)に囲まれている場合に最も効果的です。
+穀物倉は関連するlink(CONCEPT_SPECIALIST)を持ちません。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_APEDEMEK</zType>
@@ -1748,6 +1881,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>阿皮德马克神殿~阿皮德马克神殿</zh-CN>
 		<pt-BR>Santuário de Apedemek~um Santuário de Apedemek</pt-BR>
 		<ko>아베데메크 신전~아베데메크 신전</ko>
+		<fixja>アペデマクの神殿~アペデマクの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MANDULIS</zType>
@@ -1761,6 +1895,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>梅鲁尔神殿~梅鲁尔神殿</zh-CN>
 		<pt-BR>Santuário de Melul~um Santuário de Melul</pt-BR>
 		<ko>멜룰 신전~멜룰 신전</ko>
+		<fixja>メルルの神殿~メルルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_AMUN</zType>
@@ -1774,6 +1909,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>阿马尼神殿~阿马尼神殿</zh-CN>
 		<pt-BR>Santuário de Amani~um Santuário de Amani</pt-BR>
 		<ko>아마니 신전~아마니 신전</ko>
+		<fixja>アマニの神殿~アマニの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_SEBIUMEKER</zType>
@@ -1787,6 +1923,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>萨博马凯神殿~萨博马凯神殿</zh-CN>
 		<pt-BR>Santuário de Sabomakal~um Santuário de Sabomakal</pt-BR>
 		<ko>사보마칼 신전~사보마칼 신전</ko>
+		<fixja>セビウメケルの神殿~セビウメケルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_KUSHITE_PYRAMIDS</zType>
@@ -1800,6 +1937,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>库希特金字塔群</zh-CN>
 		<pt-BR>Pirâmides Cuxitas</pt-BR>
 		<ko>쿠시 피라미드</ko>
+		<fixja>クシュのピラミッド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ASTAR</zType>
@@ -1813,6 +1951,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>阿丝塔神殿~阿丝塔神殿</zh-CN>
 		<pt-BR>Santuário de Astar~um Santuário de Astar</pt-BR>
 		<ko>아스타르 신전~아스타르 신전</ko>
+		<fixja>アスタルの神殿~アスタルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MAHREM</zType>
@@ -1826,6 +1965,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>马赫尔神殿~马赫尔神殿</zh-CN>
 		<pt-BR>Santuário de Mahrem~um Santuário de Mahrem</pt-BR>
 		<ko>마흐렘 신전~마흐렘 신전</ko>
+		<fixja>マヘレムの神殿~マヘレムの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_BEHER</zType>
@@ -1839,6 +1979,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>贝赫尔神殿~贝赫尔神殿</zh-CN>
 		<pt-BR>Santuário de Beher~um Santuário de Beher</pt-BR>
 		<ko>베헤르 신전~베헤르 신전</ko>
+		<fixja>ベヘルの神殿~ベヘルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MEDR</zType>
@@ -1852,6 +1993,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>麦德尔神殿~麦德尔神殿</zh-CN>
 		<pt-BR>Santuário de Meder~um Santuário de Meder</pt-BR>
 		<ko>메드르 신전~메데르 신전</ko>
+		<fixja>メドルの神殿~メドルの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AKSUM_STELE_1</zType>
@@ -1865,6 +2007,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>石碑~石碑~石碑</zh-CN>
 		<pt-BR>Estela~uma Estela~Estelas</pt-BR>
 		<ko>스텔라~스텔라~스텔라</ko>
+		<fixja>ステッレ~ステッレ~ステッレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AKSUM_STELE_1_DYNAMIC</zType>
@@ -1878,6 +2021,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>{0_name}的石碑~{0_name}的石碑~{0_name}的石碑</zh-CN>
 		<pt-BR>Estela de {0_name}~uma Estela de {0_name}~Estelas de {0_name}</pt-BR>
 		<ko>{0_name}의 스텔라~{0_name}의 스텔라~{0_name}의 스텔라</ko>
+		<fixja>{0_name}のステッレ~{0_name}のステッレ~{0_name}のステッレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AKSUM_STELE_2</zType>
@@ -1891,6 +2035,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>大型石碑~大型石碑~大型石碑</zh-CN>
 		<pt-BR>Grande Estela~uma Grande Estela~Grandes Estelas</pt-BR>
 		<ko>거대 스텔라~거대 스텔라~거대 스텔라</ko>
+		<fixja>大ステッレ~大ステッレ~大ステッレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AKSUM_STELE_2_DYNAMIC</zType>
@@ -1904,6 +2049,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>{0_name}的大型石碑~{0_name}的大型石碑~{0_name}的大型石碑</zh-CN>
 		<pt-BR>Grande Estela de {0_name}~uma Grande Estela de {0_name}~Grandes Estelas de {0_name}</pt-BR>
 		<ko>{0_name}의 거대 스텔라~{0_name}의 거대 스텔라~{0_name}의 거대 스텔라</ko>
+		<fixja>{0_name}の大ステッレ~{0_name}の大ステッレ~{0_name}の大ステッレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AKSUM_STELE_3</zType>
@@ -1917,6 +2063,7 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>传奇石碑~传奇石碑~传奇石碑</zh-CN>
 		<pt-BR>Estela Lendária~uma Estela Lendária~Estelas Lendárias</pt-BR>
 		<ko>전설 스텔라~전설 스텔라~전설 스텔라</ko>
+		<fixja>壮大なステッレ~壮大なステッレ~壮大なステッレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AKSUM_STELE_3_DYNAMIC</zType>
@@ -1930,5 +2077,6 @@ Granéis não possuem qualquer link(CONCEPT_SPECIALIST) associado.</pt-BR>
 		<zh-CN>{0_name}的传奇石碑~{0_name}的传奇石碑~{0_name}的传奇石碑</zh-CN>
 		<pt-BR>Estela Lendária de {0_name}~uma Estela Lendária de {0_name}~Estelas Lendárias de {0_name}</pt-BR>
 		<ko>{0_name}의 전설 스텔라~{0_name}의 전설 스텔라~{0_name}의 전설 스텔라</ko>
+		<fixja>{0_name}の壮大なステッレ~{0_name}の壮大なステッレ~{0_name}の壮大なステッレ</fixja>
 	</Entry>
 </Root>

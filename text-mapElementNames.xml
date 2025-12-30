@@ -26,6 +26,7 @@
 		<zh-CN>海峡</zh-CN>
 		<pt-BR>O Canal~o Canal~do Canal</pt-BR>
 		<ko>수로</ko>
+		<fixja>水路</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GREAT_EUROPEAN_PRIMEVAL_FOREST</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>欧洲大原始森林</zh-CN>
 		<pt-BR>Grande Floresta Primitiva Europeia~a Grande Floresta Primitiva Europeia~da Grande Floresta Primitiva Europeia</pt-BR>
 		<ko>유럽 대원시림</ko>
+		<fixja>ヨーロッパ大原生林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NORTHERN_OCEAN</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>北海</zh-CN>
 		<pt-BR>Oceano Norte~o Oceano Norte~do Oceano Norte</pt-BR>
 		<ko>북해</ko>
+		<fixja>北洋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AATAL_VALLEY</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>亚拖峡谷</zh-CN>
 		<pt-BR>Vale do Aatal~o Vale do Aatal~do Vale do Aatal</pt-BR>
 		<ko>아탈 계곡</ko>
+		<fixja>アータール渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACARLAR_FLOODPLAIN_FOREST</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>阿卡拉洪泛区森林</zh-CN>
 		<pt-BR>Floresta de Inundação de Acarlar~a Floresta de Inundação de Acarlar~da Floresta de Inundação de Acarlar</pt-BR>
 		<ko>아칼라르 범람원 숲</ko>
+		<fixja>アカーラー氾濫原森林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHELOUS_RIVER</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>阿克洛奥斯河</zh-CN>
 		<pt-BR>Rio Aqueloo~o Rio Aqueloo~do Rio Aqueloo</pt-BR>
 		<ko>아켈로스강</ko>
+		<fixja>アケロス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADDUA_RIVER</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>阿达河</zh-CN>
 		<pt-BR>Rio Addua~o Rio Addua~do Rio Addua</pt-BR>
 		<ko>아두아강</ko>
+		<fixja>アドゥア川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ADRIATIC_SEA</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>亚得里亚海</zh-CN>
 		<pt-BR>Mar Adriático~o Mar Adriático~do Mar Adriático</pt-BR>
 		<ko>아드리아해</ko>
+		<fixja>アドリア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AEGEAN_SEA</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>爱琴海</zh-CN>
 		<pt-BR>Mar Egeu~o Mar Egeu~do Mar Egeu</pt-BR>
 		<ko>에게해</ko>
+		<fixja>エーゲ海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AEGYPTUS</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>埃古普托斯</zh-CN>
 		<pt-BR>Egito~o Egito~do Egito</pt-BR>
 		<ko>아이깁투스</ko>
+		<fixja>アイギュプトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AEGINA_ISLAND</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>埃伊纳岛</zh-CN>
 		<pt-BR>Ilha Egina~a Ilha Egina~da Ilha Egina</pt-BR>
 		<ko>아이기나섬</ko>
+		<fixja>エギナ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AEOLIAN_ISLAND</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>埃奥利群岛</zh-CN>
 		<pt-BR>Ilha Eólia~a Ilha Eólia~da Ilha Eólia</pt-BR>
 		<ko>아이올리아섬</ko>
+		<fixja>エオリア島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AFRICA_PROCONSULARIS</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>阿非利加行省</zh-CN>
 		<pt-BR>África Proconsular~a África Proconsular~da África Proconsular</pt-BR>
 		<ko>아프리카 프로콘술라리스</ko>
+		<fixja>アフリカ・プロコンスラリス属州</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AINTAB_PLATEAU</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>安塔布高原</zh-CN>
 		<pt-BR>Planalto de Aintab~o Planalto de Aintab~do Planalto de Aintab</pt-BR>
 		<ko>아인타브고원</ko>
+		<fixja>アインタブ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALAMUT_VALLEY</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>阿拉穆峡谷</zh-CN>
 		<pt-BR>Vale do Alamut~o Vale do Alamut~do Vale do Alamut</pt-BR>
 		<ko>알라무트 계곡</ko>
+		<fixja>アラムート渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALBANUS_MONS</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>阿尔班山</zh-CN>
 		<pt-BR>Albanus Mons~o Albanus Mons~do Albanus Mons</pt-BR>
 		<ko>알바누스 몬스</ko>
+		<fixja>アルバヌス・モンス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALBIS_RIVER</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>易北河</zh-CN>
 		<pt-BR>Rio Albis~o Rio Albis~do Rio Albis</pt-BR>
 		<ko>알비스강</ko>
+		<fixja>アルビス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALBORAN_SEA</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>阿尔沃兰海</zh-CN>
 		<pt-BR>Mar de Alborão~o Mar de Alborão~do Mar de Alborão</pt-BR>
 		<ko>알보란해</ko>
+		<fixja>アルボラン海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALBORZ</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>阿勒布尔兹山脉</zh-CN>
 		<pt-BR>Cordilheira de Alborz~a Cordilheira de Alborz~da Cordilheira de Alborz</pt-BR>
 		<ko>하르보르즈산맥</ko>
+		<fixja>ハーバーズ山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALCARRIA_HEATH</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>艾卡雷亚荒原</zh-CN>
 		<pt-BR>Charneca de Alcarria~a Charneca de Alcarria~da Charneca de Alcarria</pt-BR>
 		<ko>알카리아 황야</ko>
+		<fixja>アルカリア・ヒース</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALKYONIDES_GULF</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>埃克优尼德海湾</zh-CN>
 		<pt-BR>Golfo Alcionides~o Golfo Alcionides~do Golfo Alcionides</pt-BR>
 		<ko>알키오니데스만</ko>
+		<fixja>アルキオニデス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALPHEIOS_RIVER</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>阿尔菲奥斯河</zh-CN>
 		<pt-BR>Rio Alfeios~o Rio Alfeios~do Rio Alfeios</pt-BR>
 		<ko>알페이오스강</ko>
+		<fixja>​アルフィオス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALPINE_RHINE_VALLEY</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>阿尔卑斯莱茵谷地</zh-CN>
 		<pt-BR>Vale do Reno~o Vale do Reno~do Vale do Reno</pt-BR>
 		<ko>알파인 라인 계곡</ko>
+		<fixja>​アルペンライン渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALVAND</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>阿凡德</zh-CN>
 		<pt-BR>Cordilheira do Alvand~a Cordilheira do Alvand~da Cordilheira do Alvand</pt-BR>
 		<ko>알반드</ko>
+		<fixja>アルヴァンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AMANUS_MOUNTAINS</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>阿曼诺斯山</zh-CN>
 		<pt-BR>Montanhas Amanus~as Montanhas Amanus~das Montanhas Amanus</pt-BR>
 		<ko>아마누스산맥</ko>
+		<fixja>​アマヌス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AMARDUS_RIVER</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>阿玛德斯河</zh-CN>
 		<pt-BR>Rio Amardus~o Rio Amardus~do Rio Amardus</pt-BR>
 		<ko>아마르두스강</ko>
+		<fixja>アマルダス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AMARI_VALLEY</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>阿玛瑞山谷</zh-CN>
 		<pt-BR>Vale de Amári~o Vale de Amári~do Vale de Amári</pt-BR>
 		<ko>아마리 계곡</ko>
+		<fixja>アマリ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AMBRACIAN_GULF</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>安布拉基亚湾</zh-CN>
 		<pt-BR>Golfo de Ambrácia~o Golfo de Ambrácia~do Golfo de Ambrácia</pt-BR>
 		<ko>암브라키코스만</ko>
+		<fixja>アンブラシア湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AMISIA_RIVER</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>埃姆河</zh-CN>
 		<pt-BR>Rio Amisia~o Rio Amisia~do Rio Amisia</pt-BR>
 		<ko>아미시아강</ko>
+		<fixja>アミシア川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ANAS_RIVER</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>阿纳斯河</zh-CN>
 		<pt-BR>Rio Anas~o Rio Anas~do Rio Anas</pt-BR>
 		<ko>아나스강</ko>
+		<fixja>​アナス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ANATOLIAN_CONIFER_FOREST</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>安纳托力亚针叶林</zh-CN>
 		<pt-BR>Floresta Anatólia de Coníferas~a Floresta Anatólia de Coníferas~da Floresta Anatólia de Coníferas</pt-BR>
 		<ko>아나톨리아 침엽수림</ko>
+		<fixja>アナトリア針葉樹林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ANATOLIAN_PLATEAU</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>安纳托力亚高原</zh-CN>
 		<pt-BR>Planalto de Anatólia~o Planalto de Anatólia~do Planalto de Anatólia</pt-BR>
 		<ko>아나톨리아고원</ko>
+		<fixja>アナトリア高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ANDORRA_VALLEY</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>安多拉峡谷</zh-CN>
 		<pt-BR>Vale de Andorra~o Vale de Andorra~do Vale de Andorra</pt-BR>
 		<ko>안도라 계곡</ko>
+		<fixja>アンドラ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ANDROS_ISLAND</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>安德罗斯岛</zh-CN>
 		<pt-BR>Ilha de Andros~a Ilha de Andros~da Ilha de Andros</pt-BR>
 		<ko>안드로스섬</ko>
+		<fixja>アンドロス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AOOS_RIVER</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>阿乌斯河</zh-CN>
 		<pt-BR>Rio Aous~o Rio Aous~do Rio Aous</pt-BR>
 		<ko>아오오스강</ko>
+		<fixja>​アオース川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_APENNINE_MOUNTAINS</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>亚平宁山脉</zh-CN>
 		<pt-BR>Cordilheira dos Apeninos~a Cordilheira dos Apeninos~da Cordilheira dos Apeninos</pt-BR>
 		<ko>아펜니노산맥</ko>
+		<fixja>アペニン山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_APUAN_ALPS</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>阿普安阿尔卑斯山脉</zh-CN>
 		<pt-BR>Alpes Apuanos~os Alpes Apuanos~dos Alpes Apuanos</pt-BR>
 		<ko>아푸아니 고산</ko>
+		<fixja>​アプアンアルプス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARABIAN_DESERT</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>阿拉伯沙漠</zh-CN>
 		<pt-BR>Deserto da Arábia~o Deserto da Arábia~do Deserto da Arábia</pt-BR>
 		<ko>아라비아사막</ko>
+		<fixja>​アラビア砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARABIAN_SEA</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>阿拉伯海</zh-CN>
 		<pt-BR>Mar Arábico~o Mar Arábico~do Mar Arábico</pt-BR>
 		<ko>아라비아해</ko>
+		<fixja>​アラビア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARAL_SEA</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>咸海</zh-CN>
 		<pt-BR>Mar de Aral~o Mar de Aral~do Mar de Aral</pt-BR>
 		<ko>아랄해</ko>
+		<fixja>アラル海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARAXES_RIVER</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>阿拉克斯河</zh-CN>
 		<pt-BR>Rio Araxes~o Rio Araxes~do Rio Araxes</pt-BR>
 		<ko>아락세스강</ko>
+		<fixja>アラクセス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARGIMUSCO_PLATEAU</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>阿尔吉慕斯科高原</zh-CN>
 		<pt-BR>Planalto de Argimusco~o Planalto de Argimusco~do Planalto de Argimusco</pt-BR>
 		<ko>아르기무스코고원</ko>
+		<fixja>アルギムスコ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARGOLIC_GULF</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>阿尔戈利海湾</zh-CN>
 		<pt-BR>Golfo de Argos~o Golfo de Argos~do Golfo de Argos</pt-BR>
 		<ko>아르골리스만</ko>
+		<fixja>アルゴリック湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARGON_PEDION</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>亚刚沛迪盆地</zh-CN>
 		<pt-BR>Planície de Argon Pedion~a Planície de Argon Pedion~da Planície de Argon Pedion</pt-BR>
 		<ko>아르곤 페디온</ko>
+		<fixja>アルゴンペディオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARNUS_RIVER</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>阿努斯河</zh-CN>
 		<pt-BR>Rio Arnus~o Rio Arnus~do Rio Arnus</pt-BR>
 		<ko>아르누스강</ko>
+		<fixja>アルヌス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ASOPUS_RIVER</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>阿索普斯河</zh-CN>
 		<pt-BR>Rio Asopo~o Rio Asopo~do Rio Asopo</pt-BR>
 		<ko>아소푸스강</ko>
+		<fixja>アソプス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ASSINUS_RIVER</zType>
@@ -624,6 +670,7 @@
 		<zh-CN>阿西努斯河</zh-CN>
 		<pt-BR>Rio Assinus~o Rio Assinus~do Rio Assinus</pt-BR>
 		<ko>아시누스강</ko>
+		<fixja>​アシヌス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ASTABORAS_RIVER</zType>
@@ -637,6 +684,7 @@
 		<zh-CN>阿斯塔博拉斯河</zh-CN>
 		<pt-BR>Rio Astaboras~o Rio Astaboras~do Rio Astaboras</pt-BR>
 		<ko>아스타보라스강</ko>
+		<fixja>アスタボラス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ATAGIS_RIVER</zType>
@@ -650,6 +698,7 @@
 		<zh-CN>阿塔吉斯河</zh-CN>
 		<pt-BR>Rio Atagis~o Rio Atagis~do Rio Atagis</pt-BR>
 		<ko>아타기스강</ko>
+		<fixja>​​アタギス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ATBARA_RIVER</zType>
@@ -663,6 +712,7 @@
 		<zh-CN>阿特巴拉河</zh-CN>
 		<pt-BR>Rio Atbara~o Rio Atbara~do Rio Atbara</pt-BR>
 		<ko>앗바라강</ko>
+		<fixja>アトバラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ATLANTIC_OCEAN</zType>
@@ -676,6 +726,7 @@
 		<zh-CN>大西洋</zh-CN>
 		<pt-BR>Oceano Atlântico~o Oceano Atlântico~do Oceano Atlântico</pt-BR>
 		<ko>대서양</ko>
+		<fixja>大西洋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ATLAS_MOUNTAINS</zType>
@@ -689,6 +740,7 @@
 		<zh-CN>阿特拉斯山脉</zh-CN>
 		<pt-BR>Cordilheira do Atlas~a Cordilheira do Atlas~da Cordilheira do Atlas</pt-BR>
 		<ko>아틀라스산맥</ko>
+		<fixja>アトラス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ATREK_RIVER</zType>
@@ -702,6 +754,7 @@
 		<zh-CN>阿特雷克河</zh-CN>
 		<pt-BR>Rio Atrek~o Rio Atrek~do Rio Atrek</pt-BR>
 		<ko>아트레크강</ko>
+		<fixja>アトレック川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AUFIDUS_RIVER</zType>
@@ -715,6 +768,7 @@
 		<zh-CN>奥菲杜斯河</zh-CN>
 		<pt-BR>Rio Aufidus~o Rio Aufidus~do Rio Aufidus</pt-BR>
 		<ko>아우피두스강</ko>
+		<fixja>アウフィドゥス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AURES_MOUNTAINS</zType>
@@ -728,6 +782,7 @@
 		<zh-CN>奥雷斯山脉</zh-CN>
 		<pt-BR>Montanhas Aurés~as Montanhas Aurés~das Montanhas Aurés</pt-BR>
 		<ko>아우레스산맥</ko>
+		<fixja>オーレス山地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AVARAYR_PLAIN</zType>
@@ -741,6 +796,7 @@
 		<zh-CN>阿瓦雷尔平原</zh-CN>
 		<pt-BR>Planície de Avarair~a Planície de Avarair~da Planície de Avarair</pt-BR>
 		<ko>아바라이르평야</ko>
+		<fixja>アヴァライル平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AXIOS_RIVER</zType>
@@ -754,6 +810,7 @@
 		<zh-CN>瓦达里奥斯河</zh-CN>
 		<pt-BR>Rio Vardarios~o Rio Vardarios~do Rio Vardarios</pt-BR>
 		<ko>바르다리오스강</ko>
+		<fixja>バルダリオス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BA'AL_KORNINE</zType>
@@ -767,6 +824,7 @@
 		<zh-CN>双角神山</zh-CN>
 		<pt-BR>Montanha de Ba'al Kornine~a Montanha de Ba'al Kornine~da Montanha de Ba'al Kornine</pt-BR>
 		<ko>바알 코르니네</ko>
+		<fixja>バアルコルニン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BABYLONIAN_DESERT</zType>
@@ -780,6 +838,7 @@
 		<zh-CN>巴比伦沙漠</zh-CN>
 		<pt-BR>Deserto Babilônico~o Deserto Babilônico~do Deserto Babilônico</pt-BR>
 		<ko>바빌로니아사막</ko>
+		<fixja>バビロニア砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BACTRIA_VALLEY</zType>
@@ -793,6 +852,7 @@
 		<zh-CN>巴克特里亚山谷</zh-CN>
 		<pt-BR>Vale da Báctria~o Vale da Báctria~do Vale da Báctria</pt-BR>
 		<ko>박트리아 계곡</ko>
+		<fixja>バクトリア渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAETIS_RIVER</zType>
@@ -806,6 +866,7 @@
 		<zh-CN>贝帝斯河</zh-CN>
 		<pt-BR>Rio Baetis~o Rio Baetis~do Rio Baetis</pt-BR>
 		<ko>바에티스강</ko>
+		<fixja>バエティス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAGRADAS_RIVER</zType>
@@ -819,6 +880,7 @@
 		<zh-CN>巴格拉达斯河</zh-CN>
 		<pt-BR>Rio Bagradas~o Rio Bagradas~do Rio Bagradas</pt-BR>
 		<ko>바그라다스강</ko>
+		<fixja>バグラダス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAKHTEGAN_LAKE</zType>
@@ -832,6 +894,7 @@
 		<zh-CN>巴赫特根湖</zh-CN>
 		<pt-BR>Lago Bakhtegan~o Lago Bakhtegan~do Lago Bakhtegan</pt-BR>
 		<ko>바크테간호</ko>
+		<fixja>バフテガン湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BALERIC_SEA</zType>
@@ -845,6 +908,7 @@
 		<zh-CN>巴利阿里海</zh-CN>
 		<pt-BR>Mar das Baleares~o Mar das Baleares~do Mar das Baleares</pt-BR>
 		<ko>발레아레스해</ko>
+		<fixja>バレアレス海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BALKAN_MOUNTAINS</zType>
@@ -858,6 +922,7 @@
 		<zh-CN>巴尔干山脉</zh-CN>
 		<pt-BR>Cordilheira dos Bálcãs~a Cordilheira dos Bálcãs~da Cordilheira dos Bálcãs</pt-BR>
 		<ko>발칸산맥</ko>
+		<fixja>バルカン山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARAJIN_FOREST</zType>
@@ -871,6 +936,7 @@
 		<zh-CN>巴拉金森林</zh-CN>
 		<pt-BR>Floresta de Barajin~a Floresta de Barajin~da Floresta de Barajin</pt-BR>
 		<ko>바라진 숲</ko>
+		<fixja>バラジンの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARKA_RIVER</zType>
@@ -884,6 +950,7 @@
 		<zh-CN>巴尔卡河</zh-CN>
 		<pt-BR>Rio Barka~o Rio Barka~do Rio Barka</pt-BR>
 		<ko>바르카강</ko>
+		<fixja>バルカ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARNIM_PLATEAU</zType>
@@ -897,6 +964,7 @@
 		<zh-CN>巴尔宁高原</zh-CN>
 		<pt-BR>Planalto de Barnim~o Planalto de Barnim~do Planalto de Barnim</pt-BR>
 		<ko>바르님고원</ko>
+		<fixja>バルニム高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BASHAGARD_MOUNTAINS</zType>
@@ -910,6 +978,7 @@
 		<zh-CN>巴沙加德山脉</zh-CN>
 		<pt-BR>Montanhas Bashagard~as Montanhas Bashagard~das Montanhas Bashagard</pt-BR>
 		<ko>바샤가르드산맥</ko>
+		<fixja>バシャガルド山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAY_OF_ALGHERO</zType>
@@ -923,6 +992,7 @@
 		<zh-CN>阿尔盖罗湾</zh-CN>
 		<pt-BR>Baía de Algero~a Baía de Algero~da Baía de Algero</pt-BR>
 		<ko>알게로만</ko>
+		<fixja>アルゲーロ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAY_OF_PALMA</zType>
@@ -936,6 +1006,7 @@
 		<zh-CN>帕尔玛湾</zh-CN>
 		<pt-BR>Baía de Palma~a Baía de Palma~da Baía de Palma</pt-BR>
 		<ko>팔마만</ko>
+		<fixja>パルマ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAYUDA_DESERT</zType>
@@ -949,6 +1020,7 @@
 		<zh-CN>巴尤达沙漠</zh-CN>
 		<pt-BR>Deserto de Baiuda~o Deserto de Baiuda~do Deserto de Baiuda</pt-BR>
 		<ko>바유다사막</ko>
+		<fixja>バユダ砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAZMAN</zType>
@@ -962,6 +1034,7 @@
 		<zh-CN>巴兹曼火山</zh-CN>
 		<pt-BR>Vulcão de Bazman~o Vulcão de Bazman~do Vulcão de Bazman</pt-BR>
 		<ko>바즈만 화산</ko>
+		<fixja>バズマン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BEQAA_VALLEY</zType>
@@ -975,6 +1048,7 @@
 		<zh-CN>贝卡谷</zh-CN>
 		<pt-BR>Vale do Beca~o Vale do Beca~do Vale do Beca</pt-BR>
 		<ko>베카 계곡</ko>
+		<fixja>ベッカー渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BIALOWIEZA_FOREST</zType>
@@ -988,6 +1062,7 @@
 		<zh-CN>比亚洛维札森林</zh-CN>
 		<pt-BR>Floresta Białowieża~a Floresta Białowieża~da Floresta Białowieża</pt-BR>
 		<ko>비알로위에자 숲</ko>
+		<fixja>ビアロウィエザの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BIKKU_BITTI</zType>
@@ -1001,6 +1076,7 @@
 		<zh-CN>比提山</zh-CN>
 		<pt-BR>Montanha de Bikku Bitti~a Montanha de Bikku Bitti~da Montanha de Bikku Bitti</pt-BR>
 		<ko>비쿠 비티</ko>
+		<fixja>ビクービティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BIZERTE_LAKE</zType>
@@ -1014,6 +1090,7 @@
 		<zh-CN>比瑟特湖</zh-CN>
 		<pt-BR>Lago de Bizerta~o Lago de Bizerta~do Lago de Bizerta</pt-BR>
 		<ko>비제르테호</ko>
+		<fixja>ビゼルト湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BJELOPAVLICI_VALLEY</zType>
@@ -1027,6 +1104,7 @@
 		<zh-CN>比耶洛帕利奇谷</zh-CN>
 		<pt-BR>Vale de Bjelopavlići~o Vale de Bjelopavlići~do Vale de Bjelopavlići</pt-BR>
 		<ko>브제로파블리치 계곡</ko>
+		<fixja>ビェロパヴリチ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BLACK_SEA</zType>
@@ -1040,6 +1118,7 @@
 		<zh-CN>黑海</zh-CN>
 		<pt-BR>Mar Negro~o Mar Negro~do Mar Negro</pt-BR>
 		<ko>흑해</ko>
+		<fixja>黒海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BLUE_NILE</zType>
@@ -1053,6 +1132,7 @@
 		<zh-CN>蓝色尼罗河</zh-CN>
 		<pt-BR>Nilo Azul~o Nilo Azul~do Nilo Azul</pt-BR>
 		<ko>청나일강</ko>
+		<fixja>青ナイル川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BOEOTIAN_PLAIN</zType>
@@ -1066,6 +1146,7 @@
 		<zh-CN>维奥提安平原</zh-CN>
 		<pt-BR>Planície Beócia~a Planície Beócia~da Planície Beócia</pt-BR>
 		<ko>보이오티아평야</ko>
+		<fixja>ボイオティア平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BORYSTHENES_RIVER</zType>
@@ -1079,6 +1160,7 @@
 		<zh-CN>鲍里斯泰恩斯河</zh-CN>
 		<pt-BR>Rio Borístenes~o Rio Borístenes~do Rio Borístenes</pt-BR>
 		<ko>보리스테네스강</ko>
+		<fixja>ボリステネス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BOSPORUS</zType>
@@ -1092,6 +1174,7 @@
 		<zh-CN>博斯普鲁斯</zh-CN>
 		<pt-BR>Estreito de Bósforo~o Estreito de Bósforo~do Estreito de Bósforo</pt-BR>
 		<ko>보스포루스</ko>
+		<fixja>ボスポラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BOUBIN_FOREST</zType>
@@ -1105,6 +1188,7 @@
 		<zh-CN>布宾森林</zh-CN>
 		<pt-BR>Floresta de Boubín~a Floresta de Boubín~da Floresta de Boubín</pt-BR>
 		<ko>보우빈 숲</ko>
+		<fixja>ブービンの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUGULMA-BELEBEY_UPLAND</zType>
@@ -1118,6 +1202,7 @@
 		<zh-CN>布古利马-别列别伊高地</zh-CN>
 		<pt-BR>Planalto Bugulma-Belebey~o Planalto Bugulma-Belebey~do Planalto Bugulma-Belebey</pt-BR>
 		<ko>부굴마-벨레베이 고지</ko>
+		<fixja>ブグルマ・ベレベイ高地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BUTANA</zType>
@@ -1131,6 +1216,7 @@
 		<zh-CN>布塔纳</zh-CN>
 		<pt-BR>Região de Butana~a Região de Butana~da Região de Butana</pt-BR>
 		<ko>부타나</ko>
+		<fixja>ブタナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAECUS_RIVER</zType>
@@ -1144,6 +1230,7 @@
 		<zh-CN>凯库斯河</zh-CN>
 		<pt-BR>Rio Caicos~o Rio Caicos~do Rio Caicos</pt-BR>
 		<ko>카이쿠스강</ko>
+		<fixja>カエカス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAROS_RIVER</zType>
@@ -1157,6 +1244,7 @@
 		<zh-CN>沙罗河</zh-CN>
 		<pt-BR>Rio Saros~o Rio Saros~do Rio Saros</pt-BR>
 		<ko>사로스강</ko>
+		<fixja>サロス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAESTERT_PLATEAU</zType>
@@ -1170,6 +1258,7 @@
 		<zh-CN>凯斯特高原</zh-CN>
 		<pt-BR>Planalto de Caestert~o Planalto de Caestert~do Planalto de Caestert</pt-BR>
 		<ko>카에스테르트고원</ko>
+		<fixja>カエスタート高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CALBIS_RIVER</zType>
@@ -1183,6 +1272,7 @@
 		<zh-CN>卡尔比斯河</zh-CN>
 		<pt-BR>Rio Calbis~o Rio Calbis~do Rio Calbis</pt-BR>
 		<ko>칼비스강</ko>
+		<fixja>​カルビス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAMPIDANO_PLAIN</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>坎皮达诺平原</zh-CN>
 		<pt-BR>Planície do Campidano~a Planície do Campidano~da Planície do Campidano</pt-BR>
 		<ko>캄피다노평야</ko>
+		<fixja>カンピダーノ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAMPO_FELICE</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>菲利斯高原</zh-CN>
 		<pt-BR>Campo Felice~o Campo Felice~do Campo Felice</pt-BR>
 		<ko>캄포 펠리체</ko>
+		<fixja>カンポフェリーチェ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAMPO_IMPERATORE</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>帝皇台</zh-CN>
 		<pt-BR>Campo Imperatore~o Campo Imperatore~do Campo Imperatore</pt-BR>
 		<ko>캄포 임페라토레</ko>
+		<fixja>カンポインペラトーレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CANJUERS_PLATEAU</zType>
@@ -1235,6 +1328,7 @@
 		<zh-CN>坎朱尔斯高原</zh-CN>
 		<pt-BR>Planalto de Canjuers~o Planalto de Canjuers~do Planalto de Canjuers</pt-BR>
 		<ko>칸주에스고원</ko>
+		<fixja>カンジュエル高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CANSIGLIO_FOREST</zType>
@@ -1248,6 +1342,7 @@
 		<zh-CN>坎西里奥森林</zh-CN>
 		<pt-BR>Floresta de Cansiglio~a Floresta de Cansiglio~da Floresta de Cansiglio</pt-BR>
 		<ko>칸시글리오 숲</ko>
+		<fixja>カンシグリオの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CANTABRIAN_SEA</zType>
@@ -1261,6 +1356,7 @@
 		<zh-CN>坎塔布连海</zh-CN>
 		<pt-BR>Mar Cantábrico~o Mar Cantábrico~do Mar Cantábrico</pt-BR>
 		<ko>칸타브리아해</ko>
+		<fixja>カンタブリア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CARPATHIAN_BEECH_FOREST</zType>
@@ -1274,6 +1370,7 @@
 		<zh-CN>喀尔巴阡山毛榉森林</zh-CN>
 		<pt-BR>Floresta de faias dos Cárpatos~a Floresta de faias dos Cárpatos~da Floresta de faias dos Cárpatos</pt-BR>
 		<ko>카르파토스 너도밤나무 숲</ko>
+		<fixja>カルパティアのブナ林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CARPATHIAN_MOUNTAINS</zType>
@@ -1287,6 +1384,7 @@
 		<zh-CN>喀尔巴阡山脉</zh-CN>
 		<pt-BR>Montes Cárpatos~os Montes Cárpatos~dos Montes Cárpatos</pt-BR>
 		<ko>카르파토스산맥</ko>
+		<fixja>カルパティア山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CASENTINESI_FOREST</zType>
@@ -1300,6 +1398,7 @@
 		<zh-CN>卡森蒂内西森林</zh-CN>
 		<pt-BR>Floresta de Casentinesi~a Floresta de Casentinesi~da Floresta de Casentinesi</pt-BR>
 		<ko>카센티네시 숲</ko>
+		<fixja>カセンティネージの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CASPIAN_HYRCANIAN_FOREST</zType>
@@ -1313,6 +1412,7 @@
 		<zh-CN>里海希尔卡尼亚森林</zh-CN>
 		<pt-BR>Floresta Hircaniana do Cáspio~a Floresta Hircaniana do Cáspio~da Floresta Hircaniana do Cáspio</pt-BR>
 		<ko>카스피 히르카니아 숲</ko>
+		<fixja>カスピ海のヒルカニアンの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CASPIAN_SEA</zType>
@@ -1326,6 +1426,7 @@
 		<zh-CN>里海</zh-CN>
 		<pt-BR>Mar Cáspio~o Mar Cáspio~do Mar Cáspio</pt-BR>
 		<ko>카스피해</ko>
+		<fixja>カスピ海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CATALONIA_WOODLANDS</zType>
@@ -1339,6 +1440,7 @@
 		<zh-CN>加泰隆尼亚林地</zh-CN>
 		<pt-BR>Floresta da Catalunha~a Floresta da Catalunha~da Floresta da Catalunha</pt-BR>
 		<ko>카탈로니아 삼림</ko>
+		<fixja>カタルーニャ森林地帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAUCASUS_MIXED_FOREST</zType>
@@ -1352,6 +1454,7 @@
 		<zh-CN>高加索混合林</zh-CN>
 		<pt-BR>Florestas Mistas do Cáucaso~a Florestas Mistas do Cáucaso~as Florestas Mistas do Cáucaso</pt-BR>
 		<ko>캅카스 혼성림</ko>
+		<fixja>​コーカサス混交林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAUCASUS_MOUNTAINS</zType>
@@ -1365,6 +1468,7 @@
 		<zh-CN>高加索山脉</zh-CN>
 		<pt-BR>Cordilheira do Cáucaso~a Cordilheira do Cáucaso~da Cordilheira do Cáucaso</pt-BR>
 		<ko>캅카스산맥</ko>
+		<fixja>​コーカサス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAYSTER_RIVER</zType>
@@ -1378,6 +1482,7 @@
 		<zh-CN>凯斯特河</zh-CN>
 		<pt-BR>Rio Caistro~o Rio Caistro~do Rio Caistro</pt-BR>
 		<ko>카이스테르강</ko>
+		<fixja>​ケイスター川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CELTIC_SEA</zType>
@@ -1391,6 +1496,7 @@
 		<zh-CN>凯尔特海</zh-CN>
 		<pt-BR>Mar Celta~o Mar Celta~do Mar Celta</pt-BR>
 		<ko>켈트해</ko>
+		<fixja>ケルト海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CEPHISSOS_RIVER</zType>
@@ -1404,6 +1510,7 @@
 		<zh-CN>切菲索斯河</zh-CN>
 		<pt-BR>Rio Cefiso~o Rio Cefiso~do Rio Cefiso</pt-BR>
 		<ko>케피소스강</ko>
+		<fixja>​セフィソス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CERCINNA_ISLAND</zType>
@@ -1417,6 +1524,7 @@
 		<zh-CN>切尔辛纳岛</zh-CN>
 		<pt-BR>Ilha Cercina~a Ilha Cercina~da Ilha Cercina</pt-BR>
 		<ko>케르키나섬</ko>
+		<fixja>セルシナ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHAINTOUS_FOREST</zType>
@@ -1430,6 +1538,7 @@
 		<zh-CN>赛图斯森林</zh-CN>
 		<pt-BR>Floresta de Chaintous~a Floresta de Chaintous~da Floresta de Chaintous</pt-BR>
 		<ko>카인토우스 숲</ko>
+		<fixja>カイントゥスの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHALDEA_PLAIN</zType>
@@ -1443,6 +1552,7 @@
 		<zh-CN>迦勒底平原</zh-CN>
 		<pt-BR>Planície da Caldeia~a Planície da Caldeia~da Planície da Caldeia</pt-BR>
 		<ko>칼데아평야</ko>
+		<fixja>カルデア平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHEEKHA_DAR</zType>
@@ -1456,6 +1566,7 @@
 		<zh-CN>切克汗峰</zh-CN>
 		<pt-BR>Cheekha Dar~a Montanha de Cheekha Dar~da Montanha de Cheekha Dar</pt-BR>
 		<ko>치카 다르</ko>
+		<fixja>シェーハ・ダー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHOASPES_RIVER</zType>
@@ -1469,6 +1580,7 @@
 		<zh-CN>乔斯佩斯河</zh-CN>
 		<pt-BR>Rio Coaspes~o Rio Coaspes~do Rio Coaspes</pt-BR>
 		<ko>코아스페스강</ko>
+		<fixja>チョアスペ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHYLEMATH_RIVER</zType>
@@ -1482,6 +1594,7 @@
 		<zh-CN>奇勒马特河</zh-CN>
 		<pt-BR>Rio Cilemate~o Rio Cilemate~do Rio Cilemate</pt-BR>
 		<ko>킬레마트강</ko>
+		<fixja>チャイルマス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CIMERIAN_FOREST</zType>
@@ -1495,6 +1608,7 @@
 		<zh-CN>西美利亚森林</zh-CN>
 		<pt-BR>Floresta Ciméria~a Floresta Ciméria~da Floresta Ciméria</pt-BR>
 		<ko>키메리아 숲</ko>
+		<fixja>キンメリアの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CORINTHIAN_GULF</zType>
@@ -1508,6 +1622,7 @@
 		<zh-CN>科林斯湾</zh-CN>
 		<pt-BR>Golfo de Corinto~o Golfo de Corinto~do Golfo de Corinto</pt-BR>
 		<ko>코린토스만</ko>
+		<fixja>コリント湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CORK_OAK_FOREST</zType>
@@ -1521,6 +1636,7 @@
 		<zh-CN>科克橡树林</zh-CN>
 		<pt-BR>Floresta de Sobreiros~a Floresta de Sobreiros~da Floresta de Sobreiros</pt-BR>
 		<ko>코르크나무 숲</ko>
+		<fixja>コルクオークの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CORSICA</zType>
@@ -1534,6 +1650,7 @@
 		<zh-CN>科西嘉岛</zh-CN>
 		<pt-BR>Ilha de Córsega~a Ilha de Córsega~de Ilha de Córsega</pt-BR>
 		<ko>코르시카</ko>
+		<fixja>コルシカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COSSYRA_ISLAND</zType>
@@ -1547,6 +1664,7 @@
 		<zh-CN>科西拉岛</zh-CN>
 		<pt-BR>Ilha Cossira~a Ilha Cossira~da Ilha Cossira</pt-BR>
 		<ko>코시라섬</ko>
+		<fixja>​コッシラ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CRAU_PLAIN</zType>
@@ -1560,6 +1678,7 @@
 		<zh-CN>克劳平原</zh-CN>
 		<pt-BR>Planície de Crau~a Planície de Crau~da Planície de Crau</pt-BR>
 		<ko>크라우평야</ko>
+		<fixja>クラウ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CRETE</zType>
@@ -1573,6 +1692,7 @@
 		<zh-CN>克里特岛</zh-CN>
 		<pt-BR>Ilha de Creta~a Ilha de Creta~da Ilha de Creta</pt-BR>
 		<ko>크레테</ko>
+		<fixja>クレタ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CROIX_SCAILLE</zType>
@@ -1586,6 +1706,7 @@
 		<zh-CN>西加艾里高原</zh-CN>
 		<pt-BR>Ilha de Croix Scaille~o Planalto de Croix Scaille~do Planalto de Croix Scaille</pt-BR>
 		<ko>크와스카이유고원</ko>
+		<fixja>クロワスカイユ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CSANYIK_VALLEY</zType>
@@ -1599,6 +1720,7 @@
 		<zh-CN>克桑尼克峡谷</zh-CN>
 		<pt-BR>Vale de Csanyik~o Vale de Csanyik~do Vale de Csanyik</pt-BR>
 		<ko>차니크 계곡</ko>
+		<fixja>チャニク渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CYPRUS</zType>
@@ -1612,6 +1734,7 @@
 		<zh-CN>赛普勒斯</zh-CN>
 		<pt-BR>Ilha de Chipre~a Ilha de Chipre~da a Ilha de Chipre</pt-BR>
 		<ko>키프로스</ko>
+		<fixja>キプロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CYRENAICA_JUNIPER_STANDS</zType>
@@ -1625,6 +1748,7 @@
 		<zh-CN>昔兰尼加刺柏林</zh-CN>
 		<pt-BR>Floresta de Juníperos da Cirenaica~a Floresta de Juníperos da Cirenaica~da Floresta de Juníperos da Cirenaica</pt-BR>
 		<ko>키레나이카 향나무 임분</ko>
+		<fixja>キレナイカセイヨウネズのスタンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DADIA_FOREST</zType>
@@ -1638,6 +1762,7 @@
 		<zh-CN>达地亚森林</zh-CN>
 		<pt-BR>Floresta Dadia~a Floresta Dadia~da Floresta Dadia</pt-BR>
 		<ko>다디아 숲</ko>
+		<fixja>ダディアの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DAIKOS_RIVER</zType>
@@ -1651,6 +1776,7 @@
 		<zh-CN>大科斯河</zh-CN>
 		<pt-BR>Rio Daikos~o Rio Daikos~do Rio Daikos</pt-BR>
 		<ko>다이코스강</ko>
+		<fixja>ダイコス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DAIX_RIVER</zType>
@@ -1664,6 +1790,7 @@
 		<zh-CN>戴克斯河</zh-CN>
 		<pt-BR>Rio Daix~o Rio Daix~do Rio Daix</pt-BR>
 		<ko>다익스강</ko>
+		<fixja>ダイクス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DANUBE</zType>
@@ -1677,6 +1804,7 @@
 		<zh-CN>多瑙河</zh-CN>
 		<pt-BR>Rio Danúbio~o Rio Danúbio~do Rio Danúbio</pt-BR>
 		<ko>다누비우스</ko>
+		<fixja>ドナウ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DANUBIAN_PLAIN</zType>
@@ -1690,6 +1818,7 @@
 		<zh-CN>多瑙河平原</zh-CN>
 		<pt-BR>Planície do Danúbio~a Planície do Danúbio~da Planície do Danúbio</pt-BR>
 		<ko>다누비우스평야</ko>
+		<fixja>ドナウ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DAR-ALAGES</zType>
@@ -1703,6 +1832,7 @@
 		<zh-CN>达阿格斯熔岩锥</zh-CN>
 		<pt-BR>Vulcões de Dar-Alages~os Vulcões de Dar-Alages~dos Vulcões de Dar-Alages</pt-BR>
 		<ko>다르-알라게스</ko>
+		<fixja>ダル・アラージュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DARFUR_PLATEAU</zType>
@@ -1716,6 +1846,7 @@
 		<zh-CN>达尔富尔高原</zh-CN>
 		<pt-BR>Planalto de Darfur~o Planalto de Darfur~do Planalto de Darfur</pt-BR>
 		<ko>다르푸르고원</ko>
+		<fixja>ダルフール高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DASHT-E_KAVIR</zType>
@@ -1729,6 +1860,7 @@
 		<zh-CN>卡维尔盐漠</zh-CN>
 		<pt-BR>Deserto de Dasht-e Kavir~o Deserto de Dasht-e Kavir~do Deserto de Dasht-e Kavir</pt-BR>
 		<ko>카비르사막</ko>
+		<fixja>ダッシュ・エ・カヴィル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DASHT-E_LUT</zType>
@@ -1742,6 +1874,7 @@
 		<zh-CN>卢特沙漠</zh-CN>
 		<pt-BR>Deserto de Dasht-e Lut~o Deserto de Dasht-e Lut~do Deserto de Dasht-e Lut</pt-BR>
 		<ko>루트사막</ko>
+		<fixja>ダッシュ・エ・ルット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DEAD_SEA</zType>
@@ -1755,6 +1888,7 @@
 		<zh-CN>死海</zh-CN>
 		<pt-BR>Mar Morto~o Mar Morto~do Mar Morto</pt-BR>
 		<ko>사해</ko>
+		<fixja>死海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SEA_OF_KINNERET</zType>
@@ -1768,6 +1902,7 @@
 		<zh-CN>基内雷特海</zh-CN>
 		<pt-BR>Mar de Kinneret~o Mar de Kinneret~do Mar de Kinneret</pt-BR>
 		<ko>키네레트해</ko>
+		<fixja>キネレットの海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DELIBLATO_SANDS</zType>
@@ -1781,6 +1916,7 @@
 		<zh-CN>德利布拉托沙地</zh-CN>
 		<pt-BR>Areia Deliblato~a Areia Deliblato~da Areia Deliblato</pt-BR>
 		<ko>델리블라토 모래벌판</ko>
+		<fixja>デリブラトサンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DELOS_ISLAND</zType>
@@ -1794,6 +1930,7 @@
 		<zh-CN>提洛岛</zh-CN>
 		<pt-BR>Ilha de Delos~a Ilha de Delos~da Ilha de Delos</pt-BR>
 		<ko>델로스섬</ko>
+		<fixja>デロス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DERIBA</zType>
@@ -1807,6 +1944,7 @@
 		<zh-CN>德里巴</zh-CN>
 		<pt-BR>Caldeira Deriba~a Caldeira Deriba~da Caldeira Deriba</pt-BR>
 		<ko>데리바</ko>
+		<fixja>デリバ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DHALAK_ISLAND</zType>
@@ -1820,6 +1958,7 @@
 		<zh-CN>达拉克岛</zh-CN>
 		<pt-BR>Ilhas Dahlak~as Ilhas Dahlak~das Ilhas Dahlak</pt-BR>
 		<ko>달라크섬</ko>
+		<fixja>ダラック諸島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIBER_VALLEY</zType>
@@ -1833,6 +1972,7 @@
 		<zh-CN>迪伯峡谷</zh-CN>
 		<pt-BR>Vale do Diber~o Vale do Diber~do Vale do Diber</pt-BR>
 		<ko>디베르 계곡</ko>
+		<fixja>ディバー渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DINARIC_ALPS</zType>
@@ -1846,6 +1986,7 @@
 		<zh-CN>迪纳尔阿尔卑斯山脉</zh-CN>
 		<pt-BR>Alpes Dináricos~os Alpes Dináricos~dos Alpes Dináricos</pt-BR>
 		<ko>디나리데스 고산</ko>
+		<fixja>ディナルアルプス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DORDOGNE_RIVER</zType>
@@ -1859,6 +2000,7 @@
 		<zh-CN>多尔多涅河</zh-CN>
 		<pt-BR>Rio Dordonha~o Rio Dordonha~do Rio Dordonha</pt-BR>
 		<ko>도르도뉴강</ko>
+		<fixja>ドルドーニュ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SCARDUS_MOUNTAINS</zType>
@@ -1872,6 +2014,7 @@
 		<zh-CN>斯卡杜斯山脉</zh-CN>
 		<pt-BR>Montanhas Scardus~as Montanhas Scardus~das Montanhas Scardus</pt-BR>
 		<ko>스카르두스산맥</ko>
+		<fixja>​スカルダス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DISCHMA_VALLEY</zType>
@@ -1885,6 +2028,7 @@
 		<zh-CN>迪施马峡谷</zh-CN>
 		<pt-BR>Vale de Dischma~o Vale de Dischma~do Vale de Dischma</pt-BR>
 		<ko>디슈마 계곡</ko>
+		<fixja>ディシュマ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DIYALA_RIVER</zType>
@@ -1898,6 +2042,7 @@
 		<zh-CN>迪亚拉河</zh-CN>
 		<pt-BR>Rio Diyala~o Rio Diyala~do Rio Diyala</pt-BR>
 		<ko>디얄라강</ko>
+		<fixja>ディヤーラー川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRAA_RIVER</zType>
@@ -1911,6 +2056,7 @@
 		<zh-CN>德拉河</zh-CN>
 		<pt-BR>Rio Draa~o Rio Draa~do Rio Draa</pt-BR>
 		<ko>드라아강</ko>
+		<fixja>ドラア川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRAMA_PLAIN</zType>
@@ -1924,6 +2070,7 @@
 		<zh-CN>德拉玛平原</zh-CN>
 		<pt-BR>Planície de Drama~a Planície de Drama~da Planície de Drama</pt-BR>
 		<ko>드라마평야</ko>
+		<fixja>ドラマ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRAUS_RIVER</zType>
@@ -1937,6 +2084,7 @@
 		<zh-CN>德劳斯河</zh-CN>
 		<pt-BR>Rio Draus~o Rio Draus~do Rio Draus</pt-BR>
 		<ko>드라우스강</ko>
+		<fixja>ドラウス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NARENTA_RIVER</zType>
@@ -1950,6 +2098,7 @@
 		<zh-CN>纳伦塔河</zh-CN>
 		<pt-BR>Rio Narenta~o Rio Narenta~do Rio Narenta</pt-BR>
 		<ko>나렌타강</ko>
+		<fixja>​ナレンタ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRILO_RIVER</zType>
@@ -1963,6 +2112,7 @@
 		<zh-CN>德里罗河</zh-CN>
 		<pt-BR>Rio Drilo~o Rio Drilo~do Rio Drilo</pt-BR>
 		<ko>드릴로강</ko>
+		<fixja>​ドリロ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRINOS_VALLEY</zType>
@@ -1976,6 +2126,7 @@
 		<zh-CN>德里诺斯峡谷</zh-CN>
 		<pt-BR>Vale Drino~o Vale Drino~do Vale Drino</pt-BR>
 		<ko>드리노스 계곡</ko>
+		<fixja>ドリノス渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRUENTIA_RIVER</zType>
@@ -1989,6 +2140,7 @@
 		<zh-CN>德鲁恩蒂亚河</zh-CN>
 		<pt-BR>Rio Druência~o Rio Druência~do Rio Druência</pt-BR>
 		<ko>드루엔티아강</ko>
+		<fixja>デュランス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DUMRE_PLATEAU</zType>
@@ -2002,6 +2154,7 @@
 		<zh-CN>杜姆雷高原</zh-CN>
 		<pt-BR>Planalto de Dumre~o Planalto de Dumre~do Planalto de Dumre</pt-BR>
 		<ko>둠레고원</ko>
+		<fixja>ダムレ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DURIUS_RIVER</zType>
@@ -2015,6 +2168,7 @@
 		<zh-CN>杜里乌斯河</zh-CN>
 		<pt-BR>Rio Durio~o Rio Durio~do Rio Durio</pt-BR>
 		<ko>두리우스강</ko>
+		<fixja>デュリウス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EAST_EUROPEAN_PLAIN</zType>
@@ -2028,6 +2182,7 @@
 		<zh-CN>东欧平原</zh-CN>
 		<pt-BR>Planície Europeia Oriental~a Planície Europeia Oriental~da Planície Europeia Oriental</pt-BR>
 		<ko>동유럽평야</ko>
+		<fixja>東ヨーロッパ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EASTERN_DESERT</zType>
@@ -2041,6 +2196,7 @@
 		<zh-CN>东部沙漠</zh-CN>
 		<pt-BR>Deserto Oriental~o Deserto Oriental~do Deserto Oriental</pt-BR>
 		<ko>동부 사막</ko>
+		<fixja>東部砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EBUSUS_ISLAND</zType>
@@ -2054,6 +2210,7 @@
 		<zh-CN>埃布苏斯岛</zh-CN>
 		<pt-BR>Ilha de Ebuso~a Ilha de Ebuso~da Ilha de Ebuso</pt-BR>
 		<ko>에부수스섬</ko>
+		<fixja>エブサス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EDIN_PLAIN</zType>
@@ -2067,6 +2224,7 @@
 		<zh-CN>埃丁平原</zh-CN>
 		<pt-BR>Planície de Edin~a Planície de Edin~da Planície de Edin</pt-BR>
 		<ko>에딘평야</ko>
+		<fixja>エディン平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EISCH_VALLEY</zType>
@@ -2080,6 +2238,7 @@
 		<zh-CN>艾施峡谷</zh-CN>
 		<pt-BR>Vale de Eisch~o Vale de Eisch~do Vale de Eisch</pt-BR>
 		<ko>아이슈 계곡</ko>
+		<fixja>アイシュ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ELBURZ_RANGE_FOREST-STEPPE</zType>
@@ -2093,6 +2252,7 @@
 		<zh-CN>埃伯兹山脉森林高原</zh-CN>
 		<pt-BR>Estepe Florestal da Cordilheira Elburz~o Estepe Florestal da Cordilheira Elburz~do Estepe Florestal da Cordilheira Elburz</pt-BR>
 		<ko>엘부르즈산맥 삼림 스텝</ko>
+		<fixja>エルブルズ山脈の森・草原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ELENYDD_PLATEAU</zType>
@@ -2106,6 +2266,7 @@
 		<zh-CN>埃莱尼尔高原</zh-CN>
 		<pt-BR>Planalto de Elenydd~o Planalto de Elenydd~do Planalto de Elenydd</pt-BR>
 		<ko>엘레니드고원</ko>
+		<fixja>エレニッド高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ENGSTLIGENALP_PLATEAU</zType>
@@ -2119,6 +2280,7 @@
 		<zh-CN>恩特利根纳普高原</zh-CN>
 		<pt-BR>Planalto de Engstligenalp~o Planalto de Engstligenalp~do Planalto de Engstligenalp</pt-BR>
 		<ko>엥스틀리게날프고원</ko>
+		<fixja>エングシュトリゲンアップ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERYTHRAEAN_SEA</zType>
@@ -2132,6 +2294,7 @@
 		<zh-CN>厄立特里亚海</zh-CN>
 		<pt-BR>Mar da Eritréia~o Mar da Eritréia~do Mar da Eritréia</pt-BR>
 		<ko>에리트라해</ko>
+		<fixja>エリスレア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ERYTHREAN_SEA</zType>
@@ -2145,6 +2308,7 @@
 		<zh-CN>厄立特里亚海</zh-CN>
 		<pt-BR>Mar da Eritréia~o Mar da Eritréia~do Mar da Eritréia</pt-BR>
 		<ko>에리트레아해</ko>
+		<fixja>エリュトゥラー海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EUBOEA</zType>
@@ -2158,6 +2322,7 @@
 		<zh-CN>尤比亚岛</zh-CN>
 		<pt-BR>Ilha de Eubeia~a Ilha de Eubeia~da Ilha de Eubeia</pt-BR>
 		<ko>유보이아</ko>
+		<fixja>ユービア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EUBOEAN_GULF</zType>
@@ -2171,6 +2336,7 @@
 		<zh-CN>埃维亚湾</zh-CN>
 		<pt-BR>Golfo de Eubeia~o Golfo de Eubeia~do Golfo de Eubeia</pt-BR>
 		<ko>유보이아만</ko>
+		<fixja>ユービア湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EUPHRATES_RIVER</zType>
@@ -2184,6 +2350,7 @@
 		<zh-CN>幼发拉底河</zh-CN>
 		<pt-BR>Rio Eufrates~o Rio Eufrates~do Rio Eufrates</pt-BR>
 		<ko>유프라테스강</ko>
+		<fixja>ユーフラテス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EUROTAS_RIVER</zType>
@@ -2197,6 +2364,7 @@
 		<zh-CN>尤罗塔斯河</zh-CN>
 		<pt-BR>Rio Eurotas~o Rio Eurotas~do Rio Eurotas</pt-BR>
 		<ko>에우로타스강</ko>
+		<fixja>エウロタス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVROS_RIVER</zType>
@@ -2210,6 +2378,7 @@
 		<zh-CN>埃夫罗斯河</zh-CN>
 		<pt-BR>Rio Evros~o Rio Evros~do Rio Evros</pt-BR>
 		<ko>에브로스강</ko>
+		<fixja>エブロス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAILAKA_ISLAND</zType>
@@ -2223,6 +2392,7 @@
 		<zh-CN>费拉卡岛</zh-CN>
 		<pt-BR>Ilha Failaka~a Ilha Failaka~da Ilha Failaka</pt-BR>
 		<ko>파일라카섬</ko>
+		<fixja>ファイラカ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FOLOI_OAK_FOREST</zType>
@@ -2236,6 +2406,7 @@
 		<zh-CN>福罗伊橡树林</zh-CN>
 		<pt-BR>Floresta de Carvalhos Folói~a Floresta de Carvalhos Folói~da Floresta de Carvalhos Folói</pt-BR>
 		<ko>폴로이 참나무 숲</ko>
+		<fixja>フォロイオークの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FOREST_OF_AIANTEIO</zType>
@@ -2249,6 +2420,7 @@
 		<zh-CN>阿扬泰奥森林</zh-CN>
 		<pt-BR>Floresta de Aianteio~a Floresta de Aianteio~da Floresta de Aianteio</pt-BR>
 		<ko>아인테이오 숲</ko>
+		<fixja>アイアンテイオの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GABAL_TINGAR</zType>
@@ -2262,6 +2434,7 @@
 		<zh-CN>盖巴尔廷加丘</zh-CN>
 		<pt-BR>Montanha de Gabal Tingar~a Montanha de Gabal Tingar~da Montanha de Gabal Tingar</pt-BR>
 		<ko>가발 팅가르</ko>
+		<fixja>ガバルティンガル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GALLIC_GULF</zType>
@@ -2275,6 +2448,7 @@
 		<zh-CN>高卢湾</zh-CN>
 		<pt-BR>Golfo Gálico~o Golfo Gálico~do Golfo Gálico</pt-BR>
 		<ko>갈리아만</ko>
+		<fixja>ガリア湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GARUMNA_RIVER</zType>
@@ -2288,6 +2462,7 @@
 		<zh-CN>加龙河</zh-CN>
 		<pt-BR>Rio Garumna~o Rio Garumna~do Rio Garumna</pt-BR>
 		<ko>가룸나강</ko>
+		<fixja>ガルムナ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAUJA_VALLEY</zType>
@@ -2301,6 +2476,7 @@
 		<zh-CN>高亚谷</zh-CN>
 		<pt-BR>Vale do Gauja~o Vale do Gauja~do Vale do Gauja</pt-BR>
 		<ko>가우자 계곡</ko>
+		<fixja>ガウジャ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GEFARA_PLAIN</zType>
@@ -2314,6 +2490,7 @@
 		<zh-CN>格法拉平原</zh-CN>
 		<pt-BR>Planície de Gefara~o Planície de Gefara~do Planície de Gefara</pt-BR>
 		<ko>게파라평야</ko>
+		<fixja>ゲファラ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GEFIR_KEBIR_PLATEAU</zType>
@@ -2327,6 +2504,7 @@
 		<zh-CN>吉尔夫凯比尔高原</zh-CN>
 		<pt-BR>Planalto de Gilf Kebir~o Planalto de Gilf Kebir~do Planalto de Gilf Kebir</pt-BR>
 		<ko>길프케비르고원</ko>
+		<fixja>​ギルフ・ケビール高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GEZIRA</zType>
@@ -2340,6 +2518,7 @@
 		<zh-CN>杰济拉平原</zh-CN>
 		<pt-BR>Planície de Gezira~o Planície de Gezira~do Planície de Gezira</pt-BR>
 		<ko>게지라평야</ko>
+		<fixja>ゲジラ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GHEGAM_RIDGE</zType>
@@ -2353,6 +2532,7 @@
 		<zh-CN>盖甘岭</zh-CN>
 		<pt-BR>Montanhas Ghegam~as Montanhas Ghegam~das Montanhas Ghegam</pt-BR>
 		<ko>게감봉</ko>
+		<fixja>ゲガム山地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOLAN_HEIGHTS</zType>
@@ -2366,6 +2546,7 @@
 		<zh-CN>戈兰高地</zh-CN>
 		<pt-BR>Colinas de Golã~as Colinas de Golã~das Colinas de Golã</pt-BR>
 		<ko>골란 고지</ko>
+		<fixja>ゴラン高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GORGAN_PLAIN</zType>
@@ -2379,6 +2560,7 @@
 		<zh-CN>戈尔甘平原</zh-CN>
 		<pt-BR>Planície de Gorgan~a Planície de Gorgan~da Planície de Gorgan</pt-BR>
 		<ko>고르간평야</ko>
+		<fixja>ゴーガン平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOURAUD_CEDAR_FOREST</zType>
@@ -2392,6 +2574,7 @@
 		<zh-CN>古劳德雪松林</zh-CN>
 		<pt-BR>Floresta do Cedro Gouraud~a Floresta do Cedro Gouraud~da Floresta do Cedro Gouraud</pt-BR>
 		<ko>고러드 삼나무 숲</ko>
+		<fixja>グーロー杉の森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GREAT_BITTER_LAKE</zType>
@@ -2405,6 +2588,7 @@
 		<zh-CN>大苦湖</zh-CN>
 		<pt-BR>Grande Lago Amargo~o Grande Lago Amargo~do Grande Lago Amargo</pt-BR>
 		<ko>그레이트비터호</ko>
+		<fixja>グレートビター湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GROSSGLOCKNER</zType>
@@ -2418,6 +2602,7 @@
 		<zh-CN>大格洛克纳山</zh-CN>
 		<pt-BR>Monte Grossglockner~o Monte Grossglockner~do Monte Grossglockner</pt-BR>
 		<ko>그로스글로크너산</ko>
+		<fixja>グロースグロックナー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_AQABA</zType>
@@ -2431,6 +2616,7 @@
 		<zh-CN>亚喀巴湾</zh-CN>
 		<pt-BR>Golfo de Ácaba~o Golfo de Ácaba~do Golfo de Ácaba</pt-BR>
 		<ko>아카바만</ko>
+		<fixja>アカバ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_ARSENARIA</zType>
@@ -2444,6 +2630,7 @@
 		<zh-CN>阿塞纳里亚湾</zh-CN>
 		<pt-BR>Golfo de Arsenária~o Golfo de Arsenária~do Golfo de Arsenária</pt-BR>
 		<ko>아르세나리아만</ko>
+		<fixja>アルセナリア湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_CADIZ</zType>
@@ -2457,6 +2644,7 @@
 		<zh-CN>加地尔湾</zh-CN>
 		<pt-BR>Golfo de Gadir~o Golfo de Gadir~do Golfo de Gadir</pt-BR>
 		<ko>가디르만</ko>
+		<fixja>ガディール湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_GENOA</zType>
@@ -2470,6 +2658,7 @@
 		<zh-CN>热那亚湾</zh-CN>
 		<pt-BR>Golfo de Gênova~o Golfo de Gênova~do Golfo de Gênova</pt-BR>
 		<ko>제노바만</ko>
+		<fixja>ジェノヴァ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_GORGAN</zType>
@@ -2483,6 +2672,7 @@
 		<zh-CN>戈尔甘湾</zh-CN>
 		<pt-BR>Golfo de Gorgan~o Golfo de Gorgan~do Golfo de Gorgan</pt-BR>
 		<ko>고르간만</ko>
+		<fixja>ゴーガン湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_NEAPOLIS</zType>
@@ -2496,6 +2686,7 @@
 		<zh-CN>尼亚波利斯湾</zh-CN>
 		<pt-BR>Golfo de Nápoles~o Golfo de Nápoles~do Golfo de Nápoles</pt-BR>
 		<ko>네아폴리스만</ko>
+		<fixja>ネアポリス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_SALDAE</zType>
@@ -2509,6 +2700,7 @@
 		<zh-CN>萨尔迪湾</zh-CN>
 		<pt-BR>Golfo de Saldae~o Golfo de Saldae~do Golfo de Saldae</pt-BR>
 		<ko>살다이만</ko>
+		<fixja>サルデ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_SIPONTUM</zType>
@@ -2522,6 +2714,7 @@
 		<zh-CN>锡朋图姆湾</zh-CN>
 		<pt-BR>Golfo de Siponto~o Golfo de Siponto~do Golfo de Siponto</pt-BR>
 		<ko>시폰툼만</ko>
+		<fixja>シポンタム湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_SUEZ</zType>
@@ -2535,6 +2728,7 @@
 		<zh-CN>苏伊士湾</zh-CN>
 		<pt-BR>Golfo de Suez~o Golfo de Suez~do Golfo de Suez</pt-BR>
 		<ko>수에즈만</ko>
+		<fixja>スエズ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_SYRTIS</zType>
@@ -2548,6 +2742,7 @@
 		<zh-CN>锡尔蒂斯湾</zh-CN>
 		<pt-BR>Golfo de Syrtis~o Golfo de Syrtis~do Golfo de Syrtis</pt-BR>
 		<ko>시르티스만</ko>
+		<fixja>​シルティス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_TARENTUM</zType>
@@ -2561,6 +2756,7 @@
 		<zh-CN>塔伦图姆湾</zh-CN>
 		<pt-BR>Golfo de Tarento~o Golfo de Tarento~do Golfo de Tarento</pt-BR>
 		<ko>타렌툼만</ko>
+		<fixja>タレンタム湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_TERGESTE</zType>
@@ -2574,6 +2770,7 @@
 		<zh-CN>泰尔盖斯特湾</zh-CN>
 		<pt-BR>Golfo de Tergeste~o Golfo de Tergeste~do Golfo de Tergeste</pt-BR>
 		<ko>테르게스테만</ko>
+		<fixja>テルゲステ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GULF_OF_TUNIS</zType>
@@ -2587,6 +2784,7 @@
 		<zh-CN>突尼西亚湾</zh-CN>
 		<pt-BR>Golfo de Tunes~o Golfo de Tunes~do Golfo de Tunes</pt-BR>
 		<ko>투니스만</ko>
+		<fixja>チュニス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HALAB_PLATEAU</zType>
@@ -2600,6 +2798,7 @@
 		<zh-CN>哈勒高原</zh-CN>
 		<pt-BR>Planalto de Alepo~o Planalto de Alepo~do Planalto de Alepo</pt-BR>
 		<ko>할랍고원</ko>
+		<fixja>ハラブ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HALIACMON_RIVER</zType>
@@ -2613,6 +2812,7 @@
 		<zh-CN>哈里亚克蒙河</zh-CN>
 		<pt-BR>Rio Haliácmon~o Rio Haliácmon~do Rio Haliácmon</pt-BR>
 		<ko>할리아크몬강</ko>
+		<fixja>アリアクモン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HALYS_RIVER</zType>
@@ -2626,6 +2826,7 @@
 		<zh-CN>马拉桑蒂亚河</zh-CN>
 		<pt-BR>Rio Hális~o Rio Hális~do Rio Hális</pt-BR>
 		<ko>마라산티야강</ko>
+		<fixja>​ヘイリス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HAMATA_MANGROVES</zType>
@@ -2639,6 +2840,7 @@
 		<zh-CN>哈玛他红树林</zh-CN>
 		<pt-BR>Manguezal de Hamata~o Manguezal de Hamata~do Manguezal de Hamata</pt-BR>
 		<ko>하마타 홍수림</ko>
+		<fixja>ハマタマングローブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HAMRIN_MOUNTAINS</zType>
@@ -2652,6 +2854,7 @@
 		<zh-CN>哈姆林山脉</zh-CN>
 		<pt-BR>Montanhas Hamrin~as Montanhas Hamrin~das Montanhas Hamrin</pt-BR>
 		<ko>함린산맥</ko>
+		<fixja>ハムリン山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HAUTES_PLATEAU</zType>
@@ -2665,6 +2868,7 @@
 		<zh-CN>上高原</zh-CN>
 		<pt-BR>Altiplano Alto~o Altiplano Alto~do Altiplano Alto</pt-BR>
 		<ko>하우테스평야</ko>
+		<fixja>オー・プラトー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HAZARAN_PLATEAU</zType>
@@ -2678,6 +2882,7 @@
 		<zh-CN>哈扎兰高原</zh-CN>
 		<pt-BR>Maciço de Hazaran~o Maciço de Hazaran~do Maciço de Hazaran</pt-BR>
 		<ko>하자란고원</ko>
+		<fixja>ハザラン高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HERCYNIAN_FOREST</zType>
@@ -2691,6 +2896,7 @@
 		<zh-CN>赫西尼亚森林</zh-CN>
 		<pt-BR>Floresta Hercínia~a Floresta Hercínia~da Floresta Hercínia</pt-BR>
 		<ko>헤르키니아 숲</ko>
+		<fixja>ヘルシニア森林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HERMOS_RIVER</zType>
@@ -2704,6 +2910,7 @@
 		<zh-CN>赫莫斯河</zh-CN>
 		<pt-BR>Rio Hermos~o Rio Hermos~do Rio Hermos</pt-BR>
 		<ko>헤르모스강</ko>
+		<fixja>エルモス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HIBER_DELTA_WOODLAND</zType>
@@ -2717,6 +2924,7 @@
 		<zh-CN>西伯三角洲林地</zh-CN>
 		<pt-BR>Floresta do Delta do Hiber~a Floresta do Delta do Hiber~da Floresta do Delta do Hiber</pt-BR>
 		<ko>히베르 삼각주 삼림</ko>
+		<fixja>ハイバーデルタ森林地帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HIBER_RIVER</zType>
@@ -2730,6 +2938,7 @@
 		<zh-CN>西伯河</zh-CN>
 		<pt-BR>Rio Hiber~o Rio Hiber~do Rio Hiber</pt-BR>
 		<ko>히베르강</ko>
+		<fixja>ハイバー川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HIMERA_RIVER</zType>
@@ -2743,6 +2952,7 @@
 		<zh-CN>希梅拉河</zh-CN>
 		<pt-BR>Rio Himera~o Rio Himera~do Rio Himera</pt-BR>
 		<ko>히메라강</ko>
+		<fixja>ヒメラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOLM_OAK_WOODLANDS</zType>
@@ -2756,6 +2966,7 @@
 		<zh-CN>霍尔姆橡树林</zh-CN>
 		<pt-BR>Matagal de Azinheiras~o Matagal de Azinheiras~da Matagal de Azinheiras</pt-BR>
 		<ko>홀름 참나무 숲</ko>
+		<fixja>ホルムオークの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HYDASPES_RIVER</zType>
@@ -2769,6 +2980,7 @@
 		<zh-CN>海达斯佩斯河</zh-CN>
 		<pt-BR>Rio Hidaspes~o Rio Hidaspes~do Rio Hidaspes</pt-BR>
 		<ko>히다스페스강</ko>
+		<fixja>ハイダスペス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HYPANIS_RIVER</zType>
@@ -2782,6 +2994,7 @@
 		<zh-CN>海帕尼斯河</zh-CN>
 		<pt-BR>Rio Hipanis~o Rio Hipanis~do Rio Hipanis</pt-BR>
 		<ko>히파니스강</ko>
+		<fixja>ハイパニス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HYPHASIS_RIVER</zType>
@@ -2795,6 +3008,7 @@
 		<zh-CN>海法西斯河</zh-CN>
 		<pt-BR>Rio Atagis~o Rio Atagis~do Rio Atagis</pt-BR>
 		<ko>히파시스강</ko>
+		<fixja>​ハイファシス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ICARIA_ISLAND</zType>
@@ -2808,6 +3022,7 @@
 		<zh-CN>伊卡利亚岛</zh-CN>
 		<pt-BR>Ilha Icária~a Ilha Icária~da Ilha Icária</pt-BR>
 		<ko>이카리아섬</ko>
+		<fixja>イカリア島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ICARIAN_SEA</zType>
@@ -2821,6 +3036,7 @@
 		<zh-CN>伊卡利安海</zh-CN>
 		<pt-BR>Mar Icário~o Mar Icário~do Mar Icário</pt-BR>
 		<ko>이카리아해</ko>
+		<fixja>イカリア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ICHKEUL_LAKE</zType>
@@ -2834,6 +3050,7 @@
 		<zh-CN>伊奇克乌尔湖</zh-CN>
 		<pt-BR>Lago Ichkeul~o Lago Ichkeul~do Lago Ichkeul</pt-BR>
 		<ko>이슈쿨호</ko>
+		<fixja>イシュケル湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ICOSIUM_BAY</zType>
@@ -2847,6 +3064,7 @@
 		<zh-CN>伊科西姆湾</zh-CN>
 		<pt-BR>Baía de Icósio~a Baía de Icósio~da Baía de Icósio</pt-BR>
 		<ko>이코시움만</ko>
+		<fixja>イコシウム湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ILISOS_RIVER</zType>
@@ -2860,6 +3078,7 @@
 		<zh-CN>伊利索斯河</zh-CN>
 		<pt-BR>Rio Ilisos~o Rio Ilisos~do Rio Ilisos</pt-BR>
 		<ko>일리오스강</ko>
+		<fixja>イリソス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ILVA_ISLAND</zType>
@@ -2873,6 +3092,7 @@
 		<zh-CN>伊尔瓦岛</zh-CN>
 		<pt-BR>Ilha de Ilva~a Ilha de Ilva~da Ilha de Ilva</pt-BR>
 		<ko>일바섬</ko>
+		<fixja>イルバ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_INDIAN_OCEAN</zType>
@@ -2886,6 +3106,7 @@
 		<zh-CN>印度洋</zh-CN>
 		<pt-BR>Oceano Índico~o Oceano Índico~do Oceano Índico</pt-BR>
 		<ko>인도양</ko>
+		<fixja>インド洋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_INDUS_RIVER</zType>
@@ -2899,6 +3120,7 @@
 		<zh-CN>印度河</zh-CN>
 		<pt-BR>Rio Indo~o Rio Indo~do Rio Indo</pt-BR>
 		<ko>인더스강</ko>
+		<fixja>インダス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_INNTAL_VALLEY</zType>
@@ -2912,6 +3134,7 @@
 		<zh-CN>因塔尔谷</zh-CN>
 		<pt-BR>Vale de Inntal~o Vale de Inntal~do Vale de Inntal</pt-BR>
 		<ko>인탈 계곡</ko>
+		<fixja>インタール渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IONIAN_SEA</zType>
@@ -2925,6 +3148,7 @@
 		<zh-CN>爱奥尼亚海</zh-CN>
 		<pt-BR>Mar Jônico~o Mar Jônico~do Mar Jônico</pt-BR>
 		<ko>이오니아해</ko>
+		<fixja>イオニア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IOS_ISLAND</zType>
@@ -2938,6 +3162,7 @@
 		<zh-CN>伊奥斯岛</zh-CN>
 		<pt-BR>Ilha de Ios~a Ilha de Ios~da Ilha de Ios</pt-BR>
 		<ko>이오스섬</ko>
+		<fixja>イオス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IOTABE_ISLAND</zType>
@@ -2951,6 +3176,7 @@
 		<zh-CN>伊沃塔布岛</zh-CN>
 		<pt-BR>Ilha de Iotabe~a Ilha de Iotabe~da Ilha de Iotabe</pt-BR>
 		<ko>이오타베섬</ko>
+		<fixja>イオタベ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IRATI_FIR_FOREST</zType>
@@ -2964,6 +3190,7 @@
 		<zh-CN>伊拉提佛森林</zh-CN>
 		<pt-BR>Selva de Abetos do Irati~a Selva de Abetos do Irati~da Selva de Abetos do Irati</pt-BR>
 		<ko>이라티 전나무숲</ko>
+		<fixja>イラティのモミの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IRELAND</zType>
@@ -2977,6 +3204,7 @@
 		<zh-CN>爱尔兰</zh-CN>
 		<pt-BR>Irlanda~a Irlanda~da Irlanda</pt-BR>
 		<ko>아일랜드</ko>
+		<fixja>アイルランド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ITHAKI_ISLAND</zType>
@@ -2990,6 +3218,7 @@
 		<zh-CN>伊萨基岛</zh-CN>
 		<pt-BR>Ilha de Ítaca~a Ilha de Ítaca~da Ilha de Ítaca</pt-BR>
 		<ko>이타키섬</ko>
+		<fixja>イタキ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ITRIA_VALLEY</zType>
@@ -3003,6 +3232,7 @@
 		<zh-CN>伊特里亚山谷</zh-CN>
 		<pt-BR>Vale de Itria~o Vale de Itria~do Vale de Itria</pt-BR>
 		<ko>이트리아 계곡</ko>
+		<fixja>イトリア渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JAXARTES_RIVER</zType>
@@ -3016,6 +3246,7 @@
 		<zh-CN>贾克萨特斯河</zh-CN>
 		<pt-BR>Rio Jaxartes~o Rio Jaxartes~do Rio Jaxartes</pt-BR>
 		<ko>작사르테스강</ko>
+		<fixja>ヤクサルテス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JEBEL_DARA</zType>
@@ -3029,6 +3260,7 @@
 		<zh-CN>达拉山</zh-CN>
 		<pt-BR>Jebel Dara~o Jebel Dara~do Jebel Dara</pt-BR>
 		<ko>제벨 다라</ko>
+		<fixja>ジェベル・ダラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JEBEL_MOYA</zType>
@@ -3042,6 +3274,7 @@
 		<zh-CN>莫亚山</zh-CN>
 		<pt-BR>Jebel Moya~o Jebel Moya~do Jebel Moya</pt-BR>
 		<ko>제벨 모야</ko>
+		<fixja>ジェベル・モヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JEBEL_NAKHARU</zType>
@@ -3055,6 +3288,7 @@
 		<zh-CN>那卡鲁山</zh-CN>
 		<pt-BR>Jebel Nakharu~o Jebel Nakharu~do Jebel Nakharu</pt-BR>
 		<ko>제벨 나카루</ko>
+		<fixja>ジェベル・ナカール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JEBEL_TAKA</zType>
@@ -3068,6 +3302,7 @@
 		<zh-CN>塔卡山</zh-CN>
 		<pt-BR>Jebel Taka~o Jebel Taka~do Jebel Taka</pt-BR>
 		<ko>제벨 타카</ko>
+		<fixja>ジェベル・タカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JEBEL_TOMAT</zType>
@@ -3081,6 +3316,7 @@
 		<zh-CN>托马特山</zh-CN>
 		<pt-BR>Jebel Tomat~o Jebel Tomat~do Jebel Tomat</pt-BR>
 		<ko>제벨 토마트</ko>
+		<fixja>ジェベル・トマット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JEBEL_UMM_MARAFIEB</zType>
@@ -3094,6 +3330,7 @@
 		<zh-CN>乌姆·玛拉斐布山</zh-CN>
 		<pt-BR>Jebel Umm Marafieb~o Jebel Umm Marafieb~do Jebel Umm Marafieb</pt-BR>
 		<ko>제벨 움 마라피엡</ko>
+		<fixja>ジェベル・ウム・マラフィブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JORDAN_RIVER</zType>
@@ -3107,6 +3344,7 @@
 		<zh-CN>约旦河</zh-CN>
 		<pt-BR>Rio Jordão~o Rio Jordão~do Rio Jordão</pt-BR>
 		<ko>요르단강</ko>
+		<fixja>ヨルダン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KABARGIN_OTH</zType>
@@ -3120,6 +3358,7 @@
 		<zh-CN>卡巴金欧斯火山</zh-CN>
 		<pt-BR>Vulcões de Kabargin Oth~os Vulcões de Kabargin Oth~dos Vulcões de Kabargin Oth</pt-BR>
 		<ko>카바르진 오스 화산</ko>
+		<fixja>カバルディン山</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KABIR_KUH</zType>
@@ -3133,6 +3372,7 @@
 		<zh-CN>卡比尔库山脉</zh-CN>
 		<pt-BR>Cordilheira de Kabir Kuh~a Cordilheira de Kabir Kuh~da Cordilheira de Kabir Kuh</pt-BR>
 		<ko>카비르 쿠</ko>
+		<fixja>カビール山地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KACKAR_MOUNTAINS</zType>
@@ -3146,6 +3386,7 @@
 		<zh-CN>卡卡尔山脉</zh-CN>
 		<pt-BR>Montes Kaçkar~os Montes Kaçkar~dos Montes Kaçkar</pt-BR>
 		<ko>카치카르산맥</ko>
+		<fixja>カッカー山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KAFA-YAYU_WOODLAND</zType>
@@ -3159,6 +3400,7 @@
 		<zh-CN>卡法亚尤林地</zh-CN>
 		<pt-BR>Floresta de Kafa-Yayu~a Floresta de Kafa-Yayu~da Floresta de Kafa-Yayu</pt-BR>
 		<ko>카파-야유 삼림</ko>
+		<fixja>カファ・ヤユ森林地帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KAISERBACH_VALLEY</zType>
@@ -3172,6 +3414,7 @@
 		<zh-CN>凯撒巴赫山谷</zh-CN>
 		<pt-BR>Vale de Kaiserbach~o Vale de Kaiserbach~do Vale de Kaiserbach</pt-BR>
 		<ko>카이저바흐 계곡</ko>
+		<fixja>カイザーバッハ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KALAT-E_NADERI_PLATEAU</zType>
@@ -3185,6 +3428,7 @@
 		<zh-CN>卡拉特纳德里高原</zh-CN>
 		<pt-BR>Planalto de Kalat-e Naderi~o Planalto de Kalat-e Naderi~do Planalto de Kalat-e Naderi</pt-BR>
 		<ko>칼랏에나데리고원</ko>
+		<fixja>カラテ・エ・ナデリ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KARAKUM_DESERT</zType>
@@ -3198,6 +3442,7 @@
 		<zh-CN>卡拉库姆沙漠</zh-CN>
 		<pt-BR>Deserto de Caraco~o Deserto de Caraco~do Deserto de Caraco</pt-BR>
 		<ko>카라쿰사막</ko>
+		<fixja>カラクム砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GREAT_SALT_DESERT</zType>
@@ -3211,6 +3456,7 @@
 		<zh-CN>大盐沙漠</zh-CN>
 		<pt-BR>Grande Deserto Salgado~o Grande Deserto Salgado~do Grande Deserto Salgado</pt-BR>
 		<ko>대소금사막</ko>
+		<fixja>グレートソルト砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KARPATHIAN_SEA</zType>
@@ -3224,6 +3470,7 @@
 		<zh-CN>喀尔巴阡海</zh-CN>
 		<pt-BR>Mar de Cárpatos~o Mar de Cárpatos~do Mar de Cárpatos</pt-BR>
 		<ko>카르파티아해</ko>
+		<fixja>カルパティア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KARST_PLATEAU</zType>
@@ -3237,6 +3484,7 @@
 		<zh-CN>喀斯特高原</zh-CN>
 		<pt-BR>Planalto Cársico~o Planalto Cársico~do Planalto Cársico</pt-BR>
 		<ko>카르스트고원</ko>
+		<fixja>カルスト高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KARUN_RIVER</zType>
@@ -3250,6 +3498,7 @@
 		<zh-CN>卡伦河</zh-CN>
 		<pt-BR>Rio Karun~o Rio Karun~do Rio Karun</pt-BR>
 		<ko>카룬강</ko>
+		<fixja>カルン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KATHARO_PLATEAU</zType>
@@ -3263,6 +3512,7 @@
 		<zh-CN>卡塔罗高原</zh-CN>
 		<pt-BR>Planalto de Cátaro~o Planalto de Cátaro~do Planalto de Cátaro</pt-BR>
 		<ko>카타로고원</ko>
+		<fixja>カサロ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KAZAKH_HUMMOCKS</zType>
@@ -3276,6 +3526,7 @@
 		<zh-CN>哈萨克丘陵</zh-CN>
 		<pt-BR>Crista Cazaque~a Crista Cazaque~da Crista Cazaque</pt-BR>
 		<ko>카자흐 언덕</ko>
+		<fixja>カザフハンモック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KEA_ISLAND</zType>
@@ -3289,6 +3540,7 @@
 		<zh-CN>凯亚岛</zh-CN>
 		<pt-BR>Ilha Ceos~a Ilha Ceos~da Ilha Ceos</pt-BR>
 		<ko>케아섬</ko>
+		<fixja>ケア島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KEKES</zType>
@@ -3302,6 +3554,7 @@
 		<zh-CN>凯凯什峰</zh-CN>
 		<pt-BR>Montanha de Kekes~a Montanha de Kekes~da Montanha de Kekes</pt-BR>
 		<ko>케케스</ko>
+		<fixja>ケケス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KHUZESTAN_PLAIN</zType>
@@ -3315,6 +3568,7 @@
 		<zh-CN>胡齐斯坦平原</zh-CN>
 		<pt-BR>Planície de Khuzestan~a Planície de Khuzestan~da Planície de Khuzestan</pt-BR>
 		<ko>쿠제스탄평야</ko>
+		<fixja>クゼスタン平野</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KISH_ISLAND</zType>
@@ -3328,6 +3582,7 @@
 		<zh-CN>基什岛</zh-CN>
 		<pt-BR>Ilha de Kish~a Ilha de Kish~da Ilha de Kish</pt-BR>
 		<ko>키시섬</ko>
+		<fixja>キーシュ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KOS_ISLAND</zType>
@@ -3341,6 +3596,7 @@
 		<zh-CN>科斯岛</zh-CN>
 		<pt-BR>Ilha de Cós~a Ilha de Cós~da Ilha de Cós</pt-BR>
 		<ko>코스섬</ko>
+		<fixja>コス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KRIVOSIJE_PLATEAU</zType>
@@ -3354,6 +3610,7 @@
 		<zh-CN>克里沃西耶高原</zh-CN>
 		<pt-BR>Planalto de Krivosije~o Planalto de Krivosije~do Planalto de Krivosije</pt-BR>
 		<ko>크리보시제고원</ko>
+		<fixja>クリヴォシエ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KURA_RIVER</zType>
@@ -3367,6 +3624,7 @@
 		<zh-CN>库拉河</zh-CN>
 		<pt-BR>Rio Kura~o Rio Kura~do Rio Kura</pt-BR>
 		<ko>쿠라강</ko>
+		<fixja>クラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KYDONIA_PLAIN</zType>
@@ -3380,6 +3638,7 @@
 		<zh-CN>基多尼亚平原</zh-CN>
 		<pt-BR>Planície da Cidônia~a Planície da Cidônia~da Planície da Cidônia</pt-BR>
 		<ko>키도니아평원</ko>
+		<fixja>キドニア平野</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KYTHNOS_ISLAND</zType>
@@ -3393,6 +3652,7 @@
 		<zh-CN>基斯诺斯岛</zh-CN>
 		<pt-BR>Ilha de Cítnos~a Ilha de Cítnos~da Ilha de Cítnos</pt-BR>
 		<ko>키트노스섬</ko>
+		<fixja>キトノス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KYZYLKUM_DESERT</zType>
@@ -3406,6 +3666,7 @@
 		<zh-CN>克孜勒库姆沙漠</zh-CN>
 		<pt-BR>Deserto de Kyzyl Kum~o Deserto de Kyzyl Kum~do Deserto de Kyzyl Kum</pt-BR>
 		<ko>키질쿰사막</ko>
+		<fixja>キジルクム砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LACONIC_GULF</zType>
@@ -3419,6 +3680,7 @@
 		<zh-CN>拉科尼亚湾</zh-CN>
 		<pt-BR>Golfo Laconiano~o Golfo Laconiano~do Golfo Laconiano</pt-BR>
 		<ko>라코니아만</ko>
+		<fixja>ラコニック湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAGODEKHI_BEECH_FOREST</zType>
@@ -3432,6 +3694,7 @@
 		<zh-CN>拉戈德基山毛榉森林</zh-CN>
 		<pt-BR>Floresta de Faias de Lagodekhi~a Floresta de Faias de Lagodekhi~da Floresta de Faias de Lagodekhi</pt-BR>
 		<ko>라고데키 너도밤나무 숲</ko>
+		<fixja>ラゴデキ・ブナ林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAGOON_OF_ALTINUM</zType>
@@ -3445,6 +3708,7 @@
 		<zh-CN>阿尔蒂努姆泻湖</zh-CN>
 		<pt-BR>Lagoa de Altino~a Lagoa de Altino~da Lagoa de Altino</pt-BR>
 		<ko>알티눔 석호</ko>
+		<fixja>​アルティヌムのラグーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_BALATON</zType>
@@ -3458,6 +3722,7 @@
 		<zh-CN>巴拉顿湖</zh-CN>
 		<pt-BR>Lago Balaton~o Lago Balaton~do Lago Balaton</pt-BR>
 		<ko>발라톤호</ko>
+		<fixja>バラトン湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_BENACUS</zType>
@@ -3471,6 +3736,7 @@
 		<zh-CN>贝纳库斯湖</zh-CN>
 		<pt-BR>Lago Benaco~o Lago Benaco~do Lago Benaco</pt-BR>
 		<ko>베나쿠스호</ko>
+		<fixja>ベナカス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_BOLBE</zType>
@@ -3484,6 +3750,7 @@
 		<zh-CN>博尔贝湖</zh-CN>
 		<pt-BR>Lago Bolbe~o Lago Bolbe~do Lago Bolbe</pt-BR>
 		<ko>볼베호</ko>
+		<fixja>ボルベ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_BRIGANTINUS</zType>
@@ -3497,6 +3764,7 @@
 		<zh-CN>布里根提努斯湖</zh-CN>
 		<pt-BR>Lago Brigantino~o Lago Brigantino~do Lago Brigantino</pt-BR>
 		<ko>브리간티누스호</ko>
+		<fixja>ブリガンティヌス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_BRYGEIS</zType>
@@ -3510,6 +3778,7 @@
 		<zh-CN>布赖盖斯湖</zh-CN>
 		<pt-BR>Lago Brygeis~o Lago Brygeis~do Lago Brygeis</pt-BR>
 		<ko>브리게이스호</ko>
+		<fixja>ブリゲイス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_FLEVO</zType>
@@ -3523,6 +3792,7 @@
 		<zh-CN>弗莱沃湖</zh-CN>
 		<pt-BR>Lago Flevo~o Lago Flevo~do Lago Flevo</pt-BR>
 		<ko>플레보호</ko>
+		<fixja>フレヴォ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_FUCINUS</zType>
@@ -3536,6 +3806,7 @@
 		<zh-CN>富奇努斯湖</zh-CN>
 		<pt-BR>Lago Fucino~o Lago Fucino~do Lago Fucino</pt-BR>
 		<ko>푸키누스호</ko>
+		<fixja>​フキヌス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_HABBANIYAH</zType>
@@ -3549,6 +3820,7 @@
 		<zh-CN>哈巴尼亚湖</zh-CN>
 		<pt-BR>Lago Habbaniyah~o Lago Habbaniyah~do Lago Habbaniyah</pt-BR>
 		<ko>하바니야호</ko>
+		<fixja>ハバニヤー湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_HAZAR</zType>
@@ -3562,6 +3834,7 @@
 		<zh-CN>哈扎尔湖</zh-CN>
 		<pt-BR>Lago Hazar~o Lago Hazar~do Lago Hazar</pt-BR>
 		<ko>하자르호</ko>
+		<fixja>ハザル湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_HYLIKE</zType>
@@ -3575,6 +3848,7 @@
 		<zh-CN>海利克湖</zh-CN>
 		<pt-BR>Lago Hylike~o Lago Hylike~do Lago Hylike</pt-BR>
 		<ko>힐리케호</ko>
+		<fixja>ハイリケ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_KORONEIA</zType>
@@ -3588,6 +3862,7 @@
 		<zh-CN>科罗尼亚湖</zh-CN>
 		<pt-BR>Lago Koroneia~o Lago Koroneia~do Lago Koroneia</pt-BR>
 		<ko>코로네이아호</ko>
+		<fixja>コロネイア湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_KUNDI</zType>
@@ -3601,6 +3876,7 @@
 		<zh-CN>昆迪湖</zh-CN>
 		<pt-BR>Lago Kundi~o Lago Kundi~do Lago Kundi</pt-BR>
 		<ko>쿤디호</ko>
+		<fixja>クンディ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_LARIUS</zType>
@@ -3614,6 +3890,7 @@
 		<zh-CN>拉里乌斯湖</zh-CN>
 		<pt-BR>Lago Lario~o Lago Lario~do Lago Lario</pt-BR>
 		<ko>라리우스호</ko>
+		<fixja>ラリウス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_LEMANUS</zType>
@@ -3627,6 +3904,7 @@
 		<zh-CN>莱马努斯湖</zh-CN>
 		<pt-BR>Lago Lemano~o Lago Lemano~do Lago Lemano</pt-BR>
 		<ko>레마누스호</ko>
+		<fixja>​レマヌス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_MELLAH</zType>
@@ -3640,6 +3918,7 @@
 		<zh-CN>梅拉湖</zh-CN>
 		<pt-BR>Lago Mellah~o Lago Mellah~do Lago Mellah</pt-BR>
 		<ko>멜라호</ko>
+		<fixja>メラー湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_MOERIS</zType>
@@ -3653,6 +3932,7 @@
 		<zh-CN>莫里斯湖</zh-CN>
 		<pt-BR>Lago Moeris~o Lago Moeris~do Lago Moeris</pt-BR>
 		<ko>모에리스호</ko>
+		<fixja>モエリス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_OF_FETZARA</zType>
@@ -3666,6 +3946,7 @@
 		<zh-CN>费扎拉湖</zh-CN>
 		<pt-BR>Lago de Fetzara~o Lago de Fetzara~do Lago de Fetzara</pt-BR>
 		<ko>페트자라호</ko>
+		<fixja>フェザラ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_OF_TUNIS</zType>
@@ -3679,6 +3960,7 @@
 		<zh-CN>突尼西亚湖</zh-CN>
 		<pt-BR>Lago de Tunes~o Lago de Tunes~do Lago de Tunes</pt-BR>
 		<ko>투니스호</ko>
+		<fixja>チュニス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_OUBEIRA</zType>
@@ -3692,6 +3974,7 @@
 		<zh-CN>奥贝拉湖</zh-CN>
 		<pt-BR>Lago Oubeira~o Lago Oubeira~do Lago Oubeira</pt-BR>
 		<ko>오우베이라호</ko>
+		<fixja>オベイラ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_PAMVOTIS</zType>
@@ -3705,6 +3988,7 @@
 		<zh-CN>帕姆沃蒂斯湖</zh-CN>
 		<pt-BR>Lago Pamvotis~o Lago Pamvotis~do Lago Pamvotis</pt-BR>
 		<ko>팜보티스호</ko>
+		<fixja>パンボティス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_SABATINUS</zType>
@@ -3718,6 +4002,7 @@
 		<zh-CN>萨巴蒂努斯湖</zh-CN>
 		<pt-BR>Lago Sabatino~o Lago Sabatino~do Lago Sabatino</pt-BR>
 		<ko>사바티누스호</ko>
+		<fixja>サバティヌス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_SERBONIS</zType>
@@ -3731,6 +4016,7 @@
 		<zh-CN>塞尔博尼斯湖</zh-CN>
 		<pt-BR>Lago Serbonis~o Lago Serbonis~do Lago Serbonis</pt-BR>
 		<ko>세르보니스호</ko>
+		<fixja>セルボニス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_SEVAN</zType>
@@ -3744,6 +4030,7 @@
 		<zh-CN>塞万湖</zh-CN>
 		<pt-BR>Lago Sevan~o Lago Sevan~do Lago Sevan</pt-BR>
 		<ko>세반호</ko>
+		<fixja>セヴァン湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_STYMPHALIA</zType>
@@ -3757,6 +4044,7 @@
 		<zh-CN>斯泰姆法利亚湖</zh-CN>
 		<pt-BR>Lago Stymphalia~o Lago Stymphalia~do Lago Stymphalia</pt-BR>
 		<ko>스팀팔로스호</ko>
+		<fixja>スティムファリア湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_TANA</zType>
@@ -3770,6 +4058,7 @@
 		<zh-CN>塔纳湖</zh-CN>
 		<pt-BR>Lago Tana~o Lago Tana~do Lago Tana</pt-BR>
 		<ko>타나호</ko>
+		<fixja>タナ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_TRASUMENNUS</zType>
@@ -3783,6 +4072,7 @@
 		<zh-CN>特拉苏门努斯湖</zh-CN>
 		<pt-BR>Lago Trasumeno~o Lago Trasumeno~do Lago Trasumeno</pt-BR>
 		<ko>트라수멘누스호</ko>
+		<fixja>トラシメヌス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_TREPHIA</zType>
@@ -3796,6 +4086,7 @@
 		<zh-CN>特雷菲亚湖</zh-CN>
 		<pt-BR>Lago Trephia~o Lago Trephia~do Lago Trephia</pt-BR>
 		<ko>트레피아호</ko>
+		<fixja>トレフィア湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_TRICHONIS</zType>
@@ -3809,6 +4100,7 @@
 		<zh-CN>特里乔尼斯湖</zh-CN>
 		<pt-BR>Lago Trichonis~o Lago Trichonis~do Lago Trichonis</pt-BR>
 		<ko>트리코니스호</ko>
+		<fixja>トリコニス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_TRITONIS</zType>
@@ -3822,6 +4114,7 @@
 		<zh-CN>特里托尼斯湖</zh-CN>
 		<pt-BR>Lago Tritonis~o Lago Tritonis~do Lago Tritonis</pt-BR>
 		<ko>트리토니스호</ko>
+		<fixja>トリトニス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_URMIA</zType>
@@ -3835,6 +4128,7 @@
 		<zh-CN>乌尔米亚湖</zh-CN>
 		<pt-BR>Lago Úrmia~o Lago Úrmia~do Lago Úrmia</pt-BR>
 		<ko>우르미아호</ko>
+		<fixja>ウルミエ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_VAN</zType>
@@ -3848,6 +4142,7 @@
 		<zh-CN>万恩湖</zh-CN>
 		<pt-BR>Lago de Vã~o Lago de Vã~do Lago de Vã</pt-BR>
 		<ko>반호</ko>
+		<fixja>ヴァン湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_VERBANUS</zType>
@@ -3861,6 +4156,7 @@
 		<zh-CN>韦尔巴努斯湖</zh-CN>
 		<pt-BR>Lago Verbano~o Lago Verbano~do Lago Verbano</pt-BR>
 		<ko>베르바누스호</ko>
+		<fixja>ヴェルバヌス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAMBAESIS</zType>
@@ -3874,6 +4170,7 @@
 		<zh-CN>兰贝西斯</zh-CN>
 		<pt-BR>Lambésis~Lambésis~de Lambésis</pt-BR>
 		<ko>람베시스</ko>
+		<fixja>ランベシス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LASITHI_PLATEAU</zType>
@@ -3887,6 +4184,7 @@
 		<zh-CN>拉西蒂高原</zh-CN>
 		<pt-BR>Planalto de Lasithi~o Planalto de Lasithi~do Planalto de Lasithi</pt-BR>
 		<ko>라시티고원</ko>
+		<fixja>ラシティ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LATIUM_VALLEY</zType>
@@ -3900,6 +4198,7 @@
 		<zh-CN>拉蒂姆谷</zh-CN>
 		<pt-BR>Vale do Látio~o Vale do Látio~do Vale do Látio</pt-BR>
 		<ko>라티눔 계곡</ko>
+		<fixja>ラティウム渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAVAN_ISLAND</zType>
@@ -3913,6 +4212,7 @@
 		<zh-CN>拉文岛</zh-CN>
 		<pt-BR>Ilha Lavan~a Ilha Lavan~da Ilha Lavan</pt-BR>
 		<ko>라반섬</ko>
+		<fixja>ラバン島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LEBANON_MOUNTAINS</zType>
@@ -3926,6 +4226,7 @@
 		<zh-CN>黎巴嫩山脉</zh-CN>
 		<pt-BR>Montanhas do Líbano~as Montanhas do Líbano~das Montanhas do Líbano</pt-BR>
 		<ko>레바논산맥</ko>
+		<fixja>レバノン山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LEFKA_ORI</zType>
@@ -3939,6 +4240,7 @@
 		<zh-CN>雷夫卡欧里山脉</zh-CN>
 		<pt-BR>Montanhas Brancas~as Montanhas Brancas~das Montanhas Brancas</pt-BR>
 		<ko>레프카 오리</ko>
+		<fixja>レフカオリ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LELANTINE_PLAIN</zType>
@@ -3952,6 +4254,7 @@
 		<zh-CN>莱兰丁平原</zh-CN>
 		<pt-BR>Planície Lelantina~a Planície Lelantina~da Planície Lelantina</pt-BR>
 		<ko>렐란티네평야</ko>
+		<fixja>レランティン平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LEMNOS_ISLAND</zType>
@@ -3965,6 +4268,7 @@
 		<zh-CN>利姆诺斯岛</zh-CN>
 		<pt-BR>Ilha de Lemnos~a Ilha de Lemnos~da Ilha de Lemnos</pt-BR>
 		<ko>렘노스섬</ko>
+		<fixja>リムノス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LESVOS_ISLAND</zType>
@@ -3978,6 +4282,7 @@
 		<zh-CN>莱斯博斯岛</zh-CN>
 		<pt-BR>Ilha de Lesbos~a Ilha de Lesbos~da Ilha de Lesbos</pt-BR>
 		<ko>레스보스섬</ko>
+		<fixja>レスボス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIBYAN_DESERT</zType>
@@ -3991,6 +4296,7 @@
 		<zh-CN>利比亚沙漠</zh-CN>
 		<pt-BR>Deserto da Líbia~o Deserto da Líbia~do Deserto da Líbia</pt-BR>
 		<ko>리비아사막</ko>
+		<fixja>リビア砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIBYAN_PLATEAU</zType>
@@ -4004,6 +4310,7 @@
 		<zh-CN>利比亚高原</zh-CN>
 		<pt-BR>Planalto Líbio~o Planalto Líbio~do Planalto Líbio</pt-BR>
 		<ko>리비아고원</ko>
+		<fixja>リビア高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIGER_RIVER</zType>
@@ -4017,6 +4324,7 @@
 		<zh-CN>里格河</zh-CN>
 		<pt-BR>Rio Líger~o Rio Líger~do Rio Líger</pt-BR>
 		<ko>리게르강</ko>
+		<fixja>ロワール川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIGURIAN_SEA</zType>
@@ -4030,6 +4338,7 @@
 		<zh-CN>利古里亚海</zh-CN>
 		<pt-BR>Mar da Ligúria~o Mar da Ligúria~do Mar da Ligúria</pt-BR>
 		<ko>리구리아해</ko>
+		<fixja>リグリア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIRIS_RIVER</zType>
@@ -4043,6 +4352,7 @@
 		<zh-CN>利里斯河</zh-CN>
 		<pt-BR>Rio Liris~o Rio Liris~do Rio Liris</pt-BR>
 		<ko>리리스강</ko>
+		<fixja>リリス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIVIKON_PELAGOS</zType>
@@ -4056,6 +4366,7 @@
 		<zh-CN>里维科海</zh-CN>
 		<pt-BR>Mar da Líbia~o Mar da Líbia~do Mar da Líbia</pt-BR>
 		<ko>리비코 펠라고스</ko>
+		<fixja>​リヴィコンペラゴス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LOCH_NEAGH</zType>
@@ -4069,6 +4380,7 @@
 		<zh-CN>内伊湖</zh-CN>
 		<pt-BR>Lago Neagh~o Lago Neagh~do Lago Neagh</pt-BR>
 		<ko>네이호</ko>
+		<fixja>ネイ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LOPADOUSSA_ISLAND</zType>
@@ -4082,6 +4394,7 @@
 		<zh-CN>洛帕杜萨岛</zh-CN>
 		<pt-BR>Ilha de Lopadoussa~a Ilha de Lopadoussa~da Ilha de Lopadoussa</pt-BR>
 		<ko>로파도우사섬</ko>
+		<fixja>ロパドゥーサ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LOSER_PLATEAU</zType>
@@ -4095,6 +4408,7 @@
 		<zh-CN>洛瑟高原</zh-CN>
 		<pt-BR>Planalto de Loser~o Planalto de Loser~do Planalto de Loser</pt-BR>
 		<ko>로세르고원</ko>
+		<fixja>ルーザー高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LUDOGORIE_PLATEAU</zType>
@@ -4108,6 +4422,7 @@
 		<zh-CN>卢多戈里高原</zh-CN>
 		<pt-BR>Planalto de Ludogorie~o Planalto de Ludogorie~do Planalto de Ludogorie</pt-BR>
 		<ko>루도고리에고원</ko>
+		<fixja>ルドゴリエ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MACESTUS_RIVER</zType>
@@ -4121,6 +4436,7 @@
 		<zh-CN>马塞斯托斯河</zh-CN>
 		<pt-BR>Rio Macestus~o Rio Macestus~do Rio Macestus</pt-BR>
 		<ko>마케스토스강</ko>
+		<fixja>マケストス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MADEIRA_ISLAND</zType>
@@ -4134,6 +4450,7 @@
 		<zh-CN>马德拉岛</zh-CN>
 		<pt-BR>Ilha da Madeira~a Ilha da Madeira~da Ilha da Madeira</pt-BR>
 		<ko>마데이라섬</ko>
+		<fixja>マデイラ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MADES_VALLEY</zType>
@@ -4147,6 +4464,7 @@
 		<zh-CN>马兹谷</zh-CN>
 		<pt-BR>Vale de Mades~o Vale de Mades~do Vale de Mades</pt-BR>
 		<ko>마데스 계곡</ko>
+		<fixja>マデス渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAEANDER_RIVER</zType>
@@ -4160,6 +4478,7 @@
 		<zh-CN>梅安德河</zh-CN>
 		<pt-BR>Rio Menderes~o Rio Menderes~do Rio Menderes</pt-BR>
 		<ko>마이안데르 계곡</ko>
+		<fixja>メアンダー川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAEOTIAN_LAKE</zType>
@@ -4173,6 +4492,7 @@
 		<zh-CN>麦奥提斯湖</zh-CN>
 		<pt-BR>Lago Maeotian~o Lago Maeotian~do Lago Maeotian</pt-BR>
 		<ko>마이오티스호</ko>
+		<fixja>マエオティアン湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAHARLOO_LAKE</zType>
@@ -4186,6 +4506,7 @@
 		<zh-CN>马哈鲁湖</zh-CN>
 		<pt-BR>Lago Maharlu~o Lago Maharlu~do Lago Maharlu</pt-BR>
 		<ko>마할루호</ko>
+		<fixja>マハルー湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAJARDAH_VALLEY</zType>
@@ -4199,6 +4520,7 @@
 		<zh-CN>马亚尔达谷</zh-CN>
 		<pt-BR>Vale de Majardah~o Vale de Majardah~do Vale de Majardah</pt-BR>
 		<ko>마자르다 계곡</ko>
+		<fixja>マジャルダ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MALIAN_GULF</zType>
@@ -4212,6 +4534,7 @@
 		<zh-CN>马里湾</zh-CN>
 		<pt-BR>Golfo de Mália~o Golfo de Mália~do Golfo de Mália</pt-BR>
 		<ko>말리아코스만</ko>
+		<fixja>マリアン湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MALUA_RIVER</zType>
@@ -4225,6 +4548,7 @@
 		<zh-CN>穆洛亚河</zh-CN>
 		<pt-BR>Rio Moluia~o Rio Moluia~do Rio Moluia</pt-BR>
 		<ko>물루야강</ko>
+		<fixja>ムールーヤ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MANGROVE_FOREST_OF_QESHM</zType>
@@ -4238,6 +4562,7 @@
 		<zh-CN>格什姆红树林</zh-CN>
 		<pt-BR>Manguezal de Qeshm~o Manguezal de Qeshm~do Manguezal de Qeshm</pt-BR>
 		<ko>케슘 홍수림</ko>
+		<fixja>ケシュムのマングローブ林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAQUIS_SHRUBLAND</zType>
@@ -4251,6 +4576,7 @@
 		<zh-CN>马基斯灌丛带</zh-CN>
 		<pt-BR>Mata de Maquis~a Mata de Maquis~da Mata de Maquis</pt-BR>
 		<ko>마키스 관목림</ko>
+		<fixja>マキ灌木地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARANJAB_DESERT</zType>
@@ -4264,6 +4590,7 @@
 		<zh-CN>马拉尼亚布沙漠</zh-CN>
 		<pt-BR>Deserto de Maranjab~o Deserto de Maranjab~do Deserto de Maranjab</pt-BR>
 		<ko>마란자브사막</ko>
+		<fixja>マランジャブ砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARANO_LAGOON</zType>
@@ -4277,6 +4604,7 @@
 		<zh-CN>马拉诺泻湖</zh-CN>
 		<pt-BR>Lagoa de Marano~a Lagoa de Marano~da Lagoa de Marano</pt-BR>
 		<ko>마라노 석호</ko>
+		<fixja>マラノラグーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAREB_RIVER</zType>
@@ -4290,6 +4618,7 @@
 		<zh-CN>马里卜河</zh-CN>
 		<pt-BR>Rio Mareb~o Rio Mareb~do Rio Mareb</pt-BR>
 		<ko>마레브강</ko>
+		<fixja>マレブ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARISUS_RIVER</zType>
@@ -4303,6 +4632,7 @@
 		<zh-CN>马里苏斯河</zh-CN>
 		<pt-BR>Rio Marisus~o Rio Marisus~do Rio Marisus</pt-BR>
 		<ko>마리수스강</ko>
+		<fixja>マリサス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARNE_RIVER</zType>
@@ -4316,6 +4646,7 @@
 		<zh-CN>马恩河</zh-CN>
 		<pt-BR>Rio Marne~o Rio Marne~do Rio Marne</pt-BR>
 		<ko>마르네강</ko>
+		<fixja>マルヌ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MASOVIAN_PLAIN</zType>
@@ -4329,6 +4660,7 @@
 		<zh-CN>马佐夫舍平原</zh-CN>
 		<pt-BR>Planície Masoviana~a Planície Masoviana~da Planície Masoviana</pt-BR>
 		<ko>마조비아평원</ko>
+		<fixja>マゾフシェ平野</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAURA_RIVER</zType>
@@ -4342,6 +4674,7 @@
 		<zh-CN>莫拉河</zh-CN>
 		<pt-BR>Rio Maura~o Rio Maura~do Rio Maura</pt-BR>
 		<ko>마라강</ko>
+		<fixja>​マウラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAURETANIA_TINGITANA</zType>
@@ -4355,6 +4688,7 @@
 		<zh-CN>廷吉塔纳毛里塔尼亚</zh-CN>
 		<pt-BR>Mauritânia Tingitana~a Mauritânia Tingitana~da Mauritânia Tingitana</pt-BR>
 		<ko>마우레타니아 팅기타나</ko>
+		<fixja>マウレタニア・ティンギタナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAZANDARAN_FOREST</zType>
@@ -4368,6 +4702,7 @@
 		<zh-CN>马赞达兰森林</zh-CN>
 		<pt-BR>Floresta do Mazandarão~a Floresta do Mazandarão~da Floresta do Mazandarão</pt-BR>
 		<ko>마잔다란 숲</ko>
+		<fixja>マーザンダラーンの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEDITERRANEAN_SEA</zType>
@@ -4381,6 +4716,7 @@
 		<zh-CN>地中海</zh-CN>
 		<pt-BR>Mar Mediterrâneo~o Mar Mediterrâneo~do Mar Mediterrâneo</pt-BR>
 		<ko>지중해</ko>
+		<fixja>地中海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEGARA_GULF</zType>
@@ -4394,6 +4730,7 @@
 		<zh-CN>梅加拉湾</zh-CN>
 		<pt-BR>Golfo de Mégara~o Golfo de Mégara~do Golfo de Mégara</pt-BR>
 		<ko>메가라만</ko>
+		<fixja>メガラ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MELITE_ISLAND</zType>
@@ -4407,6 +4744,7 @@
 		<zh-CN>梅莱特岛</zh-CN>
 		<pt-BR>Ilha de Melita~a Ilha de Melita~da Ilha de Melita</pt-BR>
 		<ko>멜리테섬</ko>
+		<fixja>メリテ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MELOS_ISLAND</zType>
@@ -4420,6 +4758,7 @@
 		<zh-CN>梅洛斯岛</zh-CN>
 		<pt-BR>Ilha de Milos~a Ilha de Milos~da Ilha de Milos</pt-BR>
 		<ko>멜로스섬</ko>
+		<fixja>メロス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMPHIS</zType>
@@ -4433,6 +4772,7 @@
 		<zh-CN>孟斐斯</zh-CN>
 		<pt-BR>Mênfis~Mênfis~de Mênfis</pt-BR>
 		<ko>멤피스</ko>
+		<fixja>メンフィス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MESAORIA_PLAIN</zType>
@@ -4446,6 +4786,7 @@
 		<zh-CN>迈萨里亚平原</zh-CN>
 		<pt-BR>Planície de Mesaoria~a Planície de Mesaoria~da Planície de Mesaoria</pt-BR>
 		<ko>메사오리아평야</ko>
+		<fixja>メサオリア平野</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MESETA_PLATEAU</zType>
@@ -4459,6 +4800,7 @@
 		<zh-CN>梅塞塔高原</zh-CN>
 		<pt-BR>Meseta Central~a Meseta Central~da Meseta Central</pt-BR>
 		<ko>메세타 고원</ko>
+		<fixja>メセタ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MESSARA_PLAIN</zType>
@@ -4472,6 +4814,7 @@
 		<zh-CN>梅萨拉平原</zh-CN>
 		<pt-BR>Planície de Messara~a Planície de Messara~da Planície de Messara</pt-BR>
 		<ko>메사라평야</ko>
+		<fixja>メサラ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MESSINIAN_GULF</zType>
@@ -4485,6 +4828,7 @@
 		<zh-CN>梅锡尼亚湾</zh-CN>
 		<pt-BR>Golfo de Messênia~o Golfo de Messênia~do Golfo de Messênia</pt-BR>
 		<ko>메세니아만</ko>
+		<fixja>メシニアン湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_METAURUS_RIVER</zType>
@@ -4498,6 +4842,7 @@
 		<zh-CN>梅塔鲁斯河</zh-CN>
 		<pt-BR>Rio Metauro~o Rio Metauro~do Rio Metauro</pt-BR>
 		<ko>메타우루스강</ko>
+		<fixja>メタウルス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_METHANA</zType>
@@ -4511,6 +4856,7 @@
 		<zh-CN>迈萨纳</zh-CN>
 		<pt-BR>Vulcão Methana~o Vulcão Methana~do Vulcão Methana</pt-BR>
 		<ko>메타나</ko>
+		<fixja>メタナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MIRABELLO_BAY</zType>
@@ -4524,6 +4870,7 @@
 		<zh-CN>米拉贝洛湾</zh-CN>
 		<pt-BR>Baía de Mirabelo~a Baía de Mirabelo~da Baía de Mirabelo</pt-BR>
 		<ko>미라벨로만</ko>
+		<fixja>ミラベッロ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOGOD_MOUNTAINS</zType>
@@ -4537,6 +4884,7 @@
 		<zh-CN>摩戈德山脉</zh-CN>
 		<pt-BR>Montanhas Mogod~as Montanhas Mogod~das Montanhas Mogod</pt-BR>
 		<ko>모고드산</ko>
+		<fixja>モゴド山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOGRAT_ISLAND</zType>
@@ -4550,6 +4898,7 @@
 		<zh-CN>莫格拉特岛</zh-CN>
 		<pt-BR>Ilha Mograt~a Ilha Mograt~da Ilha Mograt</pt-BR>
 		<ko>모그라트섬</ko>
+		<fixja>モグラット島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOKATTAM</zType>
@@ -4563,6 +4912,7 @@
 		<zh-CN>摩卡坦丘陵</zh-CN>
 		<pt-BR>Montanha de Mokattam~a Montanha de Mokattam~da Montanha de Mokattam</pt-BR>
 		<ko>모카탐</ko>
+		<fixja>モカッタム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOLDOVENU_PEAK</zType>
@@ -4576,6 +4926,7 @@
 		<zh-CN>莫尔多瓦努峰</zh-CN>
 		<pt-BR>Monte Moldoveanu~o Monte Moldoveanu~do Monte Moldoveanu</pt-BR>
 		<ko>몰도베아누봉</ko>
+		<fixja>モルドベアヌ峰</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MONA_ISLAND</zType>
@@ -4589,6 +4940,7 @@
 		<zh-CN>莫纳岛</zh-CN>
 		<pt-BR>Ilha de Mona~a Ilha de Mona~da Ilha de Mona</pt-BR>
 		<ko>모나섬</ko>
+		<fixja>モナ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MONTE_AMIATA</zType>
@@ -4602,6 +4954,7 @@
 		<zh-CN>阿米亚塔山</zh-CN>
 		<pt-BR>Monte Amiata~o Monte Amiata~do Monte Amiata</pt-BR>
 		<ko>몬테 아미아타</ko>
+		<fixja>モンテアミアータ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MONTE_VULTURE</zType>
@@ -4615,6 +4968,7 @@
 		<zh-CN>武尔图雷山</zh-CN>
 		<pt-BR>Monte Vulture~o Monte Vulture~do Monte Vulture</pt-BR>
 		<ko>몬테 불투레</ko>
+		<fixja>モンテ・ヴァルチャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MONTEREY_PINE_FOREST</zType>
@@ -4628,6 +4982,7 @@
 		<zh-CN>蒙特雷松林</zh-CN>
 		<pt-BR>Floresta de Pinheiros-de-Monterey~a Floresta de Pinheiros-de-Monterey~da Floresta de Pinheiros-de-Monterey</pt-BR>
 		<ko>몬테레이 소나무 숲</ko>
+		<fixja>モントレー松林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOSA_RIVER</zType>
@@ -4641,6 +4996,7 @@
 		<zh-CN>蒙莎河</zh-CN>
 		<pt-BR>Rio Mosa~o Rio Mosa~do Rio Mosa</pt-BR>
 		<ko>모사강</ko>
+		<fixja>モサ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOSELLA_RIVER</zType>
@@ -4654,6 +5010,7 @@
 		<zh-CN>摩塞拉河</zh-CN>
 		<pt-BR>Rio Mosela~o Rio Mosela~do Rio Mosela</pt-BR>
 		<ko>모셀라강</ko>
+		<fixja>モゼラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_AETNA</zType>
@@ -4667,6 +5024,7 @@
 		<zh-CN>安特纳火山</zh-CN>
 		<pt-BR>Monte Etna~o Monte Etna~do Monte Etna</pt-BR>
 		<ko>아이트나</ko>
+		<fixja>エトナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ALFAF</zType>
@@ -4680,6 +5038,7 @@
 		<zh-CN>亚法山</zh-CN>
 		<pt-BR>Monte Alfaf~o Monte Alfaf~do Monte Alfaf</pt-BR>
 		<ko>알파프</ko>
+		<fixja>アルファフ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_AMARO</zType>
@@ -4693,6 +5052,7 @@
 		<zh-CN>阿马罗</zh-CN>
 		<pt-BR>Monte Amaro~o Monte Amaro~do Monte Amaro</pt-BR>
 		<ko>아마로</ko>
+		<fixja>アマロ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ARAGATS</zType>
@@ -4706,6 +5066,7 @@
 		<zh-CN>阿拉加茨山</zh-CN>
 		<pt-BR>Monte Aragats~o Monte Aragats~do Monte Aragats</pt-BR>
 		<ko>아라가츠</ko>
+		<fixja>アラガツ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ARARAT</zType>
@@ -4719,6 +5080,7 @@
 		<zh-CN>阿拉拉特山</zh-CN>
 		<pt-BR>Monte Ararate~o Monte Ararate~do Monte Ararate</pt-BR>
 		<ko>아라라트</ko>
+		<fixja>アララト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ARGAEUS</zType>
@@ -4732,6 +5094,7 @@
 		<zh-CN>埃尔吉耶斯山</zh-CN>
 		<pt-BR>Monte Argeu~o Monte Argeu~do Monte Argeu</pt-BR>
 		<ko>아르가이오스</ko>
+		<fixja>アルゲウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_AROANIA</zType>
@@ -4745,6 +5108,7 @@
 		<zh-CN>阿罗阿尼亚山</zh-CN>
 		<pt-BR>Monte Aroania~o Monte Aroania~do Monte Aroania</pt-BR>
 		<ko>아로아니아</ko>
+		<fixja>アロアニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ATHOS</zType>
@@ -4758,6 +5122,7 @@
 		<zh-CN>阿索斯山</zh-CN>
 		<pt-BR>Monte Atos~o Monte Atos~do Monte Atos</pt-BR>
 		<ko>아토스</ko>
+		<fixja>アトス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_BAZARDUZU</zType>
@@ -4771,6 +5136,7 @@
 		<zh-CN>巴扎尔久久山</zh-CN>
 		<pt-BR>Pico de Bazarduzu~o Pico de Bazarduzu~do Pico de Bazarduzu</pt-BR>
 		<ko>바자르두주</ko>
+		<fixja>バザルデュジ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_CARMEL</zType>
@@ -4784,6 +5150,7 @@
 		<zh-CN>卡梅尔</zh-CN>
 		<pt-BR>Monte Carmelo~o Monte Carmelo~do Monte Carmelo</pt-BR>
 		<ko>카르멜</ko>
+		<fixja>カーメル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_CENIS</zType>
@@ -4797,6 +5164,7 @@
 		<zh-CN>瑟尼斯山</zh-CN>
 		<pt-BR>Monte Cenis~o Monte Cenis~do Monte Cenis</pt-BR>
 		<ko>케니스</ko>
+		<fixja>スニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_CIMONE</zType>
@@ -4810,6 +5178,7 @@
 		<zh-CN>西蒙山</zh-CN>
 		<pt-BR>Monte Cimone~o Monte Cimone~do Monte Cimone</pt-BR>
 		<ko>키모네</ko>
+		<fixja>チモーネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_CORNO</zType>
@@ -4823,6 +5192,7 @@
 		<zh-CN>克诺山</zh-CN>
 		<pt-BR>Cume do Gran Sasso~o Cume do Gran Sasso~do Cume do Gran Sasso</pt-BR>
 		<ko>코르노</ko>
+		<fixja>コルノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_CORYDALLOS</zType>
@@ -4836,6 +5206,7 @@
 		<zh-CN>波以奇隆山</zh-CN>
 		<pt-BR>Montanha de Poikilon Oros~a Montanha de Poikilon Oros~da Montanha de Poikilon Oros</pt-BR>
 		<ko>포이킬론 오로스</ko>
+		<fixja>ポイキロンオロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_CYLLENE</zType>
@@ -4849,6 +5220,7 @@
 		<zh-CN>凯里尼山</zh-CN>
 		<pt-BR>Monte Cilene~o Monte Cilene~do Monte Cilene</pt-BR>
 		<ko>킬레네</ko>
+		<fixja>シリーン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_DAMAVAND</zType>
@@ -4862,6 +5234,7 @@
 		<zh-CN>德马峰</zh-CN>
 		<pt-BR>Monte Damavand~o Monte Damavand~do Monte Damavand</pt-BR>
 		<ko>다마반드</ko>
+		<fixja>ダマーヴァンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_DENA</zType>
@@ -4875,6 +5248,7 @@
 		<zh-CN>德纳山</zh-CN>
 		<pt-BR>Monte Dena~o Monte Dena~do Monte Dena</pt-BR>
 		<ko>데나</ko>
+		<fixja>デナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_DINDYMON</zType>
@@ -4888,6 +5262,7 @@
 		<zh-CN>丁迪蒙山</zh-CN>
 		<pt-BR>Monte Díndimo~o Monte Díndimo~do Monte Díndimo</pt-BR>
 		<ko>딘디몬</ko>
+		<fixja>ディンディモン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_DIRPHYS</zType>
@@ -4901,6 +5276,7 @@
 		<zh-CN>迪尔菲斯山</zh-CN>
 		<pt-BR>Montanha Dirfi~a Montanha Dirfi~da Montanha Dirfi</pt-BR>
 		<ko>디르피스</ko>
+		<fixja>ディルフィス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ELBRUS</zType>
@@ -4914,6 +5290,7 @@
 		<zh-CN>厄尔布鲁士山</zh-CN>
 		<pt-BR>Monte Elbrus~o Monte Elbrus~do Monte Elbrus</pt-BR>
 		<ko>엘브루스</ko>
+		<fixja>エルブルス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ERYMANTHOS</zType>
@@ -4927,6 +5304,7 @@
 		<zh-CN>厄曼索斯山</zh-CN>
 		<pt-BR>Monte Erimanto~o Monte Erimanto~do Monte Erimanto</pt-BR>
 		<ko>에리만토스</ko>
+		<fixja>エリマントス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ERYX</zType>
@@ -4940,6 +5318,7 @@
 		<zh-CN>埃里兹</zh-CN>
 		<pt-BR>Monte Érix~o Monte Érix~do Monte Érix</pt-BR>
 		<ko>에릭스</ko>
+		<fixja>エリュクス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_GARGANUS</zType>
@@ -4953,6 +5332,7 @@
 		<zh-CN>加尔加诺</zh-CN>
 		<pt-BR>Monte Gargano~o Monte Gargano~do Monte Gargano</pt-BR>
 		<ko>가르가누스</ko>
+		<fixja>ガルガヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_HELICON</zType>
@@ -4966,6 +5346,7 @@
 		<zh-CN>赫利孔山</zh-CN>
 		<pt-BR>Monte Hélicon~o Monte Hélicon~do Monte Hélicon</pt-BR>
 		<ko>헬리콘</ko>
+		<fixja>ヘリコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_HELLANION</zType>
@@ -4979,6 +5360,7 @@
 		<zh-CN>贺兰尼恩山</zh-CN>
 		<pt-BR>Monte Hellanion~o Monte Hellanion~do Monte Hellanion</pt-BR>
 		<ko>헬라니온</ko>
+		<fixja>ヘラニオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_HERMINIUS</zType>
@@ -4992,6 +5374,7 @@
 		<zh-CN>贺米尼厄</zh-CN>
 		<pt-BR>Monte Hermínio~o Monte Hermínio~do Monte Hermínio</pt-BR>
 		<ko>헤르미니우스</ko>
+		<fixja>ヘルミニウス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_HERMON</zType>
@@ -5005,6 +5388,7 @@
 		<zh-CN>黑门山</zh-CN>
 		<pt-BR>Monte Hérmon~o Monte Hérmon~do Monte Hérmon</pt-BR>
 		<ko>헤르몬</ko>
+		<fixja>ヘルモン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_IDA</zType>
@@ -5018,6 +5402,7 @@
 		<zh-CN>伊达</zh-CN>
 		<pt-BR>Monte Ida~o Monte Ida~do Monte Ida</pt-BR>
 		<ko>이다</ko>
+		<fixja>イダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_KAZBEK</zType>
@@ -5031,6 +5416,7 @@
 		<zh-CN>卡兹别克山</zh-CN>
 		<pt-BR>Monte Kazbek~o Monte Kazbek~do Monte Kazbek</pt-BR>
 		<ko>카즈베크</ko>
+		<fixja>カズベク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_KORAB</zType>
@@ -5044,6 +5430,7 @@
 		<zh-CN>科拉比山</zh-CN>
 		<pt-BR>Monte Korab~o Monte Korab~do Monte Korab</pt-BR>
 		<ko>코라브</ko>
+		<fixja>コラプ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_LYKAION</zType>
@@ -5057,6 +5444,7 @@
 		<zh-CN>莱卡翁山</zh-CN>
 		<pt-BR>Monte Lykaion~o Monte Lykaion~do Monte Lykaion</pt-BR>
 		<ko>리카이온</ko>
+		<fixja>リカイオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_MINTHE</zType>
@@ -5070,6 +5458,7 @@
 		<zh-CN>门塔</zh-CN>
 		<pt-BR>Monte Menta~o Monte Menta~do Monte Menta</pt-BR>
 		<ko>민테</ko>
+		<fixja>メンテー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_NEMRUD</zType>
@@ -5083,6 +5472,7 @@
 		<zh-CN>内姆鲁特山</zh-CN>
 		<pt-BR>Monte Nemrut~o Monte Nemrut~do Monte Nemrut</pt-BR>
 		<ko>넴루트</ko>
+		<fixja>ネムルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_NIPUR</zType>
@@ -5096,6 +5486,7 @@
 		<zh-CN>尼普尔</zh-CN>
 		<pt-BR>Monte Nipur~o Monte Nipur~do Monte Nipur</pt-BR>
 		<ko>니푸르</ko>
+		<fixja>ニップル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_OLYMPOS</zType>
@@ -5109,6 +5500,7 @@
 		<zh-CN>奥林波斯</zh-CN>
 		<pt-BR>Monte Olímpo~o Monte Olímpo~do Monte Olímpo</pt-BR>
 		<ko>올림포스</ko>
+		<fixja>オリンポス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_OSSA</zType>
@@ -5122,6 +5514,7 @@
 		<zh-CN>奥萨山</zh-CN>
 		<pt-BR>Monte Ossa~o Monte Ossa~do Monte Ossa</pt-BR>
 		<ko>오사</ko>
+		<fixja>オッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_OTHRYS</zType>
@@ -5135,6 +5528,7 @@
 		<zh-CN>俄特律斯山</zh-CN>
 		<pt-BR>Monte Ótris~o Monte Ótris~do Monte Ótris</pt-BR>
 		<ko>오트리스</ko>
+		<fixja>オトリュス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_PARNON</zType>
@@ -5148,6 +5542,7 @@
 		<zh-CN>帕农山脉</zh-CN>
 		<pt-BR>Monte Parnón~o Monte Parnón~do Monte Parnón</pt-BR>
 		<ko>파르논</ko>
+		<fixja>パルノン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_PELION</zType>
@@ -5161,6 +5556,7 @@
 		<zh-CN>皮立翁山</zh-CN>
 		<pt-BR>Monte Pélion~o Monte Pélion~do Monte Pélion</pt-BR>
 		<ko>펠리온</ko>
+		<fixja>ペリオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_PENTELIKON</zType>
@@ -5174,6 +5570,7 @@
 		<zh-CN>彭特利库斯山</zh-CN>
 		<pt-BR>Monte Pentélico~o Monte Pentélico~do Monte Pentélico</pt-BR>
 		<ko>펜텔리콘</ko>
+		<fixja>ペンテリコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_POLLINO</zType>
@@ -5187,6 +5584,7 @@
 		<zh-CN>波利诺山</zh-CN>
 		<pt-BR>Monte Pollino~o Monte Pollino~do Monte Pollino</pt-BR>
 		<ko>폴리노</ko>
+		<fixja>ポリーノ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_ROSA</zType>
@@ -5200,6 +5598,7 @@
 		<zh-CN>罗莎山</zh-CN>
 		<pt-BR>Monte Rosa~o Monte Rosa~do Monte Rosa</pt-BR>
 		<ko>로사</ko>
+		<fixja>ローザ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_SABALAN</zType>
@@ -5213,6 +5612,7 @@
 		<zh-CN>撒巴兰火山</zh-CN>
 		<pt-BR>Monte Sabalan~o Monte Sabalan~do Monte Sabalan</pt-BR>
 		<ko>사발란</ko>
+		<fixja>サバラン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_SANNINE</zType>
@@ -5226,6 +5626,7 @@
 		<zh-CN>桑宁山</zh-CN>
 		<pt-BR>Monte Sannine~o Monte Sannine~do Monte Sannine</pt-BR>
 		<ko>산닌</ko>
+		<fixja>サニン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_SINAI</zType>
@@ -5239,6 +5640,7 @@
 		<zh-CN>西奈</zh-CN>
 		<pt-BR>Monte Sinai~o Monte Sinai~do Monte Sinai</pt-BR>
 		<ko>시나이</ko>
+		<fixja>シナイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_SINJAR</zType>
@@ -5252,6 +5654,7 @@
 		<zh-CN>辛贾尔</zh-CN>
 		<pt-BR>Montanhas Sinjar~as Montanhas Sinjar~das Montanhas Sinjar</pt-BR>
 		<ko>신자르</ko>
+		<fixja>シンジャール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_SUPHAN</zType>
@@ -5265,6 +5668,7 @@
 		<zh-CN>苏潘山</zh-CN>
 		<pt-BR>Monte Süphan~o Monte Süphan~do Monte Süphan</pt-BR>
 		<ko>수판</ko>
+		<fixja>スパン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_TAHAT</zType>
@@ -5278,6 +5682,7 @@
 		<zh-CN>塔哈特山</zh-CN>
 		<pt-BR>Monte Tahat~o Monte Tahat~do Monte Tahat</pt-BR>
 		<ko>타하트</ko>
+		<fixja>タハット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_TIDIGHIN</zType>
@@ -5291,6 +5696,7 @@
 		<zh-CN>提迪金山</zh-CN>
 		<pt-BR>Monte Tidirhine~o Monte Tidirhine~do Monte Tidirhine</pt-BR>
 		<ko>티디긴</ko>
+		<fixja>ティディギン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_TMOLOS</zType>
@@ -5304,6 +5710,7 @@
 		<zh-CN>摩罗斯山</zh-CN>
 		<pt-BR>Monte Tmolo~o Monte Tmolo~do Monte Tmolo</pt-BR>
 		<ko>트몰로스</ko>
+		<fixja>トモーロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_TONDRAK</zType>
@@ -5317,6 +5724,7 @@
 		<zh-CN>通德拉克山</zh-CN>
 		<pt-BR>Monte Tondrak~o Monte Tondrak~do Monte Tondrak</pt-BR>
 		<ko>톤드라크</ko>
+		<fixja>トンドラク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_VARNOUS</zType>
@@ -5330,6 +5738,7 @@
 		<zh-CN>瓦诺乌斯山</zh-CN>
 		<pt-BR>Monte Varnous~o Monte Varnous~do Monte Varnous</pt-BR>
 		<ko>바르노우스</ko>
+		<fixja>ヴァルヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_VESUVIUS</zType>
@@ -5343,6 +5752,7 @@
 		<zh-CN>维苏威火山</zh-CN>
 		<pt-BR>Monte Vesúvio~o Monte Vesúvio~do Monte Vesúvio</pt-BR>
 		<ko>베수비오</ko>
+		<fixja>ベスビオ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_VETTORE</zType>
@@ -5356,6 +5766,7 @@
 		<zh-CN>维托雷山</zh-CN>
 		<pt-BR>Monte Vettore~oMonte Vettore~do Monte Vettore</pt-BR>
 		<ko>베토레</ko>
+		<fixja>ヴェットーレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_VISO</zType>
@@ -5369,6 +5780,7 @@
 		<zh-CN>维佐峰</zh-CN>
 		<pt-BR>Monte Viso~o Monte Viso~do Monte Viso</pt-BR>
 		<ko>비소</ko>
+		<fixja>ヴィーソ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MULHACEN</zType>
@@ -5382,6 +5794,7 @@
 		<zh-CN>穆拉森山</zh-CN>
 		<pt-BR>Pico Mulhacén~o Pico Mulhacén~do Pico Mulhacén</pt-BR>
 		<ko>물하센</ko>
+		<fixja>ムラセン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MULUCHA_RIVER</zType>
@@ -5395,6 +5808,7 @@
 		<zh-CN>穆鲁查河</zh-CN>
 		<pt-BR>Rio Mulucha~o Rio Mulucha~do Rio Mulucha</pt-BR>
 		<ko>물루야강</ko>
+		<fixja>ムルヤ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MUNDICUS_RIVER</zType>
@@ -5408,6 +5822,7 @@
 		<zh-CN>蒙迪库斯河</zh-CN>
 		<pt-BR>Rio Mundico~o Rio Mundico~do Rio Mundico</pt-BR>
 		<ko>문디쿠스강</ko>
+		<fixja>ムンディクス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MUNZUR_VALLEY</zType>
@@ -5421,6 +5836,7 @@
 		<zh-CN>蒙祖尔谷</zh-CN>
 		<pt-BR>Vale Munzur~o Vale Munzur~do Vale Munzur</pt-BR>
 		<ko>문주르 계곡</ko>
+		<fixja>マンズール渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MURGE_PLATEAU</zType>
@@ -5434,6 +5850,7 @@
 		<zh-CN>莫尔格高原</zh-CN>
 		<pt-BR>Planalto da Murgia~o Planalto da Murgia~do Planalto da Murgia</pt-BR>
 		<ko>무르게고원</ko>
+		<fixja>ムルゲ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MUTHUL_RIVER</zType>
@@ -5447,6 +5864,7 @@
 		<zh-CN>穆图尔河</zh-CN>
 		<pt-BR>Rio Mutul~o Rio Mutul~do Rio Mutul</pt-BR>
 		<ko>무툴강</ko>
+		<fixja>ムトゥール川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MYRTOAN_SEA</zType>
@@ -5460,6 +5878,7 @@
 		<zh-CN>米尔托安海</zh-CN>
 		<pt-BR>Mar Mirtoico~o Mar Mirtoico~do Mar Mirtoico</pt-BR>
 		<ko>미르토스해</ko>
+		<fixja>ミルトア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NABTA_PLAYA</zType>
@@ -5473,6 +5892,7 @@
 		<zh-CN>纳布塔盆地</zh-CN>
 		<pt-BR>Bacia de Nabta Plaia~a Bacia de Nabta Plaia~da Bacia de Nabta Plaia</pt-BR>
 		<ko>나브타 플라야</ko>
+		<fixja>ナブタプラヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAMAK_LAKE</zType>
@@ -5486,6 +5906,7 @@
 		<zh-CN>纳玛克湖</zh-CN>
 		<pt-BR>Lago Namak~o Lago Namak~do Lago Namak</pt-BR>
 		<ko>나마크호</ko>
+		<fixja>ナマック湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAXOS_ISLAND</zType>
@@ -5499,6 +5920,7 @@
 		<zh-CN>纳克索斯岛</zh-CN>
 		<pt-BR>Ilha de Naxos~a Ilha de Naxos~da Ilha de Naxos</pt-BR>
 		<ko>낙소스섬</ko>
+		<fixja>ナクソス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NEBRODI_MOUNTAINS</zType>
@@ -5512,6 +5934,7 @@
 		<zh-CN>内布罗迪山脉</zh-CN>
 		<pt-BR>Montes Nébrodes~os Montes Nébrodes~dos Montes Nébrodes</pt-BR>
 		<ko>네브로디산맥</ko>
+		<fixja>ネブロディ山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NEFUSA_PLATEAU</zType>
@@ -5525,6 +5948,7 @@
 		<zh-CN>内福萨高原</zh-CN>
 		<pt-BR>Planalto de Nafusa~o Planalto de Nafusa~do Planalto de Nafusa</pt-BR>
 		<ko>네푸사고원</ko>
+		<fixja>ネフサ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NESTOS_RIVER</zType>
@@ -5538,6 +5962,7 @@
 		<zh-CN>内斯托斯河</zh-CN>
 		<pt-BR>Rio Nesto~o Rio Nesto~do Rio Nesto</pt-BR>
 		<ko>네스토스강</ko>
+		<fixja>ネストス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NIDHA_PLATEAU</zType>
@@ -5551,6 +5976,7 @@
 		<zh-CN>尼达高原</zh-CN>
 		<pt-BR>Planalto de Nída~o Planalto de Nída~do Planalto de Nída</pt-BR>
 		<ko>니다고원</ko>
+		<fixja>ニダ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NILE_VALLEY</zType>
@@ -5564,6 +5990,7 @@
 		<zh-CN>尼罗河谷</zh-CN>
 		<pt-BR>Vale do Nilo~o Vale do Nilo~do Vale do Nilo</pt-BR>
 		<ko>나일 계곡</ko>
+		<fixja>ナイル渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NILUS_RIVER</zType>
@@ -5577,6 +6004,7 @@
 		<zh-CN>尼罗河</zh-CN>
 		<pt-BR>Rio Nilo~o Rio Nilo~do Rio Nilo</pt-BR>
 		<ko>닐루스강</ko>
+		<fixja>ナイル川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NISAEAN_PLAIN</zType>
@@ -5590,6 +6018,7 @@
 		<zh-CN>尼西安平原</zh-CN>
 		<pt-BR>Planície Nicéica~a Planície Nicéica~da Planície Nicéica</pt-BR>
 		<ko>니사이아평야</ko>
+		<fixja>ニサエアン平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NITRIAN_DESERT</zType>
@@ -5603,6 +6032,7 @@
 		<zh-CN>尼特里亚沙漠</zh-CN>
 		<pt-BR>Deserto da Nitria~o Deserto da Nitria~do Deserto da Nitria</pt-BR>
 		<ko>니트리아사막</ko>
+		<fixja>ニトリアン砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NUBA_MOUNTAINS</zType>
@@ -5616,6 +6046,7 @@
 		<zh-CN>努巴山脉</zh-CN>
 		<pt-BR>Montes Nuba~os Montes Nuba~dos Montes Nuba</pt-BR>
 		<ko>누바산맥</ko>
+		<fixja>ヌバ山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NUBIAN_DESERT</zType>
@@ -5629,6 +6060,7 @@
 		<zh-CN>努比亚沙漠</zh-CN>
 		<pt-BR>Deserto da Núbia~o Deserto da Núbia~do Deserto da Núbia</pt-BR>
 		<ko>누비아사막</ko>
+		<fixja>ヌビアン砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NUR_FOREST</zType>
@@ -5642,6 +6074,7 @@
 		<zh-CN>努尔森林</zh-CN>
 		<pt-BR>Floresta de Nur~a Floresta de Nur~da Floresta de Nur</pt-BR>
 		<ko>누르 숲</ko>
+		<fixja>ヌルの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OCHUS_RIVER</zType>
@@ -5655,6 +6088,7 @@
 		<zh-CN>奥库斯河</zh-CN>
 		<pt-BR>Rio Ochus~o Rio Ochus~do Rio Ochus</pt-BR>
 		<ko>오쿠스강</ko>
+		<fixja>オクス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OLLIUS_RIVER</zType>
@@ -5668,6 +6102,7 @@
 		<zh-CN>奥利乌斯河</zh-CN>
 		<pt-BR>Rio Ollius~o Rio Ollius~do Rio Ollius</pt-BR>
 		<ko>올리우스강</ko>
+		<fixja>​オリウス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OMALOS_PLATEAU</zType>
@@ -5681,6 +6116,7 @@
 		<zh-CN>奥马娄斯高原</zh-CN>
 		<pt-BR>Planalto de Omalós~o Planalto de Omalós~do Planalto de Omalós</pt-BR>
 		<ko>오말로스고원</ko>
+		<fixja>オマロス高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ORDESA_FOREST</zType>
@@ -5694,6 +6130,7 @@
 		<zh-CN>奥德萨森林</zh-CN>
 		<pt-BR>Floresta de Ordesa~a Floresta de Ordesa~da Floresta de Ordesa</pt-BR>
 		<ko>오르데사 숲</ko>
+		<fixja>オルデサの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ORGANA_ISLAND</zType>
@@ -5707,6 +6144,7 @@
 		<zh-CN>奥甘纳岛</zh-CN>
 		<pt-BR>Ilha de Organa~a Ilha de Organa~da Ilha de Organa</pt-BR>
 		<ko>오르가나섬</ko>
+		<fixja>オルガナ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ORONTES_RIVER</zType>
@@ -5720,6 +6158,7 @@
 		<zh-CN>奥龙特斯河</zh-CN>
 		<pt-BR>Rio Orontes~o Rio Orontes~do Rio Orontes</pt-BR>
 		<ko>오론테스강</ko>
+		<fixja>オロンテス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_OXUS_RIVER</zType>
@@ -5733,6 +6172,7 @@
 		<zh-CN>奥克苏斯河</zh-CN>
 		<pt-BR>Rio Oxus~o Rio Oxus~do Rio Oxus</pt-BR>
 		<ko>옥수스강</ko>
+		<fixja>オクサス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PADAN_PLAIN</zType>
@@ -5746,6 +6186,7 @@
 		<zh-CN>帕丹平原</zh-CN>
 		<pt-BR>Planície Padana~a Planície Padana~da Planície Padana</pt-BR>
 		<ko>파다나평야</ko>
+		<fixja>パダン平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PADUS_RIVER</zType>
@@ -5759,6 +6200,7 @@
 		<zh-CN>帕杜斯河</zh-CN>
 		<pt-BR>Rio Padus~o Rio Padus~do Rio Padus</pt-BR>
 		<ko>파두스강</ko>
+		<fixja>パドゥス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PAGASAEAN_GULF</zType>
@@ -5772,6 +6214,7 @@
 		<zh-CN>帕加赛安湾</zh-CN>
 		<pt-BR>Golfo Pagasético~o Golfo Pagasético~os Golfo Pagasético</pt-BR>
 		<ko>파가시티코스만</ko>
+		<fixja>パガセアン湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PALMA_ISLAND</zType>
@@ -5785,6 +6228,7 @@
 		<zh-CN>帕尔马岛</zh-CN>
 		<pt-BR>Ilha de Palma~a Ilha de Palma~da Ilha de Palma</pt-BR>
 		<ko>팔마섬</ko>
+		<fixja>パルマ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PANNONIAN_PLAIN</zType>
@@ -5798,6 +6242,7 @@
 		<zh-CN>潘诺尼亚平原</zh-CN>
 		<pt-BR>Planície da Panônia~a Planície da Panônia~da Planície da Panônia</pt-BR>
 		<ko>판노니아평야</ko>
+		<fixja>パノニアン平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PARAETONIUM</zType>
@@ -5811,6 +6256,7 @@
 		<zh-CN>帕拉托尼亚</zh-CN>
 		<pt-BR>Paraetonium~Paraetonium~de Paraetonium</pt-BR>
 		<ko>파라에토니움</ko>
+		<fixja>パラエトニウム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PAROPAMISADAE</zType>
@@ -5824,6 +6270,7 @@
 		<zh-CN>帕罗帕米萨达尔</zh-CN>
 		<pt-BR>Montanhas Paropamísadas~as Montanhas Paropamísadas~das Montanhas Paropamísadas</pt-BR>
 		<ko>파로파미사다이</ko>
+		<fixja>パロパミソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PASITIGRIS_RIVER</zType>
@@ -5837,6 +6284,7 @@
 		<zh-CN>帕西蒂格里斯河</zh-CN>
 		<pt-BR>Rio Pasitigris~o Rio Pasitigris~do Rio Pasitigris</pt-BR>
 		<ko>파시티그리스강</ko>
+		<fixja>パシチグリス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PEDEMONTIS</zType>
@@ -5850,6 +6298,7 @@
 		<zh-CN>佩德蒙蒂斯</zh-CN>
 		<pt-BR>Planície de Pedemontis~a Planície de Pedemontis~da Planície de Pedemontis</pt-BR>
 		<ko>페데몬티스</ko>
+		<fixja>ペデモンティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PELAGONIA</zType>
@@ -5863,6 +6312,7 @@
 		<zh-CN>佩拉戈尼亚</zh-CN>
 		<pt-BR>Planície da Pelagônia~a Planície da Pelagônia~da Planície da Pelagônia</pt-BR>
 		<ko>펠라고니아</ko>
+		<fixja>ペラゴニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PELOPONNESIAN_MAQUIS</zType>
@@ -5876,6 +6326,7 @@
 		<zh-CN>佩洛彭尼西亚灌丛</zh-CN>
 		<pt-BR>Maquis do Peloponeso~o Maquis do Peloponeso~do Maquis do Peloponeso</pt-BR>
 		<ko>펠레폰네소스 관목림</ko>
+		<fixja>ペロポネシアン・マキ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PERSIAN_GULF</zType>
@@ -5889,6 +6340,7 @@
 		<zh-CN>波斯湾</zh-CN>
 		<pt-BR>Golfo Pérsico~o Golfo Pérsico~do</pt-BR>
 		<ko>페르시아만</ko>
+		<fixja>ペルシャ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PERSIAN_PLATEAU</zType>
@@ -5902,6 +6354,7 @@
 		<zh-CN>波斯高原</zh-CN>
 		<pt-BR>Planalto Persa~o Planalto Persa~do Planalto Persa</pt-BR>
 		<ko>페르시아고원</ko>
+		<fixja>ペルシャ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARABIA_PETRAEA</zType>
@@ -5915,6 +6368,7 @@
 		<zh-CN>佩特拉阿拉伯</zh-CN>
 		<pt-BR>Arábia Petreia~a Arábia Petreia~da Arábia Petreia</pt-BR>
 		<ko>아라비아 페트라이아</ko>
+		<fixja>アラビア・ペトラエア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PHIOM</zType>
@@ -5928,6 +6382,7 @@
 		<zh-CN>菲翁</zh-CN>
 		<pt-BR>Lago Phiom~o Lago Phiom~do Lago Phiom</pt-BR>
 		<ko>피옴</ko>
+		<fixja>フィオム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PHOENICIAN_CEDAR_FOREST</zType>
@@ -5941,6 +6396,7 @@
 		<zh-CN>腓尼基雪松森林</zh-CN>
 		<pt-BR>Floresta Fenícia de Cedros~a Floresta Fenícia de Cedros~da Floresta Fenícia de Cedros</pt-BR>
 		<ko>페니키아 삼나무 숲</ko>
+		<fixja>フェニキア杉の森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PHOENICIAN_FIR_FOREST</zType>
@@ -5954,6 +6410,7 @@
 		<zh-CN>腓尼基冷杉林</zh-CN>
 		<pt-BR>Floresta Fenícia de Abetos~a Floresta Fenícia de Abetos~da Floresta Fenícia de Abetos</pt-BR>
 		<ko>페니키아 전나무 숲</ko>
+		<fixja>フェニキアのモミの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PIERIAN_MOUNTAINS</zType>
@@ -5967,6 +6424,7 @@
 		<zh-CN>皮耶里安山脉</zh-CN>
 		<pt-BR>Montanhas da Piéria~as Montanhas da Piéria~das Montanhas da Piéria</pt-BR>
 		<ko>피에리아산맥</ko>
+		<fixja>ピエリア山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PINDOS_MOUNTAINS</zType>
@@ -5980,6 +6438,7 @@
 		<zh-CN>平都斯山脉</zh-CN>
 		<pt-BR>Montes Pindo~os Montes Pindo~dos Montes Pindo</pt-BR>
 		<ko>핀도스산맥</ko>
+		<fixja>ピンドス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PINEIOS_RIVER</zType>
@@ -5993,6 +6452,7 @@
 		<zh-CN>皮内奥斯河</zh-CN>
 		<pt-BR>Rio Pineiós~o Rio Pineiós~do Rio Pineiós</pt-BR>
 		<ko>피네이오스강</ko>
+		<fixja>ピニオス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PISCINAMANNA_VALLEY</zType>
@@ -6006,6 +6466,7 @@
 		<zh-CN>皮西纳曼纳山谷</zh-CN>
 		<pt-BR>Vale da Piscinamanna~o Vale da Piscinamanna~do Vale da Piscinamanna</pt-BR>
 		<ko>피스키나만나 계곡</ko>
+		<fixja>ピシナマンナ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAIN_OF_CATANIA</zType>
@@ -6019,6 +6480,7 @@
 		<zh-CN>卡塔尼亚平原</zh-CN>
 		<pt-BR>Planície de Catânia~a Planície de Catânia~da Planície de Catânia</pt-BR>
 		<ko>카타니아평야</ko>
+		<fixja>カターニア平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAIN_OF_QU'E</zType>
@@ -6032,6 +6494,7 @@
 		<zh-CN>奎厄平原</zh-CN>
 		<pt-BR>Planície de Qu'e~a Planície de Qu'e~da Planície de Qu'e</pt-BR>
 		<ko>쿠에평야</ko>
+		<fixja>クエ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLATEAU_D'ASSY</zType>
@@ -6045,6 +6508,7 @@
 		<zh-CN>达西高原</zh-CN>
 		<pt-BR>Planalto de Assy~o Planalto de Assy~do Planalto de Assy</pt-BR>
 		<ko>다시고원</ko>
+		<fixja>アッシー高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLATEAU_OF_ELAM</zType>
@@ -6058,6 +6522,7 @@
 		<zh-CN>埃拉姆高原</zh-CN>
 		<pt-BR>Planalto de Elam~o Planalto de Elam~do Planalto de Elam</pt-BR>
 		<ko>엘람고원</ko>
+		<fixja>エラム高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PLAVIS_RIVER</zType>
@@ -6071,6 +6536,7 @@
 		<zh-CN>普拉维斯河</zh-CN>
 		<pt-BR>Rio Plavis~o Rio Plavis~do Rio Plavis</pt-BR>
 		<ko>플라비스강</ko>
+		<fixja>プラビス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POLLINO_FOREST</zType>
@@ -6084,6 +6550,7 @@
 		<zh-CN>波里诺森林</zh-CN>
 		<pt-BR>Floresta do Pollino~a Floresta do Pollino~da Floresta do Pollino</pt-BR>
 		<ko>폴리노 숲</ko>
+		<fixja>ポリーノの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POLOND_DESERT</zType>
@@ -6097,6 +6564,7 @@
 		<zh-CN>波隆德沙漠</zh-CN>
 		<pt-BR>Deserto de Polond~o Deserto de Polond~do Deserto de Polond</pt-BR>
 		<ko>폴론드사막</ko>
+		<fixja>ポロンド砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PONTIC_MOUNTAINS</zType>
@@ -6110,6 +6578,7 @@
 		<zh-CN>庞蒂克山脉</zh-CN>
 		<pt-BR>Montes Pônticos~os Montes Pônticos~dos Montes Pônticos</pt-BR>
 		<ko>폰투스산맥</ko>
+		<fixja>ポンティック山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PORAK</zType>
@@ -6123,6 +6592,7 @@
 		<zh-CN>波拉克火山</zh-CN>
 		<pt-BR>Vulcão Porak~o Vulcão Porak~do Vulcão Porak</pt-BR>
 		<ko>포라크</ko>
+		<fixja>ポラック</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PORATA_RIVER</zType>
@@ -6136,6 +6606,7 @@
 		<zh-CN>波拉塔河</zh-CN>
 		<pt-BR>Rio Porata~o Rio Porata~do Rio Porata</pt-BR>
 		<ko>포라타강</ko>
+		<fixja>ポラタ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PORTUS_FERRESANUS</zType>
@@ -6149,6 +6620,7 @@
 		<zh-CN>佛雷萨努群岛</zh-CN>
 		<pt-BR>Ilhas Portus Ferresanus~as Ilhas Portus Ferresanus~das Ilhas Portus Ferresanus</pt-BR>
 		<ko>포르투스 페레사누스</ko>
+		<fixja>ポルトゥス・フェレサヌス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_POSIDIUM_PINE_FOREST</zType>
@@ -6162,6 +6634,7 @@
 		<zh-CN>波西迪姆松林</zh-CN>
 		<pt-BR>Floresta de Pinheiros de Posidium~a Floresta de Pinheiros de Posidium~da Floresta de Pinheiros de Posidium</pt-BR>
 		<ko>포시디움 소나무 숲</ko>
+		<fixja>ポシジウム松林</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PYRENEES</zType>
@@ -6175,6 +6648,7 @@
 		<zh-CN>庇里牛斯山</zh-CN>
 		<pt-BR>Cordilheira dos Pireneus~a Cordilheira dos Pireneus~da Cordilheira dos Pireneus</pt-BR>
 		<ko>피레네</ko>
+		<fixja>ピレネー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_QAFLANKUH_MOUNTAINS</zType>
@@ -6188,6 +6662,7 @@
 		<zh-CN>卡夫兰库山脉</zh-CN>
 		<pt-BR>Cordilheira Qaflankuh~a Cordilheira Qaflankuh~da Cordilheira Qaflankuh</pt-BR>
 		<ko>카플란쿠산맥</ko>
+		<fixja>カフランク山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_QANDIL_MOUNTAINS</zType>
@@ -6201,6 +6676,7 @@
 		<zh-CN>坎迪尔山脉</zh-CN>
 		<pt-BR>Montanhas Qandil~as Montanhas Qandil~das Montanhas Qandil</pt-BR>
 		<ko>칸딜산맥</ko>
+		<fixja>カンディル山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_QESHM_ISLAND</zType>
@@ -6214,6 +6690,7 @@
 		<zh-CN>格什姆岛</zh-CN>
 		<pt-BR>Ilha de Qeshm~a Ilha de Qeshm~da Ilha de Qeshm</pt-BR>
 		<ko>케슘섬</ko>
+		<fixja>ケシュム島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RED_SEA</zType>
@@ -6227,6 +6704,7 @@
 		<zh-CN>红海</zh-CN>
 		<pt-BR>Mar Vermelho~o Mar Vermelho~do Mar Vermelho</pt-BR>
 		<ko>홍해</ko>
+		<fixja>紅海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RENOS_RIVER</zType>
@@ -6240,6 +6718,7 @@
 		<zh-CN>雷诺斯河</zh-CN>
 		<pt-BR>Rio Renos~o Rio Renos~do Rio Renos</pt-BR>
 		<ko>레노스강</ko>
+		<fixja>レノス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RETEZAT_FOREST</zType>
@@ -6253,6 +6732,7 @@
 		<zh-CN>雷特扎特森林</zh-CN>
 		<pt-BR>Floresta de Retezat~a Floresta de Retezat~da Floresta de Retezat</pt-BR>
 		<ko>레테자트 숲</ko>
+		<fixja>レテザットの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RHA_RIVER</zType>
@@ -6266,6 +6746,7 @@
 		<zh-CN>窝瓦河</zh-CN>
 		<pt-BR>Rio Rha~o Rio Rha~do Rio Rha</pt-BR>
 		<ko>라강</ko>
+		<fixja>ラー川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RHODANUS_RIVER</zType>
@@ -6279,6 +6760,7 @@
 		<zh-CN>罗达努斯河</zh-CN>
 		<pt-BR>Rio Rhodanus~o Rio Rhodanus~do Rio Rhodanus</pt-BR>
 		<ko>로다누스강</ko>
+		<fixja>ロダヌス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RHODES</zType>
@@ -6292,6 +6774,7 @@
 		<zh-CN>罗德岛</zh-CN>
 		<pt-BR>Ilha de Rodes~a Ilha de Rodes~da Ilha de Rodes</pt-BR>
 		<ko>로도스</ko>
+		<fixja>ロードス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RHODOPE_MOUNTAINS</zType>
@@ -6305,6 +6788,7 @@
 		<zh-CN>洛多皮山脉</zh-CN>
 		<pt-BR>Montanhas Ródope~as Montanhas Ródope~das Montanhas Ródope</pt-BR>
 		<ko>로도페</ko>
+		<fixja>ロドピ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ROWNIA_POD_SNIEZKA</zType>
@@ -6318,6 +6802,7 @@
 		<zh-CN>罗尼波史尼兹卡高原</zh-CN>
 		<pt-BR>Planalto de Rownia pod Sniezka~o Planalto de Rownia pod Sniezka~do Planalto de Rownia pod Sniezka</pt-BR>
 		<ko>로와니아 포드 스니즈카</ko>
+		<fixja>ローニア・ポッド・スニェシュカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RUBICON_RIVER</zType>
@@ -6331,6 +6816,7 @@
 		<zh-CN>鲁比肯河</zh-CN>
 		<pt-BR>Rio Rubicon~o Rio Rubicon~do Rio Rubicon</pt-BR>
 		<ko>루비콘강</ko>
+		<fixja>ルビコン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RYSY</zType>
@@ -6344,6 +6830,7 @@
 		<zh-CN>莱希山</zh-CN>
 		<pt-BR>Montanha Rysy~a Montanha Rysy~da Montanha Rysy</pt-BR>
 		<ko>리시</ko>
+		<fixja>リスィ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAHAND</zType>
@@ -6357,6 +6844,7 @@
 		<zh-CN>萨汉德火山</zh-CN>
 		<pt-BR>Monte Sahand~o Monte Sahand~do Monte Sahand</pt-BR>
 		<ko>사한드</ko>
+		<fixja>サハンド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAHARA_DESERT</zType>
@@ -6370,6 +6858,7 @@
 		<zh-CN>撒哈拉沙漠</zh-CN>
 		<pt-BR>Deserto do Saara~o Deserto do Saara~do Deserto do Saara</pt-BR>
 		<ko>사하라사막</ko>
+		<fixja>サハラ砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SALAMIS_ISLAND</zType>
@@ -6383,6 +6872,7 @@
 		<zh-CN>萨拉米斯岛</zh-CN>
 		<pt-BR>Ilha de Salamina~a Ilha de Salamina~da Ilha de Salamina</pt-BR>
 		<ko>살라미스섬</ko>
+		<fixja>サラミス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAMARA_RIVER</zType>
@@ -6396,6 +6886,7 @@
 		<zh-CN>萨马拉河</zh-CN>
 		<pt-BR>Rio Samara~o Rio Samara~do Rio Samara</pt-BR>
 		<ko>사마라강</ko>
+		<fixja>サマラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAMOS_ISLAND</zType>
@@ -6409,6 +6900,7 @@
 		<zh-CN>萨摩斯岛</zh-CN>
 		<pt-BR>Ilha de Samos~a Ilha de Samos~da Ilha de Samos</pt-BR>
 		<ko>사모스섬</ko>
+		<fixja>サモス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAMUR_RIVER</zType>
@@ -6422,6 +6914,7 @@
 		<zh-CN>萨穆尔河</zh-CN>
 		<pt-BR>Rio Samur~o Rio Samur~do Rio Samur</pt-BR>
 		<ko>사무르강</ko>
+		<fixja>サムル川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SANGARIUS_RIVER</zType>
@@ -6435,6 +6928,7 @@
 		<zh-CN>桑加里乌斯河</zh-CN>
 		<pt-BR>Rio Sangarius~o Rio Sangarius~do Rio Sangarius</pt-BR>
 		<ko>산가리우스강</ko>
+		<fixja>サンガリウス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SANUFRI_ISLAND</zType>
@@ -6448,6 +6942,7 @@
 		<zh-CN>萨努弗里岛</zh-CN>
 		<pt-BR>Ilha Sanufri~a Ilha Sanufri~da Ilha Sanufri</pt-BR>
 		<ko>사누프리섬</ko>
+		<fixja>サヌフリ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SARDINIA</zType>
@@ -6461,6 +6956,7 @@
 		<zh-CN>萨丁尼亚岛</zh-CN>
 		<pt-BR>Ilha de Sardenha~a Ilha de Sardenha~da Ilha de Sardenha</pt-BR>
 		<ko>사르데냐</ko>
+		<fixja>サルデーニャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SARONIC_GULF</zType>
@@ -6474,6 +6970,7 @@
 		<zh-CN>萨罗尼克湾</zh-CN>
 		<pt-BR>Golfo Sarónico~o Golfo Sarónico~do Golfo Sarónico</pt-BR>
 		<ko>사로니코스만</ko>
+		<fixja>サロニック湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SARYGAMYSH_LAKE</zType>
@@ -6487,6 +6984,7 @@
 		<zh-CN>萨里加梅什湖</zh-CN>
 		<pt-BR>Lago Sariqamish~o Lago Sariqamish~do Lago Sariqamish</pt-BR>
 		<ko>사리가미쉬호</ko>
+		<fixja>サリカミシュ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SAUWALD_FOREST</zType>
@@ -6500,6 +6998,7 @@
 		<zh-CN>索瓦尔德森林</zh-CN>
 		<pt-BR>Floresta de Sauwald~a Floresta de Sauwald~da Floresta de Sauwald</pt-BR>
 		<ko>사우왈드 숲</ko>
+		<fixja>ソーワルドの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SCHAMS_VALLEY</zType>
@@ -6513,6 +7012,7 @@
 		<zh-CN>沙姆斯谷</zh-CN>
 		<pt-BR>Vale de Schams~o Vale de Schams~do Vale de Schams</pt-BR>
 		<ko>샴스 계곡</ko>
+		<fixja>シャムス渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SEA_OF_CRETE</zType>
@@ -6526,6 +7026,7 @@
 		<zh-CN>克里特海</zh-CN>
 		<pt-BR>Mar de Creta~o Mar de Creta~do Mar de Creta</pt-BR>
 		<ko>크레타해</ko>
+		<fixja>クレタ海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SEA_OF_MARMARA</zType>
@@ -6539,6 +7040,7 @@
 		<zh-CN>普罗庞提斯海</zh-CN>
 		<pt-BR>Mar de Mármara~o Mar de Mármara~do Mar de Mármara</pt-BR>
 		<ko>프로폰티스</ko>
+		<fixja>プロポンティス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SEQUANA_RIVER</zType>
@@ -6552,6 +7054,7 @@
 		<zh-CN>塞夸纳河</zh-CN>
 		<pt-BR>Rio Sequana~o Rio Sequana~do Rio Sequana</pt-BR>
 		<ko>세쿠아나강</ko>
+		<fixja>セクアナ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SERIFOS_ISLAND</zType>
@@ -6565,6 +7068,7 @@
 		<zh-CN>塞里福斯岛</zh-CN>
 		<pt-BR>Ilha de Sérifos~a Ilha de Sérifos~da Ilha de Sérifos</pt-BR>
 		<ko>세리포스섬</ko>
+		<fixja>セリフォス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SHAIYB_AL-BANAT</zType>
@@ -6578,6 +7082,7 @@
 		<zh-CN>萨伊布阿巴纳山</zh-CN>
 		<pt-BR>Montanha de Shaiyb al-Banat~a Montanha de Shaiyb al-Banat~da Montanha de Shaiyb al-Banat</pt-BR>
 		<ko>샤이브 알-바나트</ko>
+		<fixja>シャイブ・アル・バナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SHANNON_RIVER</zType>
@@ -6591,6 +7096,7 @@
 		<zh-CN>西奥纳因河</zh-CN>
 		<pt-BR>Rio Sionainn~o Rio Sionainn~do Rio Sionainn</pt-BR>
 		<ko>시오나인강</ko>
+		<fixja>シャノン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SHIR_KUH</zType>
@@ -6604,6 +7110,7 @@
 		<zh-CN>西尔库山</zh-CN>
 		<pt-BR>Pico de Shir Kuh~o Pico de Shir Kuh~do Pico de Shir Kuh</pt-BR>
 		<ko>시르 쿠</ko>
+		<fixja>シール・クー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SHKHARA</zType>
@@ -6617,6 +7124,7 @@
 		<zh-CN>什哈拉山</zh-CN>
 		<pt-BR>Pico de Shkhara~o Pico de Shkhara~do Pico de Shkhara</pt-BR>
 		<ko>시카라</ko>
+		<fixja>シュハラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SIALAN</zType>
@@ -6630,6 +7138,7 @@
 		<zh-CN>席阿兰山</zh-CN>
 		<pt-BR>Pico de Sialan~o Pico de Sialan~do Pico de Sialan</pt-BR>
 		<ko>시알란</ko>
+		<fixja>シアラン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SICILY</zType>
@@ -6643,6 +7152,7 @@
 		<zh-CN>西西里</zh-CN>
 		<pt-BR>Ilha da Sicília~a Ilha da Sicília~da Ilha da Sicília</pt-BR>
 		<ko>시칠리아</ko>
+		<fixja>シチリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SIFNOS_ISLAND</zType>
@@ -6656,6 +7166,7 @@
 		<zh-CN>锡夫诺斯岛</zh-CN>
 		<pt-BR>Ilha de Sifnos~a Ilha de Sifnos~da Ilha de Sifnos</pt-BR>
 		<ko>시프노스섬</ko>
+		<fixja>シフノス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SILA_PLATEAU</zType>
@@ -6669,6 +7180,7 @@
 		<zh-CN>锡拉高原</zh-CN>
 		<pt-BR>Planalto de La Sila~o Planalto de La Sila~da Planalto de La Sila</pt-BR>
 		<ko>실라고원</ko>
+		<fixja>​シーラ高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SILARUS_RIVER</zType>
@@ -6682,6 +7194,7 @@
 		<zh-CN>锡拉鲁斯河</zh-CN>
 		<pt-BR>Rio Silarus~o Rio Silarus~do Rio Silarus</pt-BR>
 		<ko>실라루스강</ko>
+		<fixja>シラルス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SILVA_ARSIA</zType>
@@ -6695,6 +7208,7 @@
 		<zh-CN>席尔瓦阿西亚林</zh-CN>
 		<pt-BR>Floresta de Silva Arsia~a Floresta de Silva Arsia~da Floresta de Silva Arsia</pt-BR>
 		<ko>실바 아르시아</ko>
+		<fixja>シルバ・アルシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SILVA_CIMINIA</zType>
@@ -6708,6 +7222,7 @@
 		<zh-CN>西米尼亚森林</zh-CN>
 		<pt-BR>Floresta de Silva Ciminia~a Floresta de Silva Ciminia~da Floresta de Silva Ciminia</pt-BR>
 		<ko>실바 키미니아</ko>
+		<fixja>シルバ・シミニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SIMIT_ISLAND</zType>
@@ -6721,6 +7236,7 @@
 		<zh-CN>西米特岛</zh-CN>
 		<pt-BR>Ilha de Simit~a Ilha de Simit~da Ilha de Simit</pt-BR>
 		<ko>시미트섬</ko>
+		<fixja>シミット島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SINGIDUNUM_FOREST</zType>
@@ -6734,6 +7250,7 @@
 		<zh-CN>辛吉杜努姆森林</zh-CN>
 		<pt-BR>Floresta de Singiduno~a Floresta de Singiduno~da Floresta de Singiduno</pt-BR>
 		<ko>신기두눔 숲</ko>
+		<fixja>シグドゥヌムの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SINJAR_PLAIN</zType>
@@ -6747,6 +7264,7 @@
 		<zh-CN>辛贾尔平原</zh-CN>
 		<pt-BR>Planície de Sinjar~a Planície de Sinjar~da Planície de Sinjar</pt-BR>
 		<ko>신자르평원</ko>
+		<fixja>シンジャール平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SKIATHOS_ISLAND</zType>
@@ -6760,6 +7278,7 @@
 		<zh-CN>斯基亚索斯岛</zh-CN>
 		<pt-BR>Ilha de Skiathos~a Ilha de Skiathos~da Ilha de Skiathos</pt-BR>
 		<ko>스키아토스섬</ko>
+		<fixja>スキアトス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SKIRITIDA_FOREST</zType>
@@ -6773,6 +7292,7 @@
 		<zh-CN>斯基里蒂达森林</zh-CN>
 		<pt-BR>Floresta de Skiritida~a Floresta de Skiritida~da Floresta de Skiritida</pt-BR>
 		<ko>스키리티다 숲</ko>
+		<fixja>スキリティダの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SKOPELOS_ISLAND</zType>
@@ -6786,6 +7306,7 @@
 		<zh-CN>斯科派洛斯岛</zh-CN>
 		<pt-BR>Ilha de Skopelos~a Ilha de Skopelos~da Ilha de Skopelos</pt-BR>
 		<ko>스코펠로스섬</ko>
+		<fixja>スコペロス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SKYROS_ISLAND</zType>
@@ -6799,6 +7320,7 @@
 		<zh-CN>斯基罗斯岛</zh-CN>
 		<pt-BR>Ilha de Skyros~a Ilha de Skyros~da Ilha de Skyros</pt-BR>
 		<ko>스키로스섬</ko>
+		<fixja>スキロス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SOCOTRA_ISLAND</zType>
@@ -6812,6 +7334,7 @@
 		<zh-CN>索科特拉岛</zh-CN>
 		<pt-BR>Ilha de Socotra~a Ilha de Socotra~da Ilha de Socotra</pt-BR>
 		<ko>소코트라섬</ko>
+		<fixja>ソコトラ島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SOFIA_VALLEY</zType>
@@ -6825,6 +7348,7 @@
 		<zh-CN>索非亚谷</zh-CN>
 		<pt-BR>Vale de Sófia~o Vale de Sófia~do Vale de Sófia</pt-BR>
 		<ko>소피아 계곡</ko>
+		<fixja>ソフィア渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SOHANAK_FOREST</zType>
@@ -6838,6 +7362,7 @@
 		<zh-CN>索哈纳克森林</zh-CN>
 		<pt-BR>Floresta de Sohanak~a Floresta de Sohanak~da Floresta de Sohanak</pt-BR>
 		<ko>소하나크 숲</ko>
+		<fixja>ソハナクの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SORKHEH_HESAR_FOREST</zType>
@@ -6851,6 +7376,7 @@
 		<zh-CN>索赫赫萨尔森林</zh-CN>
 		<pt-BR>Floresta de Sorkheh Hesar~a Floresta de Sorkheh Hesar~da Floresta de Sorkheh Hesar</pt-BR>
 		<ko>소르케 헤사르 숲</ko>
+		<fixja>ソルケヘザールの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SOUDETA_MOUNTAINS</zType>
@@ -6864,6 +7390,7 @@
 		<zh-CN>索德塔山脉</zh-CN>
 		<pt-BR>Cordilheira Soudeta~a Cordilheira Soudeta~da Cordilheira Soudeta</pt-BR>
 		<ko>소우데타산맥</ko>
+		<fixja>スーデタ山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPERCHEIOS_VALLEY</zType>
@@ -6877,6 +7404,7 @@
 		<zh-CN>斯佩尔切约斯山谷</zh-CN>
 		<pt-BR>Vale de Spercheios~o Vale de Spercheios~do Vale de Spercheios</pt-BR>
 		<ko>스페르케이오스 계곡</ko>
+		<fixja>スペルチェイオス渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_STRYMON_RIVER</zType>
@@ -6890,6 +7418,7 @@
 		<zh-CN>斯特里蒙河</zh-CN>
 		<pt-BR>Rio Strymon~o Rio Strymon~do Rio Strymon</pt-BR>
 		<ko>스트리몬강</ko>
+		<fixja>ストリモン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBUBUS_RIVER</zType>
@@ -6903,6 +7432,7 @@
 		<zh-CN>苏布布斯河</zh-CN>
 		<pt-BR>Rio Sububo~o Rio Sububo~do Rio Sububo</pt-BR>
 		<ko>수부부스강</ko>
+		<fixja>サブブス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUBUR_RIVER</zType>
@@ -6916,6 +7446,7 @@
 		<zh-CN>苏布尔河</zh-CN>
 		<pt-BR>Rio Subur~o Rio Subur~do Rio Subur</pt-BR>
 		<ko>수부르강</ko>
+		<fixja>シュブール川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUCRO_RIVER</zType>
@@ -6929,6 +7460,7 @@
 		<zh-CN>苏克罗河</zh-CN>
 		<pt-BR>Rio Sucro~o Rio Sucro~do Rio Sucro</pt-BR>
 		<ko>수크로강</ko>
+		<fixja>スクロ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUEBICUM_SEA</zType>
@@ -6942,6 +7474,7 @@
 		<zh-CN>苏比库姆海</zh-CN>
 		<pt-BR>Mare Suebicum~o Mare Suebicum~do Mare Suebicum</pt-BR>
 		<ko>수에비쿰해</ko>
+		<fixja>スエビカム海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SUEVUS_RIVER</zType>
@@ -6955,6 +7488,7 @@
 		<zh-CN>苏埃乌斯河</zh-CN>
 		<pt-BR>Rio Suevus~o Rio Suevus~do Rio Suevus</pt-BR>
 		<ko>수에부스강</ko>
+		<fixja>​スエブス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SYRIAN_DESERT</zType>
@@ -6968,6 +7502,7 @@
 		<zh-CN>叙利亚沙漠</zh-CN>
 		<pt-BR>Deserto Sírio~o Deserto Sírio~do Deserto Sírio</pt-BR>
 		<ko>시리아사막</ko>
+		<fixja>シリア砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TA_DEHENT</zType>
@@ -6981,6 +7516,7 @@
 		<zh-CN>塔德恒特峰</zh-CN>
 		<pt-BR>Pico de Ta Dehent~o Pico de Ta Dehent~do Pico de Ta Dehent</pt-BR>
 		<ko>타 데헨트</ko>
+		<fixja>タ・デヘント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TA_SEKHET_MAAT</zType>
@@ -6994,6 +7530,7 @@
 		<zh-CN>瑟可赫特玛峰</zh-CN>
 		<pt-BR>Vale de Ta Sekhet Maat~o Vale de Ta Sekhet Maat~do Vale de Ta Sekhet Maat</pt-BR>
 		<ko>타 세케트 마아트</ko>
+		<fixja>タ・セケット・マート</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TABERNAS_DESERT</zType>
@@ -7007,6 +7544,7 @@
 		<zh-CN>塔伯纳斯沙漠</zh-CN>
 		<pt-BR>Deserto de Tabernas~o Deserto de Tabernas~do Deserto de Tabernas</pt-BR>
 		<ko>타베르나스사막</ko>
+		<fixja>タベルナス砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TACAPAE</zType>
@@ -7020,6 +7558,7 @@
 		<zh-CN>塔卡佩</zh-CN>
 		<pt-BR>Tacapas~Tacapas~ de Tacapas</pt-BR>
 		<ko>타카파에</ko>
+		<fixja>タカペ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TAFTAN</zType>
@@ -7033,6 +7572,7 @@
 		<zh-CN>塔夫坦</zh-CN>
 		<pt-BR>Vulcão Taftan~o Vulcão Taftan~do Vulcão Taftan</pt-BR>
 		<ko>타프탄</ko>
+		<fixja>タフタン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TAGUS_RIVER</zType>
@@ -7046,6 +7586,7 @@
 		<zh-CN>太加斯河</zh-CN>
 		<pt-BR>Rio Tagus~o Rio Tagus~do Rio Tagus</pt-BR>
 		<ko>타구스강</ko>
+		<fixja>テージョ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TAMESIS_RIVER</zType>
@@ -7059,6 +7600,7 @@
 		<zh-CN>塔美西斯河</zh-CN>
 		<pt-BR>Rio Tamesis~o Rio Tamesis~do Rio Tamesis</pt-BR>
 		<ko>타메시스강</ko>
+		<fixja>タメシス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TANAIS_RIVER</zType>
@@ -7072,6 +7614,7 @@
 		<zh-CN>塔奈斯河</zh-CN>
 		<pt-BR>Rio Tanais~o Rio Tanais~do Rio Tanais</pt-BR>
 		<ko>타나이스강</ko>
+		<fixja>タナイス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TARNIS_RIVER</zType>
@@ -7085,6 +7628,7 @@
 		<zh-CN>塔尔尼斯河</zh-CN>
 		<pt-BR>Rio Tarnis~o Rio Tarnis~do Rio Tarnis</pt-BR>
 		<ko>타르니스강</ko>
+		<fixja>タルニス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TASHK_LAKE</zType>
@@ -7098,6 +7642,7 @@
 		<zh-CN>塔什克湖</zh-CN>
 		<pt-BR>Lago Tashk~o Lago Tashk~do Lago Tashk</pt-BR>
 		<ko>타슈크호</ko>
+		<fixja>タシュク湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TATTA_LAKE</zType>
@@ -7111,6 +7656,7 @@
 		<zh-CN>塔塔湖</zh-CN>
 		<pt-BR>Lago Tatta~o Lago Tatta~do Lago Tatta</pt-BR>
 		<ko>타타호</ko>
+		<fixja>タッタ湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TAURUS_MOUNTAINS</zType>
@@ -7124,6 +7670,7 @@
 		<zh-CN>托鲁斯山脉</zh-CN>
 		<pt-BR>Montes Tauro~o Montes Tauro~do Montes Tauro</pt-BR>
 		<ko>타우루스산맥</ko>
+		<fixja>トロス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TAYGETOS_MOUNTAINS</zType>
@@ -7137,6 +7684,7 @@
 		<zh-CN>泰格托斯山脉</zh-CN>
 		<pt-BR>Monte Taígeto~o Monte Taígeto~do Monte Taígeto</pt-BR>
 		<ko>타이게토스산맥</ko>
+		<fixja>タイゲトス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TELL_ATLAS</zType>
@@ -7150,6 +7698,7 @@
 		<zh-CN>泰勒阿特拉斯山脉</zh-CN>
 		<pt-BR>Cordilheira de Atlas do Tell~a Cordilheira de Atlas do Tell~da Cordilheira de Atlas do Tell</pt-BR>
 		<ko>텔 아틀라스</ko>
+		<fixja>テル・アトラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THADER_RIVER</zType>
@@ -7163,6 +7712,7 @@
 		<zh-CN>萨德尔河</zh-CN>
 		<pt-BR>Rio Thader~o Rio Thader~do Rio Thader</pt-BR>
 		<ko>타데르강</ko>
+		<fixja>サダー川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THAR_DESERT</zType>
@@ -7176,6 +7726,7 @@
 		<zh-CN>塔尔沙漠</zh-CN>
 		<pt-BR>Deserto do Thar~o Deserto do Thar~do Deserto do Thar</pt-BR>
 		<ko>타르사막</ko>
+		<fixja>タール砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THASOS_ISLAND</zType>
@@ -7189,6 +7740,7 @@
 		<zh-CN>萨索斯岛</zh-CN>
 		<pt-BR>Ilha de Tassos~a Ilha de Tassos~da Ilha de Tassos</pt-BR>
 		<ko>타소스섬</ko>
+		<fixja>タソス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KARPATHOS_ISLAND</zType>
@@ -7202,6 +7754,7 @@
 		<zh-CN>卡尔帕索斯岛</zh-CN>
 		<pt-BR>Ilha de Cárpatos~a Ilha de Cárpatos~da Ilha de Cárpatos</pt-BR>
 		<ko>카르파토스섬</ko>
+		<fixja>カルパトス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THE_ALPS</zType>
@@ -7215,6 +7768,7 @@
 		<zh-CN>阿尔卑斯山</zh-CN>
 		<pt-BR>Alpes~os Alpes~dos Alpes</pt-BR>
 		<ko>알프스</ko>
+		<fixja>アルプス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THE_JOGLLAND</zType>
@@ -7228,6 +7782,7 @@
 		<zh-CN>霍格兰山脉</zh-CN>
 		<pt-BR>Floresta de Joglland~a Floresta de Jogllan~da Floresta de Joglland</pt-BR>
 		<ko>조글란드</ko>
+		<fixja>ジョグラン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THE_NILE</zType>
@@ -7241,6 +7796,7 @@
 		<zh-CN>尼罗河</zh-CN>
 		<pt-BR>Rio Nilo~o Rio Nilo~do Rio Nilo</pt-BR>
 		<ko>나일</ko>
+		<fixja>ナイル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THEBAE</zType>
@@ -7254,6 +7810,7 @@
 		<zh-CN>忒拜</zh-CN>
 		<pt-BR>Tebas~Tebas~de Tebas</pt-BR>
 		<ko>테베</ko>
+		<fixja>テーベ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THERA</zType>
@@ -7267,6 +7824,7 @@
 		<zh-CN>瑟拉岛</zh-CN>
 		<pt-BR>Vulcão de Tera~o Vulcão de Tera~do Vulcão de Tera</pt-BR>
 		<ko>테라</ko>
+		<fixja>テラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THERMAIC_GULF</zType>
@@ -7280,6 +7838,7 @@
 		<zh-CN>瑟尔梅克湾</zh-CN>
 		<pt-BR>Golfo Termaico~o Golfo Termaico~do Golfo Termaico</pt-BR>
 		<ko>테르마이코스만</ko>
+		<fixja>テルマイコス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THESSALIAN_PLAIN</zType>
@@ -7293,6 +7852,7 @@
 		<zh-CN>塞萨利安平原</zh-CN>
 		<pt-BR>Planície da Tessália~a Planície da Tessália~da Planície da Tessália</pt-BR>
 		<ko>테살리아평야</ko>
+		<fixja>テッサリア平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THRACIAN_SEA</zType>
@@ -7306,6 +7866,7 @@
 		<zh-CN>色雷斯海</zh-CN>
 		<pt-BR>Mar Trácio~o Mar Trácio~do Mar Trácio</pt-BR>
 		<ko>트라키아해</ko>
+		<fixja>トラキア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THURINGIAN_GATE_VALLEY</zType>
@@ -7319,6 +7880,7 @@
 		<zh-CN>图林根门谷</zh-CN>
 		<pt-BR>Vale da Porta da Turíngia~o Vale da Porta da Turíngia~do Vale da Porta da Turíngia</pt-BR>
 		<ko>튀링겐의 문 계곡</ko>
+		<fixja>テューリンゲン・ゲート渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THUYA_WOODLANDS</zType>
@@ -7332,6 +7894,7 @@
 		<zh-CN>图亚林地</zh-CN>
 		<pt-BR>Floresta de Thuyas~a Floresta de Thuyas~da Floresta de Thuyas</pt-BR>
 		<ko>투야 삼림</ko>
+		<fixja>トゥヤ森林地帯</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THYAMIS_RIVER</zType>
@@ -7345,6 +7908,7 @@
 		<zh-CN>提亚米斯河</zh-CN>
 		<pt-BR>Rio Thyamis~o Rio Thyamis~do Rio Thyamis</pt-BR>
 		<ko>티아미스강</ko>
+		<fixja>ティアミス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THYMNIAS_BAY</zType>
@@ -7358,6 +7922,7 @@
 		<zh-CN>赛米尼亚斯湾</zh-CN>
 		<pt-BR>Baía de Thymnias~a Baía de Thymnias~da Baía de Thymnias</pt-BR>
 		<ko>팀니아스만</ko>
+		<fixja>ティムニアス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TIBER_RIVER</zType>
@@ -7371,6 +7936,7 @@
 		<zh-CN>台伯河</zh-CN>
 		<pt-BR>Rio Tibre~o Rio Tibre~do Rio Tibre</pt-BR>
 		<ko>티베르강</ko>
+		<fixja>テベレ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TIFERNUS_RIVER</zType>
@@ -7384,6 +7950,7 @@
 		<zh-CN>蒂弗努斯河</zh-CN>
 		<pt-BR>Rio Tiferno~o Rio Tiferno~do Rio Tiferno</pt-BR>
 		<ko>티페르누스강</ko>
+		<fixja>ティフェルヌス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TIGRIS_RIVER</zType>
@@ -7397,6 +7964,7 @@
 		<zh-CN>底格里斯河</zh-CN>
 		<pt-BR>Rio Tigre~o Rio Tigre~do Rio Tigre</pt-BR>
 		<ko>티그리스강</ko>
+		<fixja>ティグリス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TISIA_RIVER</zType>
@@ -7410,6 +7978,7 @@
 		<zh-CN>提西亚河</zh-CN>
 		<pt-BR>Rio Tisia~o Rio Tisia~do Rio Tisia</pt-BR>
 		<ko>티시아강</ko>
+		<fixja>ティシア川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TOMIS</zType>
@@ -7423,6 +7992,7 @@
 		<zh-CN>托米斯</zh-CN>
 		<pt-BR>Rio Tomis~o Rio Tomis~do Rio Tomis</pt-BR>
 		<ko>토미스</ko>
+		<fixja>トミス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TOUBKAL</zType>
@@ -7436,6 +8006,7 @@
 		<zh-CN>图卜卡勒峰</zh-CN>
 		<pt-BR>Pico Toubkal~o Pico Toubkal~do Pico Toubkal</pt-BR>
 		<ko>투브칼</ko>
+		<fixja>ツブカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRIGLAV</zType>
@@ -7449,6 +8020,7 @@
 		<zh-CN>特里格拉夫峰</zh-CN>
 		<pt-BR>Monte Triglav~o Monte Triglav~do Monte Triglav</pt-BR>
 		<ko>트리글라브</ko>
+		<fixja>トリグラウ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRILLEMARKA_TAIGA</zType>
@@ -7462,6 +8034,7 @@
 		<zh-CN>特勒马卡针叶林</zh-CN>
 		<pt-BR>Taiga de Trillemarka~a Taiga de Trillemarka~da Taiga de Trillemarka</pt-BR>
 		<ko>트릴레마르카 타이가</ko>
+		<fixja>トリレマルカ・タイガ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRIPOLITANIA_PLATEAU</zType>
@@ -7475,6 +8048,7 @@
 		<zh-CN>特波里塔尼亚高原</zh-CN>
 		<pt-BR>Planalto da Tripolitânia~o Planalto da Tripolitânia~do Planalto da Tripolitânia</pt-BR>
 		<ko>트리폴리타니아고원</ko>
+		<fixja>トリポリタニア高原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TURKMENBASHI_BAY</zType>
@@ -7488,6 +8062,7 @@
 		<zh-CN>土库曼巴希湾</zh-CN>
 		<pt-BR>Baía de Turkmenbashi~a Baía de Turkmenbashi~da Baía de Turkmenbashi</pt-BR>
 		<ko>튀르크멘바시만</ko>
+		<fixja>トルクメンバシ湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TYLOS_ISLAND</zType>
@@ -7501,6 +8076,7 @@
 		<zh-CN>泰罗斯岛</zh-CN>
 		<pt-BR>Ilha de Tilos~a Ilha de Tilos~da Ilha de Tilos</pt-BR>
 		<ko>틸로스섬</ko>
+		<fixja>タイロス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TYRAS_RIVER</zType>
@@ -7514,6 +8090,7 @@
 		<zh-CN>泰拉斯河</zh-CN>
 		<pt-BR>Rio Tyras~o Rio Tyras~do Rio Tyras</pt-BR>
 		<ko>티라스강</ko>
+		<fixja>ティラス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TYRRHENIAN_SEA</zType>
@@ -7527,6 +8104,7 @@
 		<zh-CN>帝勒尼安海</zh-CN>
 		<pt-BR>Mar Tirreno~o Mar Tirreno~do Mar Tirreno</pt-BR>
 		<ko>티레니아해</ko>
+		<fixja>ティレニア海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UMBRO_RIVER</zType>
@@ -7540,6 +8118,7 @@
 		<zh-CN>翁布罗河</zh-CN>
 		<pt-BR>Rio Umbro~o Rio Umbro~do Rio Umbro</pt-BR>
 		<ko>움브로강</ko>
+		<fixja>アンブロ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_URMIA_PLAIN</zType>
@@ -7553,6 +8132,7 @@
 		<zh-CN>乌尔米亚平原</zh-CN>
 		<pt-BR>Planície de Úrmia~a Planície de Úrmia~da Planície de Úrmia</pt-BR>
 		<ko>우르미아평야</ko>
+		<fixja>ウルミア平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UWAYNAT_MOUNTAINS</zType>
@@ -7566,6 +8146,7 @@
 		<zh-CN>乌瓦纳特山脉</zh-CN>
 		<pt-BR>Monte Uwaynat~o Monte Uwaynat~do Monte Uwaynat</pt-BR>
 		<ko>우웨이나트산맥</ko>
+		<fixja>ウワイナト山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VAI_PALM_FOREST</zType>
@@ -7579,6 +8160,7 @@
 		<zh-CN>瓦伊棕榈林</zh-CN>
 		<pt-BR>Palmeiral de Vai~o Palmeiral de Vai~do Palmeiral de Vai</pt-BR>
 		<ko>바이 야자나무 숲</ko>
+		<fixja>ヴァイヤシの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VALE_OF_TEMPE</zType>
@@ -7592,6 +8174,7 @@
 		<zh-CN>坦佩谷</zh-CN>
 		<pt-BR>Vale de Tempe~o Vale de Tempe~do Vale de Tempe</pt-BR>
 		<ko>템페 계곡</ko>
+		<fixja>テンペ渓谷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VECTIS_ISLAND</zType>
@@ -7605,6 +8188,7 @@
 		<zh-CN>韦克提斯岛</zh-CN>
 		<pt-BR>Ilha de Vectis~a Ilha de Vectis~da Ilha de Vectis</pt-BR>
 		<ko>벡티스섬</ko>
+		<fixja>ベクティス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VIADRUS_RIVER</zType>
@@ -7618,6 +8202,7 @@
 		<zh-CN>维亚杜瓦河</zh-CN>
 		<pt-BR>Rio Viadua~o Rio Viadua~do Rio Viadua</pt-BR>
 		<ko>비아두아강</ko>
+		<fixja>ヴィアドゥア川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VINDOBONA_WOODS</zType>
@@ -7631,6 +8216,7 @@
 		<zh-CN>文多博纳森林</zh-CN>
 		<pt-BR>Floresta de Vindobona~a Floresta de Vindobona~da Floresta de Vindobona</pt-BR>
 		<ko>빈도보나 숲</ko>
+		<fixja>ヴィンドボナの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VISTULA_RIVER</zType>
@@ -7644,6 +8230,7 @@
 		<zh-CN>维斯图拉河</zh-CN>
 		<pt-BR>Rio Vístula~o Rio Vístula~do Rio Vístula</pt-BR>
 		<ko>비스툴라강</ko>
+		<fixja>ヴィスワ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VISURGIS_RIVER</zType>
@@ -7657,6 +8244,7 @@
 		<zh-CN>维苏尔吉斯河</zh-CN>
 		<pt-BR>Rio Visurgis~o Rio Visurgis~do Rio Visurgis</pt-BR>
 		<ko>비수르기스강</ko>
+		<fixja>ヴィスルギス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WADI_ABU_DOM</zType>
@@ -7670,6 +8258,7 @@
 		<zh-CN>阿布·多姆干谷</zh-CN>
 		<pt-BR>Vale de Wadi Abu Dom~o Vale de Wadi Abu Dom~do Vale de Wadi Abu Dom</pt-BR>
 		<ko>와디 아부 돔</ko>
+		<fixja>ワディ・アブ・ドム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WADI_AL_MALIK</zType>
@@ -7683,6 +8272,7 @@
 		<zh-CN>阿里马利克干谷</zh-CN>
 		<pt-BR>Vale de Wadi Al-Malik~o Vale de Wadi Al-Malik~do Vale de Wadi Al-Malik</pt-BR>
 		<ko>와디 알말리크</ko>
+		<fixja>ワディ・アル＝マリク</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WADI_ALLAQI</zType>
@@ -7696,6 +8286,7 @@
 		<zh-CN>阿拉吉干谷</zh-CN>
 		<pt-BR>Vale de Wadi Allaqi~o Vale de Wadi Allaqi~do Vale de Wadi Allaqi</pt-BR>
 		<ko>와디 알라키</ko>
+		<fixja>ワディ・アラキ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WADI_EL_RAYAN</zType>
@@ -7709,6 +8300,7 @@
 		<zh-CN>瓦帝厄拉扬谷</zh-CN>
 		<pt-BR>Vale de Wadi El Rayan~o Vale de Wadi El Rayan~do Vale de Wadi El Rayan</pt-BR>
 		<ko>와디 엘 라얀</ko>
+		<fixja>ワディエルラヤン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WADI_HOWAR</zType>
@@ -7722,6 +8314,7 @@
 		<zh-CN>豪瓦尔干谷</zh-CN>
 		<pt-BR>Vale de Wadi Howar~o Vale de Wadi Howar~do Vale de Wadi Howar</pt-BR>
 		<ko>와디 호와르</ko>
+		<fixja>ワディ・ハワー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WARDIJA_RIDGE</zType>
@@ -7735,6 +8328,7 @@
 		<zh-CN>瓦尔迪亚岭</zh-CN>
 		<pt-BR>Serra de Wardija~a Serra de Wardija~da Serra de Wardija</pt-BR>
 		<ko>와르디야봉</ko>
+		<fixja>ワーディジャリッジ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WAW_AN_NAMUS</zType>
@@ -7748,6 +8342,7 @@
 		<zh-CN>瓦乌纳穆斯火山</zh-CN>
 		<pt-BR>Vulcão Waw an Namus~o Vulcão Waw an Namus~do Vulcão Waw an Namus</pt-BR>
 		<ko>와우 안 나무스</ko>
+		<fixja>ワウ・アン・ナムス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WESTERN_DESERT</zType>
@@ -7761,6 +8356,7 @@
 		<zh-CN>西部沙漠</zh-CN>
 		<pt-BR>Deserto Ocidental~o Deserto Ocidental~do Deserto Ocidental</pt-BR>
 		<ko>서부 사막</ko>
+		<fixja>西部砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_WHITE_NILE</zType>
@@ -7774,6 +8370,7 @@
 		<zh-CN>白色尼罗河</zh-CN>
 		<pt-BR>Nilo Branco~o Nilo Branco~do Nilo Branco</pt-BR>
 		<ko>백나일강</ko>
+		<fixja>白ナイル川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_XERIC_PINE_AND_JUNIPER</zType>
@@ -7787,6 +8384,7 @@
 		<zh-CN>瑟里科松柏林</zh-CN>
 		<pt-BR>Pinheiros e Juníperos Xéricos~os Pinheiros e Juníperos Xéricos~dos Pinheiros e Juníperos Xéricos</pt-BR>
 		<ko>건생 소나무와 향나무 숲</ko>
+		<fixja>乾性の松・セイヨウネズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZAB_RIVER</zType>
@@ -7800,6 +8398,7 @@
 		<zh-CN>扎布河</zh-CN>
 		<pt-BR>Rio Zabe~o Rio Zabe~do Rio Zabe</pt-BR>
 		<ko>자브강</ko>
+		<fixja>ザブ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZAGROS_MOUNTAINS</zType>
@@ -7813,6 +8412,7 @@
 		<zh-CN>扎格罗斯山脉</zh-CN>
 		<pt-BR>Cordilheira de Zagros~a Cordilheira de Zagros~da Cordilheira de Zagros</pt-BR>
 		<ko>자그로스산맥</ko>
+		<fixja>ザグロス山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZAKYNTHOS_ISLAND</zType>
@@ -7826,6 +8426,7 @@
 		<zh-CN>扎金索斯岛</zh-CN>
 		<pt-BR>Ilha de Zakynthos~a Ilha de Zakynthos~da Ilha de Zakynthos</pt-BR>
 		<ko>자킨토스섬</ko>
+		<fixja>ザキントス島</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZAMA_PLAIN</zType>
@@ -7839,6 +8440,7 @@
 		<zh-CN>札马平原</zh-CN>
 		<pt-BR>Planície de Zama~a Planície de Zama~da Planície de Zama</pt-BR>
 		<ko>자마평야</ko>
+		<fixja>ザマ平原</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZARD_KUH</zType>
@@ -7852,6 +8454,7 @@
 		<zh-CN>扎德库山</zh-CN>
 		<pt-BR>Montanha de Zard Kuh~a Montanha de Zard Kuh~da Montanha de Zard Kuh</pt-BR>
 		<ko>자르드 쿠</ko>
+		<fixja>ザルド・クー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZAYANDERUD_RIVER</zType>
@@ -7865,6 +8468,7 @@
 		<zh-CN>扎扬德鲁德河</zh-CN>
 		<pt-BR>Rio Zayandeh~o Rio Zayandeh~do Rio Zayandeh</pt-BR>
 		<ko>자얀데루드강</ko>
+		<fixja>ザーヤンデルード川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ZERRAH_DEPRESSION</zType>
@@ -7878,6 +8482,7 @@
 		<zh-CN>泽拉洼地</zh-CN>
 		<pt-BR>Depressão de Zerrah~a Depressão de Zerrah~da Depressão de Zerrah</pt-BR>
 		<ko>제라 와지</ko>
+		<fixja>ゼラ窪地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ISHTARUT</zType>
@@ -7891,6 +8496,7 @@
 		<zh-CN>伊斯塔鲁岛</zh-CN>
 		<pt-BR>Ilha Ishtarut~a Ilha Ishtarut~da Ilha Ishtarut</pt-BR>
 		<ko>타루트섬</ko>
+		<fixja>イシュタル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_QATTARA_DEPRESSION</zType>
@@ -7904,6 +8510,7 @@
 		<zh-CN>卡塔拉洼地</zh-CN>
 		<pt-BR>Depressão de Qattara~a Depressão de Qattara~da Depressão de Qattara</pt-BR>
 		<ko>카타라 와지</ko>
+		<fixja>カッターラ低地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SINAI_DESERT</zType>
@@ -7917,6 +8524,7 @@
 		<zh-CN>西奈沙漠</zh-CN>
 		<pt-BR>Deserto do Sinai~o Deserto do Sinai~do Deserto do Sinai</pt-BR>
 		<ko>시나이사막</ko>
+		<fixja>シナイ砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ANTI_LEBANON_MOUNTAINS</zType>
@@ -7930,6 +8538,7 @@
 		<zh-CN>前黎巴嫩山脉</zh-CN>
 		<pt-BR>Montanhas do Antilíbano~as Montanhas do Antilíbano~das Montanhas do Antilíbano</pt-BR>
 		<ko>안티레바논산맥</ko>
+		<fixja>アンチレバノン山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GREAT_ZAB_RIVER</zType>
@@ -7943,6 +8552,7 @@
 		<zh-CN>大扎布河</zh-CN>
 		<pt-BR>Rio Zabe Superior~o Rio Zabe Superior~do Rio Zabe Superior</pt-BR>
 		<ko>대자브강</ko>
+		<fixja>グレートザブ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LITTLE_ZAB_RIVER</zType>
@@ -7956,6 +8566,7 @@
 		<zh-CN>小扎布河</zh-CN>
 		<pt-BR>Rio Zabe Inferior~o Rio Zabe Inferior~do Rio Zabe Inferior</pt-BR>
 		<ko>소자브강</ko>
+		<fixja>小ザブ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DELOS</zType>
@@ -7969,6 +8580,7 @@
 		<zh-CN>提洛</zh-CN>
 		<pt-BR>Ilha de Delos~a Ilha de Delos~da Ilha de Delos</pt-BR>
 		<ko>델로스</ko>
+		<fixja>デロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELLESPONT</zType>
@@ -7982,6 +8594,7 @@
 		<zh-CN>赫勒斯滂</zh-CN>
 		<pt-BR>Estreito de Helesponto~o Estreito de Helesponto~do Estreito de Helesponto</pt-BR>
 		<ko>헬레스폰트</ko>
+		<fixja>ヘレスポント</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOUNT_MASIA</zType>
@@ -7995,6 +8608,7 @@
 		<zh-CN>玛西亚</zh-CN>
 		<pt-BR>Monte Masia~o Monte Masia~do Monte Masia</pt-BR>
 		<ko>마시아</ko>
+		<fixja>マシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GIBRALTAR</zType>
@@ -8008,6 +8622,7 @@
 		<zh-CN>蒙斯卡尔佩</zh-CN>
 		<pt-BR>Rochedo de Mons Calpe~o Rochedo de Mons Calpe~do Rochedo de Mons Calpe</pt-BR>
 		<ko>몬스 칼페</ko>
+		<fixja>モンスカルペ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_METSEP</zType>
@@ -8021,6 +8636,7 @@
 		<zh-CN>梅特瑟普</zh-CN>
 		<pt-BR>Fortaleza de Metsep~a Fortaleza de Metsep~da Fortaleza de Metsep</pt-BR>
 		<ko>메트세프</ko>
+		<fixja>メツェップ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_MAEOTIS</zType>
@@ -8034,6 +8650,7 @@
 		<zh-CN>迈奥蒂斯湖</zh-CN>
 		<pt-BR>Lago Meótis~o Lago Meótis~do Lago Meótis</pt-BR>
 		<ko>마이오티스호</ko>
+		<fixja>マエオティス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CANTABRICUS_BAY</zType>
@@ -8047,6 +8664,7 @@
 		<zh-CN>坎塔布里克斯湾</zh-CN>
 		<pt-BR>Mar Cantábrico~o Mar Cantábrico~do Mar Cantábrico</pt-BR>
 		<ko>칸타브리쿠스만</ko>
+		<fixja>カンタブリカス湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RED_SEA_HILLS</zType>
@@ -8060,6 +8678,7 @@
 		<zh-CN>红海丘陵</zh-CN>
 		<pt-BR>Colinas do Mar Vermelho~as Colinas do Mar Vermelho~das Colinas do Mar Vermelho</pt-BR>
 		<ko>홍해 구릉</ko>
+		<fixja>紅海の丘</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NILE_DELTA</zType>
@@ -8073,6 +8692,7 @@
 		<zh-CN>尼罗河三角洲</zh-CN>
 		<pt-BR>Delta do Nilo~o Delta do Nilo~do Delta do Nilo</pt-BR>
 		<ko>나일강 삼각주</ko>
+		<fixja>ナイル・デルタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PELOPONNESOS</zType>
@@ -8086,6 +8706,7 @@
 		<zh-CN>伯罗奔尼撒</zh-CN>
 		<pt-BR>Península do Peloponeso~a Península do Peloponeso~da Península do Peloponeso</pt-BR>
 		<ko>펠로폰네소스</ko>
+		<fixja>ペロポネソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ATTICA</zType>
@@ -8099,6 +8720,7 @@
 		<zh-CN>阿提卡</zh-CN>
 		<pt-BR>Península de Ática~a Península de Ática~da Península de Ática</pt-BR>
 		<ko>아티카</ko>
+		<fixja>アッティカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TROY</zType>
@@ -8112,6 +8734,7 @@
 		<zh-CN>特洛伊</zh-CN>
 		<pt-BR>Tróia~Tróia~de Tróia</pt-BR>
 		<ko>트로이</ko>
+		<fixja>トロイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAUL</zType>
@@ -8125,6 +8748,7 @@
 		<zh-CN>高卢</zh-CN>
 		<pt-BR>Gália~a Gália~da Gália</pt-BR>
 		<ko>갈리아</ko>
+		<fixja>ガリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MALVA_RIVER</zType>
@@ -8138,6 +8762,7 @@
 		<zh-CN>玛律瓦河</zh-CN>
 		<pt-BR>Rio Malva~o Rio Malva~do Rio Malva</pt-BR>
 		<ko>말바강</ko>
+		<fixja>マルバ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CEPHALLENIA</zType>
@@ -8151,6 +8776,7 @@
 		<zh-CN>刻法利尼亚</zh-CN>
 		<pt-BR>Ilha de Cefalônia~a Ilha de Cefalônia~da Ilha de Cefalônia</pt-BR>
 		<ko>케팔로니아</ko>
+		<fixja>​セファレニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHIOS</zType>
@@ -8164,6 +8790,7 @@
 		<zh-CN>希俄斯</zh-CN>
 		<pt-BR>Ilha de Quios~a Ilha de Quios~da Ilha de Quios</pt-BR>
 		<ko>키오스</ko>
+		<fixja>キオス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KORKYRA</zType>
@@ -8177,6 +8804,7 @@
 		<zh-CN>科耳基拉</zh-CN>
 		<pt-BR>Ilha de Córcira~a Ilha de Córcira~da Ilha de Córcira</pt-BR>
 		<ko>코르키라</ko>
+		<fixja>コルキラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LESBOS</zType>
@@ -8190,6 +8818,7 @@
 		<zh-CN>勒斯博</zh-CN>
 		<pt-BR>Ilha de Lesbos~a Ilha de Lesbos~da Ilha de Lesbos</pt-BR>
 		<ko>레스보스</ko>
+		<fixja>レスボス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMBROS</zType>
@@ -8203,6 +8832,7 @@
 		<zh-CN>印布洛斯</zh-CN>
 		<pt-BR>Ilha de Imbros~a Ilha de Imbros~da Ilha de Imbros</pt-BR>
 		<ko>임브로스</ko>
+		<fixja>インブロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SIERRA_NEVADA</zType>
@@ -8216,6 +8846,7 @@
 		<zh-CN>内华达山脉</zh-CN>
 		<pt-BR>Sierra Nevada~a Sierra Nevada~da Sierra Nevada</pt-BR>
 		<ko>시에라 네바다</ko>
+		<fixja>シエラ・ネバダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DRINUS_RIVER</zType>
@@ -8229,6 +8860,7 @@
 		<zh-CN>德里纳斯河</zh-CN>
 		<pt-BR>Rio Drinus~o Rio Drinus~do Rio Drinus</pt-BR>
 		<ko>드리누스강</ko>
+		<fixja>ドリヌス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ILLYRIAN_FORESTS</zType>
@@ -8242,6 +8874,7 @@
 		<zh-CN>伊利里亚森林</zh-CN>
 		<pt-BR>Floresta da Ilíria~a Floresta da Ilíria~da Floresta da Ilíria</pt-BR>
 		<ko>일리리아 숲</ko>
+		<fixja>イリュリアの森</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARRAH_MOUNTAINS</zType>
@@ -8255,6 +8888,7 @@
 		<zh-CN>马拉山脉</zh-CN>
 		<pt-BR>Montanhas Marrah~as Montanhas Marrah~das Montanhas Marrah</pt-BR>
 		<ko>마라산맥</ko>
+		<fixja>マッラ山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ASIR_MOUNTAINS</zType>
@@ -8268,6 +8902,7 @@
 		<zh-CN>阿西尔山脉</zh-CN>
 		<pt-BR>Montanhas de Assir~as Montanhas de Assir~das Montanhas de Assir</pt-BR>
 		<ko>아시르산맥</ko>
+		<fixja>アスィール山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DAM_OF_MARIB</zType>
@@ -8281,6 +8916,7 @@
 		<zh-CN>马里卜水坝</zh-CN>
 		<pt-BR>Barragem de Ma'rib~a Barragem de Ma'rib~da Barragem de Ma'rib</pt-BR>
 		<ko>마리브 댐</ko>
+		<fixja>マーリブのダム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SARAWAT_MOUNTAINS</zType>
@@ -8294,6 +8930,7 @@
 		<zh-CN>萨拉瓦特山脉</zh-CN>
 		<pt-BR>Montanhas Sarawat~as Montanhas Sarawat~das Montanhas Sarawat</pt-BR>
 		<ko>사라와트산맥</ko>
+		<fixja>サラワト山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HAJAR_MOUNTAINS</zType>
@@ -8307,6 +8944,7 @@
 		<zh-CN>哈杰尔山脉</zh-CN>
 		<pt-BR>Montanhas Al Hajar~as Montanhas Al Hajar~das Montanhas Al Hajar</pt-BR>
 		<ko>알하자르산맥</ko>
+		<fixja>アルハジャル山地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_INDIAN_DESERT</zType>
@@ -8320,6 +8958,7 @@
 		<zh-CN>印度大沙漠</zh-CN>
 		<pt-BR>Grande Deserto Indiano~o Grande Deserto Indiano~do Grande Deserto Indiano</pt-BR>
 		<ko>대인도사막</ko>
+		<fixja>大インド砂漠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LEUKE_KOME</zType>
@@ -8333,6 +8972,7 @@
 		<zh-CN>留克寇玫</zh-CN>
 		<pt-BR>Leuke Kome~Leuke Kome~de Leuke Kome</pt-BR>
 		<ko>레우케 코메</ko>
+		<fixja>レウケ・コメ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FERGHANA_VALLEY</zType>
@@ -8346,6 +8986,7 @@
 		<zh-CN>费尔干纳山谷</zh-CN>
 		<pt-BR>Vale de Fergana~o Vale de Fergana~do Vale de Fergana</pt-BR>
 		<ko>페르가나 계곡</ko>
+		<fixja>フェルガナ盆地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NARYN_RIVER</zType>
@@ -8359,6 +9000,7 @@
 		<zh-CN>纳伦河</zh-CN>
 		<pt-BR>Rio Naryn~o Rio Naryn~do Rio Naryn</pt-BR>
 		<ko>나린강</ko>
+		<fixja>ナルイン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HINDU_KUSH</zType>
@@ -8372,6 +9014,7 @@
 		<zh-CN>兴都库什山脉</zh-CN>
 		<pt-BR>Cordilheira do Indocuche~a Cordilheira do Indocuche~da Cordilheira do Indocuche</pt-BR>
 		<ko>힌두 쿠시</ko>
+		<fixja>ヒンドゥークシュ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHORASMIA</zType>
@@ -8385,6 +9028,7 @@
 		<zh-CN>特拉斯米亚</zh-CN>
 		<pt-BR>Região de Corasmia~a Região de Corasmia~da Região de Corasmia</pt-BR>
 		<ko>코라스미아</ko>
+		<fixja>コラスミア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MASSAGETAE</zType>
@@ -8398,6 +9042,7 @@
 		<zh-CN>马萨革泰</zh-CN>
 		<pt-BR>Região de Masságetas~a Região de Masságetas~da Região de Masságetas</pt-BR>
 		<ko>마사게타이</ko>
+		<fixja>マッサゲタイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DAHAE</zType>
@@ -8411,6 +9056,7 @@
 		<zh-CN>大益</zh-CN>
 		<pt-BR>Região de Daas~a Região de Daas~da Região de Daas</pt-BR>
 		<ko>다하</ko>
+		<fixja>ダアイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHERSONESUS</zType>
@@ -8424,6 +9070,7 @@
 		<zh-CN>克森尼索</zh-CN>
 		<pt-BR>Região de Quersoneso~a Região de Quersoneso~da Região de Quersoneso</pt-BR>
 		<ko>케르소네소스</ko>
+		<fixja>チェルソネソス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAKE_BALKAS</zType>
@@ -8437,6 +9084,7 @@
 		<zh-CN>巴尔卡斯湖</zh-CN>
 		<pt-BR>Lago Balkas~o Lago Balkas~do Lago Balkas</pt-BR>
 		<ko>발카스호</ko>
+		<fixja>バルカス湖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VOLGA_RIVER</zType>
@@ -8450,6 +9098,7 @@
 		<zh-CN>伏尔加河</zh-CN>
 		<pt-BR>Rio Volga~o Rio Volga~do Rio Volga</pt-BR>
 		<ko>볼가강</ko>
+		<fixja>ヴォルガ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_INDIA</zType>
@@ -8463,6 +9112,7 @@
 		<zh-CN>印度</zh-CN>
 		<pt-BR>Índia~a Índia~da Índia</pt-BR>
 		<ko>인도</ko>
+		<fixja>インド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAGAN</zType>
@@ -8476,6 +9126,7 @@
 		<zh-CN>马干</zh-CN>
 		<pt-BR>Região de Magã~a Região de Magã~da Região de Magã</pt-BR>
 		<ko>마간</ko>
+		<fixja>マガン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KARMANA</zType>
@@ -8489,6 +9140,7 @@
 		<zh-CN>卡马纳</zh-CN>
 		<pt-BR>Região de Karmana~a Região de Karmana~da Região de Karmana</pt-BR>
 		<ko>카르마나</ko>
+		<fixja>カルマナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HARAIVA</zType>
@@ -8502,6 +9154,7 @@
 		<zh-CN>哈拉伊瓦</zh-CN>
 		<pt-BR>Região de Haraiva~a Região de Haraiva~da Região de Haraiva</pt-BR>
 		<ko>하라이바</ko>
+		<fixja>ハライヴァ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARIUS_RIVER</zType>
@@ -8515,6 +9168,7 @@
 		<zh-CN>阿里乌斯河</zh-CN>
 		<pt-BR>Rio Arius~o Rio Arius~do Rio Arius</pt-BR>
 		<ko>아리우스강</ko>
+		<fixja>アリウス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KOPET_DAG</zType>
@@ -8528,6 +9182,7 @@
 		<zh-CN>克佩特山</zh-CN>
 		<pt-BR>Serra de Kopet Dag~a Serra de Kopet Dag~da Serra de Kopet Dag</pt-BR>
 		<ko>코페트 다그</ko>
+		<fixja>コペトダグ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MARGIANA_RIVER</zType>
@@ -8541,6 +9196,7 @@
 		<zh-CN>玛律吉亚纳河</zh-CN>
 		<pt-BR>Rio Margiana~o Rio Margiana~do Rio Margiana</pt-BR>
 		<ko>마르기아나강</ko>
+		<fixja>マルギアナ川</fixja>
 	</Entry>
 	<!-- Imperium Romanum map element names. Some designate existing map elements, but with latin names -->
 	<!-- Imperium Romanum Sea names -->
@@ -8556,6 +9212,7 @@
 		<zh-CN>巴利阿里海</zh-CN>
 		<pt-BR>Mar das Baleares~o Mar das Baleares~do Mar das Baleares</pt-BR>
 		<ko>발레아레스해</ko>
+		<fixja>バレアレス海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BAY_OF_BISCAY</zType>
@@ -8569,6 +9226,7 @@
 		<zh-CN>比斯开湾</zh-CN>
 		<pt-BR>Baía da Biscaia~a Baía da Biscaia~da Baía da Biscaia</pt-BR>
 		<ko>비스케이만</ko>
+		<fixja>ビスケー湾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BALTIC_SEA</zType>
@@ -8582,6 +9240,7 @@
 		<zh-CN>波罗的海</zh-CN>
 		<pt-BR>Mar Báltico~o Mar Báltico~do Mar Báltico</pt-BR>
 		<ko>발트해</ko>
+		<fixja>バルト海</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NORTH_SEA</zType>
@@ -8595,6 +9254,7 @@
 		<zh-CN>北海</zh-CN>
 		<pt-BR>Mar do Norte~o Mar do Norte~do Mar do Norte</pt-BR>
 		<ko>북해</ko>
+		<fixja>北海</fixja>
 	</Entry>
 	<!-- Imperium Romanum River names -->
 	<Entry>
@@ -8609,6 +9269,7 @@
 		<zh-CN>提贝里乌斯河</zh-CN>
 		<pt-BR>Rio Tibre~o Rio Tibre~do Rio Tibre</pt-BR>
 		<ko>티베리우스강</ko>
+		<fixja>テベレ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HEBROS_RIVER</zType>
@@ -8622,6 +9283,7 @@
 		<zh-CN>赫布罗斯河</zh-CN>
 		<pt-BR>Rio Hebrus~o Rio Hebrus~do Rio Hebrus</pt-BR>
 		<ko>헤브로스강</ko>
+		<fixja>ヘブロス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LYKOS_RIVER</zType>
@@ -8635,6 +9297,7 @@
 		<zh-CN>吕科斯河</zh-CN>
 		<pt-BR>Rio Lico~o Rio Lico~do Rio Lico</pt-BR>
 		<ko>리코스강</ko>
+		<fixja>リュクス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DANUVIUS_RIVER</zType>
@@ -8648,6 +9311,7 @@
 		<zh-CN>多瑙河</zh-CN>
 		<pt-BR>Rio Danúbio~o Rio Danúbio~do Rio Danúbio</pt-BR>
 		<ko>다누비우스강</ko>
+		<fixja>ドナウ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LIGERA_RIVER</zType>
@@ -8661,6 +9325,7 @@
 		<zh-CN>利格拉河</zh-CN>
 		<pt-BR>Rio Líger~o Rio Líger~do Rio Líger</pt-BR>
 		<ko>리게라강</ko>
+		<fixja>リゲラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_KYRUS_RIVER</zType>
@@ -8674,6 +9339,7 @@
 		<zh-CN>居鲁士河</zh-CN>
 		<pt-BR>Rio Kyrus~o Rio Kyrus~do Rio Kyrus</pt-BR>
 		<ko>키루스강</ko>
+		<fixja>クラ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RHENUS_RIVER</zType>
@@ -8687,6 +9353,7 @@
 		<zh-CN>莱茵河</zh-CN>
 		<pt-BR>Rio Reno~o Rio Reno~do Rio Reno</pt-BR>
 		<ko>레누스강</ko>
+		<fixja>ライン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_LAGAN_RIVER</zType>
@@ -8700,6 +9367,7 @@
 		<zh-CN>拉干河</zh-CN>
 		<pt-BR>Rio Lagan~o Rio Lagan~do Rio Lagan</pt-BR>
 		<ko>라간강</ko>
+		<fixja>ラガン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SELOS_RIVER</zType>
@@ -8713,6 +9381,7 @@
 		<zh-CN>塞洛斯河</zh-CN>
 		<pt-BR>Rio Selos~o Rio Selos~do Rio Selos</pt-BR>
 		<ko>셀로스강</ko>
+		<fixja>シャノン川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EULAIOS_RIVER</zType>
@@ -8726,6 +9395,7 @@
 		<zh-CN>欧拉奥斯河</zh-CN>
 		<pt-BR>Rio Eulaios~o Rio Eulaios~do Rio Eulaios</pt-BR>
 		<ko>에울라이오스강</ko>
+		<fixja>エウライオス川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IBERUS_RIVER</zType>
@@ -8739,6 +9409,7 @@
 		<zh-CN>伊比鲁斯河</zh-CN>
 		<pt-BR>Rio Ebro~o Rio Ebro~do Rio Ebro</pt-BR>
 		<ko>이베루스강</ko>
+		<fixja>エブロ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MALANDROS_RIVER</zType>
@@ -8752,6 +9423,7 @@
 		<zh-CN>马兰德罗斯河</zh-CN>
 		<pt-BR>Rio Maíandros~o Rio Maíandros~do Rio Maíandros</pt-BR>
 		<ko>말란드로스강</ko>
+		<fixja>メンデレス川</fixja>
 	</Entry>
 	<!-- Imperium Romanum provinces / regions names -->
 	<Entry>
@@ -8766,6 +9438,7 @@
 		<zh-CN>凯撒毛里塔尼亚</zh-CN>
 		<pt-BR>Mauritânia Cesariense~a Mauritânia Cesariense~da Mauritânia Cesariense</pt-BR>
 		<ko>마우레타니아 카이사리엔시스</ko>
+		<fixja>マウレタニア・カエサリエンシス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JUDAEA</zType>
@@ -8779,6 +9452,7 @@
 		<zh-CN>犹地亚</zh-CN>
 		<pt-BR>Judeia~a Judeia~da Judeia</pt-BR>
 		<ko>유대</ko>
+		<fixja>ユダエア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CRETA</zType>
@@ -8792,6 +9466,7 @@
 		<zh-CN>克里塔</zh-CN>
 		<pt-BR>Creta~Creta~de Creta</pt-BR>
 		<ko>크레타</ko>
+		<fixja>クレタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SICILIA</zType>
@@ -8805,6 +9480,7 @@
 		<zh-CN>西西里</zh-CN>
 		<pt-BR>Sicília~a Sicília~da Sicília</pt-BR>
 		<ko>시칠리아</ko>
+		<fixja>シチリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ACHAIA</zType>
@@ -8818,6 +9494,7 @@
 		<zh-CN>亚该亚</zh-CN>
 		<pt-BR>Acaia~a Acaia~da Acaia</pt-BR>
 		<ko>아카이아</ko>
+		<fixja>アカイア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SYRIA</zType>
@@ -8831,6 +9508,7 @@
 		<zh-CN>叙利亚</zh-CN>
 		<pt-BR>Síria~a Síria~da Síria</pt-BR>
 		<ko>시리아</ko>
+		<fixja>シリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACENE</zType>
@@ -8844,6 +9522,7 @@
 		<zh-CN>查拉塞内</zh-CN>
 		<pt-BR>Caracena~Caracena~de Caracena</pt-BR>
 		<ko>카라케네</ko>
+		<fixja>カラケネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HISPANIA</zType>
@@ -8857,6 +9536,7 @@
 		<zh-CN>希斯帕尼亚</zh-CN>
 		<pt-BR>Hispânia~a Hispânia~da Hispânia</pt-BR>
 		<ko>히스파니아</ko>
+		<fixja>ヒスパニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CILICIA</zType>
@@ -8870,6 +9550,7 @@
 		<zh-CN>西里西亚</zh-CN>
 		<pt-BR>Cilícia~a Cilícia~da Cilícia</pt-BR>
 		<ko>킬리키아</ko>
+		<fixja>キリキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EPIRUS</zType>
@@ -8883,6 +9564,7 @@
 		<zh-CN>伊庇鲁斯</zh-CN>
 		<pt-BR>Épiro~Épiro~de Épiro</pt-BR>
 		<ko>에페이로스</ko>
+		<fixja>エピラス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ASIA</zType>
@@ -8896,6 +9578,7 @@
 		<zh-CN>亚细亚</zh-CN>
 		<pt-BR>Ásia~a Ásia~da Ásia</pt-BR>
 		<ko>아시아</ko>
+		<fixja>アジア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MESOPOTAMIA</zType>
@@ -8909,6 +9592,7 @@
 		<zh-CN>美索不达米亚</zh-CN>
 		<pt-BR>Mesopotâmia~a Mesopotâmia~da Mesopotâmia</pt-BR>
 		<ko>메소포타미아</ko>
+		<fixja>メソポタミア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PARTHORUM</zType>
@@ -8922,6 +9606,7 @@
 		<zh-CN>帕索勒姆</zh-CN>
 		<pt-BR>Parthorum~Parthorum~de Parthorum</pt-BR>
 		<ko>파르토룸</ko>
+		<fixja>パルティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SARDINIA_ET_CORSICA</zType>
@@ -8935,6 +9620,7 @@
 		<zh-CN>萨丁岛和科西嘉岛</zh-CN>
 		<pt-BR>Sardenha e Córsega~Sardenha e Córsega~de Sardenha e Córsega</pt-BR>
 		<ko>사르디니아와 코르시카</ko>
+		<fixja>サルデーニャ・コルシカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ITALIA</zType>
@@ -8948,6 +9634,7 @@
 		<zh-CN>意塔利亚</zh-CN>
 		<pt-BR>Itália~a Itália~da Itália</pt-BR>
 		<ko>이탈리아</ko>
+		<fixja>イタリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MACEDONIA</zType>
@@ -8961,6 +9648,7 @@
 		<zh-CN>马其顿</zh-CN>
 		<pt-BR>Macedônia~a Macedônia~da Macedônia</pt-BR>
 		<ko>마케도니아</ko>
+		<fixja>マケドニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GALATIA</zType>
@@ -8974,6 +9662,7 @@
 		<zh-CN>加拉太</zh-CN>
 		<pt-BR>Galatia~a Galatia~da Galatia</pt-BR>
 		<ko>갈라티아</ko>
+		<fixja>ガラティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ASSYRIA</zType>
@@ -8987,6 +9676,7 @@
 		<zh-CN>亚述</zh-CN>
 		<pt-BR>Assíria~a Assíria~da Assíria</pt-BR>
 		<ko>아시리아</ko>
+		<fixja>アッシリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CAPPADOCIA</zType>
@@ -9000,6 +9690,7 @@
 		<zh-CN>卡帕多奇亚</zh-CN>
 		<pt-BR>Capadócia~a Capadócia~da Capadócia</pt-BR>
 		<ko>카파도키아</ko>
+		<fixja>カッパドキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_THRACIA</zType>
@@ -9013,6 +9704,7 @@
 		<zh-CN>色雷斯</zh-CN>
 		<pt-BR>Trácia~a Trácia~da Trácia</pt-BR>
 		<ko>트라키아</ko>
+		<fixja>トラキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAZACA</zType>
@@ -9026,6 +9718,7 @@
 		<zh-CN>加扎卡</zh-CN>
 		<pt-BR>Gazaca~a Gazaca~da Gazaca</pt-BR>
 		<ko>가자카</ko>
+		<fixja>ガザカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MOESIA</zType>
@@ -9039,6 +9732,7 @@
 		<zh-CN>莫西亚</zh-CN>
 		<pt-BR>Mésia~a Mésia~da Mésia</pt-BR>
 		<ko>모이시아</ko>
+		<fixja>モエシア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BITHYNIA_ET_PONTUS</zType>
@@ -9052,6 +9746,7 @@
 		<zh-CN>比提尼亚和本都</zh-CN>
 		<pt-BR>Bitínia e Ponto~Bitínia e Ponto~de Bitínia e Ponto</pt-BR>
 		<ko>비티니아와 폰토스</ko>
+		<fixja>ポントゥス・ビテュニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DALMATIA</zType>
@@ -9065,6 +9760,7 @@
 		<zh-CN>达尔马提亚</zh-CN>
 		<pt-BR>Dalmácia~a Dalmácia~da Dalmácia</pt-BR>
 		<ko>달마티아</ko>
+		<fixja>ダルマチア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GALLIA</zType>
@@ -9078,6 +9774,7 @@
 		<zh-CN>加利亚</zh-CN>
 		<pt-BR>Gália~a Gália~da Gália</pt-BR>
 		<ko>갈리아</ko>
+		<fixja>ガリア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALPES</zType>
@@ -9091,6 +9788,7 @@
 		<zh-CN>阿尔卑斯</zh-CN>
 		<pt-BR>Alpes~os Alpes~dos Alpes</pt-BR>
 		<ko>알프스</ko>
+		<fixja>アルペース</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PANNONIA</zType>
@@ -9104,6 +9802,7 @@
 		<zh-CN>潘诺尼亚</zh-CN>
 		<pt-BR>Panônia~a Panônia~da Panônia</pt-BR>
 		<ko>판노이아</ko>
+		<fixja>パンノニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DACIA</zType>
@@ -9117,6 +9816,7 @@
 		<zh-CN>达契亚</zh-CN>
 		<pt-BR>Dácia~a Dácia~da Dácia</pt-BR>
 		<ko>다키아</ko>
+		<fixja>ダキア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLCHIS</zType>
@@ -9130,6 +9830,7 @@
 		<zh-CN>科尔基斯</zh-CN>
 		<pt-BR>Cólquida~a Cólquida~da Cólquida</pt-BR>
 		<ko>콜키스</ko>
+		<fixja>コルキス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ARMENIA</zType>
@@ -9143,6 +9844,7 @@
 		<zh-CN>亚美尼亚</zh-CN>
 		<pt-BR>Armênia~a Armênia~da Armênia</pt-BR>
 		<ko>아르메니아</ko>
+		<fixja>アルメニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SCYTHIA</zType>
@@ -9156,6 +9858,7 @@
 		<zh-CN>斯基泰</zh-CN>
 		<pt-BR>Cítia~a Cítia~da Cítia</pt-BR>
 		<ko>스키티아</ko>
+		<fixja>スキタイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BOSPORI</zType>
@@ -9169,6 +9872,7 @@
 		<zh-CN>博斯波里</zh-CN>
 		<pt-BR>Bósforo~o Bósforo~do Bósforo</pt-BR>
 		<ko>보스포로스</ko>
+		<fixja>ボスポロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NORICUM</zType>
@@ -9182,6 +9886,7 @@
 		<zh-CN>诺里库姆</zh-CN>
 		<pt-BR>Nórica~a Nórica~da Nórica</pt-BR>
 		<ko>노리쿰</ko>
+		<fixja>ノリクム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RAETIA</zType>
@@ -9195,6 +9900,7 @@
 		<zh-CN>雷蒂亚</zh-CN>
 		<pt-BR>Récia~a Récia~da Récia</pt-BR>
 		<ko>라이티아</ko>
+		<fixja>ラエティア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VANDALI</zType>
@@ -9208,6 +9914,7 @@
 		<zh-CN>旺达利</zh-CN>
 		<pt-BR>Vandali~Vandali~de Vandali</pt-BR>
 		<ko>반달</ko>
+		<fixja>ヴァンダル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BELGICA</zType>
@@ -9221,6 +9928,7 @@
 		<zh-CN>贝尔吉卡</zh-CN>
 		<pt-BR>Bálgica~a Bélgica~da Bélgica</pt-BR>
 		<ko>벨기카</ko>
+		<fixja>ベルギカ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SARMATAE</zType>
@@ -9234,6 +9942,7 @@
 		<zh-CN>萨尔马泰</zh-CN>
 		<pt-BR>Sármata~Sármata~de Sármata</pt-BR>
 		<ko>사르마티아</ko>
+		<fixja>サルマタイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_ALANI</zType>
@@ -9247,6 +9956,7 @@
 		<zh-CN>阿拉尼</zh-CN>
 		<pt-BR>Alani~Alani~de Alani</pt-BR>
 		<ko>알라니</ko>
+		<fixja>アラニ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GERMANIA</zType>
@@ -9260,6 +9970,7 @@
 		<zh-CN>日耳曼尼亚</zh-CN>
 		<pt-BR>Germânia~a Germânia~da Germânia</pt-BR>
 		<ko>게르마니아</ko>
+		<fixja>ゲルマニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BRITANNIA</zType>
@@ -9273,6 +9984,7 @@
 		<zh-CN>不列颠尼亚</zh-CN>
 		<pt-BR>Britânia~a Britânia~da Britânia</pt-BR>
 		<ko>브리타니아</ko>
+		<fixja>ブリタニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HIBERNIA</zType>
@@ -9286,6 +9998,7 @@
 		<zh-CN>希伯尼亚</zh-CN>
 		<pt-BR>Hibérnia~a Hibérnia~da Hibérnia</pt-BR>
 		<ko>히베르니아</ko>
+		<fixja>ヒベルニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_VENETAE</zType>
@@ -9299,6 +10012,7 @@
 		<zh-CN>韦内塔</zh-CN>
 		<pt-BR>Vênedos~Vênedos~de Vênedos</pt-BR>
 		<ko>베네티</ko>
+		<fixja>ヴェネト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SCANDINAVIA</zType>
@@ -9312,6 +10026,7 @@
 		<zh-CN>斯堪的纳维亚</zh-CN>
 		<pt-BR>Escandinávia~a Escandinávia~da Escandinávia</pt-BR>
 		<ko>스칸디나비아</ko>
+		<fixja>スカンディナヴィア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CALEDONIA</zType>
@@ -9325,6 +10040,7 @@
 		<zh-CN>喀里多尼亚</zh-CN>
 		<pt-BR>Caledônia~a Caledônia~da Caledônia</pt-BR>
 		<ko>칼레도니아</ko>
+		<fixja>カレドニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SEMIEN_MOUNTAINS</zType>
@@ -9338,6 +10054,7 @@
 		<zh-CN>瑟门山脉</zh-CN>
 		<pt-BR>Montanhas Semien~as Montanhas Semien~das Montanhas Semien</pt-BR>
 		<ko>시미엔산맥</ko>
+		<fixja>シミエン山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HIJAZ_MOUNTAINS</zType>
@@ -9351,6 +10068,7 @@
 		<zh-CN>希贾兹山脉</zh-CN>
 		<pt-BR>Montanhas Hijaz~as Montanhas Hijaz~das Montanhas Hijaz</pt-BR>
 		<ko>히자즈산맥</ko>
+		<fixja>ヒジャーズ山脈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_AWASH_RIVER</zType>
@@ -9364,6 +10082,7 @@
 		<zh-CN>阿瓦什河</zh-CN>
 		<pt-BR>Rio Awash~o Rio Awash~do Rio Awash</pt-BR>
 		<ko>아와시강</ko>
+		<fixja>アワッシュ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RAGALI_RIVER</zType>
@@ -9377,6 +10096,7 @@
 		<zh-CN>拉加利河</zh-CN>
 		<pt-BR>Rio Ragali~o Rio Ragali~do Ragali</pt-BR>
 		<ko>라갈리강</ko>
+		<fixja>ラガリ川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HADRAMAWT_RIVER</zType>
@@ -9390,6 +10110,7 @@
 		<zh-CN>哈德拉毛河</zh-CN>
 		<pt-BR>Rio Hadramaute~o Rio Hadramaute~do Rio Hadramaute</pt-BR>
 		<ko>하드라마우트강</ko>
+		<fixja>ハドラマート川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MASILAH_RIVER</zType>
@@ -9403,6 +10124,7 @@
 		<zh-CN>玛斯拉河</zh-CN>
 		<pt-BR>Rio Masilah~o Rio Masilah~do Rio Masilah</pt-BR>
 		<ko>마실라강</ko>
+		<fixja>マシラー川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DAWASIR_RIVER</zType>
@@ -9416,6 +10138,7 @@
 		<zh-CN>达瓦西尔河</zh-CN>
 		<pt-BR>Rio Dawasir~o Rio Dawasir~do Rio Dawasir</pt-BR>
 		<ko>다와시르강</ko>
+		<fixja>ダワシル川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HAMD_RIVER</zType>
@@ -9429,6 +10152,7 @@
 		<zh-CN>哈姆德河</zh-CN>
 		<pt-BR>Rio Hamd~o Rio Hamd~do Rio Hamd</pt-BR>
 		<ko>함드강</ko>
+		<fixja>ハムド川</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GREAT_RIFT_VALLEY</zType>
@@ -9442,5 +10166,6 @@
 		<zh-CN>大裂谷</zh-CN>
 		<pt-BR>Grande Vale do Rifte</pt-BR>
 		<ko>대지구대</ko>
+		<fixja>大地溝帯</fixja>
 	</Entry>
 </Root>

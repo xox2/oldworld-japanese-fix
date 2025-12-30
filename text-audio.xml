@@ -27,6 +27,7 @@
 		<zh-CN>已停用音轨 (你标记为可跳过)</zh-CN>
 		<pt-BR>Faixa desativada (marcada para ser pulada)</pt-BR>
 		<ko>재생하지 않는 음악 (건너뛰기 설정됨)</ko>
+		<fixja>トラックが無効になっています（スキップ可能としてマークされています）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MUSIC_TRACK_DISABLED__BY_MUSIC_SYSTEM</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>已停用音轨 (有版权的音轨已停用)</zh-CN>
 		<pt-BR>Faixa desativada (faixas licenciadas estão desativadas)</pt-BR>
 		<ko>재생하지 않는 음악 (저작권 보호를 받는 음악)</ko>
+		<fixja>トラックが無効になっています（ライセンスされたトラックが無効になっています）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_JUKEBOX_MUSIC_TRACK_SKIP_HOVER</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>将此音轨纳入播放清单。</zh-CN>
 		<pt-BR>Incluir esta faixa na lista de reprodução</pt-BR>
 		<ko>재생 목록에 이 음악을 포함합니다.</ko>
+		<fixja>このトラックをプレイリストに含めます。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_STREAMING_LICENSED_WARNING_TITLE</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>内容创作者 / 直播串流者</zh-CN>
 		<pt-BR>Criadores de Conteúdo</pt-BR>
 		<ko>콘텐츠 크리에이터 / 방송인</ko>
+		<fixja>コンテンツクリエイター / ライブストリーマー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UI_STREAMING_LICENSED_WARNING_BODY</zType>
@@ -169,6 +173,17 @@ Transmitir ao vivo qualquer música do jogo fica por sua conta e risco.</pt-BR>
 경고: 온라인 영상 공유 사이트에서는 나머지 음악에도
 저작권 경고를 부여할 수 있으므로 영상을 수익화하지 못할 가능성이 있습니다.
 게임 음악 송출로 발생하는 문제의 책임은 송출자에게 있습니다.</ko>
+		<fixja>
+録音とストリーミング著作権のセーフモードが有効になりました。
+
+これにより、コンテンツ保護にフラグの不具合を引き起こすことがわかっている音楽トラックをスキップすることで
+オンライン動画やストリーミングを録画する際の問題が
+軽減されます。
+
+警告：オンライン動画共有サイトでは、残りの
+音楽トラックにフラグを立て、あなたの動画の収益化を妨げる場合があります。
+ゲームから音楽をストリーミングする場合は、ご自身の責任で行ってください。
+		</fixja>
 	</Entry>
 	<!-- Christopher Tin -->
 	<Entry>

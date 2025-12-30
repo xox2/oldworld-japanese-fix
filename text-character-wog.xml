@@ -26,6 +26,7 @@
 		<zh-CN>蛇国王</zh-CN>
 		<pt-BR>Rei Cobra</pt-BR>
 		<ko>뱀의 왕</ko>
+		<fixja>蛇王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SNAKE_RULER_F</zType>
@@ -39,5 +40,6 @@
 		<zh-CN>蛇女王</zh-CN>
 		<pt-BR>Rainha Cobra</pt-BR>
 		<ko>뱀의 여왕</ko>
+		<fixja>蛇后</fixja>
 	</Entry>
 </Root>

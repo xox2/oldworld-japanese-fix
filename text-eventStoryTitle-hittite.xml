@@ -26,6 +26,7 @@
 		<zh-CN>《旧世界》的{NATION-0}</zh-CN>
 		<pt-BR>{NATION-0} no Velho Mundo</pt-BR>
 		<ko>고대의 {NATION-0}</ko>
+		<fixja>Old Worldの{NATION-0}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_CHARIOT_COMBAT_TITLE</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>战车战斗！</zh-CN>
 		<pt-BR>Combate de Biga!</pt-BR>
 		<ko>기병전!</ko>
+		<fixja>戦車戦！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_RICHES_OF_THE_HILLS_TITLE</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>丘陵的财富</zh-CN>
 		<pt-BR>As Riquezas das Colinas</pt-BR>
 		<ko>언덕의 부</ko>
+		<fixja>丘の資源</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_THE_FAIREST_OF_LAWS_TITLE</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>最公平的法律</zh-CN>
 		<pt-BR>As Mais Justas das Leis</pt-BR>
 		<ko>모든 법률 중에서 으뜸</ko>
+		<fixja>最も公平な法律</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_A_THOUSAND_GODS_TITLE</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>万千诸神</zh-CN>
 		<pt-BR>Mil Deuses</pt-BR>
 		<ko>수천 명의 신</ko>
+		<fixja>千の神々</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_THE_CITY_GATES_TITLE</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>城门</zh-CN>
 		<pt-BR>As Portas da Cidade</pt-BR>
 		<ko>도시의 관문</ko>
+		<fixja>都市の城門</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_ARINNITTI_TITLE</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>阿丽宁提的祝福</zh-CN>
 		<pt-BR>Benção de Arinnitti</pt-BR>
 		<ko>아린니티의 축복</ko>
+		<fixja>アリンニティの祝福</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_ARINNITTI_TITLE</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>阿丽宁提的典礼</zh-CN>
 		<pt-BR>Dedicação de Arinnitti</pt-BR>
 		<ko>아린니티의 의식</ko>
+		<fixja>アリンニティへの奉納</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_ARINNITTI_TITLE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>阿丽宁提的不悦</zh-CN>
 		<pt-BR>Desgosto de Arinnitti</pt-BR>
 		<ko>아린니티의 불만</ko>
+		<fixja>アリンニティの怒り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_TARHUN_TITLE</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>塔尔亨的祝福</zh-CN>
 		<pt-BR>Benção de Tarhun</pt-BR>
 		<ko>타르훈의 축복</ko>
+		<fixja>タルフンの祝福</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_TARHUN_TITLE</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>塔尔亨的典礼</zh-CN>
 		<pt-BR>Dedicação de Tarhun</pt-BR>
 		<ko>타르훈의 의식</ko>
+		<fixja>タルフンへの奉納</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_TARHUN_TITLE</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>塔尔亨的不悦</zh-CN>
 		<pt-BR>Desgosto de Tarhun</pt-BR>
 		<ko>타르훈의 불만</ko>
+		<fixja>タルフンの怒り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_KAMRUSEPA_TITLE</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>卡姆鲁塞帕的祝福</zh-CN>
 		<pt-BR>Benção de Kamrusepa</pt-BR>
 		<ko>캄루세파의 축복</ko>
+		<fixja>カムルセパの祝福</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_KAMRUSEPA_TITLE</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>卡姆鲁塞帕的典礼</zh-CN>
 		<pt-BR>Dedicação de Kamrusepa</pt-BR>
 		<ko>캄루세파의 의식</ko>
+		<fixja>カムルセパへの奉納</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_KAMRUSEPA_TITLE</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>卡姆鲁塞帕的不悦</zh-CN>
 		<pt-BR>Desgosto de Kamrusepa</pt-BR>
 		<ko>캄루세파의 불만</ko>
+		<fixja>カムルセパの怒り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BLESSING_OF_HALKI_TITLE</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>哈尔基的祝福</zh-CN>
 		<pt-BR>Benção de Halki</pt-BR>
 		<ko>할키의 축복</ko>
+		<fixja>ハルキの祝福</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_HALKI_TITLE</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>哈尔基的典礼</zh-CN>
 		<pt-BR>Dedicação de Halki</pt-BR>
 		<ko>할키의 의식</ko>
+		<fixja>ハルキへの奉納</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISPLEASURE_OF_HALKI_TITLE</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>哈尔基的不悦</zh-CN>
 		<pt-BR>Desgosto de Halki</pt-BR>
 		<ko>할키의 불만</ko>
+		<fixja>ハルキの怒り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_SALT_OF_THE_EARTH_TITLE</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>世上的盐</zh-CN>
 		<pt-BR>O Sal da Terra</pt-BR>
 		<ko>대지의 소금</ko>
+		<fixja>大地の塩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_TITLE</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>史上最伟大的战车战役</zh-CN>
 		<pt-BR>A Maior Batalha de Bigas de Todos os Tempos</pt-BR>
 		<ko>역사상 최대 규모의 기병전</ko>
+		<fixja>史上最大の戦車戦</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_PEACE_OFFER_TITLE</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>白银条约</zh-CN>
 		<pt-BR>O Tratado de Prata</pt-BR>
 		<ko>은판 조약</ko>
+		<fixja>銀の条約</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_TRUCE_TITLE</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>值得一战的对手</zh-CN>
 		<pt-BR>Oponentes Dignos</pt-BR>
 		<ko>호적수</ko>
+		<fixja>相手にとって不足なし</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_KINGMAKERS_TITLE</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>美索不达米亚的造王者</zh-CN>
 		<pt-BR>Reinando na Mesopotâmia</pt-BR>
 		<ko>메소포타미아를 주무른 자</ko>
+		<fixja>メソポタミアの黒幕</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_WOULDBE_KINGMAKERS_TITLE</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>美索不达米亚的造王逆转</zh-CN>
 		<pt-BR>Revés para os Reis da Mesopotâmia</pt-BR>
 		<ko>메소포타미아를 주무르려던 자</ko>
+		<fixja>メソポタミアの黒幕の失敗</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_EDUCATION_AT_THE_PANKUS_TITLE</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>武士会议的教育</zh-CN>
 		<pt-BR>Educação do Pankus</pt-BR>
 		<ko>판쿠스 교육</ko>
+		<fixja>パンクスでの教育</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK_TITLE</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>远古对手</zh-CN>
 		<pt-BR>Um Antigo Oponente</pt-BR>
 		<ko>고대의 적</ko>
+		<fixja>古代の敵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_HITTITE_TITLE</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>{TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_GREECE_TITLE}</zh-CN>
 		<pt-BR>{TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_GREECE_TITLE}</pt-BR>
 		<ko>{TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_GREECE_TITLE}</ko>
+		<fixja>{TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_GREECE_TITLE}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NAMED_UNIT_MESEDI_TITLE</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>梅赛迪护卫</zh-CN>
 		<pt-BR>Os Mesedi</pt-BR>
 		<ko>메세디</ko>
+		<fixja>メセディ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NAMED_UNIT_GOLDEN_SPEARMEN_TITLE</zType>
@@ -390,5 +418,6 @@
 		<zh-CN>黄金矛兵</zh-CN>
 		<pt-BR>Os Lanceiros Dourados</pt-BR>
 		<ko>황금 창병</ko>
+		<fixja>黄金の槍兵</fixja>
 	</Entry>
 </Root>

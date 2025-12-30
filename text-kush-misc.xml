@@ -13,6 +13,7 @@
 		<zh-CN>阿马尼蕾娜斯</zh-CN>
 		<pt-BR>Amanirenas</pt-BR>
 		<ko>아마니레나스</ko>
+		<fixja>アマニレナス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AMANIRENA_DESCRIPTION</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>这位勇武的女王领导库什人对抗罗马人，攻下了被罗马占领的埃及，并誓死保卫库什，直到罗马同意缔结合约。</zh-CN>
 		<pt-BR>A rainha guerreira que liderou Cuxe contra os romanos em um ataque contra a ocupação romana do Egito e defendeu Cuxe até que Roma aceitasse um acordo de paz.</pt-BR>
 		<ko>쿠시 왕국을 이끈 전사 여왕입니다. 로마가 평화 협정에 동의할 때까지 로마 치하의 이집트를 공격해 쿠시 왕국을 지켜 냈습니다.</ko>
+		<fixja>クシュを率いてローマと戦い、ローマ配下のエジプトを攻撃し、ローマが和平に応じるまでクシュを守り抜いた戦士たる女王。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AMANITORE</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>阿马尼托蕾</zh-CN>
 		<pt-BR>Amanitore</pt-BR>
 		<ko>아마니토레</ko>
+		<fixja>アマニトレ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AMANITORE_DESCRIPTION</zType>
@@ -52,6 +55,7 @@
 		<zh-CN>阿马尼托蕾是一位无与伦比的城市规划师，她带领库什进入了一个繁荣的时代。她可以下达额外命令，意味着始终有充裕的建城时间。</zh-CN>
 		<pt-BR>Amanitore é uma construtora insuperável, capaz de levar Cuxe a uma era de prosperidade. As ordens bônus dela garantem que sempre haja tempo para construir.</pt-BR>
 		<ko>아마니토레는 쿠시를 번영의 시대로 이끈 걸출한 건축가입니다. 추가 명령권이 주어지므로 더욱 여유롭게 시설을 건축할 수 있습니다.</ko>
+		<fixja>クシュを繁栄の時代へと導くことができる、比類なき建設者。彼女のボーナス付き命令書は、建設の時間的猶予が約束されていることを意味する。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_AMANITORE_STORY</zType>
@@ -125,6 +129,13 @@ O nome Amanitore será lembrado como o da maior das construtoras, meus monumento
       아마니는 우리를 축복했고, 나는 쿠시 전역의 도시에서 그를 기렸다. 비록 메레오가 수도로 남았지만, 나는 게벨 바르칼의 사원에 있는 내 궁전에서 통치했다.
 
       아마니토레라는 이름은 위대한 건축가로 기억될 것이며, 나의 기념비와 사원들은 우리 국가에 유산을 남겼다.</ko>
+		<fixja>      私はアマニトレ。カンダケ、そしてメロエの女王。
+
+      私の治世はクシュにとって繁栄の時代であり、この機会を利用して国を建設の時代へと導いた。ローマ人の手によって略奪された後、ナパタの神殿は復元され、その土地は墓所であるピラミッドで埋め尽くされた。
+
+      アマニは私たちを祝福している。そのため、私はクシュの全都市にアマニを祀る神殿を建てた。首都としてメロエは存続していた。だが、私はゲベル・バルカルの神殿の中にある宮殿から統治した。
+
+      アマニトレの名は偉大なる建築者として人々の記憶に刻まれ、我が記念碑や神殿は遺産として祖国に残るだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_PIYE</zType>
@@ -138,6 +149,7 @@ O nome Amanitore será lembrado como o da maior das construtoras, meus monumento
 		<zh-CN>皮耶</zh-CN>
 		<pt-BR>Piiê</pt-BR>
 		<ko>피예</ko>
+		<fixja>ピイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_PIYE_DESCRIPTION</zType>
@@ -151,6 +163,7 @@ O nome Amanitore será lembrado como o da maior das construtoras, meus monumento
 		<zh-CN>征服埃及的法老皮耶率领库什人以阿马尼神（埃及人称阿蒙神）之名发动了一场圣战。他因传播异教而获得了新的军队。</zh-CN>
 		<pt-BR>O zeloso Piiê, o faraó que conquistou o Egito, lidera Cuxe em uma guerra santa sob a bandeira do deus Amani (conhecido no Egito como Ámon). Ele ganha novas tropas ao difundir sua religião pagã.</pt-BR>
 		<ko>열성적인 피예는 이집트를 정복했던 파라오입니다. 피예 치하의 쿠시 왕국은 아마니(이집트의 아문)의 이름으로 성전을 벌였습니다. 피예에게는 다신교를 전파할 때 필요한 부대가 제공됩니다.</ko>
+		<fixja>エジプトを征服したファラオである、熱意溢れるピイは、クシュを率いてアマニ神（エジプトではアメン神）の旗の下で聖戦を繰り広げる。彼は異教を布教するため新たな部隊を手に入れる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_PIYE_STORY</zType>
@@ -224,6 +237,13 @@ Meu nome será lembrado como o primeiro de uma dinastia de faraós do Egito, um 
     나는 파라오로서 명예로운 직책에 나의 가족을 임명했다. 끝까지 저항한 자들은 쿠시와 이집트의 땅을 물려받을 나의 아들이 물리칠 것이다.
 
       내 이름은 이집트 파라오 왕조의 처음이자, 쿠시 왕국의 권력과 영향력의 절정에 달했던 통치자로 기억될 것이다.</ko>
+		<fixja>      私はピイ。ウシマレ、スネフェル、そしてエジプトのファラオであり、征服者であり、アマニの信奉者である。
+
+      クシュと上エジプトの王位に生まれた私は、下エジプトが内紛と王朝の争いで分裂していくのを目にしていた。エジプト人がアムンと称する神、アマニの呼びかけに応じて、私は自らの支配下で土地を統合することを目指した。地元の王たちが連合、外交、戦争を通じて私を退けようと死力を尽くしたが、アマニの意志は止められなかった。
+
+      ファラオとして、私は氏族を名誉ある役職に就けた。最後の抵抗勢力は私の息子によって打ち破られる。そして息子は、クシュとエジプトの地を受け継ぐこととなるのだ。
+
+      私の名はファラオによる王朝、その初代王として、またクシュ人の権力と影響力の絶頂期を築いた支配者として記憶されるだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ALARA</zType>
@@ -237,6 +257,7 @@ Meu nome será lembrado como o primeiro de uma dinastia de faraós do Egito, um 
 		<zh-CN>阿拉拉</zh-CN>
 		<pt-BR>Alara</pt-BR>
 		<ko>알라라</ko>
+		<fixja>アララ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ALARA_DESCRIPTION</zType>
@@ -250,6 +271,7 @@ Meu nome será lembrado como o primeiro de uma dinastia de faraós do Egito, um 
 		<zh-CN>阿拉拉是一位受人尊敬的缔造者，建立了纳帕塔库什政权，并使部落联合成一个国家。受阿拉拉的领袖气质影响，在其领导下建立的城市一开始就有文化红利。</zh-CN>
 		<pt-BR>Alara é o reverenciado fundador da dinastia Napata de Cuxe, aquele que uniu as tribos em uma só nação. Enquanto líder, as cidades fundadas no governo de Alara começam com um bônus em cultura.</pt-BR>
 		<ko>알라라는 나파타 시대 쿠시 왕조의 존경받는 설립자입니다. 그는 여러 부족을 통합해 하나의 국가로 묶었습니다. 알라라가 지도자일 때 설립한 도시에는 문화 보정이 적용됩니다.</ko>
+		<fixja>ネパタン・クシュの崇敬の対象である創始者。部族をひとつにまとめ建国した。指導者であるアララのもとで建設された都市は、文化にボーナスがついた状態で始まる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_ALARA_STORY</zType>
@@ -323,6 +345,13 @@ Meu nome será lembrado pelas dinastias como o de alguém a ser reverenciado. Me
       내가 통치하는 동안 국가의 행정 및 종교 중심 도시인 나파타를 설립하였다. 아마니의 사제단은 게벨 바르칼 주변의 사원을 통해 엄청난 권력을 행사하고 있다.
 
       내 이름은 왕조 내내 존경받는 인물로 기억될 것이며 나의 자식과 자식의 자식들은 우리의 운명을 바꿔 이집트를 정복할 것이다. 쿠시의 미래 지도자들은 나처럼 오랫동안 안정적으로 통치하길 바랄 것이다.</ko>
+		<fixja>      私はアララ。クシュの尊ぶべき王であり、ナパタ王朝の創始者である。
+
+      一時、私たちの土地はエジプトのファラオに征服されたが、その影響力は時代とともに後退し、クシュは再び自由となった。私はバラバラだった部族をひとつの国にまとめるために戦った。そうして、ヌビアの地をクシュ王国へとまとめ上げたのだ。
+
+      我が統治下に、国の行政と宗教の中心地としてナパタという都市を建設した。ゲベル・バルカル周辺にいるアマニの神官たちは、すでにかなりの権力を握っている。
+
+      私の名は、王朝全体で敬われるものとして記憶されるだろう。そして、子孫たちがこの運命を逆転し、エジプトを制覇するのだ。クシュの未来の支配者たちは、私のように長く安定した統治をと祈ることだろう。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHANAKDAKHETE</zType>
@@ -336,6 +365,7 @@ Meu nome será lembrado pelas dinastias como o de alguém a ser reverenciado. Me
 		<zh-CN>莎娜卡达科特</zh-CN>
 		<pt-BR>Shanakdakhete</pt-BR>
 		<ko>샤나크다케테</ko>
+		<fixja>シャナクダケテ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHANAKDAKHETE_DESCRIPTION</zType>
@@ -349,6 +379,7 @@ Meu nome será lembrado pelas dinastias como o de alguém a ser reverenciado. Me
 		<zh-CN>莎娜卡达科特是第一任库什女王，她将麦罗埃打造成了文化和贸易之都。她引导下建立的城市在起始时具有文化资源，而且可以通过与新国家接触以组建商队。</zh-CN>
 		<pt-BR>Shanakdakhete é a primeira das rainhas de Cuxe, ela ajudou a transformar Meroé em uma capital cultural e comercial. Ela começa com o recurso de literatura e pode ganhar acesso às caravanas ao encontrar novas nações.</pt-BR>
 		<ko>샤나크다케테는 메로에를 문화와 교역의 수도로 성장시키는 데에 이바지한 쿠시 왕국의 첫 여왕입니다. 시작할 때 문학 자원이 주어지고 새로운 국가와 대면하면 행상을 이용할 수 있게 됩니다.</ko>
+		<fixja>クシュの初代女王。メロエを文化と交易の中心的地へと変えた立役者。彼女は文学資源から開始し、新しい国家との出会いを通じて貿易商人にアクセスできるようになる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_DYNASTY_SHANAKDHAKETE_STORY</zType>
@@ -402,6 +433,11 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
       초기 통치자들의 통치 하에 메로에는 번성했고, 가깝고 먼 나라를 위한 문학과 교역의 중심지가 되었다. 철을 제련하는 우리 광산은 경쟁자들에 비해 속도가 빨랐고, 메로이트 문자가 형성되었다.
 
       메로에의 문화가 나의 통치 하에 번성한다. 나의 이름은 잘 알려져 있지 않지만, 이는 곧 바뀔 것이다. 세상이 쿠시 왕국의 잠재력을 보게 될 것이다.</ko>
+		<fixja>      私はシャナクダヘテ。メロエのカンダケ、ラーの息子、二つの国の君主である。
+
+      この地を初めに率いていた指導者たちの下、繁栄したメロエは、近隣諸国や遠方の国々にとって文学と貿易の中心地となっていた。鉄を製錬する鉱山は他国を凌駕し、メロエ文字が生みだされた。
+
+      メロエ文化は、我が統治下で栄えている。私の名は、それほど広く浸透していないのかもしれない…それは裏を返せば、世界はまだクシュの持つ可能性を知らないということだ。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REVERED</zType>
@@ -415,6 +451,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>被他人崇敬</zh-CN>
 		<pt-BR>Venerável</pt-BR>
 		<ko>존경받는</ko>
+		<fixja>崇敬の対象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_REVERED_F</zType>
@@ -428,6 +465,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>被他人崇敬</zh-CN>
 		<pt-BR>Venerável</pt-BR>
 		<ko>존경받는</ko>
+		<fixja>崇敬の対象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SICKLY</zType>
@@ -441,6 +479,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>体弱多病</zh-CN>
 		<pt-BR>Adoentado</pt-BR>
 		<ko>허약한</ko>
+		<fixja>病弱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SICKLY_F</zType>
@@ -454,6 +493,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>体弱多病</zh-CN>
 		<pt-BR>Adoentada</pt-BR>
 		<ko>허약한</ko>
+		<fixja>病弱</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMATIC</zType>
@@ -467,6 +507,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>外交得体</zh-CN>
 		<pt-BR>Diplomático</pt-BR>
 		<ko>외교적인</ko>
+		<fixja>外交手腕に長ける</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMATIC_F</zType>
@@ -480,6 +521,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>外交得体</zh-CN>
 		<pt-BR>Diplomática</pt-BR>
 		<ko>외교적인</ko>
+		<fixja>外交手腕に長ける</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DILIGENT</zType>
@@ -493,6 +535,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>勤勉</zh-CN>
 		<pt-BR>Diligente</pt-BR>
 		<ko>성실한</ko>
+		<fixja>勤勉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DILIGENT_F</zType>
@@ -506,6 +549,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>勤勉</zh-CN>
 		<pt-BR>Diligente</pt-BR>
 		<ko>성실한</ko>
+		<fixja>勤勉</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FERVENT</zType>
@@ -519,6 +563,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>虔诚</zh-CN>
 		<pt-BR>Fervoroso</pt-BR>
 		<ko>열성적인</ko>
+		<fixja>熱意溢れる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FERVENT_F</zType>
@@ -532,6 +577,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>虔诚</zh-CN>
 		<pt-BR>Fervorosa</pt-BR>
 		<ko>열성적인</ko>
+		<fixja>熱意溢れる</fixja>
 	</Entry>
 	<!-- text-achievementTitle -->
 	<Entry>
@@ -546,6 +592,7 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>贝沙弓兵</zh-CN>
 		<pt-BR>Arqueiro Beja</pt-BR>
 		<ko>베자 궁병</ko>
+		<fixja>ベジャの射手</fixja>
 	</Entry>
 	<!-- text-achievement -->
 	<Entry>
@@ -560,5 +607,6 @@ A cultura de Meroé floresce sob meu comando. Meu nome pode não ser tão conhec
 		<zh-CN>训练一名贝沙弓兵</zh-CN>
 		<pt-BR>Treine um arqueiro beja.</pt-BR>
 		<ko>베자 궁병을 육성한다</ko>
+		<fixja>ベジャの射手を訓練する</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>耶尔万渡槽</zh-CN>
 		<pt-BR>O Aqueduto de Jerwan~Aqueduto de Jerwan</pt-BR>
 		<ko>자르완 용수로</ko>
+		<fixja>ジャーワン水道橋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_YAZILIKAYA</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>雅兹勒卡亚</zh-CN>
 		<pt-BR>O Yazilikaya~Yazilikaya</pt-BR>
 		<ko>야질리카야</ko>
+		<fixja>ヤズルカヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ROYAL_LIBRARY</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>皇室图书馆</zh-CN>
 		<pt-BR>A Biblioteca Real~Biblioteca Real</pt-BR>
 		<ko>왕립 도서관</ko>
+		<fixja>王立図書館</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_JEBEL_BARKAL</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>博尔戈尔山</zh-CN>
 		<pt-BR>O Jebel Barcal~Jebel Barcal</pt-BR>
 		<ko>게벨 바르칼</ko>
+		<fixja>ゲベル・バルカル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AL_KHAZNEH</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>卡兹尼神殿</zh-CN>
 		<pt-BR>O Al Khazneh~Al Khazneh</pt-BR>
 		<ko>알 카즈네</ko>
+		<fixja>エル・カズネ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COTHON</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>迦太基巨港</zh-CN>
 		<pt-BR><![CDATA[O <i>Cothon</i>~<i>Cothon</i>]]></pt-BR>
 		<ko>코톤</ko>
+		<fixja>コトン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HELIOPOLIS</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>赫里奥波里斯</zh-CN>
 		<pt-BR>A Heliópolis~Heliópolis</pt-BR>
 		<ko>헬리오폴리스</ko>
+		<fixja>ヘリオポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COLOSSEUM</zType>
@@ -117,5 +124,6 @@
 		<zh-CN>罗马斗兽场</zh-CN>
 		<pt-BR>O Coliseu~Coliseu</pt-BR>
 		<ko>콜로세움</ko>
+		<fixja>コロッセオ</fixja>
 	</Entry>
 </Root>

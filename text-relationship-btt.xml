@@ -13,6 +13,7 @@
 		<zh-CN>被勒索，勒索人是</zh-CN>
 		<pt-BR>Sendo chantageado por</pt-BR>
 		<ko>협박받음</ko>
+		<fixja>以下の人物から脅迫を受けている：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELATIONSHIP_BLACKMAILED_BY_F</zType>
@@ -26,6 +27,7 @@
 		<zh-CN>被勒索，勒索人是</zh-CN>
 		<pt-BR>Sendo chantageada por</pt-BR>
 		<ko>협박받음</ko>
+		<fixja>以下の人物から脅迫を受けている：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELATIONSHIP_BLACKMAILED_BY_VERB</zType>
@@ -39,6 +41,7 @@
 		<zh-CN>遭到勒索，勒索人是</zh-CN>
 		<pt-BR>Passa a receber chantagem de</pt-BR>
 		<ko>협박한 대상은</ko>
+		<fixja>以下の人物の脅迫の対象となっている：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELATIONSHIP_BLACKMAILED_BY_VERB_F</zType>
@@ -52,5 +55,6 @@
 		<zh-CN>遭到勒索，勒索人是</zh-CN>
 		<pt-BR>Passa a receber chantagem de</pt-BR>
 		<ko>협박한 대상은</ko>
+		<fixja>以下の人物の脅迫の対象となっている：</fixja>
 	</Entry>
 </Root>

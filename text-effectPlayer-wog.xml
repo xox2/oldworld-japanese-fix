@@ -26,6 +26,7 @@
 		<zh-CN>link(TRAIT_STEWARD_OF_THE_LAND)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_STEWARD_OF_THE_LAND)</pt-BR>
 		<ko>link(TRAIT_STEWARD_OF_THE_LAND) 지도자</ko>
+		<fixja>link(TRAIT_STEWARD_OF_THE_LAND)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_REBUILDER_OATH</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>link(TRAIT_REBUILDER_OATH)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_REBUILDER_OATH)</pt-BR>
 		<ko>link(TRAIT_REBUILDER_OATH) 지도자</ko>
+		<fixja>link(TRAIT_REBUILDER_OATH)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_AVENGER_OATH</zType>
@@ -52,5 +54,6 @@
 		<zh-CN>link(TRAIT_AVENGER_OATH)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_AVENGER_OATH)</pt-BR>
 		<ko>link(TRAIT_AVENGER_OATH) 지도자</ko>
+		<fixja>link(TRAIT_AVENGER_OATH)の指導者</fixja>
 	</Entry>
 </Root>

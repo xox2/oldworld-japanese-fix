@@ -27,6 +27,7 @@
 		<zh-CN>国王</zh-CN>
 		<pt-BR>Rei~o Rei~seu Rei~meu Rei</pt-BR>
 		<ko>왕</ko>
+		<fixja>王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_QUEEN</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>女王</zh-CN>
 		<pt-BR>Rainha~a Rainha~sua Rainha~minha Rainha</pt-BR>
 		<ko>여왕</ko>
+		<fixja>女王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_GENERAL</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>将军</zh-CN>
 		<pt-BR>General~o General~seu General~meu General</pt-BR>
 		<ko>장군</ko>
+		<fixja>将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_GENERAL_F</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>将军</zh-CN>
 		<pt-BR>General~a General~sua General~minha General</pt-BR>
 		<ko>장군</ko>
+		<fixja>将官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_EXPLORER</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>探险家</zh-CN>
 		<pt-BR>Explorador</pt-BR>
 		<ko>탐험가</ko>
+		<fixja>探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_EXPLORER_F</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>探险家</zh-CN>
 		<pt-BR>Exploradora</pt-BR>
 		<ko>탐험가</ko>
+		<fixja>探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CONSORT</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>{0_title}配偶</zh-CN>
 		<pt-BR>{0_title} Consorte~o {0_title} Consorte~seu {0_title} Consorte~meu {0_title} Consorte</pt-BR>
 		<ko>왕실 배우자</ko>
+		<fixja>{0_title}配偶者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_CONSORT_F</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>{0_title}配偶</zh-CN>
 		<pt-BR>{0_title} Consorte~a {0_title} Consorte~sua {0_title} Consorte~minha {0_title} Consorte</pt-BR>
 		<ko>왕실 배우자</ko>
+		<fixja>{0_title}配偶者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_LEADER_DOWAGER</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>{0_title}皇太后</zh-CN>
 		<pt-BR>{0_title} Viúvo~o {0_title} Viúvo~seu {0_title} Viúvo ~meu {0_title} Viúvo</pt-BR>
 		<ko>과부</ko>
+		<fixja>{0_title}の未亡人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_LEADER_DOWAGER_F</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>{0_title}皇太后</zh-CN>
 		<pt-BR>{0_title} Viúva~a {0_title} Viúva~sua {0_title} Viúva~minha {0_title} Viúva</pt-BR>
 		<ko>과부</ko>
+		<fixja>{0_title}の未亡人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_LEADER_REGENT</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>国王摄政王</zh-CN>
 		<pt-BR>Rei Regente~o Rei Regente~seu Rei Regente</pt-BR>
 		<ko>섭정</ko>
+		<fixja>王の摂政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_LEADER_REGENT_F</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>女王摄政王</zh-CN>
 		<pt-BR>Rainha Regente~a Rainha Regente~sua Rainha Regente</pt-BR>
 		<ko>섭정</ko>
+		<fixja>女王の摂政</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_HEIR</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>王子</zh-CN>
 		<pt-BR>Príncipe~o Príncipe~seu Príncipe~meu Príncipe</pt-BR>
 		<ko>왕자</ko>
+		<fixja>王子</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_HEIR_F</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>公主</zh-CN>
 		<pt-BR>Princesa~a Princesa~sua Princesa~minha Princesa</pt-BR>
 		<ko>왕녀</ko>
+		<fixja>王女</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SUCCESSOR</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>公爵</zh-CN>
 		<pt-BR>Duque~o Duque~seu Duque~meu Duque</pt-BR>
 		<ko>공작</ko>
+		<fixja>公爵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SUCCESSOR_F</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>女公爵/公爵夫人</zh-CN>
 		<pt-BR>Duquesa~a Duquesa~sua Duquesa~minha Duquesa</pt-BR>
 		<ko>여공작</ko>
+		<fixja>公爵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>{0_title}</zh-CN>
 		<pt-BR>{0_title}~o {0_title}~seu {0_title}~meu {0_title}</pt-BR>
 		<ko>{0_title}</ko>
+		<fixja>{0_title}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_COUNCIL_F</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>{0_title}</zh-CN>
 		<pt-BR>{0_title}~a {0_title}~sua {0_title}~minha {0_title}</pt-BR>
 		<ko>{0_title}</ko>
+		<fixja>{0_title}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_GOVERNOR</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>总督</zh-CN>
 		<pt-BR>Governador~o Governador~seu Governador~meu Governador</pt-BR>
 		<ko>총독</ko>
+		<fixja>長官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_GOVERNOR_F</zType>
@@ -274,6 +293,7 @@
 		<zh-CN>总督</zh-CN>
 		<pt-BR>Governadora~a Governadora~sua Governadora~sua Governadora</pt-BR>
 		<ko>총독</ko>
+		<fixja>長官</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_AGENT</zType>
@@ -287,6 +307,7 @@
 		<zh-CN>密探</zh-CN>
 		<pt-BR>Agente~o Agente~seu Agente~meu Agente</pt-BR>
 		<ko>첩보원</ko>
+		<fixja>諜報員</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_AGENT_F</zType>
@@ -300,6 +321,7 @@
 		<zh-CN>密探</zh-CN>
 		<pt-BR>Agente~a Agente~sua Agente~minha Agente</pt-BR>
 		<ko>첩보원</ko>
+		<fixja>諜報員</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_TRIBE_LEADER</zType>
@@ -313,6 +335,7 @@
 		<zh-CN>国王</zh-CN>
 		<pt-BR>Rei~o Rei~seu Rei</pt-BR>
 		<ko>왕</ko>
+		<fixja>王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_TRIBE_LEADER_F</zType>
@@ -326,6 +349,7 @@
 		<zh-CN>皇后/女王</zh-CN>
 		<pt-BR>Rainha~a Rainha~sua Rainha</pt-BR>
 		<ko>여왕</ko>
+		<fixja>女王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_RELIGION_HEAD</zType>
@@ -339,6 +363,7 @@
 		<zh-CN>家父长</zh-CN>
 		<pt-BR>Patriarca~o Patriarca~seu Patriarca~meu Patriarca</pt-BR>
 		<ko>수장</ko>
+		<fixja>家長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_RELIGION_HEAD_F</zType>
@@ -352,6 +377,7 @@
 		<zh-CN>女家长</zh-CN>
 		<pt-BR>Matriarca~a Matriarca~sua Matriarca~minha Matriarca</pt-BR>
 		<ko>수장</ko>
+		<fixja>家長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_OLIGARCH</zType>
@@ -365,6 +391,7 @@
 		<zh-CN>寡头</zh-CN>
 		<pt-BR>Oligarca~o Oligarca~seu Oligarca~meu Oligarca</pt-BR>
 		<ko>집정자</ko>
+		<fixja>執政者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_OLIGARCH_F</zType>
@@ -378,6 +405,7 @@
 		<zh-CN>寡头</zh-CN>
 		<pt-BR>Oligarca~a Oligarca~sua Oligarca~minha Oligarca</pt-BR>
 		<ko>집정자</ko>
+		<fixja>執政者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_NAME</zType>
@@ -391,6 +419,7 @@
 		<zh-CN>{1_name}{0_title}</zh-CN>
 		<pt-BR>{0_title} {1_name}</pt-BR>
 		<ko>{1_name}({0_title})</ko>
+		<fixja>{1_name}{0_title}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_PROPHET</zType>
@@ -404,6 +433,7 @@
 		<zh-CN>预言家</zh-CN>
 		<pt-BR>O Profeta~o Profeta~seu Profeta</pt-BR>
 		<ko>예언가</ko>
+		<fixja>預言者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_PROPHET_F</zType>
@@ -417,6 +447,7 @@
 		<zh-CN>预言家</zh-CN>
 		<pt-BR>A Profeta~a Profeta~sua Profeta</pt-BR>
 		<ko>예언가</ko>
+		<fixja>預言者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SEER</zType>
@@ -430,6 +461,7 @@
 		<zh-CN>先知</zh-CN>
 		<pt-BR>O Vidente~o Vidente~seu Vidente</pt-BR>
 		<ko>선지자</ko>
+		<fixja>先見者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_SEER_F</zType>
@@ -443,6 +475,7 @@
 		<zh-CN>先知</zh-CN>
 		<pt-BR>A Vidente~a Vidente~sua Vidente</pt-BR>
 		<ko>선지자</ko>
+		<fixja>先見者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_REBEL_LEADER</zType>
@@ -456,6 +489,7 @@
 		<zh-CN>反叛之王</zh-CN>
 		<pt-BR>O Rei rebelde</pt-BR>
 		<ko>반란군 지도자</ko>
+		<fixja>反乱王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_REBEL_LEADER_F</zType>
@@ -469,6 +503,7 @@
 		<zh-CN>反叛女王/皇后</zh-CN>
 		<pt-BR>A Rainha rebelde</pt-BR>
 		<ko>반란군 지도자</ko>
+		<fixja>反乱女王</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_ARCHON</zType>
@@ -482,6 +517,7 @@
 		<zh-CN>执政官</zh-CN>
 		<pt-BR>Arconte~o Arconte~seu Arconte</pt-BR>
 		<ko>집정관</ko>
+		<fixja>アルコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_ARCHON_F</zType>
@@ -495,6 +531,7 @@
 		<zh-CN>执政官</zh-CN>
 		<pt-BR>Arconte~a Arconte~sua Arconte</pt-BR>
 		<ko>집정관</ko>
+		<fixja>アルコン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_OVERSEER_OF_THE_FIELDS</zType>
@@ -508,6 +545,7 @@
 		<zh-CN>监督</zh-CN>
 		<pt-BR>Supervisor~o Supervisor~seu Supervisor</pt-BR>
 		<ko>감독관</ko>
+		<fixja>守人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_OVERSEER_OF_THE_FIELDS_F</zType>
@@ -521,6 +559,7 @@
 		<zh-CN>监督</zh-CN>
 		<pt-BR>Supervisora~a Supervisor~sua Supervisor</pt-BR>
 		<ko>감독관</ko>
+		<fixja>守人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_POSSESSOR_OF_VENERATION</zType>
@@ -534,6 +573,7 @@
 		<zh-CN>受敬重的</zh-CN>
 		<pt-BR>Venerado~o Venerado~seu Venerado</pt-BR>
 		<ko>공경받는 자</ko>
+		<fixja>崇拝される者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_POSSESSOR_OF_VENERATION_F</zType>
@@ -547,6 +587,7 @@
 		<zh-CN>受敬重的</zh-CN>
 		<pt-BR>Venerada~a Venerada~sua Venerada</pt-BR>
 		<ko>공경받는 자</ko>
+		<fixja>崇拝される者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_STEWARD_OF_THE_CHAMBER</zType>
@@ -560,6 +601,7 @@
 		<zh-CN>管理人</zh-CN>
 		<pt-BR>Administrador~o Administrador~seu Administrador</pt-BR>
 		<ko>관리인</ko>
+		<fixja>執事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_STEWARD_OF_THE_CHAMBER_F</zType>
@@ -573,6 +615,7 @@
 		<zh-CN>管理人</zh-CN>
 		<pt-BR>Administradora~a Administradora~sua Administradora</pt-BR>
 		<ko>관리인</ko>
+		<fixja>執事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_PRIEST_OF_MELQUART</zType>
@@ -586,6 +629,7 @@
 		<zh-CN>大祭司</zh-CN>
 		<pt-BR>Alto Saccerdote~o Alto Saccerdote~seu Alto Saccerdote</pt-BR>
 		<ko>사제장</ko>
+		<fixja>司祭長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_PRIEST_OF_MELQUART_F</zType>
@@ -599,6 +643,7 @@
 		<zh-CN>大女祭司</zh-CN>
 		<pt-BR>Alta Sacerdotisa~a Alta Sacerdotisa~sua Alta Sacerdotisa</pt-BR>
 		<ko>여사제장</ko>
+		<fixja>司祭長</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_GRAND_EXPLORER</zType>
@@ -612,6 +657,7 @@
 		<zh-CN>大探险家</zh-CN>
 		<pt-BR>Grande explorador~o Grande explorador~seu Grande explorador</pt-BR>
 		<ko>위대한 탐험가</ko>
+		<fixja>大探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_TITLE_GRAND_EXPLORER_F</zType>
@@ -625,6 +671,7 @@
 		<zh-CN>大探险家</zh-CN>
 		<pt-BR>Grande exploradora~a Grande exploradora~sua Grande exploradora</pt-BR>
 		<ko>위대한 탐험가</ko>
+		<fixja>大探検家</fixja>
 	</Entry>
 	<!-- Relation -->
 	<Entry>
@@ -639,6 +686,7 @@
 		<zh-CN>你</zh-CN>
 		<pt-BR>você</pt-BR>
 		<ko>당신</ko>
+		<fixja>あなた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SPOUSE</zType>
@@ -652,6 +700,7 @@
 		<zh-CN>你的{masculine_0:丈夫:妻子}</zh-CN>
 		<pt-BR>{masculine_0:seu Marido:sua Esposa}</pt-BR>
 		<ko>당신의 {masculine_0:남편:아내}</ko>
+		<fixja>あなたの{masculine_0:夫:妻}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_CHILD</zType>
@@ -665,6 +714,7 @@
 		<zh-CN>你的{masculine_0:儿子:女儿}</zh-CN>
 		<pt-BR>{masculine_0:seu Filho:sua Filha}</pt-BR>
 		<ko>당신의 {masculine_0:아들:딸}</ko>
+		<fixja>あなたの{masculine_0:息子:娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDCHILD</zType>
@@ -678,6 +728,7 @@
 		<zh-CN>你的{masculine_0:孙子:孙女}</zh-CN>
 		<pt-BR>{masculine_0:seu Neto:sua Neta}</pt-BR>
 		<ko>당신의 {masculine_0:손자:손녀}</ko>
+		<fixja>あなたの{masculine_0:孫息子:孫娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_DESCENDANT</zType>
@@ -691,6 +742,7 @@
 		<zh-CN>你的后裔</zh-CN>
 		<pt-BR>{masculine_0:seu descendente:sua descendente}</pt-BR>
 		<ko>당신의 후손</ko>
+		<fixja>あなたの子孫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT</zType>
@@ -704,6 +756,7 @@
 		<zh-CN>你的{masculine_0:父亲:母亲}</zh-CN>
 		<pt-BR>{masculine_0:seu Pai:sua Mãe}</pt-BR>
 		<ko>당신의 {masculine_0:아버지:어머니}</ko>
+		<fixja>あなたの{masculine_0:父:母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDPARENT</zType>
@@ -717,6 +770,7 @@
 		<zh-CN>你的{masculine_0:祖父:祖母}</zh-CN>
 		<pt-BR>{masculine_0:seu Avô:sua Avó}</pt-BR>
 		<ko>당신의 {masculine_0:할아버지:할머니}</ko>
+		<fixja>あなたの{masculine_0:祖父:祖母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_ANCESTOR</zType>
@@ -730,6 +784,7 @@
 		<zh-CN>你的祖先</zh-CN>
 		<pt-BR>{masculine_0:seu Antepassado:sua Antepassada}</pt-BR>
 		<ko>당신의 조상</ko>
+		<fixja>あなたの先祖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING</zType>
@@ -743,6 +798,7 @@
 		<zh-CN>你的{masculine_0:兄弟:姊妹}</zh-CN>
 		<pt-BR>{masculine_0:seu Irmão:sua Irmã}</pt-BR>
 		<ko>당신의 {masculine_0:형제:누이}</ko>
+		<fixja>あなたの{masculine_0:兄弟:姉妹}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW</zType>
@@ -756,6 +812,7 @@
 		<zh-CN>你的{masculine_0:连襟:妯娌}</zh-CN>
 		<pt-BR>{masculine_0:seu Cunhado:sua Cunhada}</pt-BR>
 		<ko>당신의 {masculine_0:인척:인척}</ko>
+		<fixja>あなたの{masculine_0:義兄弟:義姉妹}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_HALF_SIBLING</zType>
@@ -769,6 +826,7 @@
 		<zh-CN>你的{masculine_0:异母或异父兄弟:异母或异父姊妹}</zh-CN>
 		<pt-BR>{masculine_0:seu Meio-Irmão:sua Meia-Irmã}</pt-BR>
 		<ko>당신의 {masculine_0:이복형제:이복자매}</ko>
+		<fixja>あなたの{masculine_0:異父母兄弟:異父母姉妹}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_COUSIN</zType>
@@ -782,6 +840,7 @@
 		<zh-CN>你的表亲</zh-CN>
 		<pt-BR>{masculine_0:seu Primo:sua Prima}</pt-BR>
 		<ko>당신의 사촌</ko>
+		<fixja>あなたのいとこ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_AUNT_UNCLE</zType>
@@ -795,6 +854,7 @@
 		<zh-CN>你的{masculine_0:叔伯:姨婶}</zh-CN>
 		<pt-BR>{masculine_0:seu Tio:sua Tia}</pt-BR>
 		<ko>당신의 {masculine_0:친척 아저씨:친척 아주머니}</ko>
+		<fixja>あなたの{masculine_0:叔父:叔母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW_PATERNAL</zType>
@@ -808,6 +868,7 @@
 		<zh-CN>你的{masculine_0:侄子:侄女}</zh-CN>
 		<pt-BR>{masculine_0:seu Sobrinho:sua Sobrinha}</pt-BR>
 		<ko>당신의 {masculine_0:조카:조카딸}</ko>
+		<fixja>あなたの{masculine_0:甥:姪}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW_MATERNAL</zType>
@@ -821,6 +882,7 @@
 		<zh-CN>你的{masculine_0:侄子:侄女}</zh-CN>
 		<pt-BR>{masculine_0:seu Sobrinho:sua Sobrinha}</pt-BR>
 		<ko>당신의 {masculine_0:조카:조카딸}</ko>
+		<fixja>あなたの{masculine_0:甥:姪}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_CHILD_IN_LAW</zType>
@@ -834,6 +896,7 @@
 		<zh-CN>你的{masculine_0:女婿:媳妇}</zh-CN>
 		<pt-BR>{masculine_0:seu Genro:sua Nora}</pt-BR>
 		<ko>당신의 {masculine_0:사위:며느리}</ko>
+		<fixja>あなたの{masculine_0:義理の息子:義理の娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT_IN_LAW</zType>
@@ -847,6 +910,7 @@
 		<zh-CN>你的{masculine_0:岳父/公公:岳母/婆婆}</zh-CN>
 		<pt-BR>{masculine_0:seu Sogro:sua Sogra}</pt-BR>
 		<ko>당신의 {masculine_0:장인:장모}</ko>
+		<fixja>あなたの{masculine_0:義父:義母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPCHILD</zType>
@@ -860,6 +924,7 @@
 		<zh-CN>你的{masculine_0:继子:继女}</zh-CN>
 		<pt-BR>{masculine_0:seu Enteado:sua Enteada}</pt-BR>
 		<ko>당신의 {masculine_0:의붓아들:의붓딸}</ko>
+		<fixja>あなたの{masculine_0:継息子:継娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPPARENT</zType>
@@ -873,6 +938,7 @@
 		<zh-CN>你的{masculine_0:继父:继母}</zh-CN>
 		<pt-BR>{masculine_0:seu Padrasto:sua Madrasta}</pt-BR>
 		<ko>당신의 {masculine_0:계부:계모}</ko>
+		<fixja>あなたの{masculine_0:継父:継母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_RELATIVE</zType>
@@ -886,6 +952,7 @@
 		<zh-CN>link(CONCEPT_ROYAL,1)</zh-CN>
 		<pt-BR>link(CONCEPT_ROYAL,1)</pt-BR>
 		<ko>link(CONCEPT_ROYAL,1)</ko>
+		<fixja>link(CONCEPT_ROYAL,1)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_IN_LAW</zType>
@@ -899,6 +966,7 @@
 		<zh-CN>link(CONCEPT_ROYAL,1)姻亲</zh-CN>
 		<pt-BR>link(CONCEPT_ROYAL,1) da família</pt-BR>
 		<ko>link(CONCEPT_ROYAL,1) 인척</ko>
+		<fixja>義理のlink(CONCEPT_ROYAL,1)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SPOUSE_SHORT</zType>
@@ -912,6 +980,7 @@
 		<zh-CN>{masculine_0:丈夫:妻子}</zh-CN>
 		<pt-BR>{masculine_0:Marido:Esposa}</pt-BR>
 		<ko>{masculine_0:남편:아내}</ko>
+		<fixja>{masculine_0:夫:妻}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_CHILD_SHORT</zType>
@@ -925,6 +994,7 @@
 		<zh-CN>{masculine_0:儿子:女儿}</zh-CN>
 		<pt-BR>{masculine_0:Filho:Filha}</pt-BR>
 		<ko>{masculine_0:아들:딸}</ko>
+		<fixja>{masculine_0:息子:娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDCHILD_SHORT</zType>
@@ -938,6 +1008,7 @@
 		<zh-CN>{masculine_0:孙子:孙女}</zh-CN>
 		<pt-BR>{masculine_0:Neto:Neta}</pt-BR>
 		<ko>{masculine_0:손자:손녀}</ko>
+		<fixja>{masculine_0:孫息子:孫娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_DESCENDANT_SHORT</zType>
@@ -951,6 +1022,7 @@
 		<zh-CN>后裔</zh-CN>
 		<pt-BR>Descendente</pt-BR>
 		<ko>자손</ko>
+		<fixja>子孫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT_SHORT</zType>
@@ -964,6 +1036,7 @@
 		<zh-CN>{masculine_0:父亲:母亲}</zh-CN>
 		<pt-BR>{masculine_0:Pai:Mãe}</pt-BR>
 		<ko>{masculine_0:아버지:어머니}</ko>
+		<fixja>{masculine_0:父:母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_GRANDPARENT_SHORT</zType>
@@ -977,6 +1050,7 @@
 		<zh-CN>{masculine_0:祖父:祖母}</zh-CN>
 		<pt-BR>{masculine_0:Avô:Avó}</pt-BR>
 		<ko>{masculine_0:할아버지:할머니}</ko>
+		<fixja>{masculine_0:祖父:祖母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_ANCESTOR_SHORT</zType>
@@ -990,6 +1064,7 @@
 		<zh-CN>祖先</zh-CN>
 		<pt-BR>{masculine_0:Antepassado:Antepassada}</pt-BR>
 		<ko>조상</ko>
+		<fixja>先祖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING_SHORT</zType>
@@ -1003,6 +1078,7 @@
 		<zh-CN>{masculine_0:兄弟:姊妹}</zh-CN>
 		<pt-BR>{masculine_0:Irmão:Irmã}</pt-BR>
 		<ko>{masculine_0:형제:누이}</ko>
+		<fixja>{masculine_0:兄弟:姉妹}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW_SHORT</zType>
@@ -1016,6 +1092,7 @@
 		<zh-CN>{masculine_0:连襟:妯娌}</zh-CN>
 		<pt-BR>{masculine_0:Cunhado:Cunhada}</pt-BR>
 		<ko>{masculine_0:인척:인척}</ko>
+		<fixja>{masculine_0:義兄弟:義姉妹}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_HALF_SIBLING_SHORT</zType>
@@ -1029,6 +1106,7 @@
 		<zh-CN>{masculine_0:异母或异父兄弟:异母或异父姊妹}</zh-CN>
 		<pt-BR>{masculine_0:Meio-Irmão:Meia-Irmã}</pt-BR>
 		<ko>{masculine_0:이복형제:이복자매}</ko>
+		<fixja>{masculine_0:異父母兄弟:異父母姉妹}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_COUSIN_SHORT</zType>
@@ -1042,6 +1120,7 @@
 		<zh-CN>表亲</zh-CN>
 		<pt-BR>{masculine_0:Primo:Prima}</pt-BR>
 		<ko>사촌</ko>
+		<fixja>いとこ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_AUNT_UNCLE_SHORT</zType>
@@ -1055,6 +1134,7 @@
 		<zh-CN>{masculine_0:叔伯:姨婶}</zh-CN>
 		<pt-BR>{masculine_0:Tio:Tia}</pt-BR>
 		<ko>{masculine_0:친척 아저씨:친척 아주머니}</ko>
+		<fixja>{masculine_0:叔父:叔母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW_PATERNAL_SHORT</zType>
@@ -1068,6 +1148,7 @@
 		<zh-CN>{masculine_0:侄子:侄女}</zh-CN>
 		<pt-BR>{masculine_0:Sobrinho:Sobrinha}</pt-BR>
 		<ko>{masculine_0:조카:조카딸}</ko>
+		<fixja>{masculine_0:甥:姪}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW_MATERNAL_SHORT</zType>
@@ -1081,6 +1162,7 @@
 		<zh-CN>{masculine_0:侄子:侄女}</zh-CN>
 		<pt-BR>{masculine_0:Sobrinho:Sobrinha}</pt-BR>
 		<ko>{masculine_0:조카:조카딸}</ko>
+		<fixja>{masculine_0:甥:姪}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_CHILD_IN_LAW_SHORT</zType>
@@ -1094,6 +1176,7 @@
 		<zh-CN>{masculine_0:女婿:媳妇}</zh-CN>
 		<pt-BR>{masculine_0:Genro:Nora}</pt-BR>
 		<ko>{masculine_0:사위:며느리}</ko>
+		<fixja>{masculine_0:義理の息子:義理の娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_PARENT_IN_LAW_SHORT</zType>
@@ -1107,6 +1190,7 @@
 		<zh-CN>{masculine_0:岳父/公公:岳母/婆婆}</zh-CN>
 		<pt-BR>{masculine_0:Sogro:Sogra}</pt-BR>
 		<ko>{masculine_0:장인:장모}</ko>
+		<fixja>{masculine_0:義父:義母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPCHILD_SHORT</zType>
@@ -1120,6 +1204,7 @@
 		<zh-CN>{masculine_0:继子:继女}</zh-CN>
 		<pt-BR>{masculine_0:Enteado:Enteada}</pt-BR>
 		<ko>{masculine_0:의붓아들:의붓딸}</ko>
+		<fixja>{masculine_0:継息子:継娘}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_STEPPARENT_SHORT</zType>
@@ -1133,6 +1218,7 @@
 		<zh-CN>{masculine_0:继父:继母}</zh-CN>
 		<pt-BR>{masculine_0:Padrastro:Madrastra}</pt-BR>
 		<ko>{masculine_0:계부:계모}</ko>
+		<fixja>{masculine_0:継父:継母}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_RELATIVE_SHORT</zType>
@@ -1146,6 +1232,7 @@
 		<zh-CN>亲戚</zh-CN>
 		<pt-BR>Parente</pt-BR>
 		<ko>친척</ko>
+		<fixja>親族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_RELATION_IN_LAW_SHORT</zType>
@@ -1159,6 +1246,7 @@
 		<zh-CN>姻亲</zh-CN>
 		<pt-BR>{masculine_0:Parente agregado:Parente agregada}</pt-BR>
 		<ko>인척</ko>
+		<fixja>姻族</fixja>
 	</Entry>
 	<!-- Heir -->
 	<Entry>
@@ -1173,6 +1261,7 @@
 		<zh-CN>继承人</zh-CN>
 		<pt-BR>{masculine_0:Herdeiro:Herdeira}</pt-BR>
 		<ko>후계자</ko>
+		<fixja>後継者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_2</zType>
@@ -1186,6 +1275,7 @@
 		<zh-CN>第二顺位</zh-CN>
 		<pt-BR>{masculine_0:Segundo herdeiro:Segunda herdeira}</pt-BR>
 		<ko>계승 2순위</ko>
+		<fixja>継承順位2位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_3</zType>
@@ -1199,6 +1289,7 @@
 		<zh-CN>第三顺位</zh-CN>
 		<pt-BR>{masculine_0:Terceiro herdeiro:Terceira herdeira}</pt-BR>
 		<ko>계승 3순위</ko>
+		<fixja>継承順位3位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_4</zType>
@@ -1212,6 +1303,7 @@
 		<zh-CN>第四顺位</zh-CN>
 		<pt-BR>{masculine_0:Quarto herdeiro:Quarta herdeira}</pt-BR>
 		<ko>계승 4순위</ko>
+		<fixja>継承順位4位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_5</zType>
@@ -1225,6 +1317,7 @@
 		<zh-CN>第五顺位</zh-CN>
 		<pt-BR>{masculine_0:Quinto herdeiro:Quinta herdeira}</pt-BR>
 		<ko>계승 5순위</ko>
+		<fixja>継承順位5位</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HEIR_ORDER_X</zType>
@@ -1238,6 +1331,7 @@
 		<zh-CN>不太可能的继承人</zh-CN>
 		<pt-BR>{masculine_0:Sucessor distante:Sucessora distante}</pt-BR>
 		<ko>권외 계승자</ko>
+		<fixja>遠い後継者</fixja>
 	</Entry>
 	<!-- Misc -->
 	<Entry>
@@ -1252,6 +1346,7 @@
 		<zh-CN>icon(DeathSkull) {0_name}</zh-CN>
 		<pt-BR>icon(DeathSkull) {0_name}</pt-BR>
 		<ko>icon(DeathSkull) {0_name}</ko>
+		<fixja>icon(DeathSkull) {0_name}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>
@@ -1265,6 +1360,7 @@
 		<zh-CN>{1_cognomen}{0_name}</zh-CN>
 		<pt-BR>{0_name}, {1_cognomen}</pt-BR>
 		<ko>{1_cognomen} {0_name}</ko>
+		<fixja>{0_name}（{1_cognomen}）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
@@ -1278,6 +1374,7 @@
 		<zh-CN>{0_unit}的link(CONCEPT_GENERAL)</zh-CN>
 		<pt-BR>link(CONCEPT_GENERAL) de {0,3_unit}</pt-BR>
 		<ko>{0_unit}의 link(CONCEPT_GENERAL)</ko>
+		<fixja>{0_unit}のlink(CONCEPT_GENERAL)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_EXPLORER_WITH</zType>
@@ -1291,6 +1388,7 @@
 		<zh-CN>随行{0_unit}的探险家</zh-CN>
 		<pt-BR>Explorador com {0_unit}</pt-BR>
 		<ko>{0_unit} 유닛이 있는 탐험가</ko>
+		<fixja>{0_unit}に同行する探検家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
@@ -1304,6 +1402,7 @@
 		<zh-CN>{0_city}的link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR,{masculine_1:M:F}) de {0_city}</pt-BR>
 		<ko>{0_city}의 link(CONCEPT_GOVERNOR)</ko>
+		<fixja>{0_unit}のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_AGENT_IN</zType>
@@ -1317,6 +1416,7 @@
 		<zh-CN>在{0_city}的link(CONCEPT_AGENT)</zh-CN>
 		<pt-BR>link(CONCEPT_AGENT) em {0_city}</pt-BR>
 		<ko>{0_city}의 link(CONCEPT_AGENT)</ko>
+		<fixja>{0_unit}のlink(CONCEPT_AGENT)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_YOUR_HEIR</zType>
@@ -1330,6 +1430,7 @@
 		<zh-CN>你的继承人</zh-CN>
 		<pt-BR>{masculine_0:Seu Herdeiro:Sua Herdeira}</pt-BR>
 		<ko>당신의 후계자</ko>
+		<fixja>あなたの後継者</fixja>
 	</Entry>
 	<!-- Name -->
 	<Entry>
@@ -1344,6 +1445,7 @@
 		<zh-CN> ({0_data})</zh-CN>
 		<pt-BR> ({0_data})</pt-BR>
 		<ko>({0_data})</ko>
+		<fixja> ({0_data})</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NAME_WITH_SUFFIX</zType>
@@ -1357,6 +1459,7 @@
 		<zh-CN>{0_name}{1_suffix}</zh-CN>
 		<pt-BR>{0_name} {1_suffix}</pt-BR>
 		<ko>{1_suffix} {0_name}</ko>
+		<fixja>{0_name} {1_suffix}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_OF_NATION</zType>
@@ -1370,6 +1473,7 @@
 		<zh-CN>{1_nation}的{0_name}</zh-CN>
 		<pt-BR>{0_name} {1,6_nation}</pt-BR>
 		<ko>{1_nation}의 {0_name}</ko>
+		<fixja>{1_nation}の{0_name}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_THE_YOUNGER</zType>
@@ -1383,6 +1487,7 @@
 		<zh-CN>小</zh-CN>
 		<pt-BR>o Jovem</pt-BR>
 		<ko>소</ko>
+		<fixja>未熟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_THE_YOUNGER_F</zType>
@@ -1396,6 +1501,7 @@
 		<zh-CN>小</zh-CN>
 		<pt-BR>a Jovem</pt-BR>
 		<ko>소</ko>
+		<fixja>未熟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_THE_ELDER</zType>
@@ -1409,6 +1515,7 @@
 		<zh-CN>老</zh-CN>
 		<pt-BR>o Velho</pt-BR>
 		<ko>대</ko>
+		<fixja>老練</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_THE_ELDER_F</zType>
@@ -1422,6 +1529,7 @@
 		<zh-CN>老</zh-CN>
 		<pt-BR>a Velha</pt-BR>
 		<ko>대</ko>
+		<fixja>老練</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_GAULS</zType>
@@ -1435,6 +1543,7 @@
 		<zh-CN>卑贱者</zh-CN>
 		<pt-BR>a Evisceração</pt-BR>
 		<ko>가차없는 자</ko>
+		<fixja>どん底</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_GAULS_F</zType>
@@ -1448,6 +1557,7 @@
 		<zh-CN>卑贱者</zh-CN>
 		<pt-BR>a Evisceração</pt-BR>
 		<ko>가차없는 자</ko>
+		<fixja>どん底</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_VANDALS</zType>
@@ -1461,6 +1571,7 @@
 		<zh-CN>胜利者</zh-CN>
 		<pt-BR>a Aniquilação</pt-BR>
 		<ko>반골</ko>
+		<fixja>征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_VANDALS_F</zType>
@@ -1474,6 +1585,7 @@
 		<zh-CN>胜利者</zh-CN>
 		<pt-BR>a Aniquilação</pt-BR>
 		<ko>반골</ko>
+		<fixja>征服者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_DANES</zType>
@@ -1487,6 +1599,7 @@
 		<zh-CN>荒废者</zh-CN>
 		<pt-BR>a Desolação</pt-BR>
 		<ko>대인</ko>
+		<fixja>破壊者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_DANES_F</zType>
@@ -1500,6 +1613,7 @@
 		<zh-CN>荒废者</zh-CN>
 		<pt-BR>a Desolação</pt-BR>
 		<ko>대인</ko>
+		<fixja>破壊者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_THRACIANS</zType>
@@ -1513,6 +1627,7 @@
 		<zh-CN>鞭笞者</zh-CN>
 		<pt-BR>o Açoite</pt-BR>
 		<ko>투견</ko>
+		<fixja>鞭打つ者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_THRACIANS_F</zType>
@@ -1526,6 +1641,7 @@
 		<zh-CN>鞭笞者</zh-CN>
 		<pt-BR>o Açoite</pt-BR>
 		<ko>투견</ko>
+		<fixja>鞭打つ者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_SCYTHIANS</zType>
@@ -1539,6 +1655,7 @@
 		<zh-CN>镰刀</zh-CN>
 		<pt-BR>a Foice</pt-BR>
 		<ko>수기치인의</ko>
+		<fixja>大鎌</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_SCYTHIANS_F</zType>
@@ -1552,6 +1669,7 @@
 		<zh-CN>镰刀</zh-CN>
 		<pt-BR>a Foice</pt-BR>
 		<ko>수기치인의</ko>
+		<fixja>大鎌</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_NUMIDIANS</zType>
@@ -1565,6 +1683,7 @@
 		<zh-CN>否决者</zh-CN>
 		<pt-BR>a Abolição</pt-BR>
 		<ko>무력화자</ko>
+		<fixja>破棄者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_NUMIDIANS_F</zType>
@@ -1578,6 +1697,7 @@
 		<zh-CN>否决者</zh-CN>
 		<pt-BR>a Abolição</pt-BR>
 		<ko>무력화자</ko>
+		<fixja>破棄者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_THE_FOREIGNER</zType>
@@ -1591,6 +1711,7 @@
 		<zh-CN>异邦人</zh-CN>
 		<pt-BR>o Estrangeiro</pt-BR>
 		<ko>외국인</ko>
+		<fixja>異国の者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NICKNAME_THE_FOREIGNER_F</zType>
@@ -1604,6 +1725,7 @@
 		<zh-CN>异邦人</zh-CN>
 		<pt-BR>a Estrangeira</pt-BR>
 		<ko>외국인</ko>
+		<fixja>異国の者</fixja>
 	</Entry>
 	<!-- Game Text -->
 	<Entry>
@@ -1618,6 +1740,7 @@
 		<zh-CN>{0_character}已死亡</zh-CN>
 		<pt-BR>{0_character} morreu</pt-BR>
 		<ko>{0_character}(이)가 사망했습니다</ko>
+		<fixja>{0_character}が死亡した</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HAS_DIED</zType>
@@ -1631,6 +1754,7 @@
 		<zh-CN>{0_character}已死亡！</zh-CN>
 		<pt-BR>{0_character} morreu!</pt-BR>
 		<ko>{0_character}(이)가 사망했습니다!</ko>
+		<fixja>{0_character}が死亡した！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_LEADER_NEW_COGNOMEN</zType>
@@ -1644,6 +1768,7 @@
 		<zh-CN>你现在被称为{1_cognomen}{0_name}！{2_legitimacy} (icon(YIELD_LEGITIMACY) link(CONCEPT_LEGITIMACY))</zh-CN>
 		<pt-BR>Você agora é {masculine_0:conhecido:conhecida} como {0_name}, {1_cognomen}! ({2_legitimacy} icon(YIELD_LEGITIMACY) link(CONCEPT_LEGITIMACY))</pt-BR>
 		<ko>세간은 당신을 {1_cognomen} {0_name}(이)라고 부릅니다!</ko>
+		<fixja>あなたは{0_name}（{1_cognomen}）となりました！{2_legitimacy} (icon(YIELD_LEGITIMACY) link(CONCEPT_LEGITIMACY))</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GAINS_TRAIT</zType>
@@ -1657,6 +1782,7 @@
 		<zh-CN>{0_character}变为{1_trait}。</zh-CN>
 		<pt-BR>{0_character} torna-se {1_trait}.</pt-BR>
 		<ko>{0_character}(이)가 {1_trait} 특성을 획득하였습니다.</ko>
+		<fixja>{0_character}が{1_trait}になる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GAINS_TRAIT_ITEM</zType>
@@ -1670,6 +1796,7 @@
 		<zh-CN>{0_character}获得{1_trait}。</zh-CN>
 		<pt-BR>{0_character} torna-se {1_trait}.</pt-BR>
 		<ko>{0_character}(이)가 {1_trait}(을)를 획득하다.</ko>
+		<fixja>{0_character}: が{1_trait}になりました</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_NO_LONGER</zType>
@@ -1683,6 +1810,7 @@
 		<zh-CN> (不再{0})</zh-CN>
 		<pt-BR>(Não é mais {0})</pt-BR>
 		<ko>({0} 특성 상실)</ko>
+		<fixja> （もう{0}ではない）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_GAINS_RELATIONSHIP</zType>
@@ -1696,5 +1824,6 @@
 		<zh-CN>{0_character}现在是{1_relationship}{2_character}。</zh-CN>
 		<pt-BR>{0_character} agora está {lowercase:{1_relationship}} {2_character}.</pt-BR>
 		<ko>{0_character}: {1_relationship} {2_character}</ko>
+		<fixja>{0_character}は現在、{2_character}にとって{1_relationship}。</fixja>
 	</Entry>
 </Root>

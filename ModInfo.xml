@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <displayName>日本語FIX</displayName>
-  <description>日本語の修正</description>
+  <description>日本語の修正。ニューゲームでないと反映されないので注意。</description>
   <modpicture>icon.png</modpicture>
   <author>toromoti</author>
   <modversion>2025.11.30.rev1</modversion>
   <modbuild>1.0.70671</modbuild>
   <homepage />
-  <tags />
+  <tags>GameInfo,UI,Event</tags>
   <singlePlayer>true</singlePlayer>
   <multiplayer>true</multiplayer>
   <scenario>false</scenario>

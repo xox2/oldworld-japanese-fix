@@ -63,6 +63,9 @@ Eu sou Hatusil, rei de Hatusa.</pt-BR>
       귀족과 약자 모두 내게 굴복하여야 한다. 나는 내 아들에게 왕좌를 넘기지 않았기에 나의 손자가 민족을 통치하게 되었다. 녀석이 우리 민족을 영원히 번영시키고 나의 유산을 이어가리라.
 
       나는 히타이트의 왕 하투실리다.</ko>
+		<fixja>    我はヒッタイトの戦士王、ハットゥシリである。当初はラバルナスと呼ばれていたが、中部地域統一の戦いを通じて、王の名を得た。
+
+    今は民衆があなたを支えてくれているが、それでも陰謀の脅威が存在する。ヒッタイトが、あなたの先祖の王国を超える偉大な国になるためには、氏族が一致団結する必要がある。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_HITTITE_CHARIOT_1_BONUS</zType>
@@ -76,6 +79,7 @@ Eu sou Hatusil, rei de Hatusa.</pt-BR>
 		<zh-CN>这项红利可提供首都免费的link(UNIT_HITTITE_CHARIOT_1)单位。 link(UNIT_HITTITE_CHARIOT_1)是link(NATION_HITTITE)专属的骑兵远程单位，骚扰敌人时的移动速度尤其快。若不研究出现的红利卡牌，该卡牌遭舍弃后就会永久废弃，不会再出现。</zh-CN>
 		<pt-BR>Esta carta bônus concede uma unidade de link(UNIT_HITTITE_CHARIOT_1) grátis à sua capital. É uma unidade montada e a distância única a link(NATION_HITTITE) que se move especialmente rápido para atacar seu inimigos. Se uma carta bônus não for pesquisada assim que aparecer, será destruída após ser descartada e não aparecerá novamente.</pt-BR>
 		<ko>수도에 link(UNIT_HITTITE_CHARIOT_1) 유닛 하나가 제공됩니다. link(NATION_HITTITE) 고유 원거리 기병 유닛으로 빠르게 이동하며 적을 쉴 틈 없이 공격할 수 있습니다. 선택하지 않은 덤 카드는 영구적으로 버려지며 다시는 나타나지 않습니다.</ko>
+		<fixja>このボーナスは、自国の首都にlink(UNIT_HITTITE_CHARIOT_1)ユニットを無償で付与する。link(NATION_HITTITE)特有の遠隔騎兵ユニットのlink(UNIT_HITTITE_CHARIOT_1)は、特に移動速度が速く、敵に嫌がらせをするのに適している。ボーナスカードが出現した際にその研究をしない場合、捨ててしまうと取り戻せず、二度と出現しなくなる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_HITTITE_CHARIOT_2_BONUS</zType>
@@ -89,6 +93,7 @@ Eu sou Hatusil, rei de Hatusa.</pt-BR>
 		<zh-CN>这项红利可在你的首都附近提供免费的link(UNIT_HITTITE_CHARIOT_2)单位。link(UNIT_HITTITE_CHARIOT_2)是link(NATION_HITTITE)专属的骑兵远程单位，骚扰敌人时的移动速度尤其快。若不研究出现的红利卡牌，该卡牌废弃之后就会永久不再出现。</zh-CN>
 		<pt-BR>Esta carta bônus concede link(UNIT_HITTITE_CHARIOT_2,2) grátis à sua capital. É uma unidade montada e a distância única a link(NATION_HITTITE) que se move especialmente rápido para atacar seu inimigos. Se uma carta bônus não for pesquisada assim que aparecer, será destruída após ser descartada e não aparecerá novamente.</pt-BR>
 		<ko>수도에 link(UNIT_HITTITE_CHARIOT_2) 유닛 하나가 제공됩니다. link(NATION_HITTITE) 고유 원거리 기병 유닛으로 빠르게 이동하며 적을 쉴 틈 없이 공격할 수 있습니다. 선택하지 않은 덤 카드는 영구적으로 버려지며 다시는 나타나지 않습니다.</ko>
+		<fixja>このボーナスは、自国の首都周辺にlink(UNIT_HITTITE_CHARIOT_2)ユニットを無償で付与する。link(NATION_HITTITE)特有の遠隔騎兵ユニットのlink(UNIT_HITTITE_CHARIOT_2)は、特に移動速度が速く、敵を妨害するのに適している。ボーナスカードが出現した際にその研究をしない場合、捨ててしまうと取り戻せず、二度と出現しなくなる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HITTITE_CHARIOT_1_BONUS</zType>
@@ -102,6 +107,7 @@ Eu sou Hatusil, rei de Hatusa.</pt-BR>
 		<zh-CN>免费link(UNIT_HITTITE_CHARIOT_1)</zh-CN>
 		<pt-BR>link(UNIT_HITTITE_CHARIOT_1) Grátis</pt-BR>
 		<ko>link(UNIT_HITTITE_CHARIOT_1) 증정</ko>
+		<fixja>無償のlink(UNIT_HITTITE_CHARIOT_1)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_HITTITE_CHARIOT_2_BONUS</zType>
@@ -115,5 +121,6 @@ Eu sou Hatusil, rei de Hatusa.</pt-BR>
 		<zh-CN>免费link(UNIT_HITTITE_CHARIOT_2)</zh-CN>
 		<pt-BR>link(UNIT_HITTITE_CHARIOT_2) Grátis</pt-BR>
 		<ko>link(UNIT_HITTITE_CHARIOT_2) 증정</ko>
+		<fixja>無償のlink(UNIT_HITTITE_CHARIOT_2)</fixja>
 	</Entry>
 </Root>

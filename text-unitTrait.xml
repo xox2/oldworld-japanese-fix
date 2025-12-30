@@ -26,6 +26,7 @@
 		<zh-CN>近战</zh-CN>
 		<pt-BR>Corpo a Corpo</pt-BR>
 		<ko>근거리</ko>
+		<fixja>近接</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_RANGED</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>远程</zh-CN>
 		<pt-BR>A Distância</pt-BR>
 		<ko>원거리</ko>
+		<fixja>遠隔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>步兵</zh-CN>
 		<pt-BR>Infantaria</pt-BR>
 		<ko>보병</ko>
+		<fixja>歩兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_POLEARM</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>长兵器</zh-CN>
 		<pt-BR>Arma de Haste</pt-BR>
 		<ko>장병기</ko>
+		<fixja>長柄</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>骑兵</zh-CN>
 		<pt-BR>Montaria</pt-BR>
 		<ko>기병</ko>
+		<fixja>騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_HORSE</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>马</zh-CN>
 		<pt-BR>Cavalo</pt-BR>
 		<ko>말</ko>
+		<fixja>馬</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_CAMEL</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>骆驼</zh-CN>
 		<pt-BR>Camelo</pt-BR>
 		<ko>낙타</ko>
+		<fixja>ラクダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_ELEPHANT</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>大象</zh-CN>
 		<pt-BR>Elefante</pt-BR>
 		<ko>코끼리</ko>
+		<fixja>象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SIEGE</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>攻城</zh-CN>
 		<pt-BR>Cerco</pt-BR>
 		<ko>공성</ko>
+		<fixja>攻囲</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SHIP</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>船舰</zh-CN>
 		<pt-BR>Barco~Barcos</pt-BR>
 		<ko>함선</ko>
+		<fixja>乗船</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_WORKER</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>工人</zh-CN>
 		<pt-BR>Trabalhador</pt-BR>
 		<ko>일꾼</ko>
+		<fixja>労働者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_DISCIPLE</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>门徒</zh-CN>
 		<pt-BR>Discípulo</pt-BR>
 		<ko>신도</ko>
+		<fixja>信徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_TRIBAL</zType>
@@ -182,5 +194,6 @@
 		<zh-CN>部落</zh-CN>
 		<pt-BR>Tribal</pt-BR>
 		<ko>부족</ko>
+		<fixja>部族</fixja>
 	</Entry>
 </Root>

@@ -26,6 +26,7 @@
 		<zh-CN>电子邮件</zh-CN>
 		<pt-BR>Email</pt-BR>
 		<ko>이메일</ko>
+		<fixja>Eメール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>玩云端游戏 (若这些游戏可供游玩) 需要使用电子邮件地址；若你提交错误，我们亦会在必要时透过电子邮件地址联络你。</zh-CN>
 		<pt-BR>Seu email será usado em partidas jogadas na nuvem ou para entrar em contato com você, se necessário, quando você reportar bugs</pt-BR>
 		<ko>이메일 주소는 클라우드 플레이 게임과 버그 제보 메일 회신에 사용됩니다.</ko>
+		<fixja>お客様のメールアドレスは、クラウドゲームでのプレイ（利用可能になった場合）、または不具合をご報告いただいた際に必要に応じて当社から折り返しのご連絡をする際に使用します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DEFAULT_MAP_OVERLAY_NAME</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>默认地图叠图</zh-CN>
 		<pt-BR>Camada de mapa padrão</pt-BR>
 		<ko>기본 맵 오버레이</ko>
+		<fixja>標準のマップオーバーレイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DEFAULT_MAP_OVERLAY_DESC</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>开始游戏时，锁定所选地图图块叠图</zh-CN>
 		<pt-BR>Trava a camada de casas do mapa selecionada ao iniciar uma partida</pt-BR>
 		<ko>게임을 시작할 때 선택한 맵 타일 오버레이를 잠급니다.</ko>
+		<fixja>現在選択中のマップタイルオーバーレイをデフォルトとして設定</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_NAME</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>跟随电脑移动</zh-CN>
 		<pt-BR>Seguir movimentos da IA</pt-BR>
 		<ko>AI 움직임 따르기</ko>
+		<fixja>AIの動きをフォロー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_DESC</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>视角应在何时跟随电脑移动？</zh-CN>
 		<pt-BR>Situação em que a câmera deve seguir os movimentos da IA</pt-BR>
 		<ko>언제 카메라가 AI의 움직임을 따르게 하겠습니까?</ko>
+		<fixja>どのような場合にカメラをAIの動きにフォローさせますか？</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_RESOLUTION_NAME</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>解析度</zh-CN>
 		<pt-BR>Resolução</pt-BR>
 		<ko>해상도</ko>
+		<fixja>解像度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FULLSCREENMODE_NAME</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>显示模式</zh-CN>
 		<pt-BR>Modo de exibição</pt-BR>
 		<ko>표시 모드</ko>
+		<fixja>表示モード</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FULLSCREENMODE_DESC</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>全荧幕模式</zh-CN>
 		<pt-BR>Modo de exibição da tela</pt-BR>
 		<ko>전체 화면</ko>
+		<fixja>フルスクリーンモード</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_MONITOR_NAME</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>显示器</zh-CN>
 		<pt-BR>Monitor</pt-BR>
 		<ko>모니터</ko>
+		<fixja>モニター</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_MONITOR_DESC</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>必须重新开始游戏</zh-CN>
 		<pt-BR>Será necessário reiniciar o jogo para aplicar mudanças</pt-BR>
 		<ko>게임을 재시작해야 합니다.</ko>
+		<fixja>ゲームの再起動が必要</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FRAME_LIMIT_NAME</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>影格限制</zh-CN>
 		<pt-BR>Limite de quadros</pt-BR>
 		<ko>프레임 제한</ko>
+		<fixja>フレーム制限</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FRAME_LIMIT_DESC</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>设定影格限制</zh-CN>
 		<pt-BR>Define o limite de quadros</pt-BR>
 		<ko>프레임 제한을 설정합니다.</ko>
+		<fixja>フレーム制限の設定</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_GRAPHICS_PRESET_NAME</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>预设画质</zh-CN>
 		<pt-BR>Predefinições gráficas</pt-BR>
 		<ko>그래픽 사전 설정</ko>
+		<fixja>グラフィックプリセット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_GRAPHICS_PRESET_DESC</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>所有选项的预设画质</zh-CN>
 		<pt-BR>Predefinições gráficas para todas as opções</pt-BR>
 		<ko>그래픽 설정을 사전 설정에 맞춥니다.</ko>
+		<fixja>すべてのオプションのグラフィックプリセット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_LOD_QUALITY_NAME</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>建筑物品质</zh-CN>
 		<pt-BR>Qualidade dos edifícios</pt-BR>
 		<ko>건축물 품질</ko>
+		<fixja>建物のクオリティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_LOD_QUALITY_DESC</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>建筑物品质和精细度</zh-CN>
 		<pt-BR>Qualidade e nível de detalhe dos edifícios</pt-BR>
 		<ko>건축물의 품질과 묘사 수준을 설정합니다.</ko>
+		<fixja>建物のクオリティと詳細レベル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_RENDERING_QUALITY_NAME</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>渲染品质</zh-CN>
 		<pt-BR>Qualidade de renderização</pt-BR>
 		<ko>렌더링 품질</ko>
+		<fixja>レンダリングのクオリティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_RENDERING_QUALITY_DESC</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>预设渲染品质</zh-CN>
 		<pt-BR>Opções predefinidas da qualidade de renderização</pt-BR>
 		<ko>렌더링 품질을 사전 설정에 맞춥니다.</ko>
+		<fixja>レンダリングクオリティのプリセット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TERRAIN_QUALITY_NAME</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>地形品质</zh-CN>
 		<pt-BR>Qualidade do terreno</pt-BR>
 		<ko>지형 품질</ko>
+		<fixja>地形の精度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TERRAIN_QUALITY_DESC</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>地形渲染品质和记忆体使用量</zh-CN>
 		<pt-BR>Qualidade da renderização do terreno e uso de memória</pt-BR>
 		<ko>지형 품질과 메모리 사용량을 설정합니다.</ko>
+		<fixja>地形のレンダリング精度とメモリ使用量</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FOW_QUALITY_NAME</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>战争迷雾品质</zh-CN>
 		<pt-BR>Qualidade da névoa de guerra</pt-BR>
 		<ko>전운 품질</ko>
+		<fixja>「戦場の霧」の精度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FOW_QUALITY_DESC</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>战争迷雾渲染品质</zh-CN>
 		<pt-BR>Qualidade da renderização da névoa de guerra</pt-BR>
 		<ko>전운 렌더링 품질을 설정합니다.</ko>
+		<fixja>「戦場の霧」のレンダリング精度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_COLORBLIND_FILTER_NAME</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>色彩滤镜</zh-CN>
 		<pt-BR>Filtro daltônico</pt-BR>
 		<ko>색맹 필터</ko>
+		<fixja>色覚異常フィルター</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_COLORBLIND_FILTER_DESC</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>多种类型适用的色彩滤镜</zh-CN>
 		<pt-BR>Uma variedade de filtros para diferentes tipos de daltonismo</pt-BR>
 		<ko>다양한 종류의 색맹 필터를 설정합니다.</ko>
+		<fixja>さまざまなタイプの色覚異常フィルター</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_NAME</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>滤镜强度</zh-CN>
 		<pt-BR>Intensidade</pt-BR>
 		<ko>필터 강도</ko>
+		<fixja>フィルター強度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_DESC</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>调整色彩滤镜用量</zh-CN>
 		<pt-BR>Ajuste de intensidade dos filtros do modo daltônico</pt-BR>
 		<ko>색맹 필터의 강도를 조정합니다.</ko>
+		<fixja>色覚異常フィルターの量を調整</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_CAMERA_SPEED_NAME</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>视角速度</zh-CN>
 		<pt-BR>Velocidade da câmera</pt-BR>
 		<ko>카메라 속도</ko>
+		<fixja>カメラ速度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_CAMERA_SPEED_DESC</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>视角移动速度</zh-CN>
 		<pt-BR>Velocidade de rolamento da câmera</pt-BR>
 		<ko>카메라 이동 속도를 설정합니다.</ko>
+		<fixja>カメラのスクロール速度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_ANTIALIASING_NAME</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>抗锯齿</zh-CN>
 		<pt-BR>Antisserrilhamento</pt-BR>
 		<ko>안티 에일리어싱</ko>
+		<fixja>アンチエイリアス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_ANTIALIASING_DESC</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>启用 FXAA 抗锯齿</zh-CN>
 		<pt-BR>Ativa o antisserrilhamento tipo FXAA</pt-BR>
 		<ko>FXAA 안티 에일리어싱을 활성화합니다.</ko>
+		<fixja>FXAAアンチエイリアスの有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_NAME</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>环境光遮蔽</zh-CN>
 		<pt-BR>Oclusão de ambiente</pt-BR>
 		<ko>앰비언트 오클루전</ko>
+		<fixja>アンビエントオクルージョン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_DESC</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>启用环境光遮蔽后制</zh-CN>
 		<pt-BR>Ativa a oclusão de ambiente no pós-processamento</pt-BR>
 		<ko>앰비언트 오클루전 후처리를 활성화합니다.</ko>
+		<fixja>アンビエントオクルージョンのポストプロセスの有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_BLOOM_NAME</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>高光</zh-CN>
 		<pt-BR>Efeito bloom</pt-BR>
 		<ko>광원</ko>
+		<fixja>ブルーム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_BLOOM_DESC</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>启用高光后制</zh-CN>
 		<pt-BR>Ativa o efeito de bloom, que afeta o reflexo das luzes, no pós-processamento</pt-BR>
 		<ko>광원 후처리를 활성화합니다.</ko>
+		<fixja>ブルームのポストプロセスの有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_VIGNETTE_NAME</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>晕影</zh-CN>
 		<pt-BR>Bordas escurecidas</pt-BR>
 		<ko>비네트</ko>
+		<fixja>ビネット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_VIGNETTE_DESC</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>启用晕影视角特效</zh-CN>
 		<pt-BR>Ativa o efeito de bordas escurecidas</pt-BR>
 		<ko>카메라 심도 효과를 활성화합니다.</ko>
+		<fixja>ビネットのカメラ効果の有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_MOTION_BLUR_NAME</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>动态模糊</zh-CN>
 		<pt-BR>Borrão de movimento</pt-BR>
 		<ko>모션 블러</ko>
+		<fixja>モーションブラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_MOTION_BLUR_DESC</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>启用动态模糊后制</zh-CN>
 		<pt-BR>Ativa o borrão de movimento no pós-processamento</pt-BR>
 		<ko>모션 블러 후처리를 활성화합니다.</ko>
+		<fixja>モーションブラーのポストプロセスの有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DEPTH_OF_FIELD_NAME</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>景深</zh-CN>
 		<pt-BR>Profundidade de campo</pt-BR>
 		<ko>피사계 심도</ko>
+		<fixja>被写界深度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DEPTH_OF_FIELD_DESC</zType>
@@ -546,6 +586,7 @@
 		<zh-CN>在画面上方启用模糊特效</zh-CN>
 		<pt-BR>Ativa o efeito de borrão no topo da tela</pt-BR>
 		<ko>화면 상단의 흐림 효과를 활성화합니다.</ko>
+		<fixja>画面上部のぼかし効果の有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_COLOR_CORRECTION_NAME</zType>
@@ -559,6 +600,7 @@
 		<zh-CN>色彩校正</zh-CN>
 		<pt-BR>Correção de cores</pt-BR>
 		<ko>색상 보정</ko>
+		<fixja>色補正</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_COLOR_CORRECTION_DESC</zType>
@@ -572,6 +614,7 @@
 		<zh-CN>启用色彩校正后制</zh-CN>
 		<pt-BR>Ativa a correção de cores no pós-processamento</pt-BR>
 		<ko>색상 보정 후처리를 활성화합니다.</ko>
+		<fixja>色補正のポストプロセスの有効化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_ANIMATION_LOD_NAME</zType>
@@ -585,6 +628,7 @@
 		<zh-CN>减少动画细节</zh-CN>
 		<pt-BR>Reduzir detalhes de animação</pt-BR>
 		<ko>동작 묘사 감소</ko>
+		<fixja>アニメーションの細部を減らす</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_ANIMATION_LOD_DESC</zType>
@@ -598,6 +642,7 @@
 		<zh-CN>缩小视角时减少动画物件的精细度</zh-CN>
 		<pt-BR>Reduz o nível de detalhes dos objetos animados quando a câmera estiver afastada</pt-BR>
 		<ko>화면을 축소했을 때 움직이는 물체의 묘사 수준을 감소합니다.</ko>
+		<fixja>カメラをズームアウトしたときに、アニメーションされたオブジェクトの詳細レベルを下げる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_GPU_UNIT_ANIMATIONS_NAME</zType>
@@ -611,6 +656,7 @@
 		<zh-CN>GPU 单位动画</zh-CN>
 		<pt-BR>Animação de unidades na placa de vídeo</pt-BR>
 		<ko>GPU 유닛 동작 처리</ko>
+		<fixja>GPUユニットアニメーション</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_GPU_UNIT_ANIMATIONS_DESC</zType>
@@ -624,6 +670,7 @@
 		<zh-CN>在 GPU 上计算动画以加速单位渲染</zh-CN>
 		<pt-BR>Acelere a renderização das unidades ao processar as animações através da placa de vídeo</pt-BR>
 		<ko>동작을 GPU에서 계산해 유닛 렌더링 속도를 향상합니다.</ko>
+		<fixja>GPUでアニメーションを計算することにより、ユニットのレンダリングを高速化</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SINGLE_UNITS_NAME</zType>
@@ -637,6 +684,7 @@
 		<zh-CN>显示单一单位</zh-CN>
 		<pt-BR>Exibir unidades únicas</pt-BR>
 		<ko>단일 유닛 표시</ko>
+		<fixja>単一のユニットを表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SINGLE_UNITS_DESC</zType>
@@ -650,6 +698,7 @@
 		<zh-CN>仅显示单一单位，而非全组显示</zh-CN>
 		<pt-BR>Mostra apenas um objeto para unidades em vez de grupos</pt-BR>
 		<ko>유닛을 집단이 아닌 단일 개체로 표시합니다.</ko>
+		<fixja>グループではなく単一のユニットを表示する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SINGLE_RESOURCES_NAME</zType>
@@ -663,6 +712,7 @@
 		<zh-CN>显示单一资源</zh-CN>
 		<pt-BR>Exibir recursos únicos</pt-BR>
 		<ko>단일 자원 표시</ko>
+		<fixja>単一の資源を表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SINGLE_RESOURCES_DESC</zType>
@@ -676,6 +726,7 @@
 		<zh-CN>仅显示单一资源，而非全组显示</zh-CN>
 		<pt-BR>Mostra apenas um objeto para recursos em vez de grupos</pt-BR>
 		<ko>자원을 집단이 아닌 단일 개체로 표시합니다.</ko>
+		<fixja>グループではなく単一のリソースを表示する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SINGLE_OBJECTS_NAME</zType>
@@ -689,6 +740,7 @@
 		<zh-CN>显示单一物件</zh-CN>
 		<pt-BR>Mostrar objetos únicos</pt-BR>
 		<ko>단일 물체 표시</ko>
+		<fixja>単一オブジェクトを表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SINGLE_OBJECTS_DESC</zType>
@@ -702,6 +754,7 @@
 		<zh-CN>显示单一单位和资源 (而非群组)</zh-CN>
 		<pt-BR>Mostra apenas um objeto para unidades e recursos em vez de grupos</pt-BR>
 		<ko>유닛과 자원을 집단이 아닌 단일 개체로 표시합니다.</ko>
+		<fixja>ユニットや資源をグループではなく、単体で表示</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_REDUCE_FRAMERATE_WHEN_UNFOCUSED_NAME</zType>
@@ -715,6 +768,7 @@
 		<zh-CN>未聚焦时降低帧率</zh-CN>
 		<pt-BR>Reduzir o limite de quadros em segundo plano</pt-BR>
 		<ko>백그라운드 실행 중 프레임 감소</ko>
+		<fixja>バックグラウンドで起動中、フレームレートを下げる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_REDUCE_FRAMERATE_WHEN_UNFOCUSED_DESC</zType>
@@ -728,6 +782,7 @@
 		<zh-CN>应用未聚焦时降低帧率以降低 GPU 使用率</zh-CN>
 		<pt-BR>Reduzir o limite de quadros para diminuir o uso da placa de vídeo quando o programa estiver em segundo plano</pt-BR>
 		<ko>백그라운드 상태일 때 초당 프레임을 줄여 GPU 사용량을 줄입니다.</ko>
+		<fixja>このアプリケーションが主に使用されていないとき、GPU使用率を下げて、フレームレートを下げる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_PORTRAIT_AGE_INTERPOLATION_NAME</zType>
@@ -741,6 +796,7 @@
 		<zh-CN>肖像年龄插值</zh-CN>
 		<pt-BR>Interpolação de idade na imagem</pt-BR>
 		<ko>초상화 나이 보간법</ko>
+		<fixja>ポートレートの年齢補間</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_PORTRAIT_AGE_INTERPOLATION_DESC</zType>
@@ -754,6 +810,7 @@
 		<zh-CN>若开启，人物肖像会根据插值算法逐渐老化。若关闭，肖像则会在特定的年龄改变，比如 18 岁和 60 岁。</zh-CN>
 		<pt-BR>Se ativado, a imagem do personagem irá envelhecer gradativamente usando um algoritmo de interpolação. Se desativado, a imagem mudará em idades específicas, como aos 18 e 60 anos.</pt-BR>
 		<ko>활성화하면 보간 알고리즘을 적용해 인물의 초상화가 점진적으로 나이를 먹으며, 비활성화하면 특정 나이에 따라 초상화가 변화합니다.</ko>
+		<fixja>この機能を有効にすると、補間アルゴリズムによってキャラクターの絵（ポートレート）が徐々に老けていきます。無効にした場合は、18歳や60歳など特定の年齢に達した時点で変化します。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_MUSIC_VOLUME_NAME</zType>
@@ -767,6 +824,7 @@
 		<zh-CN>配乐音量</zh-CN>
 		<pt-BR>Volume da música</pt-BR>
 		<ko>음악 음량</ko>
+		<fixja>音楽の音量</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SFX_VOLUME_NAME</zType>
@@ -780,6 +838,7 @@
 		<zh-CN>音效音量</zh-CN>
 		<pt-BR>Volume dos efeitos</pt-BR>
 		<ko>효과음 음량</ko>
+		<fixja>エフェクトの音量</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_SFX_VOLUME_DESC</zType>
@@ -793,6 +852,7 @@
 		<zh-CN>音效音量大小</zh-CN>
 		<pt-BR>Nível volume dos efeitos</pt-BR>
 		<ko>효과음 음량을 조절합니다.</ko>
+		<fixja>エフェクトの音量レベル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_HUD_SCALE_NAME</zType>
@@ -806,6 +866,7 @@
 		<zh-CN>平视显示器比例</zh-CN>
 		<pt-BR>Tamanho da interface</pt-BR>
 		<ko>HUD 크기</ko>
+		<fixja>HUDスケール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_HUD_SCALE_DESC</zType>
@@ -819,6 +880,7 @@
 		<zh-CN>变更主游戏画面上的用户界面元素大小</zh-CN>
 		<pt-BR>Muda o tamanho dos elementos da interface na tela principal do jogo</pt-BR>
 		<ko>게임 화면에 표시되는 UI 크기를 변경합니다.</ko>
+		<fixja>ゲームのメイン画面のUI要素のサイズを変更</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TOOLTIP_SCALE_NAME</zType>
@@ -832,6 +894,7 @@
 		<zh-CN>提示框大小</zh-CN>
 		<pt-BR>Tamanho dos quadros de dicas</pt-BR>
 		<ko>도움말 크기</ko>
+		<fixja>ツールチップスケール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TOOLTIP_SCALE_DESC</zType>
@@ -845,6 +908,7 @@
 		<zh-CN>变更提示框大小</zh-CN>
 		<pt-BR>Muda o tamanho dos quadros de dicas</pt-BR>
 		<ko>도움말 크기를 변경합니다.</ko>
+		<fixja>ツールチップのサイズを変更</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_OVERRIDE_MAX_SCALING_NAME</zType>
@@ -858,6 +922,7 @@
 		<zh-CN>重写缩放限制</zh-CN>
 		<pt-BR>Anular limite de tamanho</pt-BR>
 		<ko>크기 제한 변경</ko>
+		<fixja>スケール制限をオーバーライド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_OVERRIDE_MAX_SCALING_DESC</zType>
@@ -871,6 +936,7 @@
 		<zh-CN><![CDATA[在滑杆上增加平视显示器比例的最大值<br><color=#ff0000>警告：启用这项设定可能会造成多个用户界面元素重叠或破坏版面配置</color>]]></zh-CN>
 		<pt-BR><![CDATA[Aumenta o valor máximo de ajuste para o tamanho da interface <br><color=#ff0000>Atenção: ativar esta configuração pode fazer com que diversos elementos da interface se sobreponham ou que os layouts não funcionem</color>]]></pt-BR>
 		<ko><![CDATA[HUD 최대 크기를 늘립니다.<br><color=#ff0000>경고:이 설정을 활성화하면 UI 요소들이 겹치거나 배치가 어긋날 수 있습니다.</color>]]></ko>
+		<fixja><![CDATA[スライダのHUDスケーリングの最大値を大きくします。<br><color=#ff0000>警告：この設定を有効にすると、さまざまなUI要素が重なり合ったり、レイアウトが崩れたりすることがあります</color>]]></fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TOOLTIP_DELAY_NAME</zType>
@@ -884,6 +950,7 @@
 		<zh-CN>提示框延迟</zh-CN>
 		<pt-BR>Tempo dos quadros de dicas</pt-BR>
 		<ko>도움말 표시 지연 시간</ko>
+		<fixja>ツールチップディレイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TOOLTIP_DELAY_DESC</zType>
@@ -897,6 +964,7 @@
 		<zh-CN>提示框出现前需要悬停时间</zh-CN>
 		<pt-BR>Tempo necessário para que os quadros de dicas apareçam ao posicionar o mouse sobre links</pt-BR>
 		<ko>도움말이 나타날 때까지 걸리는 시간을 설정합니다.</ko>
+		<fixja>ツールチップが表示されるまでに要するホバー時間です</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TEAM_COLOR_INTENSITY_NAME</zType>
@@ -910,6 +978,7 @@
 		<zh-CN>队伍色彩亮度</zh-CN>
 		<pt-BR>Intensidade da cor da equipe</pt-BR>
 		<ko>팀 색깔 농도</ko>
+		<fixja>チームカラーの強度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_TEAM_COLOR_INTENSITY_DESC</zType>
@@ -923,6 +992,7 @@
 		<zh-CN>单位和建筑上的队伍色彩饱和度</zh-CN>
 		<pt-BR>Saturação das cores das equipes nas unidades e edifícios</pt-BR>
 		<ko>유닛과 건축물에 적용되는 팀 색깔의 농도를 설정합니다.</ko>
+		<fixja>チームのユニットや建築物の彩度</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_LANGUAGE_NAME</zType>
@@ -936,6 +1006,7 @@
 		<zh-CN>语言</zh-CN>
 		<pt-BR>Idioma</pt-BR>
 		<ko>언어</ko>
+		<fixja>言語</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_LANGUAGE_DESC</zType>
@@ -949,6 +1020,7 @@
 		<zh-CN>变更游戏文字语言</zh-CN>
 		<pt-BR>Muda o idioma do texto do jogo</pt-BR>
 		<ko>게임 언어를 변경합니다.</ko>
+		<fixja>ゲームテキストの言語を変更</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_NEWSLETTER</zType>
@@ -962,6 +1034,7 @@
 		<zh-CN>订阅</zh-CN>
 		<pt-BR>Inscreva-se</pt-BR>
 		<ko>구독</ko>
+		<fixja>定期購読</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FIRSTNAME_NAME</zType>
@@ -975,6 +1048,7 @@
 		<zh-CN>名字</zh-CN>
 		<pt-BR>Primeiro nome</pt-BR>
 		<ko>이름</ko>
+		<fixja>名前</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_FIRSTNAME_DESC</zType>
@@ -988,6 +1062,7 @@
 		<zh-CN>输入名字以订阅电子报</zh-CN>
 		<pt-BR>Informe seu primeiro nome para a inscrição na newsletter</pt-BR>
 		<ko>소식지 구독에 사용할 이름을 입력하십시오.</ko>
+		<fixja>ニュースレター購読用に、あなたのお名前を入力してください</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_LASTNAME_NAME</zType>
@@ -1001,6 +1076,7 @@
 		<zh-CN>姓氏</zh-CN>
 		<pt-BR>Sobrenome</pt-BR>
 		<ko>성</ko>
+		<fixja>苗字</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_LASTNAME_DESC</zType>
@@ -1014,6 +1090,7 @@
 		<zh-CN>输入姓氏以订阅电子报</zh-CN>
 		<pt-BR>Informe seu sobrenome para a inscrição na newsletter</pt-BR>
 		<ko>소식지 구독에 사용할 성을 입력하십시오.</ko>
+		<fixja>ニュースレター購読用に、あなたの苗字を入力してください</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_NEWSLETTER_STATUS</zType>
@@ -1027,6 +1104,7 @@
 		<zh-CN>电子报订阅状态：</zh-CN>
 		<pt-BR>Status da sua inscrição na newsletter:</pt-BR>
 		<ko>소식지 구독 상태:</ko>
+		<fixja>ニュースレターの購読状況：</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_NEWSLETTER_SUCCEEDED</zType>
@@ -1040,6 +1118,7 @@
 		<zh-CN>你已成功订阅！</zh-CN>
 		<pt-BR>Sua inscrição foi feita com sucesso!</pt-BR>
 		<ko>구독에 성공하셨습니다!</ko>
+		<fixja>購読の登録が完了しました！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_NEWSLETTER_FAILED</zType>
@@ -1053,6 +1132,7 @@
 		<zh-CN>错误：请提供电子邮件地址并再试一次。</zh-CN>
 		<pt-BR>Houve um erro, por favor digite seu email e tente novamente.</pt-BR>
 		<ko>오류 - 이메일을 다시 입력해 주십시오.</ko>
+		<fixja>エラー - メールアドレスを入力して、もう一度お試しください。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_USE_SANS_SERIF_NAME</zType>
@@ -1066,6 +1146,7 @@
 		<zh-CN>使用无衬线字体</zh-CN>
 		<pt-BR>Usar fonte não serifada</pt-BR>
 		<ko>고딕체 사용</ko>
+		<fixja>sans-serifフォントを使用する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_USE_SANS_SERIF_DESC</zType>
@@ -1079,6 +1160,7 @@
 		<zh-CN>将所有使用衬线字体的文字换成使用无衬线字体 (需要重启游戏)</zh-CN>
 		<pt-BR>Troca todo o texto que usa fontes com serifa para fontes sem serifa (sans serif). Será necessário reiniciar o jogo para aplicar mudanças.</pt-BR>
 		<ko>명조체가 사용된 글자를 모두 고딕체로 변경합니다. 재시작이 필요합니다.</ko>
+		<fixja>serifフォントを使用しているテキストのフォントをすべてsans-serif に変更する（要再起動）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DISABLE_MAIN_MENU_ANIMATION</zType>
@@ -1092,6 +1174,7 @@
 		<zh-CN>禁用主菜单动画效果</zh-CN>
 		<pt-BR>Desativar animação do menu principal</pt-BR>
 		<ko>메인 메뉴 동작 비활성화</ko>
+		<fixja>メインメニューのアニメーションを無効にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DISABLE_MAIN_MENU_ANIMATION_DESC</zType>
@@ -1105,6 +1188,7 @@
 		<zh-CN>禁用主菜单中的滚动地图背景</zh-CN>
 		<pt-BR>O mapa de fundo do menu principal não irá rolar pela tela</pt-BR>
 		<ko>메인 메뉴에서 뒷배경 지도의 움직임 비활성</ko>
+		<fixja>メインメニューのスクロールマップの背景を無効にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DISABLE_FOG_LIGHTNING_NAME</zType>
@@ -1118,6 +1202,7 @@
 		<zh-CN>禁用云雾闪电</zh-CN>
 		<pt-BR>Desativar trovões na névoa</pt-BR>
 		<ko>전운 번개 비활성화</ko>
+		<fixja>フォグ・ライトニングを無効にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_DISABLE_FOG_LIGHTNING_DESC</zType>
@@ -1131,6 +1216,7 @@
 		<zh-CN>禁用地图边缘闪烁的闪电效果</zh-CN>
 		<pt-BR>Desativa o efeito estroboscópico dos trovões nas bordas do mapa</pt-BR>
 		<ko>맵 가장자리에서 발생하는 번개 효과를 비활성화합니다.</ko>
+		<fixja>マップの端で点滅する稲妻のエフェクトを無効にする</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_INCREASE_MOVEMENT_RADIUS_VISIBILITY_NAME</zType>
@@ -1144,6 +1230,7 @@
 		<zh-CN>提高移动半径可视度</zh-CN>
 		<pt-BR>Aumentar raio de visibilidade de movimento</pt-BR>
 		<ko>이동 반경 시야 증가</ko>
+		<fixja>移動可能範囲の視認性増加</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_INCREASE_MOVEMENT_RADIUS_VISIBILITY_DESC</zType>
@@ -1157,6 +1244,7 @@
 		<zh-CN>增加单位移动半径指示的显示亮度，使其在地形上更明显</zh-CN>
 		<pt-BR>Aumenta o brilho do indicador do raio de movimento da unidade para que ele se destaque mais contra o terreno.</pt-BR>
 		<ko>유닛 이동 반경 표시가 지형과 대비했을 때 또렷하게 보이도록 밝기가 증가합니다.</ko>
+		<fixja>ユニットの移動可能範囲の明るさを増加させて、地形に対してより見やすくなります</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_INCREASE_BORDER_VISIBILITY_NAME</zType>
@@ -1170,6 +1258,7 @@
 		<zh-CN>提高边境可视度</zh-CN>
 		<pt-BR>Aumentar a visibilidade das fronteiras</pt-BR>
 		<ko>국경 시야 개선</ko>
+		<fixja>国境の見える範囲を広げる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_INCREASE_BORDER_VISIBILITY_DESC</zType>
@@ -1183,6 +1272,7 @@
 		<zh-CN>清除地形细节，比如边境上的树木，以提高可视度</zh-CN>
 		<pt-BR>Limpa detalhes do terreno (como árvores) perto das fronteiras para melhorar a visibilidade</pt-BR>
 		<ko>국경의 나무처럼 지형의 세부 묘사를 없애 시야를 개선합니다.</ko>
+		<fixja>国境周辺の地形情報（樹木など）がなくなり、視界が良くなる</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_POPUP_TEXT_SCALE_NAME</zType>
@@ -1196,6 +1286,7 @@
 		<zh-CN>弹窗文字大小</zh-CN>
 		<pt-BR>Tamanho do texto nas janelas</pt-BR>
 		<ko>팝업 글자 크기</ko>
+		<fixja>ポップアップテキストのサイズ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_POPUP_TEXT_SCALE_DESC</zType>
@@ -1209,6 +1300,7 @@
 		<zh-CN>大多弹窗文字皆可重设大小</zh-CN>
 		<pt-BR>Escala do tamanho do texto na maioria das janelas</pt-BR>
 		<ko>팝업에 출력되는 글자의 크기를 조정합니다.</ko>
+		<fixja>ほとんどのポップアップウィンドウ上で、テキストのフォントサイズを調整する</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_HIDE_HEX_GRID</zType>
@@ -1222,6 +1314,7 @@
 		<zh-CN>隐藏六角网格</zh-CN>
 		<pt-BR>Esconder grade hexagonal</pt-BR>
 		<ko>육각형 격자 끄기</ko>
+		<fixja>六角グリッドを表示しない</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISCOPTION_HIDE_HEX_GRID_DESC</zType>
@@ -1235,5 +1328,6 @@
 		<zh-CN>隐藏地图上的网格线</zh-CN>
 		<pt-BR>Ocultar linhas de grade no mapa</pt-BR>
 		<ko>지도에 나오는 격자 선을 숨깁니다</ko>
+		<fixja>地図上のグリッド線を隠す</fixja>
 	</Entry>
 </Root>

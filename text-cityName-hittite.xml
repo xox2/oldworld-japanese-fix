@@ -26,6 +26,7 @@
 		<zh-CN>哈图沙</zh-CN>
 		<pt-BR>Hattusa</pt-BR>
 		<ko>하투샤</ko>
+		<fixja>ハットゥシャ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SARISSA</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>萨里沙</zh-CN>
 		<pt-BR>Sarissa</pt-BR>
 		<ko>사리사</ko>
+		<fixja>サリッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KUSSARA</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>库萨拉</zh-CN>
 		<pt-BR>Kussara</pt-BR>
 		<ko>쿠사라</ko>
+		<fixja>クッサラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ZALPUWA</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>扎尔普瓦</zh-CN>
 		<pt-BR>Zalpuwa</pt-BR>
 		<ko>잘푸와</ko>
+		<fixja>ザルプワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ANKUWA</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>安库瓦</zh-CN>
 		<pt-BR>Ankuwa</pt-BR>
 		<ko>안쿠와</ko>
+		<fixja>アンクワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TARHUNTASSA</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>塔胡恩塔萨</zh-CN>
 		<pt-BR>Tarhuntassa</pt-BR>
 		<ko>타르훈타사</ko>
+		<fixja>タルフンタッサ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ADANA</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>阿达纳</zh-CN>
 		<pt-BR>Adana</pt-BR>
 		<ko>아다나</ko>
+		<fixja>アダナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SAMUHA</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>萨穆哈</zh-CN>
 		<pt-BR>Samuha</pt-BR>
 		<ko>사무하</ko>
+		<fixja>サムハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_UGARIT</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>乌加里特</zh-CN>
 		<pt-BR>Ugarit</pt-BR>
 		<ko>우가리트</ko>
+		<fixja>ウガリット</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ALALAH</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>阿拉拉</zh-CN>
 		<pt-BR>Alalah</pt-BR>
 		<ko>알랄라</ko>
+		<fixja>アララハ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HAPALLA</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>哈帕拉</zh-CN>
 		<pt-BR>Hapalla</pt-BR>
 		<ko>하팔라</ko>
+		<fixja>ハパラ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HATAY</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>哈塔伊</zh-CN>
 		<pt-BR>Hatay</pt-BR>
 		<ko>하타이</ko>
+		<fixja>ハタイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_AZATIWATAYA</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>阿扎提瓦塔亚</zh-CN>
 		<pt-BR>Azatiwataya</pt-BR>
 		<ko>아자티와타야</ko>
+		<fixja>アザチワタヤ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TUWANUWA</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>图瓦努瓦</zh-CN>
 		<pt-BR>Tuwanuwa</pt-BR>
 		<ko>투와누와</ko>
+		<fixja>トワノワ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TAWINIYA</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>塔维尼亚</zh-CN>
 		<pt-BR>Tawiniya</pt-BR>
 		<ko>타위니야</ko>
+		<fixja>タウィニア</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HUPISNA</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>胡皮斯纳</zh-CN>
 		<pt-BR>Hupisna</pt-BR>
 		<ko>후피스나</ko>
+		<fixja>フピスナ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PARSUHANDA</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>帕苏罕达</zh-CN>
 		<pt-BR>Parsuhanda</pt-BR>
 		<ko>파르수한다</ko>
+		<fixja>プルシャンダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LUSNA</zType>
@@ -247,5 +264,6 @@
 		<zh-CN>卢斯纳</zh-CN>
 		<pt-BR>Lusna</pt-BR>
 		<ko>루스나</ko>
+		<fixja>ルスナ</fixja>
 	</Entry>
 </Root>

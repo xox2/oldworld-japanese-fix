@@ -27,6 +27,7 @@
 		<zh-CN>作为link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>como link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>link(CONCEPT_STATE_RELIGION)일 때</ko>
+		<fixja>link(CONCEPT_STATE_RELIGION)として</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>以及link(CONCEPT_CAPITAL)</zh-CN>
 		<pt-BR>e link(CONCEPT_CAPITAL)</pt-BR>
 		<ko>및 link(CONCEPT_CAPITAL)</ko>
+		<fixja>＆link(CONCEPT_CAPITAL)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STATE_RELIGION_CITY</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>以及link(CONCEPT_STATE_RELIGION)</zh-CN>
 		<pt-BR>e link(CONCEPT_STATE_RELIGION)</pt-BR>
 		<ko>및 link(CONCEPT_STATE_RELIGION)</ko>
+		<fixja>とlink(CONCEPT_STATE_RELIGION)</fixja>
 	</Entry>
 	<!-- Name -->
 	<Entry>
@@ -67,6 +70,7 @@
 		<zh-CN>基地</zh-CN>
 		<pt-BR>Base</pt-BR>
 		<ko>기본</ko>
+		<fixja>基地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
@@ -80,6 +84,7 @@
 		<zh-CN>首都</zh-CN>
 		<pt-BR>Capital</pt-BR>
 		<ko>수도</ko>
+		<fixja>首都</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
@@ -93,6 +98,7 @@
 		<zh-CN>link(CONCEPT_FAMILY_SEAT)</zh-CN>
 		<pt-BR>link(CONCEPT_FAMILY_SEAT)</pt-BR>
 		<ko>link(CONCEPT_FAMILY_SEAT)</ko>
+		<fixja>link(CONCEPT_FAMILY_SEAT)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
@@ -106,6 +112,7 @@
 		<zh-CN>已连结</zh-CN>
 		<pt-BR>Conectado~Conectados~Conectada~Conectadas</pt-BR>
 		<ko>연결</ko>
+		<fixja>接続済み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CONNECTED_F</zType>
@@ -119,6 +126,7 @@
 		<zh-CN>已连结</zh-CN>
 		<pt-BR>Conectada~Conectadas</pt-BR>
 		<ko>연결</ko>
+		<fixja>接続済み</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
@@ -132,6 +140,7 @@
 		<zh-CN>受到伤害</zh-CN>
 		<pt-BR>Danificado~Danificados</pt-BR>
 		<ko>손상</ko>
+		<fixja>損傷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_DAMAGED_F</zType>
@@ -145,6 +154,7 @@
 		<zh-CN>受到伤害</zh-CN>
 		<pt-BR>Danificada~Danificadas</pt-BR>
 		<ko>손상</ko>
+		<fixja>損傷</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
@@ -158,6 +168,7 @@
 		<zh-CN>link(CONCEPT_HOLY_CITY)</zh-CN>
 		<pt-BR>link(CONCEPT_HOLY_CITY)</pt-BR>
 		<ko>link(CONCEPT_HOLY_CITY)</ko>
+		<fixja>link(CONCEPT_HOLY_CITY)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CITIZEN</zType>
@@ -171,6 +182,7 @@
 		<zh-CN>公民~公民</zh-CN>
 		<pt-BR>Cidadão~Cidadãos</pt-BR>
 		<ko>시민</ko>
+		<fixja>市民~市民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CITIZEN_F</zType>
@@ -184,6 +196,7 @@
 		<zh-CN>公民~公民</zh-CN>
 		<pt-BR>Cidadã~Cidadãs</pt-BR>
 		<ko>시민</ko>
+		<fixja>市民~市民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_POPULATION</zType>
@@ -197,6 +210,7 @@
 		<zh-CN>人口</zh-CN>
 		<pt-BR>População</pt-BR>
 		<ko>인구</ko>
+		<fixja>人口</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
@@ -210,6 +224,7 @@
 		<zh-CN>link(UNIT_CARAVAN)权限</zh-CN>
 		<pt-BR>Acesso a link(UNIT_CARAVAN)</pt-BR>
 		<ko>link(UNIT_CARAVAN) 통행</ko>
+		<fixja>link(UNIT_CARAVAN)の通行</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY</zType>
@@ -223,6 +238,7 @@
 		<zh-CN>城市奢侈品~城市奢侈品</zh-CN>
 		<pt-BR>Luxo da Cidade~um Luxo da Cidade~Luxos da Cidade</pt-BR>
 		<ko>도시 사치품~도시 사치품</ko>
+		<fixja>都市の贅沢品~都市の贅沢品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_DESCRIPTION</zType>
@@ -236,6 +252,7 @@
 		<zh-CN>link(CONCEPT_LUXURY,1)资源已送往城市</zh-CN>
 		<pt-BR>Recurso de link(CONCEPT_LUXURY,1) enviado à cidade</pt-BR>
 		<ko>link(CONCEPT_LUXURY,1) 자원을 도시에 보냈다</ko>
+		<fixja>link(CONCEPT_LUXURY,1)の資源を都市に送る</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_HONEY</zType>
@@ -249,6 +266,7 @@
 		<zh-CN>地主：蜂蜜</zh-CN>
 		<pt-BR>Latifundiários: Mel</pt-BR>
 		<ko>꿀 (지주)</ko>
+		<fixja>地主：蜂蜜</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_OLIVE</zType>
@@ -262,6 +280,7 @@
 		<zh-CN>地主：橄榄</zh-CN>
 		<pt-BR>Latifundiários: Azeitonas</pt-BR>
 		<ko>올리브 (지주)</ko>
+		<fixja>地主：オリーブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_WINE</zType>
@@ -275,6 +294,7 @@
 		<zh-CN>斗士：美酒</zh-CN>
 		<pt-BR>Campeões: Vinho</pt-BR>
 		<ko>포도주 (투사)</ko>
+		<fixja>闘士：ワイン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_DYE</zType>
@@ -288,6 +308,7 @@
 		<zh-CN>斗士：染料</zh-CN>
 		<pt-BR>Campeões: Tintura</pt-BR>
 		<ko>염료 (투사)</ko>
+		<fixja>闘士：染料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_PEARL</zType>
@@ -301,6 +322,7 @@
 		<zh-CN>政治家：珍珠</zh-CN>
 		<pt-BR>Estadistas: Pérolas</pt-BR>
 		<ko>진주 (정치가)</ko>
+		<fixja>政治家：真珠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_WINE</zType>
@@ -314,6 +336,7 @@
 		<zh-CN>政治家：美酒</zh-CN>
 		<pt-BR>Estadistas: Vinho</pt-BR>
 		<ko>포도주 (정치가)</ko>
+		<fixja>政治家：ワイン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
@@ -327,6 +350,7 @@
 		<zh-CN>赞助人：宝石</zh-CN>
 		<pt-BR>Patronos: Gemas</pt-BR>
 		<ko>보석 (후원자)</ko>
+		<fixja>パトロン：宝石</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_PATRONS_INCENSE</zType>
@@ -340,6 +364,7 @@
 		<zh-CN>赞助人：薰香</zh-CN>
 		<pt-BR>Patronos: Incenso</pt-BR>
 		<ko>향료 (후원자)</ko>
+		<fixja>パトロン：香料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
@@ -353,6 +378,7 @@
 		<zh-CN>教士：薰香</zh-CN>
 		<pt-BR>Clérigos: Incenso</pt-BR>
 		<ko>향료 (성직자)</ko>
+		<fixja>宗教家：香料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_CLERICS_LAVENDER</zType>
@@ -366,6 +392,7 @@
 		<zh-CN>教士：薰衣草</zh-CN>
 		<pt-BR>Clérigos: Lavanda</pt-BR>
 		<ko>라벤더 (성직자)</ko>
+		<fixja>宗教家：ラベンダー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_SAGES_LAVENDER</zType>
@@ -379,6 +406,7 @@
 		<zh-CN>智者：薰衣草</zh-CN>
 		<pt-BR>Eruditos: Lavanda</pt-BR>
 		<ko>라벤더 (현자)</ko>
+		<fixja>賢者：ラベンダー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_SAGES_SALT</zType>
@@ -392,6 +420,7 @@
 		<zh-CN>智者：盐矿</zh-CN>
 		<pt-BR>Eruditos: Sal</pt-BR>
 		<ko>소금 (현자)</ko>
+		<fixja>賢者：塩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_TRADERS_OLIVE</zType>
@@ -405,6 +434,7 @@
 		<zh-CN>商人：橄榄</zh-CN>
 		<pt-BR>Mercadores: Azeitonas</pt-BR>
 		<ko>올리브 (교역상)</ko>
+		<fixja>貿易商：オリーブ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_TRADERS_PEARL</zType>
@@ -418,6 +448,7 @@
 		<zh-CN>商人：珍珠</zh-CN>
 		<pt-BR>Mercadores: Pérolas</pt-BR>
 		<ko>진주 (교역상)</ko>
+		<fixja>貿易商：真珠</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_DYE</zType>
@@ -431,6 +462,7 @@
 		<zh-CN>工匠：染料</zh-CN>
 		<pt-BR>Artesãos: Tintura</pt-BR>
 		<ko>염료 (장인)</ko>
+		<fixja>工匠：染料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_GEM</zType>
@@ -444,6 +476,7 @@
 		<zh-CN>工匠：宝石</zh-CN>
 		<pt-BR>Artesãos: Gemas</pt-BR>
 		<ko>보석 (장인)</ko>
+		<fixja>工匠：宝石</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_RIDERS_SALT</zType>
@@ -457,6 +490,7 @@
 		<zh-CN>骑士：盐矿</zh-CN>
 		<pt-BR>Cavaleiros: Sal</pt-BR>
 		<ko>소금 (기수)</ko>
+		<fixja>騎手：塩</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_RIDERS_FUR</zType>
@@ -470,6 +504,7 @@
 		<zh-CN>骑士：毛皮</zh-CN>
 		<pt-BR>Cavaleiros: Peles</pt-BR>
 		<ko>모피 (기수)</ko>
+		<fixja>騎手：毛皮</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_FUR</zType>
@@ -483,6 +518,7 @@
 		<zh-CN>猎人：毛皮</zh-CN>
 		<pt-BR>Caçadores: Peles</pt-BR>
 		<ko>모피 (사냥꾼)</ko>
+		<fixja>狩人：毛皮</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_HONEY</zType>
@@ -496,6 +532,7 @@
 		<zh-CN>猎人：蜂蜜</zh-CN>
 		<pt-BR>Caçadores: Mel</pt-BR>
 		<ko>꿀 (사냥꾼)</ko>
+		<fixja>狩人：蜂蜜</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</zType>
@@ -509,6 +546,7 @@
 		<zh-CN>法令</zh-CN>
 		<pt-BR>Decreto</pt-BR>
 		<ko>칙령</ko>
+		<fixja>法令</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT_HUNT</zType>
@@ -522,6 +560,7 @@
 		<zh-CN>狩猎</zh-CN>
 		<pt-BR>Caça</pt-BR>
 		<ko>사냥</ko>
+		<fixja>狩り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_WEAK</zType>
@@ -535,6 +574,7 @@
 		<zh-CN>弱小城市</zh-CN>
 		<pt-BR>Cidade Fraca</pt-BR>
 		<ko>약소 도시</ko>
+		<fixja>「未熟」都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
@@ -548,6 +588,7 @@
 		<zh-CN>发展中城市</zh-CN>
 		<pt-BR>Cidade em Expansão</pt-BR>
 		<ko>중견 도시</ko>
+		<fixja>「発展中」都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
@@ -561,6 +602,7 @@
 		<zh-CN>强大城市</zh-CN>
 		<pt-BR>Cidade Forte</pt-BR>
 		<ko>강대 도시</ko>
+		<fixja>「高度」都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
@@ -574,6 +616,7 @@
 		<zh-CN>传奇城市</zh-CN>
 		<pt-BR>Cidade Lendária</pt-BR>
 		<ko>전설 도시</ko>
+		<fixja>「伝説的」都市</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
@@ -587,6 +630,7 @@
 		<zh-CN>狩猎神祠</zh-CN>
 		<pt-BR>Santuário da Caça</pt-BR>
 		<ko>사냥의 신전</ko>
+		<fixja>狩りの神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HEALING</zType>
@@ -600,6 +644,7 @@
 		<zh-CN>疗愈神庙</zh-CN>
 		<pt-BR>Santuário da Cura</pt-BR>
 		<ko>치유의 신전</ko>
+		<fixja>治療の神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_WATER</zType>
@@ -613,6 +658,7 @@
 		<zh-CN>水域图块</zh-CN>
 		<pt-BR>Casas de água</pt-BR>
 		<ko>물 타일</ko>
+		<fixja>水域タイル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
@@ -626,6 +672,7 @@
 		<zh-CN>诺斯底神殿</zh-CN>
 		<pt-BR>Templo do Gnosticismo</pt-BR>
 		<ko>영지주의 사원</ko>
+		<fixja>グノーシス主義：寺院</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
@@ -639,6 +686,7 @@
 		<zh-CN>救赎大教堂</zh-CN>
 		<pt-BR>Catedral da Redenção</pt-BR>
 		<ko>구원 대성당</ko>
+		<fixja>贖罪：大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
@@ -652,6 +700,7 @@
 		<zh-CN>启蒙大教堂</zh-CN>
 		<pt-BR>Catedral da Iluminação</pt-BR>
 		<ko>계몽 대성당</ko>
+		<fixja>啓蒙：大聖堂</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
@@ -665,6 +714,7 @@
 		<zh-CN>盛怒的家族</zh-CN>
 		<pt-BR>Família Furiosa</pt-BR>
 		<ko>적대하는 가문</ko>
+		<fixja>「激怒」氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
@@ -678,6 +728,7 @@
 		<zh-CN>气愤的家族</zh-CN>
 		<pt-BR>Família Irada</pt-BR>
 		<ko>노여운 가문</ko>
+		<fixja>「立腹」氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
@@ -691,6 +742,7 @@
 		<zh-CN>失望的家族</zh-CN>
 		<pt-BR>Família Chateada</pt-BR>
 		<ko>언짢은 가문</ko>
+		<fixja>「混乱」氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
@@ -704,6 +756,7 @@
 		<zh-CN>高兴的家族</zh-CN>
 		<pt-BR>Família Satisfeita</pt-BR>
 		<ko>만족한 가문</ko>
+		<fixja>「満足」氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
@@ -717,6 +770,7 @@
 		<zh-CN>友好的家族</zh-CN>
 		<pt-BR>Família Amigável</pt-BR>
 		<ko>우호하는 가문</ko>
+		<fixja>「好意的」氏族</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
@@ -730,6 +784,7 @@
 		<zh-CN>宝库~宝库~宝库</zh-CN>
 		<pt-BR>Tesouro~um Tesouro~Tesouros</pt-BR>
 		<ko>국고~국고~국고</ko>
+		<fixja>宝物庫~宝物庫~宝物庫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
@@ -743,6 +798,7 @@
 		<zh-CN>广场~广场~广场</zh-CN>
 		<pt-BR>Fórum~um Fórum~Fóruns</pt-BR>
 		<ko>토론장~토론장~토론장</ko>
+		<fixja>フォーラム~フォーラム~フォーラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
@@ -756,6 +812,7 @@
 		<zh-CN>档案库~档案库~档案库</zh-CN>
 		<pt-BR>Arquivo~um Arquivo~Arquivos</pt-BR>
 		<ko>기록실~기록실~기록실</ko>
+		<fixja>保管庫~保管庫~保管庫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_PRECIOUS</zType>
@@ -769,6 +826,7 @@
 		<zh-CN>珍贵资源~珍贵资源~珍贵资源</zh-CN>
 		<pt-BR>Recurso Precioso~um Recurso Precioso~Recursos Preciosos</pt-BR>
 		<ko>귀중 자원~귀중 자원~귀중 자원</ko>
+		<fixja>貴重な資源~貴重な資源~貴重な資源</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_SALT_LUXURY</zType>
@@ -782,6 +840,7 @@
 		<zh-CN>盐矿 (奢侈品)</zh-CN>
 		<pt-BR>Sal (luxo)</pt-BR>
 		<ko>소금 (사치품)</ko>
+		<fixja>塩（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GEM_LUXURY</zType>
@@ -795,6 +854,7 @@
 		<zh-CN>宝石 (奢侈品)</zh-CN>
 		<pt-BR>Gemas (luxo)</pt-BR>
 		<ko>보석 (사치품)</ko>
+		<fixja>宝石（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_FUR_LUXURY</zType>
@@ -808,6 +868,7 @@
 		<zh-CN>毛皮 (奢侈品)</zh-CN>
 		<pt-BR>Peles (luxo)</pt-BR>
 		<ko>모피 (사치품)</ko>
+		<fixja>毛皮（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_CITRUS_LUXURY</zType>
@@ -821,6 +882,7 @@
 		<zh-CN>柑橘 (奢侈品)</zh-CN>
 		<pt-BR>Cítricos (luxo)</pt-BR>
 		<ko>감귤 (사치품)</ko>
+		<fixja>柑橘類（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_HONEY_LUXURY</zType>
@@ -834,6 +896,7 @@
 		<zh-CN>蜂蜜 (奢侈品)</zh-CN>
 		<pt-BR>Mel (luxo)</pt-BR>
 		<ko>꿀 (사치품)</ko>
+		<fixja>蜂蜜（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE_LUXURY</zType>
@@ -847,6 +910,7 @@
 		<zh-CN>薰香 (奢侈品)</zh-CN>
 		<pt-BR>Incenso (luxo)</pt-BR>
 		<ko>향료 (사치품)</ko>
+		<fixja>香料（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_LAVENDER_LUXURY</zType>
@@ -860,6 +924,7 @@
 		<zh-CN>薰衣草 (奢侈品)</zh-CN>
 		<pt-BR>Lavanda (luxo)</pt-BR>
 		<ko>라벤더 (사치품)</ko>
+		<fixja>ラベンダー（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_WINE_LUXURY</zType>
@@ -873,6 +938,7 @@
 		<zh-CN>美酒 (奢侈品)</zh-CN>
 		<pt-BR>Vinho (luxo)</pt-BR>
 		<ko>포도주 (사치품)</ko>
+		<fixja>ワイン（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE_LUXURY</zType>
@@ -886,6 +952,7 @@
 		<zh-CN>橄榄 (奢侈品)</zh-CN>
 		<pt-BR>Azeitonas (luxo)</pt-BR>
 		<ko>올리브 (사치품)</ko>
+		<fixja>オリーブ（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_DYE_LUXURY</zType>
@@ -899,6 +966,7 @@
 		<zh-CN>染料 (奢侈品)</zh-CN>
 		<pt-BR>Tintura (luxo)</pt-BR>
 		<ko>염료 (사치품)</ko>
+		<fixja>染料（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL_LUXURY</zType>
@@ -912,6 +980,7 @@
 		<zh-CN>珍珠 (奢侈品)</zh-CN>
 		<pt-BR>Pérolas (luxo)</pt-BR>
 		<ko>진주 (사치품)</ko>
+		<fixja>真珠（贅沢品）</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_CROP</zType>
@@ -925,6 +994,7 @@
 		<zh-CN>农作物资源~农作物资源~农作物资源</zh-CN>
 		<pt-BR>Recurso de Colheita~um Recurso de Colheita~Recursos de Colheita</pt-BR>
 		<ko>농작물 자원~농작물 자원~농작물 자원</ko>
+		<fixja>作物資源~作物資源~作物資源</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
@@ -938,6 +1008,7 @@
 		<zh-CN>乡村专家~乡村专家~乡村专家</zh-CN>
 		<pt-BR>Especialista Rural~um Especialista Rural~Especialistas Rurais</pt-BR>
 		<ko>근교 전문직~근교 전문직~근교 전문직</ko>
+		<fixja>地方専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL_F</zType>
@@ -951,6 +1022,7 @@
 		<zh-CN>乡村专家~乡村专家~乡村专家</zh-CN>
 		<pt-BR>Especialista Rural~uma Especialista Rural~Especialistas Rurais</pt-BR>
 		<ko>근교 전문직~근교 전문직~근교 전문직</ko>
+		<fixja>地方専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
@@ -964,6 +1036,7 @@
 		<zh-CN>新晋专家</zh-CN>
 		<pt-BR>Especialista Aprendiz</pt-BR>
 		<ko>수습 전문직</ko>
+		<fixja>専門家見習い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
@@ -977,6 +1050,7 @@
 		<zh-CN>高级专家</zh-CN>
 		<pt-BR>Especialista Mestre</pt-BR>
 		<ko>수석 전문직</ko>
+		<fixja>一流専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER_F</zType>
@@ -990,6 +1064,7 @@
 		<zh-CN>高级专家</zh-CN>
 		<pt-BR>Especialista Mestra</pt-BR>
 		<ko>수석 전문직</ko>
+		<fixja>一流専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
@@ -1003,6 +1078,7 @@
 		<zh-CN>资深专家</zh-CN>
 		<pt-BR>Especialista Veterano</pt-BR>
 		<ko>원로 전문직</ko>
+		<fixja>ベテラン専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ELDER_F</zType>
@@ -1016,6 +1092,7 @@
 		<zh-CN>资深专家</zh-CN>
 		<pt-BR>Especialista Veterana</pt-BR>
 		<ko>원로 전문직</ko>
+		<fixja>ベテラン専門家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
@@ -1029,6 +1106,7 @@
 		<zh-CN>link(TRAIT_ZEALOT_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ZEALOT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ZEALOT_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_ZEALOT_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE</zType>
@@ -1042,6 +1120,7 @@
 		<zh-CN>link(TRAIT_ORATOR_ARCHETYPE)link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) link(TRAIT_ORATOR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ORATOR_ARCHETYPE) link(CONCEPT_GOVERNOR)</ko>
+		<fixja>link(TRAIT_ORATOR_ARCHETYPE)のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
@@ -1055,6 +1134,7 @@
 		<zh-CN>link(TRAIT_ORATOR_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ORATOR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_ORATOR_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_ORATOR_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DIPLOMAT_ARCHETYPE</zType>
@@ -1068,6 +1148,7 @@
 		<zh-CN>link(TRAIT_DIPLOMAT_ARCHETYPE)link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) link(TRAIT_DIPLOMAT_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_DIPLOMAT_ARCHETYPE) link(CONCEPT_GOVERNOR)</ko>
+		<fixja>link(TRAIT_DIPLOMAT_ARCHETYPE)のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE</zType>
@@ -1081,6 +1162,7 @@
 		<zh-CN>link(TRAIT_JUDGE_ARCHETYPE)link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) link(TRAIT_JUDGE_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_JUDGE_ARCHETYPE) link(CONCEPT_GOVERNOR)</ko>
+		<fixja>link(TRAIT_JUDGE_ARCHETYPE)のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE</zType>
@@ -1094,6 +1176,7 @@
 		<zh-CN>link(TRAIT_BUILDER_ARCHETYPE)link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) link(TRAIT_BUILDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_BUILDER_ARCHETYPE) link(CONCEPT_GOVERNOR)</ko>
+		<fixja>link(TRAIT_BUILDER_ARCHETYPE)のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
@@ -1107,6 +1190,7 @@
 		<zh-CN>link(TRAIT_BUILDER_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_BUILDER_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_BUILDER_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_BUILDER_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SCHOLAR_ARCHETYPE</zType>
@@ -1120,6 +1204,7 @@
 		<zh-CN>link(TRAIT_SCHOLAR_ARCHETYPE)link(CONCEPT_GOVERNOR)</zh-CN>
 		<pt-BR>link(CONCEPT_GOVERNOR) link(TRAIT_SCHOLAR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_SCHOLAR_ARCHETYPE) link(CONCEPT_GOVERNOR)</ko>
+		<fixja>link(TRAIT_SCHOLAR_ARCHETYPE)のlink(CONCEPT_GOVERNOR)</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SCHOLAR_INQUIRY</zType>
@@ -1133,6 +1218,7 @@
 		<zh-CN>打探</zh-CN>
 		<pt-BR>Investigação</pt-BR>
 		<ko>탐구</ko>
+		<fixja>探究</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SCHOLAR_ARCHETYPE_ALL</zType>
@@ -1146,6 +1232,7 @@
 		<zh-CN>link(TRAIT_SCHOLAR_ARCHETYPE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_SCHOLAR_ARCHETYPE)</pt-BR>
 		<ko>link(TRAIT_SCHOLAR_ARCHETYPE) 지도자</ko>
+		<fixja>link(TRAIT_SCHOLAR_ARCHETYPE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_AFFABLE_ALL</zType>
@@ -1159,6 +1246,7 @@
 		<zh-CN>link(TRAIT_AFFABLE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_AFFABLE)</pt-BR>
 		<ko>link(TRAIT_AFFABLE) 지도자</ko>
+		<fixja>link(TRAIT_AFFABLE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CRUEL_ALL</zType>
@@ -1172,6 +1260,7 @@
 		<zh-CN>link(TRAIT_CRUEL)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_CRUEL)</pt-BR>
 		<ko>link(TRAIT_CRUEL) 지도자</ko>
+		<fixja>link(TRAIT_CRUEL)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT_ALL</zType>
@@ -1185,6 +1274,7 @@
 		<zh-CN>link(TRAIT_ELOQUENT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ELOQUENT)</pt-BR>
 		<ko>link(TRAIT_ELOQUENT) 지도자</ko>
+		<fixja>link(TRAIT_ELOQUENT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INTOLERANT_ALL</zType>
@@ -1198,6 +1288,7 @@
 		<zh-CN>link(TRAIT_INTOLERANT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_INTOLERANT)</pt-BR>
 		<ko>link(TRAIT_INTOLERANT) 지도자</ko>
+		<fixja>link(TRAIT_INTOLERANT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_WARLIKE_ALL</zType>
@@ -1211,6 +1302,7 @@
 		<zh-CN>link(TRAIT_WARLIKE)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_WARLIKE)</pt-BR>
 		<ko>link(TRAIT_WARLIKE) 지도자</ko>
+		<fixja>link(TRAIT_WARLIKE)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL_ALL</zType>
@@ -1224,6 +1316,7 @@
 		<zh-CN>link(TRAIT_SLOTHFUL)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_SLOTHFUL)</pt-BR>
 		<ko>link(TRAIT_SLOTHFUL) 지도자</ko>
+		<fixja>link(TRAIT_SLOTHFUL)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRING_ALL</zType>
@@ -1237,6 +1330,7 @@
 		<zh-CN>link(TRAIT_INSPIRING)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_INSPIRING)</pt-BR>
 		<ko>link(TRAIT_INSPIRING) 지도자</ko>
+		<fixja>link(TRAIT_INSPIRING)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH_ALL</zType>
@@ -1250,6 +1344,7 @@
 		<zh-CN>link(TRAIT_UNCOUTH)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_UNCOUTH)</pt-BR>
 		<ko>link(TRAIT_UNCOUTH) 지도자</ko>
+		<fixja>link(TRAIT_UNCOUTH)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT_ALL</zType>
@@ -1263,6 +1358,7 @@
 		<zh-CN>link(TRAIT_INTELLIGENT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_INTELLIGENT)</pt-BR>
 		<ko>link(TRAIT_INTELLIGENT) 지도자</ko>
+		<fixja>link(TRAIT_INTELLIGENT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FOOLISH_ALL</zType>
@@ -1276,6 +1372,7 @@
 		<zh-CN>link(TRAIT_FOOLISH)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_FOOLISH)</pt-BR>
 		<ko>link(TRAIT_FOOLISH) 지도자</ko>
+		<fixja>link(TRAIT_FOOLISH)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS_ALL</zType>
@@ -1289,6 +1386,7 @@
 		<zh-CN>link(TRAIT_PROSPEROUS)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_PROSPEROUS)</pt-BR>
 		<ko>link(TRAIT_PROSPEROUS) 지도자</ko>
+		<fixja>link(TRAIT_PROSPEROUS)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT_ALL</zType>
@@ -1302,6 +1400,7 @@
 		<zh-CN>link(TRAIT_EXTRAVAGANT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_EXTRAVAGANT)</pt-BR>
 		<ko>link(TRAIT_EXTRAVAGANT) 지도자</ko>
+		<fixja>link(TRAIT_EXTRAVAGANT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FRUGAL_ALL</zType>
@@ -1315,6 +1414,7 @@
 		<zh-CN>link(TRAIT_FRUGAL)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_FRUGAL)</pt-BR>
 		<ko>link(TRAIT_FRUGAL) 지도자</ko>
+		<fixja>link(TRAIT_FRUGAL)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPT_ALL</zType>
@@ -1328,6 +1428,7 @@
 		<zh-CN>link(TRAIT_CORRUPT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_CORRUPT)</pt-BR>
 		<ko>link(TRAIT_CORRUPT) 지도자</ko>
+		<fixja>link(TRAIT_CORRUPT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS_ALL</zType>
@@ -1341,6 +1442,7 @@
 		<zh-CN>link(TRAIT_RIGHTEOUS)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_RIGHTEOUS)</pt-BR>
 		<ko>link(TRAIT_RIGHTEOUS) 지도자</ko>
+		<fixja>link(TRAIT_RIGHTEOUS)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED_ALL</zType>
@@ -1354,6 +1456,7 @@
 		<zh-CN>link(TRAIT_DEBAUCHED)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_DEBAUCHED)</pt-BR>
 		<ko>link(TRAIT_DEBAUCHED) 지도자</ko>
+		<fixja>link(TRAIT_DEBAUCHED)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
@@ -1367,6 +1470,7 @@
 		<zh-CN>link(TRAIT_ROBUST)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_ROBUST)</pt-BR>
 		<ko>link(TRAIT_ROBUST) 지도자</ko>
+		<fixja>link(TRAIT_ROBUST)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
@@ -1380,6 +1484,7 @@
 		<zh-CN>link(TRAIT_VIGILANT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_VIGILANT)</pt-BR>
 		<ko>link(TRAIT_VIGILANT) 지도자</ko>
+		<fixja>link(TRAIT_VIGILANT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
@@ -1393,6 +1498,7 @@
 		<zh-CN>link(TRAIT_STRICT)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_STRICT)</pt-BR>
 		<ko>link(TRAIT_STRICT) 지도자</ko>
+		<fixja>link(TRAIT_STRICT)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
@@ -1406,6 +1512,7 @@
 		<zh-CN>link(TRAIT_EQUESTRIAN)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_EQUESTRIAN)</pt-BR>
 		<ko>link(TRAIT_EQUESTRIAN) 지도자</ko>
+		<fixja>link(TRAIT_EQUESTRIAN)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CARPENTER</zType>
@@ -1419,6 +1526,7 @@
 		<zh-CN>link(TRAIT_CARPENTER)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_CARPENTER)</pt-BR>
 		<ko>link(TRAIT_CARPENTER) 지도자</ko>
+		<fixja>link(TRAIT_CARPENTER)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PATHFINDER</zType>
@@ -1432,6 +1540,7 @@
 		<zh-CN>link(TRAIT_PATHFINDER)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_PATHFINDER)</pt-BR>
 		<ko>link(TRAIT_PATHFINDER) 지도자</ko>
+		<fixja>link(TRAIT_PATHFINDER)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CULTIVATOR</zType>
@@ -1445,6 +1554,7 @@
 		<zh-CN>link(TRAIT_CULTIVATOR)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_CULTIVATOR)</pt-BR>
 		<ko>link(TRAIT_CULTIVATOR) 지도자</ko>
+		<fixja>link(TRAIT_CULTIVATOR)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_NATURALIST</zType>
@@ -1458,6 +1568,7 @@
 		<zh-CN>link(TRAIT_NATURALIST)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_NATURALIST)</pt-BR>
 		<ko>link(TRAIT_NATURALIST) 지도자</ko>
+		<fixja>link(TRAIT_NATURALIST)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
@@ -1471,6 +1582,7 @@
 		<zh-CN>link(TRAIT_DELVER)领袖</zh-CN>
 		<pt-BR>Líder link(TRAIT_DELVER)</pt-BR>
 		<ko>link(TRAIT_DELVER) 지도자</ko>
+		<fixja>link(TRAIT_DELVER)の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_IRON_INDUSTRY</zType>
@@ -1484,6 +1596,7 @@
 		<zh-CN>熟练锻工</zh-CN>
 		<pt-BR>Ferreiros Habilidosos</pt-BR>
 		<ko>숙련된 철공</ko>
+		<fixja>熟練した鉄職人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_CHAMPIONS</zType>
@@ -1497,6 +1610,7 @@
 		<zh-CN>小型link(YIELD_TRAINING,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_TRAINING,1)</pt-BR>
 		<ko>소규모  link(YIELD_TRAINING,1) 증진</ko>
+		<fixja>link(YIELD_TRAINING,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_CHAMPIONS</zType>
@@ -1510,6 +1624,7 @@
 		<zh-CN>link(YIELD_TRAINING,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_TRAINING,1)</pt-BR>
 		<ko>link(YIELD_TRAINING,1) 증진</ko>
+		<fixja>link(YIELD_TRAINING,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_CHAMPIONS</zType>
@@ -1523,6 +1638,7 @@
 		<zh-CN>大型link(YIELD_TRAINING,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_TRAINING,1)</pt-BR>
 		<ko>대규모  link(YIELD_TRAINING,1) 증진</ko>
+		<fixja>link(YIELD_TRAINING,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_PATRONS</zType>
@@ -1536,6 +1652,7 @@
 		<zh-CN>小型link(YIELD_CIVICS,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_CIVICS,1)</pt-BR>
 		<ko>소규모  link(YIELD_CIVICS,1) 증진</ko>
+		<fixja>link(YIELD_CIVICS,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_PATRONS</zType>
@@ -1549,6 +1666,7 @@
 		<zh-CN>link(YIELD_CIVICS,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_CIVICS,1)</pt-BR>
 		<ko>link(YIELD_CIVICS,1) 증진</ko>
+		<fixja>link(YIELD_CIVICS,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_PATRONS</zType>
@@ -1562,6 +1680,7 @@
 		<zh-CN>大型link(YIELD_CIVICS,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_CIVICS,1)</pt-BR>
 		<ko>대규모  link(YIELD_CIVICS,1) 증진</ko>
+		<fixja>link(YIELD_CIVICS,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_CLERICS</zType>
@@ -1575,6 +1694,7 @@
 		<zh-CN>小型link(YIELD_SCIENCE,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_SCIENCE,1)</pt-BR>
 		<ko>소규모  link(YIELD_SCIENCE,1) 증진</ko>
+		<fixja>link(YIELD_SCIENCE,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_CLERICS</zType>
@@ -1588,6 +1708,7 @@
 		<zh-CN>link(YIELD_SCIENCE,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_SCIENCE,1)</pt-BR>
 		<ko>link(YIELD_SCIENCE,1) 증진</ko>
+		<fixja>link(YIELD_SCIENCE,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_CLERICS</zType>
@@ -1601,6 +1722,7 @@
 		<zh-CN>大型link(YIELD_SCIENCE,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_SCIENCE,1)</pt-BR>
 		<ko>대규모  link(YIELD_SCIENCE,1) 증진</ko>
+		<fixja>link(YIELD_SCIENCE,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_TRADERS</zType>
@@ -1614,6 +1736,7 @@
 		<zh-CN>小型link(YIELD_MONEY,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_MONEY,1)</pt-BR>
 		<ko>소규모  link(YIELD_MONEY,1) 증진</ko>
+		<fixja>link(YIELD_MONEY,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_TRADERS</zType>
@@ -1627,6 +1750,7 @@
 		<zh-CN>link(YIELD_MONEY,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_MONEY,1)</pt-BR>
 		<ko>link(YIELD_MONEY,1) 증진</ko>
+		<fixja>link(YIELD_MONEY,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_TRADERS</zType>
@@ -1640,6 +1764,7 @@
 		<zh-CN>大型link(YIELD_MONEY,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_MONEY,1)</pt-BR>
 		<ko>대규모  link(YIELD_MONEY,1) 증진</ko>
+		<fixja>link(YIELD_MONEY,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_LANDOWNERS</zType>
@@ -1653,6 +1778,7 @@
 		<zh-CN>小型link(YIELD_GROWTH,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_GROWTH,1)</pt-BR>
 		<ko>소규모  link(YIELD_GROWTH,1) 증진</ko>
+		<fixja>link(YIELD_GROWTH,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_LANDOWNERS</zType>
@@ -1666,6 +1792,7 @@
 		<zh-CN>link(YIELD_GROWTH,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_GROWTH,1)</pt-BR>
 		<ko>link(YIELD_GROWTH,1) 증진</ko>
+		<fixja>link(YIELD_GROWTH,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_LANDOWNERS</zType>
@@ -1679,6 +1806,7 @@
 		<zh-CN>大型link(YIELD_GROWTH,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_GROWTH,1)</pt-BR>
 		<ko>대규모  link(YIELD_GROWTH,1) 증진</ko>
+		<fixja>link(YIELD_GROWTH,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_STATESMEN</zType>
@@ -1692,6 +1820,7 @@
 		<zh-CN>小型link(YIELD_HAPPINESS,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_HAPPINESS,1)</pt-BR>
 		<ko>소규모  link(YIELD_HAPPINESS,1) 증진</ko>
+		<fixja>link(YIELD_HAPPINESS,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_STATESMEN</zType>
@@ -1705,6 +1834,7 @@
 		<zh-CN>link(YIELD_HAPPINESS,1)提升</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_HAPPINESS,1)</pt-BR>
 		<ko>link(YIELD_HAPPINESS,1) 증진</ko>
+		<fixja>link(YIELD_HAPPINESS,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_STATESMEN</zType>
@@ -1718,6 +1848,7 @@
 		<zh-CN>大型link(YIELD_HAPPINESS,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_HAPPINESS,1)</pt-BR>
 		<ko>대규모  link(YIELD_HAPPINESS,1) 증진</ko>
+		<fixja>link(YIELD_HAPPINESS,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_SAGES</zType>
@@ -1731,6 +1862,7 @@
 		<zh-CN>小型link(YIELD_CULTURE,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_CULTURE,1)</pt-BR>
 		<ko>소규모  link(YIELD_CULTURE,1) 증진</ko>
+		<fixja>link(YIELD_CULTURE,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_SAGES</zType>
@@ -1744,6 +1876,7 @@
 		<zh-CN>大型link(YIELD_CULTURE,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_CULTURE,1)</pt-BR>
 		<ko>대규모  link(YIELD_CULTURE,1) 증진</ko>
+		<fixja>link(YIELD_CULTURE,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_SAGES</zType>
@@ -1757,6 +1890,7 @@
 		<zh-CN>大型link(YIELD_CULTURE,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_CULTURE,1)</pt-BR>
 		<ko>대규모  link(YIELD_CULTURE,1) 증진</ko>
+		<fixja>link(YIELD_CULTURE,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_ARTISANS</zType>
@@ -1770,6 +1904,7 @@
 		<zh-CN>小型link(YIELD_STONE,1)与link(YIELD_IRON,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_STONE,1) e  link(YIELD_IRON,1)</pt-BR>
 		<ko>소규모  link(YIELD_STONE,1)와  link(YIELD_IRON,1) 증진</ko>
+		<fixja>link(YIELD_STONE,1)、link(YIELD_IRON,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_ARTISANS</zType>
@@ -1783,6 +1918,7 @@
 		<zh-CN>link(YIELD_STONE,1)与link(YIELD_IRON,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_STONE,1) e  link(YIELD_IRON,1)</pt-BR>
 		<ko>link(YIELD_STONE,1)와  link(YIELD_IRON,1) 증진</ko>
+		<fixja>link(YIELD_STONE,1)、link(YIELD_IRON,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_ARTISANS</zType>
@@ -1796,6 +1932,7 @@
 		<zh-CN>大型link(YIELD_STONE,1)与link(YIELD_IRON,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_STONE,1) e  link(YIELD_IRON,1)</pt-BR>
 		<ko>대규모  link(YIELD_STONE,1)와  link(YIELD_IRON,1) 증진</ko>
+		<fixja>link(YIELD_STONE,1)、link(YIELD_IRON,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_RIDERS</zType>
@@ -1809,6 +1946,7 @@
 		<zh-CN>小型link(YIELD_ORDERS,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_ORDERS,1)</pt-BR>
 		<ko>소규모  link(YIELD_ORDERS,1) 증진</ko>
+		<fixja>link(YIELD_ORDERS,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_RIDERS</zType>
@@ -1822,6 +1960,7 @@
 		<zh-CN>link(YIELD_ORDERS,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_ORDERS,1)</pt-BR>
 		<ko>link(YIELD_ORDERS,1) 증진</ko>
+		<fixja>link(YIELD_ORDERS,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_RIDERS</zType>
@@ -1835,6 +1974,7 @@
 		<zh-CN>大型link(YIELD_ORDERS,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_ORDERS,1)</pt-BR>
 		<ko>대규모  link(YIELD_ORDERS,1) 증진</ko>
+		<fixja>link(YIELD_ORDERS,1)を大ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_1_HUNTERS</zType>
@@ -1848,6 +1988,7 @@
 		<zh-CN>小型link(YIELD_FOOD,1)与link(YIELD_WOOD,1)加成</zh-CN>
 		<pt-BR>Pequeno estímulo de  link(YIELD_FOOD,1) e link(YIELD_WOOD,1)</pt-BR>
 		<ko>소규모  link(YIELD_FOOD,1)과  link(YIELD_WOOD,1) 증진</ko>
+		<fixja>link(YIELD_FOOD,1)、link(YIELD_WOOD,1)を小ブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_2_HUNTERS</zType>
@@ -1861,6 +2002,7 @@
 		<zh-CN>link(YIELD_FOOD,1)与link(YIELD_WOOD,1)加成</zh-CN>
 		<pt-BR>Estímulo de  link(YIELD_FOOD,1) e link(YIELD_WOOD,1)</pt-BR>
 		<ko>link(YIELD_FOOD,1)과  link(YIELD_WOOD,1) 증진</ko>
+		<fixja>link(YIELD_FOOD,1)、link(YIELD_WOOD,1)をブースト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_STELE_3_HUNTERS</zType>
@@ -1874,5 +2016,6 @@
 		<zh-CN>大型link(YIELD_FOOD,1)与link(YIELD_WOOD,1)加成</zh-CN>
 		<pt-BR>Grande estímulo de  link(YIELD_FOOD,1) e link(YIELD_WOOD,1)</pt-BR>
 		<ko>대규모  link(YIELD_FOOD,1)과  link(YIELD_WOOD,1) 증진</ko>
+		<fixja>link(YIELD_FOOD,1)、link(YIELD_WOOD,1)を大ブースト</fixja>
 	</Entry>
 </Root>

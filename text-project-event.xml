@@ -28,6 +28,7 @@
 		<zh-CN>供应了丝绸</zh-CN>
 		<pt-BR>Seda</pt-BR>
 		<ko>비단</ko>
+		<fixja>絹を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_PORCELAIN</zType>
@@ -41,6 +42,7 @@
 		<zh-CN>提供了瓷器</zh-CN>
 		<pt-BR>Porcelana</pt-BR>
 		<ko>도자기</ko>
+		<fixja>磁器を提供された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_EXOTIC_FUR</zType>
@@ -54,6 +56,7 @@
 		<zh-CN>填满了珍禽毛皮</zh-CN>
 		<pt-BR>Peles Exóticas</pt-BR>
 		<ko>이국 모피</ko>
+		<fixja>異国の毛皮で一杯になっていた</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_EBONY</zType>
@@ -67,6 +70,7 @@
 		<zh-CN>供应了乌木</zh-CN>
 		<pt-BR>Ébano</pt-BR>
 		<ko>흑단</ko>
+		<fixja>黒檀を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_PERFUME</zType>
@@ -80,6 +84,7 @@
 		<zh-CN>供应了香水</zh-CN>
 		<pt-BR>Perfume</pt-BR>
 		<ko>향수</ko>
+		<fixja>香水を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_IVORY</zType>
@@ -93,6 +98,7 @@
 		<zh-CN>供应了象牙雕刻</zh-CN>
 		<pt-BR>Marfim Esculpido</pt-BR>
 		<ko>조각한 상아</ko>
+		<fixja>象牙細工を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_EXOTIC_ANIMALS</zType>
@@ -106,6 +112,7 @@
 		<zh-CN>供应了珍禽异兽</zh-CN>
 		<pt-BR>Animais Exóticos</pt-BR>
 		<ko>이국 동물</ko>
+		<fixja>異国の動物を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_SILPHIUM</zType>
@@ -119,6 +126,7 @@
 		<zh-CN>供应了罗盘草</zh-CN>
 		<pt-BR>Sílfio</pt-BR>
 		<ko>실피움</ko>
+		<fixja>シルフィウムを供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_JADE</zType>
@@ -132,6 +140,7 @@
 		<zh-CN>供应了翡翠</zh-CN>
 		<pt-BR>Jade</pt-BR>
 		<ko>옥</ko>
+		<fixja>翡翠を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_TEA</zType>
@@ -145,6 +154,7 @@
 		<zh-CN>供应了茶</zh-CN>
 		<pt-BR>Chá</pt-BR>
 		<ko>차</ko>
+		<fixja>茶葉を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_SPICES</zType>
@@ -158,6 +168,7 @@
 		<zh-CN>供应了香料</zh-CN>
 		<pt-BR>Especiarias</pt-BR>
 		<ko>향신료</ko>
+		<fixja>香辛料を供給された</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GIVE_LITERATURE</zType>
@@ -171,6 +182,7 @@
 		<zh-CN>文学</zh-CN>
 		<pt-BR>Literatura</pt-BR>
 		<ko>문학</ko>
+		<fixja>文学</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT</zType>
@@ -184,6 +196,7 @@
 		<zh-CN>剑崇拜</zh-CN>
 		<pt-BR>Culto à Espada</pt-BR>
 		<ko>검 교단</ko>
+		<fixja>剣のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
@@ -197,6 +210,7 @@
 		<zh-CN>剑崇拜的十一奉献</zh-CN>
 		<pt-BR>Dízimo ao Culto à Espada</pt-BR>
 		<ko>검 교단 십일조</ko>
+		<fixja>剣のカルトの10分の1税</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
@@ -210,6 +224,7 @@
 		<zh-CN>敌对营寨</zh-CN>
 		<pt-BR>Guarnição Hostil</pt-BR>
 		<ko>적군 병영</ko>
+		<fixja>敵族の駐屯地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
@@ -223,6 +238,7 @@
 		<zh-CN>公开的壁画</zh-CN>
 		<pt-BR>Mural Público</pt-BR>
 		<ko>공공 벽화</ko>
+		<fixja>公開壁画</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TRIUMPH</zType>
@@ -236,6 +252,7 @@
 		<zh-CN>胜利</zh-CN>
 		<pt-BR>Triunfo</pt-BR>
 		<ko>승전보</ko>
+		<fixja>勝利</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CULTURAL_PAGEANT</zType>
@@ -249,6 +266,7 @@
 		<zh-CN>文化盛会</zh-CN>
 		<pt-BR>Desfile Cultural</pt-BR>
 		<ko>문화 행사</ko>
+		<fixja>文化的野外劇</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CRUMBLING_ZIGGURAT</zType>
@@ -262,6 +280,7 @@
 		<zh-CN>金字塔神塔崩塌</zh-CN>
 		<pt-BR>A Queda do Zigurate</pt-BR>
 		<ko>무너지는 지구라트</ko>
+		<fixja>ジグラットの崩壊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
@@ -275,6 +294,7 @@
 		<zh-CN>紫染</zh-CN>
 		<pt-BR>Tintura Púrpura</pt-BR>
 		<ko>보라색 염료</ko>
+		<fixja>紫の染料</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROPAGANDA</zType>
@@ -288,6 +308,7 @@
 		<zh-CN>宣传计划</zh-CN>
 		<pt-BR>Propaganda</pt-BR>
 		<ko>선전</ko>
+		<fixja>プロパガンダ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
@@ -301,6 +322,7 @@
 		<zh-CN>童工</zh-CN>
 		<pt-BR>Trabalho Infantil</pt-BR>
 		<ko>아동 노동</ko>
+		<fixja>児童労働</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
@@ -314,6 +336,7 @@
 		<zh-CN>贪腐改革</zh-CN>
 		<pt-BR>Reforma da Corrupção</pt-BR>
 		<ko>부패 개혁</ko>
+		<fixja>不正の矯正</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
@@ -327,6 +350,7 @@
 		<zh-CN>皇家刻文</zh-CN>
 		<pt-BR>Inscrições Reais</pt-BR>
 		<ko>왕실 비문</ko>
+		<fixja>王族の碑文</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
@@ -340,6 +364,7 @@
 		<zh-CN>帝陵</zh-CN>
 		<pt-BR>Necrópole Imperial</pt-BR>
 		<ko>황실 묘지</ko>
+		<fixja>帝国のネクロポリス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
@@ -353,6 +378,7 @@
 		<zh-CN>强制驱逐出境</zh-CN>
 		<pt-BR>Deportações Forçadas</pt-BR>
 		<ko>강제 추방</ko>
+		<fixja>強制送還</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GLADIATORS</zType>
@@ -366,6 +392,7 @@
 		<zh-CN>角斗士</zh-CN>
 		<pt-BR>Gladiadores</pt-BR>
 		<ko>검투사</ko>
+		<fixja>剣闘士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PLAYS</zType>
@@ -379,6 +406,7 @@
 		<zh-CN>戏剧演出</zh-CN>
 		<pt-BR>Peças Dramáticas</pt-BR>
 		<ko>감동적인 연극</ko>
+		<fixja>見ごたえある演劇</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
@@ -392,6 +420,7 @@
 		<zh-CN>商城</zh-CN>
 		<pt-BR>Cidade Mercantil</pt-BR>
 		<ko>상인 도시</ko>
+		<fixja>商人の町</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DEN_OF_VICE</zType>
@@ -405,6 +434,7 @@
 		<zh-CN>妓院</zh-CN>
 		<pt-BR>Antro de Vícios</pt-BR>
 		<ko>악덕의 소굴</ko>
+		<fixja>魔窟</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_OUTBREAK</zType>
@@ -418,6 +448,7 @@
 		<zh-CN>爆发</zh-CN>
 		<pt-BR>Surto</pt-BR>
 		<ko>발병</ko>
+		<fixja>疫病</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MIDWIFERY</zType>
@@ -431,6 +462,7 @@
 		<zh-CN>助产师</zh-CN>
 		<pt-BR>Parteiras</pt-BR>
 		<ko>조산술</ko>
+		<fixja>助産術</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
@@ -444,6 +476,7 @@
 		<zh-CN>奢侈的悦乐</zh-CN>
 		<pt-BR>Prazeres Luxuosos</pt-BR>
 		<ko>호화로운 선물</ko>
+		<fixja>豪勢なる喜び</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
@@ -457,6 +490,7 @@
 		<zh-CN>波斯宾客的年度盛宴</zh-CN>
 		<pt-BR>Banquete Anual para Convidados Persas</pt-BR>
 		<ko>페르시아 귀빈을 위한 연례 연회</ko>
+		<fixja>ペルシャの客を招く毎年恒例の祝宴</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
@@ -470,6 +504,7 @@
 		<zh-CN>公共服务</zh-CN>
 		<pt-BR>Mistoforia</pt-BR>
 		<ko>수당 지급</ko>
+		<fixja>公職手当</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
@@ -483,6 +518,7 @@
 		<zh-CN>谷粮救济</zh-CN>
 		<pt-BR>Cota de Cereais</pt-BR>
 		<ko>곡물 배급</ko>
+		<fixja>穀物配給</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
@@ -496,6 +532,7 @@
 		<zh-CN>异国战士</zh-CN>
 		<pt-BR>Lutadores Estrangeiros</pt-BR>
 		<ko>외국인 전사</ko>
+		<fixja>異国の戦士たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
@@ -509,6 +546,7 @@
 		<zh-CN>战争理事会</zh-CN>
 		<pt-BR>Conselho de Guerra</pt-BR>
 		<ko>전쟁 평의회</ko>
+		<fixja>軍事審議</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
@@ -522,6 +560,7 @@
 		<zh-CN>下水道系统</zh-CN>
 		<pt-BR>Sistema de Esgotos</pt-BR>
 		<ko>하수도</ko>
+		<fixja>下水道システム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
@@ -535,6 +574,7 @@
 		<zh-CN>表面硬化</zh-CN>
 		<pt-BR>Cementação</pt-BR>
 		<ko>표면 경화술</ko>
+		<fixja>表面焼入れ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
@@ -548,6 +588,7 @@
 		<zh-CN>坎儿井</zh-CN>
 		<pt-BR>Poços de Turpã</pt-BR>
 		<ko>투루판식 우물</ko>
+		<fixja>トルファン式井戸</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
@@ -561,6 +602,7 @@
 		<zh-CN>国定假日</zh-CN>
 		<pt-BR>Feriado Nacional</pt-BR>
 		<ko>국경일</ko>
+		<fixja>国民の休日</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
@@ -574,6 +616,7 @@
 		<zh-CN>科学方法</zh-CN>
 		<pt-BR>Método Científico</pt-BR>
 		<ko>과학적 방법</ko>
+		<fixja>科学的手法</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
@@ -587,6 +630,7 @@
 		<zh-CN>保护令</zh-CN>
 		<pt-BR>Éditos de Proteção</pt-BR>
 		<ko>보호령</ko>
+		<fixja>保護勅令</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HORREUM</zType>
@@ -600,6 +644,7 @@
 		<zh-CN>公共谷仓</zh-CN>
 		<pt-BR>Armazém Hórreo</pt-BR>
 		<ko>호레움 창고</ko>
+		<fixja>ホレウム倉庫</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
@@ -613,6 +658,7 @@
 		<zh-CN>阿维斯陀国库</zh-CN>
 		<pt-BR>Tesouro do Avestá</pt-BR>
 		<ko>아베스타 보관소</ko>
+		<fixja>アヴェスターの宝典</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
@@ -626,6 +672,7 @@
 		<zh-CN>死亡的公民</zh-CN>
 		<pt-BR>Cidadãos Enfermos</pt-BR>
 		<ko>병든 시민들</ko>
+		<fixja>病気の市民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
@@ -639,6 +686,7 @@
 		<zh-CN>金字塔爱之神祠</zh-CN>
 		<pt-BR>Santuário do Amor do Zigurate</pt-BR>
 		<ko>지구라트 사랑의 신전</ko>
+		<fixja>愛のジグラット神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
@@ -652,6 +700,7 @@
 		<zh-CN>金字塔智之神祠</zh-CN>
 		<pt-BR>Santuário da Sabedoria do Zigurate</pt-BR>
 		<ko>지구라트 지혜의 신전</ko>
+		<fixja>知恵のジグラット神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
@@ -665,6 +714,7 @@
 		<zh-CN>金字塔战之神祠</zh-CN>
 		<pt-BR>Santuário da Guerra do Zigurate</pt-BR>
 		<ko>지구라트 전쟁의 신전</ko>
+		<fixja>戦いのジグラット神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
@@ -678,6 +728,7 @@
 		<zh-CN>执政护民官</zh-CN>
 		<pt-BR>Tribunos Consulares</pt-BR>
 		<ko>집정 호민관</ko>
+		<fixja>護民判事</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
@@ -691,6 +742,7 @@
 		<zh-CN>儒教</zh-CN>
 		<pt-BR>Confucionismo</pt-BR>
 		<ko>유교</ko>
+		<fixja>儒教</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
@@ -704,6 +756,7 @@
 		<zh-CN>制盐</zh-CN>
 		<pt-BR>Produção de Sal</pt-BR>
 		<ko>소금 생산</ko>
+		<fixja>塩の生産</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MANUAL_OF_RHETORIC</zType>
@@ -717,6 +770,7 @@
 		<zh-CN>修辞学手册</zh-CN>
 		<pt-BR>Manual de Retórica</pt-BR>
 		<ko>수사학 교본</ko>
+		<fixja>修辞学の教本</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOCAL_ASCETIC</zType>
@@ -730,6 +784,7 @@
 		<zh-CN>当地苦修者</zh-CN>
 		<pt-BR>Asceta Local</pt-BR>
 		<ko>현지 고행자</ko>
+		<fixja>地元の行者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AUTONOMOUS_RULE</zType>
@@ -743,6 +798,7 @@
 		<zh-CN>自治</zh-CN>
 		<pt-BR>Governo Autônomo</pt-BR>
 		<ko>자치</ko>
+		<fixja>自治による統治</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MONUMENTAL_GATE</zType>
@@ -756,6 +812,7 @@
 		<zh-CN>纪念大门</zh-CN>
 		<pt-BR>Porta Monumental</pt-BR>
 		<ko>기념문</ko>
+		<fixja>大門の建設</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LEVIATHAN</zType>
@@ -769,6 +826,7 @@
 		<zh-CN>海怪利维坦的头骨</zh-CN>
 		<pt-BR>Caveira do Leviatã</pt-BR>
 		<ko>리바이어던의 두개골</ko>
+		<fixja>リヴァイアサンの頭骨</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GODS_CONSORT_CULT</zType>
@@ -782,6 +840,7 @@
 		<zh-CN>神之配偶祭司</zh-CN>
 		<pt-BR>Sacerdotes do Consorte da Divindade</pt-BR>
 		<ko>신의 배우자 교단 사제</ko>
+		<fixja>神と結ばれし者のカルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LABYRINTH</zType>
@@ -795,6 +854,7 @@
 		<zh-CN>迷宫</zh-CN>
 		<pt-BR>Labirinto</pt-BR>
 		<ko>미궁</ko>
+		<fixja>迷宮</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WORK_OF_ART</zType>
@@ -808,6 +868,7 @@
 		<zh-CN>艺术巨作</zh-CN>
 		<pt-BR>Obra de Arte</pt-BR>
 		<ko>예술 작품</ko>
+		<fixja>芸術作品</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PIRACY_SUPPRESSION</zType>
@@ -821,6 +882,7 @@
 		<zh-CN>海盗镇压</zh-CN>
 		<pt-BR>Repressão à Pirataria</pt-BR>
 		<ko>해적 탄압</ko>
+		<fixja>海賊取り締まり</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_COHORTES</zType>
@@ -834,6 +896,7 @@
 		<zh-CN>都市步兵队</zh-CN>
 		<pt-BR>Coortes Urbanos</pt-BR>
 		<ko>도시 보병대</ko>
+		<fixja>都市の歩兵隊</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT_KILLER</zType>
@@ -847,6 +910,7 @@
 		<zh-CN>猎捕凶手</zh-CN>
 		<pt-BR>Caça ao Assassino</pt-BR>
 		<ko>살인자 추적</ko>
+		<fixja>殺人者の捜索</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_STATUE_OF_DIONYSUS</zType>
@@ -860,6 +924,7 @@
 		<zh-CN>酒神像</zh-CN>
 		<pt-BR>Estátua de Dioniso</pt-BR>
 		<ko>디오니소스 조각상</ko>
+		<fixja>ディオニュソスの像</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_COLLEGES</zType>
@@ -873,6 +938,7 @@
 		<zh-CN>万神教学院</zh-CN>
 		<pt-BR>Colégios Pagãos</pt-BR>
 		<ko>다신교 학회</ko>
+		<fixja>多神教の大学</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_WAR</zType>
@@ -886,6 +952,7 @@
 		<zh-CN>战争之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses da guerra</pt-BR>
 		<ko>전쟁의 신 후원</ko>
+		<fixja>戦神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_FIRE</zType>
@@ -899,6 +966,7 @@
 		<zh-CN>火神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses do fogo</pt-BR>
 		<ko>불의 신 후원</ko>
+		<fixja>炎神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_WISDOM</zType>
@@ -912,6 +980,7 @@
 		<zh-CN>智慧之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses da sabedoria</pt-BR>
 		<ko>지혜의 신 후원</ko>
+		<fixja>知恵の神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_SUN</zType>
@@ -925,6 +994,7 @@
 		<zh-CN>太阳之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses do sol</pt-BR>
 		<ko>태양의 신 후원</ko>
+		<fixja>太陽神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_WATER</zType>
@@ -938,6 +1008,7 @@
 		<zh-CN>海洋之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses do mar</pt-BR>
 		<ko>바다의 신 후원</ko>
+		<fixja>海神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_LOVE</zType>
@@ -951,6 +1022,7 @@
 		<zh-CN>爱神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses do amor</pt-BR>
 		<ko>사랑의 신 후원</ko>
+		<fixja>愛の神々の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_UNDERWORLD</zType>
@@ -964,6 +1036,7 @@
 		<zh-CN>死亡之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses da morte</pt-BR>
 		<ko>죽음의 신 후원</ko>
+		<fixja>死神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_HEALING</zType>
@@ -977,6 +1050,7 @@
 		<zh-CN>治愈之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses da cura</pt-BR>
 		<ko>치유의 신 후원</ko>
+		<fixja>癒しの神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_KINGSHIP</zType>
@@ -990,6 +1064,7 @@
 		<zh-CN>忠贞之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses da realeza</pt-BR>
 		<ko>왕가의 신 후원</ko>
+		<fixja>王権の神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_HEARTH</zType>
@@ -1003,6 +1078,7 @@
 		<zh-CN>炉石之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses do lar</pt-BR>
 		<ko>가택신 후원</ko>
+		<fixja>家庭の神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PAGAN_CULT_HUNTING</zType>
@@ -1016,6 +1092,7 @@
 		<zh-CN>狩猎之神庇佑</zh-CN>
 		<pt-BR>Proteção dos deuses da caça</pt-BR>
 		<ko>사냥의 신 후원</ko>
+		<fixja>狩りの神の多神教カルト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FERTILE_SOIL</zType>
@@ -1029,6 +1106,7 @@
 		<zh-CN>富含矿物的土地</zh-CN>
 		<pt-BR>Solo Rico em Minerais</pt-BR>
 		<ko>무기질이 풍부한 흙</ko>
+		<fixja>鉱物が豊富な土地</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_IMPROVED_LUDUS</zType>
@@ -1042,6 +1120,7 @@
 		<zh-CN>改善的教育</zh-CN>
 		<pt-BR>Educação Melhorada</pt-BR>
 		<ko>교육 수준 개선</ko>
+		<fixja>教育の改善</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ATHLETICS_ARCHERY</zType>
@@ -1055,6 +1134,7 @@
 		<zh-CN>运动传统：射箭</zh-CN>
 		<pt-BR>Tradição Atlética: Tiro com Arco</pt-BR>
 		<ko>전통 운동: 궁술</ko>
+		<fixja>伝統競技：弓術</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ATHLETICS_WRESTLING</zType>
@@ -1068,6 +1148,7 @@
 		<zh-CN>运动传统：角力</zh-CN>
 		<pt-BR>Tradição Atlética: Luta Greco-Romana</pt-BR>
 		<ko>전통 운동: 격투기</ko>
+		<fixja>伝統競技：レスリング</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ATHLETICS_EQUESTRIAN</zType>
@@ -1081,6 +1162,7 @@
 		<zh-CN>运动传统：马术</zh-CN>
 		<pt-BR>Tradição Atlética: Hipismo</pt-BR>
 		<ko>전통 운동: 기마술</ko>
+		<fixja>伝統競技：馬術</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WARDENS_OF_THE_WILDS</zType>
@@ -1094,6 +1176,7 @@
 		<zh-CN>荒野守护者</zh-CN>
 		<pt-BR>Guardiões das Matas</pt-BR>
 		<ko>야생의 파수꾼</ko>
+		<fixja>荒野の番人たち</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TRAINING_PITS</zType>
@@ -1107,6 +1190,7 @@
 		<zh-CN>训练坑</zh-CN>
 		<pt-BR>Poços de Treinamento</pt-BR>
 		<ko>훈련장</ko>
+		<fixja>修練場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WARRIOR_TRADITION</zType>
@@ -1120,6 +1204,7 @@
 		<zh-CN>战士传统</zh-CN>
 		<pt-BR>Tradição Guerreira</pt-BR>
 		<ko>전사의 전통</ko>
+		<fixja>戦士の伝統</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MONUMENT_OF_HOPE</zType>
@@ -1133,6 +1218,7 @@
 		<zh-CN>希望的信标</zh-CN>
 		<pt-BR>Raio de Esperança</pt-BR>
 		<ko>희망의 신호</ko>
+		<fixja>希望の灯り</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ANTICAVALRY_TACTICS</zType>
@@ -1146,6 +1232,7 @@
 		<zh-CN>反骑兵战术</zh-CN>
 		<pt-BR>Táticas Antimontaria</pt-BR>
 		<ko>기병 대항 전술</ko>
+		<fixja>対騎兵戦略</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BY_THE_NUMBERS</zType>
@@ -1159,6 +1246,7 @@
 		<zh-CN>效率课税办公室</zh-CN>
 		<pt-BR>Ministério de Tributação Eficiente</pt-BR>
 		<ko>효율적 세금 징수원</ko>
+		<fixja>効率的課税局</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SHRINE_OF_THE_UNKNOWN_GOD</zType>
@@ -1172,6 +1260,7 @@
 		<zh-CN>未知神祇的神祠</zh-CN>
 		<pt-BR>Santuário do Deus Desconhecido</pt-BR>
 		<ko>미지의 신을 모신 신전</ko>
+		<fixja>未知の神の神殿</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FORESTRY_GUILD</zType>
@@ -1185,6 +1274,7 @@
 		<zh-CN>护林官公会</zh-CN>
 		<pt-BR>Guilda dos Silvicultores</pt-BR>
 		<ko>임학자 조합</ko>
+		<fixja>森の人のギルド</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CODEX_OF_HIGHLAND_WISDOM</zType>
@@ -1198,6 +1288,7 @@
 		<zh-CN>高地智慧的法典</zh-CN>
 		<pt-BR>Codex da Sabedoria Montanhesa</pt-BR>
 		<ko>고지의 지혜 필사본</ko>
+		<fixja>高地の知恵の写本</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_TRIBAL_FORUM</zType>
@@ -1211,6 +1302,7 @@
 		<zh-CN>部落公开广场</zh-CN>
 		<pt-BR>Fórum Tribal</pt-BR>
 		<ko>부족 토론장</ko>
+		<fixja>部族のフォーラム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ZOOLOGICAL_SOCIETY_PROJECT_ZOO</zType>
@@ -1224,6 +1316,7 @@
 		<zh-CN>动物园</zh-CN>
 		<pt-BR>Zoológico</pt-BR>
 		<ko>동물원</ko>
+		<fixja>動物園</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_ZOOLOGICAL_SOCIETY_PROJECT_RESEARCH_CLOISTER</zType>
@@ -1237,6 +1330,7 @@
 		<zh-CN>研究回廊</zh-CN>
 		<pt-BR>Claustro de Pesquisa</pt-BR>
 		<ko>연구원</ko>
+		<fixja>研究施設</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_THE_SAND_PITS</zType>
@@ -1250,6 +1344,7 @@
 		<zh-CN>沙坑</zh-CN>
 		<pt-BR>Os Poços de Areia</pt-BR>
 		<ko>모래 투기장</ko>
+		<fixja>砂場の闘技場</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INCREASED_TAXATION</zType>
@@ -1263,6 +1358,7 @@
 		<zh-CN>增加赋税</zh-CN>
 		<pt-BR>Aumento de taxação</pt-BR>
 		<ko>증세</ko>
+		<fixja>増税</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_GOLDEN_TREE</zType>
@@ -1276,6 +1372,7 @@
 		<zh-CN>黄金树</zh-CN>
 		<pt-BR>A Árvore Dourada</pt-BR>
 		<ko>황금 나무</ko>
+		<fixja>黄金樹</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINT_COIN</zType>
@@ -1289,6 +1386,7 @@
 		<zh-CN>崭新钱币</zh-CN>
 		<pt-BR>Cunhar Moedas</pt-BR>
 		<ko>주화 조폐</ko>
+		<fixja>コイン鋳造</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINT_COIN_1</zType>
@@ -1302,6 +1400,7 @@
 		<zh-CN>崭新钱币一</zh-CN>
 		<pt-BR>Cunhar Moedas I</pt-BR>
 		<ko>주화 조폐 I</ko>
+		<fixja>コイン鋳造 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINT_COIN_2</zType>
@@ -1315,6 +1414,7 @@
 		<zh-CN>崭新钱币二</zh-CN>
 		<pt-BR>Cunhar Moedas II</pt-BR>
 		<ko>주화 조폐 II</ko>
+		<fixja>コイン鋳造 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINT_COIN_3</zType>
@@ -1328,6 +1428,7 @@
 		<zh-CN>崭新钱币三</zh-CN>
 		<pt-BR>Cunhar Moedas III</pt-BR>
 		<ko>주화 조폐 III</ko>
+		<fixja>コイン鋳造 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINT_COIN_4</zType>
@@ -1341,5 +1442,6 @@
 		<zh-CN>崭新钱币四</zh-CN>
 		<pt-BR>Cunhar Moedas IV</pt-BR>
 		<ko>주화 조폐 IV</ko>
+		<fixja>コイン鋳造 IV</fixja>
 	</Entry>
 </Root>

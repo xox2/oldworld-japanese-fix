@@ -27,6 +27,7 @@
 		<zh-CN>教派是通过特定事件创造的改良设施，具有强大效应。然而，如果你的国家拥有太多的教派，可能会带来一些问题…</zh-CN>
 		<pt-BR>Os cultos são melhorias construídas através de certos eventos. Cada um deles tem efeitos poderosos, mas ter cultos demais em sua nação pode começar a causar problemas...</pt-BR>
 		<ko>교단은 특정한 사건을 통해 건설되는 시설입니다. 모두 강력한 효과를 보유하고 있지만 국가에 너무 많은 교단이 생기면 문제가 발생할 수 있습니다...</ko>
+		<fixja>「カルト」は特定のイベントをとおして形成される改善策です。いずれのカルトも影響力が大きく、あまりにたくさんのカルトを擁すると、国家に問題が発生する可能性があります。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POTENTIAL_CLERGY</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>神职人员类型：</zh-CN>
 		<pt-BR>Tipos de membros do clero:</pt-BR>
 		<ko>성직자 유형:</ko>
+		<fixja>聖職者のタイプ:</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PAGAN_CLERGY</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，异教神职人员可以通过link(MISSION_PAGAN_SACRIFICES)任务来提高异教城市的link(YIELD_HAPPINESS)，还能提高成为下一任宗教领袖的几率。</zh-CN>
 		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero pagão podem usar a missão de link(MISSION_PAGAN_SACRIFICES) para aumentar a link(YIELD_HAPPINESS) em cidades pagãs e têm uma chance maior de se tornarem o próximo líder religioso.</pt-BR>
 		<ko>다신교 성직자는 link(CONCEPT_CLERGY) 효과가 제공고, 다신교 도시에서 link(MISSION_PAGAN_SACRIFICES) 임무를 통해 link(YIELD_HAPPINESS)를 늘릴 수 있으며, 차기 교주가 될 확률이 증가합니다.</ko>
+		<fixja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_WORLD_CLERGY</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>除了link(CONCEPT_CLERGY)效果之外，世界神职人员可以通过link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)任务平定城市中的link(CONCEPT_RELIGIOUS_DISSENT)，而不会引起link(YIELD_DISCONTENT)，还可以在相应宗教的城市中充当link(CONCEPT_AGENT,2)。</zh-CN>
 		<pt-BR>Além dos efeitos do link(CONCEPT_CLERGY), membros do clero das religiões mundiais podem usar a missão de link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) para remover link(CONCEPT_RELIGIOUS_DISSENT) de cidades sem provocar link(YIELD_DISCONTENT) e também podem atuar como link(CONCEPT_AGENT,2) em cidades de sua religião</pt-BR>
 		<ko>세계 종교 성직자는 link(CONCEPT_CLERGY) 효과가 제공되고, link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) 임무를 통해 link(YIELD_DISCONTENT) 증가 없이 도시의 link(CONCEPT_RELIGIOUS_DISSENT)을 제거할 수 있으며, 같은 종교를 믿는 도시에서 link(CONCEPT_AGENT,2)으로 활용할 수 있습니다.</ko>
+		<fixja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CLERGY_LIMIT</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>每个国家最多 2 个</zh-CN>
 		<pt-BR>Máx. de 2 por nação</pt-BR>
 		<ko>국가당 최대 2명</ko>
+		<fixja>1国につき最大2人まで</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PAGAN_CLERGY_TRAIT</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>link(CONCEPT_PAGAN_CLERGY)的一部分</zh-CN>
 		<pt-BR>Membro do link(CONCEPT_PAGAN_CLERGY)</pt-BR>
 		<ko>link(CONCEPT_PAGAN_CLERGY)의 일부</ko>
+		<fixja>link(CONCEPT_PAGAN_CLERGY)の一部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WORLD_CLERGY_TRAIT</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>link(CONCEPT_WORLD_CLERGY)的一部分</zh-CN>
 		<pt-BR>Membro do link(CONCEPT_WORLD_CLERGY)</pt-BR>
 		<ko>link(CONCEPT_WORLD_CLERGY)의 일부</ko>
+		<fixja>link(CONCEPT_WORLD_CLERGY)の一部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CLERGY_TRAIT</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>link(CONCEPT_CLERGY)的一部分</zh-CN>
 		<pt-BR>Membro do link(CONCEPT_CLERGY)</pt-BR>
 		<ko>link(CONCEPT_CLERGY)의 일부</ko>
+		<fixja>link(CONCEPT_CLERGY)の一部</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_THE_SACRED_AND_THE_PROFANE</zType>
@@ -171,6 +179,11 @@ Prossiga com cautela enquanto navega através dos rituais e religiões. As cren�
 하지만 지금은 변화의 시대로, 신성조차도 불변이 아닙니다. 새로운 신들과 영웅들이 추종자들을 사회적이고 신비한 link(CONCEPT_LOCAL_CULT)에 끌어당기고 있으며, 세계 종교들이 출현하고 퍼지면서 대중과 궁정의 왕족들 사이에서 법적, 신학적 기반을 확립하려고 합니다. 세로운 지도자인 link(CONCEPT_CLERGY)들은 link(CONCEPT_RELIGIOUS_DISSENT)가 충족되지 않는 신자들이 경건한 열정을 거리로 쏟게끔 인도합니다.
 
 이러한 의식들과 종교들을 다룰 때는 신중을 기하십시오. 국가의 신념에 따라 이들이 성장하거나 쇠퇴할 수 있습니다. </ko>
+		<fixja>神々が注意深く見ている。宗教は信仰の問題というよりは、神の怒りによる災厄を避けるための試みとして発展した。そして日常生活の中での営み、様々な儀式や礼拝の集合体から成り立っている。
+
+だが、今は変化の時代である。その神性でさえ不変ではない。新たな神々と英雄たちが、社会的かつ神秘的なlink(CONCEPT_LOCAL_CULT)に信者を引きつける一方で、世界では新たな宗教が出現し、大きな広がりを見せている。このような宗教は平民と王族の宮廷の双方において、その法的及び神学的な基盤を築こうとしていた。新たな指導者──link(CONCEPT_CLERGY)は、敬虔で熱心な信者たちを導く。しかし、その情熱が満たされないと、link(CONCEPT_RELIGIOUS_DISSENT)として街頭へ流出してしまうこともある。
+
+こういった儀式や宗教を扱う場合は慎重に。国の信仰は、その興亡を左右することもある。 </fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EACH_CLERGY</zType>
@@ -184,6 +197,7 @@ Prossiga com cautela enquanto navega através dos rituais e religiões. As cren�
 		<zh-CN>每位神职人员：{0_yieldValue}每{1_turnScale}</zh-CN>
 		<pt-BR>Cada membro do clero: {0_yieldValue} por {1_turnScale}</pt-BR>
 		<ko>각 성직자: {1_turnScale}당 {0_yieldValue}</ko>
+		<fixja>各聖職者: {1_turnScale}ごとに{0_yieldValue}</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
@@ -197,5 +211,6 @@ Prossiga com cautela enquanto navega através dos rituais e religiões. As cren�
 		<zh-CN>神职人员是你宫廷中代表其link(CONCEPT_RELIGION)的人员。每名神职人员对你的个人看法，会提高或降低其宗教对你的好感。你可以通过link(MISSION_MAKE_CLERGY)任务任命神职人员。他们可以作为link(CONCEPT_TUTOR,1)活动，如果他们是link(CONCEPT_PAGAN_CLERGY)或link(CONCEPT_WORLD_CLERGY)还会拥有额外的能力。</zh-CN>
 		<pt-BR>Os clero é composto por representantes de suas respectivas link(CONCEPT_RELIGION,2) em sua corte. Cada membro do clero concede um bônus à opinião da religião deles, aumentado ou diminuído de acordo com a opinião pessoal deles sobre você. O clero pode ser formado coma missão link(MISSION_MAKE_CLERGY). Eles podem trabalhar como link(CONCEPT_TUTOR,2) e ter habilidades adicionais a depender se são link(CONCEPT_PAGAN_CLERGY) ou link(CONCEPT_WORLD_CLERGY).</pt-BR>
 		<ko>성직자는 당신 궁정의 link(CONCEPT_RELIGION)를 대표하는 사람입니다. 각 성직자는 종교의 태도에 보정을 주며 당신에 대한 개인적인 태도에 따라 증가하거나 감소합니다. 성직자는 link(MISSION_MAKE_CLERGY) 임무를 통해 생성할 수 있습니다. 성직자는 link(CONCEPT_TUTOR,1)가 될 수 있으며 link(CONCEPT_PAGAN_CLERGY) 혹은 link(CONCEPT_WORLD_CLERGY)에 따라 추가 능력이 있습니다.</ko>
+		<fixja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</fixja>
 	</Entry>
 </Root>

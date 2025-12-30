@@ -26,6 +26,7 @@
 		<zh-CN>战斗一</zh-CN>
 		<pt-BR>Combate I</pt-BR>
 		<ko>전투 I</ko>
+		<fixja>戦闘 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_COMBAT2</zType>
@@ -39,6 +40,7 @@
 		<zh-CN>战斗二</zh-CN>
 		<pt-BR>Combate II</pt-BR>
 		<ko>전투 II</ko>
+		<fixja>戦闘 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_COMBAT3</zType>
@@ -52,6 +54,7 @@
 		<zh-CN>战斗三</zh-CN>
 		<pt-BR>Combate III</pt-BR>
 		<ko>전투 III</ko>
+		<fixja>戦闘 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_STRIKE1</zType>
@@ -65,6 +68,7 @@
 		<zh-CN>攻击一</zh-CN>
 		<pt-BR>Ataque I</pt-BR>
 		<ko>공격 I</ko>
+		<fixja>攻撃 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_STRIKE2</zType>
@@ -78,6 +82,7 @@
 		<zh-CN>攻击二</zh-CN>
 		<pt-BR>Ataque II</pt-BR>
 		<ko>공격 II</ko>
+		<fixja>攻撃 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_STRIKE3</zType>
@@ -91,6 +96,7 @@
 		<zh-CN>攻击三</zh-CN>
 		<pt-BR>Ataque III</pt-BR>
 		<ko>공격 III</ko>
+		<fixja>攻撃 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_GUARD1</zType>
@@ -104,6 +110,7 @@
 		<zh-CN>防守一</zh-CN>
 		<pt-BR>Defesa I</pt-BR>
 		<ko>수비 I</ko>
+		<fixja>守衛 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_GUARD2</zType>
@@ -117,6 +124,7 @@
 		<zh-CN>防守二</zh-CN>
 		<pt-BR>Defesa II</pt-BR>
 		<ko>수비 II</ko>
+		<fixja>守衛 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_GUARD3</zType>
@@ -130,6 +138,7 @@
 		<zh-CN>防守三</zh-CN>
 		<pt-BR>Defesa III</pt-BR>
 		<ko>수비 III</ko>
+		<fixja>守衛 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_FOCUS1</zType>
@@ -143,6 +152,7 @@
 		<zh-CN>专注一</zh-CN>
 		<pt-BR>Foco I</pt-BR>
 		<ko>집중 I</ko>
+		<fixja>集中 I</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_FOCUS2</zType>
@@ -156,6 +166,7 @@
 		<zh-CN>专注二</zh-CN>
 		<pt-BR>Foco II</pt-BR>
 		<ko>집중 II</ko>
+		<fixja>集中 II</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_FOCUS3</zType>
@@ -169,6 +180,7 @@
 		<zh-CN>专注三</zh-CN>
 		<pt-BR>Foco III</pt-BR>
 		<ko>집중 III</ko>
+		<fixja>集中 III</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_TRACKER</zType>
@@ -182,6 +194,7 @@
 		<zh-CN>追踪专家</zh-CN>
 		<pt-BR>Rastreador</pt-BR>
 		<ko>추적자</ko>
+		<fixja>追跡家</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_SWIFT</zType>
@@ -195,6 +208,7 @@
 		<zh-CN>迅速敏捷</zh-CN>
 		<pt-BR>Veloz</pt-BR>
 		<ko>신속한</ko>
+		<fixja>機敏</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_EAGLE_EYE</zType>
@@ -208,6 +222,7 @@
 		<zh-CN>鹰眼</zh-CN>
 		<pt-BR>Olhos de Águia</pt-BR>
 		<ko>매의 눈</ko>
+		<fixja>炯眼</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_MARKSMAN</zType>
@@ -221,6 +236,7 @@
 		<zh-CN>神射手</zh-CN>
 		<pt-BR>Atirador</pt-BR>
 		<ko>명사수</ko>
+		<fixja>射手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_AMPHIBIOUS</zType>
@@ -234,6 +250,7 @@
 		<zh-CN>两栖</zh-CN>
 		<pt-BR>Anfíbio</pt-BR>
 		<ko>수륙 양용</ko>
+		<fixja>水陸両用</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_MARINES</zType>
@@ -247,6 +264,7 @@
 		<zh-CN>海军</zh-CN>
 		<pt-BR>Marinho</pt-BR>
 		<ko>해병</ko>
+		<fixja>海兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_BESIEGER</zType>
@@ -260,6 +278,7 @@
 		<zh-CN>攻城专家</zh-CN>
 		<pt-BR>Assediador</pt-BR>
 		<ko>공성병</ko>
+		<fixja>包囲屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_WARDEN</zType>
@@ -273,6 +292,7 @@
 		<zh-CN>狱吏</zh-CN>
 		<pt-BR>Guardião</pt-BR>
 		<ko>감시원</ko>
+		<fixja>張番</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_TOUGH</zType>
@@ -286,6 +306,7 @@
 		<zh-CN>坚毅不拔</zh-CN>
 		<pt-BR>Duro</pt-BR>
 		<ko>굳센</ko>
+		<fixja>頑健</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_BLOODTHIRSTY</zType>
@@ -299,6 +320,7 @@
 		<zh-CN>残忍嗜血</zh-CN>
 		<pt-BR>Sanguinário</pt-BR>
 		<ko>피에 굶주린</ko>
+		<fixja>残忍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_HECKLER</zType>
@@ -312,6 +334,7 @@
 		<zh-CN>扰乱分子</zh-CN>
 		<pt-BR>Atrevido</pt-BR>
 		<ko>방해꾼</ko>
+		<fixja>不平屋</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_STEADFAST</zType>
@@ -325,6 +348,7 @@
 		<zh-CN>坚定不移</zh-CN>
 		<pt-BR>Resoluto</pt-BR>
 		<ko>꿋꿋한</ko>
+		<fixja>不屈</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_HERBALIST</zType>
@@ -338,6 +362,7 @@
 		<zh-CN>草药专家</zh-CN>
 		<pt-BR>Herborista</pt-BR>
 		<ko>약초사</ko>
+		<fixja>薬草医</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_HEALER</zType>
@@ -351,6 +376,7 @@
 		<zh-CN>治疗师</zh-CN>
 		<pt-BR>Curandeiro</pt-BR>
 		<ko>치유자</ko>
+		<fixja>ヒーラー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_HIGHLANDER</zType>
@@ -364,6 +390,7 @@
 		<zh-CN>高地人</zh-CN>
 		<pt-BR>Montanhês</pt-BR>
 		<ko>산악인</ko>
+		<fixja>高地の民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_RANGER</zType>
@@ -377,6 +404,7 @@
 		<zh-CN>游侠</zh-CN>
 		<pt-BR>Guardião Silvestre</pt-BR>
 		<ko>파수꾼</ko>
+		<fixja>レンジャー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_BRAVE</zType>
@@ -390,6 +418,7 @@
 		<zh-CN>勇敢无畏</zh-CN>
 		<pt-BR>Valente</pt-BR>
 		<ko>용감한</ko>
+		<fixja>勇敢</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_SHIELDBEARER</zType>
@@ -403,6 +432,7 @@
 		<zh-CN>执盾兵</zh-CN>
 		<pt-BR>Porta-escudo</pt-BR>
 		<ko>방패지기</ko>
+		<fixja>盾使い</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_FIERCE</zType>
@@ -416,6 +446,7 @@
 		<zh-CN>暴躁好斗</zh-CN>
 		<pt-BR>Feroz</pt-BR>
 		<ko>사나운</ko>
+		<fixja>剛気</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_HORSEBANE</zType>
@@ -429,6 +460,7 @@
 		<zh-CN>骑兵终结者</zh-CN>
 		<pt-BR>Perdição das Montarias</pt-BR>
 		<ko>기병의 악몽</ko>
+		<fixja>馬殺し</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_ENGINEER</zType>
@@ -442,6 +474,7 @@
 		<zh-CN>工程师</zh-CN>
 		<pt-BR>Engenheiro</pt-BR>
 		<ko>기술자</ko>
+		<fixja>技師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_SHRAPNEL</zType>
@@ -455,6 +488,7 @@
 		<zh-CN>弹片</zh-CN>
 		<pt-BR>Estilhaço</pt-BR>
 		<ko>유산탄</ko>
+		<fixja>榴散弾</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_COCKSWAIN</zType>
@@ -468,6 +502,7 @@
 		<zh-CN>舵手</zh-CN>
 		<pt-BR>Timoneiro</pt-BR>
 		<ko>조타수</ko>
+		<fixja>舵手</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_GRAPPLER</zType>
@@ -481,6 +516,7 @@
 		<zh-CN>抓钩</zh-CN>
 		<pt-BR>Lutador</pt-BR>
 		<ko>격투가</ko>
+		<fixja>武術士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_SEABORN</zType>
@@ -494,6 +530,7 @@
 		<zh-CN>水性极佳</zh-CN>
 		<pt-BR>Filho do mar</pt-BR>
 		<ko>해전 체질</ko>
+		<fixja>海士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_OVERWHELM</zType>
@@ -507,6 +544,7 @@
 		<zh-CN>压倒性</zh-CN>
 		<pt-BR>Sobrecarga</pt-BR>
 		<ko>압도</ko>
+		<fixja>圧倒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_FIRESHIP</zType>
@@ -520,6 +558,7 @@
 		<zh-CN>火船</zh-CN>
 		<pt-BR>Brulote</pt-BR>
 		<ko>화공선</ko>
+		<fixja>火船</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_LADING</zType>
@@ -533,6 +572,7 @@
 		<zh-CN>船货</zh-CN>
 		<pt-BR>Carregamento</pt-BR>
 		<ko>선적</ko>
+		<fixja>積載</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROMOTION_MANEUVERS</zType>
@@ -546,5 +586,6 @@
 		<zh-CN>战术调动</zh-CN>
 		<pt-BR>Manobras</pt-BR>
 		<ko>기동 훈련</ko>
+		<fixja>計略</fixja>
 	</Entry>
 </Root>

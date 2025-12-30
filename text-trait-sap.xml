@@ -39,6 +39,7 @@
 		<zh-CN>不虔敬</zh-CN>
 		<pt-BR>Ímpia</pt-BR>
 		<ko>불경한</ko>
+		<fixja>不信心</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPIOUS_GAIN_1</zType>
@@ -52,6 +53,7 @@
 		<zh-CN>蔑视神灵和他们的祝福，{0_character}{1_trait}。</zh-CN>
 		<pt-BR>{0_character} rejeita os deuses e suas bençãos, é {lowercase:{1_trait}}.</pt-BR>
 		<ko>신과 신의 축복을 뿌리치는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>神々とその加護を拒む{0_character}は、不信心である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPIOUS_GAIN_2</zType>
@@ -65,6 +67,7 @@
 		<zh-CN>{0_character}是出了名的不把众神放在眼里。多么{1_trait}！</zh-CN>
 		<pt-BR>{0_character} tem fama por sua falta de respeito aos deuses, como é {lowercase:{1_trait}}!</pt-BR>
 		<ko>{0_character}(은)는 신을 의식적으로 모욕하는 사람으로 알려졌습니다. 어찌나 {1_trait} 인물인가요!</ko>
+		<fixja>{0_character}は神々を進んで無視しようとしているという。{1_trait}にもほどがある！</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHASTE</zType>
@@ -78,6 +81,7 @@
 		<zh-CN>贞洁</zh-CN>
 		<pt-BR>Casto</pt-BR>
 		<ko>순결한</ko>
+		<fixja>純潔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHASTE_F</zType>
@@ -91,6 +95,7 @@
 		<zh-CN>贞洁</zh-CN>
 		<pt-BR>Casta</pt-BR>
 		<ko>순결한</ko>
+		<fixja>純潔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHASTE_GAIN_1</zType>
@@ -104,6 +109,7 @@
 		<zh-CN>{0_character}赢得了纯洁的美名，是{1_trait}美德的引领者。</zh-CN>
 		<pt-BR>{0_character} ganhou fama por sua pureza, é {lowercase:{1_trait}} e um exemplo de virtude.</pt-BR>
 		<ko>(은)는 정조를 지키는 사람으로 이름이 난 {0_character}(은)는 {1_trait} 덕목의 선봉자입니다.</ko>
+		<fixja>{0_character}は純真、つまり、{1_trait}の美徳の持ち主だといわれている。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CHASTE_GAIN_2</zType>
@@ -117,6 +123,7 @@
 		<zh-CN>决定回绝一切好处，{0_character}是{1_trait}。</zh-CN>
 		<pt-BR>{0_character} é {lowercase:{1_trait}} e decidiu evitar ser {masculine_0:cortejado:cortejada}.</pt-BR>
 		<ko>모든 유혹을 뿌리치는 {0_character}(은)는 {1_trait} 인물입니다.</ko>
+		<fixja>口説こうとする者をすべて拒む{0_character}は、{1_trait}である。</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POET</zType>
@@ -130,6 +137,7 @@
 		<zh-CN>诗人</zh-CN>
 		<pt-BR>Poeta</pt-BR>
 		<ko>시인</ko>
+		<fixja>詩人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POET_F</zType>
@@ -143,6 +151,7 @@
 		<zh-CN>女诗人</zh-CN>
 		<pt-BR>Poetisa</pt-BR>
 		<ko>여류 시인</ko>
+		<fixja>詩人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_PAGAN</zType>
@@ -156,6 +165,7 @@
 		<zh-CN>祭司~祭司~祭司</zh-CN>
 		<pt-BR>Sacerdote~um Sacerdote~Sacerdotes</pt-BR>
 		<ko>사제~사제~사제</ko>
+		<fixja>司祭~司祭~司祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_PAGAN_F</zType>
@@ -169,6 +179,7 @@
 		<zh-CN>祭司~一位祭司~众祭司</zh-CN>
 		<pt-BR>Sacerdotisa~uma Sacerdotisa~Sacerdotisas</pt-BR>
 		<ko>여사제~여사제~여사제</ko>
+		<fixja>司祭~司祭~司祭</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_ZOROASTRIAN</zType>
@@ -182,6 +193,7 @@
 		<zh-CN>祆教僧侣~祆教僧侣~祆教僧侣</zh-CN>
 		<pt-BR>Mago~um Mago~Magos</pt-BR>
 		<ko>신관~신관~신관</ko>
+		<fixja>マギ~マギ~マギ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_ZOROASTRIAN_F</zType>
@@ -195,6 +207,7 @@
 		<zh-CN>祆教僧侣~一位祆教僧侣~祆教众僧侣</zh-CN>
 		<pt-BR>Maga~uma Maga~Magas</pt-BR>
 		<ko>신관~신관~신관</ko>
+		<fixja>マギ~マギ~マギ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_ZOROASTRIAN_DESC</zType>
@@ -208,6 +221,7 @@
 		<zh-CN>祆教神职人员中的一个僧侣</zh-CN>
 		<pt-BR>Parte do clero zoroastrista.</pt-BR>
 		<ko>신관은 조로아스터교의 성직자입니다.</ko>
+		<fixja>ゾロアスター教の聖職者であるマギ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_JEWISH</zType>
@@ -221,6 +235,7 @@
 		<zh-CN>犹太教祭司~犹太教祭司~犹太教祭司</zh-CN>
 		<pt-BR>Cohen~um Cohen~Cohanim</pt-BR>
 		<ko>제사장~제사장~제사장</ko>
+		<fixja>コハニム~コハニム~コハニム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_JEWISH_F</zType>
@@ -234,6 +249,7 @@
 		<zh-CN>犹太教祭司~一位犹太教祭司~犹太教众祭司</zh-CN>
 		<pt-BR>Cohen~uma Cohen~Cohanim</pt-BR>
 		<ko>제사장~제사장~제사장</ko>
+		<fixja>コハニム~コハニム~コハニム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_CHRISTIAN</zType>
@@ -247,6 +263,7 @@
 		<zh-CN>牧师~牧师~牧师</zh-CN>
 		<pt-BR>Presbítero~um Presbítero~Presbíteros</pt-BR>
 		<ko>주교~주교~주교</ko>
+		<fixja>長老~長老~長老</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_CHRISTIAN_F</zType>
@@ -260,6 +277,7 @@
 		<zh-CN>牧师~牧师~牧师</zh-CN>
 		<pt-BR>Presbítera~uma Presbítera~Presbíteras</pt-BR>
 		<ko>주교~주교~주교</ko>
+		<fixja>長老~長老~長老</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_MANICHAEAN</zType>
@@ -273,6 +291,7 @@
 		<zh-CN>摩尼教僧侣~摩尼教僧侣~摩尼教僧侣</zh-CN>
 		<pt-BR>Eleito~um dos Eleitos~os Eleitos</pt-BR>
 		<ko>소명받은 자~소명받은 자~소명받은 자</ko>
+		<fixja>選良民~選良民~選良民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CLERGY_MANICHAEAN_F</zType>
@@ -286,6 +305,7 @@
 		<zh-CN>摩尼教僧侣~一位摩尼教僧侣~摩尼教众僧侣</zh-CN>
 		<pt-BR>Eleita~uma das Eleitas~as Eleitas</pt-BR>
 		<ko>소명받은 자~소명받은 자~소명받은 자</ko>
+		<fixja>選良民~選良民~選良民</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MANICHAEAN_FOUNDER</zType>
@@ -299,6 +319,7 @@
 		<zh-CN>宗教创办者</zh-CN>
 		<pt-BR>Fundador da Religião</pt-BR>
 		<ko>종교 설립자</ko>
+		<fixja>教祖</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARTYR</zType>
@@ -312,6 +333,7 @@
 		<zh-CN>殉道者~一位殉道者~殉道者们</zh-CN>
 		<pt-BR>Mártir~um Mártir~Mártires</pt-BR>
 		<ko>순교자~순교자~순교자</ko>
+		<fixja>殉教者~殉教者~殉教者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARTYR_F</zType>
@@ -325,6 +347,7 @@
 		<zh-CN>殉道者~一位殉道者~殉道者们</zh-CN>
 		<pt-BR>Mártir~uma Mártir~Mártires</pt-BR>
 		<ko>순교자~순교자~순교자</ko>
+		<fixja>殉教者~殉教者~殉教者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SAINT</zType>
@@ -338,6 +361,7 @@
 		<zh-CN>圣人~一位圣人~圣人们</zh-CN>
 		<pt-BR>Santo~um Santo~Santos</pt-BR>
 		<ko>성자~성자~성자</ko>
+		<fixja>聖人~聖人~聖人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SAINT_F</zType>
@@ -351,6 +375,7 @@
 		<zh-CN>圣人~一位圣人~圣人们</zh-CN>
 		<pt-BR>Santa~uma Santa~Santas</pt-BR>
 		<ko>성자~성자~성자</ko>
+		<fixja>聖人~聖人~聖人</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ON_PILGRIMAGE</zType>
@@ -364,6 +389,7 @@
 		<zh-CN>朝圣途中</zh-CN>
 		<pt-BR>Peregrino</pt-BR>
 		<ko>순례 중</ko>
+		<fixja>巡礼中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ON_PILGRIMAGE_F</zType>
@@ -377,6 +403,7 @@
 		<zh-CN>朝圣途中</zh-CN>
 		<pt-BR>Peregrina</pt-BR>
 		<ko>순례 중</ko>
+		<fixja>巡礼中</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PILGRIM</zType>
@@ -390,6 +417,7 @@
 		<zh-CN>朝圣者</zh-CN>
 		<pt-BR>Peregrino</pt-BR>
 		<ko>순례자</ko>
+		<fixja>巡礼者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PILGRIM_F</zType>
@@ -403,6 +431,7 @@
 		<zh-CN>朝圣者</zh-CN>
 		<pt-BR>Peregrina</pt-BR>
 		<ko>순례자</ko>
+		<fixja>巡礼者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MAGIC_PRACTITIONER</zType>
@@ -416,6 +445,7 @@
 		<zh-CN>魔法师</zh-CN>
 		<pt-BR>Praticante de Magia</pt-BR>
 		<ko>마법사</ko>
+		<fixja>魔術師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MAGIC_PRACTITIONER_F</zType>
@@ -429,6 +459,7 @@
 		<zh-CN>魔法师</zh-CN>
 		<pt-BR>Praticante de Magia</pt-BR>
 		<ko>마법사</ko>
+		<fixja>魔術師</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NEOPLATONIST</zType>
@@ -442,6 +473,7 @@
 		<zh-CN>新柏拉图主义者</zh-CN>
 		<pt-BR>Neoplatonista</pt-BR>
 		<ko>신플라톤주의자</ko>
+		<fixja>新プラトン主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NEOPLATONIST_F</zType>
@@ -455,6 +487,7 @@
 		<zh-CN>新柏拉图主义者</zh-CN>
 		<pt-BR>Neoplatonista</pt-BR>
 		<ko>신플라톤주의자</ko>
+		<fixja>新プラトン主義者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BETROTHED</zType>
@@ -468,6 +501,7 @@
 		<zh-CN>婚约者</zh-CN>
 		<pt-BR>Prometido</pt-BR>
 		<ko>약혼자</ko>
+		<fixja>婚約者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BETROTHED_F</zType>
@@ -481,6 +515,7 @@
 		<zh-CN>婚约者</zh-CN>
 		<pt-BR>Prometida</pt-BR>
 		<ko>약혼자</ko>
+		<fixja>婚約者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERO_ARMOUR</zType>
@@ -494,6 +529,7 @@
 		<zh-CN>英雄的盔甲</zh-CN>
 		<pt-BR>Armadura do Herói</pt-BR>
 		<ko>영웅의 갑옷</ko>
+		<fixja>英雄の鎧</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OSTANES</zType>
@@ -507,6 +543,7 @@
 		<zh-CN>奥斯坦尼斯</zh-CN>
 		<pt-BR>Ostanes</pt-BR>
 		<ko>오스타네스</ko>
+		<fixja>オスタネス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERY_INITIATE</zType>
@@ -520,6 +557,7 @@
 		<zh-CN>神秘同修</zh-CN>
 		<pt-BR>Iniciado nos Mistérios</pt-BR>
 		<ko>밀교 회원</ko>
+		<fixja>密儀宗教の入門者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERY_INITIATE_F</zType>
@@ -533,6 +571,7 @@
 		<zh-CN>神秘同修</zh-CN>
 		<pt-BR>Iniciada nos Mistérios</pt-BR>
 		<ko>밀교 회원</ko>
+		<fixja>密儀宗教の入門者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERY_SENIOR</zType>
@@ -546,6 +585,7 @@
 		<zh-CN>神秘领袖</zh-CN>
 		<pt-BR>Líder dos Mistérios</pt-BR>
 		<ko>밀교 수장</ko>
+		<fixja>密儀宗教の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERY_SENIOR_F</zType>
@@ -559,6 +599,7 @@
 		<zh-CN>神秘领袖</zh-CN>
 		<pt-BR>Líder dos Mistérios</pt-BR>
 		<ko>밀교 수장</ko>
+		<fixja>密儀宗教の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MITHRAS_INITIATE</zType>
@@ -572,6 +613,7 @@
 		<zh-CN>密特拉同修</zh-CN>
 		<pt-BR>Iniciado no Mitraísmo</pt-BR>
 		<ko>미트라교 회원</ko>
+		<fixja>ミトラ教の入門者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MITHRAS_INITIATE_F</zType>
@@ -585,6 +627,7 @@
 		<zh-CN>密特拉同修</zh-CN>
 		<pt-BR>Iniciada no Mitraísmo</pt-BR>
 		<ko>미트라교 회원</ko>
+		<fixja>ミトラ教の入門者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MITHRAS_SENIOR</zType>
@@ -598,6 +641,7 @@
 		<zh-CN>密特拉领袖</zh-CN>
 		<pt-BR>Líder do Mistraísmo</pt-BR>
 		<ko>미트라교 수장</ko>
+		<fixja>ミトラ教の指導者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MITHRAS_SENIOR_F</zType>
@@ -611,5 +655,6 @@
 		<zh-CN>密特拉领袖</zh-CN>
 		<pt-BR>Líder do Mistraísmo</pt-BR>
 		<ko>미트라교 수장</ko>
+		<fixja>ミトラ教の指導者</fixja>
 	</Entry>
 </Root>

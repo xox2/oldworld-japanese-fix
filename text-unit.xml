@@ -27,6 +27,7 @@
 		<zh-CN>开拓者~开拓者~开拓者</zh-CN>
 		<pt-BR>Colono~um Colono~Colonos~Unidade de Colonos</pt-BR>
 		<ko>개척자~개척자~개척자</ko>
+		<fixja>入植者~入植者~入植者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SETTLER_F</zType>
@@ -40,6 +41,7 @@
 		<zh-CN>开拓者~开拓者~开拓者</zh-CN>
 		<pt-BR>Colona~uma Colona~Colonas~Unidade de Colonas</pt-BR>
 		<ko>개척자~개척자~개척자</ko>
+		<fixja>入植者~入植者~入植者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WORKER</zType>
@@ -53,6 +55,7 @@
 		<zh-CN>工人~工人~工人</zh-CN>
 		<pt-BR>Trabalhador~um Trabalhador~Trabalhadores~Unidade de Trabalhadores</pt-BR>
 		<ko>일꾼~일꾼~일꾼</ko>
+		<fixja>労働者~労働者~労働者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WORKER_F</zType>
@@ -66,6 +69,7 @@
 		<zh-CN>工人~工人~工人</zh-CN>
 		<pt-BR>Trabalhadora~uma Trabalhadora~Trabalhadoras~Unidade de Trabalhadoras</pt-BR>
 		<ko>일꾼~일꾼~일꾼</ko>
+		<fixja>労働者~労働者~労働者</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SCOUT</zType>
@@ -79,6 +83,7 @@
 		<zh-CN>侦察兵~侦察兵~侦察兵</zh-CN>
 		<pt-BR>Batedor~um Batedor~Batedores~Unidade de Batedores</pt-BR>
 		<ko>정찰병~정찰병~정찰병</ko>
+		<fixja>斥候兵~斥候兵~斥候兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SCOUT_F</zType>
@@ -92,6 +97,7 @@
 		<zh-CN>侦察兵~侦察兵~侦察兵</zh-CN>
 		<pt-BR>Batedora~uma Batedora~Batedoras~Unidade de Batedoras</pt-BR>
 		<ko>정찰병~정찰병~정찰병</ko>
+		<fixja>斥候兵~斥候兵~斥候兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CARAVAN</zType>
@@ -105,6 +111,7 @@
 		<zh-CN>商队~商队~商队</zh-CN>
 		<pt-BR>Caravana~uma Caravana~Caravanas~Unidade de Caravanas</pt-BR>
 		<ko>행상~행상~행상</ko>
+		<fixja>キャラバン~キャラバン~キャラバン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_RELIGION_DISCIPLE</zType>
@@ -118,6 +125,7 @@
 		<zh-CN>{UNIT-RELIGION,1}门徒~{UNIT-RELIGION,2}门徒~{UNIT-RELIGION,1}门徒</zh-CN>
 		<pt-BR>Discípulo {UNIT-RELIGION,1}~um Discípulo {UNIT-RELIGION,1}~Discípulos {UNIT-RELIGION,3}~Unidade de Discípulos {UNIT-RELIGION,3}</pt-BR>
 		<ko>{UNIT-RELIGION,1} 신도~{UNIT-RELIGION,2} 신도~{UNIT-RELIGION,1} 신도</ko>
+		<fixja>{UNIT-RELIGION,1}信徒~{UNIT-RELIGION,2}信徒~{UNIT-RELIGION,1}信徒</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_RELIGION_DISCIPLE_F</zType>
@@ -131,6 +139,7 @@
 		<zh-CN>{UNIT-RELIGION,1}门徒~{UNIT-RELIGION,2}门徒~{UNIT-RELIGION,1}门徒</zh-CN>
 		<pt-BR>Discípula {UNIT-RELIGION,1}~uma Discípula {UNIT-RELIGION,1}~Discípulas {UNIT-RELIGION,3}~Unidade de Discípulas {UNIT-RELIGION,3}</pt-BR>
 		<ko>{UNIT-RELIGION,1} 신도~{UNIT-RELIGION,2} 신도~{UNIT-RELIGION,1} 신도</ko>
+		<fixja>{UNIT-RELIGION,1} Disciple~{UNIT-RELIGION,2} Disciple~{UNIT-RELIGION,1} Disciples</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MILITIA</zType>
@@ -144,6 +153,7 @@
 		<zh-CN>民兵~民兵~民兵</zh-CN>
 		<pt-BR>Milícia~uma Milícia~Milícias~Unidade de Milícia</pt-BR>
 		<ko>민병~민병~민병</ko>
+		<fixja>民兵~民兵~民兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CONSCRIPT</zType>
@@ -157,6 +167,7 @@
 		<zh-CN>征召士兵~征召士兵~征召士兵</zh-CN>
 		<pt-BR>Recruta~um Recruta~Recrutas~Unidade de Recrutas</pt-BR>
 		<ko>징집병~징집병~징집병</ko>
+		<fixja>徴集兵~徴集兵~徴集兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CONSCRIPT_F</zType>
@@ -170,6 +181,7 @@
 		<zh-CN>应征士兵~应征士兵~应征士兵</zh-CN>
 		<pt-BR>Recruta~uma Recruta~Recrutas~Unidade de Recrutas</pt-BR>
 		<ko>징집병~징집병~징집병</ko>
+		<fixja>徴集兵~徴集兵~徴集兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARRIOR</zType>
@@ -183,6 +195,7 @@
 		<zh-CN>战士~战士~战士</zh-CN>
 		<pt-BR>Guerreiro~um Guerreiro~Guerreiros~Unidade de Guerreiros</pt-BR>
 		<ko>전사~전사~전사</ko>
+		<fixja>戦士~戦士~戦士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARRIOR_F</zType>
@@ -196,6 +209,7 @@
 		<zh-CN>战士~战士~战士</zh-CN>
 		<pt-BR>Guerreira~uma Guerreira~Guerreiras~Unidade de Guerreiras</pt-BR>
 		<ko>전사~전사~전사</ko>
+		<fixja>戦士~戦士~戦士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AXEMAN</zType>
@@ -209,6 +223,7 @@
 		<zh-CN>斧兵~斧兵~斧兵</zh-CN>
 		<pt-BR>Guerreiro com Machado~um Guerreiro com Machado~Guerreiros com Machado~Unidade de Guerreiros com Machado</pt-BR>
 		<ko>도끼병~도끼병~도끼병</ko>
+		<fixja>斧兵~斧兵~斧兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AXEMAN_F</zType>
@@ -222,6 +237,7 @@
 		<zh-CN>斧头兵~斧头兵~斧头兵</zh-CN>
 		<pt-BR>Guerreira com Machado~uma Guerreira com Machado~Guerreiras com Machado~Unidade de Guerreiras com Machado</pt-BR>
 		<ko>도끼병~도끼병~도끼병</ko>
+		<fixja>斧兵~斧兵~斧兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SPEARMAN</zType>
@@ -235,6 +251,7 @@
 		<zh-CN>长矛兵~长矛兵~长矛兵</zh-CN>
 		<pt-BR>Lanceiro~um Lanceiro~Lanceiros~Unidade de Lanceiros</pt-BR>
 		<ko>창병~창병~창병</ko>
+		<fixja>槍兵~槍兵~槍兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SPEARMAN_F</zType>
@@ -248,6 +265,7 @@
 		<zh-CN>长矛兵~长矛兵~长矛兵</zh-CN>
 		<pt-BR>Lanceira~uma Lanceira~Lanceiras~Unidade de Lanceiras</pt-BR>
 		<ko>창병~창병~창병</ko>
+		<fixja>槍兵~槍兵~槍兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MACEMAN</zType>
@@ -261,6 +279,7 @@
 		<zh-CN>锤矛兵~锤矛兵~锤矛兵</zh-CN>
 		<pt-BR>Guerreiro com Maça~um Guerreiro com Maça~Guerreiros com Maça~Unidade de Guerreiros com Maça</pt-BR>
 		<ko>철퇴병~철퇴병~철퇴병</ko>
+		<fixja>棍棒兵~棍棒兵~棍棒兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MACEMAN_F</zType>
@@ -274,6 +293,7 @@
 		<zh-CN>锤矛兵~锤矛兵~锤矛兵</zh-CN>
 		<pt-BR>Guerreira com Maça~uma Guerreira com Maça~Guerreiras com Maça~Unidade de Guerreiras com Maça</pt-BR>
 		<ko>철퇴병~철퇴병~철퇴병</ko>
+		<fixja>棍棒兵~棍棒兵~棍棒兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SWORDSMAN</zType>
@@ -287,6 +307,7 @@
 		<zh-CN>长剑兵~长剑兵~长剑兵</zh-CN>
 		<pt-BR>Espadachim~um Espadachim~Espadachins~Unidade de Espadachins</pt-BR>
 		<ko>검병~검병~검병</ko>
+		<fixja>剣兵~剣兵~剣兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SWORDSMAN_F</zType>
@@ -300,6 +321,7 @@
 		<zh-CN>长剑兵~长剑兵~长剑兵</zh-CN>
 		<pt-BR>Espadachim~uma Espadachim~Espadachins~Unidade de Espadachins</pt-BR>
 		<ko>검병~검병~검병</ko>
+		<fixja>剣兵~剣兵~剣兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_PIKEMAN</zType>
@@ -313,6 +335,7 @@
 		<zh-CN>长枪兵~长枪兵~长枪兵</zh-CN>
 		<pt-BR>Piqueiro~um Piqueiro~Piqueiros~Unidade de Piqueiros</pt-BR>
 		<ko>장창병~장창병~장창병</ko>
+		<fixja>矛兵~矛兵~矛兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_PIKEMAN_F</zType>
@@ -326,6 +349,7 @@
 		<zh-CN>长枪兵~长枪兵~长枪兵</zh-CN>
 		<pt-BR>Piqueira~uma Piqueira~Piqueiras~Unidade de Piqueiras</pt-BR>
 		<ko>장창병~장창병~장창병</ko>
+		<fixja>矛兵~矛兵~矛兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SLINGER</zType>
@@ -339,6 +363,7 @@
 		<zh-CN>投石兵~投石兵~投石兵</zh-CN>
 		<pt-BR>Fundeiro~um Fundeiro~Fundeiros~Unidade de Fundeiros</pt-BR>
 		<ko>투석병~투석병~투석병</ko>
+		<fixja>投石兵~投石兵~投石兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SLINGER_F</zType>
@@ -352,6 +377,7 @@
 		<zh-CN>投石兵~投石兵~投石兵</zh-CN>
 		<pt-BR>Fundeira~uma Fundeira~Fundeiras~Unidade de Fundeiras</pt-BR>
 		<ko>투석병~투석병~투석병</ko>
+		<fixja>投石兵~投石兵~投石兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_ARCHER</zType>
@@ -365,6 +391,7 @@
 		<zh-CN>弓兵~弓兵~弓兵</zh-CN>
 		<pt-BR>Arqueiro~um Arqueiro~Arqueiros~Unidade de Arqueiros</pt-BR>
 		<ko>궁병~궁병~궁병</ko>
+		<fixja>弓兵~弓兵~弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_ARCHER_F</zType>
@@ -378,6 +405,7 @@
 		<zh-CN>弓箭手~弓箭手~弓箭手</zh-CN>
 		<pt-BR>Arqueira~uma Arqueira~Arqueiras~Unidade de Arqueiras</pt-BR>
 		<ko>궁병~궁병~궁병</ko>
+		<fixja>弓兵~弓兵~弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_LONGBOWMAN</zType>
@@ -391,6 +419,7 @@
 		<zh-CN>长弓兵~长弓兵~长弓兵</zh-CN>
 		<pt-BR>Arqueiro de Arco Longo~um Arqueiro de Arco Longo~Arqueiros de Arco Longo~Unidade de Arqueiros de Arco Longo</pt-BR>
 		<ko>장궁병~장궁병~장궁병</ko>
+		<fixja>大弓兵~大弓兵~大弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_LONGBOWMAN_F</zType>
@@ -404,6 +433,7 @@
 		<zh-CN>长弓兵~长弓兵~长弓兵</zh-CN>
 		<pt-BR>Arqueira de Arco Longo~uma Arqueira de Arco Longo~Arqueiras de Arco Longo~Unidade de Arqueiras de Arco Longo</pt-BR>
 		<ko>장궁병~장궁병~장궁병</ko>
+		<fixja>大弓兵~大弓兵~大弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CROSSBOWMAN</zType>
@@ -417,6 +447,7 @@
 		<zh-CN>十字弓兵~十字弓兵~十字弓兵</zh-CN>
 		<pt-BR>Besteiro~um Besteiro~Besteiros~Unidade de Besteiros</pt-BR>
 		<ko>석궁병~석궁병~석궁병</ko>
+		<fixja>石弓兵~石弓兵~石弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CROSSBOWMAN_F</zType>
@@ -430,6 +461,7 @@
 		<zh-CN>十字弓兵~十字弓兵~十字弓兵</zh-CN>
 		<pt-BR>Besteira~uma Besteira~Besteiras~Unidade de Besteiras</pt-BR>
 		<ko>석궁병~석궁병~석궁병</ko>
+		<fixja>石弓兵~石弓兵~石弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CHARIOT</zType>
@@ -443,6 +475,7 @@
 		<zh-CN>双轮战车~双轮战车~双轮战车</zh-CN>
 		<pt-BR>Biga~uma Biga~Bigas~Unidade de Bigas</pt-BR>
 		<ko>전차병~전차병~전차병</ko>
+		<fixja>戦車~戦車~戦車</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HORSEMAN</zType>
@@ -456,6 +489,7 @@
 		<zh-CN>骑兵~骑兵~骑兵</zh-CN>
 		<pt-BR>Cavaleiro~um Cavaleiro~Cavaleiros~Unidade de Cavaleiros</pt-BR>
 		<ko>기마병~기마병~기마병</ko>
+		<fixja>騎馬兵~騎馬兵~騎馬兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HORSEMAN_F</zType>
@@ -469,6 +503,7 @@
 		<zh-CN>骑兵~骑兵~骑兵</zh-CN>
 		<pt-BR>Amazona~uma Amazona~Amazonas~Unidade de Amazonas</pt-BR>
 		<ko>기마병~기마병~기마병</ko>
+		<fixja>騎馬兵~騎馬兵~騎馬兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CATAPHRACT</zType>
@@ -482,6 +517,7 @@
 		<zh-CN>重甲骑兵~重甲骑兵~重甲骑兵</zh-CN>
 		<pt-BR>Catafractário~um Catafractário~Catafractários~Unidade de Catafractários</pt-BR>
 		<ko>철갑기병~철갑기병~철갑기병</ko>
+		<fixja>重装騎兵~重装騎兵~重装騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HORSE_ARCHER</zType>
@@ -495,6 +531,7 @@
 		<zh-CN>弓骑兵~弓骑兵~弓骑兵</zh-CN>
 		<pt-BR>Arqueiro a Cavalo~um Arqueiro a Cavalo~Arqueiros a Cavalo~Unidade de Arqueiros a Cavalo</pt-BR>
 		<ko>궁기병~궁기병~궁기병</ko>
+		<fixja>騎馬弓兵~騎馬弓兵~騎馬弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HORSE_ARCHER_F</zType>
@@ -508,6 +545,7 @@
 		<zh-CN>弓骑兵~弓骑兵~弓骑兵</zh-CN>
 		<pt-BR>Arqueira a Cavalo~uma Arqueira a Cavalo~Arqueiras a Cavalo~Unidade de Arqueiras a Cavalo</pt-BR>
 		<ko>궁기병~궁기병~궁기병</ko>
+		<fixja>騎馬弓兵~騎馬弓兵~騎馬弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CAMEL_ARCHER</zType>
@@ -521,6 +559,7 @@
 		<zh-CN>骆驼弓骑兵~骆驼弓骑兵~骆驼弓骑兵</zh-CN>
 		<pt-BR>Arqueiro a Camelo~um Arqueiro a Camelo~Arqueiros a Camelo~Unidade de Arqueiros a Camelo</pt-BR>
 		<ko>낙타 궁병~낙타 궁병~낙타 궁병</ko>
+		<fixja>ラクダ弓兵~ラクダ弓兵~ラクダ弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CAMEL_ARCHER_F</zType>
@@ -534,6 +573,7 @@
 		<zh-CN>骆驼弓骑兵~骆驼弓骑兵~骆驼弓骑兵</zh-CN>
 		<pt-BR>Arqueira a Camelo~uma Arqueira a Camelo~Arqueiras a Camelo~Unidade de Arqueiras a Camelo</pt-BR>
 		<ko>낙타 궁병~낙타 궁병~낙타 궁병</ko>
+		<fixja>ラクダ弓兵~ラクダ弓兵~ラクダ弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WAR_ELEPHANT</zType>
@@ -547,6 +587,7 @@
 		<zh-CN>战象~战象~战象</zh-CN>
 		<pt-BR>Elefante de Guerra~um Elefante de Guerra~Elefantes de Guerra~Unidade de Elefantes de Guerra</pt-BR>
 		<ko>전투 코끼리~전투 코끼리~전투 코끼리</ko>
+		<fixja>戦象~戦象~戦象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_BALLISTA</zType>
@@ -560,6 +601,7 @@
 		<zh-CN>弩炮~弩炮~弩炮</zh-CN>
 		<pt-BR>Balista~uma Balista~Balistas~Unidade de Balistas</pt-BR>
 		<ko>노포~노포~노포</ko>
+		<fixja>バリスタ~バリスタ~バリスタ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_POLYBOLOS</zType>
@@ -573,6 +615,7 @@
 		<zh-CN>连发弩炮~连发弩炮~连发弩炮</zh-CN>
 		<pt-BR>Políbole~uma Políbole~Políboles~Unidade de Políboles</pt-BR>
 		<ko>연발 노포~연발 노포~연발 노포</ko>
+		<fixja>ポリボロス~ポリボロス~ポリボロス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_ONAGER</zType>
@@ -586,6 +629,7 @@
 		<zh-CN>投石器~投石器~投石器</zh-CN>
 		<pt-BR>Onagro~um Onagro~Onagros~Unidade de Onagros</pt-BR>
 		<ko>투석기~투석기~투석기</ko>
+		<fixja>オナガー~オナガー~オナガー</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MANGONEL</zType>
@@ -599,6 +643,7 @@
 		<zh-CN>重型投石车~重型投石车~重型投石车</zh-CN>
 		<pt-BR>Manganela~uma Manganela~Manganelas~Unidade de Manganelas</pt-BR>
 		<ko>대형 투석기~대형 투석기~대형 투석기</ko>
+		<fixja>マンゴネル~マンゴネル~マンゴネル</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_BIREME</zType>
@@ -612,6 +657,7 @@
 		<zh-CN>双层桨座战船~双层桨座战船~双层桨座战船</zh-CN>
 		<pt-BR>Birreme~uma Birreme~Birremes~Unidade de Birremes</pt-BR>
 		<ko>이단 갤리선~이단 갤리선~이단 갤리선</ko>
+		<fixja>バイレム~バイレム~バイレム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_TRIREME</zType>
@@ -625,6 +671,7 @@
 		<zh-CN>三列桨座战船~三列桨座战船~三列桨座战船</zh-CN>
 		<pt-BR>Trirreme~uma Trirreme~Trirremes~Unidade de Trirremes</pt-BR>
 		<ko>삼단 갤리선~삼단 갤리선~삼단 갤리선</ko>
+		<fixja>トリレム~トリレム~トリレム</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_DROMON</zType>
@@ -638,6 +685,7 @@
 		<zh-CN>高速大帆船~高速大帆船~高速大帆船</zh-CN>
 		<pt-BR>Drómon~um Drómon~Drómons~Unidade de Drómons</pt-BR>
 		<ko>종범선~종범선~종범선</ko>
+		<fixja>デュロモイ~デュロモイ~デュロモイ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_BATTERING_RAM</zType>
@@ -651,6 +699,7 @@
 		<zh-CN>攻城槌~攻城槌~攻城槌</zh-CN>
 		<pt-BR>Aríete~um Aríete~Aríetes~Unidade de Aríetes</pt-BR>
 		<ko>공성추~공성추~공성추</ko>
+		<fixja>破城槌~破城槌~破城槌</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SIEGE_TOWER</zType>
@@ -664,6 +713,7 @@
 		<zh-CN>攻城塔~攻城塔~攻城塔</zh-CN>
 		<pt-BR>Torre de Cerco~uma Torre de Cerco~Torres de Cerco~Unidade de Torres de Cerco</pt-BR>
 		<ko>공성탑~공성탑~공성탑</ko>
+		<fixja>攻囲塔~攻囲塔~攻囲塔</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AKKADIAN_ARCHER</zType>
@@ -677,6 +727,7 @@
 		<zh-CN>阿卡德人弓兵~阿卡德人弓兵~阿卡德人弓兵</zh-CN>
 		<pt-BR>Arqueiro Acádio~um Arqueiro Acádio~Arqueiros Acádios~Unidade de Arqueiros Acádio</pt-BR>
 		<ko>아카드족 궁병~아카드족 궁병~아카드족 궁병</ko>
+		<fixja>アッカド弓兵~アッカド弓兵~アッカド弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CIMMERIAN_ARCHER</zType>
@@ -690,6 +741,7 @@
 		<zh-CN>西米里族弓兵~西米里族弓兵~西米里族弓兵</zh-CN>
 		<pt-BR>Arqueiro Cimério~um Arqueiro Cimério~Arqueiros Cimérios~Unidade de Arqueiros Cimério</pt-BR>
 		<ko>킴메르족 궁병~킴메르족 궁병~킴메르족 궁병</ko>
+		<fixja>キムメリオス弓兵~キムメリオス弓兵~キムメリオス弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AFRICAN_ELEPHANT</zType>
@@ -703,6 +755,7 @@
 		<zh-CN>非洲象~非洲象~非洲象</zh-CN>
 		<pt-BR>Elefante Africano~um Elefante Africano~Elefantes Africanos~Unidade de Elefantes Africanos</pt-BR>
 		<ko>아프리카코끼리~아프리카코끼리~아프리카코끼리</ko>
+		<fixja>アフリカ象~アフリカ象~アフリカ象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_TURRETED_ELEPHANT</zType>
@@ -716,6 +769,7 @@
 		<zh-CN>炮塔大象~炮塔大象~炮塔大象</zh-CN>
 		<pt-BR>Elefante com Torre~um Elefante com Torre~Elefantes com Torre~Unidade de Elefantes com Torre</pt-BR>
 		<ko>망루 코끼리~망루 코끼리~망루 코끼리</ko>
+		<fixja>やぐら象~やぐら象~やぐら象</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_LIGHT_CHARIOT</zType>
@@ -729,6 +783,7 @@
 		<zh-CN>轻战车~轻战车~轻战车</zh-CN>
 		<pt-BR>Biga Leve~uma Biga Leve~Bigas Leves~Unidade de Bigas Leves</pt-BR>
 		<ko>경전차병~경전차병~경전차병</ko>
+		<fixja>軽戦車~軽戦車~軽戦車</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MOUNTED_LANCER</zType>
@@ -742,6 +797,7 @@
 		<zh-CN>长矛骑兵~长矛骑兵~长矛骑兵</zh-CN>
 		<pt-BR>Lanceiro Montado~um Lanceiro Montado~Lanceiros Montados~Unidade de Lanceiros Montados</pt-BR>
 		<ko>창기병~창기병~창기병</ko>
+		<fixja>クシュ騎兵~クシュ騎兵~クシュ騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HOPLITE</zType>
@@ -755,6 +811,7 @@
 		<zh-CN>重装步兵~重装步兵~重装步兵</zh-CN>
 		<pt-BR>Hoplita~um Hoplita~Hoplitas~Unidade de Hoplitas</pt-BR>
 		<ko>장갑 보병~장갑 보병~장갑 보병</ko>
+		<fixja>ホプリテス~ホプリテス~ホプリテス</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_PHALANGITE</zType>
@@ -768,6 +825,7 @@
 		<zh-CN>方阵步兵~方阵步兵~方阵步兵</zh-CN>
 		<pt-BR>Falangista~um Falangista~Falangistas~Unidade de Falangistas</pt-BR>
 		<ko>장창 보병대~장창 보병대~장창 보병대</ko>
+		<fixja>ファランクス兵~ファランクス兵~ファランクス兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_PALTON_CAVALRY</zType>
@@ -781,6 +839,7 @@
 		<zh-CN>巴顿骑兵~巴顿骑兵~巴顿骑兵</zh-CN>
 		<pt-BR>Cavalaria com Dardos~uma Cavalaria com Dardos~Cavalarias com Dardos~Unidade de Cavalarias com Dardos</pt-BR>
 		<ko>팔톤 기병~팔톤 기병~팔톤 기병</ko>
+		<fixja>パルトン騎兵~パルトン騎兵~パルトン騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CATAPHRACT_ARCHER</zType>
@@ -794,6 +853,7 @@
 		<zh-CN>重甲骑兵弓箭手~重甲骑兵弓箭手~重甲骑兵弓箭手</zh-CN>
 		<pt-BR>Arqueiro Catafractário~um Arqueiro Catafractário~Arqueiros Catafractários~Unidade de Arqueiros Catafractários</pt-BR>
 		<ko>철갑 궁기병~철갑 궁기병~철갑 궁기병</ko>
+		<fixja>カタフラクト弓兵~カタフラクト弓兵~カタフラクト弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HASTATUS</zType>
@@ -807,6 +867,7 @@
 		<zh-CN>青年兵~青年兵~青年兵</zh-CN>
 		<pt-BR>Hastato~um Hastato~Hastatos~Unidade de Hastatos</pt-BR>
 		<ko>하스타티~하스타티~하스타티</ko>
+		<fixja>ハスタティ~ハスタティ~ハスタティ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_LEGIONARY</zType>
@@ -820,6 +881,7 @@
 		<zh-CN>军团士兵~军团士兵~军团士兵</zh-CN>
 		<pt-BR>Legionário~um Legionário~Legionários~Unidade de Legionários</pt-BR>
 		<ko>군단병~군단병~군단병</ko>
+		<fixja>レギオン~レギオン~レギオン</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MARAUDER_1</zType>
@@ -833,6 +895,7 @@
 		<zh-CN>掠夺者~掠夺者~掠夺者</zh-CN>
 		<pt-BR>Salteador~um Salteador~Salteadores~Unidade de Salteadores</pt-BR>
 		<ko>약탈자~약탈자~약탈자</ko>
+		<fixja>略奪兵~略奪兵~略奪兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SKIRMISHER_1</zType>
@@ -846,6 +909,7 @@
 		<zh-CN>散兵~散兵~散兵</zh-CN>
 		<pt-BR>Escaramuçador~um Escaramuçador~Escaramuçadores~Unidade de Escaramuçadores</pt-BR>
 		<ko>척후병~척후병~척후병</ko>
+		<fixja>散兵~散兵~散兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_MARAUDER_1</zType>
@@ -859,6 +923,7 @@
 		<zh-CN>游牧掠夺者~游牧掠夺者~游牧掠夺者</zh-CN>
 		<pt-BR>Saqueador Nômade~um Saqueador Nômade~Saqueadores Nômades~Unidade de Saqueadores Nômades</pt-BR>
 		<ko>유목 약탈자~유목 약탈자~유목 약탈자</ko>
+		<fixja>遊牧民略奪兵~遊牧民略奪兵~遊牧民略奪兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_1</zType>
@@ -872,6 +937,7 @@
 		<zh-CN>游牧散兵~游牧散兵~游牧散兵</zh-CN>
 		<pt-BR>Escaramuçador Nômade~um Escaramuçador Nômade~Escaramuçadores Nômades~Unidade de Escaramuçadores Nômades</pt-BR>
 		<ko>유목 척후병~유목 척후병~유목 척후병</ko>
+		<fixja>遊牧民散兵~遊牧民散兵~遊牧民散兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MARAUDER_2</zType>
@@ -885,6 +951,7 @@
 		<zh-CN>精锐掠夺者~精锐掠夺者~精锐掠夺者</zh-CN>
 		<pt-BR>Saqueador de Elite~um Saqueador de Elite~Saqueadores de Elite~Unidade de Saqueadores de Elite</pt-BR>
 		<ko>정예 약탈자~정예 약탈자~정예 약탈자</ko>
+		<fixja>エリート略奪兵~エリート略奪兵~エリート略奪兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SKIRMISHER_2</zType>
@@ -898,6 +965,7 @@
 		<zh-CN>精锐散兵~精锐散兵~精锐散兵</zh-CN>
 		<pt-BR>Escaramuçador de Elite~um Escaramuçador de Elite~Escaramuçadores de Elite~Unidade de Escaramuçadores de Elite</pt-BR>
 		<ko>정예 척후병~정예 척후병~정예 척후병</ko>
+		<fixja>エリート散兵~エリート散兵~エリート散兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_MARAUDER_2</zType>
@@ -911,6 +979,7 @@
 		<zh-CN>精锐游牧掠夺者~精锐游牧掠夺者~精锐游牧掠夺者</zh-CN>
 		<pt-BR>Saqueador Nômade de Elite~um Saqueador Nômade de Elite~Saqueadores Nômades de Elite~Unidade de Saqueadores Nômades de Elite</pt-BR>
 		<ko>정예 유목 약탈자~정예 유목 약탈자~정예 유목 약탈자</ko>
+		<fixja>エリート遊牧民略奪兵~エリート遊牧民略奪兵~エリート遊牧民略奪兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_2</zType>
@@ -924,6 +993,7 @@
 		<zh-CN>精锐游牧散兵~精锐游牧散兵~精锐游牧散兵</zh-CN>
 		<pt-BR>Escaramuçador Nômade de Elite~um Escaramuçador Nômade de Elite~Escaramuçadores Nômades de Elite~Unidade de Escaramuçadores Nômades de Elite</pt-BR>
 		<ko>정예 유목 척후병~정예 유목 척후병~정예 유목 척후병</ko>
+		<fixja>エリート遊牧民散兵~エリート遊牧民散兵~エリート遊牧民散兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARLORD_1</zType>
@@ -937,6 +1007,7 @@
 		<zh-CN>军阀~军阀~军阀</zh-CN>
 		<pt-BR>Chefe Militar~um Chefe Militar~Chefes Militares~Unidade de Chefes Militares</pt-BR>
 		<ko>장수~장수~장수</ko>
+		<fixja>将軍~将軍~将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARLORD_1_F</zType>
@@ -950,6 +1021,7 @@
 		<zh-CN>军阀~军阀~军阀</zh-CN>
 		<pt-BR>Chefe Militar~uma Chefe Militar~Chefes Militares~Unidade de Chefes Militares</pt-BR>
 		<ko>장수~장수~장수</ko>
+		<fixja>将軍~将軍~将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_JAVELINEER_1</zType>
@@ -963,6 +1035,7 @@
 		<zh-CN>标枪兵~标枪兵~标枪兵</zh-CN>
 		<pt-BR>Lançador de Dardos~um Lançador de Dardos~Lançadores de Dardos~Unidade de Lançadores de Dardos</pt-BR>
 		<ko>투창병~투창병~투창병</ko>
+		<fixja>ジャベリン兵~ジャベリン兵~ジャベリン兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_WARLORD_1</zType>
@@ -976,6 +1049,7 @@
 		<zh-CN>游牧军阀~游牧军阀~游牧军阀</zh-CN>
 		<pt-BR>Chefe Militar Nômade~um Chefe Militar Nômade~Chefes Militares Nômades~Unidade de Chefes Militares Nômades</pt-BR>
 		<ko>유목 장수~유목 장수~유목 장수</ko>
+		<fixja>遊牧民将軍~遊牧民将軍~遊牧民将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_WARLORD_1_F</zType>
@@ -989,6 +1063,7 @@
 		<zh-CN>游牧军阀~游牧军阀~游牧军阀</zh-CN>
 		<pt-BR>Chefe Militar Nômade~uma Chefe Militar Nômade~Chefes Militares Nômades~Unidade de Chefes Militares Nômades</pt-BR>
 		<ko>유목 장수~유목 장수~유목 장수</ko>
+		<fixja>遊牧民将軍~遊牧民将軍~遊牧民将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_GAESATA_1</zType>
@@ -1002,6 +1077,7 @@
 		<zh-CN>盖萨塔雇佣兵~盖萨塔雇佣兵~盖萨塔雇佣兵</zh-CN>
 		<pt-BR>Geseta~um Geseta~Gesetas~Unidade de Gesetas</pt-BR>
 		<ko>가이사타이~가이사타이~가이사타이</ko>
+		<fixja>ガエサタエ~ガエサタエ~ガエサタエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HUSCARL_1</zType>
@@ -1015,6 +1091,7 @@
 		<zh-CN>亲卫队~亲卫队~亲卫队</zh-CN>
 		<pt-BR>Huscarl~um Huscarl~Huscarl~Unidade de Huscarl</pt-BR>
 		<ko>후스카를~후스카를~후스카를</ko>
+		<fixja>ハスカール~ハスカール~ハスカール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CLUBTHROWER_1</zType>
@@ -1028,6 +1105,7 @@
 		<zh-CN>棍棒投掷手~棍棒投掷手~棍棒投掷手</zh-CN>
 		<pt-BR>Lançador de Bastão~um Lançador de Bastão~Lançadores de Bastão~Unidade de Lançadores de Bastão</pt-BR>
 		<ko>곤봉 투척병~곤봉 투척병~곤봉 투척병</ko>
+		<fixja>投棍兵~投棍兵~投棍兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_PELTAST_1</zType>
@@ -1041,6 +1119,7 @@
 		<zh-CN>轻盾兵~轻盾兵~轻盾兵</zh-CN>
 		<pt-BR>Peltasta~um Peltasta~Peltastas~Unidade de Peltastas</pt-BR>
 		<ko>펠타스트~펠타스트~펠타스트</ko>
+		<fixja>ペルタスト~ペルタスト~ペルタスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AMAZON_CAVALRY_1</zType>
@@ -1054,6 +1133,7 @@
 		<zh-CN>亚马逊骑兵~亚马逊骑兵~亚马逊骑兵</zh-CN>
 		<pt-BR>Cavalaria Amazona~uma Cavalaria Amazona~Cavalarias Amazonas~Unidade de Cavalarias Amazonas</pt-BR>
 		<ko>아마존 기병~아마존 기병~아마존 기병</ko>
+		<fixja>アマゾン騎兵~アマゾン騎兵~アマゾン騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_LIBYAN_CAVALRY_1</zType>
@@ -1067,6 +1147,7 @@
 		<zh-CN>利比亚骑兵~利比亚骑兵~利比亚骑兵</zh-CN>
 		<pt-BR>Cavalaria Líbia~uma Cavalaria Líbia~Cavalarias Líbias~Unidade de Cavalarias Líbias</pt-BR>
 		<ko>리비아 기병~리비아 기병~리비아 기병</ko>
+		<fixja>リビア騎兵~リビア騎兵~リビア騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARLORD_2</zType>
@@ -1080,6 +1161,7 @@
 		<zh-CN>精锐军阀~精锐军阀~精锐军阀</zh-CN>
 		<pt-BR>Chefe Militar de Elite~um Chefe Militar de Elite~Chefes Militares de Elite~Unidade de Chefes Militares de Elite</pt-BR>
 		<ko>정예 장수~정예 장수~정예 장수</ko>
+		<fixja>エリート将軍~エリート将軍~エリート将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARLORD_2_F</zType>
@@ -1093,6 +1175,7 @@
 		<zh-CN>精锐军阀~精锐军阀~精锐军阀</zh-CN>
 		<pt-BR>Chefe Militar de Elite~uma Chefe Militar de Elite~Chefes Militares de Elite~Unidade de Chefes Militares de Elite</pt-BR>
 		<ko>정예 장수~정예 장수~정예 장수</ko>
+		<fixja>エリート将軍~エリート将軍~エリート将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_JAVELINEER_2</zType>
@@ -1106,6 +1189,7 @@
 		<zh-CN>精锐标枪兵~精锐标枪兵~精锐标枪兵</zh-CN>
 		<pt-BR>Lançador de Dardos de Elite~um Lançador de Dardos de Elite~Lançadores de Dardos de Elite~Unidade de Lançadores de Dardos de Elite</pt-BR>
 		<ko>정예 투창병~정예 투창병~정예 투창병</ko>
+		<fixja>エリートジャベリン兵~エリートジャベリン兵~エリートジャベリン兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_WARLORD_2</zType>
@@ -1119,6 +1203,7 @@
 		<zh-CN>精锐游牧军阀~精锐游牧军阀~精锐游牧军阀</zh-CN>
 		<pt-BR>Chefe Militar Nômade de Elite~um Chefe Militar Nômade de Elite~Chefes Militares Nômades de Elite~Unidade de Chefes Militares Nômades de Elite</pt-BR>
 		<ko>정예 유목 장수~정예 유목 장수~정예 유목 장수</ko>
+		<fixja>エリート遊牧民将軍~エリート遊牧民将軍~エリート遊牧民将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_WARLORD_2_F</zType>
@@ -1132,6 +1217,7 @@
 		<zh-CN>精锐游牧军阀~精锐游牧军阀~精锐游牧军阀</zh-CN>
 		<pt-BR>Chefe Militar Nômade de Elite~uma Chefe Militar Nômade de Elite~Chefes Militares Nômades de Elite~Unidade de Chefes Militares Nômades de Elite</pt-BR>
 		<ko>정예 유목 장수~정예 유목 장수~정예 유목 장수</ko>
+		<fixja>エリート遊牧民将軍~エリート遊牧民将軍~エリート遊牧民将軍</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_GAESATA_2</zType>
@@ -1145,6 +1231,7 @@
 		<zh-CN>精锐盖萨塔雇佣兵~精锐盖萨塔雇佣兵~精锐盖萨塔雇佣兵</zh-CN>
 		<pt-BR>Geseta de Elite~um Geseta de Elite~Gesetas de Elite~Unidade de Gesetas de Elite</pt-BR>
 		<ko>정예 가이사타이~정예 가이사타이~정예 가이사타이</ko>
+		<fixja>エリート・ガエサタエ~エリート・ガエサタエ~エリート・ガエサタエ</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HUSCARL_2</zType>
@@ -1158,6 +1245,7 @@
 		<zh-CN>精锐亲卫队~精锐亲卫队~精锐亲卫队</zh-CN>
 		<pt-BR>Huscarl de Elite~um Huscarl de Elite~Huscarls de Elite~Unidade de Huscarl de Elite</pt-BR>
 		<ko>정예 후스카를~정예 후스카를~정예 후스카를</ko>
+		<fixja>エリート・ハスカール~エリート・ハスカール~エリート・ハスカール</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_CLUBTHROWER_2</zType>
@@ -1171,6 +1259,7 @@
 		<zh-CN>精锐棍棒投掷手~精锐棍棒投掷手~精锐棍棒投掷手</zh-CN>
 		<pt-BR>Lançador de Bastão de Elite~um Lançador de Bastão de Elite~Lançadores de Bastão de Elite~Unidade de Lançadores de Bastão de Elite</pt-BR>
 		<ko>정예 곤봉 투척병~정예 곤봉 투척병~정예 곤봉 투척병</ko>
+		<fixja>エリート投棍兵~エリート投棍兵~エリート投棍兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_PELTAST_2</zType>
@@ -1184,6 +1273,7 @@
 		<zh-CN>精锐轻盾兵~精锐轻盾兵~精锐轻盾兵</zh-CN>
 		<pt-BR>Peltasta de Elite~um Peltasta de Elite~Peltastas de Elite~Unidade de Peltastas de Elite</pt-BR>
 		<ko>정예 펠타스트~정예 펠타스트~정예 펠타스트</ko>
+		<fixja>エリート・ペルタスト~エリート・ペルタスト~エリート・ペルタスト</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AMAZON_CAVALRY_2</zType>
@@ -1197,6 +1287,7 @@
 		<zh-CN>精锐亚马逊骑兵~精锐亚马逊骑兵~精锐亚马逊骑兵</zh-CN>
 		<pt-BR>Cavalaria Amazona de Elite~uma Cavalaria Amazona de Elite~Cavalarias Amazonas de Elite~Unidade de Cavalarias Amazonas de Elite</pt-BR>
 		<ko>정예 아마존 기병~정예 아마존 기병~정예 아마존 기병</ko>
+		<fixja>エリートアマゾン騎兵~エリートアマゾン騎兵~エリートアマゾン騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_LIBYAN_CAVALRY_2</zType>
@@ -1210,6 +1301,7 @@
 		<zh-CN>精锐利比亚骑兵~精锐利比亚骑兵~精锐利比亚骑兵</zh-CN>
 		<pt-BR>Cavalaria Líbia de Elite~uma Cavalaria Líbia de Elite~Cavalarias Líbias de Elite~Unidade de Cavalarias Líbias de Elite</pt-BR>
 		<ko>정예 리비아 기병~정예 리비아 기병~정예 리비아 기병</ko>
+		<fixja>エリートリビア騎兵~エリートリビア騎兵~エリートリビア騎兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MEDJAY_ARCHER</zType>
@@ -1223,6 +1315,7 @@
 		<zh-CN>守护者弓兵~守护者弓兵~守护者弓兵</zh-CN>
 		<pt-BR>Arqueiro Medjay~um Arqueiro Medjay~Arqueiros Medjay~Unidade de Arqueiros Medjay</pt-BR>
 		<ko>메자이 궁병~메자이 궁병~메자이 궁병</ko>
+		<fixja>メジャイの弓兵~メジャイの弓兵~メジャイの弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_BEJA_ARCHER</zType>
@@ -1236,6 +1329,7 @@
 		<zh-CN>贝沙弓兵~贝沙弓兵~贝沙弓兵</zh-CN>
 		<pt-BR>Arqueiro Beja~um Arqueiro Beja~Arqueiros Bejas~Unidade de Arqueiros Bejas</pt-BR>
 		<ko>베자 궁병~베자 궁병~베자 궁병</ko>
+		<fixja>ベジャの弓兵~ベジャの弓兵~ベジャの弓兵</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_DMT_WARRIOR</zType>
@@ -1249,6 +1343,7 @@
 		<zh-CN>陆军战士~陆军战士~陆军战士</zh-CN>
 		<pt-BR>Guerreiro D'mt~um Guerreiro D'mt~Guerreiros D'mt~Unidade de Guerreiros D'mt</pt-BR>
 		<ko>다못 전사~다못 전사~다못 전사</ko>
+		<fixja>ダモト戦士~ダモト戦士~ダモト戦士</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SHOTELAI</zType>
@@ -1262,5 +1357,6 @@
 		<zh-CN>弯刀手~弯刀手~弯刀手</zh-CN>
 		<pt-BR>Shotelai~um Shotelai~Shotelais~Unidade de Shotelais</pt-BR>
 		<ko>쇼텔라이~쇼텔라이~쇼텔라이</ko>
+		<fixja>ショテル兵~ショテル兵~ショテル兵</fixja>
 	</Entry>
 </Root>
