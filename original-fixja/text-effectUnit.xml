@@ -1230,13 +1230,13 @@
 		<zType>TEXT_EFFECTUNIT_DISARMED</zType>
 		<en-US>Disarmed</en-US>
 		<ja>武装解除された</ja>
-		<fixja>武装解除された</fixja>
+		<fixja>武装解除</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_DISARMED_F</zType>
 		<en-US>Disarmed</en-US>
 		<ja>武装解除された</ja>
-		<fixja>武装解除された</fixja>
+		<fixja>武装解除</fixja>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIP_FORMATION</zType>
