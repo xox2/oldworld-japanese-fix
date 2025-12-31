@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- Name -->
+	<Entry>
+		<zType>TEXT_MISSION_AMBASSADOR</zType>
+		<en-US>Make link(COUNCIL_AMBASSADOR)</en-US>
+		<ja>link(COUNCIL_AMBASSADOR)に任命する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CHANCELLOR</zType>
+		<en-US>Make link(COUNCIL_CHANCELLOR)</en-US>
+		<ja>link(COUNCIL_CHANCELLOR)に任命する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPYMASTER</zType>
+		<en-US>Make link(COUNCIL_SPYMASTER)</en-US>
+		<ja>link(COUNCIL_SPYMASTER)に任命する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEAVE_COUNCIL</zType>
+		<en-US>Leave Council</en-US>
+		<ja>評議会を離脱</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
+		<en-US>link(CONCEPT_ALLIANCE_PLAYER)</en-US>
+		<ja>link(CONCEPT_ALLIANCE_PLAYER)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_TARGET</zType>
+		<en-US>link(CONCEPT_ALLIANCE_PLAYER) with</en-US>
+		<ja>link(CONCEPT_ALLIANCE_PLAYER)を結ぶ相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TEAM_ALLIANCE_HUMAN</zType>
+		<en-US>link(CONCEPT_ALLIANCE_PLAYER)</en-US>
+		<ja>link(CONCEPT_ALLIANCE_PLAYER)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
+		<en-US>National link(DIPLOMACY_PEACE)</en-US>
+		<ja>国家link(DIPLOMACY_PEACE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_TARGET</zType>
+		<en-US>National link(DIPLOMACY_PEACE) with</en-US>
+		<ja>link(DIPLOMACY_PEACE)外交を行う</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_CHARACTER</zType>
+		<en-US>National link(DIPLOMACY_PEACE) via</en-US>
+		<ja>国家link(DIPLOMACY_PEACE)を行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE</zType>
+		<en-US>Offer Tribute for link(DIPLOMACY_PEACE)</en-US>
+		<ja>link(DIPLOMACY_PEACE)のために貢ぎ物を贈る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE_TARGET</zType>
+		<en-US>Offer Tribute for link(DIPLOMACY_PEACE) with</en-US>
+		<ja>link(DIPLOMACY_PEACE)のために貢ぎ物を贈る相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE</zType>
+		<en-US>Ask for link(DIPLOMACY_PEACE)</en-US>
+		<ja>link(DIPLOMACY_PEACE)を求める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE_TARGET</zType>
+		<en-US>Ask for link(DIPLOMACY_PEACE) with</en-US>
+		<ja>link(DIPLOMACY_PEACE)を求める相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE</zType>
+		<en-US>Demand Tribute for link(DIPLOMACY_PEACE)</en-US>
+		<ja>link(DIPLOMACY_PEACE)のための貢ぎ物を要求する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE_TARGET</zType>
+		<en-US>Demand Tribute for link(DIPLOMACY_PEACE) with</en-US>
+		<ja>link(DIPLOMACY_PEACE)の見返りに貢ぎ物を要求する相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
+		<en-US>National link(DIPLOMACY_TRUCE)</en-US>
+		<ja>国家link(DIPLOMACY_TRUCE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_TARGET</zType>
+		<en-US>National link(DIPLOMACY_TRUCE) with</en-US>
+		<ja>国家link(DIPLOMACY_TRUCE)する相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_CHARACTER</zType>
+		<en-US>National link(DIPLOMACY_TRUCE) via</en-US>
+		<ja>国家link(DIPLOMACY_TRUCE)を取りつける人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE</zType>
+		<en-US>Offer Tribute for link(DIPLOMACY_TRUCE)</en-US>
+		<ja>link(DIPLOMACY_TRUCE)のために貢ぎ物を贈る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE_TARGET</zType>
+		<en-US>Offer Tribute for link(DIPLOMACY_TRUCE) with</en-US>
+		<ja>link(DIPLOMACY_TRUCE)のために貢ぎ物を贈る相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE</zType>
+		<en-US>Ask for link(DIPLOMACY_TRUCE)</en-US>
+		<ja>link(DIPLOMACY_TRUCE)を求める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE_TARGET</zType>
+		<en-US>Ask for link(DIPLOMACY_TRUCE) with</en-US>
+		<ja>link(DIPLOMACY_TRUCE)を求める相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE</zType>
+		<en-US>Demand Tribute for link(DIPLOMACY_TRUCE)</en-US>
+		<ja>link(DIPLOMACY_TRUCE)のための貢ぎ物を要求する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE_TARGET</zType>
+		<en-US>Demand Tribute for link(DIPLOMACY_TRUCE) with</en-US>
+		<ja>link(DIPLOMACY_TRUCE)の見返りとして貢ぎ物を要求する相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_HUMAN</zType>
+		<en-US>National link(DIPLOMACY_TRUCE)</en-US>
+		<ja>国家link(DIPLOMACY_TRUCE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
+		<en-US>Declare link(DIPLOMACY_WAR)</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
+		<en-US>Break link(DIPLOMACY_PEACE)</en-US>
+		<ja>link(DIPLOMACY_PEACE)の解消</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
+		<en-US>End Alliance</en-US>
+		<ja>同盟の破棄</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
+		<en-US>Cancel All Trade</en-US>
+		<ja>すべての交易の中止</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_ALLIANCE</zType>
+		<en-US>Tribal Alliance</en-US>
+		<ja>部族同盟</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_ALLIANCE_TARGET</zType>
+		<en-US>Tribal Alliance with</en-US>
+		<ja>部族同盟を結ぶ相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_ALLIANCE_CHARACTER</zType>
+		<en-US>Tribal Alliance via</en-US>
+		<ja>部族同盟を取りつける人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_PEACE</zType>
+		<en-US>Tribal link(DIPLOMACY_PEACE)</en-US>
+		<ja>部族link(DIPLOMACY_PEACE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_PEACE_TARGET</zType>
+		<en-US>Tribal link(DIPLOMACY_PEACE) with</en-US>
+		<ja>部族link(DIPLOMACY_PEACE)を取り付ける相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_PEACE_CHARACTER</zType>
+		<en-US>Tribal link(DIPLOMACY_PEACE) via</en-US>
+		<ja>部族link(DIPLOMACY_PEACE)を取り付ける人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_TRUCE</zType>
+		<en-US>Tribal link(DIPLOMACY_TRUCE)</en-US>
+		<ja>部族link(DIPLOMACY_TRUCE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_TRUCE_TARGET</zType>
+		<en-US>Tribal link(DIPLOMACY_TRUCE) with</en-US>
+		<ja>部族link(DIPLOMACY_TRUCE)する相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_TRUCE_CHARACTER</zType>
+		<en-US>Tribal link(DIPLOMACY_TRUCE) via</en-US>
+		<ja>部族link(DIPLOMACY_TRUCE)を取りつける人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_DECLARE_WAR</zType>
+		<en-US>Declare link(DIPLOMACY_WAR)</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_BREAK_PEACE</zType>
+		<en-US>Break link(DIPLOMACY_PEACE)</en-US>
+		<ja>link(DIPLOMACY_PEACE)の解消</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_END_ALLIANCE</zType>
+		<en-US>End Alliance</en-US>
+		<ja>同盟の破棄</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_RELIGION</zType>
+		<en-US>Adopt link(CONCEPT_STATE_RELIGION)</en-US>
+		<ja>link(CONCEPT_STATE_RELIGION)を採用する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEAVE_RELIGION</zType>
+		<en-US>Leave link(CONCEPT_STATE_RELIGION)</en-US>
+		<ja>link(CONCEPT_STATE_RELIGION)から離脱する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SEND_COURTIER</zType>
+		<en-US>Send link(CONCEPT_COURTIER)</en-US>
+		<ja>link(CONCEPT_COURTIER)を遣わす</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SEND_COURTIER_TARGET</zType>
+		<en-US>Send link(CONCEPT_COURTIER) to</en-US>
+		<ja>link(CONCEPT_COURTIER)を遣わす先：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONCLASS_MARRIAGE</zType>
+		<en-US>Marriage</en-US>
+		<ja>結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_MARRIAGE</zType>
+		<en-US>Foreign Marriage</en-US>
+		<ja>外国との結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_MARRIAGE</zType>
+		<en-US>Tribal Marriage</en-US>
+		<ja>部族との結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
+		<en-US>Family Marriage</en-US>
+		<ja>氏族間結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
+		<en-US>Marry Courtier</en-US>
+		<ja>廷臣との結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER_TARGET</zType>
+		<en-US>Marry</en-US>
+		<ja>結婚相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER_CHARACTER</zType>
+		<en-US>Marry</en-US>
+		<ja>結婚相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RALLY_TROOPS</zType>
+		<en-US>Rally Troops</en-US>
+		<ja>部隊を結集</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RALLY_TROOPS_DESCRIPTION</zType>
+		<en-US>Inspire the troops to gain link(YIELD_TRAINING)</en-US>
+		<ja>兵士たちを奮い立たせて、link(YIELD_TRAINING)を積ませる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HOLD_COURT</zType>
+		<en-US>Hold Court</en-US>
+		<ja>開廷</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HOLD_COURT_DESCRIPTION</zType>
+		<en-US>Pass judgment to gain link(YIELD_CIVICS)</en-US>
+		<ja>link(YIELD_CIVICS)獲得のための判断を下す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ABDICATE</zType>
+		<en-US>Abdicate Throne</en-US>
+		<ja>王位の退位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFLUENCE</zType>
+		<en-US>Influence</en-US>
+		<ja>影響力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFLUENCE_CHARACTER</zType>
+		<en-US>Influence via</en-US>
+		<ja>影響力を振るう人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CONVERT_SELF</zType>
+		<en-US>Convert Religion</en-US>
+		<ja>改宗</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CONVERT_SELF_TARGET</zType>
+		<en-US>Convert to</en-US>
+		<ja>改宗する宗教：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CONVERT_STATE</zType>
+		<en-US>Convert to link(CONCEPT_STATE_RELIGION)</en-US>
+		<ja>link(CONCEPT_STATE_RELIGION)に改宗する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CONVERT_RELIGION</zType>
+		<en-US>Convert link(CONCEPT_RELIGION)</en-US>
+		<ja>link(CONCEPT_RELIGION)改宗</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CONVERT_RELIGION_CHARACTER</zType>
+		<en-US>Convert link(CONCEPT_RELIGION) via</en-US>
+		<ja>link(CONCEPT_RELIGION)の改宗を司る人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INTERCESSION</zType>
+		<en-US>Intercession</en-US>
+		<ja>仲裁</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INTERCESSION_RELIGION</zType>
+		<en-US>Intercession (Religion)</en-US>
+		<ja>仲裁（宗教）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INTERCESSION_FAMILY</zType>
+		<en-US>Intercession (Family)</en-US>
+		<ja>仲裁（氏族）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INTERCESSION_CHARACTER</zType>
+		<en-US>Intercession via</en-US>
+		<ja>仲裁を行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT</zType>
+		<en-US>Adopt Child</en-US>
+		<ja>養子縁組</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEGITIMIZE</zType>
+		<en-US>Legitimize</en-US>
+		<ja>合法化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
+		<en-US>Make Chosen Heir</en-US>
+		<ja>後継者の選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE</zType>
+		<en-US>Infiltrate Nation</en-US>
+		<ja>国家への潜入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_DESCRIPTION</zType>
+		<en-US>Infiltrate a Nation to reveal their territory</en-US>
+		<ja>国家に潜入して、その土地の詳細を探る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_TARGET</zType>
+		<en-US>Infiltrate</en-US>
+		<ja>潜入対象：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_CHARACTER</zType>
+		<en-US>Infiltrate Nation via</en-US>
+		<ja>国家潜入を行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SLANDER</zType>
+		<en-US>Slander Nation</en-US>
+		<ja>国家を誹謗中傷</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SLANDER_DESCRIPTION</zType>
+		<en-US>Slander a Nation to decrease other Nations' link(CONCEPT_OPINION_PLAYER,3) of them</en-US>
+		<ja>対象の国（link(CONCEPT_OPINION_PLAYER,3)）のことを中傷して、他国からの評価を下げる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SLANDER_TARGET</zType>
+		<en-US>Slander</en-US>
+		<ja>誹謗中傷</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SLANDER_CHARACTER</zType>
+		<en-US>Slander Nation via</en-US>
+		<ja>誹謗中傷を行う人物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_STEAL_RESEARCH</zType>
+		<en-US>Steal Research</en-US>
+		<ja>研究盗用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_STEAL_RESEARCH_DESCRIPTION</zType>
+		<en-US>Steal a Nation's research to gain link(YIELD_SCIENCE)</en-US>
+		<ja>他国の研究を盗んで、link(YIELD_SCIENCE)を獲得する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_STEAL_RESEARCH_TARGET</zType>
+		<en-US>Steal Research from</en-US>
+		<ja>研究を盗む対象：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_STEAL_RESEARCH_CHARACTER</zType>
+		<en-US>Steal Research via</en-US>
+		<ja>研究を盗む人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ASSASSINATE</zType>
+		<en-US>Assassinate</en-US>
+		<ja>暗殺</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ASSASSINATE_CHARACTER</zType>
+		<en-US>Assassinate via</en-US>
+		<ja>暗殺を行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_EXPOSE_AGENT</zType>
+		<en-US>Expose link(CONCEPT_AGENT_NETWORK)</en-US>
+		<ja>link(CONCEPT_AGENT)を公開する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_EXPOSE_AGENT_TARGET</zType>
+		<en-US>Expose link(CONCEPT_AGENT_NETWORK) in</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)を公開する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TREACHERY</zType>
+		<en-US>Treachery</en-US>
+		<ja>背信</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TREACHERY_TARGET</zType>
+		<en-US>Treachery in</en-US>
+		<ja>裏切りを行う地：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INSURRECTION</zType>
+		<en-US>Insurrection</en-US>
+		<ja>反乱</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INSURRECTION_TARGET</zType>
+		<en-US>Insurrection in</en-US>
+		<ja>反乱の地：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MOVE_NETWORK</zType>
+		<en-US>Move link(CONCEPT_AGENT_NETWORK)</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)を移転させる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MOVE_NETWORK_TARGET</zType>
+		<en-US>Move link(CONCEPT_AGENT_NETWORK) to</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)の移転先: </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DEMAND_TRIBUTE</zType>
+		<en-US>Demand Tribute</en-US>
+		<ja>貢ぎ物の要求</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DEMAND_TRIBUTE_TARGET</zType>
+		<en-US>Demand Tribute from</en-US>
+		<ja>貢ぎ物を要求する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DEMAND_TRIBUTE_CHARACTER</zType>
+		<en-US>Demand Tribute via</en-US>
+		<ja>貢ぎ物を要求する人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION</zType>
+		<en-US>Trade Mission~a Trade Mission~Trade Missions</en-US>
+		<ja>交易ミッション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION_TARGET</zType>
+		<en-US>Trade Mission with</en-US>
+		<ja>交易ミッション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION_CHARACTER</zType>
+		<en-US>Trade Mission via</en-US>
+		<ja>交易ミッションを行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIGH_SYNOD</zType>
+		<en-US>High Synod</en-US>
+		<ja>高等評議会</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIGH_SYNOD_DESCRIPTION</zType>
+		<en-US>Meet with religious leaders to improve the Religion's link(CONCEPT_OPINION_RELIGION,3)</en-US>
+		<ja>宗教の指導者たちと会うことで、そのlink(CONCEPT_OPINION_RELIGION,3)への評価を高める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIGH_SYNOD_TARGET</zType>
+		<en-US>High Synod with</en-US>
+		<ja>高等評議会を共催する相手：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIGH_SYNOD_CHARACTER</zType>
+		<en-US>High Synod via</en-US>
+		<ja>高等評議会を取り仕切る人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
+		<en-US>Family Gifts</en-US>
+		<ja>氏族への贈り物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT_DESCRIPTION</zType>
+		<en-US>Bribe the Family with gifts to improve their link(CONCEPT_OPINION_FAMILY,3)</en-US>
+		<ja>氏族に贈り物をして、彼らのlink(CONCEPT_OPINION_FAMILY,3)を高める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT_CHARACTER</zType>
+		<en-US>Family Gifts via</en-US>
+		<ja>氏族への贈り物をする人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PACIFY_CITY</zType>
+		<en-US>Pacify City</en-US>
+		<ja>都市鎮圧</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PACIFY_CITY_DESCRIPTION</zType>
+		<en-US>Attempt to increase link(YIELD_HAPPINESS) in a City</en-US>
+		<ja>都市のlink(YIELD_HAPPINESS)上昇を試みる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PACIFY_CITY_TARGET</zType>
+		<en-US>Pacify</en-US>
+		<ja>鎮圧</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PACIFY_CITY_CHARACTER</zType>
+		<en-US>Pacify City via</en-US>
+		<ja>都市鎮圧を行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPRISON</zType>
+		<en-US>Imprison</en-US>
+		<ja>投獄</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPRISON_CHARACTER</zType>
+		<en-US>Imprison via</en-US>
+		<ja>投獄を行う人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RELEASE</zType>
+		<en-US>Release from Prison</en-US>
+		<ja>牢獄から解放</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CAPTURE</zType>
+		<en-US>Capture</en-US>
+		<ja>占拠</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PAY_RANSOM</zType>
+		<en-US>Pay Ransom</en-US>
+		<ja>身代金の支払い</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DIVORCE</zType>
+		<en-US>Divorce Spouse</en-US>
+		<ja>配偶者との離婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DIVORCE_TARGET</zType>
+		<en-US>Divorce</en-US>
+		<ja>離婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR</zType>
+		<en-US>link(CONCEPT_TUTOR) Child</en-US>
+		<ja>子供をlink(CONCEPT_TUTOR)する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_LEADER</zType>
+		<en-US>link(CONCEPT_TUTOR) Child</en-US>
+		<ja>子供のlink(CONCEPT_TUTOR)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_COURTIER</zType>
+		<en-US>link(CONCEPT_TUTOR) Child (as Courtier)</en-US>
+		<ja>子供をlink(CONCEPT_TUTOR)する（廷臣として）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_TARGET</zType>
+		<en-US>link(CONCEPT_TUTOR)</en-US>
+		<ja>link(CONCEPT_TUTOR)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_CHARACTER</zType>
+		<en-US>link(CONCEPT_TUTOR) via</en-US>
+		<ja>link(CONCEPT_TUTOR)する人物：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_PLAYER_WAR</zType>
+		<en-US>Ask to Declare link(DIPLOMACY_WAR)</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告するよう求める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRIBE_PLAYER_WAR_TARGET</zType>
+		<en-US>Ask to Declare link(DIPLOMACY_WAR) on</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告するよう求める対象：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRIBE_WAR</zType>
+		<en-US>Ask to Declare link(DIPLOMACY_WAR)</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告するよう求める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRIBE_WAR_TARGET</zType>
+		<en-US>Ask to Declare link(DIPLOMACY_WAR) on</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告するよう求める対象：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
+		<en-US>Ask to Declare link(DIPLOMACY_WAR)</en-US>
+		<ja>link(DIPLOMACY_WAR)を布告するよう求める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR_TARGET</zType>
+		<en-US>Ask to Declare link(DIPLOMACY_WAR) on</en-US>
+		<ja>link(DIPLOMACY_WAR)への参加を求める：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_JOIN_PLAYER_WAR</zType>
+		<en-US>Ask to Join link(DIPLOMACY_WAR)</en-US>
+		<ja>link(DIPLOMACY_WAR)への参加を求める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_JOIN_PLAYER_WAR_TARGET</zType>
+		<en-US>Ask to Join link(DIPLOMACY_WAR) on</en-US>
+		<ja>link(DIPLOMACY_WAR)への参加を求める：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RECRUIT_SCHOLAR</zType>
+		<en-US>Recruit Scholar</en-US>
+		<ja>学者採用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INTIMIDATE</zType>
+		<en-US>Intimidate</en-US>
+		<ja>脅迫</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INTIMIDATE_CHARACTER</zType>
+		<en-US>Intimidate via</en-US>
+		<ja>脅迫</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEAD_DELEGATION</zType>
+		<en-US>Lead Delegation~Lead a Delegation</en-US>
+		<ja>使節団を指揮~使節団を指揮</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEAD_DELEGATION_CHARACTER</zType>
+		<en-US>Lead Delegation via</en-US>
+		<ja>使節団を指揮</ja>
+	</Entry>
+</Root>

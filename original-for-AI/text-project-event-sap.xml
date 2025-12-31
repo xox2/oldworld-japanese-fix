@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_PROJECT_DISSENT_ZOROASTRIANISM</zType>
+		<en-US>Zoroastrian Dissent</en-US>
+		<ja>ゾロアスター教の反対者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISSENT_JUDAISM</zType>
+		<en-US>Jewish Dissent</en-US>
+		<ja>ユダヤ教反対者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISSENT_CHRISTIANITY</zType>
+		<en-US>Christian Dissent</en-US>
+		<ja>キリスト教反対者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISSENT_MANICHAEISM</zType>
+		<en-US>Manichaean Dissent</en-US>
+		<ja>マニ教反対者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM</zType>
+		<en-US>Suppress link(RELIGION_ZOROASTRIANISM,1) Dissent</en-US>
+		<ja>link(RELIGION_ZOROASTRIANISM,1)反対派を抑圧する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_JUDAISM</zType>
+		<en-US>Suppress link(RELIGION_JUDAISM,1) Dissent</en-US>
+		<ja>link(RELIGION_JUDAISM,1)反対派を抑圧する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_CHRISTIANITY</zType>
+		<en-US>Suppress link(RELIGION_CHRISTIANITY,1) Dissent</en-US>
+		<ja>link(RELIGION_CHRISTIANITY,1)反対派を抑圧する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SUPPRESS_DISSENT_MANICHAEISM</zType>
+		<en-US>Suppress link(RELIGION_MANICHAEISM,1) Dissent</en-US>
+		<ja>link(RELIGION_MANICHAEISM,1)反対派を抑圧する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONASTIC_TRADITIONS</zType>
+		<en-US>Reformed Monastic Traditions</en-US>
+		<ja>改革派修道士の伝統</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DIVINE_STEED</zType>
+		<en-US>Divine-Bred Horses</en-US>
+		<ja>神から授かった馬</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_UNTAXED_TEMPLES</zType>
+		<en-US>Untaxed temples</en-US>
+		<ja>非課税の寺院</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SHRINE_OF_THE_HERO</zType>
+		<en-US>Hero Cult of the Protector Worship</en-US>
+		<ja>守護者の英雄のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
+		<en-US>Cult of the Fallen Goddess Worship</en-US>
+		<ja>堕ちた女神のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CAVALRY_CULT</zType>
+		<en-US>Cavalry Cult Worship</en-US>
+		<ja>騎兵隊のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AMAZON_CULT</zType>
+		<en-US>Amazon Cult Worship</en-US>
+		<ja>女戦士のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MARTYR_CULT</zType>
+		<en-US>Cult of the Martyr Worship</en-US>
+		<ja>殉教者のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DUAL_CULT</zType>
+		<en-US>Cult of the Joined Gods Worship</en-US>
+		<ja>神々の結びつきのカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULT_OF_THE_ANGELIC_DIVINE</zType>
+		<en-US>Cult of the Angelic Divine Worship</en-US>
+		<ja>天使の神性のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ECSTATIC_CULT</zType>
+		<en-US>Ecstatic Cult Worship</en-US>
+		<ja>熱狂的なカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULT_OF_THE_MOTHER</zType>
+		<en-US>Cult of the Mother Worship</en-US>
+		<ja>聖母のカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULT_OF_ISIS_AND_SERAPIS</zType>
+		<en-US>Cult of Isis and Serapis Worship</en-US>
+		<ja>イシスとセラピスのカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULT_OF_MITHRAS</zType>
+		<en-US>Cult of Mithras Worship</en-US>
+		<ja>ミスラのカルトの信仰</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULT_OF_THE_HEALER</zType>
+		<en-US>Cult of the Healer Worship</en-US>
+		<ja>癒術師のカルトの信仰</ja>
+	</Entry>
+</Root>

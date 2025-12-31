@@ -1,0 +1,6932 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_GENERIC_CONFIRM</zType>
+		<en-US>Confirm</en-US>
+		<ja>確認</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_YES</zType>
+		<en-US>Yes</en-US>
+		<ja>はい</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_CANCEL</zType>
+		<en-US>Cancel</en-US>
+		<ja>キャンセル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_OK</zType>
+		<en-US>Ok</en-US>
+		<ja>OK</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_NONE</zType>
+		<en-US>None</en-US>
+		<ja>なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GENERIC_COPY_TO_CLIPBOARD</zType>
+		<en-US>Copy</en-US>
+		<ja>コピー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAILED_LOAD_SAVE</zType>
+		<en-US>Failed to load save. Specified file is either invalid or no longer compatible</en-US>
+		<ja>保存データの読み込みに失敗しました。指定したファイルは無効か、互換性がありません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAILED_LOAD_LOCKED_SAVE</zType>
+		<en-US>Failed to load save. Specified file is either invalid or was started with the "Locked Save" option enabled and the file has subsequently been modified</en-US>
+		<ja>保存データの読み込みに失敗しました。指定されたファイルは無効であるか、「セーブをロック」オプションを有効にした状態で開始したためにファイルが変更されています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REDRAW_TECH</zType>
+		<en-US>Redraw</en-US>
+		<ja>カードを引き直す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TRIBE_TURN</zType>
+		<en-US>{0} Turn</en-US>
+		<ja>{0}ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TRIBAL_TURN</zType>
+		<en-US>Tribal Turn</en-US>
+		<ja>部族のターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YOUR_TURN</zType>
+		<en-US>Your Turn</en-US>
+		<ja>あなたのターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SIMULTANEOUS_TURN</zType>
+		<en-US>Simultaneous</en-US>
+		<ja>同時</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SIMULTANEOUS_TURNS_LEFT</zType>
+		<en-US>Simultaneous ({0} Left)</en-US>
+		<ja>同時（残り{0}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_ENDED</zType>
+		<en-US>Turn Ended</en-US>
+		<ja>ターン終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_THEIR_TURN</zType>
+		<en-US>{0_player}'s Turn{true_1: ({1_orders}{YIELD_ORDERS})}</en-US>
+		<ja>{0_player}のターン{true_1: ({1_orders}{YIELD_ORDERS})}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_HOTSEAT_PLAYER</zType>
+		<en-US>{0} in the hotseat!</en-US>
+		<ja>{0}はホットシートです！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RIVALS_TURN</zType>
+		<en-US>Rival's Turn</en-US>
+		<ja>ライバルのターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YEAR_ENDED</zType>
+		<en-US>{0_turnScale} Ended</en-US>
+		<ja>{0_turnScale}終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_END_YEAR</zType>
+		<en-US>End {0_turnScale}</en-US>
+		<ja>{0_turnScale}を終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_YEAR_ERA_SUFFIX</zType>
+		<en-US> AUC</en-US>
+		<ja> AUC</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_NEXT_UNIT</zType>
+		<en-US>Next Unit</en-US>
+		<ja>次のユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_MOVE_UNIT</zType>
+		<en-US>Move Unit</en-US>
+		<ja>ユニットを移動</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
+		<en-US><![CDATA[Choose Production<br><color=#e3c08c>({0_city})</color>]]></en-US>
+		<ja><![CDATA[生産する<br><color=#e3c08c>({0_city})</color>を選択]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
+		<en-US><![CDATA[Open City<br><color=#e3c08c>({0_city})</color>]]></en-US>
+		<ja><![CDATA[都市<br><color=#e3c08c>({0_city})</color>を開く]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_TURN_SUMMARY</zType>
+		<en-US>TURN SUMMARY</en-US>
+		<ja>ターン概要</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_POPUP_MESSAGE</zType>
+		<en-US>POPUP MESSAGE</en-US>
+		<ja>ポップアップメッセージ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_ACHIEVEMENT</zType>
+		<en-US>ACHIEVEMENT</en-US>
+		<ja>実績</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CHARACTER_SUCCESSION</zType>
+		<en-US>SUCCESSION</en-US>
+		<ja>継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_DO_BONUS</zType>
+		<en-US>BONUS EFFECTS</en-US>
+		<ja>ボーナス効果</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GOAL_STARTED</zType>
+		<en-US>GOAL STARTED</en-US>
+		<ja>目的を開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GOAL_FINISHED</zType>
+		<en-US>GOAL FINISHED</en-US>
+		<ja>目的を完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GOAL_FAILED</zType>
+		<en-US>GOAL FAILED</en-US>
+		<ja>目的を失敗</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_MAKE_LEGACY</zType>
+		<en-US>MAKE LEGACY</en-US>
+		<ja>遺産を作る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_COURTIER</zType>
+		<en-US>NEW COURTIER</en-US>
+		<ja>新しい廷臣</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_RELIGION_FOUNDED</zType>
+		<en-US>RELIGION FOUNDED</en-US>
+		<ja>宗教を設立</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_THEOLOGY_ESTABLISHED</zType>
+		<en-US>THEOLOGY ESTABLISHED</en-US>
+		<ja>神学を創立</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_RELIGION_SPREAD</zType>
+		<en-US>RELIGION SPREAD</en-US>
+		<ja>宗教を広めた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_TRIBE_CONTACT</zType>
+		<en-US>TRIBE CONTACT</en-US>
+		<ja>部族と接触</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_TRIBE_DIPLOMACY</zType>
+		<en-US>TRIBE DIPLOMACY</en-US>
+		<ja>部族と外交</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_TEAM_CONTACT</zType>
+		<en-US>NATIONAL CONTACT</en-US>
+		<ja>国と接触</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_TEAM_DIPLOMACY</zType>
+		<en-US>NATIONAL DIPLOMACY</en-US>
+		<ja>国と外交</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_TECH_DISCOVERED</zType>
+		<en-US>TECHNOLOGY DISCOVERED</en-US>
+		<ja>技術を発見</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_RESOURCE_SHORTFALL</zType>
+		<en-US>RESOURCE SHORTFALL</en-US>
+		<ja>資源不足</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_COVER_DEBT</zType>
+		<en-US>COVER DEBT</en-US>
+		<ja>負債を返済</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GIFT_ORDERS</zType>
+		<en-US>GIFT ORDERS</en-US>
+		<ja>贈り物の命令</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_MAX_ORDERS</zType>
+		<en-US>MAX ORDERS</en-US>
+		<ja>最大命令数</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_MAX_CIVICS</zType>
+		<en-US>MAX CIVICS</en-US>
+		<ja>最大都市力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_MAX_TRAINING</zType>
+		<en-US>MAX TRAINING</en-US>
+		<ja>最大修練度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GENERAL_INJURY</zType>
+		<en-US>GENERAL INJURY</en-US>
+		<ja>将官の怪我</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_ATTACKED</zType>
+		<en-US>UNIT ATTACKED</en-US>
+		<ja>攻撃されたユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_DAMAGED</zType>
+		<en-US>UNIT DAMAGED</en-US>
+		<ja>負傷したユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_KILLED</zType>
+		<en-US>UNIT KILLED</en-US>
+		<ja>倒されたユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_LOST</zType>
+		<en-US>UNIT LOST</en-US>
+		<ja>ユニットを喪失</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_CAPTURED</zType>
+		<en-US>UNIT CAPTURED</en-US>
+		<ja>捕縛中のユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_REBELLED</zType>
+		<en-US>UNIT REBELLED</en-US>
+		<ja>反乱したユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_SEEN</zType>
+		<en-US>UNIT SEEN</en-US>
+		<ja>目撃したユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_QUEUE_CANCELLED</zType>
+		<en-US>UNIT QUEUE CANCELLED</en-US>
+		<ja>キャンセルしたユニットリスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_REVEALED</zType>
+		<en-US>Unit now visible</en-US>
+		<ja>ユニット表示中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_ATTACKED</zType>
+		<en-US>CITY ATTACKED</en-US>
+		<ja>攻撃した都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_DAMAGED</zType>
+		<en-US>CITY DAMAGED</en-US>
+		<ja>都市損傷</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_CAPTURED</zType>
+		<en-US>CITY CAPTURED</en-US>
+		<ja>占拠した都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_RAZED</zType>
+		<en-US>CITY RAZED</en-US>
+		<ja>壊滅した都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_FOUNDED</zType>
+		<en-US>CITY FOUNDED</en-US>
+		<ja>設立した都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_EVENT</zType>
+		<en-US>CITY EVENT</en-US>
+		<ja>都市イベント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_PRODUCTION</zType>
+		<en-US>CITY PRODUCTION</en-US>
+		<ja>都市の生産</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_BREACHED</zType>
+		<en-US>CITY BREACHED</en-US>
+		<ja>侵入された都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_CANCELLED</zType>
+		<en-US>CITY CANCELLED</en-US>
+		<ja>キャンセルした都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CITY_WARNING</zType>
+		<en-US>CITY WARNING</en-US>
+		<ja>都市の警告</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CAMP_DESTROYED</zType>
+		<en-US>CAMP DESTROYED</en-US>
+		<ja>破壊した野営地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_FINISHED</zType>
+		<en-US>IMPROVEMENT FINISHED</en-US>
+		<ja>完成した建設物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_PILLAGED</zType>
+		<en-US>IMPROVEMENT PILLAGED</en-US>
+		<ja>略奪された建設物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_WONDER_ACTIVITY</zType>
+		<en-US>WONDER ACTIVITY</en-US>
+		<ja>記念物の活動</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CARAVAN_MISSION</zType>
+		<en-US>CARAVAN MISSION</en-US>
+		<ja>キャラバンミッション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_LAUNCH_OFFENSIVE</zType>
+		<en-US>LAUNCH OFFENSIVE</en-US>
+		<ja>攻撃開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_OFFENSIVE_LAUNCHED</zType>
+		<en-US>OFFENSIVE LAUNCHED</en-US>
+		<ja>開始した攻撃</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GIFT_GOOD</zType>
+		<en-US>GIFT GOOD</en-US>
+		<ja>物資の贈り物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GIFT_PLAYER_UNIT</zType>
+		<en-US>GIFT UNIT</en-US>
+		<ja>ユニットの贈り物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_GIFT_PLAYER_CITY</zType>
+		<en-US>GIFT CITY</en-US>
+		<ja>都市の贈り物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_MISSION_CANCELLED</zType>
+		<en-US>MISSION CANCELLED</en-US>
+		<ja>キャンセルしたミッション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CHARACTER_ADULT</zType>
+		<en-US>CHARACTER ADULTHOOD</en-US>
+		<ja>キャラクターの成人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CHARACTER_BIRTH</zType>
+		<en-US>CHARACTER BIRTH</en-US>
+		<ja>キャラクターの誕生</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CHARACTER_MARRIAGE</zType>
+		<en-US>CHARACTER MARRIAGE</en-US>
+		<ja>キャラクターの結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_CHARACTER_DEATH</zType>
+		<en-US>CHARACTER DEATH</en-US>
+		<ja>キャラクターの死亡</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_PING</zType>
+		<en-US>PING</en-US>
+		<ja>PING</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_EVENT_STORY</zType>
+		<en-US>NEW EVENT</en-US>
+		<ja>新しいイベント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
+		<en-US>{true_0:{0_presskey} to dismiss this notification{br}}{true_1:{1_presskey} to dismiss all notifications}</en-US>
+		<ja>{true_0:{0_presskey}でこの通知を非表示{br}}{true_1:{1_presskey}ですべての通知を非表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_FINISHED</zType>
+		<en-US>{0} Finished</en-US>
+		<ja>{0}が完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_LAW_ADOPTED</zType>
+		<en-US>LAW ADOPTED</en-US>
+		<ja>採択された法律</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_PREHISTORY</zType>
+		<en-US>OLD WORLD HISTORY</en-US>
+		<ja>旧世界史</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_OCCURRENCE</zType>
+		<en-US>OCCURRENCE</en-US>
+		<ja>出来事</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMOVE_PING</zType>
+		<en-US>Remove Ping</en-US>
+		<ja>ピンの除去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_CITY_GOVERNOR</zType>
+		<en-US>Governors Available ({0_count})</en-US>
+		<ja>利用可能な総督 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_CITY_AGENT</zType>
+		<en-US>Agents Available ({0_count})</en-US>
+		<ja>利用可能な諜報員 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_GOVERNOR_PROJECTS</zType>
+		<en-US>Governor Projects ({0_count})</en-US>
+		<ja>総督によるプロジェクト ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_GOVERNOR_PROJECT</zType>
+		<en-US>The {0_project} Project is available in {1_city}</en-US>
+		<ja>{1_city}でプロジェクト {0_project}が利用可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_GOVERNOR_PROJECT_NO_GOVERNOR</zType>
+		<en-US>{0_project} in {1_city} requires a link(CONCEPT_GOVERNOR)</en-US>
+		<ja>{1_city}で{0_project}を行うにはlink(CONCEPT_GOVERNOR)が必要</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_AGENT_MISSION</zType>
+		<en-US>Idle Agents ({0_count})</en-US>
+		<ja>待機中の諜報員 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_COUNCIL_CHARACTER</zType>
+		<en-US>Councillors Available ({0_count})</en-US>
+		<ja>利用可能な評議員 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_COUNCIL_MISSION</zType>
+		<en-US>Idle Councillors ({0_count})</en-US>
+		<ja>待機中の評議員 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_TUTOR</zType>
+		<en-US>Tutoring Available ({0_count})</en-US>
+		<ja>利用可能な家庭教師 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_FAMILY_RELIGION_HEAD</zType>
+		<en-US>Idle Family/Religion Heads ({0_count})</en-US>
+		<ja>待機中の氏族/教団の長 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_LEADER</zType>
+		<en-US>Idle Leader ({0_count})</en-US>
+		<ja>待機中の指導者 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_FAMILY_HEAD</zType>
+		<en-US>Idle Family Heads ({0_count})</en-US>
+		<ja>待機中の氏族の長 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_RELIGION_HEAD</zType>
+		<en-US>Idle Religion Heads ({0_count})</en-US>
+		<ja>待機中の宗教の長 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_LUXURIES_AVAILABLE</zType>
+		<en-US>Luxuries are available to be sent to a Nation, Tribe, Family, or City</en-US>
+		<ja>贅沢品は国、部族、氏族、都市に贈ることが可能です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_LUXURIES</zType>
+		<en-US>Luxuries ({0_count})</en-US>
+		<ja>贅沢品 ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_LAWS</zType>
+		<en-US>Laws Available ({0_count})</en-US>
+		<ja>利用可能な法律（{0_count}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_RELIGION</zType>
+		<en-US>State Religion</en-US>
+		<ja>国教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_CLERGY</zType>
+		<en-US>Clergy Missions Available</en-US>
+		<ja>「聖職者ミッション」実行可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_CATEGORY_PILLAGE</zType>
+		<en-US>Pillaged Improvements ({0_count})</en-US>
+		<ja>建設物が略奪された ({0_count})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_PILLAGED_IMPROVEMENT</zType>
+		<en-US>The {0_improvement} on {1_tile} (near {2_city}) has been pillaged and is in need of repair</en-US>
+		<ja>{2_city}付近の{1_tile}にあった{0_improvement}が略奪され、修復を必要としている</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_RELIGION_AVAILABLE</zType>
+		<en-US>A State Religion is available to be adopted</en-US>
+		<ja>国教の制定可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_REMINDER_LAWS_AVAILABLE</zType>
+		<en-US>New laws are available to adopt</en-US>
+		<ja>新しい法律を採用できるようになりました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CUSTOM_REMINDER</zType>
+		<en-US>Custom Reminder</en-US>
+		<ja>カスタムリマインダー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SAVE_CUSTOM_OVERLAY</zType>
+		<en-US>Save Custom Overlay</en-US>
+		<ja>カスタムオーバーレイの保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CONFIGURE_OVERLAY</zType>
+		<en-US>Overlay</en-US>
+		<ja>オーバーレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_TOGGLE_CUSTOM_OVERLAY</zType>
+		<en-US>Show Custom Overlay</en-US>
+		<ja>カスタムオーバーレイの表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_EDIT_CUSTOM_OVERLAY</zType>
+		<en-US>Show/Hide Overlay Customizer</en-US>
+		<ja>オーバーレイ設定の表示/非表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_TITLE</zType>
+		<en-US>Mare incognitum</en-US>
+		<ja>Mare incognitum（見知らぬ海）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_BODY</zType>
+		<en-US>HIC SUNT DRACONES</en-US>
+		<ja>HIC SUNT DRACONES（ここに竜がいる）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_TITLE</zType>
+		<en-US>Terra incognita</en-US>
+		<ja>Terra incognita（見知らぬ土地）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_BODY</zType>
+		<en-US>HIC SUNT LEONES</en-US>
+		<ja>HIC SUNT LEONES（ここに獅子がいる）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_CAPTURING</zType>
+		<en-US>Capturing ({true_1:PAUSED:{0_player}})</en-US>
+		<ja>攻略({true_1:中断:{0_player}})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_FAMILY</zType>
+		<en-US>Family</en-US>
+		<ja>氏族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_REBEL_PROB</zType>
+		<en-US>link(TRIBE_REBELS) Probability</en-US>
+		<ja>link(TRIBE_REBELS)の可能性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_GOVERNOR</zType>
+		<en-US>Governor</en-US>
+		<ja>総督</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_HP</zType>
+		<en-US>HP</en-US>
+		<ja>HP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_STRENGTH</zType>
+		<en-US>Defense</en-US>
+		<ja>防御</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_CITIZENS</zType>
+		<en-US>{singular_1:{0,2}:{0,2}}</en-US>
+		<ja>{singular_1:{0,2}:{0,2}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_RELIGIONS</zType>
+		<en-US>Religions</en-US>
+		<ja>宗教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_TOOLTIP_ID</zType>
+		<en-US>ID</en-US>
+		<ja>ID</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IMPROVEMENT_ACTION_REMOVE_VEGETATION_TITLE</zType>
+		<en-US>Remove {0}</en-US>
+		<ja>{0}を除去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IMPROVEMENT_ACTION_BUILD_ROAD_TITLE</zType>
+		<en-US>Build Road</en-US>
+		<ja>道路を作成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_IMPROVEMENT_ACTION_MAKE_URBAN_TITLE</zType>
+		<en-US>Make link(CONCEPT_URBAN)</en-US>
+		<ja>link(CONCEPT_URBAN)を作る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TOOLTIP_PROGRESS</zType>
+		<en-US>Progress: {0}</en-US>
+		<ja>進捗：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE</zType>
+		<en-US>Base</en-US>
+		<ja>基地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL</zType>
+		<en-US>General</en-US>
+		<ja>将官</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_OPINION</zType>
+		<en-US>General ({0_opinion})</en-US>
+		<ja>将官の({0_opinion})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
+		<en-US>General  icon(Icon_Defense)</en-US>
+		<ja>将官 icon(Icon_Defense)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_EXPLORER_OPINION</zType>
+		<en-US>Explorer ({0_opinion})</en-US>
+		<ja>探検家 ({0_opinion})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_EXPLORER_ENEMY_DEFENSE</zType>
+		<en-US>Explorer  icon(Icon_Defense)</en-US>
+		<ja>探検家 icon(Icon_Defense)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
+		<en-US>Water-vs-Land (Melee)</en-US>
+		<ja>海vs陸（近接）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_LAND_VS_WATER</zType>
+		<en-US>Land-vs-Water (Melee)</en-US>
+		<ja>陸vs海（近接）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER</zType>
+		<en-US>AI vs. {0}</en-US>
+		<ja>AI vs. {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DISTANCE</zType>
+		<en-US>Distance</en-US>
+		<ja>距離</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_ATTACK</zType>
+		<en-US>Attack</en-US>
+		<ja>攻撃</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DEFENSE</zType>
+		<en-US>Defense</en-US>
+		<ja>防御</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY</zType>
+		<en-US>Fortify</en-US>
+		<ja>防御強化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_UNLIMBERED</zType>
+		<en-US>link(CONCEPT_UNLIMBERED)</en-US>
+		<ja>link(CONCEPT_UNLIMBERED)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY</zType>
+		<en-US>{0_family} Territory</en-US>
+		<ja>{0_family}の領土</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_CRITICAL_CHANCE</zType>
+		<en-US>Critical Chance</en-US>
+		<ja>クリティカルチャンス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
+		<en-US>Immune</en-US>
+		<ja>耐性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ATTACK_PREVIEW_POPULATION</zType>
+		<en-US>Population</en-US>
+		<ja>人口</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_ATTACK_PREVIEW_COUNTER_DAMAGE</zType>
+		<en-US>Counter ({0_reason})</en-US>
+		<ja>カウンター ({0_reason})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_ATTACK_PREVIEW_DAMAGE</zType>
+		<en-US>Attack Damage</en-US>
+		<ja>攻撃ダメージ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
+		<en-US>Fatigued</en-US>
+		<ja>疲弊</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_COOLDOWN_MARCHED</zType>
+		<en-US>Marched</en-US>
+		<ja>行軍済み</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_TECH_DISCOVERED</zType>
+		<en-US>{0} Discovered</en-US>
+		<ja>{0}を習得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_PANEL_CHOOSE_RESEARCH</zType>
+		<en-US>Choose Research</en-US>
+		<ja>研究を選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_LEVEL</zType>
+		<en-US>LVL {0}</en-US>
+		<ja>LVL {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_SELECTION_MAX_LEVEL</zType>
+		<en-US>MAX LVL</en-US>
+		<ja>最大LVL</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
+		<en-US>Projects:  </en-US>
+		<ja>都市計画：  </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_SELECTION_CITIZENS_TAB_LABEL</zType>
+		<en-US>Citizens  {0}</en-US>
+		<ja>市民{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_SELECTION_HURRY_PRODUCTION</zType>
+		<en-US>Hurry Production</en-US>
+		<ja>生産速度アップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_COURTIER</zType>
+		<en-US>Courtier</en-US>
+		<ja>廷臣</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_UNIT</zType>
+		<en-US>Unit: {0}</en-US>
+		<ja>ユニット：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_GOVERNING_CITY</zType>
+		<en-US>City: {0}</en-US>
+		<ja>都市：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_SELECTION_CITY_AGENT</zType>
+		<en-US>Agent: {0}</en-US>
+		<ja>諜報員：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
+		<en-US>Wake</en-US>
+		<ja>起床</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
+		<en-US>Pass</en-US>
+		<ja>経過</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
+		<en-US>Sleep</en-US>
+		<ja>睡眠</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
+		<en-US>Sentry</en-US>
+		<ja>見張り</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_DISBAND</zType>
+		<en-US>Disband</en-US>
+		<ja>解散</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_UPGRADE</zType>
+		<en-US>Upgrade</en-US>
+		<ja>アップグレード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNIT_ACTIONS_PROMOTE</zType>
+		<en-US>Promote</en-US>
+		<ja>プロモーション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_LEVEL</zType>
+		<en-US>{0} LVL</en-US>
+		<ja>{0} LVL</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_XP</zType>
+		<en-US>{0} XP</en-US>
+		<ja>{0} XP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOGGLE_CITY_AUTOMATION</zType>
+		<en-US>{true_0:Cancel:Start} City Automation</en-US>
+		<ja>{true_0:キャンセル:開始} 都市の自動化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_GROWTH</zType>
+		<en-US>Growth</en-US>
+		<ja>成長度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_TRAINING</zType>
+		<en-US>Training</en-US>
+		<ja>訓練</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_PROJECTS</zType>
+		<en-US>{0}: Projects</en-US>
+		<ja>{0}：都市計画</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_SPECIALISTS</zType>
+		<en-US>Civics: Specialists</en-US>
+		<ja>都市力：専門家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_ACTIONS_SPECIALIST_AVAILABLE_RESOURCES</zType>
+		<en-US>Potential Resources: {0_luxuryList}</en-US>
+		<ja>資源候補: {0_luxuryList}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
+		<en-US>{0} (ACTIVE, {1})</en-US>
+		<ja>{0} (実行中、{1})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_LEAVE</zType>
+		<en-US>Leave {0}</en-US>
+		<ja>{0}から離れる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
+		<en-US>Living Relatives</en-US>
+		<ja>生存している親族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_AGELESS</zType>
+		<en-US>Immortal</en-US>
+		<ja>不死者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_HEAD</zType>
+		<en-US>Family Head</en-US>
+		<ja>氏族の長</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_LIVING_MEMBERS_TITLE</zType>
+		<en-US>Living Members</en-US>
+		<ja>生存している者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_FAMILY_ACTIONS_CITIES_TITLE</zType>
+		<en-US>Cities</en-US>
+		<ja>都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RELIGION_HEAD</zType>
+		<en-US>Religion Head</en-US>
+		<ja>宗教の長</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLAYER_SUCCESSION</zType>
+		<en-US>icon(LINE_OF_SUCCESSION) Line of Succession</en-US>
+		<ja>icon(LINE_OF_SUCCESSION) 継承順位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLAYER_LEADER</zType>
+		<en-US>Leader</en-US>
+		<ja>指導者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLAYER_ELIMINATED</zType>
+		<en-US>[{0_player} Eliminated]</en-US>
+		<ja>[{0_player}が殲滅された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UPGRADE_TO</zType>
+		<en-US>Upgrade to {0}</en-US>
+		<ja>{0}にアップグレード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT_LEGACY</zType>
+		<en-US>{0_character}{true_1: {1_cognomen}}'s link(CONCEPT_LEGACY): {2_turnsVariable}</en-US>
+		<ja>{0_character}{true_1: {1_cognomen}}のlink(CONCEPT_LEGACY): {2_turnsVariable}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_LIST_IDLE</zType>
+		<en-US>Idle</en-US>
+		<ja>待機中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BUILD_COMPLETED</zType>
+		<en-US>{0} Completed</en-US>
+		<ja>{0}完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_COMPLETED_BUILDS_IDLE</zType>
+		<en-US>Idle City</en-US>
+		<ja>待機中の都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHAT_TEAM</zType>
+		<en-US>Team</en-US>
+		<ja>チーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHAT_ALL</zType>
+		<en-US>All</en-US>
+		<ja>全て</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHAT_CLEAR</zType>
+		<en-US>Clear</en-US>
+		<ja>空き地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TEXT_LOCAL_TIME</zType>
+		<en-US>{0} ({1_time})</en-US>
+		<ja>{0} ({1_time})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TEXT_YEAR</zType>
+		<en-US>Year {0}{true_1: / {1}}</en-US>
+		<ja>{0}{true_1: / {1}}年</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TEXT_SCALE</zType>
+		<en-US>{0}, Year {1}{true_2: ({2} Turns)}</en-US>
+		<ja>{0}, 年 {1}{true_2: ({2} Turns)}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TEXT_TURN_MAX</zType>
+		<en-US>{0}/{1}</en-US>
+		<ja>{0}/{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_TIMER_PAUSED</zType>
+		<en-US>{0} (PAUSED)</en-US>
+		<ja>{0}（中断）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TURN_LOCKED</zType>
+		<en-US>TURN LOCKED</en-US>
+		<ja>ターン固定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
+		<en-US>VICTORY!</en-US>
+		<ja>勝利！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_WINNER_ROSTER_VICTORY_ALLIANCE</zType>
+		<en-US>ALLIANCE VICTORY!</en-US>
+		<ja>同盟勝利！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
+		<en-US>DEFEAT!</en-US>
+		<ja>敗北！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAX_CITIES</zType>
+		<en-US>Max {singular_1:City:Cities}: {0}/{1}</en-US>
+		<ja>最大{singular_1:都市:都市}: {0}/{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_CITY_POPUP</zType>
+		<en-US>Rename City</en-US>
+		<ja>都市を改名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_UNIT_POPUP</zType>
+		<en-US>Rename Unit</en-US>
+		<ja>ユニットを改名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_RELIGION_POPUP</zType>
+		<en-US>Rename Religion</en-US>
+		<ja>宗教を改名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_PLAYER_POPUP</zType>
+		<en-US>Rename Current Player</en-US>
+		<ja>現在のプレイヤーを改名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RENAME_CHARACTER</zType>
+		<en-US>Rename {0}</en-US>
+		<ja>{0}を改名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLAYER_EMAIL_NOTIFICATIONS</zType>
+		<en-US>Enter an email to receive notifications when it's your turn</en-US>
+		<ja>メールアドレスを入力して、自分のターンが来たら通知を受け取る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_BORDER_GROWTH</zType>
+		<en-US>Border Growth</en-US>
+		<ja>国境の成長度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_UNAVAILABLE</zType>
+		<en-US>Unavailable</en-US>
+		<ja>利用不可</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_CURRENTLY_AVAILABLE</zType>
+		<en-US>Tech Currently Available!</en-US>
+		<ja>現在、技術を利用可能です！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_ACQUIRED</zType>
+		<en-US>Tech Acquired</en-US>
+		<ja>技術を獲得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_RESEARCHING</zType>
+		<en-US>Researching...</en-US>
+		<ja>研究中…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DRAW_PILE</zType>
+		<en-US>In the Draw Pile</en-US>
+		<ja>山札</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DISCARD_PILE</zType>
+		<en-US>In the Discard Pile</en-US>
+		<ja>捨て札</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_TARGETED</zType>
+		<en-US>Tech is Targeted</en-US>
+		<ja>技術がターゲットされた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TECH_TREE_TOOLTIP_TARGETED_PREREQ</zType>
+		<en-US>Prerequisite for a targeted tech</en-US>
+		<ja>対象の技術の前提条件</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOOLTIP_LUXURIES_HELP</zType>
+		<en-US>link(CONCEPT_LUXURY) can be given to link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2), and link(CONCEPT_FAMILY,2) to improve Opinion. They also can be given to Cities to increase link(YIELD_HAPPINESS). Luxuries are unlocked by constructing Specialists on Improvements. For example, the link(RESOURCE_HONEY) Luxury comes from link(SPECIALIST_GARDENER,1) on link(IMPROVEMENT_GROVE,1).</en-US>
+		<ja>link(CONCEPT_LUXURY)をlink(CONCEPT_NATION,2)、link(CONCEPT_TRIBE,2)、link(CONCEPT_FAMILY,2)に与えると、評価を向上させることができます。また、都市に与えると、link(YIELD_HAPPINESS)が増加します。贅沢品は、建築物の専門家を作ることでアンロックできます。たとえば、link(RESOURCE_HONEY)の贅沢品は、link(IMPROVEMENT_GROVE,1)のlink(SPECIALIST_GARDENER,1)によってもたらされます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOOLTIP_LUXURIES_NONE</zType>
+		<en-US>None Available</en-US>
+		<ja>利用できるものはありません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TOOLTIP_TRADABLE</zType>
+		<en-US>Tradable: {0_resource}{true_1: (x{1})}</en-US>
+		<ja>取引可能：{0_resource}{true_1: (x{1})}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_AMBITION_DESIRED_BY_FAMILY</zType>
+		<en-US>{0} (desired by {1_family} {2_class})</en-US>
+		<ja>{0}（{1_family} {2_class}が要求）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_WON_GAME</zType>
+		<en-US>[Won Game]</en-US>
+		<ja>[ゲームに勝利]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_LOST_GAME</zType>
+		<en-US>[Lost Game]</en-US>
+		<ja>[ゲームに敗北]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_DISCOVERED</zType>
+		<en-US>[{TRIGGER-DATA} Discovered]</en-US>
+		<ja>[{TRIGGER-DATA}を発見]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RELIGION_FOUNDED</zType>
+		<en-US>[{TRIGGER-1} Founded]</en-US>
+		<ja>[{TRIGGER-1}を設立]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RELIGION_SPREAD</zType>
+		<en-US>[{TRIGGER-1} Spreads to {TRIGGER-0}]</en-US>
+		<ja>[{TRIGGER-1}が{TRIGGER-0}に広まっている]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RELIGION_REMOVED</zType>
+		<en-US>[{TRIGGER-1} Removed from {TRIGGER-0}]</en-US>
+		<ja>[{TRIGGER-1}が{TRIGGER-0}から排除された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_THEOLOGY_ESTABLISHED</zType>
+		<en-US>[{TRIGGER-1} Established for {TRIGGER-0}]</en-US>
+		<ja>[{TRIGGER-0}の{TRIGGER-1}が創立された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_TRIBE_CONTACTED</zType>
+		<en-US>[{TRIGGER-0} Contacted]</en-US>
+		<ja>[{TRIGGER-0}と接触した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_PLAYER_CONTACTED</zType>
+		<en-US>[{TRIGGER-0} Contacted]</en-US>
+		<ja>[{TRIGGER-0}と接触した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_PLAYER_WAR_DECLARE</zType>
+		<en-US>[{TRIGGER-0} has decided to declare link(DIPLOMACY_WAR)]</en-US>
+		<ja>[{TRIGGER-0}がlink(DIPLOMACY_WAR)した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CITY_FOUNDED</zType>
+		<en-US>[{TRIGGER-0} Founded]</en-US>
+		<ja>[{TRIGGER-0}が設立された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CITY_LOST</zType>
+		<en-US>[{TRIGGER-1} Lost]</en-US>
+		<ja>[{TRIGGER-1}が失われた]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CITY_BREACHED</zType>
+		<en-US>[{TRIGGER-1} Breached]</en-US>
+		<ja>[{TRIGGER-1}が陥落した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CITY_RAZED</zType>
+		<en-US>[City Razed at {TRIGGER-0}]</en-US>
+		<ja>[{TRIGGER-0}で都市が壊滅した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>
+		<en-US>[{CULTURE-0} link(CONCEPT_CULTURE_EVENT) in {TRIGGER-0}]</en-US>
+		<ja>[{CULTURE-0} link(CONCEPT_CULTURE_EVENT):{TRIGGER-0}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
+		<en-US>[{TRIGGER-DATA} Finished]</en-US>
+		<ja>[{TRIGGER-DATA}が完了]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_IMPROVEMENT_PILLAGED</zType>
+		<en-US>[link(CONCEPT_IMPROVEMENT) Pillaged]</en-US>
+		<ja>[link(CONCEPT_IMPROVEMENT) が略奪被害]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_IMPROVEMENT_REVEALED</zType>
+		<en-US>[{0_improvement} Revealed]</en-US>
+		<ja>[{0_improvement}を発見]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_AMBITION_FINISHED</zType>
+		<en-US>[Ambition Finished: {TRIGGER-DATA}]</en-US>
+		<ja>[野望を完了：{TRIGGER-DATA}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_GOAL_FINISHED</zType>
+		<en-US>[Goal Finished: {TRIGGER-DATA}]</en-US>
+		<ja>[目的を完了：{TRIGGER-DATA}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_GOAL_FAILED</zType>
+		<en-US>[Goal Failed: {TRIGGER-DATA}]</en-US>
+		<ja>[目的を失敗：{TRIGGER-DATA}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_MISSION_FINISHED</zType>
+		<en-US>[Mission Result: {TRIGGER-DATA}]</en-US>
+		<ja>[ミッションの結果: {TRIGGER-DATA}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_MARRIES</zType>
+		<en-US>[{TRIGGER-0} Marries {TRIGGER-1}]</en-US>
+		<ja>[{TRIGGER-0}が{TRIGGER-1}と結婚]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_BORN</zType>
+		<en-US>[{TRIGGER-0} Born]</en-US>
+		<ja>[{TRIGGER-0}が誕生]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_DIES</zType>
+		<en-US>[{TRIGGER-0} Dies]</en-US>
+		<ja>[{TRIGGER-0}が死亡]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_UPGRADE_CHARACTER</zType>
+		<en-US>[Upgrade {TRIGGER-0}]</en-US>
+		<ja>[{TRIGGER-0}をアップグレード]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_LOSE_TRAIT</zType>
+		<en-US>[{TRIGGER-0} No Longer {TRIGGER-DATA}]</en-US>
+		<ja>[{TRIGGER-0}はもはや{TRIGGER-DATA}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_ADULT</zType>
+		<en-US>[{TRIGGER-0} Becomes Adult]</en-US>
+		<ja>[{TRIGGER-0}が成人]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_COURTIER</zType>
+		<en-US>[{TRIGGER-0} Becomes link(CONCEPT_COURTIER)]</en-US>
+		<ja>[{TRIGGER-0}がlink(CONCEPT_COURTIER)になる]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_ADOPTED</zType>
+		<en-US>[{TRIGGER-0} Adopted]</en-US>
+		<ja>[{TRIGGER-0}が養子になる]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_DIVORCES</zType>
+		<en-US>[{TRIGGER-0} Divorces {TRIGGER-1}]</en-US>
+		<ja>[{TRIGGER-0}と{TRIGGER-1}が離婚]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_COGNOMEN</zType>
+		<en-US>[{TRIGGER-0} Becomes {TRIGGER-DATA}]</en-US>
+		<ja>[{TRIGGER-0}が{TRIGGER-DATA}になる]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_SUCCESSION</zType>
+		<en-US>[Succession: {TRIGGER-0}]</en-US>
+		<ja>[継承：{TRIGGER-0}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_UNIT_COMBAT</zType>
+		<en-US>[{TRIGGER-0} Attacks]</en-US>
+		<ja>[{TRIGGER-0}がを攻撃]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_UNIT_COMBAT_EMPTY</zType>
+		<en-US>[Unit Combat]</en-US>
+		<ja>[ユニットの戦闘]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_ATTACKED_CITY</zType>
+		<en-US>[Attacked {TRIGGER-0}]</en-US>
+		<ja>[{TRIGGER-0}を攻撃した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CITY_ATTACKED</zType>
+		<en-US>[{TRIGGER-0} Attacked]</en-US>
+		<ja>[{TRIGGER-0}が攻撃された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_KILLED_UNIT</zType>
+		<en-US>[Killed Unit]</en-US>
+		<ja>[ユニットを倒した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_UNIT_KILLED</zType>
+		<en-US>[Unit Killed]</en-US>
+		<ja>[倒したユニット]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_GENERAL_ATTACK</zType>
+		<en-US>[Attacked with General]</en-US>
+		<ja>[将官と攻撃した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_GENERAL_DUEL</zType>
+		<en-US>[Duel of Generals]</en-US>
+		<ja>[将官の対決]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_CRITICAL_HIT</zType>
+		<en-US>[link(CONCEPT_CRITICAL_HIT)]</en-US>
+		<ja>[link(CONCEPT_CRITICAL_HIT)]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_GENERAL_INJURY</zType>
+		<en-US>[General link(CONCEPT_INJURY,3)]</en-US>
+		<ja>[将官がlink(CONCEPT_INJURY,3)]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_UNIT_PROMOTION</zType>
+		<en-US>[{TRIGGER-0} Promotion: {TRIGGER-DATA}]</en-US>
+		<ja>[{TRIGGER-0}のプロモーション：{TRIGGER-DATA}]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RESOURCE_HARVESTED</zType>
+		<en-US>[{TRIGGER-0} Harvested]</en-US>
+		<ja>[{TRIGGER-0}を獲得した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_LANDMARK_DISCOVERED</zType>
+		<en-US>[Landmark Discovered]</en-US>
+		<ja>[ランドマークを発見した]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RIVAL_ELIMINATED</zType>
+		<en-US>[{TRIGGER-0} Eliminated]</en-US>
+		<ja>[{TRIGGER-0}が掃滅された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RIVAL_ELIMINATED_TRIBE</zType>
+		<en-US>[{TRIGGER-2} Eliminated]</en-US>
+		<ja>[{TRIGGER-2}が掃滅された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_COMPLETED_VICTORY</zType>
+		<en-US>[Victory Condition Satisfied]</en-US>
+		<ja>[勝利条件が達成された]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_NONE</zType>
+		<en-US>All Characters</en-US>
+		<ja>全てのキャラクター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_COURT</zType>
+		<en-US>link(CONCEPT_COURT) Members</en-US>
+		<ja>link(CONCEPT_COURT)のメンバー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_GENERALS</zType>
+		<en-US>Eligible link(CONCEPT_GENERAL,2)</en-US>
+		<ja>link(CONCEPT_GENERAL,2)の資格あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_GOVERNORS</zType>
+		<en-US>Eligible link(CONCEPT_GOVERNOR,2)</en-US>
+		<ja>link(CONCEPT_GOVERNOR,2)の資格あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_AGENTS</zType>
+		<en-US>Eligible link(CONCEPT_AGENT,2)</en-US>
+		<ja>link(CONCEPT_AGENT,2)の資格あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_AMBASSADORS</zType>
+		<en-US>Eligible link(COUNCIL_AMBASSADOR,2)</en-US>
+		<ja>link(COUNCIL_AMBASSADOR,2)の資格あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_CHANCELLORS</zType>
+		<en-US>Eligible link(COUNCIL_CHANCELLOR,2)</en-US>
+		<ja>link(COUNCIL_CHANCELLOR,2)の資格あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_SPYMASTERS</zType>
+		<en-US>Eligible link(COUNCIL_SPYMASTER,2)</en-US>
+		<ja>link(COUNCIL_SPYMASTER,2)の資格あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_GENERAL_AGE</zType>
+		<en-US>Must be Younger than int(GENERAL_START_MAX_AGE)</en-US>
+		<ja>int(GENERAL_START_MAX_AGE)歳未満の必要あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTERLIST_FILTER_NOTABLE</zType>
+		<en-US>Notable Characters</en-US>
+		<ja>注目キャラ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_CIVILIAN_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Civilian Units</en-US>
+		<ja>文民を{true_0:非表示:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_SCOUT_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Scouts</en-US>
+		<ja>斥候兵を{true_0:非表示:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_MILITARY_WATER_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Naval Units</en-US>
+		<ja>海軍ユニットを{true_0:非表示:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_MILITARY_MOUNTED_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Mounted Units</en-US>
+		<ja>騎兵ユニットを{true_0:非表示:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_MILITARY_SIEGE_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Siege Units</en-US>
+		<ja>攻囲ユニットを{true_0:非表示:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_MILITARY_RANGED_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Ranged Units</en-US>
+		<ja>遠隔ユニットを{true_0:非表示:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_MILITARY_INFANTRY_FILTER</zType>
+		<en-US>{true_0:Hide:Show} Melee Infantry Units</en-US>
+		<ja>近接歩兵ユニットを{true_0:隠す:表示}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_FILTER_OTHERS</zType>
+		<en-US>{0} to only show this unit type</en-US>
+		<ja>{0}でこのユニットタイプのみ表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_UNITLIST_FILTER_RESET</zType>
+		<en-US>{0} to reset all filters</en-US>
+		<ja>{0}で全てのフィルターをリセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RELIGION_NOT_FOUNDED</zType>
+		<en-US>Founds automatically when {0_requirementsLink} are met</en-US>
+		<ja>{0_requirementsLink}が満たされると、自動的に発見される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS</zType>
+		<en-US>Followers</en-US>
+		<ja>信者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_RELIGION_THEOLOGIES</zType>
+		<en-US>Theology</en-US>
+		<ja>神学</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_RELIGION_THEOLOGY</zType>
+		<en-US>Tier {0}</en-US>
+		<ja>階層{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_NO_THEOLOGY_ADOPTED</zType>
+		<en-US>None</en-US>
+		<ja>なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_NATIONS</zType>
+		<en-US>Nations</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_FAMILIES</zType>
+		<en-US>Families</en-US>
+		<ja>家族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_TRIBES</zType>
+		<en-US>Tribes</en-US>
+		<ja>部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_NATION</zType>
+		<en-US>Selected Nation</en-US>
+		<ja>選択した国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_FAMILY</zType>
+		<en-US>Selected Family</en-US>
+		<ja>選択した氏族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_ARCHETYPE</zType>
+		<en-US>Selected Archetype</en-US>
+		<ja>選択したスタイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_DYNASTY</zType>
+		<en-US>Selected Dynasty</en-US>
+		<ja>選択した王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CLICK_TO_SELECT</zType>
+		<en-US>Click to select...</en-US>
+		<ja>クリックで選択･･･</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_PORTRAIT</zType>
+		<en-US>Selected Portrait</en-US>
+		<ja>選択されたポートレート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_NAME</zType>
+		<en-US>Selected Name</en-US>
+		<ja>選択された名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_GENDER</zType>
+		<en-US>Selected Gender</en-US>
+		<ja>選択された性別</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_AGE</zType>
+		<en-US>Selected Age</en-US>
+		<ja>選択された年齢</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SELECTED_TRAIT</zType>
+		<en-US>Selected Trait</en-US>
+		<ja>選択された特性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CLICK_TO_SELECT_OPTIONAL</zType>
+		<en-US>Click to select (Optional)...</en-US>
+		<ja>クリックして選択（任意）…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CUSTOMIZE_LEADER_ARCHETYPE</zType>
+		<en-US>Customize Leader</en-US>
+		<ja>指導者のカスタマイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_SCREENSHOT_FAIL</zType>
+		<en-US>Please close all active screens to take a terrain screenshot</en-US>
+		<ja>地形のスクリーンショットを撮るには、起動中のスクリーンをすべて閉じてください</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_STATS_RECORDS</zType>
+		<en-US>Records</en-US>
+		<ja>実績</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_STATS_YOUR_TOTAL</zType>
+		<en-US>Your Total</en-US>
+		<ja>合計</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_STATS_RANK</zType>
+		<en-US>Rank</en-US>
+		<ja>ランク</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SURRENDER_DIALOG</zType>
+		<en-US>Confirm Surrender?</en-US>
+		<ja>降伏しますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EXIT_DIALOG</zType>
+		<en-US>Are you sure you want to exit?
+Any unsaved progress will be lost.
+		</en-US>
+		<ja>本当に終了しますか？
+保存していない進行状況は失われます。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOAD_DIALOG</zType>
+		<en-US>Are you sure you want to load another game?
+Any unsaved progress will be lost.
+		</en-US>
+		<ja>本当に別のゲームをロードしますか？
+保存していない進行状況は失われます。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLACE_PING</zType>
+		<en-US>Pings</en-US>
+		<ja>ピン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PLACE_MAP_PIN</zType>
+		<en-US>Map Pins</en-US>
+		<ja>マップピン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RESTART_DIALOG</zType>
+		<en-US>Are you sure you want to restart? 
+Any unsaved progress will be lost.</en-US>
+		<ja>本当にリスタートしますか？
+保存していない進行状況は失われます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CLOUD_CONTINUE_DIALOG</zType>
+		<en-US>Are you sure you want to continue this game on the cloud?
+The network connection will be terminated.
+		</en-US>
+		<ja>本当にこのゲームをクラウドで続行しますか？
+ネットワーク接続は切断されます。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CLOUD_ERROR_DOWNLOADING</zType>
+		<en-US>Error downloading cloud game
+Try rewinding to the previous player</en-US>
+		<ja>クラウドゲームのダウンロード中にエラー発生
+前のプレイヤーに戻してみてください</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_KICK_DIALOG</zType>
+		<en-US>Are you sure you want to remove this player from the game?</en-US>
+		<ja>本当にこのプレイヤーをゲームから削除しますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SURRENDER_CONFIRM</zType>
+		<en-US>Yes</en-US>
+		<ja>はい</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_KICK_CONFIRM</zType>
+		<en-US>Kick</en-US>
+		<ja>キック</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_RESUME_BUTTON</zType>
+		<en-US>Resume</en-US>
+		<ja>再開</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_TUTORIAL_BUTTON</zType>
+		<en-US>Learn to Play</en-US>
+		<ja>遊び方</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
+		<en-US>Single Player</en-US>
+		<ja>シングルプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
+		<en-US>Multiplayer</en-US>
+		<ja>マルチプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
+		<en-US>Mods</en-US>
+		<ja>Mod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_EXTRAS_BUTTON</zType>
+		<en-US>Extras</en-US>
+		<ja>その他</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_OPTIONS_BUTTON</zType>
+		<en-US>Options</en-US>
+		<ja>オプション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_SUPPORT_BUTTON</zType>
+		<en-US>Support</en-US>
+		<ja>サポート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
+		<en-US>Quit to Desktop</en-US>
+		<ja>ゲームを閉じる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_NEWSLETTER</zType>
+		<en-US>Newsletter</en-US>
+		<ja>ニュースレター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_NEWSLETTER_SUBSCRIBED</zType>
+		<en-US>Subscribed</en-US>
+		<ja>登録済み</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_NEWSLETTER_INPUT</zType>
+		<en-US>Enter email and submit...</en-US>
+		<ja>メールアドレスを入力して送信…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_NEWSLETTER_SUBSCRIBE_FAILURE</zType>
+		<en-US><![CDATA[<color=#cc0d0dff>Subscription Failed!</color>]]></en-US>
+		<ja><![CDATA[<color=#cc0d0dff>登録に失敗しました。</color>]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_NEWSLETTER_DESC</zType>
+		<en-US>Subscribe to the Mohawk Games newsletter by submitting your email</en-US>
+		<ja>メールアドレスを送信してMohawk Gamesニュースレターに登録</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MENU_SCREEN_GAME_OF_THE_WEEK_NO_MODS</zType>
+		<en-US>Unload mods and play the Game of the Week</en-US>
+		<ja>MODを解除し、ゲーム・オブ・ザ・ウィークをプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LTP_MENU_SCREEN_SCRIPTED_BUTTON</zType>
+		<en-US>Scripted</en-US>
+		<ja>スクリプト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LTP_MENU_SCREEN_FREEFORM_BUTTON</zType>
+		<en-US>Freeform</en-US>
+		<ja>フリーフォーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LTP_MENU_SCREEN_SCRIPTED_HELP</zType>
+		<en-US>A hand-crafted, guided experience that will walk you through game mechanics and controls step by step.</en-US>
+		<ja>ゲームの仕組みや操作方法を順を追って説明する、ガイド付きのモード。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LTP_MENU_SCREEN_FREEFORM_HELP</zType>
+		<en-US>Curated maps with settings suitable for various levels. Contextual tutorials will still appear as you encounter game mechanics, but your approach and goals are unrestricted, as when playing a regular game.</en-US>
+		<ja>様々なレベルに合うよう設定されたキュレーションマップ。ゲーム内で新たな要素に触れる度、状況に応じたチュートリアルが表示されますが、プレイヤーの進め方や目標に制限はなく、通常のゲームと同様にプレイできます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DLC</zType>
+		<en-US>Additional Content</en-US>
+		<ja>追加コンテンツ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DLC_LABEL</zType>
+		<en-US>(Additional Content)</en-US>
+		<ja>（追加コンテンツ）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_FAMILYCLASSES</zType>
+		<en-US>Family Classes</en-US>
+		<ja>氏族クラス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_FAMILYCLASSES_LABEL</zType>
+		<en-US>(Family Class)</en-US>
+		<ja>(氏族クラス)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_CONCEPTS</zType>
+		<en-US>Concepts</en-US>
+		<ja>コンセプト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_CONCEPTS_LABEL</zType>
+		<en-US>(Concept)</en-US>
+		<ja>(コンセプト)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_YIELDS</zType>
+		<en-US>Yields</en-US>
+		<ja>産出量</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_YIELDS_LABEL</zType>
+		<en-US>(Yield)</en-US>
+		<ja>(産出量)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TECHNOLOGIES</zType>
+		<en-US>Technologies</en-US>
+		<ja>技術</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TECHNOLOGIES_LABEL</zType>
+		<en-US>(Technology)</en-US>
+		<ja>(技術)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_UNITS</zType>
+		<en-US>Units</en-US>
+		<ja>ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_UNITS_LABEL</zType>
+		<en-US>(Unit)</en-US>
+		<ja>(ユニット)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALISTS</zType>
+		<en-US>Specialists</en-US>
+		<ja>専門家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALISTS_LABEL</zType>
+		<en-US>(Specialist)</en-US>
+		<ja>(専門家)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_PROJECTS</zType>
+		<en-US>Projects</en-US>
+		<ja>都市計画</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_PROJECTS_LABEL</zType>
+		<en-US>(Project)</en-US>
+		<ja>(都市計画)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_LAWS</zType>
+		<en-US>Laws</en-US>
+		<ja>法律</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_LAWS_LABEL</zType>
+		<en-US>(Law)</en-US>
+		<ja>(法律)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIONS</zType>
+		<en-US>Religions</en-US>
+		<ja>宗教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIONS_LABEL</zType>
+		<en-US>(Religion)</en-US>
+		<ja>(宗教)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_NATIONS</zType>
+		<en-US>Nations</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_NATIONS_LABEL</zType>
+		<en-US>(Nation)</en-US>
+		<ja>(国家)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DYNASTIES</zType>
+		<en-US>Dynasties</en-US>
+		<ja>王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DYNASTIES_LABEL</zType>
+		<en-US>(Dynasty)</en-US>
+		<ja>（王朝）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRIBES</zType>
+		<en-US>Tribes</en-US>
+		<ja>部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRIBES_LABEL</zType>
+		<en-US>(Tribe)</en-US>
+		<ja>(部族)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_COGNOMEN</zType>
+		<en-US>Cognomen</en-US>
+		<ja>称号</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_COGNOMEN_LABEL</zType>
+		<en-US>(Cognomen)</en-US>
+		<ja>(称号)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_OCCURRENCES</zType>
+		<en-US>Occurrences</en-US>
+		<ja>出来事</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_OCCURRENCES_LABEL</zType>
+		<en-US>(Occurrence)</en-US>
+		<ja>（出来事）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_NATIONALAMBITIONS</zType>
+		<en-US>National Ambitions</en-US>
+		<ja>国家的野望</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_NATIONALAMBITIONS_LABEL</zType>
+		<en-US>(National Ambition)</en-US>
+		<ja>(国家的野望)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_CHARACTERS</zType>
+		<en-US>Characters</en-US>
+		<ja>キャラクター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_CHARACTERS_LABEL</zType>
+		<en-US>(Character)</en-US>
+		<ja>(キャラクター)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_IMPROVEMENTS</zType>
+		<en-US>Improvements (General)</en-US>
+		<ja>建設物（一般）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_IMPROVEMENTS_LABEL</zType>
+		<en-US>(Improvement)</en-US>
+		<ja>(建設物)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RESOURCES</zType>
+		<en-US>Resources</en-US>
+		<ja>資源</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RESOURCES_LABEL</zType>
+		<en-US>(Resource)</en-US>
+		<ja>(資源)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_VEGETATION</zType>
+		<en-US>Vegetation</en-US>
+		<ja>植物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_VEGETATION_LABEL</zType>
+		<en-US>(Vegetation)</en-US>
+		<ja>(植物)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_HEIGHTS</zType>
+		<en-US>Heights</en-US>
+		<ja>高地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_HEIGHTS_LABEL</zType>
+		<en-US>(Height)</en-US>
+		<ja>(高地)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RATINGS</zType>
+		<en-US>Attributes</en-US>
+		<ja>属性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RATINGS_LABEL</zType>
+		<en-US>(Attributes)</en-US>
+		<ja>（属性）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TERRAIN</zType>
+		<en-US>Terrain</en-US>
+		<ja>地形</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TERRAIN_LABEL</zType>
+		<en-US>(Terrain)</en-US>
+		<ja>(地形)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_ARCHETYPES</zType>
+		<en-US>Traits (Archetypes)</en-US>
+		<ja>特性（スタイル）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_ARCHETYPES_LABEL</zType>
+		<en-US>(Archetype)</en-US>
+		<ja>(スタイル)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_COUNCILS</zType>
+		<en-US>Councilors</en-US>
+		<ja>評議員</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_COUNCILS_LABEL</zType>
+		<en-US>(Councilor)</en-US>
+		<ja>(評議員)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_WONDERS</zType>
+		<en-US>Improvements (Wonders)</en-US>
+		<ja>建設物（記念物）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_WONDERS_LABEL</zType>
+		<en-US>(Wonder)</en-US>
+		<ja>(記念物)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_MISSIONS</zType>
+		<en-US>Missions</en-US>
+		<ja>ミッション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_MISSIONS_LABEL</zType>
+		<en-US>(Mission)</en-US>
+		<ja>(ミッション)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIOUSIMPROVEMENTS</zType>
+		<en-US>Improvements (Religion)</en-US>
+		<ja>建設物（宗教）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIOUSIMPROVEMENTS_LABEL</zType>
+		<en-US>(Improvement)</en-US>
+		<ja>(建設物)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALIMPROVEMENTS</zType>
+		<en-US>Improvements (Special)</en-US>
+		<ja>建設物 (特別)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALIMPROVEMENTS_LABEL</zType>
+		<en-US>(Improvement)</en-US>
+		<ja>(建設物)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRAITS</zType>
+		<en-US>Traits (Other)</en-US>
+		<ja>特性（その他）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRAITS_LABEL</zType>
+		<en-US>(Trait)</en-US>
+		<ja>(特性)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_HINTTEXTS</zType>
+		<en-US>Hints</en-US>
+		<ja>ヒント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_HINTTEXTS_LABEL</zType>
+		<en-US>(Hint)</en-US>
+		<ja>(ヒント)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_PROMOTIONS</zType>
+		<en-US>Promotions</en-US>
+		<ja>プロモーション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_PROMOTIONS_LABEL</zType>
+		<en-US>(Promotion)</en-US>
+		<ja>(プロモーション)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_UNITEFFECTS</zType>
+		<en-US>Unit Effects</en-US>
+		<ja>ユニット効果</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_UNITEFFECTS_LABEL</zType>
+		<en-US>(Unit Effect)</en-US>
+		<ja>(ユニット効果)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSADJECTIVES</zType>
+		<en-US>Traits (Adjectives)</en-US>
+		<ja>特性（形容詞）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSADJECTIVES_LABEL</zType>
+		<en-US>(Trait)</en-US>
+		<ja>(特性)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSITEMS</zType>
+		<en-US>Items</en-US>
+		<ja>アイテム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSITEMS_LABEL</zType>
+		<en-US>(Items)</en-US>
+		<ja>(アイテム)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_ITEMS</zType>
+		<en-US>Traits (Items)</en-US>
+		<ja>特性（アイテム）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_ITEMS_LABEL</zType>
+		<en-US>(Item)</en-US>
+		<ja>（アイテム）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_THEOLOGIES</zType>
+		<en-US>Theologies</en-US>
+		<ja>神学</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_THEOLOGIES_LABEL</zType>
+		<en-US>(Theology)</en-US>
+		<ja>(神学)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TUTORIALS</zType>
+		<en-US>Tutorials</en-US>
+		<ja>チュートリアル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_TUTORIALS_LABEL</zType>
+		<en-US>(Tutorial)</en-US>
+		<ja>(チュートリアル)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DIFFICULTYLEVELS</zType>
+		<en-US>Difficulty Levels</en-US>
+		<ja>難易度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DIFFICULTYLEVELS_LABEL</zType>
+		<en-US>(Difficulty Level)</en-US>
+		<ja>(難易度)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_VICTORYTYPES</zType>
+		<en-US>Victory Types</en-US>
+		<ja>勝利タイプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_VICTORYTYPES_LABEL</zType>
+		<en-US>(Victory Type)</en-US>
+		<ja>(勝利タイプ)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SCENARIOCONCEPTS</zType>
+		<en-US>Scenario Concepts</en-US>
+		<ja>シナリオコンセプト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_SCENARIOCONCEPTS_LABEL</zType>
+		<en-US>(Scenario Concept)</en-US>
+		<ja>（シナリオコンセプト）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DLCSUMMARYCONCEPTS</zType>
+		<en-US>DLC Mechanics</en-US>
+		<ja>DLCの仕組み</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_SECTION_DLCSUMMARYCONCEPTS_LABEL</zType>
+		<en-US>(DLC Mechanics)</en-US>
+		<ja>(DLCの仕組み)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_HEADING_HINTS</zType>
+		<en-US>Hints {0}-{1}</en-US>
+		<ja>ヒント {0}-{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIKI_NAV_UI_HEADING_CATEGORIES</zType>
+		<en-US>Categories</en-US>
+		<ja>カテゴリー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WORKER_FILTERS_LABEL</zType>
+		<en-US>Filters</en-US>
+		<ja>フィルター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_SORT_LABEL</zType>
+		<en-US>Sort</en-US>
+		<ja>並べ替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MANAGE_LUXURIES</zType>
+		<en-US>Manage link(CONCEPT_LUXURY)</en-US>
+		<ja>link(CONCEPT_LUXURY)を管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MANAGE_LUXURIES_DESC</zType>
+		<en-US>Send or Stop Sending link(CONCEPT_LUXURY)</en-US>
+		<ja>link(CONCEPT_LUXURY)を送るか中止する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_START_SENDING_LUXURY</zType>
+		<en-US>Send {0}{true_1: (x{1})}</en-US>
+		<ja>{0}を送る{true_1: (x{1})}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_STOP_SENDING_LUXURY</zType>
+		<en-US>Return {0}</en-US>
+		<ja>{0}を戻す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MANAGE_LUXURY</zType>
+		<en-US>Manage</en-US>
+		<ja>管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MANAGE_LUXURIES</zType>
+		<en-US>Manage Luxuries</en-US>
+		<ja>贅沢品の管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MANAGE_LUXURIES_PLAYER</zType>
+		<en-US>Manage Nations</en-US>
+		<ja>国家の管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MANAGE_LUXURIES_TRIBE</zType>
+		<en-US>Manage Tribes</en-US>
+		<ja>部族の管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MANAGE_LUXURIES_FAMILY</zType>
+		<en-US>Manage Family</en-US>
+		<ja>氏族の管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MANAGE_LUXURIES_CITY</zType>
+		<en-US>Manage Cities</en-US>
+		<ja>都市の管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OUTGOING_LUXURIES</zType>
+		<en-US>Outgoing: {0_quantity}</en-US>
+		<ja>出費：{0_quantity}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OUTGOING_LUXURIES_LIST</zType>
+		<en-US>Outgoing: {LIST}</en-US>
+		<ja>出費：{LIST}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OUTGOING_LUXURY_TITLE</zType>
+		<en-US>Outgoing {0_luxuryName}: {1_quantity}</en-US>
+		<ja>{0_luxuryName}の出費：{1_quantity}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_AVAILABLE_LUXURIES</zType>
+		<en-US>Available: {0_numLuxuries}</en-US>
+		<ja>利用可能：{0_numLuxuries}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_RETURN_TO_LUXURY_OVERVIEW</zType>
+		<en-US>Return to Overview</en-US>
+		<ja>概要に戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GIFT_YIELD</zType>
+		<en-US>Send Goods</en-US>
+		<ja>商品を送る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AGENT_MISSIONS</zType>
+		<en-US>Agent Missions</en-US>
+		<ja>諜報員ミッション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ASSIGN_CHARACTER_AGENTS</zType>
+		<en-US>Agent Networks</en-US>
+		<ja>諜報網</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_MISSIONS_AVAILABLE</zType>
+		<en-US>{0_character} is idle and can be sent on a Mission</en-US>
+		<ja>{0_character}は待機中で、ミッションに送ることができる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_MISSIONS_AVAILABLE_HEAD</zType>
+		<en-US>{0_character} (Head of {1_head}) is idle and can be sent on a Mission</en-US>
+		<ja>{0_character}（{1_head}の長）は待機中で、ミッションに送ることができる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_MISSIONS_AVAILABLE_LEADER</zType>
+		<en-US>{0_character} is idle and can be sent on a Mission</en-US>
+		<ja>{0_character}は待機中で、ミッションに送ることができる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TUTOR_AVAILABLE</zType>
+		<en-US>{0_character} can be tutored</en-US>
+		<ja>{0_character}には指導を与えることができる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DISMISS_REMINDER</zType>
+		<en-US>{true_0:{0_presskey} to dismiss this reminder.{true_1: This reminder will not reappear unless a new candidate becomes available.}}</en-US>
+		<ja>{true_0:{0_presskey}でこのリマインダーを非表示にします。{true_1:このリマインダーは、新しい候補者が現れるまで再表示されません。}}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DISSENT</zType>
+		<en-US>Dissent</en-US>
+		<ja>異議</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AGENT_MISSION_NAME</zType>
+		<en-US><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></en-US>
+		<ja><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+		<en-US>New Game</en-US>
+		<ja>新規ゲーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+		<en-US>Load Game</en-US>
+		<ja>ゲームをロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_MENU_SCREEN_SCEN_BUTTON</zType>
+		<en-US>Scenario</en-US>
+		<ja>シナリオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_MENU_SCREEN_GOFTW_BUTTON</zType>
+		<en-US>Game of the Week</en-US>
+		<ja>ゲーム・オブ・ザ・ウィーク</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_MENU_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_MENU_SCREEN_NEXT_BUTTON</zType>
+		<en-US>Next</en-US>
+		<ja>次へ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_KICK_ACTIVE_PLAYER</zType>
+		<en-US>Kick the current player?</en-US>
+		<ja>現在のプレイヤーをキックしますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SKIP_ACTIVE_PLAYER</zType>
+		<en-US>Skip the current player's turn?</en-US>
+		<ja>現在のプレイヤーのターンをスキップしますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_DELETE_CLOUD_SAVE</zType>
+		<en-US>Delete this save ({0_gameName})?</en-US>
+		<ja>この保存した({0_gameName})を削除しますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON</zType>
+		<en-US>Join</en-US>
+		<ja>参加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+		<en-US>New Game</en-US>
+		<ja>新規ゲーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+		<en-US>Load Game</en-US>
+		<ja>ゲームをロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_HOSTGAME_BUTTON</zType>
+		<en-US>Host</en-US>
+		<ja>ホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON_ONLINE</zType>
+		<en-US>Join (Online)</en-US>
+		<ja>参加（オンライン）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON_LAN</zType>
+		<en-US>Join (LAN)</en-US>
+		<ja>参加（LAN）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_KICK_ACTIVE_PLAYER</zType>
+		<en-US>Kick Active Player</en-US>
+		<ja>アクティブなプレイヤーをキック</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_SKIP_ACTIVE_PLAYER</zType>
+		<en-US>Skip Active Player</en-US>
+		<ja>アクティブなプレイヤーをスキップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_REWIND_TO_PLAYER</zType>
+		<en-US>Rewind To Player</en-US>
+		<ja>プレイヤーに巻き戻す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_DOWNLOAD_SAVE</zType>
+		<en-US>Download</en-US>
+		<ja>ダウンロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_DELETE_GAME</zType>
+		<en-US>Delete</en-US>
+		<ja>削除</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_SET_MESSAGE</zType>
+		<en-US>Set Message</en-US>
+		<ja>メッセージをセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_AWAY_BUTTON_SET</zType>
+		<en-US>Set</en-US>
+		<ja>セット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_AWAY_BUTTON_CLEAR</zType>
+		<en-US>Clear</en-US>
+		<ja>空き地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_AWAY_BUTTON_UPDATE</zType>
+		<en-US>Update</en-US>
+		<ja>更新</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_STATUS_MESSAGE</zType>
+		<en-US>Status Message</en-US>
+		<ja>ステータスメッセージ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_MESSAGE_PROMPT</zType>
+		<en-US>Enter Status Message</en-US>
+		<ja>ステータスメッセージを入力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_APPLY_MESSAGE</zType>
+		<en-US>Apply to All</en-US>
+		<ja>全てに適用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_SAVE_MESSAGE</zType>
+		<en-US>Save</en-US>
+		<ja>保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_HOST_CONTROLS</zType>
+		<en-US>Host Controls</en-US>
+		<ja>コントロールをホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_HOST</zType>
+		<en-US>Host</en-US>
+		<ja>ホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_NOTIFICATION_URL</zType>
+		<en-US>Notification URL</en-US>
+		<ja>通知URL</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_USER_TITLE</zType>
+		<en-US>Cloud Games</en-US>
+		<ja>クラウドゲーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CLOUD_SCREEN_JOIN_AS_NETWORK</zType>
+		<en-US>Network Host</en-US>
+		<ja>ネットワークホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE</zType>
+		<en-US>Play against online opponents in real time</en-US>
+		<ja>リアルタイムでオンラインの相手と対戦プレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE</zType>
+		<en-US>Take turns in a game that is stored on the cloud for the next player</en-US>
+		<ja>クラウドに保存されたゲームを次のプレイヤーとターン制プレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE</zType>
+		<en-US>Take turns playing on the same device</en-US>
+		<ja>同じデバイス上でターン制プレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE</zType>
+		<en-US>Host a game on a remote server</en-US>
+		<ja>リモートサーバーでゲームをホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE_BUTTON</zType>
+		<en-US>Network</en-US>
+		<ja>ネットワーク</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_NETWORK_HOST_BUTTON</zType>
+		<en-US>Online</en-US>
+		<ja>オンライン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_SERVER_HOST_BUTTON</zType>
+		<en-US>Persistent Server</en-US>
+		<ja>持続サーバー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_LAN_MODE</zType>
+		<en-US>Play against opponents on your local area network</en-US>
+		<ja>ローカルエリアネットワーク上の相手と対戦する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_LAN_MODE_BUTTON</zType>
+		<en-US>LAN</en-US>
+		<ja>LAN</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE_BUTTON</zType>
+		<en-US>Play By Cloud</en-US>
+		<ja>クラウドでプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE_BUTTON</zType>
+		<en-US>Hotseat</en-US>
+		<ja>ホットシート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE_BUTTON</zType>
+		<en-US>Server Mode</en-US>
+		<ja>サーバーモード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_SCREEN_NO_NETWORK_CONNECTION</zType>
+		<en-US>Unavailable because no network connection could be found</en-US>
+		<ja>ネットワーク接続が見つからなかったため、利用できません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_WIZARD_NETWORK_MODE</zType>
+		<en-US>Play against opponents over a network connection</en-US>
+		<ja>ネットワーク接続している相手と対戦する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_GAME_SCREEN_BUTTON</zType>
+		<en-US>Multiplayer</en-US>
+		<ja>マルチプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_GAME_SCREEN_BROWSER_BUTTON</zType>
+		<en-US>Game Browser</en-US>
+		<ja>ゲームブラウザー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_FIND_PLAYERS_HELP</zType>
+		<en-US><![CDATA[Looking for other Players? Try the #looking-for-group-lfg channel on <color=#e3c08c><link="HYPERLINK,discord.gg/BNVpEgJ">our Discord!</link></color>]]></en-US>
+		<ja><![CDATA[他のプレーヤーをお探しですか？本作の公式Discordはこちらです。「#looking-for-group-lfg」チャンネルから探してみてください。：<color=#e3c08c><link="HYPERLINK,discord.gg/BNVpEgJ"></link></color>]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_GAME_SCREEN_TEAM_NAME</zType>
+		<en-US>Team {0}</en-US>
+		<ja>チーム{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SERVERS_SCREEN_TITLE</zType>
+		<en-US>Servers</en-US>
+		<ja>サーバー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SERVERS_SCREEN_HELP</zType>
+		<en-US>Remote servers are listed here. To launch a game, enter the server password and select a server to set up a multiplayer game. The launched game is sent to the remote server where it functions just like any other network game. Multiple games may be hosted on the same server. To launch a local server, run the OldWorldServer batch file that is in the same location as the OldWorld executable file. To control the remotely hosted game and change some parameters while it is running, enter the server password on the Nation selection screen after joining.</en-US>
+		<ja>こちらにリモートサーバーが一覧表示されます。ゲームを開始するには、サーバーのパスワードを入力し、サーバーを選択してマルチプレイヤーゲームを設定します。開始したゲームはリモートサーバーに送信されます。それ以降は通常のネットワークゲーム同様に機能します。同じサーバー上で複数のゲームがホストされる場合があります。ローカルサーバーを立ち上げるには、OldWorld実行ファイルと同じ場所にあるOldWorldServerバッチファイルを実行します。リモートでホストされたゲームの制御や、パラメータの変更を実行中に行うには、参加後に国選択画面でサーバーのパスワードを入力します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SERVER_PASSWORD_HELP</zType>
+		<en-US>Enter the password to join this remotely hosted game as the host. Hosts have the ability to change game parameters, such as turn timer and turn style, they can continue the game on the cloud, and they can remove other players from the game.</en-US>
+		<ja>このリモートでホストされたゲームの制御や、パラメータの変更を実行中に行うには、サーバーのパスワードを入力してEnterキーを押します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SERVER_HOST_CONTROLS_HELP</zType>
+		<en-US>Access some host functionality without joining the game. Enter the host password first.</en-US>
+		<ja>ゲームに参加しなくても、ホストの一部の機能は利用することが可能です。はじめにホストパスワードを入力してください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HEADER_NAME_CELL</zType>
+		<en-US>Name</en-US>
+		<ja>名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HEADER_PLAYERS_CELL</zType>
+		<en-US>Players</en-US>
+		<ja>プレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HEADER_SERVER_CELL</zType>
+		<en-US>Server</en-US>
+		<ja>サーバー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HEADER_VERSION_CELL</zType>
+		<en-US>Version</en-US>
+		<ja>バージョン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HEADER_PASSWORD_CELL</zType>
+		<en-US>Password</en-US>
+		<ja>パスワード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_GAME_SEARCH</zType>
+		<en-US>Game Search</en-US>
+		<ja>ゲーム検索</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_REFRESH</zType>
+		<en-US>Refresh</en-US>
+		<ja>再読み込み</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYERS_SCREEN_OBSERVE_BUTTON</zType>
+		<en-US>Join as observer</en-US>
+		<ja>観戦で参加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYERS_SCREEN_CLEAR_PLAYER_SLOTS</zType>
+		<en-US>Clear Players</en-US>
+		<ja>プレーヤーの消去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYER_DISCONNECTED</zType>
+		<en-US>{0} has disconnected from the server</en-US>
+		<ja>{0}のサーバー接続が切れました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_ACHIEVEMENT_BUTTON</zType>
+		<en-US>View Achievements</en-US>
+		<ja>実績を表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_GAME_BUTTON</zType>
+		<en-US>View Games</en-US>
+		<ja>ゲームを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_NUMBER</zType>
+		<en-US>#</en-US>
+		<ja>#</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_SPMP</zType>
+		<en-US>SP/MP</en-US>
+		<ja>シングル/マルチ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_SCENARIO</zType>
+		<en-US>Scenario</en-US>
+		<ja>シナリオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_LEADER</zType>
+		<en-US>Leader</en-US>
+		<ja>指導者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_LEADERS</zType>
+		<en-US>Leaders</en-US>
+		<ja>指導者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_NATION</zType>
+		<en-US>Nation</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_VICTORY_TYPE</zType>
+		<en-US>Victory Type</en-US>
+		<ja>勝利タイプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DIFFICULTY</zType>
+		<en-US>Difficulty</en-US>
+		<ja>難易度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_VICTORY_SCENARIO</zType>
+		<en-US>Scenario Victory</en-US>
+		<ja>シナリオの勝利</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DEFEAT_SCENARIO</zType>
+		<en-US>Scenario Defeat</en-US>
+		<ja>シナリオ敗北</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DEFEAT</zType>
+		<en-US>Defeat</en-US>
+		<ja>敗北</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_VICTORY</zType>
+		<en-US>Victory</en-US>
+		<ja>勝利タイプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DEFEAT_BY</zType>
+		<en-US>Defeat by {0}</en-US>
+		<ja>{0}に敗北</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_AMBITIONS</zType>
+		<en-US>Ambitions</en-US>
+		<ja>野望</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_VP</zType>
+		<en-US>VPs</en-US>
+		<ja>勝利ポイント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_TURNS</zType>
+		<en-US>Turns</en-US>
+		<ja>ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_LEGITIMACY</zType>
+		<en-US>icon(YIELD_LEGITIMACY)</en-US>
+		<ja>icon(YIELD_LEGITIMACY)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_LOAD</zType>
+		<en-US>Load</en-US>
+		<ja>ロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DELETE</zType>
+		<en-US>Delete</en-US>
+		<ja>削除</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DETAILS</zType>
+		<en-US>Game Details</en-US>
+		<ja>ゲーム詳細</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_LOAD_HELP</zType>
+		<en-US>Load the game to explore the final state of play.</en-US>
+		<ja>ゲームをロードして、プレイの最終状況を確認します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_DELETE_HELP</zType>
+		<en-US>Delete the game from the Hall of Fame.</en-US>
+		<ja>栄誉の殿堂からゲームを削除します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORT_LEGITIMACY</zType>
+		<en-US>Sort by Legitimacy</en-US>
+		<ja>正統性で並び替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORT_VPS</zType>
+		<en-US>Sort by Victory Points</en-US>
+		<ja>勝利ポイント順で並び替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORT_TURNS</zType>
+		<en-US>Sort by Turns</en-US>
+		<ja>ターン順で並び替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORT_AMBITIONS</zType>
+		<en-US>Sort by Ambitions</en-US>
+		<ja>「野心」で並び替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORT_DATE</zType>
+		<en-US>Sort by Date</en-US>
+		<ja>日付順に並び替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORT_DIFFICULTY</zType>
+		<en-US>Sort by Difficulty</en-US>
+		<ja>難易度により並べ替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SORTING_DROPDOWN_LABEL</zType>
+		<en-US>Sorting: </en-US>
+		<ja>並び替え： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_ALL</zType>
+		<en-US>Show All Games</en-US>
+		<ja>ゲームを全て表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_SP</zType>
+		<en-US>Show SP Games</en-US>
+		<ja>シングルプレイゲームを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_MP</zType>
+		<en-US>Show MP Games</en-US>
+		<ja>マルチプレイゲームを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_PBC</zType>
+		<en-US>Show Cloud Games</en-US>
+		<ja>クラウドに保存されたゲームを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_GOTW</zType>
+		<en-US>Show GotW</en-US>
+		<ja>Game of the Weekを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_TUTORIALS</zType>
+		<en-US>Show Tutorials</en-US>
+		<ja>チュートリアルを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_WORLD</zType>
+		<en-US>Show World Maps</en-US>
+		<ja>ワールドマップを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_CARTHAGE</zType>
+		<en-US>Show Carthage Scenarios</en-US>
+		<ja>「カルタゴ」のシナリオを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_HEROES</zType>
+		<en-US>Show Heroes Scenarios</en-US>
+		<ja>「エーゲ海の英雄たち」のシナリオを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_PHARAOHS</zType>
+		<en-US>Show Pharaohs Scenarios</en-US>
+		<ja>「ファラオたち」のシナリオを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_OTHER_SCENARIOS</zType>
+		<en-US>Show Other Scenarios</en-US>
+		<ja>他のシナリオを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_FILTER_NON_SCENARIOS</zType>
+		<en-US>Exclude Scenarios/GotW</en-US>
+		<ja>シナリオ / Game of the Weekを除外</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_REGENERATE_BUTTON</zType>
+		<en-US>Regenerate HoF</en-US>
+		<ja>「栄誉の殿堂」の再生成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_REGENERATING</zType>
+		<en-US>Regenerating Hall of Fame. This process may take a while.</en-US>
+		<ja>「栄誉の殿堂」を再生成中。しばらく時間がかかる可能性があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_GAMES_COMPLETED</zType>
+		<en-US>Games Completed: </en-US>
+		<ja>コンプリートしたゲーム： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_GAME_COMPLETED_ON</zType>
+		<en-US>Game completed on {0}</en-US>
+		<ja>{0}でゲーム完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_TOOLTIP_TURNS</zType>
+		<en-US>Turns: {0}</en-US>
+		<ja>ターン: {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_ACHIEVEMENTS_UNLOCKED</zType>
+		<en-US>Achievements Unlocked</en-US>
+		<ja>アンロックされた実績</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_ACHIEVEMENTS_LOCKED</zType>
+		<en-US>Achievements Locked</en-US>
+		<ja>ロック中の実績</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HALL_OF_STATS</zType>
+		<en-US>Player Stats</en-US>
+		<ja>プレイヤーのステータス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_NONE</zType>
+		<en-US>Win a game to generate stats</en-US>
+		<ja>ステータスを生成するためにはゲームに勝利する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_VICTORY</zType>
+		<en-US>Most Common Victory: </en-US>
+		<ja>最多勝利数： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_NATION</zType>
+		<en-US>Favorite Nation: </en-US>
+		<ja>お気に入りの国家： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_MAPCLASS</zType>
+		<en-US>Favorite Map: </en-US>
+		<ja>お気に入りのマップ： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_LEGITIMACY</zType>
+		<en-US>Highest Legitimacy: </en-US>
+		<ja>最高の正統性： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_POINTS</zType>
+		<en-US>Highest Victory Points: </en-US>
+		<ja>最高勝利点： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_ACHIEVEMENTS</zType>
+		<en-US>Achievements Unlocked: </en-US>
+		<ja>アンロックされた実績： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_STATS_GAMES_WON</zType>
+		<en-US>Games Won: </en-US>
+		<ja>勝利したゲーム： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HALL_OF_GREATS</zType>
+		<en-US>Hall of the Greats</en-US>
+		<ja>偉人の殿堂</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_HALL_OF_FAME_BUTTON</zType>
+		<en-US>Hall of Fame</en-US>
+		<ja>栄誉の殿堂</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
+		<en-US>Map Editor</en-US>
+		<ja>マップエディタ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_GENERIC_NATION</zType>
+		<en-US>Generic</en-US>
+		<ja>一般</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_VOLCANO</zType>
+		<en-US>Volcanoes</en-US>
+		<ja>火山</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_MOUNTAIN_RANGE</zType>
+		<en-US>Mountain Ranges</en-US>
+		<ja>山地</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PEAK</zType>
+		<en-US>Peaks</en-US>
+		<ja>山頂</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_RIVER</zType>
+		<en-US>Rivers</en-US>
+		<ja>川</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_FOREST</zType>
+		<en-US>Forests</en-US>
+		<ja>森林</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_HEATH</zType>
+		<en-US>Heaths</en-US>
+		<ja>荒野</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PLAINS</zType>
+		<en-US>Plains</en-US>
+		<ja>平原</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_DESERT</zType>
+		<en-US>Deserts</en-US>
+		<ja>砂漠</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PLATEAU</zType>
+		<en-US>Plateaus</en-US>
+		<ja>高原</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_VALLEY</zType>
+		<en-US>Valleys</en-US>
+		<ja>渓谷</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_OCEAN</zType>
+		<en-US>Oceans</en-US>
+		<ja>大洋</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_SEA</zType>
+		<en-US>Seas</en-US>
+		<ja>海</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_BAY</zType>
+		<en-US>Bays</en-US>
+		<ja>湾</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_LAKE</zType>
+		<en-US>Lakes</en-US>
+		<ja>湖</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_ISLAND</zType>
+		<en-US>Islands</en-US>
+		<ja>島</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_CLOSE</zType>
+		<en-US>Close</en-US>
+		<ja>閉じる</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_NEW</zType>
+		<en-US>New</en-US>
+		<ja>新規</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_SAVE</zType>
+		<en-US>Save</en-US>
+		<ja>保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_SAVE_AS</zType>
+		<en-US>Save As</en-US>
+		<ja>名前を付けてセーブ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_LOAD</zType>
+		<en-US>Load</en-US>
+		<ja>ロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_MAIN_MENU</zType>
+		<en-US>Main Menu</en-US>
+		<ja>メインメニュー</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MENU_HEADING</zType>
+		<en-US>Menu</en-US>
+		<ja>メニュー</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_TERRAIN</zType>
+		<en-US>Terrain</en-US>
+		<ja>地形</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_HEIGHT</zType>
+		<en-US>Height</en-US>
+		<ja>高地</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_RESOURCES</zType>
+		<en-US>Resources</en-US>
+		<ja>資源</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_VEGETATION</zType>
+		<en-US>Vegetation</en-US>
+		<ja>植物</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_IMPROVEMENTS</zType>
+		<en-US>Improvements</en-US>
+		<ja>建設物</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_TERRITORIES</zType>
+		<en-US>Territories</en-US>
+		<ja>領土</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_DYNASTIES</zType>
+		<en-US>Dynasties</en-US>
+		<ja>王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_RIVERS</zType>
+		<en-US>Rivers</en-US>
+		<ja>川</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_ROADS</zType>
+		<en-US>Roads</en-US>
+		<ja>道路</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_BOUNDARIES</zType>
+		<en-US>Boundaries</en-US>
+		<ja>境界線</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_NAME</zType>
+		<en-US>Name</en-US>
+		<ja>名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_NAME_LIST</zType>
+		<en-US>Name List</en-US>
+		<ja>名前リスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ERASE</zType>
+		<en-US>Erase</en-US>
+		<ja>消去する</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_FILL</zType>
+		<en-US>Fill</en-US>
+		<ja>塗りつぶす</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_PAINT</zType>
+		<en-US>Paint</en-US>
+		<ja>塗る</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UNDO</zType>
+		<en-US>Undo</en-US>
+		<ja>取り消し</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_REDO</zType>
+		<en-US>Redo</en-US>
+		<ja>やり直し</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_BRUSH_SIZE_UP</zType>
+		<en-US>Brush Size Up</en-US>
+		<ja>ブラシのサイズアップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_BRUSH_SIZE_DOWN</zType>
+		<en-US>Brush Size Down</en-US>
+		<ja>ブラシのサイズダウン</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_RAISE_ELEVATION</zType>
+		<en-US>Raise Elevation</en-US>
+		<ja>高さを上げる</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_LOWER_ELEVATION</zType>
+		<en-US>Lower Elevation</en-US>
+		<ja>高さを下げる</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_CITY_SITE</zType>
+		<en-US>City Site</en-US>
+		<ja>都市拠点</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_CITY_SITE_START</zType>
+		<en-US>{0_nation} Start</en-US>
+		<ja>{0_nation}開始地点</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_CITY_SITE_RESERVED</zType>
+		<en-US>{0_nationOrTribe} Reserved</en-US>
+		<ja>{0_nationOrTribe}用確保地点</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ERROR_MAP_TOO_SMALL_TITLE</zType>
+		<en-US>Unable to Save: Map is too small!</en-US>
+		<ja>保存できません：マップが小さすぎます！</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_ERROR_MAP_TOO_SMALL</zType>
+		<en-US>Map Dimensions: {0_width}x{1_height}
+Valid Dimensions: {2_min}x{2_min}-{3_max}x{3_max}</en-US>
+		<ja>マップの大きさ：{0_width}x{1_height}
+有効な大きさ：{2_min}x{2_min}-{3_max}x{3_max}</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_MAP_SAVED</zType>
+		<en-US>Map Saved</en-US>
+		<ja>マップの保存完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_PLAYER_UI_START</zType>
+		<en-US>Player Start</en-US>
+		<ja>プレイヤーの開始位置</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_PLAYER_NAME</zType>
+		<en-US>Name:</en-US>
+		<ja>名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_AUTO_SIZE</zType>
+		<en-US>Auto Size</en-US>
+		<ja>オートサイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_START</zType>
+		<en-US>Start</en-US>
+		<ja>スタート</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_MAP_SIZE</zType>
+		<en-US>Map Size</en-US>
+		<ja>マップサイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_CENTER_DIMENSIONS</zType>
+		<en-US>Center Dimensions</en-US>
+		<ja>中心の大きさ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_GENERATE_MAP</zType>
+		<en-US>Generate Map</en-US>
+		<ja>マップ生成</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_OFFSET</zType>
+		<en-US>Offset</en-US>
+		<ja>オフセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_APPLY</zType>
+		<en-US>Apply</en-US>
+		<ja>適用</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_PROJECTOR</zType>
+		<en-US>Projector</en-US>
+		<ja>プロジェクター</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_OPACITY</zType>
+		<en-US>Opacity</en-US>
+		<ja>不透明度</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_FIT_TO_BOUNDS</zType>
+		<en-US>Fit to Bounds</en-US>
+		<ja>境界線に合わせる</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_PROJECTOR_START</zType>
+		<en-US>Projector Start</en-US>
+		<ja>プロジェクターの開始位置</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_PROJECTOR_SIZE</zType>
+		<en-US>Projector Size</en-US>
+		<ja>プロジェクターサイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_PRESERVE_ASPECT_RATIO</zType>
+		<en-US>Preserve Aspect Ratio</en-US>
+		<ja>アスペクト比を維持</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_MAP_EDGES_SAFE</zType>
+		<en-US>Map Edges Safe</en-US>
+		<ja>マップエッジセーフ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_RESOURCES</zType>
+		<en-US>Random Resources</en-US>
+		<ja>ランダムな資源</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_RESOURCES_ERROR</zType>
+		<en-US>You must set sizing values so that there are no blank Tiles in the defined map area before adding Resources.</en-US>
+		<ja>資源を追加する前に、定義したマップエリア上に空白のタイルがないようサイズ値を設定する必要があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_BONUS_IMPROVEMENTS</zType>
+		<en-US>Random Ruins</en-US>
+		<ja>ランダムな廃墟</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_BONUS_IMPROVEMENTS_ERROR</zType>
+		<en-US>You must set sizing values so that there are no blank Tiles in the defined map area before adding Ruins.</en-US>
+		<ja>廃墟を追加する前に、定義したマップエリア上に空白のタイルがないようサイズ値を設定する必要があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_ELEMENT_NAMES</zType>
+		<en-US>Random Element Names</en-US>
+		<ja>ランダムな要素名</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_ELEMENT_NAMES_ERROR</zType>
+		<en-US>You must set sizing values so that there are no blank Tiles in the defined map area before adding element names.</en-US>
+		<ja>要素名を追加する前に、定義したマップエリア上に空白のタイルがないようサイズ値を設定する必要があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_EVENT_BROWSER_BUTTON</zType>
+		<en-US>Event Browser</en-US>
+		<ja>イベントブラウザ</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_ENCYCLOPEDIA_BUTTON</zType>
+		<en-US>Encyclopedia</en-US>
+		<ja>エンサイクロペディア</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_MANUAL_BUTTON</zType>
+		<en-US>Manual</en-US>
+		<ja>マニュアル</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_CREDITS_BUTTON</zType>
+		<en-US>Credits</en-US>
+		<ja>クレジット</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_CREDITS_EXTRAS</zType>
+		<en-US>Extras</en-US>
+		<ja>その他</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_PORTRAIT_EDITOR_BUTTON</zType>
+		<en-US>Portrait Editor</en-US>
+		<ja>ポートレート・エディター(キャラクターアート)</ja>
+	</Entry>
+	<Entry>
+		<zType>TOOLS_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_SCREEN_BACK_BUTTON</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_HEADER_GOTW</zType>
+		<en-US>Game Of The Week</en-US>
+		<ja>ゲーム・オブ・ザ・ウィーク</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOF_VICTORY</zType>
+		<en-US>{0_victory} Victory</en-US>
+		<ja>{0_victory}勝利</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SEC_BUTTON_BACK</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_RESET_OPTIONS</zType>
+		<en-US>Reset Options</en-US>
+		<ja>設定のリセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
+		<en-US>Schedule</en-US>
+		<ja>スケジュール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
+		<en-US>Server Password</en-US>
+		<ja>サーバーパスワード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_LOBBY</zType>
+		<en-US>Lobby</en-US>
+		<ja>ロビー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_JOIN_SLOT</zType>
+		<en-US>Choose a slot to join</en-US>
+		<ja>参加するスロットを選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_CLOUD_ALLOW_ID</zType>
+		<en-US>Allow Online ID</en-US>
+		<ja>オンラインIDを許可</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_CLOUD_ALLOW_ID_HELP</zType>
+		<en-US>Using another player's unique platform ID can allow you to set up cloud games across platforms or with users who don't have you added as a friend.</en-US>
+		<ja>他プレイヤーの固有プラットフォームIDを使用することで、異なるプラットフォーム間やフレンドに追加されていないユーザーとクラウドゲームをセットアップすることが可能。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_CLOUD_SHOW_ID</zType>
+		<en-US>Hold hotkey(HOTKEY_SHIFT) to show your online ID{true_0: ({0_idString})}</en-US>
+		<ja>hotkey(HOTKEY_SHIFT)を押し続けると、オンラインID{true_0: ({0_idString})}が表示される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
+		<en-US>Game Name</en-US>
+		<ja>ゲーム名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMEPASSWORD</zType>
+		<en-US>Game Password</en-US>
+		<ja>ゲームパスワード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SHOW_PASSWORD</zType>
+		<en-US>Show Password</en-US>
+		<ja>パスワードを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HOSTPASSWORD</zType>
+		<en-US>Host Password</en-US>
+		<ja>ホストパスワード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_PLAYERS_SCREEN_HOST_CONTROL_BUTTON</zType>
+		<en-US>Host Controls</en-US>
+		<ja>コントロールをホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURN_URL</zType>
+		<en-US>Turn Notification URL</en-US>
+		<ja>ターン通知URL</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
+		<en-US>Players</en-US>
+		<ja>プレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
+		<en-US>Teams</en-US>
+		<ja>チーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SCENARIO</zType>
+		<en-US>Scenario</en-US>
+		<ja>シナリオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TRIBAL_STRENGTH</zType>
+		<en-US>Tribal Strength</en-US>
+		<ja>部族の戦闘力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_AGGRESSION</zType>
+		<en-US>AI Aggression</en-US>
+		<ja>AIの攻撃性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_ADVANTAGE</zType>
+		<en-US>AI Handicap</en-US>
+		<ja>AIのハンディキャップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_DEVELOPMENT</zType>
+		<en-US>AI Development</en-US>
+		<ja>AIの発展度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HUMAN_DEVELOPMENT</zType>
+		<en-US>Human Development</en-US>
+		<ja>人材開発</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
+		<en-US>Succession Gender</en-US>
+		<ja>性別による継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION_ORDER</zType>
+		<en-US>Succession Order</en-US>
+		<ja>序列による継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
+		<en-US>Mortality</en-US>
+		<ja>寿命</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_EVENTLEVEL</zType>
+		<en-US>Event Level</en-US>
+		<ja>イベント頻度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNTIMER</zType>
+		<en-US>Turn Timer</en-US>
+		<ja>ターンタイマー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNSTYLE</zType>
+		<en-US>Turn Style</en-US>
+		<ja>ターンスタイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURN_SCALE</zType>
+		<en-US>Turn Scale</en-US>
+		<ja>ターンの単位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
+		<en-US>Simultaneous Turns</en-US>
+		<ja>同時ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAM_NATIONS</zType>
+		<en-US>Nations</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE</zType>
+		<en-US>Map Type</en-US>
+		<ja>マップタイプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_RANDOM</zType>
+		<en-US>Random Map</en-US>
+		<ja>ランダムマップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_PREMADE</zType>
+		<en-US>Premade Map</en-US>
+		<ja>作成済みマップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP</zType>
+		<en-US>Map</en-US>
+		<ja>マップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_FILE</zType>
+		<en-US>Map File</en-US>
+		<ja>マップファイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_SIZE</zType>
+		<en-US>Map Size</en-US>
+		<ja>マップサイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SETUP_GAMEOPTIONS_LABEL_MAP_ASPECT_RATIO</zType>
+		<en-US>Map Aspect Ratio</en-US>
+		<ja>マップアスペクト比</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SETUP_GAMEOPTIONS_LABEL_ADVANCED</zType>
+		<en-US>Advanced Options</en-US>
+		<ja>高度な設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SHOW_HIDDEN_SCRIPTS</zType>
+		<en-US>Show Hidden Map Scripts</en-US>
+		<ja>隠されたマップのスクリプトを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_USE_OTHER_MODS</zType>
+		<en-US>Use Mods</en-US>
+		<ja>Modを使用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_FORCEMARCH</zType>
+		<en-US>Forced March</en-US>
+		<ja>強制行軍</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_MOD_SELECTION</zType>
+		<en-US>Select Mods</en-US>
+		<ja>Modを選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_DLC_SELECTION</zType>
+		<en-US>Select DLC</en-US>
+		<ja>DLCを選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_MOD_SELECTION_TITLE</zType>
+		<en-US>Mods</en-US>
+		<ja>Mod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_MOD_SELECTION_CUSTOM_OPTIONS_LABEL</zType>
+		<en-US>Custom Options</en-US>
+		<ja>カスタムオプション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_HOST_CONTROLS_SCREEN_TITLE</zType>
+		<en-US>Host Controls</en-US>
+		<ja>ホストコントロール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_HUMAN</zType>
+		<en-US>Human</en-US>
+		<ja>人間</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_AI</zType>
+		<en-US>AI</en-US>
+		<ja>AI</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_INVALID_START</zType>
+		<en-US>Cannot Start Game</en-US>
+		<ja>ゲームを開始できません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_INVALID_START_NATIONS</zType>
+		<en-US>There are more players than unique nations, or duplicate Nations have been selected.</en-US>
+		<ja>参加プレイヤーが国家より多くなっているか、選択した国家が重複しています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_INVALID_START_TEAMS</zType>
+		<en-US>There are teams without any players assigned to them.</en-US>
+		<ja>プレイヤーが割り当てられていないチームが存在します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_INVALID_START_MAP</zType>
+		<en-US>"Premade Map" is selected, but no map file has been specified</en-US>
+		<ja>「作成済みマップ」が選択されていますが、マップファイルが指定されていません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_NO_HUMANS</zType>
+		<en-US>There are no human players</en-US>
+		<ja>人間のプレイヤーが存在しません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
+		<en-US>Name</en-US>
+		<ja>名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_NATION</zType>
+		<en-US>Nation</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_ARCHETYPE</zType>
+		<en-US>Archetype</en-US>
+		<ja>スタイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
+		<en-US>Prosperity</en-US>
+		<ja>繁栄度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_DEVELOPMENT</zType>
+		<en-US>Development</en-US>
+		<ja>開発</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
+		<en-US>Team</en-US>
+		<ja>チーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_CONTROL</zType>
+		<en-US>Control</en-US>
+		<ja>コントロール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
+		<en-US>Email</en-US>
+		<ja>Eメール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_USERNAME</zType>
+		<en-US>Username</en-US>
+		<ja>ユーザー名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SCHEDULE_SCHEDULING</zType>
+		<en-US>Scheduling</en-US>
+		<ja>スケジュール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_START</zType>
+		<en-US>Pause Start</en-US>
+		<ja>一時停止開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_END</zType>
+		<en-US>Pause End</en-US>
+		<ja>一時停止終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_ADD</zType>
+		<en-US>Add Pause</en-US>
+		<ja>一時停止を追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
+		<en-US>Clear Pauses</en-US>
+		<ja>一時停止をクリア</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_PLAYERS_DYNASTY</zType>
+		<en-US>Dynasty</en-US>
+		<ja>王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_OPTIONS</zType>
+		<en-US>Options</en-US>
+		<ja>オプション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_GENERAL</zType>
+		<en-US>General</en-US>
+		<ja>全般</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
+		<en-US>Graphics</en-US>
+		<ja>グラフィックス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
+		<en-US>Audio</en-US>
+		<ja>オーディオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
+		<en-US>UI</en-US>
+		<ja>UI</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_ACCESSIBILITY</zType>
+		<en-US>Accessibility</en-US>
+		<ja>アクセシビリティ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
+		<en-US>Controls</en-US>
+		<ja>コントロール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ANNOUNCEMENTS_TITLEBAR</zType>
+		<en-US>ANNOUNCEMENTS</en-US>
+		<ja>告知</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ANNOUNCE_DLC_TITLE</zType>
+		<en-US>Available DLC for Old World</en-US>
+		<ja>『Old World』プレイ可能なDLC</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ANNOUNCE_DLC_CLICK_STORE</zType>
+		<en-US>Click an icon to go to that DLC's store page</en-US>
+		<ja>アイコンをクリックすると、そのDLCのストアページに遷移します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_AUDIO_CONTROLS</zType>
+		<en-US>Audio Controls</en-US>
+		<ja>オーディオコントロール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_MUSIC_TRACK_CUSTOMIZATION</zType>
+		<en-US>Music Track Customization</en-US>
+		<ja>音楽トラックのカスタマイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_CONTROLS_CLEAR_HOTKEY</zType>
+		<en-US>Clear</en-US>
+		<ja>空き地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_CONTROLS_HOTKEY_INVALID</zType>
+		<en-US>Hotkey combination invalid (must contain a key other than Alt, Ctrl, or Shift). Change will not be applied.</en-US>
+		<ja>ホットキーの組み合わせが無効です（Alt、Ctrl、Shift以外のキーが必要です）変更は適用されません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_CONTROLS_HOTKEY_CONFLICT</zType>
+		<en-US>Hotkey combination already assigned to {0_hotkey}. Change will not be applied.</en-US>
+		<ja>ホットキーの組み合わせがすでに{0_hotkey}に割り当てられています。変更は適用されません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_CONTROLS_SAVE</zType>
+		<en-US>Save</en-US>
+		<ja>保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_CONTROLS_RESET</zType>
+		<en-US>Reset</en-US>
+		<ja>リセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_REQUIRES_RESTART_DIALOG</zType>
+		<en-US>The game must be restarted to apply this change.</en-US>
+		<ja>この変更を適用するには、ゲームをリスタートする必要があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPTIONS_MENU_ULTRAWIDE_SCALING</zType>
+		<en-US>HUD elements may appear larger than expected on ultrawide resolutions. HUD scaling can be adjusted on the Accessibility tab.</en-US>
+		<ja>ウルトラワイドの解像度では、HUD要素が予想より大きく表示される場合があります。HUDのサイズは、［アクセシビリティ］タブで調整できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_NEWSCENARIO</zType>
+		<en-US>New Scenario</en-US>
+		<ja>新規シナリオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_NATION</zType>
+		<en-US>Nation</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_ARCHETYPE</zType>
+		<en-US>Leader Archetype</en-US>
+		<ja>指導者スタイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
+		<en-US>Opponents</en-US>
+		<ja>相手</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_TRIBE</zType>
+		<en-US>Tribes</en-US>
+		<ja>部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_ADVANTAGE</zType>
+		<en-US>AI Handicap</en-US>
+		<ja>AIのハンディキャップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
+		<en-US>Prosperity</en-US>
+		<ja>繁栄度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_DIFFICULTY_MODE</zType>
+		<en-US>Difficulty</en-US>
+		<ja>難易度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_SHOW_OPTIONS</zType>
+		<en-US>Show Options</en-US>
+		<ja>オプションを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_SHOW_DESC</zType>
+		<en-US>Show Description</en-US>
+		<ja>説明を表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_FILE_BROWSE</zType>
+		<en-US>Browse</en-US>
+		<ja>表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_CONTINUE_FROM_FILE</zType>
+		<en-US>Continue from file</en-US>
+		<ja>ファイルから続行</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_FILE_LOADED</zType>
+		<en-US>{0} Loaded</en-US>
+		<ja>{0}がロードされました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_STARTGAME</zType>
+		<en-US>Start Game</en-US>
+		<ja>ゲーム開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_LOCKED_PREREQ</zType>
+		<en-US>Achieve victory on {0_scenario} to unlock</en-US>
+		<ja>アンロックするには{0_scenario}で勝利を達成する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SCENARIO_SETUP_DYNASTY</zType>
+		<en-US>Dynasty</en-US>
+		<ja>王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_BIO</zType>
+		<en-US>Bio</en-US>
+		<ja>プロフィール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_STATS</zType>
+		<en-US>Stats</en-US>
+		<ja>ステータス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
+		<en-US>Simple Setup</en-US>
+		<ja>簡単設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
+		<en-US>Advanced Setup</en-US>
+		<ja>詳細設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
+		<en-US>Starts With</en-US>
+		<ja>開始時点</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
+		<en-US>Unique</en-US>
+		<ja>ユニーク</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
+		<en-US>Families</en-US>
+		<ja>家族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_SETUP_ARCHETYPE</zType>
+		<en-US>Leader link(CONCEPT_ARCHETYPE)</en-US>
+		<ja>指導者link(CONCEPT_ARCHETYPE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_TABS_SETUP_CHARACTERS</zType>
+		<en-US>Starting Characters</en-US>
+		<ja>初期キャラクター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_DIFFICULTY</zType>
+		<en-US>Difficulty</en-US>
+		<ja>難易度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_MAPTYPE</zType>
+		<en-US>Map Type</en-US>
+		<ja>マップタイプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_RANDOM_MAP</zType>
+		<en-US>Random Map</en-US>
+		<ja>ランダムマップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_PREMADE_MAP</zType>
+		<en-US>Premade Map</en-US>
+		<ja>作成済みマップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_MAPSIZE</zType>
+		<en-US>Map Size</en-US>
+		<ja>マップサイズ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_GAME_OPTION_PRESETS</zType>
+		<en-US>Option Presets</en-US>
+		<ja>オプションのプリセット値</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_PLAYER_OPTIONS</zType>
+		<en-US>Player Setup</en-US>
+		<ja>プレーヤーの設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_OPPONENT_OPTIONS</zType>
+		<en-US>Opponent Setup</en-US>
+		<ja>対戦相手の設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_CHARACTER_OPTIONS</zType>
+		<en-US>Characters and Events</en-US>
+		<ja>キャラとイベント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_VICTORY_OPTIONS</zType>
+		<en-US>Victory Conditions</en-US>
+		<ja>勝利条件</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_MAP_OPTIONS</zType>
+		<en-US>Map Setup</en-US>
+		<ja>地図設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_RULES_OPTIONS</zType>
+		<en-US>Game Rules</en-US>
+		<ja>ゲームルール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_DLC_MOD_OPTIONS</zType>
+		<en-US>DLC and Mods</en-US>
+		<ja>DLCとMOD</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_NATION</zType>
+		<en-US>Nation</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_ARCHETYPE</zType>
+		<en-US>Leader Archetype</en-US>
+		<ja>指導者スタイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
+		<en-US>Number of Opponents</en-US>
+		<ja>相手の人数</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS_OPTION</zType>
+		<en-US>{0_count} {singular_0:Opponent:Opponents}</en-US>
+		<ja>{0_count} {singular_0:相手:相手}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_ARCHETYPES</zType>
+		<en-US>Initial Leader Archetype</en-US>
+		<ja>初期の指導者スタイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
+		<en-US>Mortality</en-US>
+		<ja>寿命</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_TURN_SCALE</zType>
+		<en-US>Turn Scale</en-US>
+		<ja>ターンの単位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
+		<en-US>Event Level</en-US>
+		<ja>イベント頻度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
+		<en-US>Succession Gender</en-US>
+		<ja>性別による継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION_ORDER</zType>
+		<en-US>Succession Order</en-US>
+		<ja>序列による継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
+		<en-US>Prosperity</en-US>
+		<ja>繁栄度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_TRIBE_LEVEL</zType>
+		<en-US>Tribal Strength</en-US>
+		<ja>部族の戦闘力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_AI_AGGRESSION</zType>
+		<en-US>AI Aggression</en-US>
+		<ja>AIの攻撃性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_AI_ADVANTAGE</zType>
+		<en-US>AI Handicap</en-US>
+		<ja>AIのハンディキャップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_AI_DEVELOPMENT</zType>
+		<en-US>AI Development</en-US>
+		<ja>AIの発展度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_HUMAN_DEVELOPMENT</zType>
+		<en-US>Human Development</en-US>
+		<ja>人材開発</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_VICTORY_POINT_THRESHOLD</zType>
+		<en-US>Points to Win</en-US>
+		<ja>勝利点</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_ADVANCED_FORCEMARCH</zType>
+		<en-US>Forced March</en-US>
+		<ja>強制行軍</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SHOW_HIDDEN_SCRIPTS</zType>
+		<en-US>Show Hidden Map Scripts</en-US>
+		<ja>隠されたマップのスクリプトを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_DYNASTY</zType>
+		<en-US>Dynasty</en-US>
+		<ja>王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
+		<en-US>Characters</en-US>
+		<ja>キャラクター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_CHARTAB_LEADER</zType>
+		<en-US>Leader</en-US>
+		<ja>指導者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
+		<en-US>Spouse</en-US>
+		<ja>配偶者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_CHARTAB_SUCCESSION</zType>
+		<en-US>Succession</en-US>
+		<ja>継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_CHARTAB_COURT_COURTIERS</zType>
+		<en-US>Courtiers</en-US>
+		<ja>廷臣</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_RELATIONSTAB_RELIGIONS</zType>
+		<en-US>Religions</en-US>
+		<ja>宗教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_RELATIONSTAB_STATE_RELIGION</zType>
+		<en-US>link(CONCEPT_STATE_RELIGION)</en-US>
+		<ja>link(CONCEPT_STATE_RELIGION)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_RELATIONSTAB_OTHER_RELIGIONS</zType>
+		<en-US>Other Religions</en-US>
+		<ja>他の宗教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_RELATIONSTAB_FAMILIES</zType>
+		<en-US>Families</en-US>
+		<ja>家族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_DIPLOTAB_NATIONS</zType>
+		<en-US>Nations</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_DIPLOTAB_TRIBES</zType>
+		<en-US>Tribes</en-US>
+		<ja>部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_DIPLOTAB_CITIES</zType>
+		<en-US>Cities{true_0: by {0_filter}}</en-US>
+		<ja>都市{true_0:{0_filter}ごと}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_DIPLOTAB_AGENTS</zType>
+		<en-US>Agent Cities{true_0: by {0_filter}}</en-US>
+		<ja>諜報員の都市{true_0:{0_filter}ごと}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_PRODUCTION</zType>
+		<en-US>Production</en-US>
+		<ja>生産</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_GOVERNOR</zType>
+		<en-US>Governor Status</en-US>
+		<ja>統治者のステータス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_FAMILY</zType>
+		<en-US>Family</en-US>
+		<ja>氏族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_RELIGION</zType>
+		<en-US>City Religions</en-US>
+		<ja>都市の宗教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_POPULATION</zType>
+		<en-US>Citizens + Specialists</en-US>
+		<ja>市民＋専門家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_BASE</zType>
+		<en-US>Base {0_yieldName}</en-US>
+		<ja>{0_yieldName}ベース</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_HAPPINESS_LEVEL</zType>
+		<en-US>Happiness Level</en-US>
+		<ja>幸福度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_CULTURE_LEVEL</zType>
+		<en-US>Culture Level</en-US>
+		<ja>文化度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYSORT_FOUND</zType>
+		<en-US>Founding Turn</en-US>
+		<ja>創立ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYTAB_CITIES_MODE</zType>
+		<en-US>Show Your Cities</en-US>
+		<ja>あなたの都市を表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITYTAB_AGENTS_MODE</zType>
+		<en-US>Show Cities with link(CONCEPT_AGENT_NETWORK,2)</en-US>
+		<ja>都市をlink(CONCEPT_AGENT_NETWORK,2)で表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
+		<en-US>Units</en-US>
+		<ja>ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_REQUIREMENTS</zType>
+		<en-US>Requirements</en-US>
+		<ja>要件</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_COST</zType>
+		<en-US>Construction</en-US>
+		<ja>建設</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_UNLOCKBONUS</zType>
+		<en-US>Unlock Bonus</en-US>
+		<ja>ボーナスをアンロック</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_EFFECT</zType>
+		<en-US>Effect</en-US>
+		<ja>効果</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
+		<en-US>Unlocks</en-US>
+		<ja>アンロック</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_REQUIRES</zType>
+		<en-US>Requires</en-US>
+		<ja>必要</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
+		<en-US>Bonus Cards</en-US>
+		<ja>ボーナスカード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_RESEARCHING</zType>
+		<en-US>Researching</en-US>
+		<ja>研究中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_AVAILABLE</zType>
+		<en-US>Available</en-US>
+		<ja>利用可</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_DRAWPILE</zType>
+		<en-US>Draw Pile</en-US>
+		<ja>山札</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOOL_TIPS_DISCARDPILE</zType>
+		<en-US>Discard Pile</en-US>
+		<ja>捨て札</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOP_BAR_BUY</zType>
+		<en-US>Buy</en-US>
+		<ja>購入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TOP_BAR_SELL</zType>
+		<en-US>Sell</en-US>
+		<ja>売却</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_CITIES</zType>
+		<en-US>Cities</en-US>
+		<ja>都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_CITY</zType>
+		<en-US>City</en-US>
+		<ja>都市</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_PRODUCTION</zType>
+		<en-US>Production</en-US>
+		<ja>生産</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_GOVERNOR</zType>
+		<en-US>link(CONCEPT_GOVERNOR)</en-US>
+		<ja>link(CONCEPT_GOVERNOR)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_FAMILY</zType>
+		<en-US>Family</en-US>
+		<ja>氏族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_RELIGION</zType>
+		<en-US>Religion</en-US>
+		<ja>宗教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_POPULATION</zType>
+		<en-US>Population</en-US>
+		<ja>人口</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_SORT</zType>
+		<en-US>hotkey(HOTKEY_CLICK) to sort by {0_yield} Production rate</en-US>
+		<ja>hotkey(HOTKEY_CLICK)で{0_yield}の生産率で並べ替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_SORT_LEVEL</zType>
+		<en-US>hotkey(HOTKEY_CTRL_CLICK) to sort by {0_yield} level</en-US>
+		<ja>hotkey(HOTKEY_CTRL_CLICK)で{0_yield}のレベルで並べ替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_LIST_SORT_DIRECTION</zType>
+		<en-US>hotkey(HOTKEY_CLICK) to change sort direction</en-US>
+		<ja>hotkey(HOTKEY_CLICK)で並べ替え順を変更</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AGENT_LIST_SORT_BASE</zType>
+		<en-US>hotkey(HOTKEY_CTRL_CLICK) to sort by base {0_yield} Production rate</en-US>
+		<ja>hotkey(HOTKEY_CTRL_CLICK)：{0_yield}ベースの生産率でソート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_SCREEN_GOALS</zType>
+		<en-US>{true_0:Ambitions and Score:Score List}</en-US>
+		<ja>{true_0:野望とスコア:スコアリスト}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_SCREEN_PROGRESS</zType>
+		<en-US>Victory Progress</en-US>
+		<ja>勝利の進行状況</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_SCREEN_SCENARIO</zType>
+		<en-US>Scenario Info</en-US>
+		<ja>シナリオ情報</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_CURRENT_LEADER</zType>
+		<en-US>Current Leader:</en-US>
+		<ja>現在の指導者：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_TIME_PROGRESS</zType>
+		<en-US>Turns Remaining: {0}</en-US>
+		<ja>残りターン{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_WINNER</zType>
+		<en-US>Winner:</en-US>
+		<ja>勝者:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_CONQUEST_PROGRESS</zType>
+		<en-US>Remaining Opponent Teams: {0}</en-US>
+		<ja>残り相手チーム：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_VICTORY_DOUBLE_PROGRESS</zType>
+		<en-US>Victory Points Required: {0}</en-US>
+		<ja>必要勝利点：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
+		<en-US>Map Options</en-US>
+		<ja>マップオプション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_REGION</zType>
+		<en-US>Region</en-US>
+		<ja>地域</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_BORDERS</zType>
+		<en-US>Borders</en-US>
+		<ja>国境</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_TRADENETWORK</zType>
+		<en-US>Trade Network</en-US>
+		<ja>交易網</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_DANGER</zType>
+		<en-US>Danger</en-US>
+		<ja>危険</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_ZOC</zType>
+		<en-US>Zone of Control</en-US>
+		<ja>範囲制圧</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_MARKERS</zType>
+		<en-US>Markers</en-US>
+		<ja>マーカー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_UNITS</zType>
+		<en-US>Units</en-US>
+		<ja>ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
+		<en-US>Resources</en-US>
+		<ja>資源</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
+		<en-US>link(IMPROVEMENT_CITY_SITE,2)</en-US>
+		<ja>link(IMPROVEMENT_CITY_SITE,2)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_OTHER</zType>
+		<en-US>Other</en-US>
+		<ja>その他</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OVERVIEW_MAP_WORLDEXTENTS</zType>
+		<en-US>World Extents</en-US>
+		<ja>世界の範囲</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE</zType>
+		<en-US>Inheritance</en-US>
+		<ja>継承</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_CURRENT_HEIR</zType>
+		<en-US>Current Heir</en-US>
+		<ja>現在の後継者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_NAME</zType>
+		<en-US>Name</en-US>
+		<ja>名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_TECHS</zType>
+		<en-US>Tech Tree</en-US>
+		<ja>技術ツリー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_TECHS_COMPACT</zType>
+		<en-US>Mini Tree</en-US>
+		<ja>ミニツリー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_SHOW_NAMES</zType>
+		<en-US>Toggle Names</en-US>
+		<ja>名前表示切り替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_TECHS_FULL</zType>
+		<en-US>Detailed Tree</en-US>
+		<ja>詳細ツリー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_COMPLETED</zType>
+		<en-US>Completed</en-US>
+		<ja>完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_LOCKED</zType>
+		<en-US>Locked</en-US>
+		<ja>固定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_RESEARCHING</zType>
+		<en-US>Researching</en-US>
+		<ja>研究中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_AVAILABLE</zType>
+		<en-US>Available</en-US>
+		<ja>利用可</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_DISCARD</zType>
+		<en-US>Discard Pile</en-US>
+		<ja>捨て札</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_DECK</zType>
+		<en-US>In Deck</en-US>
+		<ja>デッキ内</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_KEY</zType>
+		<en-US>Key</en-US>
+		<ja>キー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_UNIT_UPGRADE</zType>
+		<en-US>Upgrade</en-US>
+		<ja>アップグレード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_UNIT_CARAVAN</zType>
+		<en-US>Start Caravan Mission</en-US>
+		<ja>キャラバンミッションを開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_CITY_CHOOSE</zType>
+		<en-US>Choose what to work on</en-US>
+		<ja>実行する内容を選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_CITY_GOVERNOR</zType>
+		<en-US>Governor</en-US>
+		<ja>総督</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_CITY_CLOSE</zType>
+		<en-US>Close</en-US>
+		<ja>閉じる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_DISABLED_WONDERS</zType>
+		<en-US>Disabled Wonders</en-US>
+		<ja>使用できない記念物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SELECTED_CHARACTER_ACTIONS</zType>
+		<en-US>Actions</en-US>
+		<ja>アクション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_CONDITIONS</zType>
+		<en-US>Victory Conditions</en-US>
+		<ja>勝利の状態</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_PROGRESS</zType>
+		<en-US>Victory Progress</en-US>
+		<ja>勝利の進行状況</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_SCENARIO</zType>
+		<en-US>Scenario Info</en-US>
+		<ja>シナリオ情報</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_AMBITIONS</zType>
+		<en-US>Ambitions</en-US>
+		<ja>野望</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_VICTORY_SCORE</zType>
+		<en-US>Score</en-US>
+		<ja>スコア</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_SUBMIT</zType>
+		<en-US>Submit</en-US>
+		<ja>送信</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_CANCEL</zType>
+		<en-US>Cancel</en-US>
+		<ja>キャンセル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_PINGS_TEXT</zType>
+		<en-US>Ping Text</en-US>
+		<ja>PINGテキスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_PINGS_REMIND</zType>
+		<en-US>Turns until Reminder</en-US>
+		<ja>リマインドまでのターン数</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_PINGS_REMINDER</zType>
+		<en-US>Ping Reminder: </en-US>
+		<ja>PINGリマインダー： </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_IMPROVEMENT_PING_REMINDER</zType>
+		<en-US>Improvement Reminder: {0_improvement} on {1_tile}</en-US>
+		<ja>建設物リマインダー：{1_tile}の{0_improvement}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_LAWS</zType>
+		<en-US>Laws</en-US>
+		<ja>法律</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INPUT_TITLE</zType>
+		<en-US>Title</en-US>
+		<ja>タイトル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INPUT_DESC</zType>
+		<en-US>Description Text</en-US>
+		<ja>説明テキスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_DEFAULT_TITLE</zType>
+		<en-US>Title</en-US>
+		<ja>タイトル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_DEFAULT_DESC</zType>
+		<en-US>Description Text</en-US>
+		<ja>説明テキスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_POPUP_NO_REPLAY</zType>
+		<en-US>Replay disabled.</en-US>
+		<ja>リプレイ機能を無効化しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_ZOC</zType>
+		<en-US>link(CONCEPT_ZOC)</en-US>
+		<ja>link(CONCEPT_ZOC)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_DANGER</zType>
+		<en-US>Danger</en-US>
+		<ja>危険</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_IDLE</zType>
+		<en-US>Idle Units</en-US>
+		<ja>待機状態のユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_NETWORK</zType>
+		<en-US>Trade Network</en-US>
+		<ja>交易網</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_ROADS_RIVERS</zType>
+		<en-US>Roads and Rivers</en-US>
+		<ja>道と川</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_RESOURCES_IMPROVEMENTS</zType>
+		<en-US>Resources and Urban</en-US>
+		<ja>資源と都市地形</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_VISIBILITY</zType>
+		<en-US>Rival Player Visibility</en-US>
+		<ja>競合プレイヤーの視認性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_CUSTOM</zType>
+		<en-US>Custom</en-US>
+		<ja>カスタム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_OVERLAY_CURRENT_YIELDS</zType>
+		<en-US>Tile Yields</en-US>
+		<ja>タイルの産出量</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_RESOURCES</zType>
+		<en-US>Tile Resources</en-US>
+		<ja>タイルの資源</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_POPUP_REPLAY_ENABLED</zType>
+		<en-US>Replay support enabled. Turn replay will be available next turn.</en-US>
+		<ja>リプレイ機能を有効化しました。次のターンからターンリプレイを利用できます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LEADER_INFO_GOALS</zType>
+		<en-US>Goals:</en-US>
+		<ja>目的：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_TOGGLE_ALPHA_SORT</zType>
+		<en-US>{true_0:Disable:Enable} alphabetical sort</en-US>
+		<ja>アルファベット順を{true_0:無効:有効}にする</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_HP</zType>
+		<en-US>HP</en-US>
+		<ja>HP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_MOV</zType>
+		<en-US>MOV</en-US>
+		<ja>移動</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_STR</zType>
+		<en-US>STR</en-US>
+		<ja>戦闘</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_RNG</zType>
+		<en-US>RNG</en-US>
+		<ja>遠隔</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_STATS_VIS</zType>
+		<en-US>VIS</en-US>
+		<ja>視野</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELP_SCREEN_OTHER</zType>
+		<en-US>Other</en-US>
+		<ja>その他</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG</zType>
+		<en-US>Timeline: {1_turn}</en-US>
+		<ja>タイムライン：{1_turn}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_LEADERS</zType>
+		<en-US>Leaders</en-US>
+		<ja>指導者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_LOG</zType>
+		<en-US>Game Log</en-US>
+		<ja>ゲームログ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_TOGGLE_FOG</zType>
+		<en-US>Toggle Fog</en-US>
+		<ja>霧の表示切り替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_EXPORT</zType>
+		<en-US>Export GIF</en-US>
+		<ja>GIFをエクスポート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_EXPORT_SAVED</zType>
+		<en-US>GIF saved to {0_filePath}</en-US>
+		<ja>{0_filePath}にGIFを保存完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_SHOW_MAP</zType>
+		<en-US>Map View</en-US>
+		<ja>マップ表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_SHOW_TREE</zType>
+		<en-US>Family Tree View</en-US>
+		<ja>家系図表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_TIMELINE</zType>
+		<en-US>Timeline</en-US>
+		<ja>タイムライン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOG_DEBUG</zType>
+		<en-US>Debug Log</en-US>
+		<ja>ログのデバッグ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CYCLE_IDLE_BUY</zType>
+		<en-US>Buy</en-US>
+		<ja>購入</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CYCLE_IDLE_SELL</zType>
+		<en-US>Sell</en-US>
+		<ja>売却</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
+		<en-US>M/F</en-US>
+		<ja>男/女</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
+		<en-US>GO</en-US>
+		<ja>GO</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHOOSE_RESEARCH_TREE</zType>
+		<en-US>View Tech Tree</en-US>
+		<ja>技術ツリーを表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHOOSE_RESEARCH_UNLOCKS</zType>
+		<en-US>Unlocks</en-US>
+		<ja>アンロック</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHOOSE_CHARACTER</zType>
+		<en-US>Choose</en-US>
+		<ja>選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHOOSE_CHARACTER_ASSIGNED_CANDIDATES</zType>
+		<en-US>Candidates with Jobs ({0_number})</en-US>
+		<ja>任務を持つ候補者（{0_number}人）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHOOSE_CHARACTER_IDLE_CANDIDATES</zType>
+		<en-US>Idle Candidates ({0_number})</en-US>
+		<ja>待機中の候補者（{0_number}人）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_LIST</zType>
+		<en-US>Characters</en-US>
+		<ja>キャラクター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DEBUG_LOG</zType>
+		<en-US>Debug Log</en-US>
+		<ja>ログのデバッグ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
+		<en-US>Current Heir</en-US>
+		<ja>現在の後継者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
+		<en-US>New Heir</en-US>
+		<ja>新しい後継者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_CURRENTLAW</zType>
+		<en-US>Current Law</en-US>
+		<ja>現在の法律</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_CHOOSELAW</zType>
+		<en-US>Choose Law</en-US>
+		<ja>法律を選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_INHERITANCE_WIDGET_CHANGELAWS</zType>
+		<en-US>Change Laws</en-US>
+		<ja>法律を変更</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_WIDGET_CITY_IDLE</zType>
+		<en-US>Idle</en-US>
+		<ja>待機中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AMBITION_SKIP_DECISION</zType>
+		<en-US>I don't feel ambitious right now.</en-US>
+		<ja>今のところは野望がない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_FAMILY_DECISION</zType>
+		<en-US>{0_family} ({1_class}, {2_opinion}, {singular_3:1 City:{3} Cities})</en-US>
+		<ja>{0_family} ({1_class}, {2_opinion}, {singular_3:1都市:{3}都市})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_CAPITAL_FAMILY_DECISION</zType>
+		<en-US>{0_family} ({1_class})</en-US>
+		<ja>{0_family} ({1_class})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_RAZE_DECISION</zType>
+		<en-US>Raze the City</en-US>
+		<ja>都市を略奪する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CITY_NO_RAZE_DECISION</zType>
+		<en-US>Spare the City</en-US>
+		<ja>都市を見逃す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+		<en-US>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</en-US>
+		<ja>アップグレード：+1 {0_ratingtype} ({1_startrating}から{2_endrating})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_DECISION_RECOMMENDED_TILE</zType>
+		<en-US>Place it for me.</en-US>
+		<ja>ここに置こう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+		<en-US>Upgrade: {0_trait}</en-US>
+		<ja>アップグレード：{0_trait}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
+		<en-US>hotkey(HOTKEY_CTRL_CLICK) to switch active research</en-US>
+		<ja>hotkey(HOTKEY_CTRL_CLICK)でアクティブな研究を切り替え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_OVERRIDE_TARGET_RESEARCH</zType>
+		<en-US>hotkey(HOTKEY_CLICK) to set as a target</en-US>
+		<ja>hotkey(HOTKEY_CLICK)でターゲットに設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
+		<en-US>Permanently trashed when discarded</en-US>
+		<ja>捨てたカードはもう取り戻せません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_STATS</zType>
+		<en-US>Stats</en-US>
+		<ja>ステータス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_OTHER</zType>
+		<en-US>Miscellaneous</en-US>
+		<ja>その他</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_TURN_AXIS_LABEL</zType>
+		<en-US>Turn</en-US>
+		<ja>ターン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_PRODUCTION</zType>
+		<en-US>Resource Production</en-US>
+		<ja>資源の生産</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_YIELD</zType>
+		<en-US>{0_yield} Production</en-US>
+		<ja>{0_yield}の生産</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_MILITARY</zType>
+		<en-US>Military Score</en-US>
+		<ja>軍事スコア</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_TERRITORY</zType>
+		<en-US>Territory Owned</en-US>
+		<ja>獲得した領土</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_TURN</zType>
+		<en-US>Turn {0_turnNumber}</en-US>
+		<ja>ターン数 {0_turnNumber}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_TILES_OWNED</zType>
+		<en-US>{0_numTiles} Tiles</en-US>
+		<ja>タイル数 {0_numTiles}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_EXPLORATION</zType>
+		<en-US>Territory Explored</en-US>
+		<ja>探索した領土</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_POINTS</zType>
+		<en-US>Victory Points</en-US>
+		<ja>勝利点</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_PRICES</zType>
+		<en-US>Resource Prices</en-US>
+		<ja>資源価格</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_FAMILIES</zType>
+		<en-US>Family Opinion</en-US>
+		<ja>氏族評価</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_RELIGIONS</zType>
+		<en-US>Religion Opinion</en-US>
+		<ja>宗教の評価</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_GRAPHS_LEGITIMACY</zType>
+		<en-US>Legitimacy</en-US>
+		<ja>正当性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_RESOURCE_VALUE</zType>
+		<en-US>National Wealth</en-US>
+		<ja>国の豊かさ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_POPULATION</zType>
+		<en-US>Total Population</en-US>
+		<ja>合計人口</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_SPECIALISTS</zType>
+		<en-US>Specialists</en-US>
+		<ja>専門家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_TOTAL_TECHS</zType>
+		<en-US>Technologies Discovered</en-US>
+		<ja>発見した技術</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_BEST_LEADER</zType>
+		<en-US>Longest Reign</en-US>
+		<ja>最長の統治期間</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_TOTAL_IMPROVEMENTS</zType>
+		<en-US>Improvements Controlled</en-US>
+		<ja>管理した建築物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_WONDERS</zType>
+		<en-US>Wonders Controlled</en-US>
+		<ja>管理した記念物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_LAWS_ADOPTED</zType>
+		<en-US>Laws Adopted</en-US>
+		<ja>採用した法律</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_TOTAL_WORKERS</zType>
+		<en-US>Workers Produced</en-US>
+		<ja>生産した労働者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_UNITS_LOST</zType>
+		<en-US>Units Lost</en-US>
+		<ja>損失ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_UNITS_KILLED</zType>
+		<en-US>Military Units Killed</en-US>
+		<ja>殺害された軍事ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_TRIBE_CLEARED</zType>
+		<en-US>Camps Cleared</en-US>
+		<ja>一掃した駐留地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_COURTIERS</zType>
+		<en-US>Courtiers Recruited</en-US>
+		<ja>採用した廷臣</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_RUINS_EXPLORED</zType>
+		<en-US>Ruins Explored</en-US>
+		<ja>遺跡を探索した</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_STAT_RANK</zType>
+		<en-US>{0_rank}. {1_player}: {2_value}</en-US>
+		<ja>{0_rank}. {1_player}: {2_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_TOTAL_MILITARY</zType>
+		<en-US>Military Units Produced</en-US>
+		<ja>生産した軍事ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_TOTAL_VALUE</zType>
+		<en-US>Total Value: {0_moneyValue}</en-US>
+		<ja>合計額: {0_moneyValue}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_STATS_MERCENARY_UNITS</zType>
+		<en-US>Mercenary Tribe Units</en-US>
+		<ja>傭兵部族ユニット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_SPECIALISTS</zType>
+		<en-US>Specialists</en-US>
+		<ja>専門家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_YIELDS</zType>
+		<en-US>Current Yields</en-US>
+		<ja>現在の産出量</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAIN_MENU_ACTIVE_MODS</zType>
+		<en-US><![CDATA[Active <color=#e3c08ccc>Mods</color>]]></en-US>
+		<ja><![CDATA[アクテイブな<color=#e3c08ccc>Mod</color>]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAIN_MENU_CURRENT_GAMES</zType>
+		<en-US>Current Games</en-US>
+		<ja>現在のゲーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAIN_MENU_OWNED_DLC</zType>
+		<en-US>Owned DLC</en-US>
+		<ja>所有しているDLC</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAIN_MENU_BUY_DLC</zType>
+		<en-US>Available DLC</en-US>
+		<ja>プレイ可能なDLC</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAIN_MENU_BUY_DLC_CLICK</zType>
+		<en-US>Click to open the store page in your browser</en-US>
+		<ja>クリック：ブラウザでストアページを開く</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_UNPAUSE_GAME</zType>
+		<en-US>Unpause Game</en-US>
+		<ja>ゲームの一時停止解除</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
+		<en-US>Pause Game</en-US>
+		<ja>ゲームを一時停止</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_UNLOAD_GAME</zType>
+		<en-US>Unload Game</en-US>
+		<ja>ゲームをロード解除</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_UNIT_NAME</zType>
+		<en-US>Unit Types</en-US>
+		<ja>ユニットの種類</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_UNIT_PROMOTIONS</zType>
+		<en-US>Unit Promotions</en-US>
+		<ja>ユニットの昇進</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
+		<en-US>Load Game</en-US>
+		<ja>ゲームをロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_SAVE_GAME</zType>
+		<en-US>Save Game</en-US>
+		<ja>ゲームをセーブ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_WAITING_FOR_GAME_START</zType>
+		<en-US>Waiting for game to start</en-US>
+		<ja>ゲーム開始を待っています</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_STATUS_ACTIVE_TURN</zType>
+		<en-US>{0_time} Active turn:</en-US>
+		<ja>{0_time}アクティブなターン：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_STATUS_PAUSE</zType>
+		<en-US>Pause: {0}</en-US>
+		<ja>一時停止：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_STATUS_UNPAUSE</zType>
+		<en-US>Unpause: {0}</en-US>
+		<ja>一時停止解除：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_NEW_GAME_NAME</zType>
+		<en-US>New Game</en-US>
+		<ja>新規ゲーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_SUCCESSION_GAME_NAME</zType>
+		<en-US>Game Name</en-US>
+		<ja>ゲーム名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_POPUP_SUCCESSION_NEXT_PLAYER</zType>
+		<en-US>Next Player</en-US>
+		<ja>次のプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_PICK_NATION_AT_SETTLE</zType>
+		<en-US>Pick your Nation when you settle the first City</en-US>
+		<ja>最初の都市を設立するには国家を選択する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_GAME_PICKS_NATION</zType>
+		<en-US>Let the game choose a Nation for you.</en-US>
+		<ja>国家を自動で選択することもできます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_PICK_ARCHETYPE_AT_START</zType>
+		<en-US>Pick a Leader Archetype after the game has started</en-US>
+		<ja>ゲーム開始後に指導者スタイルを選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_GAME_PICKS_ARCHETYPE</zType>
+		<en-US>Let the game choose an Archetype for the first ruler.</en-US>
+		<ja>最初の指導者のスタイルをゲームに選択させる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_ARCHETYPE_PRESET</zType>
+		<en-US>Start the game with the Nation's preset Character.</en-US>
+		<ja>前もって用意された国のキャラクターを使ってゲームを開始する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
+		<en-US>Play the first turns in simultaneous turn style</en-US>
+		<ja>最初のターンを同時ターンスタイルでプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_START_TURN_SCALE</zType>
+		<en-US>Each turn is a {0_turnScale}</en-US>
+		<ja>各ターンは{0_turnScale}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MP_SETUP_CREATE_GAME</zType>
+		<en-US>Create Game</en-US>
+		<ja>ゲームを作成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_START_GAME_NETWORK</zType>
+		<en-US>Creates a game lobby that others can join via the Join option on the Network submenu</en-US>
+		<ja>ネットワークサブメニューの参加オプションを通じて、他のプレイヤーが参加できるゲームロビーを作成します</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_START_GAME_CLOUD</zType>
+		<en-US>Creates and starts an asynchronous cloud game with yourself and the players with specified usernames (same platform only) or with the specified online IDs if the "Allow Online ID" option is enabled</en-US>
+		<ja>特定のユーザーネームを持つプレイヤーと非同期クラウドゲームを作成して、プレイすることができます。同一プラットフォームに限られますが、オプションの「オンラインIDを許可」をオンにすることで、特定のオンラインIDを持つプレイヤーとプレイできます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_CLOUD_EMAIL_HELP</zType>
+		<en-US>Optional email to send new turn notifications to (can be changed in the in-game menu)</en-US>
+		<ja>自分のターンで通知を受け取るためにメールアドレスを任意で設定可能です（ゲーム内メニューで変更可能）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MP_SETUP_CLOUD_USERNAME_HELP</zType>
+		<en-US>The other players' platform display name. This is required to be filled in for every player to start a game and only works for players on the same platform. Cross-platform cloud games can be started by converting network games or with the Allow Online ID option.</en-US>
+		<ja>他プレイヤーのプラットフォームで表示される名前。ゲームを始める全プレイヤーが記入する必要があり、同じプラットフォームのプレイヤーにのみ機能します。クロスプラットフォームのクラウドゲームは、ネットワークゲームを変換するか、「オンラインIDを許可」を押すことでスタートできます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
+		<en-US>None</en-US>
+		<ja>なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR</zType>
+		<en-US>War</en-US>
+		<ja>戦争</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR_OR_TRUCE</zType>
+		<en-US>War or Truce</en-US>
+		<ja>戦争または停戦</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
+		<en-US>All</en-US>
+		<ja>全て</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_POWERED_BY_MODIO_TOOLTIP</zType>
+		<en-US>Powered by mod.io</en-US>
+		<ja>mod.ioを使用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_POWERED_BY_WORKSHOP_TOOLTIP</zType>
+		<en-US>Powered by Workshop</en-US>
+		<ja>ワークショップを使用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_TOOLTIP</zType>
+		<en-US>Mods sorted by </en-US>
+		<ja>Modの並べ替え順 </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_1</zType>
+		<en-US>oldest to newest.</en-US>
+		<ja>古い順</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_2</zType>
+		<en-US>newest to oldest.</en-US>
+		<ja>新しい順</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_3</zType>
+		<en-US>alphabetical A-Z.</en-US>
+		<ja>A-Zアルファベット順</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_4</zType>
+		<en-US>alphabetical Z-A.</en-US>
+		<ja>Z-Aアルファベット順</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_5</zType>
+		<en-US>oldest to newest, with installed on top.</en-US>
+		<ja>古い順、インストール済みを上に</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_6</zType>
+		<en-US>newest to oldest, with installed on top.</en-US>
+		<ja>新しい順、インストール済みを上に</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_7</zType>
+		<en-US>alphabetical A-Z, with installed on top.</en-US>
+		<ja>A-Zアルファベット順、インストール済みを上に</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SORTING_8</zType>
+		<en-US>alphabetical Z-A, with installed on top.</en-US>
+		<ja>Z-Aアルファベット順、インストール済みを上に</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_BACK_TO_MENU</zType>
+		<en-US>Main Menu</en-US>
+		<ja>メインメニュー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_TITLE</zType>
+		<en-US>Mods</en-US>
+		<ja>Mod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MANAGE_TAB</zType>
+		<en-US>Manage</en-US>
+		<ja>管理</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_INSTALL_TAB</zType>
+		<en-US>Install</en-US>
+		<ja>インストール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOAD_TAB</zType>
+		<en-US>Upload</en-US>
+		<ja>アップロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_ALL</zType>
+		<en-US>All</en-US>
+		<ja>全て</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_SINGLEPLAYER</zType>
+		<en-US>Singleplayer</en-US>
+		<ja>シングルプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_MULTIPLAYER</zType>
+		<en-US>Multiplayer</en-US>
+		<ja>マルチプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_TRANSLATIONS</zType>
+		<en-US>Translations</en-US>
+		<ja>トランスレーション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_MAPS</zType>
+		<en-US>Maps</en-US>
+		<ja>マップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_MAP_SCRIPTS</zType>
+		<en-US>Map Scripts</en-US>
+		<ja>マップスクリプト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_NATIONS</zType>
+		<en-US>Mods with Nations</en-US>
+		<ja>国家のMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_TRIBES</zType>
+		<en-US>Mods with Tribes</en-US>
+		<ja>部族のMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_CHARACTERS</zType>
+		<en-US>Mods with Characters</en-US>
+		<ja>キャラクターのMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_FAMILIES</zType>
+		<en-US>Mods with Families</en-US>
+		<ja>氏族のMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_GAMEINFOS</zType>
+		<en-US>Mods with GameInfos</en-US>
+		<ja>ゲーム情報のMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_EVENTS</zType>
+		<en-US>Mods with Events</en-US>
+		<ja>イベントのMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_SCENARIOS</zType>
+		<en-US>Mods with Scenarios</en-US>
+		<ja>シナリオのMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_AI</zType>
+		<en-US>Mods with AI changes</en-US>
+		<ja>AI変更のMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_UI</zType>
+		<en-US>Mods with UI changes</en-US>
+		<ja>UI変更のMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_WORKSHOP_TOGGLE_LABEL</zType>
+		<en-US>Steam Workshop</en-US>
+		<ja>Steamワークショップ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FILTER_CONVERSION</zType>
+		<en-US>Conversion Mods</en-US>
+		<ja>改宗Mod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CONVERSION_TAG</zType>
+		<en-US>[Conversion]</en-US>
+		<ja>[改宗]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CONVERSION_TOGGLE_LABEL</zType>
+		<en-US>Conversion:</en-US>
+		<ja>改宗:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_MAPSCRIPT_TOGGLE_LABEL</zType>
+		<en-US>Mapscript:</en-US>
+		<ja>マップスクリプト：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SCRIPT_DEPRECATION_LABEL</zType>
+		<en-US>{0_modName} [SUPPORT ENDING SOON]</en-US>
+		<ja>{0_modName} [サポート終了予定]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SCRIPT_DEPRECATION_POPUP_TITLE</zType>
+		<en-US>Warning!</en-US>
+		<ja>警告</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SCRIPT_DEPRECATION_POPUP_TEXT</zType>
+		<en-US>Attention!
+
+The ability of Old World to load script mods is being discontinued. Up to now, mapscripts have been able to be distributed as script mods, which are different from other types of mods. We are now discontinuing mapscripts as script mods in favor of mapscripts as normal DLL mods.
+
+There is a mapscript in your mod list ({0_modName}). It has also been marked with [SUPPORT ENDING SOON]. The mapscript will continue to function normally for now, but in the near future the game will no longer support script mods, and this mapscript will no longer be available to play.
+
+Players: If you have downloaded the mapscript from Modio or Steam Workshop, it will still continue to work normally. The modder who created the mapscript needs to update the mapscript soon or you will lose the ability to use it in the future.
+
+Modders: You must convert the mapscript to run as a normal DLL mod through the "Mods" folder. Once you have updated the mapscript simply update your mod on Modio or Steam Workshop, and the game will then notify any players subscribed to the mapscript of the update.
+
+If you need assistance with this process please contact us at Mohawk Games on our Discord server (link on the main menu) or email support@mohawkgames.com</en-US>
+		<ja>お知らせ
+
+近日中に、スクリプトMODのロード機能が終了します。
+
+マップスクリプトはスクリプトMODから、通常のDLL MOD配布へ切り替わります。これまでは他の種類のMODとは異なり、スクリプトMODとして配布できました。今後はスクリプトMODではなく、通常のDLL MODとして配布されます。該当のマップスクリプトは、名前（{0_modName}）の最後に[サポート終了予定]と表示されます。今のところ、このマップスクリプトは問題なく機能しますが、サポート終了となるため将来的にはプレイできなくなります。
+
+プレイヤーの皆さまへ：ModioやSteam Workshopからマップスクリプトをダウンロードしている場合、現時点では問題なく動作します。ですが、マップスクリプトを作成したMOD制作者は、今後利用不可となるようにアップデートを行っていただく必要がございます。
+
+Modderの皆さまへ：該当のマップスクリプトは、「Mods」フォルダ内で通常のDLL MODとして動作するように変換する必要がございます。アップデートを行っていただいた後は、ModioやSteam Workshopでも同様のアップデートをお願いいたします。これにより、サブスクライブしているプレイヤーに通知がされます。
+
+この処理に関してサポートが必要な場合は、Discordサーバー（メインメニューにリンクあり）から弊社Mohawk Gamesにご連絡いただくか、support@mohawkgames.comまでメールをお送りください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_INCLUDE_INTERNAL_TOGGLE_LABEL</zType>
+		<en-US>Include Internal</en-US>
+		<ja>内部を含む</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NEW_MOD_BUTTON</zType>
+		<en-US>New Mod</en-US>
+		<ja>新しいMod</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_RESOURCES</zType>
+		<en-US>Resources</en-US>
+		<ja>資源</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_VERSION_LABEL</zType>
+		<en-US>Mod Version:</en-US>
+		<ja>Modバージョン：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_AUTHOR_LABEL</zType>
+		<en-US>Author:</en-US>
+		<ja>作者：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_HOMEPAGE_LABEL</zType>
+		<en-US>Homepage:</en-US>
+		<ja>ホームページ：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_PLATFORM_LABEL</zType>
+		<en-US>Mod Platform:</en-US>
+		<ja>Modプラットフォーム：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_BUILD_LABEL</zType>
+		<en-US>Built For:</en-US>
+		<ja>作成目的:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_INFO_HEADER</zType>
+		<en-US>Mod Info</en-US>
+		<ja>Mod情報</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_TYPE_HEADER</zType>
+		<en-US>Mod Type</en-US>
+		<ja>Modタイプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_TAGS_HEADER</zType>
+		<en-US>Mod Tags</en-US>
+		<ja>Modタグ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_TAGS_HEADER_TEXT</zType>
+		<en-US>(Choose all that apply)</en-US>
+		<ja>（該当するものを全て選択）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_OPTIONS_HEADER</zType>
+		<en-US>Mod Options</en-US>
+		<ja>Modオプション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_NAME_LABEL</zType>
+		<en-US>Mod Name:</en-US>
+		<ja>Mod名：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_FILENAME_LABEL</zType>
+		<en-US>File Name:</en-US>
+		<ja>ファイル名：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_PICTURE_LABEL</zType>
+		<en-US>Mod Picture:</en-US>
+		<ja>Mod画像：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CHOOSE_PICTURE</zType>
+		<en-US>Choose Picture</en-US>
+		<ja>画像を選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_DESCRIPTION_LABEL</zType>
+		<en-US>Description:</en-US>
+		<ja>説明：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL</zType>
+		<en-US>Changelog Notes:</en-US>
+		<ja>Changelogのメモ：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL_TOOLTIP</zType>
+		<en-US>This text will appear on the mod.io website as well as on the discord bot's mod update notifications</en-US>
+		<ja>このテキストは、mod.ioウェブサイトとdiscordボットのMod更新通知に表示されます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SINGLEPLAYER_TOGGLE_LABEL</zType>
+		<en-US>Singleplayer:</en-US>
+		<ja>シングルプレイヤー：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_MULTIPLAYER_TOGGLE_LABEL</zType>
+		<en-US>Multiplayer:</en-US>
+		<ja>マルチプレイヤー：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_TRANSLATION_TOGGLE_LABEL</zType>
+		<en-US>Translation:</en-US>
+		<ja>翻訳：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_NATION_TOGGLE_LABEL</zType>
+		<en-US>Nation:</en-US>
+		<ja>国家：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_TRIBE_TOGGLE_LABEL</zType>
+		<en-US>Tribe:</en-US>
+		<ja>部族:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_CHARACTER_TOGGLE_LABEL</zType>
+		<en-US>Character:</en-US>
+		<ja>キャラクター:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_FAMILY_TOGGLE_LABEL</zType>
+		<en-US>Family:</en-US>
+		<ja>氏族:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_GAMEINFO_TOGGLE_LABEL</zType>
+		<en-US>GameInfo:</en-US>
+		<ja>ゲーム情報:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_EVENT_TOGGLE_LABEL</zType>
+		<en-US>Event:</en-US>
+		<ja>イベント:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_SCENARIO_TOGGLE_LABEL</zType>
+		<en-US>Scenario:</en-US>
+		<ja>シナリオ:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_AI_TOGGLE_LABEL</zType>
+		<en-US>AI:</en-US>
+		<ja>AI:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_UI_TOGGLE_LABEL</zType>
+		<en-US>UI:</en-US>
+		<ja>UI:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SINGLEPLAYER_TAG</zType>
+		<en-US>[Singleplayer]</en-US>
+		<ja>[シングルプレイヤー]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MULTIPLAYER_TAG</zType>
+		<en-US>[Multiplayer]</en-US>
+		<ja>[マルチプレイヤー]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_TRANSLATION_TAG</zType>
+		<en-US>[Translation]</en-US>
+		<ja>[翻訳]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MAP_TAG</zType>
+		<en-US>[Map]</en-US>
+		<ja>[マップ]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MAP_SCRIPT_TAG</zType>
+		<en-US>[Map Script]</en-US>
+		<ja>[マップスクリプト]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NATION_TAG</zType>
+		<en-US>[Nation]</en-US>
+		<ja>[国家]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_TRIBE_TAG</zType>
+		<en-US>[Tribe]</en-US>
+		<ja>[部族]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CHARACTER_TAG</zType>
+		<en-US>[Character]</en-US>
+		<ja>[キャラクター]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_FAMILY_TAG</zType>
+		<en-US>[Family]</en-US>
+		<ja>[氏族]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_GAMEINFO_TAG</zType>
+		<en-US>[GameInfo]</en-US>
+		<ja>[ゲーム情報]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_EVENT_TAG</zType>
+		<en-US>[Event]</en-US>
+		<ja>[イベント]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SCENARIO_TAG</zType>
+		<en-US>[Scenario]</en-US>
+		<ja>[シナリオ]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_AI_TAG</zType>
+		<en-US>[AI]</en-US>
+		<ja>[AI]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UI_TAG</zType>
+		<en-US>[UI]</en-US>
+		<ja>[UI]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_FILES</zType>
+		<en-US>Files:</en-US>
+		<ja>ファイル：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_ADD_FILES</zType>
+		<en-US>Add Files</en-US>
+		<ja>ファイルを追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_DEPENDENCIES</zType>
+		<en-US>Dependencies:</en-US>
+		<ja>依存関係：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES</zType>
+		<en-US>Incompatibilities:</en-US>
+		<ja>非互換性：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_DEPENDENCIES_TOOLTIP</zType>
+		<en-US>List of mods required by this mod to work properly. These mods will always load before this mod.</en-US>
+		<ja>このModが適切に動作するために必要なModの一覧です。これらのModは、常にこのModより先にロードされます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES_TOOLTIP</zType>
+		<en-US>List of mods that are not compatible with this mod.</en-US>
+		<ja>このModと互換性がないModの一覧です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_RELATIONS_FORMAT_EXPLANATION</zType>
+		<en-US>each in the format: mod_name,modio_id,modfile_id{br}where mod_name is the only required field. modio_id is the number id for the mod on mod.io. And modfile_id is the specific version file id.</en-US>
+		<ja>それぞれの形式は以下の通りです：mod_name、modio_id、modfile_id{br}必須のフィールドはmod_nameのみです。modio_idは、mod.ioでのMod用ID番号です。また、modfile_idは、ファイルIDの特定のバージョンを示しています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_OPEN_MOD_FOLDER_BUTTON</zType>
+		<en-US>Open Mod Folder</en-US>
+		<ja>Modフォルダーを開く</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_SAVE_LOCAL_CHANGES_BUTTON</zType>
+		<en-US>Save Local Changes</en-US>
+		<ja>ローカルの変更を保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOAD_MODIO_BUTTON</zType>
+		<en-US>Upload to mod.io</en-US>
+		<ja>mod.ioにアップロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOAD_WORKSHOP_BUTTON</zType>
+		<en-US>Upload to Workshop</en-US>
+		<ja>ワークショップにアップロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CLEAR_MOD_SELECTION_BUTTON</zType>
+		<en-US>Clear Mods</en-US>
+		<ja>Modをクリア</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_REVERT_SELECTION_BUTTON</zType>
+		<en-US>Revert Selections</en-US>
+		<ja>選択を元に戻す</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PLAY_WITH_MODS_BUTTON</zType>
+		<en-US>Play with Mods</en-US>
+		<ja>Modを使用してプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_INTERNAL_MOD</zType>
+		<en-US>{0_modName} (Internal)</en-US>
+		<ja>{0_modName}（内部）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_MOD_PROFILE_BUTTON</zType>
+		<en-US>Create mod.io Profile</en-US>
+		<ja>mod.ioプロフィールを作成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_BUTTON</zType>
+		<en-US>Update mod.io Profile</en-US>
+		<ja>mod.ioプロフィールを更新</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_BUTTON</zType>
+		<en-US>Update</en-US>
+		<ja>更新</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UNINSTALL_MOD_BUTTON</zType>
+		<en-US>Uninstall</en-US>
+		<ja>アンインストール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_DOWNLOAD_MOD_BUTTON</zType>
+		<en-US>Download</en-US>
+		<ja>ダウンロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_REQUEST_ERROR_POPUP_TITLE</zType>
+		<en-US>Request Error</en-US>
+		<ja>エラー報告リクエスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_IMAGE_SIZE_TITLE</zType>
+		<en-US>Check Image Size</en-US>
+		<ja>画像サイズの確認</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_IMAGE_SIZE_BODY</zType>
+		<en-US>Mod images must be between 256 and 2048 pixels in width and height.</en-US>
+		<ja>MOD画像は、幅と高さが256ピクセルから2048ピクセルの間でなければなりません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SECURITY_CODE_SENT_POPUP_TITLE</zType>
+		<en-US>Security Code Sent</en-US>
+		<ja>セキュリティコード送信済み</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_LOG_OUT_BUTTON</zType>
+		<en-US>Log Out</en-US>
+		<ja>ログアウト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SIGN_IN_BUTTON</zType>
+		<en-US>Sign In</en-US>
+		<ja>サインイン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_DIFF</zType>
+		<en-US>{0_modName} - installed: {1}, available ({2}): {3}{br}</en-US>
+		<ja>{0_modName} - インストール済み：{1}, 利用可 ({2}): {3}{br}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_NOTIFICATION1</zType>
+		<en-US>The following mods have an update available to install from the Manage Mods menu.{br}{br}</en-US>
+		<ja>以下のModは更新されています。「Modを管理」メニューでインストールできます。{br}{br}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_NOTIFICATION2</zType>
+		<en-US>icon(bullet) {0_modName} ({1}){br}</en-US>
+		<ja>icon(bullet) {0_modName} ({1}){br}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_MODS_POPUP_TITLE</zType>
+		<en-US>Update Mods</en-US>
+		<ja>Modを更新</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_UPDATED_CONFIRMED_POPUP_TITLE</zType>
+		<en-US>Mods Updated</en-US>
+		<ja>Modが更新されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_TITLE</zType>
+		<en-US>Download Complete</en-US>
+		<ja>ダウンロード完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_BODY</zType>
+		<en-US>Finished downloading {LIST}</en-US>
+		<ja>ダウンロードを完了しました{LIST}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ENTER_EMAIL_POPUP_TITLE</zType>
+		<en-US>Enter Email</en-US>
+		<ja>メールアドレスを入力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_VALIDATION_ERROR_POPUP_TITLE</zType>
+		<en-US>Validation Error</en-US>
+		<ja>認証エラー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_MOD_NOT_BLANK</zType>
+		<en-US>Mod name cannot be blank</en-US>
+		<ja>Mod名は空欄にできません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_DUPLICATE_MOD_NAME</zType>
+		<en-US>Duplicate mod name</en-US>
+		<ja>Mod名重複</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_TITLE</zType>
+		<en-US>Reserved Mod Name</en-US>
+		<ja>予約済みのMod名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
+		<en-US>The mod name "{0_modName}" is reserved for internal use only</en-US>
+		<ja>Mod名「{0_modName}」は、内部で使用するため予約済みです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
+		<en-US>Updating Mod Profile...</en-US>
+		<ja>Modプロフィールを更新中…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPLOADING_MOD_PROFILE</zType>
+		<en-US>Uploading Mod Profile...</en-US>
+		<ja>Modプロフィールをアップロード中…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPLOADING_BUILD</zType>
+		<en-US>Uploading Build...</en-US>
+		<ja>ビルドをアップロード中…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_TITLE</zType>
+		<en-US>Mod does not have mod profile</en-US>
+		<ja>ModにModプロフィールがありません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_BODY</zType>
+		<en-US>How would you like to procede?</en-US>
+		<ja>どのように続行しますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_POPUP_OPTION</zType>
+		<en-US>Create New Mod Profile</en-US>
+		<ja>新規Modプロフィールを作成する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_PROFILE_CHANGES_COMPLETE_POPUP_TITLE</zType>
+		<en-US>Mod Profile Changes Complete</en-US>
+		<ja>Modプロフィール変更完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_TITLE</zType>
+		<en-US>Mod File Uploaded</en-US>
+		<ja>Modファイルをアップロードしました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_BODY</zType>
+		<en-US>Your Mod has now been uploaded. Please note that it could take up to 15 minutes before it is available for players to download.</en-US>
+		<ja>Modがアップロードされました。プレイヤーがダウンロードできるようになるまで、最大15分かかります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_DEFAULT_DESCRIPTION</zType>
+		<en-US>Enter Description here...</en-US>
+		<ja>ここに説明を入力…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_TITLE</zType>
+		<en-US>Mods Set</en-US>
+		<ja>Modをセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY</zType>
+		<en-US>The following mods are active:</en-US>
+		<ja>今のModがアクティブです：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_INCOMPAT</zType>
+		<en-US>{br}{br}The following mods are incompatible and now disabled:</en-US>
+		<ja>{br}{br}以下のModは互換性がないため、無効になっています：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_DEPENDENT</zType>
+		<en-US>{br}{br}The following mods are dependencies and now active:</en-US>
+		<ja>{br}{br}以下のModは依存関係によりアクティブになっています：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_SCRIPTS</zType>
+		<en-US>{br}{br}The following mods have scripts and are now disabled. Place them in the Scripts folder:</en-US>
+		<ja>{br}{br}以下のModはスクリプトがあるため、現在は無効化されています。次のModをスクリプトフォルダに移してください。:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_BLOCK</zType>
+		<en-US>{br}{br}The following mods have been blocked by the active mod:</en-US>
+		<ja>{br}{br}有効なModによって、次のModがブロックされています: </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_BLOCK_LABEL</zType>
+		<en-US>This Mod blocks other mods</en-US>
+		<ja>このModはほかのModをブロックしています</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_NO_WHITELIST</zType>
+		<en-US>No Whitelist</en-US>
+		<ja>ホワイトリストがありません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_BLOCKING_TOGGLE_LABEL</zType>
+		<en-US>Blocks other Mods</en-US>
+		<ja>他のModをブロックする</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_HAS_WHITELIST</zType>
+		<en-US>Has Whitelist</en-US>
+		<ja>ホワイトリストがあります</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_WHITELIST</zType>
+		<en-US>Whitelist:</en-US>
+		<ja>ホワイトリスト:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_MOD_WHITELIST_TOOLTIP</zType>
+		<en-US>List of mods allowed to run with this mod.</en-US>
+		<ja>このModで動作を認められたModの一覧です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_OR_MULTIPLAYER_POPUP_TITLE</zType>
+		<en-US>Singleplayer or Multiplayer?</en-US>
+		<ja>シングル／マルチプレイヤーを選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_POPUP_OPTION</zType>
+		<en-US>Singleplayer</en-US>
+		<ja>シングルプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_NEW_GAME_MULTIPLAYER_POPUP_OPTION</zType>
+		<en-US>Multiplayer</en-US>
+		<ja>マルチプレイヤー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_LOGGED_OUT_TITLE</zType>
+		<en-US>Successfully Logged Out</en-US>
+		<ja>正常にログアウトしました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_TITLE</zType>
+		<en-US>Create New Mod</en-US>
+		<ja>新規Modを作成する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_BODY</zType>
+		<en-US>Enter mod name</en-US>
+		<ja>Mod名を入力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_TOOLTIP</zType>
+		<en-US>Save local changes to your {0_filename} file</en-US>
+		<ja>ローカルの変更を{0_filename}ファイルに保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_NOT_AVAILABLE_TOOLTIP</zType>
+		<en-US>Cannot save local modinfo of Map and MapScript mods, must update/create the online profile</en-US>
+		<ja>ローカルのマップおよびマップスクリプトModのmodinfoを保存できません。オンラインプロフィールの更新または作成が必要です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_TOOLTIP</zType>
+		<en-US>Create a new mod profile on mod.io</en-US>
+		<ja>mod.ioで新しいModプロフィールを作成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_TOOLTIP</zType>
+		<en-US>Update your mod's mod.io profile</en-US>
+		<ja>Modのmod.ioプロフィールを更新</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_BUILD_TOOLTIP</zType>
+		<en-US>Create and Publish a new build file for your mod{br}Required items:{br}icon(bullet)Mod Name{br}icon(bullet)File Name (should automatically generate from Mod Name){br}icon(bullet)Mod Picture (Check picture requirements){br}icon(bullet)Description{br}icon(bullet)Author</en-US>
+		<ja>Modの新しいビルドファイルを作成および公開する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_WORKSHOP_TOOLTIP</zType>
+		<en-US>Create and Publish a new build file for your mod{br}Required items:{br}icon(bullet)Mod Name{br}icon(bullet)File Name (should automatically generate from Mod Name){br}icon(bullet)Mod Picture (Check picture requirements){br}icon(bullet)Description{br}icon(bullet)Author</en-US>
+		<ja>MODの新規ビルドファイルの作成および公開{br}必須項目:{br}icon(bullet)Mod名{br}icon(bullet)ファイル名 (Mod名から自動的に生成されます){br}icon(bullet)Mod写真(画像要件を確認){br}icon(bullet)説明{br}icon(bullet)作成者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_VERSION_NOT_LATEST_TOOLTIP</zType>
+		<en-US>Version not up to date.{br}downloaded: {0}{br}latest: {1}</en-US>
+		<ja>バージョンが最新ではありません。{br}ダウンロード済み：{0}{br}最新：{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_UP_TO_DATE_TOOLTIP</zType>
+		<en-US>Downloaded and up to date!</en-US>
+		<ja>ダウンロードが完了し、最新の状態になりました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_TOOLTIP</zType>
+		<en-US>Mod.io requirements:{br}icon(bullet)1280x720 or larger recommended{br}icon(bullet)16:9 aspect ratio recommended{br}icon(bullet)Less than 8MB file size{br}icon(bullet)GIFs will be converted to PNG</en-US>
+		<ja>Mod.io要件：{br}icon(bullet)1280x720以上推奨{br}icon(bullet)アスペクト比16:9を推奨{br}icon(bullet)最大8MB{br}icon(bullet)GIFはPNGに変換されます</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_WORKSHOP_TOOLTIP</zType>
+		<en-US>Mod.io requirements:{br}icon(bullet)1280x720 or larger recommended{br}icon(bullet)16:9 aspect ratio recommended{br}icon(bullet)Less than 8MB file size{br}icon(bullet)GIFs will be converted to PNG{br}{br}Workshop requirements:{br}icon(bullet)256x256 or larger recommended{br}icon(bullet)Less than 1MB file size{br}icon(bullet)PNG or JPG image</en-US>
+		<ja>Mod.io要件：{br}icon(bullet)1280x720以上推奨{br}icon(bullet)アスペクト比16:9を推奨{br}icon(bullet)最大8MB{br}icon(bullet)GIFはPNGに変換されます{br}{br}ワークショップ要件：{br}icon(bullet)256x256以上推奨{br}icon(bullet)サイズは1MB未満{br}icon(bullet)PNGまたはJPG画像</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_HELP_POPUP_BUTTON</zType>
+		<en-US>Help</en-US>
+		<ja>ヘルプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_HELP_POPUP_TITLE</zType>
+		<en-US>Mod Browser Help</en-US>
+		<ja>MODブラウザのヘルプ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_HELP_POPUP_TEXT</zType>
+		<en-US>The Mod Browser allows you to install, manage, and play with Mods created by the Old World Community. Old World Mods are hosted by mod.io which is available in all versions of Old World. An explanation of each section of the Mod Browser follows.
+
+MANAGE - Mods which are installed and ready to use. To activate a Mod toggle the switch on the left to ON. You may now play a game with these Mods active. To uninstall a Mod, select the Mod then click the UNINSTALL button. Note: Maps and Mapscripts are always active so you do not need to turn them on.
+
+UPLOAD - Share your creations with other players of Old World. Mod creators are able to set the details of their Mods and upload them to mod.io so other players may play them. The Steam version of Old World allows uploading to Workshop as well.
+
+INSTALL - Search for and download Mods to play from mod.io. The Steam version of Old World includes a switch to show Workshop mods instead. Select a Mod, then click DOWNLOAD to install. Mods already downloaded are listed with a tick. You may also UPDATE Mods when Mod creators upload new versions of their creations.</en-US>
+		<ja>MODブラウザを使えば、Old Worldのコミュニティが制作したMODをインストール＆管理し、MODを使ってゲームをプレイすることができます。Old WorldのMODは、Old Worldの全バージョンで利用できる「mod.io」により管理されています。MODブラウザ内の各セクションの説明は、下記をご覧ください。
+
+『管理』 - インストール済み＆使用できるMODを表示します。MODを有効にするには、左側にあるスイッチをONに切り替えてください。そうすると、MODを有効にした状態でゲームを遊ぶことができます。MODをアンインストールするには、削除したいMODを選択し、アンインストールのボタンをクリックしてください。注：マップとマップスクリプトのMODは常時有効となっているので、わざわざ有効にさせる必要はありません。
+
+『アップロード』 - 制作したMODをOld Worldのプレイヤーたちと共有できます。MOD制作者は、MOD内容の詳細を設定した上で、他のプレイヤーがMODを利用できるよう、制作したMODを「mod.io」にアップロードできます。Steam版のOld Worldでは、Steamワークショップにアップロードすることも可能です。
+
+『インストール』 - 「mod.io」から遊びたいMODを検索し、ダウンロードすることができます。Steam版のOld Worldには、代わりにSteamワークショップのMODを表示させるボタンがあります。MODを選択し、「ダウンロード」をクリックするとインストールできます。すでにダウンロード済みのMODには、チェックマークが表示されます。MOD制作者が新バージョンのMODをアップロードした場合は、そのMODをアップデートすることも可能です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_COMPATIBILITY_TITLE</zType>
+		<en-US>WARNING! MOD COMPATIBILITY</en-US>
+		<ja>警告！MODの互換性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_COMPATIBILITY_TEXT</zType>
+		<en-US>
+This Mod has been created in a different version of Old World. Using this Mod is not recommended as it may not be compatible with your version of Old World.
+		
+Click OKAY to continue downloading the Mod, or CANCEL to return to the Mod Browser.</en-US>
+		<ja>
+このMODは、Old Worldの異なるバージョンで制作されたものです。あなたのOld Worldのバージョンと互換性がない可能性があるため、このMODの使用を推奨しません。
+		
+「了解」ボタンでMODのダウンロードを続行し、「キャンセル」ボタンでMODブラウザに戻ります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_REPORT_TOOLTIP</zType>
+		<en-US>Report mod content for violating mod.io's {0_tosLink}</en-US>
+		<ja>Modの内容のmod.io{0_tosLink}違反を報告</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_TERMS_OF_USE_LINK_TEXT</zType>
+		<en-US>Terms of Use</en-US>
+		<ja>利用規約</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CHECK_SUBSCRIBED</zType>
+		<en-US>Please wait, checking {0} Workshop subscribed mods</en-US>
+		<ja>ワークショップ登録済みMOD、{0}を確認中です。お待ちください</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_DOWNLOADING</zType>
+		<en-US>Currently downloading - {0}</en-US>
+		<ja>現在ダウンロード中 - {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_UPLOADING</zType>
+		<en-US>Currently uploading - {0}</en-US>
+		<ja>現在アップロード中 - {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CHECK_SUBSCRIBED_MODIO</zType>
+		<en-US>Please wait, checking {0} Modio subscribed mods</en-US>
+		<ja>お待ちください。Modioにある{0}個のMODを確認しています…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_TITLE</zType>
+		<en-US>Mods Not Found!</en-US>
+		<ja>Modが見つかりません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_BODY</zType>
+		<en-US>The following mods were not found on your system, would you like to go to the Mod install screen?</en-US>
+		<ja>以下のModがシステム上に見つかりません。ダウンロードを試行しますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_DOWNLOADING_MODS_POPUP_TITLE</zType>
+		<en-US>Downloading mods, please wait.</en-US>
+		<ja>Modのダウンロード中です。お待ちください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MOD_DOWNLOADS_COMPLETE_POPUP_TRY_LOAD_AGAIN_BUTTON</zType>
+		<en-US>Try Loading Game Again</en-US>
+		<ja>ゲームの再ロードを試行中です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NOT_FOUND_ON_SERVER_POPUP_TITLE</zType>
+		<en-US>The requested mods were not found on the mod.io servers</en-US>
+		<ja>対象のModは、mod.ioサーバーに見つかりませんでした。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NOT_DOWNLOADED_WORKSHOP_TITLE</zType>
+		<en-US>Workshop Error</en-US>
+		<ja>ワークショップエラー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_NOT_DOWNLOADED_WORKSHOP_BODY</zType>
+		<en-US>Failed to download mod from Workshop</en-US>
+		<ja>Modのワークショップからのダウンロードに失敗しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CODE_MOD_INCOMPATIBLE</zType>
+		<en-US>The mod {0} failed to load. It contains custom source code that is incompatible with this version of Old World. The mod needs to be updated by the author in order to work again.
+		
+{0} has been unloaded and disabled. It is recommended that you restart Old World before playing.</en-US>
+		<ja>MOD {0}のロードに失敗しました。MODにはこのバーションの『Old Wolrd』と互換性のないカスタムソースコードが含まれています。そのMODを再度使用できるようにするには、制作者がアップデートする必要があります。
+		
+{0}は読み込みできず、無効な状態です。プレイする前に、『Old World』を再起動することをお勧めします。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_LOADING_ERRORS_POPUP_TITLE</zType>
+		<en-US>Errors Loading Mods</en-US>
+		<ja>MODのロードエラー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_ERRORS</zType>
+		<en-US>{br}{br}The following errors were detected while loading mods. The game will attempt to continue, but any issues in game should be reported to the mod's creator.{br}</en-US>
+		<ja>{br}{br}有効なMODのロード中に下記のエラーが検出されました。ゲームの続行を試みますが、ゲーム内の問題は、どんなものでもMODの開発者に報告する必要があります。{br}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_ERRORS_LIST</zType>
+		<en-US>{br}Errors detected (Max 5 shown):</en-US>
+		<ja>{br}エラーを検出しました:</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MODS_CODE_MOD_INCOMPATIBLE_EARLY_CRASH</zType>
+		<en-US>One of the mods you have active has failed to initialize. This is likely the result of an update to the game, and will require the mod's author to update it.
+		
+All mods have been disabled. If you had multiple mods selected, it may be safe to reactivate some of them. It is recommended you restart Old World now.</en-US>
+		<ja>有効になっているMODの1つが初期化に失敗しました。これは本作のアップデートによって発生した可能性があるため、MOD制作者の方でも同じくファイルのアップデートを行う必要があります。
+		
+全てのMODが無効化されています。複数のMODを選択していた場合、そのうちのいくつかは再び安全に有効化できる可能性があります。本作の再起動をすぐに行うことをお勧めします。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAC_GOG_ROSETTA_WARNING</zType>
+		<en-US>You appear to be running the GOG Mac build offline on an Apple Silicon machine. Unfortunately, some GOG functionality is currently unavailable in Apple native (ARM64) mode, and as a result you may be unable to access DLCs that you own.
+			
+To resolve the problem, either run the game through GOG Galaxy or manually set the game to use Rosetta (Intel mode) and run it without Galaxy again.
+		
+Apologies for the inconvenience. We're working with GOG on a solution.</en-US>
+		<ja>あなたはGOGで販売されているMac版をApple Silicon搭載機でオフラインで実行しているようです。大変申し訳ありませんがAppleネイティブ(ARM64)モードではいくつかのGOG版の機能が利用できず、その結果として購入済みのDLCが利用できない可能性があります。
+			
+この問題を解決するためにはGOG Galaxyよりゲームを実行するか、動作モードをRosetta(Intelモード)に切り替えて頂き、その後GOG Galaxyを経由せず起動してください。
+		
+ご不便をおかけして申し訳ありません。現在この問題の解決法についてGOGと模索中です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_INTEL_13TH_GEN_WARNING</zType>
+		<en-US><![CDATA[Warning: the CPU on this computer has known stability issues, which may result in frequent crashes when playing Old World.
+		
+As a precaution, we have automatically enabled the "Slow AI" option to decrease CPU use and improve stability. You can later disable this under Options -> UI but we recommend doing that only if you can confirm your system is stable with Intel's diagnostic tools.
+
+Please refer to the <color="lightblue"><link="https://docs.google.com/document/d/1-NlsBONzmRGI0BqSscZchJCFt9sMLLREeDoVpPyUJCw">Intel Raptor Lake CPU information page</link></color> for details and suggested fixes. Feel free to email support@mohawkgames.com if you have any questions.]]></en-US>
+		<ja><![CDATA[警告: 現在お使いのコンピューターで使用されているCPUには既知の安定性の問題があり、Old Worldのプレイ中に頻繁なクラッシュを起こす恐れがあります。
+		
+予防措置として、CPUの使用率を低減して安定性を増加させるため、「低速AI」設定を自動適用しました。設定画面の「UI」よりこの設定の無効化が行えますが、その前にまずIntelの診断ツールでシステムが安定動作していることを確認することをお勧めします。
+
+<color="lightblue"><link="https://docs.google.com/document/d/1-NlsBONzmRGI0BqSscZchJCFt9sMLLREeDoVpPyUJCw">i9-13900Kに関する情報のページ</link>をご確認頂き、推奨される対処法を確認してください。]]></ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SETUP_PARAMETER_STRING</zType>
+		<en-US>Parameter String</en-US>
+		<ja>パラメーター文字列</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SETUP_PARAMETER_STRING_ERROR</zType>
+		<en-US>Error reading parameter string</en-US>
+		<ja>パラメーター文字列の読み取りに失敗</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SETUP_START_PARAMS_STRING</zType>
+		<en-US>Replay an in-progress game from the start by copying its parameter string from the in-game menu.</en-US>
+		<ja>ゲーム内メニューよりパラメーター文字列をコピーして、進行中のゲームを最初から再生します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LATEST_PATCH_NOTES_TITLE</zType>
+		<en-US>Latest patch notes</en-US>
+		<ja>最新パッチノート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_CHOOSE_LEADER</zType>
+		<en-US>Choose a Leader</en-US>
+		<ja>指導者を選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_MAPSCRIPT</zType>
+		<en-US>Map Script</en-US>
+		<ja>マップスクリプト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_SIMPLE_MAPFILE</zType>
+		<en-US>Map File</en-US>
+		<ja>マップファイル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SP_SETUP_MAP_SETTINGS</zType>
+		<en-US>Map Settings</en-US>
+		<ja>マップ設定</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SP_SETUP_START_GAME</zType>
+		<en-US>Start Game</en-US>
+		<ja>ゲーム開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_SP_SETUP_UNKNOWN_LEADER</zType>
+		<en-US>Unknown</en-US>
+		<ja>未確認</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SP_SETUP_CUSTOM_LEADER</zType>
+		<en-US>Custom Leader</en-US>
+		<ja>カスタムリーダー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_LOADING</zType>
+		<en-US>Loading</en-US>
+		<ja>ロード中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_LOADING_MAIN_GAME</zType>
+		<en-US>Loading MainGame</en-US>
+		<ja>メインゲームをロード中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_CREATING_GAME</zType>
+		<en-US>Creating Game</en-US>
+		<ja>ゲームを作成中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_INITIALIZING_RENDERER</zType>
+		<en-US>Initializing Renderer</en-US>
+		<ja>レンダラーを初期化中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_INITIALIZING_UI</zType>
+		<en-US>Initializing UI</en-US>
+		<ja>UIを初期化中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_FINISHING_TASKS</zType>
+		<en-US>Finishing Tasks {0_num}</en-US>
+		<ja>{0_num}個のタスクを実行中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LOADING_MANAGER_FINISHED</zType>
+		<en-US>Finished</en-US>
+		<ja>完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_MINIMUM</zType>
+		<en-US>Minimum</en-US>
+		<ja>最低限</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_LOW</zType>
+		<en-US>Low</en-US>
+		<ja>低</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_MEDIUM</zType>
+		<en-US>Medium</en-US>
+		<ja>標準</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_HIGH</zType>
+		<en-US>High</en-US>
+		<ja>高</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_CUSTOM</zType>
+		<en-US>Custom</en-US>
+		<ja>カスタム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_ERROR</zType>
+		<en-US>Error</en-US>
+		<ja>エラー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_NONE</zType>
+		<en-US>None</en-US>
+		<ja>なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_DEUTERANOPIA</zType>
+		<en-US>Deuteranopia</en-US>
+		<ja>2型色覚異常</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_PROTANOPIA</zType>
+		<en-US>Protanopia</en-US>
+		<ja>1型色覚異常</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_TRITANOPIA</zType>
+		<en-US>Tritanopia</en-US>
+		<ja>3型色覚異常</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_NO_LIMIT</zType>
+		<en-US>No Limit</en-US>
+		<ja>制限なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_100</zType>
+		<en-US>100FPS</en-US>
+		<ja>100FPS</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_60</zType>
+		<en-US>60FPS</en-US>
+		<ja>60FPS</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_30</zType>
+		<en-US>30FPS</en-US>
+		<ja>30FPS</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_V1</zType>
+		<en-US>V-Sync (1 Interval)</en-US>
+		<ja>垂直同期（1インターバル）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_V2</zType>
+		<en-US>V-Sync (2 Interval)</en-US>
+		<ja>垂直同期（2インターバル）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_FPS_8</zType>
+		<en-US>8FPS (Debug)</en-US>
+		<ja>8FPS（デバッグ）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_SCREENMODE_EXCLUSIVE_FULLSCREEN</zType>
+		<en-US>Exclusive Fullscreen</en-US>
+		<ja>排他的フルスクリーン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_SCREENMODE_BORDERLESS_WINDOW</zType>
+		<en-US>Borderless Windowed</en-US>
+		<ja>ボーダレスウィンドウ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_SCREENMODE_WINDOWED</zType>
+		<en-US>Windowed</en-US>
+		<ja>ウィンドウ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_ON</zType>
+		<en-US>On</en-US>
+		<ja>|</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OPTIONS_OFF</zType>
+		<en-US>Off</en-US>
+		<ja>O</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OCCURRENCE_SOLO</zType>
+		<en-US>{0_occurrence}</en-US>
+		<ja>{0_occurrence}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OCCURRENCE_WARNING</zType>
+		<en-US>Warning: {0_occurrence}!</en-US>
+		<ja>警告: {0_occurrence}！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OCCURRENCE_ACTIVE</zType>
+		<en-US>{sentencecase:{0,1_occurrence}} is Active</en-US>
+		<ja>{sentencecase:{0,1_occurrence}}有効</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OCCURRENCE_WARNING_COUNTDOWN</zType>
+		<en-US>Warning: {0_occurrence} in {1_turns}!</en-US>
+		<ja>警告：残り{1_turns}で{0_occurrence}発生！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OCCURRENCE_GLOBAL</zType>
+		<en-US>{0_occurrence}{true_1: (Global):}</en-US>
+		<ja>{0_occurrence}{true_1: (Global):}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_OCCURRENCE_FOREIGN</zType>
+		<en-US>{0_occurrence} in {1_player}</en-US>
+		<ja>{0_occurrence}（{1_player}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_READY</zType>
+		<en-US>[{TRIGGER-0} Ready]*</en-US>
+		<ja>[{TRIGGER-0} 準備完了]*</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_STARTED</zType>
+		<en-US>[{TRIGGER-0} Started]</en-US>
+		<ja>[{TRIGGER-0}が始まった]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_STARTED_FOREIGN</zType>
+		<en-US>[{TRIGGER-0} Started in {TRIGGER-1}]</en-US>
+		<ja>[{TRIGGER-1}で{TRIGGER-0}が開始]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_ENDED</zType>
+		<en-US>[{TRIGGER-0} Ended]</en-US>
+		<ja>[{TRIGGER-0}が終わった]</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_TUTORIAL_TOGGLE</zType>
+		<en-US>Tutorial events</en-US>
+		<ja>チュートリアル イベント</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_LAPTOP_BATTERY_PERFORMANCE_WARNING</zType>
+		<en-US>You are playing on a laptop that is running on battery. Depending on your computer's settings, it may limit performance to ensure longer battery life.
+		
+On some laptops, these power saving features may result in very long waiting times between turns. If you encounter such issues, consider switching your laptop's power plan to a "Maximum Performance" setting or similar.</en-US>
+		<ja>バッテリーで稼働するノートパソコンでプレイしています。使用中のパソコンの設定によっては、バッテリーの寿命を長くするために、パフォーマンスを制限する場合があります。
+		
+一部のノートパソコンでは、このような節電機能によって、ターン間の待ち時間がかなり長くなる場合があります。そのような問題が発生した場合は、ノートパソコンの電源オプションを「高パフォーマンス」か類似の項目を選択することを検討してください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NATION</zType>
+		<en-US>Nation</en-US>
+		<ja>国家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MENU</zType>
+		<en-US>Menu</en-US>
+		<ja>メニュー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NEW</zType>
+		<en-US>New</en-US>
+		<ja>新規</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_DELETE</zType>
+		<en-US>Delete</en-US>
+		<ja>削除</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NAME</zType>
+		<en-US>Name</en-US>
+		<ja>名前</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SAVE</zType>
+		<en-US>Save</en-US>
+		<ja>保存</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_BACK</zType>
+		<en-US>Back</en-US>
+		<ja>戻る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MAIN_MENU</zType>
+		<en-US>Main Menu</en-US>
+		<ja>メインメニュー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_PREVIOUS</zType>
+		<en-US>Previous</en-US>
+		<ja>前へ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NEXT</zType>
+		<en-US>Next</en-US>
+		<ja>次へ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_AGING</zType>
+		<en-US>Aging</en-US>
+		<ja>老化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_OPINION</zType>
+		<en-US>Opinion</en-US>
+		<ja>方針</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_TEST</zType>
+		<en-US>Test</en-US>
+		<ja>テスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_INFO</zType>
+		<en-US>Info</en-US>
+		<ja>情報</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_BABY</zType>
+		<en-US>Baby</en-US>
+		<ja>赤子</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_YOUTH</zType>
+		<en-US>Youth</en-US>
+		<ja>幼年期</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_TEENAGER</zType>
+		<en-US>Teenager</en-US>
+		<ja>10代</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_ADULT</zType>
+		<en-US>Adult</en-US>
+		<ja>大人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SENIOR</zType>
+		<en-US>Senior</en-US>
+		<ja>シニア</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MOVE</zType>
+		<en-US>Move</en-US>
+		<ja>移動</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_ROTATE</zType>
+		<en-US>Rotate</en-US>
+		<ja>回転</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SCALE</zType>
+		<en-US>Scale</en-US>
+		<ja>縮尺</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MORPH</zType>
+		<en-US>Morph</en-US>
+		<ja>変形</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_TINT</zType>
+		<en-US>Tint</en-US>
+		<ja>色合い</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_FACE_ONLY</zType>
+		<en-US>Face Only</en-US>
+		<ja>顔のみ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_FOREHEAD_BLEND_DISTANCE</zType>
+		<en-US>Forehead Blend Distance</en-US>
+		<ja>額との距離</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_FADE</zType>
+		<en-US>Fade</en-US>
+		<ja>フェード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_REGENERATE</zType>
+		<en-US>Regenerate</en-US>
+		<ja>再生成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_REGENERATE_FAILED_TOOLTIP</zType>
+		<en-US>Failed to automatically find feature points, using defaults instead.</en-US>
+		<ja>フィーチャーポイントの自動検出に失敗したため、デフォルトの設定を適用します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_COPY</zType>
+		<en-US>Copy</en-US>
+		<ja>コピー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_PASTE</zType>
+		<en-US>Paste</en-US>
+		<ja>貼り付け</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_CLOSE_MOUTH</zType>
+		<en-US>Close Mouth</en-US>
+		<ja>口を閉じる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SELECT_PRESET</zType>
+		<en-US>Select Preset</en-US>
+		<ja>プリセットの選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_RESET</zType>
+		<en-US>Reset</en-US>
+		<ja>リセット</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_2_62</zType>
+		<en-US>2-62</en-US>
+		<ja>2-62</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SINGLE</zType>
+		<en-US>Single</en-US>
+		<ja>シングル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_AGE_OPINION</zType>
+		<en-US>Age/Opinion</en-US>
+		<ja>年齢 / 方針</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_AGE</zType>
+		<en-US>Age</en-US>
+		<ja>年齢</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_GENDER</zType>
+		<en-US>Gender</en-US>
+		<ja>性別</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SELECT</zType>
+		<en-US>Select</en-US>
+		<ja>選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MALE</zType>
+		<en-US>Male</en-US>
+		<ja>男性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_FEMALE</zType>
+		<en-US>Female</en-US>
+		<ja>女性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MOD</zType>
+		<en-US>Mod</en-US>
+		<ja>MOD</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_CREATE_PORTRAIT</zType>
+		<en-US>Create Portrait</en-US>
+		<ja>ポートレート作成</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_ENTER_NAME</zType>
+		<en-US>Enter a name...</en-US>
+		<ja>名前を入力</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_REALLY_DELETE</zType>
+		<en-US>Are you sure?</en-US>
+		<ja>これでよろしいですか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NAME_TAKEN</zType>
+		<en-US>name already in use</en-US>
+		<ja>既に使われている名前です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SELECT_SPRITE</zType>
+		<en-US>Select a Sprite</en-US>
+		<ja>スプライトを選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_SEARCH</zType>
+		<en-US>Search</en-US>
+		<ja>検索</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_MODDING_HINT</zType>
+		<en-US>Learn how to add new portraits here</en-US>
+		<ja>新たなポートレートを追加する方法はこちら</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_GUIDE</zType>
+		<en-US>Guide</en-US>
+		<ja>ガイド</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NEW_PORTRAIT</zType>
+		<en-US>New Portrait</en-US>
+		<ja>新しいポートレート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_RELOAD_INFOS</zType>
+		<en-US>Reload Infos</en-US>
+		<ja>情報リロード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_FILTER</zType>
+		<en-US>Filter</en-US>
+		<ja>フィルター</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_ANY</zType>
+		<en-US>Any</en-US>
+		<ja>各</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_BASE_GAME</zType>
+		<en-US>Base Game</en-US>
+		<ja>ベースゲーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_PORTRAIT_EDITOR_NO_MODS_AVAILABLE</zType>
+		<en-US>No local mods found. You can create a new empty mod by selecting "Mods" from the main menu and selecting "New Mod" from the Upload tab</en-US>
+		<ja>ローカルMODが見つかりません。メインメニューから"Mods"を選択し、アップロードタブから"New Mod "を選択することで、新しい空のModを作成することが可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_SUMMARY_PLACEHOLDER</zType>
+		<en-US>Summary</en-US>
+		<ja>概要</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_SENDING</zType>
+		<en-US>Submitting User Report</en-US>
+		<ja>ユーザーレポートの送信</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_SEND_PROGRESS</zType>
+		<en-US>100%</en-US>
+		<ja>100%</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_BUG_REPORT</zType>
+		<en-US>Bug Report</en-US>
+		<ja>バグレポート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_BUTTON_SUBMIT</zType>
+		<en-US>Submit</en-US>
+		<ja>提出</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_BUTTON_CANCEL</zType>
+		<en-US>Cancel</en-US>
+		<ja>キャンセル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_DROPDOWN_BUG</zType>
+		<en-US>Bug</en-US>
+		<ja>バグ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_DROPDOWN_PERFORMANCE_ISSUE</zType>
+		<en-US>Performance Issue</en-US>
+		<ja>パフォーマンスの問題</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_DROPDOWN_SUGGESTION</zType>
+		<en-US>Suggestion</en-US>
+		<ja>ご提案</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_SEND_FAILED</zType>
+		<en-US>The user report could not be sent. Please try again later.</en-US>
+		<ja>ユーザーレポートを送信できませんでした。後ほど、もう一度お試しください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_USER_REPORTING_CONTACT_MESSAGE</zType>
+		<en-US>If you would like us to contact you, please include your email address. We have no way to respond otherwise.</en-US>
+		<ja>ご連絡を希望される場合は、メールアドレスをご記入ください。そうでない場合、こちらでは対応いたしかねますので、予めご承知おきください。</ja>
+	</Entry>
+</Root>

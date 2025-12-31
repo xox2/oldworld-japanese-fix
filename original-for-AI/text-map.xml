@@ -1,0 +1,1239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HIGH_RESOURCES</zType>
+		<en-US>High</en-US>
+		<ja>多</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HIGH_RESOURCES_HELP</zType>
+		<en-US>More resources on the map</en-US>
+		<ja>マップ上の資源を増やす</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_MEDIUM_RESOURCES</zType>
+		<en-US>Medium</en-US>
+		<ja>標準</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_MEDIUM_RESOURCES_HELP</zType>
+		<en-US>Default amount of resources</en-US>
+		<ja>デフォルトの資源量</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_LOW_RESOURCES</zType>
+		<en-US>Low</en-US>
+		<ja>少</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_LOW_RESOURCES_HELP</zType>
+		<en-US>Fewer resources on the map</en-US>
+		<ja>マップ上の資源を減らす</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DEFAULT_RESOURCES</zType>
+		<en-US>Default</en-US>
+		<ja>デフォルト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DEFAULT_RESOURCES_HELP</zType>
+		<en-US>Use the map's designed resource placement</en-US>
+		<ja>マップに設計された資源配置を使用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RANDOM_SCENARIO_RESOURCES</zType>
+		<en-US>Randomized</en-US>
+		<ja>ランダム化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RANDOM_SCENARIO_RESOURCES_HELP</zType>
+		<en-US>Use random resource placement</en-US>
+		<ja>ランダムな資源配置を使用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_START_ANYWHERE</zType>
+		<en-US>Anywhere</en-US>
+		<ja>任意の場所</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_START_ANYWHERE_HELP</zType>
+		<en-US>Start anywhere</en-US>
+		<ja>任意の場所から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_SIZE_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_SIZE_RANDOM_HELP</zType>
+		<en-US>Choose a random option</en-US>
+		<ja>ランダムな選択肢を選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_COAST</zType>
+		<en-US>Coastal</en-US>
+		<ja>沿岸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_COAST_HELP</zType>
+		<en-US>Start adjacent to salt water</en-US>
+		<ja>海水に隣接して開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_INLAND</zType>
+		<en-US>Inland</en-US>
+		<ja>内陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_INLAND_HELP</zType>
+		<en-US>Start away from the coast</en-US>
+		<ja>沿岸から離れて開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_RANDOM_HELP</zType>
+		<en-US>Varied in number and distribution</en-US>
+		<ja>数と分布が多様に変化する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FIVE</zType>
+		<en-US>Five Tribes</en-US>
+		<ja>5つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FIVE_HELP</zType>
+		<en-US>Wide variation in size of Tribes</en-US>
+		<ja>部族のサイズに幅広いバリエーションがある</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FOUR</zType>
+		<en-US>Four Tribes</en-US>
+		<ja>4つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FOUR_HELP</zType>
+		<en-US>Tribes will be placed in quadrants</en-US>
+		<ja>部族は4分割で配置される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_THREE</zType>
+		<en-US>Three Tribes</en-US>
+		<ja>3つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_THREE_HELP</zType>
+		<en-US>Tribes of similar sizes. More unaffiliated camps.</en-US>
+		<ja>同規模の部族。無所属の陣営が多い。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_RANDOM_HELP</zType>
+		<en-US>Choose a random option</en-US>
+		<ja>ランダムな選択肢を選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_TUNDRA</zType>
+		<en-US>Tundra</en-US>
+		<ja>凍土帯</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_TUNDRA_HELP</zType>
+		<en-US>The map will include some Tundra</en-US>
+		<ja>マップに凍土帯が含まれる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_DESERT</zType>
+		<en-US>Desert</en-US>
+		<ja>砂漠</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_DESERT_HELP</zType>
+		<en-US>The map will include a major Desert</en-US>
+		<ja>マップに主要な砂漠が含まれる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS</zType>
+		<en-US>Extra Mountains</en-US>
+		<ja>山の追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS_HELP</zType>
+		<en-US>The map will include extra Mountains</en-US>
+		<ja>マップにより多くの山を追加する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_WATER</zType>
+		<en-US>Extra Water</en-US>
+		<ja>水域の追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_WATER_HELP</zType>
+		<en-US>The map will include extra Water</en-US>
+		<ja>マップにより多くの水域を追加する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_PLATEAU</zType>
+		<en-US>The Plateau</en-US>
+		<ja>高原</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_PLATEAU_HELP</zType>
+		<en-US>Start in the south on a great plateau</en-US>
+		<ja>広大な高原の南部から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_MIDLAND</zType>
+		<en-US>The Midland</en-US>
+		<ja>中部</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_MIDLAND_HELP</zType>
+		<en-US>Start in the middle latitudes</en-US>
+		<ja>中緯度から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_TUNDRA</zType>
+		<en-US>Near the Tundra</en-US>
+		<ja>凍土帯付近</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_PLAYER_START_TUNDRA_HELP</zType>
+		<en-US>Start in the north, where it is colder</en-US>
+		<ja>より寒冷な北部から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_LARGE</zType>
+		<en-US>Large Seas</en-US>
+		<ja>大海原</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_LARGE_HELP</zType>
+		<en-US>Fewer, larger seas of irregular shape</en-US>
+		<ja>不規則な形をした、より少なく、より大きな海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_SMALL</zType>
+		<en-US>Small Jagged Seas</en-US>
+		<ja>小さな入り組んだ海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_SMALL_HELP</zType>
+		<en-US>Several small seas will be narrow and jagged. They may interconnect.</en-US>
+		<ja>小さな海の一部は狭く、入り組んだ海岸線を持つ。これらの海は、互いに連結することもある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_LARGE</zType>
+		<en-US>Large</en-US>
+		<ja>大</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_LARGE_HELP</zType>
+		<en-US>More water, and islands are relatively far apart</en-US>
+		<ja>水域が多く、比較的離れた位置に島々がある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_SMALL</zType>
+		<en-US>Medium</en-US>
+		<ja>中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_SMALL_HELP</zType>
+		<en-US>Islands are moderately far apart</en-US>
+		<ja>適度に離れた位置に島々がある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_MERGED</zType>
+		<en-US>Small</en-US>
+		<ja>小</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_WATER_SIZE_MERGED_HELP</zType>
+		<en-US>Less water, and islands are relatively close together, or even merged into larger islands</en-US>
+		<ja>水域が少なく、島々が比較的近くに集まっているか、場合によっては大きな島として繋がっている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_RANDOM_HELP</zType>
+		<en-US>Choose a random option</en-US>
+		<ja>ランダムな選択肢を選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_FAR_NORTH</zType>
+		<en-US>Far North</en-US>
+		<ja>はるか北方</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_FAR_NORTH_HELP</zType>
+		<en-US>Bays that range offscreen to the north</en-US>
+		<ja>画面外から北に広がる湾</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_MIDDLE_NORTH</zType>
+		<en-US>Middle North</en-US>
+		<ja>中北部</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_MIDDLE_NORTH_HELP</zType>
+		<en-US>Seas with land passage to their north</en-US>
+		<ja>北側に陸路がある海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_SIX</zType>
+		<en-US>Six Tribes</en-US>
+		<ja>6つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_SIX_HELP</zType>
+		<en-US>Six Tribes distributed evenly around the inland sea(s)</en-US>
+		<ja>内海周辺に均等に分布する6つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_RANDOM_HELP</zType>
+		<en-US>Varied in number and distribution</en-US>
+		<ja>数と分布が多様に変化する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_FOUR</zType>
+		<en-US>Four Tribes</en-US>
+		<ja>4つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_FOUR_HELP</zType>
+		<en-US>Tribes will be placed in quadrants</en-US>
+		<ja>部族は4分割で配置される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_THREE</zType>
+		<en-US>Three Tribes</en-US>
+		<ja>3つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_THREE_HELP</zType>
+		<en-US>One Tribe per latitude band</en-US>
+		<ja>各緯度帯に1つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO</zType>
+		<en-US>Two Tribes</en-US>
+		<ja>2つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_HELP</zType>
+		<en-US>One west, one east</en-US>
+		<ja>西に1つ、東に1つ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_INLAND</zType>
+		<en-US>Two Tribes, Inland</en-US>
+		<ja>内陸部の2つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_INLAND_HELP</zType>
+		<en-US>Tribes inhabit land away from the water</en-US>
+		<ja>水域から離れた土地に居住する部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_BARBARIANS</zType>
+		<en-US>Barbarians Only</en-US>
+		<ja>バーバリアンのみ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_BARBARIANS_HELP</zType>
+		<en-US>No Tribes, only Barbarian camps</en-US>
+		<ja>部族は存在せず、バーバリアンの野営地のみ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_FAIR_STARTS</zType>
+		<en-US>Peripheral Starts</en-US>
+		<ja>周辺地からのスタート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_INLAND_SEA_FAIR_STARTS_HELP</zType>
+		<en-US>Nations start on the periphery of the inland sea, away from the center of the map.</en-US>
+		<ja>各国は内陸の海域周辺部に配置され、マップ中心から離れた場所からスタートします。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_SINGLE_CONNECTED_STARTS</zType>
+		<en-US>Connected Player Starts</en-US>
+		<ja>陸続きの初期配置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_SINGLE_CONNECTED_STARTS_HELP</zType>
+		<en-US>Each player has a land path to every other player.</en-US>
+		<ja>全てのプレイヤーが他の全プレイヤーと陸続きになるような位置に配置されます</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_SEA</zType>
+		<en-US>Coastal</en-US>
+		<ja>沿岸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_SEA_HELP</zType>
+		<en-US>Start adjacent to salt water</en-US>
+		<ja>海水に隣接して開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_INLAND</zType>
+		<en-US>Inland</en-US>
+		<ja>内陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_INLAND_HELP</zType>
+		<en-US>Start away from the sea</en-US>
+		<ja>海から離れて開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_FOREST</zType>
+		<en-US>Forest</en-US>
+		<ja>森</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_FOREST_HELP</zType>
+		<en-US>Tribes own the great forest. Nations start in the plains.</en-US>
+		<ja>部族が大きな森を所有。国家は平原から開始。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_PLAINS</zType>
+		<en-US>Plains</en-US>
+		<ja>平原</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_PLAINS_HELP</zType>
+		<en-US>Tribes occupy the open plains. Nations start in the forest.</en-US>
+		<ja>部族が広い平原を占拠。国家は森から開始。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_SCATTERED</zType>
+		<en-US>Scattered</en-US>
+		<ja>点在</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_SCATTERED_HELP</zType>
+		<en-US>Nations and Tribes can start anywhere.</en-US>
+		<ja>国家と部族は任意の場所から開始可能。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT</zType>
+		<en-US>On the Continent</en-US>
+		<ja>大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT_HELP</zType>
+		<en-US>Start on the main continent. Selecting a high number of Nations may require some to start in the north.</en-US>
+		<ja>主要な大陸から開始。多数の国を選択するには、北部から開始する必要がある場合があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS</zType>
+		<en-US>Islands and Peninsulas</en-US>
+		<ja>島と半島</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS_HELP</zType>
+		<en-US>Start in the north, on an island or peninsula. Selecting a high number of Nations may require some to start on the continent.</en-US>
+		<ja>北部の島または半島から開始。多数の国を選択するには、大陸から開始する必要がある場合があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE</zType>
+		<en-US>Native</en-US>
+		<ja>原住民</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE_HELP</zType>
+		<en-US>Use Tribal homelands native to the Northern Ocean</en-US>
+		<ja>北洋を故郷とする部族の本土を利用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM_HELP</zType>
+		<en-US>Randomly distribute Tribes</en-US>
+		<ja>部族をランダムに配置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_SEA</zType>
+		<en-US>Coastal</en-US>
+		<ja>沿岸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_SEA_HELP</zType>
+		<en-US>Start adjacent to salt water</en-US>
+		<ja>海水に隣接して開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_INLAND</zType>
+		<en-US>Inland</en-US>
+		<ja>内陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_INLAND_HELP</zType>
+		<en-US>Start away from the coast</en-US>
+		<ja>沿岸から離れて開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_RANDOM_HELP</zType>
+		<en-US>Varied in number and distribution</en-US>
+		<ja>数と分布が多様に変化する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_SCATTERED</zType>
+		<en-US>Five Tribes</en-US>
+		<ja>5つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_SCATTERED_HELP</zType>
+		<en-US>Tribe placement will be scattered</en-US>
+		<ja>部族の配置が分散される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_QUADRANTS</zType>
+		<en-US>Four Tribes</en-US>
+		<ja>4つの部族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_QUADRANTS_HELP</zType>
+		<en-US>Tribes will be placed in quadrants</en-US>
+		<ja>部族は4分割で配置される</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_INLAND</zType>
+		<en-US>Inland Only</en-US>
+		<ja>内陸のみ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_INLAND_HELP</zType>
+		<en-US>Two Tribes in play, with all camps away from the ocean</en-US>
+		<ja>2つの部族が存在し、すべての野営地が海から離れている</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_COASTAL</zType>
+		<en-US>Coastal Only</en-US>
+		<ja>沿岸のみ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_COASTAL_HELP</zType>
+		<en-US>Two Tribes in play, with all camps near the coast</en-US>
+		<ja>2つの部族が存在し、すべての野営地が沿岸付近にある</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_EITHER</zType>
+		<en-US>Either</en-US>
+		<ja>どちらか一方</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_EITHER_HELP</zType>
+		<en-US>Extreme terrain can be either Tundra or Desert</en-US>
+		<ja>極限地は、凍土帯か砂漠のどちらかになる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_NONE_HELP</zType>
+		<en-US>No tundra or a major desert</en-US>
+		<ja>ツンドラ、大規模な砂漠なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_TUNDRA</zType>
+		<en-US>Tundra</en-US>
+		<ja>凍土帯</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_TUNDRA_HELP</zType>
+		<en-US>Extreme terrain on the map will be Tundra</en-US>
+		<ja>マップ上の極限地が凍土帯になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_DESERT</zType>
+		<en-US>Desert</en-US>
+		<ja>砂漠</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_DESERT_HELP</zType>
+		<en-US>Extreme terrain on the map will be Desert</en-US>
+		<ja>マップ上の極限地が砂漠になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU</zType>
+		<en-US>The Plateau</en-US>
+		<ja>高原</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU_HELP</zType>
+		<en-US>Start in the south on a great plateau</en-US>
+		<ja>広大な高原の南部から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND</zType>
+		<en-US>The Midland</en-US>
+		<ja>中部</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND_HELP</zType>
+		<en-US>Start in the middle latitudes</en-US>
+		<ja>中緯度から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN</zType>
+		<en-US>Near the Ocean</en-US>
+		<ja>海の近く</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN_HELP</zType>
+		<en-US>Start in the north, near the ocean</en-US>
+		<ja>北側の海の近くから開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_ARCHIPELAGO</zType>
+		<en-US>Archipelago</en-US>
+		<ja>多島海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_ARCHIPELAGO</zType>
+		<en-US>A large stretch of water containing many islands.</en-US>
+		<ja>多くの島々を含む広大な水域。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_ARID_PLATEAU</zType>
+		<en-US>Arid Plateau</en-US>
+		<ja>乾燥した高原</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_ARID_PLATEAU</zType>
+		<en-US>A region deep inland, behind a mountain range, where little rain falls.{br}{br}Balanced to support two teams in multi-player games.</en-US>
+		<ja>雨がほとんど降らない、山脈の背後にある内陸奥深くの地域。{br}{br}マルチプレイヤーゲームで、2つのチームに対応できるように調整されています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_BAY</zType>
+		<en-US>Bay</en-US>
+		<ja>湾</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_BAY</zType>
+		<en-US>A temperate coastal map, with a large area of shallow sea in the middle.</en-US>
+		<ja>温帯沿岸マップで、中央に広い浅瀬があります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_COASTAL_RAIN_BASIN</zType>
+		<en-US>Coastal Rain Basin</en-US>
+		<ja>沿岸多雨地帯</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_COASTAL_RAIN_BASIN</zType>
+		<en-US>A coastal region bordered by a mountain range, which catches rain and creates a fertile band near the mountains.{br}{br}Balanced to support two teams in multi-player games.</en-US>
+		<ja>山脈に囲まれた沿岸地域。雨が降り、山の近くに肥沃な地帯を作る。{br}{br}マルチプレイヤーゲームで、2つのチームに対応できるように調整されています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_CONTINENT</zType>
+		<en-US>Continent</en-US>
+		<ja>大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_CONTINENT</zType>
+		<en-US>A small continent, guaranteed to be circumnavigable within the map boundary.</en-US>
+		<ja>小さな大陸。マップの境界内で周航できることが保証されている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_MULTIPLE_CONTINENTS</zType>
+		<en-US>Multiple Continents</en-US>
+		<ja>複数の大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_MULTIPLE_CONTINENTS</zType>
+		<en-US>Two or Three Continents.</en-US>
+		<ja>2つ、または3つの大陸。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_DISJUNCTION</zType>
+		<en-US>Disjunction</en-US>
+		<ja>分離</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_DISJUNCTION</zType>
+		<en-US>A series of channels extend radially from the center, dividing a land map into separate regions.{br}{br}Balanced to support either teams or free-for-all in multi-player games.</en-US>
+		<ja>一連の水路が中央から放射状に伸びていて、地図上の土地を別々の地域に分割する。{br}{br}マルチプレイヤーゲームで、チームまたはフリーフォーオールのいずれかに対応できるように調整されています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_HARDWOOD_FOREST</zType>
+		<en-US>Hardwood Forest</en-US>
+		<ja>広葉樹林</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_HARDWOOD_FOREST</zType>
+		<en-US>Land whose northern half is covered with a dense hardwood forest. South of the leafy trees lies a band of lush terrain. Rains come from the west, but there are also seas to north and south.</en-US>
+		<ja>北半分が密な広葉樹林で覆われている土地。生い茂る木々の南側には、緑豊かな地帯が広がっている。雨は西からやって来るが、南北にも海がある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_INLAND_SEA</zType>
+		<en-US>Inland Sea</en-US>
+		<ja>内海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_INLAND_SEA</zType>
+		<en-US>Land that completely surrounds a sea or group of seas.{br}{br}Balanced to support free-for-all in multi-player games.</en-US>
+		<ja>海や海の群を完全に取り囲む土地。{br}{br}マルチプレイヤーゲームで、フリーフォーオールに対応できるように調整されています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_NORTHERN_OCEAN</zType>
+		<en-US>Northern Ocean</en-US>
+		<ja>北洋</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_NORTHERN_OCEAN</zType>
+		<en-US>A cold oceanic region containing numerous islands, large and small, bordered by a continent to the south. Resources on the continent are depleted (fewer resources per City).{br}{br}An adventure map intended for single player games, with larger dimensions to compensate for a lower percentage of habitable Tiles.</en-US>
+		<ja>南方の大陸に隣接する、大小さまざまな島々を含む寒冷な海洋地域。大陸にある資源は枯渇している（都市あたりの資源が少ない）。{br}{br}居住可能なタイルの割合が少ない分、寸法を大きくした、シングルプレイヤーゲーム向けのアドベンチャーマップです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_SEASIDE</zType>
+		<en-US>Seaside</en-US>
+		<ja>海辺</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_SEASIDE</zType>
+		<en-US>A region bordered by or containing large seas, gulfs, or bays, offering a substantial amount of coastline.{br}{br}Inspired by the Middle East but with a generally milder climate.</en-US>
+		<ja>大きな海、湾、または入り江に隣接する、または、それらを含む地域。かなり多くの海岸線を持つ。{br}{br}中東をイメージしたマップタイプですが、気候は概して温暖です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM</zType>
+		<en-US>Weighted Random</en-US>
+		<ja>加重ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM_HELP</zType>
+		<en-US>Each of the eight continent generation methods has an equal chance to be used</en-US>
+		<ja>8つの大陸の生成法は、それぞれ等しい確率で用いられる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN</zType>
+		<en-US>Two Continents, Split Evenly</en-US>
+		<ja>2つの大陸を均等に分割</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN_HELP</zType>
+		<en-US>Two continents of nearly-equal size</en-US>
+		<ja>ほぼ同じ大きさの2つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN</zType>
+		<en-US>Three Continents, Split Evenly</en-US>
+		<ja>3つの大陸を均等に分割</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN_HELP</zType>
+		<en-US>Three continents of nearly-equal size</en-US>
+		<ja>ほぼ同じ大きさの3つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN</zType>
+		<en-US>Three Continents, Split Unevenly</en-US>
+		<ja>3つの大陸を不均等に分割</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN_HELP</zType>
+		<en-US>Three continents of uneven sizes</en-US>
+		<ja>不均等な大きさの3つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TEAMS</zType>
+		<en-US>One continent per team</en-US>
+		<ja>1チームにつき1大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TEAMS_HELP</zType>
+		<en-US>One continent per team, with size proportional to the number of team members</en-US>
+		<ja>1チームにつき1大陸、サイズはチームメンバー数に比例する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_DONUT</zType>
+		<en-US>Donut</en-US>
+		<ja>ドーナツ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_DONUT</zType>
+		<en-US>A small continent, on the scale of Australia, that contains an inland sea. Guaranteed to be circumnavigable within the map boundary.</en-US>
+		<ja>オーストラリアほどの大きさの小さな大陸。内海を持つ。地図上の領内で周回可能。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_INNER_SEA</zType>
+		<en-US>Inner Sea</en-US>
+		<ja>内海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_INNER_SEA_HELP</zType>
+		<en-US>Start on a coastal site on the inner sea</en-US>
+		<ja>内海の沿岸部からゲームを始めます</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_OUTER_SEA</zType>
+		<en-US>Outer Sea</en-US>
+		<ja>外海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_OUTER_SEA_HELP</zType>
+		<en-US>Start on a coastal site on the outer sea</en-US>
+		<ja>外海の沿岸部からゲームを始めます</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_LOW</zType>
+		<en-US>Low</en-US>
+		<ja>低</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_LOW_HELP</zType>
+		<en-US>The landmass is less likely to have an uneven coast, especially good for multiplayer</en-US>
+		<ja>陸地にでこぼこの海岸がある可能性が低く、特にマルチプレイヤーに適しています</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_MEDIUM</zType>
+		<en-US>Medium</en-US>
+		<ja>中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_MEDIUM_HELP</zType>
+		<en-US>The landmass has an average coast, with some irregularities and larger areas of land</en-US>
+		<ja>平均的な海岸と一部不規則な地形があり、土地面積は大きい</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_HIGH</zType>
+		<en-US>High</en-US>
+		<ja>高</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_HIGH_HELP</zType>
+		<en-US>The landmass is very random, with many irregularities and uneven amounts of land</en-US>
+		<ja>土地は非常にランダム性に富み、土地には不規則な点が多く、面積は不均等です</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_DONUT_IRREGULARITY</zType>
+		<en-US>Irregularity</en-US>
+		<ja>不規則性</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY</zType>
+		<en-US>City Site Density</en-US>
+		<ja>街の敷地密度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH</zType>
+		<en-US>High</en-US>
+		<ja>高</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_MEDIUM</zType>
+		<en-US>Medium</en-US>
+		<ja>中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW</zType>
+		<en-US>Low</en-US>
+		<ja>低</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH_HELP</zType>
+		<en-US>City sites are in close proximity</en-US>
+		<ja>市街地が至近距離にある</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_MEDIUM_HELP</zType>
+		<en-US>City sites are farther apart</en-US>
+		<ja>市街地は離れている</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW_HELP</zType>
+		<en-US>City sites are very distant from each other</en-US>
+		<ja>市街地は互いに非常に離れている</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER</zType>
+		<en-US>City Site Number</en-US>
+		<ja>市街地の番号</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH</zType>
+		<en-US>Unrestricted</en-US>
+		<ja>制限なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM</zType>
+		<en-US>Restricted</en-US>
+		<ja>制限あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW</zType>
+		<en-US>Family Seats</en-US>
+		<ja>居城</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE</zType>
+		<en-US>Capitals</en-US>
+		<ja>首都</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH_HELP</zType>
+		<en-US>Maximum number of City Sites for the selected density and map size.</en-US>
+		<ja>選択密度とマップサイズにおける都市拠点の最大数。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM_HELP</zType>
+		<en-US>The total number of city sites is a fixed number per player, regardless of map size. There is no limit on the number of cities any one player can found.
+Tribal settlements still appear in places that would have been city sites but these cannot be settled by nations.</en-US>
+		<ja>都市拠点の総数はプレイヤーの数に、マップサイズに基づいた数を掛けたものとなる。各プレイヤーが設立できる都市の数は制限はない。
+部族の集落は本来、都市拠点であったであろう場所に残っているが、国がそこに入植することはできない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW_HELP</zType>
+		<en-US>The total number of city sites is one per family per player. There is no limit on the number of cities any one player can found.
+Tribal settlements still appear in places that would have been city sites but these cannot be settled by nations.</en-US>
+		<ja>都市拠点の総数は全プレイヤーが持つ氏族の総数と同じになる。各プレイヤーが設立できる都市の数は制限はない。
+部族の集落は本来、都市拠点であったであろう場所に残っているが、国がそこに入植することはできない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE_HELP</zType>
+		<en-US>Limited to one site per player.
+Tribal settlements still appear in places that would have been city sites but these cannot be settled by nations.</en-US>
+		<ja>プレーヤー1人につき、1拠点に限る。
+部族の集落は本来、都市拠点であったであろう場所に残っているが、国がそこに入植することはできない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_SINGLE_MIRROR_HELP</zType>
+		<en-US>East-West symmetric map. Requires two teams.</en-US>
+		<ja>東西対称のマップ。偶数のチームが必要。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_SINGLE_KING_OF_THE_HILL_HELP</zType>
+		<en-US>A resource-rich center instead of water at the channel intersection area</en-US>
+		<ja>水路交差点エリアの水域の代わりに、資源が豊富な中心地がある</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_SINGLE_GOOD_PLAYER_START_RESOURCES_HELP</zType>
+		<en-US>All starting locations have access to important resources like horses or iron</en-US>
+		<ja>すべてのスタート地点で、馬や鉄などの重要な資源を利用することができます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL</zType>
+		<en-US>Small</en-US>
+		<ja>小</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM</zType>
+		<en-US>Medium</en-US>
+		<ja>標準</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE</zType>
+		<en-US>Large</en-US>
+		<ja>大</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL_HELP</zType>
+		<en-US>Small Islands</en-US>
+		<ja>小さな島々</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM_HELP</zType>
+		<en-US>Water occupies approximately half of the map</en-US>
+		<ja>水域がマップの約半分を占める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE_HELP</zType>
+		<en-US>Land occupies more area than water</en-US>
+		<ja>土地が水域よりも広い面積を占める</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_TWO</zType>
+		<en-US>Two Continents</en-US>
+		<ja>2つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_THREE</zType>
+		<en-US>Three Continents</en-US>
+		<ja>3つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_RANDOM_HELP</zType>
+		<en-US>Either two or three continents</en-US>
+		<ja>2つの大陸、または3つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_TWO_HELP</zType>
+		<en-US>Two continents, one in the North and one in the South</en-US>
+		<ja>北と南に1つずつある、2つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_THREE_HELP</zType>
+		<en-US>Three continents, with either the North or South containing two continents</en-US>
+		<ja>北または南のいずれかに2つの大陸が含まれる、3つの大陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_START_ANY</zType>
+		<en-US>Anywhere</en-US>
+		<ja>任意の場所</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_START_ANY_HELP</zType>
+		<en-US>Start anywhere</en-US>
+		<ja>任意の場所から開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_START_COAST</zType>
+		<en-US>Coastal</en-US>
+		<ja>沿岸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_START_INLAND</zType>
+		<en-US>Inland</en-US>
+		<ja>内陸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_SIZE_NORMAL</zType>
+		<en-US>Standard</en-US>
+		<ja>標準</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_SIZE_NORMAL_HELP</zType>
+		<en-US>The map is the default map size.</en-US>
+		<ja>デフォルトの地図サイズです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_SIZE_DOUBLE</zType>
+		<en-US>Double</en-US>
+		<ja>2倍</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_SIZE_DOUBLE_HELP</zType>
+		<en-US>The map size is doubled, with more desert between Nations.</en-US>
+		<ja>マップの大きさが2倍になり、国家間の砂漠が増えます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_DESERT</zType>
+		<en-US>Desert</en-US>
+		<ja>砂漠</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_DESERT</zType>
+		<en-US>A vast and open terrain, where small areas of temperate land are separated by large areas of open desert.</en-US>
+		<ja>広大かつ開けた地形で、小さな温帯の土地が広大な砂漠地帯によって分断されている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_DESERT_COAST</zType>
+		<en-US>Water</en-US>
+		<ja>水</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_NONE</zType>
+		<en-US>None</en-US>
+		<ja>なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_NONE_HELP</zType>
+		<en-US>The desert is landlocked, with no large bodies of water. NOTE: This is an extreme map-mode. Naval units cannot be built and it will not be possible to connect all Cities with Roads and Trade Networks.</en-US>
+		<ja>砂漠は内陸にあり、大きな水域はない。注： これはマップモードとしては極端なものです。海上部隊は編成できず、全ての都市を道路や貿易網で結ぶこともできません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_DRY</zType>
+		<en-US>Dry Coast</en-US>
+		<ja>乾燥した海岸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_DRY_HELP</zType>
+		<en-US>The map has a coast, similar to the Seaside mapscript.</en-US>
+		<ja>マップに海岸がある（「海辺」のマップスクリプトと類似）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_LUSH</zType>
+		<en-US>Lush Coast</en-US>
+		<ja>緑豊かな海岸</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_LUSH_HELP</zType>
+		<en-US>The map has a coast, with a band of lush terrain between the water and desert.</en-US>
+		<ja>マップに海岸があり、水と砂漠の間に帯状の緑豊かな地形がある。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_COAST_RANDOM_HELP</zType>
+		<en-US>Choose a random option (will not pick None, so there will always be some water)</en-US>
+		<ja>ランダムに選択（収穫はなく、常に多少の水がある）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_START_COAST_HELP</zType>
+		<en-US>Start adjacent to salt water (no effect if playing without water)</en-US>
+		<ja>海水に隣接した状態でスタート（海水なしでのプレイでは影響なし）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DESERT_START_INLAND_HELP</zType>
+		<en-US>Start away from the coast (no effect if playing without water)</en-US>
+		<ja>海岸から離れてスタートする（海水なしでのプレイでは影響なし）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_PLAYER_ISLANDS</zType>
+		<en-US>Player Islands</en-US>
+		<ja>プレイヤーアイランド</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_PLAYER_ISLANDS</zType>
+		<en-US>One island per player. All islands are approximately the same size.</en-US>
+		<ja>プレイヤー1人につき1つ。どの島もほぼ同じ大きさです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA</zType>
+		<en-US>Extra islands</en-US>
+		<ja>追加の島々</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_NONE</zType>
+		<en-US>None</en-US>
+		<ja>なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_NONE_HELP</zType>
+		<en-US>No extra islands.</en-US>
+		<ja>追加の島はありません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_ONE</zType>
+		<en-US>One</en-US>
+		<ja>1つ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_ONE_HELP</zType>
+		<en-US>One extra island.</en-US>
+		<ja>島を1つ追加。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_TWO</zType>
+		<en-US>Two</en-US>
+		<ja>2つ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_TWO_HELP</zType>
+		<en-US>Two extra islands.</en-US>
+		<ja>島を2つ追加。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_CONTINENTS_EXTRA_RANDOM_HELP</zType>
+		<en-US>Random selection of one of the other options.</en-US>
+		<ja>他の選択肢の中からランダムに1つ選ぶ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_HIGHLANDS</zType>
+		<en-US>Highlands</en-US>
+		<ja>ハイランド</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_HIGHLANDS</zType>
+		<en-US>Inland map with numerous mountain ranges surrounding areas of elevated flat terrain.</en-US>
+		<ja>内陸に位置し、高地の平坦な地域を数多くの山脈が囲んでいるマップです。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_LAKES_AND_GULFS</zType>
+		<en-US>Lakes and Gulfs</en-US>
+		<ja>湖と入り江</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_LAKES_AND_GULFS_HELP</zType>
+		<en-US>Multiple relatively small bodies of water, surrounded by land.</en-US>
+		<ja>いくつかの比較的小さな水域が、陸地に囲まれている状態です。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_MEDITERRANEAN</zType>
+		<en-US>Mediterranean</en-US>
+		<ja>地中海</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_MEDITERRANEAN</zType>
+		<en-US>A diverse landscape of coastal plains, mountainous regions, and islands, surrounding a nearly landlocked sea.</en-US>
+		<ja>沿岸平野、山岳地帯、あるいはほぼ内陸に位置する海に囲まれた地形など。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_NAME_REJUVENATION</zType>
+		<en-US>Rejuvenation</en-US>
+		<ja>再生</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_HELP_REJUVENATION</zType>
+		<en-US>A barren desert that becomes more temperate and acquires resources over time.</en-US>
+		<ja>不毛な砂漠がやがて温暖になり、徐々に資源が発生していきます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_REJUVENATION_COAST_NONE_HELP</zType>
+		<en-US>The map is landlocked, with no large bodies of water. NOTE: Naval units cannot be built and it may not initially be possible to connect all Cities with Roads and Trade networks.</en-US>
+		<ja>マップは内陸部で、大きな水域は存在していません。注意: 海軍ユニットは訓練不能で、当初は全ての都市を道路、交易網で接続することは不可能かもしれません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RANDOM_RESOURCES</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RANDOM_RESOURCES_HELP</zType>
+		<en-US>Choose a random option</en-US>
+		<ja>ランダムな選択肢を選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_RANDOM_HELP</zType>
+		<en-US>Choose a random option</en-US>
+		<ja>ランダムな選択肢を選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_RANDOM</zType>
+		<en-US>Random</en-US>
+		<ja>ランダム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_RANDOM_HELP</zType>
+		<en-US>Choose a random option</en-US>
+		<ja>ランダムな選択肢を選ぶ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_DEFAULT</zType>
+		<en-US>Default map option</en-US>
+		<ja>デフォルトのマップオプション</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PREMADE_MAP_MEDITERRANEAN_DESCRIPTION</zType>
+		<en-US>A four-player map set in the Mediterranean area</en-US>
+		<ja>地中海地域を舞台とした4人用マップ</ja>
+	</Entry>
+</Root>

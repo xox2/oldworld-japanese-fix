@@ -1,0 +1,1718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_GAME_GAINED_TEAM_ALLIANCE</zType>
+		<en-US>{0_team} is now in a link(CONCEPT_ALLIANCE_PLAYER) with {1_team}.</en-US>
+		<ja>{0_team}は現在、{1_team}とlink(CONCEPT_ALLIANCE_PLAYER)を結んでいます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAINED_TEAM_ALLIANCE_PLAYER</zType>
+		<en-US>You are now in a link(CONCEPT_ALLIANCE_PLAYER) with {0_team}.</en-US>
+		<ja>あなたは現在、{0_team}とlink(CONCEPT_ALLIANCE_PLAYER)を結んでいます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOST_TEAM_ALLIANCE</zType>
+		<en-US>{0_team} is no longer in a link(CONCEPT_ALLIANCE_PLAYER) with {1_team}.</en-US>
+		<ja>{0_team}は、{1_team}とのlink(CONCEPT_ALLIANCE_PLAYER)を解消しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOST_TEAM_ALLIANCE_PLAYER</zType>
+		<en-US>You are no longer in a link(CONCEPT_ALLIANCE_PLAYER) with {0_team}.</en-US>
+		<ja>あなたは、{0_team}とのlink(CONCEPT_ALLIANCE_PLAYER)を解消しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE</zType>
+		<en-US>{0_team} is now in a link(CONCEPT_ALLIANCE_TRIBE) with the {1_tribe}.</en-US>
+		<ja>{0_team}は現在、{1_tribe}とlink(CONCEPT_ALLIANCE_TRIBE)を結んでいます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE_PLAYER</zType>
+		<en-US>You are now in a link(CONCEPT_ALLIANCE_TRIBE) with the {0_tribe}.</en-US>
+		<ja>あなたは現在、{0_tribe}とlink(CONCEPT_ALLIANCE_TRIBE)を結んでいます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOST_TRIBE_ALLIANCE</zType>
+		<en-US>{0_team} is no longer in a link(CONCEPT_ALLIANCE_TRIBE) with the {1_tribe}.</en-US>
+		<ja>{0_team}は、{1_tribe}とのlink(CONCEPT_ALLIANCE_TRIBE)を解消しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOST_TRIBE_ALLIANCE_PLAYER</zType>
+		<en-US>You are no longer in a link(CONCEPT_ALLIANCE_TRIBE) with the {0_tribe}.</en-US>
+		<ja>あなたは、{0_tribe}とのlink(CONCEPT_ALLIANCE_TRIBE)を解消しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_MET_TRIBE</zType>
+		<en-US>You have met the {0_tribe}.</en-US>
+		<ja>あなたは{0_tribe}に遭遇しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_NEW_DIPLOMACY</zType>
+		<en-US>{0_team} is now at {1_newDiplomacy} with the {2_tribe}.</en-US>
+		<ja>{0_team}は現在、{2_tribe}と{1_newDiplomacy}状態にあります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_DIPLOMACY_LOG_DATA</zType>
+		<en-US>{0_tribe}: {1_newDiplomacy}</en-US>
+		<ja>{0_tribe}：{1_newDiplomacy}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_CONTACT_LOG_DATA</zType>
+		<en-US>You have met {0_team}</en-US>
+		<ja>あなたは{0_team}に遭遇しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
+		<en-US>{true_3:{0_team} declares {1_newDiplomacy} on {2_team}.:{0_team} is now at {1_newDiplomacy} with {2_team}.}</en-US>
+		<ja>{true_3:{0_team}が{2_team}との{1_newDiplomacy}を宣言しました。:{0_team}は現在、{2_team}と{1_newDiplomacy}状態にあります。}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_FROM_DIPLOMACY_LOG_DATA</zType>
+		<en-US>{true_2:Declared {1_newDiplomacy} on {0_team}:Made {1_newDiplomacy} with {0_team}}</en-US>
+		<ja>{true_2:{0_team}との{1_newDiplomacy}を宣言しました。:{0_team}と{1_newDiplomacy}状態になりました。}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_TO_DIPLOMACY_LOG_DATA</zType>
+		<en-US>{true_2:{0_team} Declared {1_newDiplomacy} on us:Made {1_newDiplomacy} with {0_team}}</en-US>
+		<ja>{true_2:{0_team}が我々に{1_newDiplomacy}を宣言しました。:{0_team}と{1_newDiplomacy}状態になりました。}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
+		<en-US>Because of a link(CONCEPT_ALLIANCE_PLAYER) with {0_team}, {1_player} responds to the {3_diplomacy} Declaration by {2_team} with {3_diplomacy}!</en-US>
+		<ja>{0_team}とlink(CONCEPT_ALLIANCE_PLAYER)を結んでいることから、{1_player}は{2_team}の{3_diplomacy}宣言に対して、{3_diplomacy}で応じました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_ALLIANCE_WAR</zType>
+		<en-US>Because of a link(CONCEPT_ALLIANCE_TRIBE) with {0_team}, {1_tribe} responds to the {3_diplomacy} Declaration by {2_team} with {3_diplomacy}!</en-US>
+		<ja>{0_team}とlink(CONCEPT_ALLIANCE_TRIBE)を結んでいることから、{1_tribe}は{2_team}の{3_diplomacy}宣言に対して、{3_diplomacy}で応じました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_THEOLOGY</zType>
+		<en-US>{0_religion} has established {1_theology} Theology.</en-US>
+		<ja>{0_religion}は、{1_theology}の神学を確立させた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAME_OVER_POPUP</zType>
+		<en-US>You have reached the end of the game.</en-US>
+		<ja>あなたのゲームは終焉を迎えました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_VICTORY</zType>
+		<en-US>{0_team} has met the conditions for {1,1_victory}!</en-US>
+		<ja>{0_team}が{1,1_victory}の条件を満たした！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP</zType>
+		<en-US>The Nation of {0_player} has been eliminated!</en-US>
+		<ja>{0_player}国が淘汰されました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP_NO_HEIR</zType>
+		<en-US>The royal dynasty of {0_player} has come to an end!</en-US>
+		<ja>{0_player}の王朝が終焉を迎えました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_SURRENDER_POPUP</zType>
+		<en-US>{0_player} has surrendered!</en-US>
+		<ja>{0_player}が降伏しました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_FOUNDED</zType>
+		<en-US>{0_religion} founded in {1_city}.</en-US>
+		<ja>{1_city}にて{0_religion}が設立されました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_HEAD</zType>
+		<en-US>{0_character} is now the Head of {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+		<ja>{0_character}が{1_religion}の首長となりました。{true_2:（あなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_FAMILY</zType>
+		<en-US>The {0_family} Family has converted to {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+		<ja>{0_family}が{1_religion}に改宗しました。{true_2:（彼らのあなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_TRIBE</zType>
+		<en-US>The {0_tribe} have converted to {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+		<ja>{0_tribe}が{1_religion}に改宗しました。{true_2:（彼らのあなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_PLAYER_US</zType>
+		<en-US>{0_player} has adopted {1_religion} as its link(CONCEPT_STATE_RELIGION).</en-US>
+		<ja>{0_player}が{1_religion}をlink(CONCEPT_STATE_RELIGION)として採用しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_PLAYER</zType>
+		<en-US>{0_player} has converted to {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+		<ja>{0_player}が{1_religion}に改宗しました。{true_2:（あなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NO_RELIGION_PLAYER</zType>
+		<en-US>{0_player} no longer has a State Religion.{true_1: (Their Opinion of you has gone from {1_opinion} to {2_opinion}.)}</en-US>
+		<ja>{0_player}が国教を持つのをやめました。{true_1:（彼らのあなたに対する評価は、{1_opinion}から{2_opinion}に変わりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAMILY_HEAD</zType>
+		<en-US>{0_character} is now Head of the {1_family} Family.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+		<ja>{0_character}が{1_family}の首長となりました。{true_2:（あなたに対する評価は、{2_opinion}から{3_opinion}に変わりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_PILLAGED</zType>
+		<en-US>{0_improvement} will disappear in {1_turns} {2_turnScale}</en-US>
+		<ja>{0_improvement}は{1}{2_turnScale}で消滅します</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_STARTED</zType>
+		<en-US>{0_player} has begun construction of {1_improvement}</en-US>
+		<ja>{0_player}が{1_improvement}の建設に着手しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_SCRAPPED</zType>
+		<en-US>Construction of {1_improvement} by {0_player} has been scrapped</en-US>
+		<ja>{0_player}での{1_improvement}の建設が廃止されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_COMPLETED</zType>
+		<en-US>{0_improvement} completed by {1_player}!</en-US>
+		<ja>{1_player}での{0_improvement}が完成しました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY</zType>
+		<en-US>{0_religion} spreads to {1_city}</en-US>
+		<ja>{1_city}に{0_religion}が広まっています</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY_DISCIPLE</zType>
+		<en-US>{2_player} spread {0_religion} to {1_city}</en-US>
+		<ja>{2_player}からの信徒が{1_city}に入り、{0_religion}を広めています</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DOOMED_POPUP</zType>
+		<en-US>Your doctors and diviners have warned you that the end is near! Time to get your affairs in order. (You are now {0_trait}.)</en-US>
+		<ja>あなたの医師や占い師たちが、もう先は長くないと通告しています！身辺整理をしておく時期でしょう。(あなたは現在{0_trait}です)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_ABDICATION</zType>
+		<en-US>{0_oldLeader} has abdicated</en-US>
+		<ja>{0_oldLeader}が王座を退位しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NEW_RULER</zType>
+		<en-US>{0_newLeader} has taken the throne</en-US>
+		<ja>{0_newLeader}が王座に就き、新たな統治者となりました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
+		<en-US>News arrives from {0_player} that {1_oldLeader} is dead. A new ruler, {2_newLeader}, has taken the throne. {true_3: (Their Opinion of you is now {3_opinion}.)}</en-US>
+		<ja>{0_player}から、{1_oldLeader}が亡くなったとの知らせが届きました。{2_newLeader}が王座に就き、新たな統治者となりました。{true_3:（彼らのあなたに対する評価は、{3_opinion}になりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_ABDICATE_POPUP</zType>
+		<en-US>News arrives from {0_player} that {1_oldLeader} has abdicated. A new ruler, {2_newLeader}, has taken the throne.{true_3: (Their Opinion of you is now {3_opinion}.)}</en-US>
+		<ja>{0_player}から、{1_oldLeader}が退位したとの知らせが届きました。{2_newLeader}が王座に就き、新たな統治者となりました。{true_3:（彼らのあなたに対する評価は、{3_opinion}になりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_NEW_RULER_PREVIOUS_DEAD_POPUP</zType>
+		<en-US>News arrives from abroad that {0_oldLeader} is dead. {1_newLeader} now leads the {2_tribe}.</en-US>
+		<ja>異国の地から{0_oldLeader}が亡くなったとの知らせが届きました。現在、{1_newLeader}が{2_tribe}を率いています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
+		<en-US>News arrives from abroad that {0_newLeader} now leads the {1_tribe}.</en-US>
+		<ja>海外から{0_newLeader}が{1_tribe}を率いているとの知らせが届く。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_ORGANIZED</zType>
+		<en-US>The {0_tribe} have captured {1_city} and are changing their military tactics, hoping to establish themselves as a true nation.</en-US>
+		<ja>{0_tribe}は真の国家を樹立すべく、戦術を変更し、{1_city}を占領した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
+		<en-US>Because, under the old laws, your dynasty has no legitimate heir, it switches to {0_law} to enable the ascension of {1_character}.</en-US>
+		<ja>従来の制度では、正統なる後継者があなたの王朝にいないので、{1_character}の即位を可能にさせるため、{0_law}に切り替わりました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_AMBITION</zType>
+		<en-US>{0_character} has started a new link(CONCEPT_AMBITION): {1_ambition}.</en-US>
+		<ja>{0_character}が新たなlink(CONCEPT_AMBITION)に着手しました：{1_ambition}。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_GOAL</zType>
+		<en-US>You have started a Goal: {0_goal}{true_1: (within {1_turns} turns)}.</en-US>
+		<ja>あなたは目的を開始させました：{0}{true_1:（{1}ターン内）}。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FINISH_AMBITION</zType>
+		<en-US>Completed link(CONCEPT_AMBITION,1): {0_ambition}</en-US>
+		<ja>あなたはlink(CONCEPT_AMBITION)を完了しました：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FINISH_LEGACY</zType>
+		<en-US>Completed {true_1:the link(CONCEPT_LEGACY) of {1_character}:a link(CONCEPT_LEGACY)}: {0_legacy}</en-US>
+		<ja>あなたは{true_1:{1_character}からのlink(CONCEPT_LEGACY)を完了しました:link(CONCEPT_LEGACY)を完了しました}：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FINISH_GOAL</zType>
+		<en-US>Goal Completed: {0_goal}</en-US>
+		<ja>あなたは目的を遂行させました：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAIL_AMBITION</zType>
+		<en-US>You have failed {true_1:link(CONCEPT_LEGACY,1):link(CONCEPT_AMBITION,1)}: {0_ambition}.</en-US>
+		<ja>あなたの{true_1:link(CONCEPT_LEGACY)は失敗に終わりました:link(CONCEPT_AMBITION)は失敗に終わりました}：{0}。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAIL_GOAL</zType>
+		<en-US>You have failed a Goal: {0_goal}.</en-US>
+		<ja>あなたの目的は失敗に終わりました：{0}。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_MAKE_LEGACY</zType>
+		<en-US>An old link(CONCEPT_AMBITION), {0_ambition}, is now a link(CONCEPT_LEGACY). You will have {1_turns} {2_turnScale} to complete it.</en-US>
+		<ja>長らく掲げていたlink(CONCEPT_AMBITION)、{0_ambition}はlink(CONCEPT_LEGACY)となりました。完了まで後、{1}{2_turnScale}あります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_MAKE_LEGACIES</zType>
+		<en-US>The following link(CONCEPT_AMBITION,2) are now link(CONCEPT_LEGACY,2):</en-US>
+		<ja>次のlink(CONCEPT_AMBITION,2)はlink(CONCEPT_LEGACY,2)となります：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_MAKE_LEGACIES_GOAL</zType>
+		<en-US>{0_goal} ({1_turns} {2_turnScale} Left)</en-US>
+		<ja>{0_goal}（残り{1}{2_turnScale}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GOAL_NAME</zType>
+		<en-US>{true_1:icon(YIELD_LEGITIMACY) }{0_goal}</en-US>
+		<ja>{true_1:icon(YIELD_LEGITIMACY) }{0_goal}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_AMBITION_IMPOSSIBLE</zType>
+		<en-US>This {true_1:link(CONCEPT_LEGACY):link(CONCEPT_AMBITION)} is now impossible and has been removed: {0_ambition}</en-US>
+		<ja>この{true_1:link(CONCEPT_LEGACY):link(CONCEPT_AMBITION)}は進行不可能なので放棄されました：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GOAL_IMPOSSIBLE</zType>
+		<en-US>This Goal is now impossible and has been removed: {0_goal}</en-US>
+		<ja>この目的は進行不可能なので放棄されました：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_COURTIER_JOINED_POPUP</zType>
+		<en-US>{0_character} has joined your Court.</en-US>
+		<ja>{0_character}があなたの宮廷に加入しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_TUTORS_AGE</zType>
+		<en-US>{0_character} is now old enough to be link(CONCEPT_TUTOR,3) by {1,2_Courtier}.</en-US>
+		<ja>{0_character}は、{1,2_Courtier}のlink(CONCEPT_TUTOR,3)を受けられる年齢になりました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_ADULT_LOG_DATA</zType>
+		<en-US>{0_character} is now an adult</en-US>
+		<ja>{0_character}が成人しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_MARRIAGE</zType>
+		<en-US>{0_character} has married {1_character}</en-US>
+		<ja>{0_character}が{1_character}と結婚しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_LEAVES_RELIGION</zType>
+		<en-US>{0_character} has left {1_religion}.</en-US>
+		<ja>{0_character}は{1_religion}を去った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_CHOOSES_RELIGION</zType>
+		<en-US>{0_character} has converted to {1_religion}.</en-US>
+		<ja>{0_character}が{1_religion}に改宗しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_COVER_DEBTS_LOG_DATA</zType>
+		<en-US>Sold {0_goodsList} to cover debts</en-US>
+		<ja>負債補填のため、{0_goodsList}を売却しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_SHORTFALL_LOG_DATA</zType>
+		<en-US>{0_project} built in {1_city} to avoid {2_yield} shortfall</en-US>
+		<ja>{2_yield}不足を解消するため、{1_city}に{0_project}を建設しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_QUEUED_BUILD_BUY_GOODS_LOG_DATA</zType>
+		<en-US>Queued action: Spent {0_money} to buy {1_yields} for {2_improvement}</en-US>
+		<ja>実行待ちのアクション：{0_money}を消費して、{1_yields}（{2_improvement}）を購入しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FOUNDED_CITY_LOG_DATA</zType>
+		<en-US>Founded {0_city}</en-US>
+		<ja>{0_city}が設立されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DISCOVERED_TECH</zType>
+		<en-US>Discovered {0_tech}.</en-US>
+		<ja>{0_tech}を発見しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_STARTED_LAW_LOG_DATA</zType>
+		<en-US>Adopted {0_law}</en-US>
+		<ja>{0_law}の採択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
+		<en-US>{1_project} finished in {0_city}</en-US>
+		<ja>{0_city}がlink(CONCEPT_PROJECT)を完了させました：{1_project}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_DEVELOPED_SPECIALIST_LOG_DATA</zType>
+		<en-US>{1_specialist} developed in {0_city}</en-US>
+		<ja>{0_city}がlink(CONCEPT_SPECIALIST)を育成しました：{1_specialist}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_TRAINED_UNIT_LOG_DATA</zType>
+		<en-US>{1_unit} trained in {0_city}</en-US>
+		<ja>{0_city}がユニットを訓練しました：{1_unit}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_GAINS_TRAIT</zType>
+		<en-US>{0_character} is now {1_trait}</en-US>
+		<ja>{0_character}は現在、{1_trait}の特性を持っています</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_LOSES_TRAIT</zType>
+		<en-US>{0_character} is no longer {1_trait}</en-US>
+		<ja>{0_character}についていた、{1_trait}の特性が無くなりました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_RATING_CHANGE</zType>
+		<en-US>{0_character}: {1_value} {2_rating}</en-US>
+		<ja>{0_character}：{1_value}{2_rating}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LANDMARK_DISCOVERED</zType>
+		<en-US>Landmark Discovered: {0_name}</en-US>
+		<ja>ランドマークを発見しました：{0_name}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LANDMARK_DISCOVERED_NEW</zType>
+		<en-US>New Landmark Discovered: {0_name}</en-US>
+		<ja>新しいランドマークを発見した: {0_name}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LANDMARK_NAMED</zType>
+		<en-US>You are the first to discover this Landmark. What will you name it?</en-US>
+		<ja>このランドマークを最初に発見したのはあなたです。なんと名付けますか？</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_RAID_WARNING</zType>
+		<en-US>Reports of a link(CONCEPT_TRIBE_RAID) from {0,2_tribe} {1_improvement} near {2_city}!</en-US>
+		<ja>{2_city}近郊の{1_improvement}にて、{0,2_tribe}のlink(CONCEPT_TRIBE_RAID)との報告があります！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_BOUNDARY_RAID_WARNING</zType>
+		<en-US>Reports of a link(CONCEPT_TRIBE_RAID) from distant lands near {0_city}!</en-US>
+		<ja>{0_city}近郊にて、遠方の地からlink(CONCEPT_TRIBE_RAID)との報告があります！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_LOG_DATA</zType>
+		<en-US>{0_childName} was born</en-US>
+		<ja>{0_childName}が産まれました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_LEADER</zType>
+		<en-US>{true_0:You have:Your wife has} given birth to a {masculine_1:son:daughter}, {1_childName}!</en-US>
+		<ja>{true_0:あなたは:あなたの妻が}{masculine_1:男の子:女の子}を出産し、{1_childName}と名付けました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_LEADER_ILLEGITIMATE</zType>
+		<en-US>You have a new illegitimate {masculine_1:son:daughter}, {1_childName}!</en-US>
+		<ja>あなたに新たな非嫡出子の{masculine_1:息子:娘}ができました。名は{1_childName}です！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER</zType>
+		<en-US>{0_father} and {1_mother} have given birth to a {masculine_2:son:daughter}, {2_childName}!</en-US>
+		<ja>{0_father}と{1_mother}の間に{masculine_2:男の子:女の子}が産まれました。名は{2_childName}です！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER_ILLEGITIMATE</zType>
+		<en-US>{0_father} has a new illegitimate {masculine_1:son:daughter}, {1_childName}!</en-US>
+		<ja>{0_father}に新たな非嫡出子の{masculine_1:息子:娘}ができました。名は{1_childName}です！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_EVENT_CITY_LOG_DATA</zType>
+		<en-US>{0_event} in {1_city}</en-US>
+		<ja>{1_city}にて{0_event}が発生</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM</zType>
+		<en-US>Team {0_teamNum}</en-US>
+		<ja>チーム {0_teamNum}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_TITLE</zType>
+		<en-US>Retiring link(CONCEPT_GENERAL)</en-US>
+		<ja>link(CONCEPT_GENERAL)の退任</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL</zType>
+		<en-US>{0_character}, link(CONCEPT_GENERAL) of the {1_unit}, is too old and has retired from the field.</en-US>
+		<ja>{1_unit}のlink(CONCEPT_GENERAL)、{0_character}は高齢のため、現役を退きました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_PROMPT</zType>
+		<en-US>Choose New link(CONCEPT_GENERAL)</en-US>
+		<ja>新たなlink(CONCEPT_GENERAL)の選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_TITLE</zType>
+		<en-US>Death of {0_council}</en-US>
+		<ja>{0_council}の死去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL</zType>
+		<en-US>{0_character}, our {1_council}, has died in office.</en-US>
+		<ja>我々の{1_council}、{0_character}が任期中に死亡しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_PROMPT</zType>
+		<en-US>Choose New {0_council}</en-US>
+		<ja>新たな{0_council}の選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GENERAL</zType>
+		<en-US>{0_character}, link(CONCEPT_GENERAL) of the {1_unit}, has died in the field.</en-US>
+		<ja>{1_unit}のlink(CONCEPT_GENERAL)、{0_character}が戦死しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_EXPLORER</zType>
+		<en-US>{0_character}, Explorer with the {1_unit}, has died in the field.</en-US>
+		<ja>{0_unit}に同行する探検家の{0_character}が任務中に死亡した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_TITLE</zType>
+		<en-US>Death of link(CONCEPT_GOVERNOR)</en-US>
+		<ja>link(CONCEPT_GOVERNOR)の死去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR</zType>
+		<en-US>{0_character}, link(CONCEPT_GOVERNOR) of {1_city}, has died in office.</en-US>
+		<ja>{1_city}のlink(CONCEPT_GOVERNOR)、{0_character}が任期中に死亡しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_PROMPT</zType>
+		<en-US>Choose New link(CONCEPT_GOVERNOR)</en-US>
+		<ja>新たなlink(CONCEPT_GOVERNOR)の選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_AGENT_TITLE</zType>
+		<en-US>Death of link(CONCEPT_AGENT)</en-US>
+		<ja>link(CONCEPT_AGENT)の死去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_AGENT</zType>
+		<en-US>{0_character}, link(CONCEPT_AGENT) in {1_city}, has died while still serving.</en-US>
+		<ja>{1_city}にいるlink(CONCEPT_AGENT)、{0_character}が任務中に死亡しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_AGENT_PROMPT</zType>
+		<en-US>Choose New link(CONCEPT_AGENT)</en-US>
+		<ja>新たなlink(CONCEPT_AGENT)の選択</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_PLAYERS</zType>
+		<en-US>All Nations: {0_memory}, {1_value} Opinion</en-US>
+		<ja>全国家：{0_memory}、評価{1_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_TRIBES</zType>
+		<en-US>All Tribes: {0_memory}, {1_value} Opinion</en-US>
+		<ja>全部族：{0_memory}、評価{1_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_FAMILIES</zType>
+		<en-US>All Families: {0_memory}, {1_value} Opinion</en-US>
+		<ja>全一族：{0_memory}、評価{1_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT</zType>
+		<en-US>{0_subject}: {1_memory}, {2_value} Opinion</en-US>
+		<ja>{0_subject}：{1_memory}、評価{2_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT_TURNS</zType>
+		<en-US>{0_turns} {1_turnScale}</en-US>
+		<ja>{0_turns}{1_turnScale}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
+		<en-US>{0_subject}: Forgets {1_memory} (Currently {2_value} Opinion)</en-US>
+		<ja>{0_subject}：「{1_memory}」の忘却 (現在の評価 {2_value})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT_NO_OPINION</zType>
+		<en-US>{0_subject}: Forgets {1_memory}</en-US>
+		<ja>{0_subject}：「{1_memory}」の忘却</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RENAME</zType>
+		<en-US>Renamed {0_name}</en-US>
+		<ja>{0_name}の名前変更</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_END_ALLIANCE</zType>
+		<en-US>Ends {0_alliance} with {1_subject}</en-US>
+		<ja>{1_subject}との{0_alliance}を終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_WITH_PLAYER</zType>
+		<en-US>{0_diplomacy} with {1_player}</en-US>
+		<ja>{1_player}と{0_diplomacy}状態</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_HOSTILE_FROM</zType>
+		<en-US>Declares {0_diplomacy} on {1_player}</en-US>
+		<ja>{1_player}に{0_diplomacy}を布告</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_HOSTILE_TO</zType>
+		<en-US>{1_player} declares {0_diplomacy}</en-US>
+		<ja>{1_player}が{0_diplomacy}を宣言</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ALLIANCE_WITH</zType>
+		<en-US>{0_player} in Alliance with {1_other}</en-US>
+		<ja>{0_player}は{1_other}と同盟中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER</zType>
+		<en-US>Gain {0_yield} from {1_player}</en-US>
+		<ja>{1_player}から{0_yield}を獲得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SEND_PLAYER</zType>
+		<en-US>Send {0_yield} to {1_player}</en-US>
+		<ja>{1_player}に{0_yield}を送る</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER_DIPLOMACY</zType>
+		<en-US>{0_other} at {1_diplomacy} with {2_target}</en-US>
+		<ja>{0_other}は{2_target}と{1_diplomacy}状態中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_TRIBE</zType>
+		<en-US>{0_diplomacy} with {1_tribe}</en-US>
+		<ja>{1_tribe}と{0_diplomacy}状態</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRIBE_DIPLOMACY_PLAYER</zType>
+		<en-US>{0_tribe}: {1_diplomacy} with {2_player}</en-US>
+		<ja>{0_tribe}：{2_player}と{1_diplomacy}状態</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
+		<en-US>Adopts {0_religion} as link(CONCEPT_STATE_RELIGION)</en-US>
+		<ja>{0_religion}をlink(CONCEPT_STATE_RELIGION)として採用</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
+		<en-US>{0_religion} Spreads to {1_city}</en-US>
+		<ja>{0_religion}を{1_city}に布教</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REMOVE_RELIGION</zType>
+		<en-US>Removes {0_religion} from {1_city}</en-US>
+		<ja>{1_city}から{0_religion}を排除</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CONVERT_RELIGION</zType>
+		<en-US>{0_character} Converts {true_1:to {1_religion}:link(CONCEPT_RELIGION)}</en-US>
+		<ja>{0_character}が{true_1:{1_religion}に改宗:link(CONCEPT_RELIGION)を採用}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_UNIT_CONVERT_RELIGION</zType>
+		<en-US>{0_unit} Converts {true_1:to {1_religion}:link(CONCEPT_RELIGION)}</en-US>
+		<ja>{0_unit}が{true_1:{1_religion}に改宗:link(CONCEPT_RELIGION)を採用}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
+		<en-US>{0_character} Becomes Head of {1_religion}</en-US>
+		<ja>{0_character}が{1_religion}の首長になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HEAD_FAMILY</zType>
+		<en-US>{0_character} Becomes Head of {1_family}</en-US>
+		<ja>{0_character}が{1_family}の首長になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
+		<en-US>{0_family}: {1_law} Opinion {2_value}</en-US>
+		<ja>{0_family}：{1_law}により評価{2_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_START_LAW</zType>
+		<en-US>Start {0_law}</en-US>
+		<ja>{0_law}の開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_END_LAW</zType>
+		<en-US>End {0_law}</en-US>
+		<ja>{0_law}終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FREE_LAW</zType>
+		<en-US>Free {0_law}</en-US>
+		<ja>無償の{0_law}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FREE_THEOLOGY</zType>
+		<en-US>Free {0_theology} ({1_religion})</en-US>
+		<ja>無償の{0_theology}（{1_religion}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION_CITY</zType>
+		<en-US>Found {0_religion}</en-US>
+		<ja>{0_religion}の設立</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADD_X</zType>
+		<en-US>Add {0_improvementOrResource}</en-US>
+		<ja>追加の{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADD_RANDOM_X</zType>
+		<en-US>Add Random {0_improvementOrResource}</en-US>
+		<ja>ランダムな{0_improvementOrResource}を追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
+		<en-US>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}}</en-US>
+		<ja>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}} </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
+		<en-US>{0_value} Border {singular_0:Tile:Tiles}</en-US>
+		<ja>{0_value} 国境{singular_0:タイル:タイル} </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
+		<en-US>{0_value} {singular_0:{1_culture}:{1,2_culture}}</en-US>
+		<ja>{0_value} {singular_0:{1_culture}:{1,2_culture}} </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HAPPINESS_LEVELS</zType>
+		<en-US>{0_value} link(YIELD_HAPPINESS) {singular_0:Level:Levels}</en-US>
+		<ja>{0_value} link(YIELD_HAPPINESS){singular_0:レベル:レベル}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DISCONTENT_LEVELS</zType>
+		<en-US>{0_value} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</en-US>
+		<ja>{0_value} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_YIELD_LEVELS</zType>
+		<en-US>{0_value} {1_yield} {singular_0:Level:Levels}</en-US>
+		<ja>{0_value} {1_yield}{singular_0:レベル:レベル}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
+		<en-US>{0_value} {1_rebel} {singular_0:Unit:Units}</en-US>
+		<ja>{0_value} {1_rebel}{singular_0:ユニット:ユニット} </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
+		<en-US>{0_value} {singular_0:Improvement:Improvements} Destroyed</en-US>
+		<ja>{0_value}個の破壊された{singular_0:建設物:建設物}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HP</zType>
+		<en-US>{0_damage} HP {true_1:(to {1_final} HP)}</en-US>
+		<ja>{0_damage}HP{true_1:（{1_final}HPに対して）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HP_ADJACENT</zType>
+		<en-US>{0_damage} HP to adjacent units</en-US>
+		<ja>隣接ユニットのHPに{0_damage}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
+		<en-US>{0_character} becomes link(CONCEPT_AGENT)</en-US>
+		<ja>{0_character}がlink(CONCEPT_AGENT)になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_BONUS_MOVE_AGENT_NETWORK_CITY</zType>
+		<en-US>Move link(CONCEPT_AGENT_NETWORK) from {0_city}{true_1: to {1_city}}</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)を{0_city}から{true_1: {1_city}へ}移転させる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MOVE_AGENT_NETWORK_CITY</zType>
+		<en-US>Move link(CONCEPT_AGENT_NETWORK) from {0_city}</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)を{0_city}から移転させる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHANGE_THEOLOGY</zType>
+		<en-US>Replaces {0_theology} with {1_theology} ({2_religion})</en-US>
+		<ja>{0_theology}を{1_theology}（{2_religion}）に変更する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DISTANT_RAID</zType>
+		<en-US>Distant link(CONCEPT_TRIBE_RAID)</en-US>
+		<ja>遠方のlink(CONCEPT_TRIBE_RAID)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADD_AGENT_NETWORK</zType>
+		<en-US>Add link(CONCEPT_AGENT_NETWORK)</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)を追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LOSE_AGENT_NETWORK</zType>
+		<en-US>Lose link(CONCEPT_AGENT_NETWORK)</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)が消失</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK</zType>
+		<en-US>Expose Foreign link(CONCEPT_AGENT_NETWORK)</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)を異国に公開する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_VEGETATION_TERRITORY</zType>
+		<en-US>{0_value} {1_vegetation} {singular_0:Tile:Tiles} near {2_city}</en-US>
+		<ja>{2_city}の近くに{0_value} {1_vegetation} {singular_0:Tile:Tiles}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_YES</zType>
+		<en-US>link(CONCEPT_AGENT_NETWORK) of {0_player} exposed</en-US>
+		<ja>{0_player}のlink(CONCEPT_AGENT_NETWORK)を公開しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_NO</zType>
+		<en-US>No link(CONCEPT_AGENT_NETWORK) found</en-US>
+		<ja>link(CONCEPT_AGENT_NETWORK)が見つかりません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_TARGET</zType>
+		<en-US>Your link(CONCEPT_AGENT_NETWORK) in {0_city} has been exposed!</en-US>
+		<ja>{0_city}内のlink(CONCEPT_AGENT_NETWORK)が公開されました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
+		<en-US>+1 {0_projectOrSpecialist}</en-US>
+		<ja>+1 {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MINUS_ONE</zType>
+		<en-US>-1 {0_project}</en-US>
+		<ja>-1 {0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_CHARACTER</zType>
+		<en-US>{0_memory}, {1_value} Opinion</en-US>
+		<ja>{0_memory}、評価{1_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_CHARACTER</zType>
+		<en-US>Forgets {0_memory} (Currently {1_value} Opinion)</en-US>
+		<ja>「{0_memory}」の忘却 (現在の評価 {1_value})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RANDOM_RELATIONSHIP_LEADER</zType>
+		<en-US>{0_character} is now {1_relationship} {2_leader}</en-US>
+		<ja>{0_character}は現在、{2_leader}にとって{1_relationship}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
+		<en-US>Becomes {0_trait}</en-US>
+		<ja>{0}になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LOSES</zType>
+		<en-US>No longer {0_trait}</en-US>
+		<ja>{0}ではなくなる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
+		<en-US>{0_character} Starts Mission: {1_mission}</en-US>
+		<ja>{0_character}がミッションを開始：{1_mission}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION_FREE</zType>
+		<en-US>Free</en-US>
+		<ja>無償</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TARGET_CITY</zType>
+		<en-US>{0_player} prepares to attack {1_city}</en-US>
+		<ja>{0_player}：{1_city}への攻撃準備</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_DEFEAT</zType>
+		<en-US>Player Defeat</en-US>
+		<ja>プレイヤーの敗北</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADD_COURTIER_OTHER</zType>
+		<en-US>{0,1_player} {1_courtier}</en-US>
+		<ja>{0,1_player}の{1_courtier}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+		<en-US>{0_player}: Start {1_law}</en-US>
+		<ja>{0_player}：{1_law}を開始</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+		<en-US>{0_player}: End {1_law}</en-US>
+		<ja>{0_player}：{1_law}を終了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
+		<en-US>{0_player}: Free {1_law}</en-US>
+		<ja>{0_player}：{1_law}を無償解放</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MAKE_GOVERNOR</zType>
+		<en-US>link(CONCEPT_GOVERNOR) of {0_city}</en-US>
+		<ja>{0_unit}のlink(CONCEPT_GOVERNOR)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
+		<en-US>link(CONCEPT_GENERAL) of {0_unit}</en-US>
+		<ja>{0_unit}のlink(CONCEPT_GENERAL)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MAKE_EXPLORER</zType>
+		<en-US>link(CONCEPT_EXPLORER) with {0_unit}</en-US>
+		<ja>{0_unit}に同行するlink(CONCEPT_EXPLORER)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADOPTION</zType>
+		<en-US>Adopted by {0_parent}</en-US>
+		<ja>{0_parent}の養子縁組</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CONVERTED_BY</zType>
+		<en-US>Converts {true_0:to {0_religion}:link(CONCEPT_RELIGION)}</en-US>
+		<ja>{true_0:{0_religion}に改宗:link(CONCEPT_RELIGION)を採用}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_CHILD_BORN</zType>
+		<en-US>{0_child} was born.</en-US>
+		<ja>{0_child}が生まれた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_NEW_POSITION</zType>
+		<en-US>Took the position of {0_job}.</en-US>
+		<ja>{0_job}の立場を得る。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MARRIES</zType>
+		<en-US>Marries {0_suitor}</en-US>
+		<ja>{0_suitor}と結婚</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_FAMILY_HEAD</zType>
+		<en-US>Head of the {0,1_family}.</en-US>
+		<ja>{0,1_family}の長。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_RELIGION_HEAD</zType>
+		<en-US>Head of {0_religion}.</en-US>
+		<ja>{0_religion}の長。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIVORCED_BY</zType>
+		<en-US>{0_relationship} {1_spouse}</en-US>
+		<ja>{0_relationship}の{1_spouse}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_BIRTH_WITH</zType>
+		<en-US>Has Child with {0_parent}</en-US>
+		<ja>{0_parent}との間に子供が生まれる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
+		<en-US>Abdicates</en-US>
+		<ja>退位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
+		<en-US>Is Chosen Heir</en-US>
+		<ja>選ばれた後継者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MAKE_ROYAL</zType>
+		<en-US>Becomes link(CONCEPT_ROYAL)</en-US>
+		<ja>link(CONCEPT_ROYAL)になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_KILL_CHARACTER</zType>
+		<en-US>Dies</en-US>
+		<ja>死亡</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HAS_ILLEGITIMATE_CHILD</zType>
+		<en-US>Has an Illegitimate Child</en-US>
+		<ja>非嫡出子がいる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
+		<en-US>{0_relationship} (Removes {1_listOfRelationships})</en-US>
+		<ja>{0}（{1_list}の除去）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
+		<en-US>No longer {0_relationship} {1_character}</en-US>
+		<ja>{1_character}とは{0_relationship}ではなくなった</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITHOUT_DELAY</zType>
+		<en-US>{0_prob}% Chance to Become {1_trait}</en-US>
+		<ja>{1_trait}になる確率{0_prob}%</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITHOUT_DELAY_FALLBACK</zType>
+		<en-US>{0_prob}% Chance for {1_trait}</en-US>
+		<ja>{1_trait}にの確率{0_prob}%</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITH_DELAY</zType>
+		<en-US>{0_prob}% Chance to Become {1_trait} (Next {2_turn})</en-US>
+		<ja>{0_prob}%の確率で{1_trait}になる(次：{2_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITH_DELAY_FALLBACK</zType>
+		<en-US>{0_prob}% Chance for {1_trait} (Next {2_turn})</en-US>
+		<ja>{0_prob}%の確率：{1_trait}(次：{2_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHARACTER_NAME_CHANGE</zType>
+		<en-US>Now known as {0_character}</en-US>
+		<ja>現在、{0_character}という名</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHARACTER_TITLE_CHANGE</zType>
+		<en-US>Granted the title of {0_title}</en-US>
+		<ja>{0_title}の称号を獲得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHARACTER_COGNOMEN_CHANGE</zType>
+		<en-US>Now known as {0_cognomen}</en-US>
+		<ja>今では{0_cognomen}として知られる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHARACTER_NICKNAME_CHANGE</zType>
+		<en-US>Now known as {0_nickname}</en-US>
+		<ja>今では{0_nickname}として知られる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_XP</zType>
+		<en-US>{0_value} XP</en-US>
+		<ja>{0_value} XP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FATIGUE</zType>
+		<en-US>{0_value} Moves</en-US>
+		<ja>{0_value}移動</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CRITICAL_CHANCE</zType>
+		<en-US>{0_value}% link(CONCEPT_CRITICAL_HIT) chance on the next attack</en-US>
+		<ja>link(CONCEPT_CRITICAL_HIT) {0_value}%の確率で次の攻撃を行う</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_KILL_UNIT</zType>
+		<en-US>Dies</en-US>
+		<ja>死亡</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REVEAL_RANGE</zType>
+		<en-US>Reveals Map Within {0_dist} {singular_0:Tile:Tiles}</en-US>
+		<ja>{0_dist}{singular_0:タイル:タイル}内のマップを開拓</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHANGE_BUILD_TURNS</zType>
+		<en-US>{true_0:Increase:Decrease} build turns by {1_value} on {2_improvement}</en-US>
+		<ja>{2_improvement}の建築に要するターンが{1_value}ターン延長</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_VEGETATION</zType>
+		<en-US>Set {0_vegetation} on {1_tile}</en-US>
+		<ja>{1_tile}に{0_vegetation}を設置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_TERRAIN</zType>
+		<en-US>Set {0_terrain} on {1_tile}</en-US>
+		<ja>{1_tile}に{0_terrain}を設置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_HEIGHT</zType>
+		<en-US>Set {0_height} on {1_tile}</en-US>
+		<ja>{1_tile}に{0_height}を設置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_RESOURCE</zType>
+		<en-US>Set {0_resource} on {1_tile}</en-US>
+		<ja>{1_tile}に{0_resource}を設置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_IMPROVEMENT</zType>
+		<en-US>Set {0_improvement} on {1_tile}</en-US>
+		<ja>{1_tile}に{0_improvement}を設置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_SPECIALIST</zType>
+		<en-US>Set {0_specialist} on {1_tile}</en-US>
+		<ja>{1_tile}に{0_specialist}を設置</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REMOVE_VEGETATION</zType>
+		<en-US>Remove {0_vegetation} from {1_tile}</en-US>
+		<ja>{1_tile}から{0_vegetation}を除去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CLEAR_RESOURCE</zType>
+		<en-US>Clear {0_resource} from {1_tile}</en-US>
+		<ja>{1_tile}から{0_resource}を消去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CLEAR_IMPROVEMENT</zType>
+		<en-US>Clear {0_improvement} from {1_tile}</en-US>
+		<ja>{1_tile}から{0_improvement}を除去</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PILLAGE_IMPROVEMENT</zType>
+		<en-US>Pillage {0_improvement} on {1_tile}</en-US>
+		<ja>{1_tile}の{0_improvement}を略奪</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REPAIR_IMPROVEMENT</zType>
+		<en-US>Repair {0_improvement} on {1_tile}</en-US>
+		<ja>{1_tile}上の{0_improvement}を修理する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRIBE_RAID</zType>
+		<en-US>link(CONCEPT_TRIBE_RAID) from {0,1_tribe} {1_improvement} from {2_tile}</en-US>
+		<ja>{2_tile}の{1_improvement}にて{0,1_tribe}のlink(CONCEPT_TRIBE_RAID)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_THEOLOGY</zType>
+		<en-US>{0_player}: Free {1_theology} ({2_religion})</en-US>
+		<ja>{0_player}：{1_theology}（{2_religion}）を無償解放</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HOLY_CITY_AGENTS</zType>
+		<en-US>{0_player}: Free link(CONCEPT_AGENT) in all Holy Cities</en-US>
+		<ja>{0_player}：全ての聖都に無償のlink(CONCEPT_AGENT)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>
+		<en-US>{0_player}: Found {1_religion}</en-US>
+		<ja>{0_player}：{1_religion}を設立</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION_END</zType>
+		<en-US>{0_player}: End link(CONCEPT_STATE_RELIGION) ({1_religion})</en-US>
+		<ja>{0_player}：link(CONCEPT_STATE_RELIGION)（{1_religion}）を廃止</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TECH</zType>
+		<en-US>{0_player}: {1_tech} (Tech)</en-US>
+		<ja>{0_player}：{1_tech}（技術）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
+		<en-US>{0_player} discovers a new technology: {1_tech}.</en-US>
+		<ja>{0_player}が新たな技術を発見：{1_tech}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
+		<en-US>[{0}]</en-US>
+		<ja>［{0}］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_DELAY</zType>
+		<en-US>becomes {LIST} (Next {0_turn})</en-US>
+		<ja>{LIST}になる（次の{0_turn}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LIST_WITH_DELAY</zType>
+		<en-US>{LIST} (Next {0_turn})</en-US>
+		<ja>{1_character} {LIST} (次の{0_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LIST_WITHOUT_DELAY</zType>
+		<en-US>{LIST}</en-US>
+		<ja>{1_character} {LIST}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_WITHOUT_DELAY</zType>
+		<en-US>Becomes {LIST}</en-US>
+		<ja>{LIST}になる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_WITH_DELAY</zType>
+		<en-US>Becomes {LIST} (Next {0_turn})</en-US>
+		<ja>{LIST}になる (()次の{0_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITHOUT_DELAY</zType>
+		<en-US>Acquires {LIST}</en-US>
+		<ja>{LIST}を獲得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITH_DELAY</zType>
+		<en-US>Acquires {LIST} (Next {0_turn})</en-US>
+		<ja>{LIST}を獲得 (次の{0_turn})</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS_ITEM</zType>
+		<en-US>Acquires {0_trait}</en-US>
+		<ja>{0_trait}を獲得</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LOSES_ITEM</zType>
+		<en-US>Loses {0_trait}</en-US>
+		<ja>{0_trait}を失う</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REPLACES</zType>
+		<en-US>Replaces {0_trait}</en-US>
+		<ja>{0_trait}を置き換え</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_OCCURRENCE_START</zType>
+		<en-US>{0_occurrence} begins</en-US>
+		<ja>{0_occurrence}の始まり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_OCCURRENCE_END</zType>
+		<en-US>{0_occurrence} ends</en-US>
+		<ja>{0_occurrence}の終わり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_MISSION_NO_EFFECT</zType>
+		<en-US>{0_character}: {1_mission} has no effect</en-US>
+		<ja>{0_character}：{1_mission}の効果なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_CRITICAL</zType>
+		<en-US>Critical!</en-US>
+		<ja>クリティカル！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_CRITICAL_CHANCE</zType>
+		<en-US>icon(CRITICAL_STRIKE) {0_criticalPercent}</en-US>
+		<ja>icon(CRITICAL_STRIKE) {0_criticalPercent}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_DAMAGE</zType>
+		<en-US>-{0_damage} HP</en-US>
+		<ja>-{0_damage} HP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_ENLISTED</zType>
+		<en-US>Enlisted!</en-US>
+		<ja>入隊！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_ENLIST_CHANCE</zType>
+		<en-US>Enlist: {0_percentChance}</en-US>
+		<ja>入隊: {0_percentChance}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_ATTACKED_LOG_DATA</zType>
+		<en-US>{0_city} Attacked by {1,2_owner} {2_unit}. {true_3:({3_discontent}):}</en-US>
+		<ja>{0_city}が{1,2_owner}の{2_unit}に攻撃されました。 {true_3:({3_discontent}):}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_DAMAGED_OCCURRENCE_LOG_DATA</zType>
+		<en-US>{0_city} Damaged by {1_occurrence}</en-US>
+		<ja>{0_city}が{1,1_occurrence}によって、損害を受けた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CAMP_DESTROYED_LOG_DATA</zType>
+		<en-US>{0_tribe} {1_improvement} Destroyed</en-US>
+		<ja>{0_tribe}の{1_improvement}が破壊されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_RAZED_LOG_DATA</zType>
+		<en-US>{0_city} has been razed</en-US>
+		<ja>{0_city}が壊滅しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_BREACHED_LOG_DATA</zType>
+		<en-US>{0_city} breached by {1_player}</en-US>
+		<ja>{0_city}が{1_player}によって破られた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CAPTURED_LOG_DATA</zType>
+		<en-US>{0_city} captured by {1_player}</en-US>
+		<ja>{0_city}が{1_player}に占拠されました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_YIELD_LEVEL_CHANGE_LOG_DATA</zType>
+		<en-US>{0_level} {1_yield} {singular_0:Level:Levels} in {2_city}</en-US>
+		<ja>{2_city}の{0_level} {1_yield} {singular_0:Level:Levels}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CANCEL_BUILD_LOG_DATA</zType>
+		<en-US>{0_build} canceled in {1_city}</en-US>
+		<ja>{1_city}での{0_build}がキャンセルされました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_HAPPINESS_CHANGE_LOG_DATA</zType>
+		<en-US>{0_level} link(YIELD_HAPPINESS) {singular_0:Level:Levels} in {1_city}</en-US>
+		<ja>(1_city)における(YIELD_HAPPINESS)のレベルは(0_level)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_DISCONTENT_CHANGE_LOG_DATA</zType>
+		<en-US>{0_level} link(YIELD_DISCONTENT) {singular_0:Level:Levels} in {1_city}</en-US>
+		<ja>{1_city}の{0_level} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_DAMAGED_OCCURRENCE_LOG_DATA</zType>
+		<en-US>{0_unit} Damaged by {1_occurrence} ({2_hp} HP Left).</en-US>
+		<ja>{0_unit}が{1,1_occurrence}によって、損害を受けた。（残りHP{2}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
+		<en-US>{0_unit} Attacked by {1,2_owner} {2_unit} ({3_hp} HP Left).</en-US>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました。（残りHP{3}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_KILLED_LOG_DATA</zType>
+		<en-US>Killed {1,2_owner} {0_unit} at {2_tile}</en-US>
+		<ja> {2_tile}にいる{1,2_owner}の{0_unit}を破壊</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_CRITICAL_LOG_DATA</zType>
+		<en-US>{0_unit} link(CONCEPT_CRITICAL_HIT) by {1,2_owner} {2_unit} ({3_hp} HP Left).</en-US>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}からlink(CONCEPT_CRITICAL_HIT)を受けました。（残りHP{3}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_LOST_LOG_DATA</zType>
+		<en-US>{0_unit} Killed by {1,2_owner} {2_unit}</en-US>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}に撃破されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_CAPTURED_LOG_DATA</zType>
+		<en-US>{0_unit} Captured by {1,2_owner} {2_unit}</en-US>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}に捕らえられました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_SEEN</zType>
+		<en-US>Hostile {0_owner} {1_unit} seen</en-US>
+		<ja>敵対する{0_owner}の{1_unit}を確認しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_APPLY_EFFECT_UNIT</zType>
+		<en-US>+{0_value}</en-US>
+		<ja>+{0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_REMOVE_EFFECT_UNIT</zType>
+		<en-US>-{0_value}</en-US>
+		<ja>-{0_value}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_MOVE_CANCELLED</zType>
+		<en-US>{0_unit} canceled auto-move</en-US>
+		<ja>{0_unit}の自動操作がキャンセルされました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LAUNCH_OFFENSIVE</zType>
+		<en-US>Offensive!</en-US>
+		<ja>攻撃開始！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LAUNCH_OFFENSIVE_LOG_DATA</zType>
+		<en-US>{0,1_player} {1_unit} launched an Offensive</en-US>
+		<ja>{0,1_player}の{1_unit}が攻撃を開始しました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ESTABLISH_THEOLOGY_LOG_DATA</zType>
+		<en-US>{0,1_religion} {1_theology} established by {2_player}</en-US>
+		<ja>{2_player}によって、{0,1_religion}の{1_theology}が確立されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_TRUCE</zType>
+		<en-US>{PLAYER-MISSION} has sent you an envoy with a link(DIPLOMACY_TRUCE) Proposal.</en-US>
+		<ja>{PLAYER-MISSION}はlink(DIPLOMACY_TRUCE)を申し入れるため、あなたに使者を派遣しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_PEACE</zType>
+		<en-US>{PLAYER-MISSION} has sent you an envoy with a link(DIPLOMACY_PEACE) Proposal.</en-US>
+		<ja>{PLAYER-MISSION}はlink(DIPLOMACY_PEACE)を申し入れるため、あなたに使者を派遣しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_ALLIANCE</zType>
+		<en-US>{PLAYER-MISSION} has sent you an envoy with a link(CONCEPT_ALLIANCE_PLAYER) Proposal.</en-US>
+		<ja>{PLAYER-MISSION}はlink(CONCEPT_ALLIANCE_PLAYER)を申し入れるため、あなたに使者を派遣しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_CITY_SITE</zType>
+		<en-US>link(CONCEPT_CITY_SITE)</en-US>
+		<ja>link(CONCEPT_CITY_SITE)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
+		<en-US>Game uploading...</en-US>
+		<ja>ゲームをアップロード中…</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_SAVED</zType>
+		<en-US>Game Saved</en-US>
+		<ja>セーブ完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAILED_TO_SAVE</zType>
+		<en-US>Failed to Save</en-US>
+		<ja>セーブ失敗</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_ALL_TAG</zType>
+		<en-US>ALL</en-US>
+		<ja>全て</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
+		<en-US>TEAM</en-US>
+		<ja>チーム</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
+		<en-US>{0_fromPlayer}[{1_tag}]: {2_msg}</en-US>
+		<ja>{0_fromPlayer}［{1_tag}］：{2_msg}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOST_NOUN</zType>
+		<en-US>Host</en-US>
+		<ja>ホスト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_STUNNED</zType>
+		<en-US>Stunned</en-US>
+		<ja>気絶</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
+		<en-US>Not Unlimbered</en-US>
+		<ja>発射準備が未完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_REQUIRES_ANCHORED</zType>
+		<en-US>Requires Anchored Ship</en-US>
+		<ja>停泊中の船が必要</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_MUST_END_MOVE_ON_LAND</zType>
+		<en-US>Must end move on land Tile</en-US>
+		<ja>地上タイル上で移動終了する必要あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_EVENT</zType>
+		<en-US>Event: {0_turns}</en-US>
+		<ja>イベント：{0_turns}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_DAMAGE</zType>
+		<en-US>{0_hp} HP</en-US>
+		<ja>{0} HP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_LEVEL_UP</zType>
+		<en-US>{0_levelInt} Level</en-US>
+		<ja>{0} LV</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_GAIN_XP</zType>
+		<en-US>{0_xp} XP</en-US>
+		<ja>{0} XP</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_JOIN_CITY</zType>
+		<en-US>{0_populationInt} {1,2_citizenLink}</en-US>
+		<ja>{0} {1,2_citizenLink}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_BURNED_IMPROVEMENT_LOG_DATA</zType>
+		<en-US>{0_improvement} Burned by {1_owner} {2_unit}</en-US>
+		<ja>{0}が{1_owner}の{2_unit}に燃やされました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT_LOG_DATA</zType>
+		<en-US>{0_improvement} Pillaged by {1_owner} {2_unit}</en-US>
+		<ja>{0}が{1_owner}の{2_unit}に略奪されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_PILLAGED_OCCURRENCE_LOG_DATA</zType>
+		<en-US>{0_improvement} Pillaged by {1,1_occurrence} near {2_city}</en-US>
+		<ja>{2_city}の周辺で、{0_improvement}が{1,1_occurrence}に略奪された</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_PILLAGED_NUMBER_OCCURRENCE_LOG_DATA</zType>
+		<en-US>{0_value} {singular_0:Improvement:Improvements} Pillaged by {1,1_occurrence} near {2_city}</en-US>
+		<ja>{2_city}の周辺で、{0_value}棟の建設物が{1,1_occurrence}に略奪された</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_UNANCHORED_OCCURRENCE_LOG_DATA</zType>
+		<en-US>{sentencecase:{0,1_occurrence}} has caused {1,1_unit} to no longer be link(CONCEPT_ANCHORED)</en-US>
+		<ja>{sentencecase:{0,1_occurrence}}により{1,1_unit}はlink(CONCEPT_ANCHORED)状態ではなくなった</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MONEY</zType>
+		<en-US>Completed link(CONCEPT_CARAVAN_MISSION) with {0_player}: {1_money}</en-US>
+		<ja>{0_player}とのlink(CONCEPT_CARAVAN_MISSION)が完了：{1_money}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MEMORY</zType>
+		<en-US>{1_memory} in {0_player}: +{2_value} Opinion for {3_value} </en-US>
+		<ja>{1_memory}（{0_player}）：{3_value}に評価 +{2_value} </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_RECEIVED_CARAVAN_MISSION</zType>
+		<en-US>link(CONCEPT_CARAVAN_MISSION) arrives from {0_player}: {1_money}</en-US>
+		<ja>{0_player}からlink(CONCEPT_CARAVAN_MISSION)が到着：{1_money}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_STUNNED</zType>
+		<en-US>Stunned</en-US>
+		<ja>気絶</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMMOBILE</zType>
+		<en-US>Immobile</en-US>
+		<ja>移動不能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_YIELD_FROM_CULTURE_EVENT</zType>
+		<en-US>From link(YIELD_CULTURE) event: {0_bonusText}</en-US>
+		<ja>link(YIELD_CULTURE)イベントより: {0_bonusText}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
+		<en-US>link(TRIBE_REBELS) have formed {0,1_unit} near {1_city}!</en-US>
+		<ja>{1_city}近郊にて、link(TRIBE_REBELS)が{0_unit}を結成させました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_FAMILY_REBEL_UNITS_NEAR_CITY</zType>
+		<en-US>{0_family} link(TRIBE_REBELS), {1_opinion} with your rule of {2_city}, have formed {3,1_unit} near the City!</en-US>
+		<ja>{2_city}の統治を{1_opinion}と評価する{0_family}のlink(TRIBE_REBELS)が、都市近郊にて{3,1_unit}を結成しました！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
+		<en-US>{0_populationInt} Citizen(s)</en-US>
+		<ja>市民{0}人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_HURRY_POPULATION_CITIZENS_COST_ICON</zType>
+		<en-US>{0_populationInt} icon(SPECIALIST)</en-US>
+		<ja>{0} icon(SPECIALIST)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_ACHIEVEMENT_UNLOCKED</zType>
+		<en-US>Achievement Unlocked: {0_achievement}</en-US>
+		<ja>実績のアンロック：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
+		<en-US>Resource Shortfall: Spent {0_money} to buy {1_resource}</en-US>
+		<ja>資源不足：{0}を消費して{1}を購入しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
+		<en-US>{0_character}'s Mission is Canceled: {1_mission}</en-US>
+		<ja>{0}のミッションがキャンセル：{1}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
+		<en-US>{0_orders} is sold for {1_money}</en-US>
+		<ja>{0}が{1}で売却されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
+		<en-US>{0_yield} is converted into {1_yield}</en-US>
+		<ja>{0}が{1}に変換されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_MAP_REVEALED</zType>
+		<en-US>Map revealed near {0_tile}</en-US>
+		<ja>{0_tile}付近のマップが開拓されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
+		<en-US>No user ID found: Save and reload to play as next player.</en-US>
+		<ja>ユーザーIDが見つかりません:セーブしてから読み込み直すと、次のプレイヤーとしてプレイできます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
+		<en-US>Failed to upload. Please exit and replay your turn.</en-US>
+		<ja>アップロードに失敗しました。一度終了して、ターンをやり直してください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
+		<en-US>{0_amount} {1_resource} received from {2_player}</en-US>
+		<ja>{2_player}から{0_amount}{1_resource}を受け取りました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_UNIT_GIFT_RECIEVED</zType>
+		<en-US>{0_unit} received from {1_player}</en-US>
+		<ja>{1_player}から{0_unit}を受け取りました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_CITY_GIFT_RECIEVED</zType>
+		<en-US>{1_city} gifted from {0_player}</en-US>
+		<ja>{0_player}が、{1_city}の統制権をあなたに与えました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
+		<en-US>Declared war on {0_strength} {1_tribeOrNation}</en-US>
+		<ja>{1}（{0_strength}）に宣戦布告しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_TRUCE_WITH</zType>
+		<en-US>Declared truce with {0_strength} {1_player}</en-US>
+		<ja>{1_player}（{0_strength}）との停戦宣言しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>
+		<en-US>{0_player} gifts you {1_ordersInt} unused {2_yield}</en-US>
+		<ja>{0_player}が、{1}個の{2_yield}をあなたに送りました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OCCURRENCE_START_LOG_DATA</zType>
+		<en-US>{sentencecase:{0,1_occurrence}} has {true_1:started:occurred}{true_2: near {2_city}:}!</en-US>
+		<ja>{sentencecase:{0,1_occurrence}}が{true_2: {2_city}付近で{true_1:開始:発生}:}！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OCCURRENCE_END_LOG_DATA</zType>
+		<en-US>{sentencecase:{0,1_occurrence}} has ended</en-US>
+		<ja>{sentencecase:{0,1_occurrence}}が終了しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OCCURRENCE_TILE_CHANGE_LOG_DATA</zType>
+		<en-US>{sentencecase:{0,1_occurrence}} has caused {1_value} {singular_1:tile:tiles} to become {2_terrainOrHeight}</en-US>
+		<ja>{sentencecase:{0,1_occurrence}}の影響で、{1_value}枚のタイルが{2_terrainOrHeight}に変化</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OCCURRENCE_TILE_ADD_LOG_DATA</zType>
+		<en-US>{sentencecase:{0,1_occurrence}} has added {1_vegetationOrResource} to {2_value} {singular_2:tile:tiles}</en-US>
+		<ja>{sentencecase:{0,1_occurrence}}により{2_value}タイルに{1_vegetationOrResource}を追加</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_WISDOM_GAIN_1</zType>
+		<en-US>{0_character} has recently proven {masculine_0:his:her} good sense and insight. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>近頃、{0}が才覚と洞察力を発揮させています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_WISDOM_GAIN_2</zType>
+		<en-US>{0_character} has reflected on {masculine_0:his:her} recent experiences and absorbed many important lessons. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は最近経験したことを振り返り、大切な教訓を自身のものとしています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_WISDOM_LOSS_1</zType>
+		<en-US>The recent actions of {0_character} have called into question the soundness of {masculine_0:his:her} judgment. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>最近の{0}の行いは、{masculine_0:彼の:彼女の}判断における堅実性を疑わせるものがあります。{masculine_0:彼:彼女}は{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_WISDOM_LOSS_2</zType>
+		<en-US>{0_character} has made one mistake after another as of late, and many have begun to question {masculine_0:his:her} judgment. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>近頃、{0}は次から次へと過ちを犯し、多くの人が{masculine_0:彼の:彼女の}判断力を疑い始めています。{masculine_0:彼:彼女}は{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_CHARISMA_GAIN_1</zType>
+		<en-US>{0_character} has grown more confident and charming. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は自信を増し、より魅力的な人物となっています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_CHARISMA_GAIN_2</zType>
+		<en-US>Self-assured and assertive, {0_character} exudes an aura of confidence. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は物怖じせず、自己主張も強く、自信に満ち溢れています。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_CHARISMA_LOSS_1</zType>
+		<en-US>{0_character} has lost some of {masculine_0:his:her} confidence and ability to charm. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は、自信と魅力の一部を損ねてしまっています。{masculine_0:彼:彼女}は{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_CHARISMA_LOSS_2</zType>
+		<en-US>Recent events have shaken the confidence of {0_character}, and {masculine_0:he:she} has lost some of {masculine_0:his:her} charm. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>最近の出来事が{0}の自信を揺らがせ、{masculine_0:彼:彼女}は魅力を損ねてしまっています。{masculine_0:彼:彼女}は{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_COURAGE_GAIN_1</zType>
+		<en-US>{0_character} still feels fear, as does any sane {masculine_0:man:woman}, but {masculine_0:he:she} never lets it stop {masculine_0:him:her}. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は、まともな{masculine_0:男:女}なら誰でも抱くような恐怖を持ち合わせていますが、恐怖に自身の歩みを止めることは決してありません。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_COURAGE_GAIN_2</zType>
+		<en-US>More confident than ever in the face of danger, {0_character} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>危険に直面してもこれまで以上に自信を持ち、{0}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_COURAGE_LOSS_1</zType>
+		<en-US>{0_character} has been overcome by fear and has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は恐怖に呑まれてしまい、{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_COURAGE_LOSS_2</zType>
+		<en-US>After recent exposures to danger, {0_character} has acquired new phobias and lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>近頃、危険に晒されてしまった事が{0}に新たな恐怖症を抱かせ、{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_DISCIPLINE_GAIN_1</zType>
+		<en-US>{0_character} follows a strict regime, never taking the easy way if it is not the best way. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は厳しい管理体制に従い、最善手以外の楽な道を決して選びません。{masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_DISCIPLINE_GAIN_2</zType>
+		<en-US>There is no easy day in the life of {0_character}! {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}の生涯において、安息の日々などありません！ {masculine_0:彼:彼女}は{1} {2}を獲得しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_DISCIPLINE_LOSS_1</zType>
+		<en-US>{0_character} gives into {masculine_0:his:her} basic desires more often lately. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>近頃、{0}は堕落した日々を送ることが多くなってきています。{masculine_0:彼:彼女}は{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_DISCIPLINE_LOSS_2</zType>
+		<en-US>Ever more slothful and lazy, {0_character} has stopped following {masculine_0:his:her} strict regimen of diet and exercise. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+		<ja>{0}は、以前にも増して怠惰な無精者となり、厳しい食事療法と運動療法を破るようになっています。{masculine_0:彼:彼女}は{1} {2}を失いました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYINGMP_1</zType>
+		<en-US>Battling other Humans</en-US>
+		<ja>対人戦</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYINGMP_2</zType>
+		<en-US>MP Mode</en-US>
+		<ja>マルチプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYINGMP_3</zType>
+		<en-US>HotSeat Mode</en-US>
+		<ja>ホットシートモード</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYINGSP_1</zType>
+		<en-US>Conquering AIs</en-US>
+		<ja>AI戦</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYINGSP_2</zType>
+		<en-US>SP Mode</en-US>
+		<ja>シングルプレイ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_MENUS</zType>
+		<en-US>Old World Menus</en-US>
+		<ja>Old World メニュー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYING_LEADER</zType>
+		<en-US>{0_leader} {1_cognomen}</en-US>
+		<ja>{0_leader}の{1_cognomen}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RICHPRESENCE_PLAYING_NATION</zType>
+		<en-US>{0_nation}</en-US>
+		<ja>{0_nation}</ja>
+	</Entry>
+</Root>

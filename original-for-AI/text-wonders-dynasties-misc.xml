@@ -1,0 +1,1467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_WONDERS_DYNASTIES_MOD_DESC</zType>
+		<en-US>Wonders and Dynasties</en-US>
+		<ja>驚異と王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNIBAL_DESCRIPTION</zType>
+		<en-US>As link(CONCEPT_GENERAL,1), Hannibal enables his unit to take two actions per turn, such as attacking twice, or healing and attacking. At just 26 years of age, Hannibal can have several decades in which to lead Carthage to glory.</en-US>
+		<ja>ハンニバルをlink(CONCEPT_GENERAL,1)に任命するとそのユニットは1ターンに2回行動できる。例えば2回攻撃をしたり、回復と攻撃を続けて行える。26歳という若さにして、ハンニバルは今後数十年にわたってカルタゴを栄光へと導く英雄となり得る。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNIBAL_STORY</zType>
+		<en-US>    I am Hannibal, eldest son of Hamilcar. I learned from my father. I succeeded him and I surpassed him.
+		
+    I was a small child when my father commanded our forces in Sicily against Rome. Later, he trained me in fighting, taught me tactics and strategy, as well as politics. I accompanied my father on an expedition to Iberia when I was nine years old.
+		
+    Understanding that Rome would always be an enemy to Carthage, my father spent many evenings discussing a strategy for the final defeat of the Romans in a war that he knew would come one day. Now, that day draws close. My father fell in battle, and I am in charge of the armies of Carthage. I have a strategy to defeat Rome, attacking them where they do not expect and using battlefield tactics never yet seen.
+		
+    The battles I will fight are going to be remembered for centuries. My name will come to be a symbol of great strategy as I set an example of what it means to be a soldier.</en-US>
+		<ja>      私はハンニバル、ハミルカルの長男だ。私は父から学んだ。彼の跡を継ぎ、彼を追い越した。
+		
+      父がシチリアでローマと戦ったとき、私はまだ幼かった。その後、彼は私に戦いの訓練を施し、戦術と戦略、そして政治を教えてくれた。9歳の時、父のイベリア遠征に同行した。
+		
+      ローマがカルタゴにとって永遠の敵であることを悟った父は、いつか必ず訪れる戦いで打ち勝つ戦略を練るため、夜な夜な議論を交わしていた。今、その日が近づいている。父は戦死し、今、私がカルタゴの軍隊を指揮している。私は打倒ローマを果たす戦略を有している。彼らの予期せぬ場所を襲撃し、未だかつてない空間的な戦略を駆使するのだ。
+		
+      私が戦う戦いは、何世紀にもわたって語り継がれることだろう。私は兵であることの規範を示した。この名は、偉大なる戦略家の象徴として知られるようになるであろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNO_II</zType>
+		<en-US>Hanno II</en-US>
+		<ja>ハンノ2世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNO_II_DESCRIPTION</zType>
+		<en-US>As a Leader, Hanno II can issue link(MISSION_LAND_GRANTS_HANNO_II) to boost Family Opinions. The talented Hannibal is on Hanno's court, although the two men have significant disagreements. Hanno is a strong advocate of dominating weaker Tribes and will go to war with the first Tribe Carthage encounters.</en-US>
+		<ja>指導者ハンノ2世はlink(MISSION_LAND_GRANTS_HANNO_II)を実行して氏族からの評価を高めることができる。才能豊かなハンニバルはハンノの宮廷にいるが、2人の間には大きな意見の相違がある。ハンノは弱い諸部族の支配を強く主張し、カルタゴが最初に遭遇した部族との戦いを望んでいる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNO_II_STORY</zType>
+		<en-US>    I am Hanno, also called Hanno the Great. My greatness is my wealth and the vast expanses of land I own. Carthage extends west along the coast and even to Iberia, with me owning land in all regions Carthage extends to.
+		
+    I have embarked on conquests and led armies but believe there is no power like that of money - and the power that money buys. It can buy land, it can buy mercenaries, it can buy political allies. And a great supply of purple robes.
+		
+    The late Hamilcar Barca was too focused on the military and on fighting a costly war against Rome. He is dead now, and I will make sure Hannibal does not bankrupt Carthage with his war plans. I will instead build the greatest, richest empire of all time that shall be the envy of the world.</en-US>
+		<ja>      我はハンノ、大ハンノとも呼ばれている。富と広大な土地こそ、我が偉大さの証である。カルタゴは西の海岸沿いに拡がって、イベリアにまで及んでおり、その全域において土地を所有している。
+		
+      私は今まで軍を率いて、いくつも征服に乗り出してきたが、金の力──特に金で買える力に勝るものはないと考えている。土地を買うことも、傭兵を買うことも、政治的な同盟者を買うこともできるだろう。紫のローブも大量にある。
+		
+      晩年のハンニバル・バルカは、軍事と費用のかさむローマとの戦争に注力しすぎていた。彼はもうこの世にいない。私は彼の練った戦争計画により、カルタゴが破綻に追い込まれないようにするだろう。そして代わりに、世界中で羨望の的となるような、歴史上最も偉大で最も豊かな帝国を築き上げるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_NAVAL_DETRACOR</zType>
+		<en-US>Naval Detractor</en-US>
+		<ja>海軍の批判者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NAVAL_DETRACTOR</zType>
+		<en-US>Naval Detractor</en-US>
+		<ja>海軍の批判者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNO_NAVIGATOR</zType>
+		<en-US>Hanno the Navigator</en-US>
+		<ja>航海者ハンノ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNO_NAVIGATOR_DESCRIPTION</zType>
+		<en-US>As a Leader, Hanno the Navigator will gain access to a unique link(UNIT_SCOUT_HANNO_NAVIGATOR) early in his rule, and will be able to offer link(CONCEPT_ALLIANCE_TRIBE,1) to one Tribe. Hanno the Navigator lacks the political power of earlier monarchs and has a weaker relationship with the Families.</en-US>
+		<ja>指導者ハンノは統治初期に固有ユニットのlink(UNIT_SCOUT_HANNO_NAVIGATOR)を使うことができ、1つの部族に対してlink(CONCEPT_ALLIANCE_TRIBE,1)を提供できるようになる。しかし彼はかつての王たちに比べると政治的権力に欠け、家族との関係も薄い。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANNO_NAVIGATOR_STORY</zType>
+		<en-US>    I am called Hanno, as are many others from my native Carthage. I hold an office of considerable influence, owing to my Magonid descent, but it is not politics or war that interests me.
+		
+    I always wanted to explore the known world and beyond. We still receive news of empires from the east, beyond the Libyan desert. We have traveled far along the coast to the west but have not seen all there is to see. Owing to my influence, I've been able to assemble a fleet of sixty ships to explore the world and to spread the power of Carthage.
+		
+    On my great expedition, I traveled past the Pillars of Melqart and encountered the people past the river Loukkos. I founded cities and colonies, and led my ships on. I saw immense seas, lands consumed by ever-burning fires and islands populated by strange men. My crews even ran into aggressive, hairy savages I called gorillas. Under my guidance, Carthage will discover all the land there is.</en-US>
+		<ja>      私の名はハンノ。故郷カルタゴには、同じ名を持つ者たちが数多くいる。マゴニドの家系にあるため、かなりの影響力を持つ役職に就いている。だが、政治や戦争には興味が無い。
+		
+      私はいつも既知の世界、そしてさらにその向こう側を探りたいと思っていた。リビア砂漠向こうの東方から、帝国の知らせが届く。西方の海岸線に沿って遠くまで旅を続けてきたが、まだ見るべきものを全て見尽くしてはいない。私の持つ影響力のおかげで、世界を探検し、カルタゴの力を広めるために60隻の船団を編成することができた。
+		
+      その壮大なる探検の中で、私はメルカルトの柱を越え、リクソス川の向こう側に住む者たちと遭遇した。都市と植民地を築き、船を進めた。私は広大な海や、絶えず燃え盛る炎に覆われた土地、そして奇異な者たちが住む島々を目にした。クルーたちは、私がゴリラと呼んでいる、攻撃的で毛むくじゃらの野蛮人たちにも出くわした。私の導きの下、カルタゴはあらゆる土地を見つけ出すことだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HANNIBAL_LEADER</zType>
+		<en-US>Grace of Ba'al</en-US>
+		<ja>バアル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HANNIBAL_LEADER</zType>
+		<en-US>Grace of Ba'al</en-US>
+		<ja>バアル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HANNO_II_LEADER</zType>
+		<en-US>Wealthy Statesman</en-US>
+		<ja>裕福な政治家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HANNO_NAVIGATOR_LEADER</zType>
+		<en-US>Intrepid Explorer</en-US>
+		<ja>勇敢な探検家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SCOUT_HANNO_NAVIGATOR</zType>
+		<en-US>Explorer~an Explorer~Explorers</en-US>
+		<ja>探検家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYFAMILY_LAND_GRANTS</zType>
+		<en-US>Issued land grants to us</en-US>
+		<ja>我らに土地の無償供与を行った</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYPLAYER_ROME_GIFT_FROM_HANNIBAL</zType>
+		<en-US>Greeted us as a friend</en-US>
+		<ja>友人として迎えてくれた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_REFUSED_HELP</zType>
+		<en-US>Refused Help</en-US>
+		<ja>援助拒否</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LAND_GRANTS</zType>
+		<en-US>Land Grants</en-US>
+		<ja>無償供与された土地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LAND_GRANTS_DESCRIPTION</zType>
+		<en-US>You have issued land grants to influential nobles, improving relations with them.</en-US>
+		<ja>あなたは有力貴族に土地を無償で与え、貴族との関係を改善した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LAND_GRANTS_HANNO_II</zType>
+		<en-US>Land Grants</en-US>
+		<ja>無償供与した土地</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LAND_GRANTS_HANNO_II_DESCRIPTION</zType>
+		<en-US>Give out land grants to improve each Family's link(CONCEPT_OPINION_FAMILY,3)</en-US>
+		<ja>各氏族のlink(CONCEPT_OPINION_FAMILY,3)を良くするため、土地を与える</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LAND_GRANTS_HANNO_II_CHARACTER</zType>
+		<en-US>Land Grants from</en-US>
+		<ja>無償供与した土地：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DYNASTY_HANNO_NAVIGATOR</zType>
+		<en-US>Dynasty of Explorers</en-US>
+		<ja>探検家の時代</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_HANNO_NAVIGATOR_EXPLORATION_REJECT</zType>
+		<en-US>Did not change laws for my own ambitions</en-US>
+		<ja>自らの野心のために法律は変えなかった</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AGRIPPINA</zType>
+		<en-US>Agrippina</en-US>
+		<ja>アグリッピナ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CALCULATING</zType>
+		<en-US>Calculating</en-US>
+		<ja>計算中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AGRIPPINA_DESCRIPTION</zType>
+		<en-US>Agrippina rules Rome with cunning and guile. Able to appoint a link(COUNCIL_SPYMASTER) from the start of the game, she is adept at keeping both enemies and allies in line by any means. This is especially useful given the threat of her unpredictable heir Nero...</en-US>
+		<ja>アグリッピナは狡猾さと策略をもって、ローマを支配している。ゲーム開始時からlink(COUNCIL_SPYMASTER)を任命することが可能で、敵も味方もあらゆる手段で抑えこむのに長けている。予測不可能な行動を取る後継者、ネロ。彼の行動を制御するのに、この力は特に重要となってくる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AGRIPPINA_STORY</zType>
+		<en-US>    I am Agrippina the Younger, daughter of the divine House of Julius and the power behind the Imperial throne.
+
+    None can question my lineage as a blood descendant of the divine Augustus, sister to the Emperor Caligula and daughter of the favored Germanicus. I was exposed to the machinations of power early with the plots of the Praetorian Sejanus devastating my family with death and exile. My brother’s rule first led to favor, with titles and honors, and then exile after I was implicated in a plot against him.
+
+    After Caligula’s death I returned to an estranged son, although I turned my fortunes around, gaining wealth, fame, power, and eventually the hand of the Emperor and the title of Augusta. While my husband Claudius rules, his grip on power is weak and I have control over him and his actions. One thing is left to ensure: My son, Nero, must become the next emperor of Rome.
+
+    The generations to come may not all remember me fondly, but I did what I had to do. I survived and managed to gain power in a world set against me.</en-US>
+		<ja>      私は小アグリッピナ。ユリウス家の娘であり、帝位を支える権力者である。
+
+      神聖なるアウグストゥスの血を引く者であり、カリグラ皇帝の妹、そして周囲から愛されたゲルマニクスの娘だ。この血筋を疑う者などいない。親衛隊長官セイヤヌスの陰謀によって、私の家族は死と亡命という憂き目にあった。幼き頃から権力の陰謀というものに触れていたのだ。兄の治世のもと、私は称号と栄誉という恩恵を受けた。だが、その後、その彼に向けた陰謀に巻き込まれて流刑に遭ってしまう。
+
+      カリグラの死後、私は疎遠になっていた息子のもとに戻った。そして、ついに運がまわってくる。私は富や名声、そして権力を手に入れ、最終的には皇帝と結ばれ、アウグスタの称号を得た。国は夫のクラウディウスが支配していたが、その力は脆弱なものだった。それゆえ、私が彼と彼の行動を制御していた。ひとつだけ確かなことがある：次期ローマ皇帝には、我が子、ネロがならなければならないということだ。
+
+      後世の者たちは皆、私のことを好意的に捉えていないかもしれない。だが、成すべき事を私は成した。自身と敵対的な世界で生き残り、力を手に入れたのだから。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AUGUSTUS</zType>
+		<en-US>Augustus</en-US>
+		<ja>アウグストゥス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AUGUSTUS_DESCRIPTION</zType>
+		<en-US>Augustus, the first Emperor of Rome, is concerned with maintaining his legitimacy and a stable dynasty. Leaders from his dynasty can use the link(MISSION_ADOPT_AS_HEIR) Mission, which lets them adopt any link(CONCEPT_ROYAL) younger than them as the heir without the normal legitimacy cost for choosing an heir.</en-US>
+		<ja>ローマの初代皇帝、アウグストゥス。彼は自身の正統性と、安定した王朝を維持することに注力している。彼の王朝に座する指導者は、link(MISSION_ADOPT_AS_HEIR)ミッションを受けられる。これにより、通常かかる正統性コストを抜きにして、自身より若いlink(CONCEPT_ROYAL)を後継者として迎えられる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AUGUSTUS_STORY</zType>
+		<en-US>    I am Augustus, once Octavius, Princeps Civitatis of Rome and adopted son of the divine Julius.
+
+    After the death of my father, I fought against his murderers to achieve retribution and to secure the future of Rome. Even then there was one war left, against my one time ally Mark Anthony and his consort Cleopatra with her supposed son of Caesar, Caesarion.
+
+    With their defeat no one had the power to oppose me. I returned freedom to the Republic and the senate, although I made sure to have them grant me lifetime power over the military and various political roles. As Rome shall never have a King, I took the title of First Citizen, and renamed myself Augustus, a name with religious connotations that shows my rule is favored by the gods.
+
+    My name will be passed down the generations along with my imperial power. I will be remembered through the ages as the first Emperor of Rome, bringer of the Pax Romana.</en-US>
+		<ja>      私はアウグストゥス。かつてはオクタウィウスと呼ばれており、ローマの第一市民「プリンセプス」で、あの神君ユリウスの養子である。
+
+      父の死後、私は復讐とローマの未来を守るために、父を殺した者たちと戦った。しかし、まだ「ある戦い」が私を待っていた。かつての盟友であるマーク・アンソニー、その妃のクレオパトラ、そしてカエサルの息子とされるカエサリオンとの戦争だ。
+
+      彼らに敗北をもたらしたことで、私に逆らう者たちは消え去った。私は共和制ローマと元老院に全特権を返上した。これに驚喜した元老院から、軍隊と様々な政治的地位に関する終身特権を得る。ローマには王が存在しない。そのため、私は自ら第一市民「プリンセプス」と称し、アウグストゥスと名を変えた。これには宗教的な意味合いがある。神々の寵愛を受ける支配者であることを示したのだ。
+
+      私の名は、帝国の力と共に後世へと受け継がれることになるだろう。私の存在はローマの初代皇帝として、そしてパクス・ロマーナをもたらした者として、時代を超えて語り継がれるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_JULIUS_CAESAR</zType>
+		<en-US>Julius Caesar</en-US>
+		<ja>ユリウス・カエサル</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_JULIUS_CAESAR_DESCRIPTION</zType>
+		<en-US>Caesar is an early expansionist. All units gain link(YIELD_TRAINING) for killing Tribal units and start with bonus XP. This allows Caesar to quickly promote Units. He also starts with some strong Generals, although you should beware the Ides of March.</en-US>
+		<ja>シーザーは序盤の拡大主義者だ。全ユニットが追加の経験値を与えられた状態で生産され、また部族のユニットを撃破するとlink(YIELD_TRAINING)が得られる。また彼は、スタート時点で強力な将軍たちを擁しているが、「3月のイデス」には注意が必要である。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_JULIUS_CAESAR_STORY</zType>
+		<en-US>    I am Caesar of the distinguished Julii, Dictator in Perpetuity of Rome.
+
+    Who has not heard of my exploits? Swiftly rising through the political ranks of the Cursus Honorum, I took command in Gaul. There I led our forces to defeat the tribes, pitting them against each other before defeating them in battle. My legions even crossed the seas to the land of Britannia, extending the Republic further than ever before.
+
+    My exploits won me fame and, more importantly, the loyalty of my legions. When the senate demanded that I relinquish command and disband my armies, I instead crossed the Rubicon and marched on the city, initiating a civil war that spanned the length of the Republic.
+
+    Good or ill, my actions will shape the course of history. My name will never die. I am Caesar.</en-US>
+		<ja>      私は名門ユリウス家のカエサルにして、ローマ、永久の独裁官である。
+
+      我が偉業を知らぬ者などいないだろう。名誉ある政治的階級「クルスス・ホノルム」を急速に駆け上がり、私はガリアで指揮を執るようになった。私は、部族同士を争わせた後、軍を率いて彼らを打ち破った。軍団は海を渡ってブリタニアの地まで達し、ローマはかつてないほどの規模になった。
+
+      この活躍により、私は名声を勝ち取った。だが、それ以上に重要なのは、軍団から厚い忠誠心を得たことだ。元老院が彼に指揮権の放棄と軍の解散を要求した時、私はルビコン川を渡り、都市に向けて進軍した。そして、ローマ全土にわたるほどの内戦を引き起こす。
+
+      良いか悪いかに関わらず、私の行動は歴史の流れを形作るだろう。我が名が消え去ることなど、永遠にない。私はカエサルだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_GAIUS_MARIUS</zType>
+		<en-US>Marius</en-US>
+		<ja>マリウス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_GAIUS_MARIUS_DESCRIPTION</zType>
+		<en-US>Marius' reforms to the Roman military mean that the loyal units of his dynasty get a bonus when led by a General. He also has a unique Trait that allows the building of link(PROJECT_ENROLEMENT_POST,1), Projects that speed up the training of new link(UNIT_WARRIOR) Units.</en-US>
+		<ja>マリウスのローマ軍改革：将軍に率いられたとき、王朝に忠実なユニットが各種ボーナスを得られる。また、彼が持つ固有特性により新たなlink(UNIT_WARRIOR)ユニットの訓練を加速させるプロジェクトlink(PROJECT_ENROLEMENT_POST,1)が実行できる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_GAIUS_MARIUS_STORY</zType>
+		<en-US>    I am Gaius Marius, consul of the Republic of Rome.
+
+    Although born to wealth, I was still seen as an outsider in the political world, one of the ‘new men’ fighting to make a mark without the support of the senatorial families. To prove my worth I fought against the enemies of the Republic wherever they could be found in Numidia, Gaul, Germania, and even our supposed allies in Italia.
+
+    My military victories saw me appointed as consul an unprecedented six times, an era of innovation that saw a number of changes to the military might of Rome. I am not above using violence to silence my enemies at home as well as abroad, wrestling the control of Rome from my political opponents to gain a seventh consulship.
+
+    Under my leadership there is no enemy that the Republic cannot overcome.</en-US>
+		<ja>      私はガイウス・マリウス、共和政ローマの執政官である。
+
+      裕福な家に生まれたとはいえ、政界においてはまだ異端者であり、議員一族の支援を受けずに頭角を現そうとする「新参者」の一人と見られていた。自らの価値を証明するべく、私はヌミディアやガリア、ゲルマニア、そして同盟国であるはずのイタリアに至るまで、ローマの敵たちと戦ってきた。
+
+      軍を率いて勝利を挙げた私は、執政官への任命を6回受けた。これは異例のことである。そして、ローマの軍事に多くの変革が起きた時代となったのだ。国内外にいる敵を黙らせるためならば暴力を振るうこともいとわず、ローマの支配権を政敵から奪い、執政官の職に7回就いた。
+
+      私が指揮を執る限り、ローマに撃破できぬ敵はいない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SULLA</zType>
+		<en-US>Sulla</en-US>
+		<ja>スッラ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SULLA_DESCRIPTION</zType>
+		<en-US>Sulla rules Rome with an iron fist. His unique link(TRAIT_DICTATOR) Trait means that Family Opinion will get steadily worse over time, although he has the link(MISSION_PROSCRIPTION) Mission to keep any unruly families in line.</en-US>
+		<ja>鉄の拳でローマを支配する独裁官、スッラ。ユニークな特性link(TRAIT_DICTATOR)の影響で、彼は時間が経つにつれて家族からの評判が悪化してしまう。一方で、どんな手に負えない家族も制御するlink(MISSION_PROSCRIPTION)ミッションを有している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SULLA_STORY</zType>
+		<en-US>    I am Sulla, leader of the optimates, Consul and Dictator of Rome.
+
+    Initially serving under Gaius Marius, the traditionalists in the senate saw me as a potential rival to my once-commander. This animosity reached a breaking point when we fought in civil war, with his forces seizing the city of Rome while I was in the East. My return saw his defeat.
+
+    Finally in command of Rome, I revived the old title of Dictator, wielding military command as I saw fit. The city was littered with enemies and traitors who had acted against Rome, against me, so I started the Proscriptions. These lists decreed the execution and confiscation of the property of anyone named, with a reward going to anyone who killed the traitors. My enemies were the first to go, then the enemies of my friends.
+
+    Rome is mine to command. My people will be kept in line, by any means necessary.</en-US>
+		<ja>      私はスッラ、オプティマテスの指導者であり、ローマの執政官かつ独裁官だ。
+
+      当初はガイウス・マリウスに仕えていた。しかし、元老院の保守派からは、かつての指揮官であるマリウスの潜在的脅威と見なされていた。この対立は私が東方にいる間に、彼の軍がローマを占領した内戦において決定的なものとなる。私の帰還、それは彼に敗北をもたらした。
+
+      ついにローマの指揮官となった私は、「独裁官」という古い称号を復活させ、思うがままに軍事指揮権を行使した。市内にはローマに反逆し、私と敵対する敵や裏切り者であふれていた。そのため、私は「プロスクリプティオ」──法の保護の対象外に置く措置を取り始めた。この名簿に名が挙がった者は処刑され、財産も没収される。さらに、裏切り者を殺害した者には報酬を与えた。最初に多くの敵が排除され、続いて私の友人の敵も対象となった。
+
+      ローマは、我が指揮下にある。民はどんな手段をもってしても、我が統制下に置かれるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SCIPIO</zType>
+		<en-US>Scipio</en-US>
+		<ja>スキピオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SCIPIO_DESCRIPTION</zType>
+		<en-US>Scipio is a masterful tactician, able to stay hidden from shrubs and trees as link(CONCEPT_GENERAL,1). His dynasty also gets a link(YIELD_HAPPINESS) bonus from killing units of other Nations.</en-US>
+		<ja>スキピオは熟練の戦術家であり、彼がlink(CONCEPT_GENERAL,1)である間は茂みや木に姿を隠すことが可能になる。また、彼の王朝は他国のユニットを殺害することでlink(YIELD_HAPPINESS)ボーナスを得られる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SCIPIO_STORY</zType>
+		<en-US>    I am Scipio, general of Rome, known as Africanus for my victories against the rival empire of Carthage in Africa.
+			
+    I was forged in war from a young age, following my father to battle before being elected to political positions due to my support amongst the people of Rome. My chance at greatness came when the assembly elected me to lead the Roman forces in Hispania with proconsular imperium, despite never having held the customary roles of praetor or consul.
+
+    Despite achieving successes abroad, destroying armies in night-time raids and defeating the best generals our enemies have to offer, success breeds jealousy, and certain members of the senate look to bring me down.
+			
+    Even if they succeed, my grandson Scipio Aemilianus will finish what I started, defeating Carthage in the last of the Punic Wars. The Republic of Rome, or any nation after, will never again know a strategist such as me.</en-US>
+		<ja>      私はローマの将軍、スキピオだ。アフリカの敵対帝国「カルタゴ」との戦いで勝利を収めたため、「アフリカヌス」と呼ばれている。
+			
+      幼い頃から戦いに身を投じ、父と共に戦場に立ち、ローマ市民からの支持を得て政治家となった。栄光を掴む機会は突然訪れた。政務官職の一つ、「プラエトル」や執政官「コンスル」といった慣例的な職を経験していない私を、元老院がヒスパニアのローマ軍を率いる「プロコンスル」に選出したのだ。
+
+      海外で成功を収め、夜襲で軍隊を壊滅させ、最高と呼ばれる将軍を倒したにも関わらず、成功は嫉妬を生み、元老院のある議員は私を陥れようとしている。
+			
+      仮に失脚させられたとしても、孫のスキピオ・アエミリアヌスこそ、私の始めたことを完遂し、ポエニ戦争──その最後でカルタゴを打ち破るだろう。共和政ローマ…いや、それ以降のどの国でも、私のような戦略家が現れることは二度とない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DYNASTY_AGRIPPINA</zType>
+		<en-US>Subversive Control</en-US>
+		<ja>妨害による統制</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_REFINED</zType>
+		<en-US>Refined</en-US>
+		<ja>精鋭</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_EXPANSIONIST</zType>
+		<en-US>Expansionist</en-US>
+		<ja>拡大主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_REFINED</zType>
+		<en-US>Refined Leader</en-US>
+		<ja>精鋭たる指導者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_AS_HEIR</zType>
+		<en-US>Adopt as Heir</en-US>
+		<ja>後継者として養子に</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_AS_HEIR_DESCRIPTION</zType>
+		<en-US>Adopt an heir without losing icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)</en-US>
+		<ja>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)を失うことなく、後継者を迎え入れる</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ADOPT_AS_HEIR</zType>
+		<en-US>Adopt as Heir</en-US>
+		<ja>後継者として養子に</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ADOPT_AS_HEIR_DESCRIPTION</zType>
+		<en-US>The preparations are complete and {CHARACTER-SUBJECT} has been declared your child and Heir.</en-US>
+		<ja>準備が終わる。{CHARACTER-SUBJECT}はあなたの子となり、後継者であると宣言された。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DYNASTY_JULIUS_CAESAR</zType>
+		<en-US>Caesar's Dynasty</en-US>
+		<ja>カエサルの王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DYNASTY_JULIUS_CAESAR</zType>
+		<en-US>Caesar's Dynasty</en-US>
+		<ja>カエサルの王朝</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_AMBUSHER</zType>
+		<en-US>Ambusher</en-US>
+		<ja>伏兵</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_AMBUSHER</zType>
+		<en-US>Ambusher</en-US>
+		<ja>伏兵</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DYNASTY_SCIPIO</zType>
+		<en-US>Scipio's Dynasty</en-US>
+		<ja>スキピオの時代</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DICTATOR</zType>
+		<en-US>Dictator</en-US>
+		<ja>独裁者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HATED_DICTATOR</zType>
+		<en-US>Hated Dictator</en-US>
+		<ja>憎き独裁者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DESPISED_DICTATOR</zType>
+		<en-US>Despised Dictator</en-US>
+		<ja>蔑まれし独裁者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DICTATOR_GAIN</zType>
+		<en-US>{0_character} is unafraid to retain control by any means and is now known as a {1_trait}.</en-US>
+		<ja>{0_character}は支配を維持するためならば、どんな手段をもいとわない。そのため、今では{1_trait}として知られていた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PROSCRIPTION</zType>
+		<en-US>Proscription</en-US>
+		<ja>プロスクリプティオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PROSCRIPTION_DESCRIPTION</zType>
+		<en-US>Post names of your political enemies to make the Family Head link(RELATIONSHIP_TERRIFIED_OF) you</en-US>
+		<ja>政敵の名を公に晒し、氏族の長にlink(RELATIONSHIP_TERRIFIED_OF)を植え付ける</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PROSCRIPTION</zType>
+		<en-US>The Family is forced into submission</en-US>
+		<ja>服従を強いられし一家</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PROSCRIPTION_DESCRIPTION</zType>
+		<en-US>Lists of your political enemies in the {MISSION-TARGET} Family have been released. Those named to be executed and their lands confiscated.</en-US>
+		<ja>{MISSION-TARGET}家の政敵リストが公表された。指名された者たちは処刑され、その土地は没収される。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DYNASTY_MARIUS</zType>
+		<en-US>Marian Reforms</en-US>
+		<ja>マリアンの改革</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THIRD_FOUNDER</zType>
+		<en-US>Third Founder</en-US>
+		<ja>第3代</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ENROLEMENT_POST</zType>
+		<en-US>Enrollment Post~Enrollment Posts</en-US>
+		<ja>入隊掲示板</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_PHARAOH</zType>
+		<en-US>Pharaoh</en-US>
+		<ja>ファラオ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MERNEITH</zType>
+		<en-US>Merneith</en-US>
+		<ja>メルネイト</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MERNEITH_DESCRIPTION</zType>
+		<en-US>As link(CONCEPT_GENERAL,1), Merneith's adjacent units will enjoy an attack bonus into icon(CONNECTED)Connected Tiles.</en-US>
+		<ja>メルネイトをlink(CONCEPT_GENERAL,1)にすると、隣接するユニットはicon(CONNECTED)タイルで攻撃ボーナスを受ける。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONNECTION_TACTICAL_ADVANTAGE</zType>
+		<en-US>Connection Tactical Advantage</en-US>
+		<ja>接続 戦術的優位</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONNECTION_TACTICAL_ADVANTAGE_AURA</zType>
+		<en-US>Connection Tactical Advantage Aura</en-US>
+		<ja>接続 戦術的優位（オーラ）：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_KHUFU</zType>
+		<en-US>Khufu</en-US>
+		<ja>クフ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_KHUFU_DESCRIPTION</zType>
+		<en-US>Khufu is a great administrator of monumental works and is able to build Wonders for less cost. If Khufu builds link(IMPROVEMENT_PYRAMIDS), then that City will receive a boost after his death.</en-US>
+		<ja>クフは記念碑の優れた建設指揮者で、通常の半分のコストで記念物を作ることができる。クフがlink(IMPROVEMENT_PYRAMIDS)を建設すると、その都市は彼の死後に一定の恩恵を受ける。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_MONUMENTAL_EFFORT</zType>
+		<en-US>Monumental Effort</en-US>
+		<ja>記念碑の建造</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_KHUFU_PYRAMID_TOURISM</zType>
+		<en-US>Khufu's Pyramids Tourism Board</en-US>
+		<ja>クフ王のピラミッド観光局</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_KHUFU_PYRAMID_TOURISM</zType>
+		<en-US>Khufu's Pyramids Tourism Board</en-US>
+		<ja>クフ王のピラミッド観光局</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_KHUFU_PYRAMID_LOCAL</zType>
+		<en-US>Khufu's Pyramids Local Tours</en-US>
+		<ja>クフ王のピラミッド 現地ツアー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_KHUFU_PYRAMID_LOCAL</zType>
+		<en-US>Khufu's Pyramids Local Tours</en-US>
+		<ja>クフ王のピラミッド 現地ツアー</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MENTUHOTEP_II</zType>
+		<en-US>Mentuhotep II</en-US>
+		<ja>メンチュヘテプ2世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MENTUHOTEP_II_DESCRIPTION</zType>
+		<en-US>Mentuhotep II is able to perform the Missions link(MISSION_FAMILY_GIFT_MENTUHOTEP_II), link(MISSION_PACIFY_CITY_MENTUHOTEP_II), and link(MISSION_IMPRISON_MENTUHOTEP_II) immediately, without the need for a Chancellor.</en-US>
+		<ja>メンチュヘテプ2世は大臣を任命することなしに、即座にlink(MISSION_FAMILY_GIFT_MENTUHOTEP_II)やlink(MISSION_PACIFY_CITY_MENTUHOTEP_II)、link(MISSION_IMPRISON_MENTUHOTEP_II)といったミッションを遂行できる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AKHENATEN</zType>
+		<en-US>Akhenaten</en-US>
+		<ja>アクエンアテン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AKHENATEN_DESCRIPTION</zType>
+		<en-US>Akhenaten's link(TRAIT_RELIGIOUS_FERVOR) has led to his insanity, but his unique Pagan Religion link(RELIGION_ATENISM) will lead to lower link(YIELD_DISCONTENT,1) in Cities following the State Religion.</en-US>
+		<ja>宗教に対する強い関心を抱くアクエンアテンのlink(TRAIT_RELIGIOUS_FERVOR)は彼を狂気へと追いやることにもなった。彼の固有のlink(RELIGION_ATENISM)は、国教に従う都市ではlink(YIELD_DISCONTENT,1)を低下させる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGIOUS_FERVOR</zType>
+		<en-US>Religious Fervor</en-US>
+		<ja>宗教的熱狂</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGIOUS_FERVOR</zType>
+		<en-US>Religious Fervor</en-US>
+		<ja>宗教的熱狂</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_RAMESSES_II</zType>
+		<en-US>Ramesses II</en-US>
+		<ja>ラムセス2世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_RAMESSES_II_DESCRIPTION</zType>
+		<en-US>Ramesses II inspires his people as the link(TRAIT_GREAT_ANCESTOR), and conquers his enemies with link(TRAIT_CHARIOT_MASTER,1).</en-US>
+		<ja>ラメセス2世はlink(TRAIT_GREAT_ANCESTOR)として臣民を鼓舞し、またlink(TRAIT_CHARIOT_MASTER,1)によってその敵を征服した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_CHARIOT_MASTER</zType>
+		<en-US>Chariot Master~Chariot Mastery</en-US>
+		<ja>チャリオットの達人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CHARIOT_MASTER</zType>
+		<en-US>Chariot Master</en-US>
+		<ja>チャリオットの達人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SUPPILULIUMA</zType>
+		<en-US>Suppiluliuma I</en-US>
+		<ja>シュッピルリウマ1世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SUPPILULIUMA_DESCRIPTION</zType>
+		<en-US>Suppiluliuma, and his military, gain additional link(CONCEPT_XP) automatically.</en-US>
+		<ja>シュッピルリウマとその軍は自動的に追加のlink(CONCEPT_XP)を獲得することができる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SUPPILULIUMA_STORY</zType>
+		<en-US>    I am Suppiluliuma, greatest of the Hittite kings.
+
+    During the rule of my father, Tudhaliya II, I served as general and advisor and helped defeat our enemies and turn around the failing Hittite empire. After my father’s death, I seized control from my brother, Tudhaliya III.
+
+    Arzawa, Mitanni, Egypt: I conquered lands belonging to each of them during my reign. To secure ties with Egypt, I sent my son, Zannanza, to marry the queen widow, Dakhamunzu. In a tragic turn of events, Zannanza died by Egyptian hands along the way. I struck back with a vengeance, capturing much Egyptian territory.
+
+    I am Suppiluliuma. My rise to greatness has just begun.</en-US>
+		<ja>      私はシュッピルリウマ、ヒッタイトの王の中で最も偉大な者だ。
+
+      父のトゥドハリヤ2世が統治していた時代に、私は将軍と顧問を務め、敵を打ち破り、衰退しつつあったヒッタイトを立て直すのに貢献した。父の死後、私は兄のトゥドハリヤ3世から支配権を奪った。
+
+      アルザワ、ミタンニ、エジプト…我が治世の間にこれらの土地を征服してきた。エジプトとの結びつきを確固たるものとするため、私は息子のザンナンザを未亡人の王妃ダハムンズと結婚させることにした。しかし悲劇的なことに、その途中でザンナンザは…エジプト人の手によって命を落としてしまう。復讐心に燃えた私は反撃をして、エジプトの持つ領土の多くを占領した。
+
+      私はシュッピルリウマだ。我が偉業への道は、まだ始まったばかりだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_DIS</zType>
+		<en-US>Failed to take action following your child's suspicious death</en-US>
+		<ja>子の不審死に対する対応を怠った</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_HATTI_SUPPILULIUMA_DEATH_AFAR_GOAL</zType>
+		<en-US>Swore vengeance upon your enemy</en-US>
+		<ja>敵に復讐を誓う</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GREAT_ANCESTOR</zType>
+		<en-US>Great Ancestor</en-US>
+		<ja>偉大なる祖先</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GREAT_ANCESTOR_DESCRIPTION</zType>
+		<en-US>The Great Ancestor's lengthy reign inspires all of us!</en-US>
+		<ja>偉大なる先祖の長きにわたる治世が、我ら全てのものを鼓舞している！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EFFECTPLAYER_TRAIT_INEXPERIENCED</zType>
+		<en-US>Began my reign as a young, inexperienced ruler</en-US>
+		<ja>経験浅き我が治世が若くして始まった</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INEXPERIENCED</zType>
+		<en-US>Inexperienced</en-US>
+		<ja>経験不足</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_AMBITIOUS</zType>
+		<en-US>Ambitious</en-US>
+		<ja>野望</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANTILI</zType>
+		<en-US>Hantili I</en-US>
+		<ja>ハンティリ1世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANTILI_DESCRIPTION</zType>
+		<en-US>As Hantili the link(TRAIT_HANTILI_LEADER), all newly founded Cities will start with link(PROJECT_WALLS).</en-US>
+		<ja>link(TRAIT_HANTILI_LEADER)であるハンティリ1世が新たに建設した都市は全てlink(PROJECT_WALLS)を備えた状態でスタートする。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HANTILI_STORY</zType>
+		<en-US>    I am Hantili, self-made King of the Hittites.
+
+    Once the cupbearer to king Mursili I, I grew dissatisfied with my brother-in-law’s rule. With the help of my son-in-law, Zidanta, I removed Mursili from power and from this world.
+
+    As king, I led many campaigns against our enemies and built great fortifications to defend my people. One can never be too sure of one’s enemies. Over time, a great remorse has welled up in me, the memory of Mursili at its source. That is for me alone to bear. All that is left is to prove that my actions were just by ensuring that Hatti becomes the greatest kingdom in all the Old World.
+
+    I am Hantili. I will carry the Hittites forward.</en-US>
+		<ja>      私はハンティリ、自作自演のヒッタイト王だ。
+
+      かつてムルシリ1世の給仕係だった私は、義兄である王の統治に不満を抱いていた。私は婿のツィダンタの助けを借り、ムルシリを政治から、そしてこの世からも追い出した。
+
+      王として、私は多くの作戦を指揮し、民を守るために大きな要塞を築いた。敵に過信は禁物だ。時が経つにつれ、ムルシリの記憶が源となって、心の中で大きな後悔の念が湧き上がってきた。それは私一人が背負うことだ。あとは、ハッティがこの世界で最も偉大な王国になることで、私の行動が正義であったことを証明するだけである。
+
+      私はハンティリ。ヒッタイトを前進させる者だ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HANTILI_LEADER</zType>
+		<en-US>Stalwart Defender</en-US>
+		<ja>勇敢なる守り手</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_VINDICATED</zType>
+		<en-US>Vindicated</en-US>
+		<ja>晴れた疑惑</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_VINDICATED_F</zType>
+		<en-US>Vindicated</en-US>
+		<ja>晴れた疑惑</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_PUDUHEPA</zType>
+		<en-US>Puduhepa</en-US>
+		<ja>プドゥヘパ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_PUDUHEPA_DESCRIPTION</zType>
+		<en-US>Queen Puduhepa enables shrines to be built from the beginning of the game, and her link(PROJECT_SYNCRETISM) further leverages link(CONCEPT_PAGAN_RELIGION).</en-US>
+		<ja>プドゥヘパ女王はゲーム開始直後より神殿を建設することができ、link(PROJECT_SYNCRETISM)によりlink(CONCEPT_PAGAN_RELIGION)をさらに有効活用できる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_PUDUHEPA_STORY</zType>
+		<en-US>    I am Puduhepa, Goddess-Queen of the Hittites. 
+
+    Raised as a priestess of Shaushka, I went on to marry the general Hattusili III before rising with him to the throne. As queen I took on roles that none before me had enjoyed, setting a new precedent for what it means to be a Hittite queen. I played an important part in diplomatic relations with Egypt, enjoying regular correspondence with Ramesses and Nefertari both. 
+
+    When not handling diplomatic affairs or overseeing the courts, my life’s work was to reorganize the Hittite deities into a unified whole. With the passing of Hattusili, I carried on with this role under the title of Goddess-Queen. 
+
+    I am Puduhepa. Under my rule, Hatti thrives.</en-US>
+		<ja>      私の名はプドゥヘパ、ヒッタイトの王妃である。 
+
+      サウシュガの巫女として育てられた私は、将軍ハットゥシリ3世と結婚し、共に王位に就いた。女王として私は前例のない役割を果たし、ヒッタイトの女王であることの新たな定義を築いた。エジプトとの外交関係で重要な役割を果たしており、ラムセスやネフェルタリとも定期的に連絡を取り合っていた。 
+
+      外交問題や宮廷を監督していないとき、私はヒッタイトの神々を統一した一柱に再編することに捧げた。ハットゥシリ亡き後、私は后妃「タワナアンナ」という肩書きでこの役割を引き継いだ。 
+
+      私はプドゥヘパ。我が支配のもと、ハッティは繁栄している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PUDUHEPA_LEADER</zType>
+		<en-US>Syncretist</en-US>
+		<ja>混合主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PUDUHEPA_LEADER_F</zType>
+		<en-US>Syncretist</en-US>
+		<ja>混合主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SYNCRETISM</zType>
+		<en-US>Syncretism</en-US>
+		<ja>混合主義</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MURSILI_II</zType>
+		<en-US>Mursili II</en-US>
+		<ja>ムルシリ2世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MURSILI_II_DESCRIPTION</zType>
+		<en-US>Although Mursili II starts with a link(CONCEPT_LEGITIMACY) penalty, he and his companion link(CHARACTER_NUVANZA) are able to soon make up for it by choosing an early ambition.</en-US>
+		<ja>ムルシリ2世はlink(CONCEPT_LEGITIMACY)のペナルティを背負った状態でスタートするが、彼と彼の仲間のlink(CHARACTER_NUVANZA)は早い段階で「野心」を選ぶことができる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MURSILI_II_STORY</zType>
+		<en-US>    I am Mursili, new king of the Hittites.
+
+    My father, the great Suppiluliuma, and older brother both fell victim to the plague brought upon us by prisoners from Egypt. It falls now on me and me alone to rule the Hittite Kingdom.
+
+    Some view my youth as a weakness, my inexperience as a flaw, but I did not sit idle during my father’s rule and in fact kept detailed records of his methods. Early in my reign I quelled many rebellions and saw Hatti’s borders expand. Though my detractors see me as small, my plans for Hatti are grand.
+
+    I am Mursili, and I will see the Hittite empire spread from the heights of the mountains to the depths of the seas.</en-US>
+		<ja>      私はムルシリ、ヒッタイトの新たな王だ。
+
+      私の父であるスッピルリウマ、そして兄は、エジプト人捕虜がもたらした疫病の犠牲となってしまう。ヒッタイト王国を支配するのは、今や私一人にかかっている。
+
+      私の若さを弱点、経験の浅さを欠点と見る者もいるが、父が国を治める間、何もせず黙っていたわけではなく、父のやり方を詳細に記録していた。私は治世初期に多くの反乱を鎮め、ハッティの国境が拡がるのを目にした。非難する者たちは小さく見積もっているが、私のハッティへ向けた計画は実に壮大なものとなっている。
+
+      私はムルシリ。見届けよう、ヒッタイトが山の高みから海の底まで広がるのを。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_HATTI_MURSILI_II_AMBITION_OK</zType>
+		<en-US>Proved my doubters wrong</en-US>
+		<ja>疑念を抱く者たちの間違いを証明</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_EVENTOPTION_HATTI_MURSILI_II_AMBITION_PLUS</zType>
+		<en-US>Proved my doubters wrong and set new ambitions</en-US>
+		<ja>疑念を抱く者たちが間違っていることを証明し、新たな野望を打ち立てた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_DARIUS_CEDES_TO_BARDIYA_LEGITIMACY</zType>
+		<en-US>Admitted to a plot against Bardiya</en-US>
+		<ja>バルディヤに対する陰謀を認めた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SHAMMURAMAT</zType>
+		<en-US>Shammuramat</en-US>
+		<ja>サンムラマート</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SHAMMURAMAT_DESCRIPTION</zType>
+		<en-US>Queen Shammuramat starts the game as a link(TRAIT_HERO_ARCHETYPE), but can change into a link(TRAIT_BUILDER_ARCHETYPE) and back again, allowing her to excel at both aspects of the game.</en-US>
+		<ja>サンムラマート女王はスタート時点ではlink(TRAIT_HERO_ARCHETYPE)となっているが、その後はlink(TRAIT_BUILDER_ARCHETYPE)に変わったり、あるいはまた戻ったりすることもできる。これにより両方で、その優れた能力を発揮できるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SHAMMURAMAT_STORY</zType>
+		<en-US>    I am Sammu-Rāmat, Queen of Assyria.
+	
+    I am the most powerful person of my times and will remain an undeniable reminder of women's strength.
+
+    I led our armies against Assyria's enemies and expanded its dominion in all directions, to the four corners of the world.
+
+    As Semiramis I will become a legendary figure, half goddess, breaker of sieges, founder of Babylon, creator of the Hanging Gardens and tamer of the mighty Euphrates river.
+		</en-US>
+		<ja>    私はアッシリアの女王、サンムラマート。
+	
+    この時代における最も強大な人物、それが私だ。これからも、女性の強さの確固たる象徴として君臨し続ける。
+
+    私は我が軍を率いてアッシリアの敵に立ち向かい、その支配域を四方八方、世界の隅々にまで拡大させた。
+
+    私はセミラミスとして、伝説の存在となる。半神、包囲を打ち破る者、バビロンを築きし者、空中庭園の作り手、そして大河ユーフラテス川を制する者として。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_TUKULTI_NINURTA_I</zType>
+		<en-US>Tukulti-Ninurta I</en-US>
+		<ja>トゥクルティ・ニヌルタ1世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_TUKULTI_NINURTA_I_DESCRIPTION</zType>
+		<en-US>Tukulti-Ninurta I gains considerable personal link(CONCEPT_LEGITIMACY) by declaring war on other link(CONCEPT_NATION,2), which makes him uniquely suited to early conflict.</en-US>
+		<ja>トゥクルティ・ニヌルタ1世は他のlink(CONCEPT_NATION,2)に宣戦布告することで、かなりのlink(CONCEPT_LEGITIMACY)を獲得する。これにより初期段階における征服に非常に適していると言えるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_TUKULTI_NINURTA_I_STORY</zType>
+		<en-US>    I am Tukulti-Ninurta.
+
+    Indomitable warrior, I defeated Elam, took and plundered Babylon, captured its king and its god, conquered the distant shore kingdoms of Dilmun and Meluhha.
+
+    I took the mantle of King of Sumer and Akkad like the legendary great kings of old and created for myself the new title of King of Kings to signify my power.
+
+    All tremble before me. My strength is without peers, and my deeds are worthy of epic poems.
+		</en-US>
+		<ja>    私はトゥクルティ・ニヌルタ。
+
+    私は不屈の戦士としてエラムを打ち破り、バビロンを占領して略奪し、その王と神を捕らえ、遠くの海岸王国ディルムンとメルッハを征服した。
+
+    伝説の偉大な王たちのようにシュメールとアッカドの王の地位を引き継ぎ、この力を外へ示すために「王の中の王」という新たな称号を自らに与えた。
+
+    すべてが、私の前で震えている。私の強さは他の追随を許さない。この行いこそ、叙事詩に綴られるに相応しい。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ASHUR_UBALLIT_I</zType>
+		<en-US>Ashur-Uballit I</en-US>
+		<ja>アッシュル・ウバリト1世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ASHUR_UBALLIT_I_DESCRIPTION</zType>
+		<en-US>Ashur-Ubalit I automatically gains favors from the first link(CONCEPT_NATION) contacted, allowing him to ruthlessly manipulate early diplomacy.</en-US>
+		<ja>アッシュル・ウバリト1世は最初に接触したlink(CONCEPT_NATION)から好意的に思われるため、初期段階で大きな外交力を発揮することができる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ASHUR_UBALLIT_I_STORY</zType>
+		<en-US>    I am Aššur-uballiṭ.
+		
+    My Father broke the hold of Mitanni over our kingdom, but I am the one who defeated them.
+	
+    My diplomacy then turned Assyria into a true world power.
+	
+    When Babylon complained about my independence, I invaded them and placed a King of my choosing on their throne. When he too rebelled I crushed their army and took their lands for myself.
+	
+    I ushered a new Era for Assyria, making it rise from a trading kingdom to a major power for centuries to come.
+		</en-US>
+		<ja>    私はアッシュル・ウバリト。
+		
+    ミタンニに支配されていた祖国。そのミタンニを父が打ち破った。
+	
+    その後、私の外交により、アッシリアは真の世界大国へと変貌した。
+	
+    バビロンが独立に不平を申した時、私は侵略を決め、自ら選んだ王をその王座に据えた。反乱を起こしたときには、彼らの軍隊を叩き潰し、その土地を我らがものとした。
+	
+    私はアッシリアという国に新たな時代をもたらし、貿易王国から何世紀も続く大国へと成長させたのだ。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_FAMILY_US_PROSCRIPTION_TARGET</zType>
+		<en-US>Family with a Family Head who is not Terrified of Sulla</en-US>
+		<ja>スッラも恐れぬ当主を持つ氏族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SARGON_II</zType>
+		<en-US>Sargon II</en-US>
+		<ja>サルゴン2世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SARGON_II_DESCRIPTION</zType>
+		<en-US>Sargon II can enact link(LAW_EPICS) from the start of the game, allowing the building of early Garrisons and rapid Culture gains through early fighting.</en-US>
+		<ja>サルゴン2世はゲーム開始時点からlink(LAW_EPICS)の制定が可能で駐屯地の建設が行え、また序盤の戦いより「文化」の獲得ができる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SARGON_II_STORY</zType>
+		<en-US>    I am Šarru-Kēnu, son of Tukultī-apil-Ešarra, although I am known to foreigners as Sargon, son of Tiglath-Pileser.
+
+    My Father made Assyria into the first world Empire, but my name echoing the first king of all Mesopotamia will be given to our entire dynasty. I modeled my reign after his and the heroic epic of Gilgamesh.
+	
+    I conquered the four corners of the world but I spared civilians and worked to integrate them into my empire. I forgave some of my enemies.
+
+    I increased the power of women at the court and gave my queen her personal military unit.
+
+    For myself and my empire I built a fabulous new capital and a palace without rivals. I involved myself directly with its design. My son link(CHARACTER_SENNACHERIB) will be as great as I am and will design and build many great wonders himself, including hanging gardens that will be remembered until the end of time.
+		</en-US>
+		<ja>    我が名はトゥクルティ・アピル・エシャラの息子、シャル＝ケヌ。異国の者にはティグラト・ピレセルの息子、サルゴンの名で知られている。
+
+    父はアッシリアを世界最初の帝国へと押し上げた。そこに名付けられた、メソポタミアの初代王を思わせる息子の名前。この影響は王朝全体へと及ぶことだろう。我が治世は、彼とギルガメシュの英雄叙事詩に倣ったものであった。
+	
+    我は世界の四隅を征服しつつも、民間人は寛大に扱い、帝国に組み入れるよう努めた。何人かの敵を許した。
+
+    宮廷における女性の権力を高め、女王に個人の軍隊を与えた。
+
+    我は自身とこの帝国のため、比類なき宮殿を擁する素晴らしき首都を新たに築いた。私はその設計に直接関わった。息子であるlink(CHARACTER_SENNACHERIB)も我と同じように、数多くの驚異的な遺産を自ら設計して築いてゆく。その中には、時の終わりまで語り継がれる空中庭園もあることだろう。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEGENDARY_FOUNDER_TO_HERO</zType>
+		<en-US>From legendary link(TRAIT_BUILDER_ARCHETYPE) to actual link(TRAIT_HERO_ARCHETYPE)</en-US>
+		<ja>伝説のlink(TRAIT_BUILDER_ARCHETYPE)から実在するlink(TRAIT_HERO_ARCHETYPE)へ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_REAL_HERO_TO_BUILDER</zType>
+		<en-US>From actual link(TRAIT_HERO_ARCHETYPE) to legendary link(TRAIT_BUILDER_ARCHETYPE)</en-US>
+		<ja>実在するlink(TRAIT_HERO_ARCHETYPE)から伝説の link(TRAIT_BUILDER_ARCHETYPE)へ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LEGENDARY_FOUNDER_TO_HERO</zType>
+		<en-US>Become known as a link(TRAIT_HERO_ARCHETYPE)</en-US>
+		<ja>link(TRAIT_HERO_ARCHETYPE)として知られるように</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LEGENDARY_FOUNDER_TO_HERO_DESCRIPTION</zType>
+		<en-US>From the legendary link(TRAIT_BUILDER_ARCHETYPE) you were, you have become known as an actual link(TRAIT_HERO_ARCHETYPE)</en-US>
+		<ja>伝説のlink(TRAIT_BUILDER_ARCHETYPE)から実在するlink(TRAIT_HERO_ARCHETYPE)として知られるように</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_REAL_HERO_TO_BUILDER</zType>
+		<en-US>Become known as a link(TRAIT_BUILDER_ARCHETYPE)</en-US>
+		<ja>link(TRAIT_BUILDER_ARCHETYPE)として知られるように</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_REAL_HERO_TO_BUILDER_DESCRIPTION</zType>
+		<en-US>From the actual link(TRAIT_HERO_ARCHETYPE) you were, you have become known as a legendary link(TRAIT_BUILDER_ARCHETYPE)</en-US>
+		<ja>実在するlink(TRAIT_HERO_ARCHETYPE)から伝説の link(TRAIT_BUILDER_ARCHETYPE)として知られるように</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_KING_OF_KINGS_DECLARED_WAR</zType>
+		<en-US>From declaring war on other major Nations</en-US>
+		<ja>主要国への宣戦布告から</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ADAD_GUPPI</zType>
+		<en-US>Adad-Guppi</en-US>
+		<ja>アッダ・グッピ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ADAD_GUPPI_DESCRIPTION</zType>
+		<en-US>Adad-Guppi is an link(TRAIT_INTELLIGENT) Queen, with a uniquely long lifespan.</en-US>
+		<ja>アッダ・グッピはlink(TRAIT_INTELLIGENT)な女王であり、驚くべき長寿でも知られている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HAMMURABI</zType>
+		<en-US>Hammurabi</en-US>
+		<ja>ハンムラビ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HAMMURABI_DESCRIPTION</zType>
+		<en-US>Hammurabi has access to the unique link(MISSION_COURT_OF_THE_DIVINE_KING) Mission, which replaces link(MISSION_HOLD_COURT), produces double the output, and has twice the chance of recruiting courtiers.</en-US>
+		<ja>ハンムラビはlink(MISSION_COURT_OF_THE_DIVINE_KING)という独自のミッションが実行できる。これはlink(MISSION_HOLD_COURT)の代替で生産量および廷臣が加わる確率が2倍になる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_HAMMURABI_STORY</zType>
+		<en-US>    I am Hammurabi, son of Sîn-Muballit.
+		
+    Struck with illness, my father called upon me to ascend to the throne of Babylon, a modest power that my reign will elevate to the paragon of all cities for all time.
+
+    Under my rule Babylon will become the heart of a great kingdom, its god Marduk will rise to preeminence, and the supremacy of Babylonian culture will rise for centuries to come.
+
+    I led peacefully for many years, cared for my cities' temples and reformed laws.
+
+    But when Elam assailed Eshnunna and ravaged the southern lands, I allied with Larsa, I allied with Yamhad, and I allied with Mari.
+	And my might utterly crushed the invaders.
+
+    I then conquered Larsa, for they had failed to assist enough in the war.
+    I then took Eshnunna, for their land needed a king strong enough to rebuild it.
+    I then conquered Yamhad, for the north was in unrest.
+    I then conquered Mari and burned the great city to the ground.
+    I then took the Assyria of Ishme-Dagan as my own.
+
+    I united all of Mesopotamia under my rule. My people held me as divine.
+	  
+    History will remember me as a model of justice.
+	  </en-US>
+		<ja>    私はシン・ムバリットの息子、ハンムラビである。
+		
+    病魔に襲われた父は、私にバビロンの王位に就くよう求めた。我が治世下でバビロンというこの小国は、いつの時代もあらゆる都市の規範となるほど上位の存在となる。
+
+    我が支配の下、バビロンは偉大なる王国の中心となり、その神マルドゥクが台頭する。そして、何世紀にもわたってバビロニア文化の覇権は高まることであろう。
+
+    長年にわたって私は平和な治世を行い、都市の寺院の世話をし、法律を改正した。
+
+    しかしエラムがエシュヌンナを襲い、南の地を荒らした時、私はラルサ、ヤムハド、そしてマリと同盟を結んだ。
+	そうして、我が勢力は侵略者を完全に打ち砕いたのだ。
+
+    その後、私はラルサを征服した。ラルサはこの戦争で十分な支援をしなかったのだ。
+    そうして、私はエシュヌンナを手に入れた。この地を再建できるほどの強き王が要る。
+    その後、ヤムハドを征服した。北部は不穏な空気に包まれていた。
+    そして私はマリを征服し、この大都市を焼き払った。
+    その後、私はイシュメ・ダガンのアッシリアを手中に収めた。
+
+    私はメソポタミア全土を支配下に置いた。私は国民から神聖視していた。
+	  
+    歴史は、正義の模範として私のことを記憶することだろう。
+	  </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_NEBUCHADNEZZAR_I</zType>
+		<en-US>Nebuchadnezzar I</en-US>
+		<ja>ネブカドネザル1世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_NEBUCHADNEZZAR_I_DESCRIPTION</zType>
+		<en-US>Under Nebuchadnezzar's rule, ranged units are hidden on forests, and all units gain increased vision on the map. Upon conquering his first link(TRIBE_BARBARIANS,1) or link(CONCEPT_TRIBE,3) camp, Nebuchadnezzar I will receive an extra link(UNIT_SLINGER) and an extra link(UNIT_SCOUT).</en-US>
+		<ja>ネブカドネザル1世の統治下では遠隔ユニットは森林に隠れることができ、全ユニットのマップ上での視界が広がる。最初にlink(TRIBE_BARBARIANS,1)またはlink(CONCEPT_TRIBE,3)のキャンプを征服した際にlink(UNIT_SLINGER)とlink(UNIT_SCOUT)を追加で獲得する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_NEBUCHADNEZZAR_I_STORY</zType>
+		<en-US>    I am Nabû-Kudurri-Uṣur, first bearer of that kingly name, son of Ninurta-Nādin-Šumi, King of Babylon.
+
+    I am a distant scion of kingship, seed preserved from before the flood, offspring of Enmeduranki, king of Sippar, who set up the pure bowl and held the scepter of cedar-wood, who sat in the presence of Šamaš and Adad, the divine adjudicators, foremost son of Ninurta-nādin-šumi, king of justice, reliable shepherd, who keeps the land’s foundations secure, … of Adad and Gula, the great gods, offshoot of Nippur, progeny from of old, first attendant of Šuzianna, twin sister of Anšar, nominated by Anu and Dagan, firmly chosen by the great gods am I.
+
+    Well am I trained in the arts of war. In these uncertain times when great kingdoms falter, I will punish and rout the enemies of Babylon, I will eliminate their threat from the land, I will return my god Marduk to his rightful place on its throne to which I owe my own.
+
+    My foes vanquished, I will restore prosperity to the land, and my name will resonate for eternity.</en-US>
+		<ja>    私はバビロンの王、ニヌルタ・ナディン・シュミの息子で、その王の名の最初の担い手、ナブー・クドゥリ・ウールだ。
+
+    私は王権の遠い末裔、洪水より前に保存されし種、シッパルの王エンメドゥランキの子孫であり、純粋なる器を用意し、香杉の笏を持ち、神々の裁定者であるシャマシュとアダドの前に座った者、正義の王ニヌルタ・ナディン・シュミの長男であり、信頼できる牧者、国土の基盤を守る者…偉大な神々アダドとグラの子孫、ニップルの分枝、古の血統、シュジアンナの第一の侍従、アンシャールの双子の姉妹、アヌとダガンによって指名され、偉大な神々によって確固たる選択を受けた者である。
+
+    私は戦術訓練を積んできた。大王国が挫かれたこの不確かな時代でバビロンの敵を罰し、根絶やしにしてみせる。バビロンの脅威をこの地から排し、マルドゥク神をふさわしい位置、つまりバビロンの玉座に戻す。私はその玉座を借りているにすぎない。
+
+    祖国の敵は打ち破られ、私はこの地に繁栄を取り戻し、この名は人々の記憶の彼方へと永遠に刻まれるだろう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_ADAD_GUPPI_STORY</zType>
+		<en-US>    I am Adad-Gûppî, descendant of a long line of the most powerful rulers the world has ever seen.
+
+    Daughter of a great king and mother of the next, I have assumed the mantle of ruler of Babylonia.
+		
+    Sîn the moon god has named me his priestess. I cared for his sanctuaries in Harran and in Ur, and I received the prophecy that Sîn will one day make my son ascend to the throne in Babylon.
+	  
+    Sîn has gifted me with long years. His will is my own and I will see the prophecy fulfilled.</en-US>
+		<ja>    私はアダド・グッピ。かつてこの世界の誰も目にしたことがないような強大なる支配者、その長きにわたる家系の末裔である。
+
+    偉大なる王の娘であり、次の王の母である私は、バビロニアの支配者が纏うマントを身につけた。
+		
+    月の神シンは私を巫女に指名した。私はハランとウルにある聖域で、神のお世話をさせていただいていた。すると、いつか我が息子をバビロンの王位に就かせるという予言を授かった。
+	  
+    シンは私に長い年月を与えてくださった。主の御心は私のものであり、私は預言が成就するのを見届けるのだ。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_KURIGALZU_I</zType>
+		<en-US>Kurigalzu I</en-US>
+		<ja>クリガルズ1世</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_KURIGALZU_I_DESCRIPTION</zType>
+		<en-US>Under Kurigalzu's rule, link(NATION_BABYLONIA) can buy Tiles with link(YIELD_TRAINING), allowing the redirection of military power toward peaceful territorial expansion.</en-US>
+		<ja>クリガルズの統治するlink(NATION_BABYLONIA)では、link(YIELD_TRAINING)によるタイルの購入が可能で、軍事力を平和的な領土拡大に使うことができる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_KURIGALZU_STORY</zType>
+		<en-US>    I am Kurigalzu, Son of Kadašman-Ḫarbe, King of Babylon.
+		
+    When Ḫur-batila of Elam raided the land and provoked me to Battle, I utterly vanquished his troops, captured him, and put an end to the threat of Elam.
+
+    I will however be better remembered for the rebuilding of the great Babylonian realm and its cities.
+
+    I was the first to build a royal residence worthy of my kingship, bearing my name, whose foundations cannot be shaken and will stand guard over my kingdom.
+
+    I am the finisher of the fortifications and the one who completed the Ekur, the one who provides for Ur and Uruk, the one who guarantees the rites of Eridu, the constructor of the temple of An and Ištar, the one who ensures the offerings of the great gods.
+
+    I will remain the greatest Kassite King of Babylon, and one of its greatest builder Kings.
+		</en-US>
+		<ja>    私はバビロンの王カダシュマン・ハルベの息子、クリガルズだ。
+		
+    エラムのウル・バティラがこの地を急襲し、戦争へと駆り立てた。そのとき、私は敵の軍勢を完全に打ち破り、彼を捕らえてエラムの脅威を終結させた。
+
+    偉大なるバビロニア王国とその都市を再建したことで、よりよく記憶されていることだろう。
+
+    初めにこの王権に相応しいものとして、我が名を冠した王宮を建てた。この地盤が揺らぐことはない。この先も王宮は、王国を見守ってくれることであろう。
+
+    私は城塞の完成者であり、エクルを完成させし者、ウルとウルクを養う者、エリドゥの儀式を守りし者、アン神殿とイシュタル神殿の建設者、そして偉大な神々の供物を保証せし者である。
+
+    私はバビロンで最も偉大なカッシート王であり、最も偉大な建設王の一人であり続けるだろう。
+		</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_COURT_OF_THE_DIVINE_KING</zType>
+		<en-US>Court of the Divine King</en-US>
+		<ja>神王の法廷</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_COURT_OF_THE_DIVINE_KING_DESCRIPTION</zType>
+		<en-US>Pass divine judgment to gain increased link(YIELD_CIVICS)</en-US>
+		<ja>神聖なる裁定を下し、更なるlink(YIELD_CIVICS)を獲得する</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING</zType>
+		<en-US>The Divine King has held Court</en-US>
+		<ja>開かれた神王の法廷</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING_DESCRIPTION</zType>
+		<en-US>The Divine King has held court, handing out wise judgments and important reforms.</en-US>
+		<ja>法廷を開いた神王が、賢明な判決と重要な改革を行った。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING_COURTIER</zType>
+		<en-US>Court of the Divine King, New Courtier</en-US>
+		<ja>神王の法廷、新たな廷臣</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_COURT_OF_THE_DIVINE_KING_COURTIER_DESCRIPTION</zType>
+		<en-US>While holding court, you have discovered a promising new link(CONCEPT_COURTIER).</en-US>
+		<ja>法廷が開いているときに、前途有望な若いlink(CONCEPT_COURTIER)を発見した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LONG_LIVED</zType>
+		<en-US>Long Lived</en-US>
+		<ja>長寿</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LONG_LIVED_F</zType>
+		<en-US>Long Lived</en-US>
+		<ja>長寿</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PEACEFUL_EXPANSIONIST</zType>
+		<en-US>Peaceful Expansionist</en-US>
+		<ja>平和的拡大主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PEACEFUL_EXPANSIONIST_F</zType>
+		<en-US>Peaceful Expansionist</en-US>
+		<ja>平和的拡大主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_KING_OF_KINGS</zType>
+		<en-US>King of Kings</en-US>
+		<ja>王の中の王</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_KING_OF_KINGS_F</zType>
+		<en-US>Queen of Queens</en-US>
+		<ja>女王の中の女王</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_DARIUS_DESCRIPTION</zType>
+		<en-US>Darius is an effective reformer of national governance, with the ability to appoint Governors at half the link(YIELD_CIVICS) cost. He also has a problem in the face of Bardiya, a briefly reigning King whom Darius deposed and who still has designs on the throne.</en-US>
+		<ja>国家統治の改革者、ダレイオス。彼は半分のlink(YIELD_CIVICS)コストで総督を任命することができる。彼はかつてダレイオスの前に国王の地位にあり、彼によって退位させられたバルディヤーという対立者の問題を抱えている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_DARIUS_STORY</zType>
+		<en-US>    I am Darius, but you could be forgiven for not knowing me until recently. My father, Hystaspes, was a satrap, not a ruler. I was a soldier in Egypt but did nothing of great note there.
+		
+    Persian history took a change when my cousin Cambyses became King and went mad. He killed Bardiya, his brother, but the people of Persia knew not of it. An usurper by the name of Gaumata arrived at the court and pretended to be the murdered Bardiya, going out among the people and asking them to accept him as King. Cambyses died before he could return from an expedition to deal with the usurper.
+		
+    I asked Ahura Mazda for help, and Ahura Mazda bore me aid. I struck down Gaumata and those who were his foremost allies. I seized the kingdom. I became King.</en-US>
+		<ja>      私はダリウス。最近までならば、私のことを知らなかったとしても構わない。私の父、ヒスタスペスは統治者ではなく、州を治める総督「サトラップ」だった。私はエジプトで兵士をしていた。だが、大したことは何もしていない。
+		
+	ペルシャの歴史は、私の従兄弟であるカンビュセスが王となり、狂気に陥ったことで一変した。弟のバルディアを殺害した彼。だが、ペルシアの人々がその事実を知ることはなかった。そこに、ガウマタと名乗る者が宮廷に現れる。彼は王位を簒奪すべく殺害されたバルディアになりすまし、人々の間に出向いて、自らを王として認めるよう呼びかけた。カンビュセスは簒奪者に対処するため、遠征から帰還するその前に亡くなった。
+		
+	私はアフラ・マズダに助けを求めた。私はガウマタと、彼の最大の味方だった者たちを打ちのめした。私は王国を手に入れた。私は王になった。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_DARIUS_LEADER</zType>
+		<en-US>Darius</en-US>
+		<ja>ダレイオス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_DARIUS_LEADER_HISTORICAL</zType>
+		<en-US>Darayauš (𐎭𐎠𐎼𐎹𐎺𐎢𐏁)</en-US>
+		<ja>ダーラヤワウ (𐎭𐎠𐎼𐎹𐎺𐎢𐏁)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DARIUS_LEADER</zType>
+		<en-US>Government Reformer</en-US>
+		<ja>行政改革者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DARIUS_LEADER</zType>
+		<en-US>Government Reformer</en-US>
+		<ja>行政改革者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DARIUS_LEADER</zType>
+		<en-US>Government Reformer</en-US>
+		<ja>行政改革者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BARDIYA_GAUMATA</zType>
+		<en-US>Deposed King</en-US>
+		<ja>退位した王</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BOOST_LEGITIMACY_BARDIYA</zType>
+		<en-US>Boost Legitimacy</en-US>
+		<ja>正統性を高めよ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BOOST_LEGITIMACY_BARDIYA_CHARACTER</zType>
+		<en-US>Boost Legitimacy via</en-US>
+		<ja>正統性を高めよ：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPAWN_MILITIA_STATEIRA</zType>
+		<en-US>Press Into Service</en-US>
+		<ja>徴集</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPAWN_MILITIA_STATEIRA_CHARACTER</zType>
+		<en-US>Press Into Service via</en-US>
+		<ja>徴集：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPAWN_MILITIA_STATEIRA</zType>
+		<en-US>Militia Pressed</en-US>
+		<ja>派遣された民兵</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BOOST_LEGITIMACY_BARDIYA</zType>
+		<en-US>Legitimacy Boosted</en-US>
+		<ja>正統性が高まった：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BOOST_LEGITIMACY_BARDIYA_DESCRIPTION</zType>
+		<en-US>You have spread well-crafted stories to strengthen your claim to the throne.</en-US>
+		<ja>私こそ王位を引き継ぐのに相応しい…そう思わせるために、よく練られたストーリーを広めてきた。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_MISSIONRESULT_BOOST_LEGITIMACY_BARDIYA</zType>
+		<en-US>Boosted Own Legitimacy</en-US>
+		<ja>自らの正統性を高めた</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPAWN_MILITIA_STATEIRA_DESCRIPTION</zType>
+		<en-US>You have pressed citizens into service to the military.</en-US>
+		<ja>あなたは市民に軍への奉仕を強要した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SHAPUR_DESCRIPTION</zType>
+		<en-US>Shapur is an aggressive conqueror whose link(UNITTRAIT_MELEE) and link(UNITTRAIT_SHIP) Units start with link(PROMOTION_STRIKE1). He gets access to a unique link(PROJECT_FOUND_RELIGION) Project and, if link(RELIGION_ZOROASTRIANISM) becomes the State Religion, Shapur will receive favorable events from building a positive relationship with the Religion.</en-US>
+		<ja>攻撃的な征服者、シャープール。彼の持つlink(UNITTRAIT_MELEE)、link(UNITTRAIT_SHIP)ユニットは生産直後よりlink(PROMOTION_STRIKE1)の昇進を持つ。彼はlink(PROJECT_FOUND_RELIGION)プロジェクトを実行でき、link(RELIGION_ZOROASTRIANISM)が国教となった場合、この宗教と良好な関係を築くことにより有益なイベントが発生する。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_SHAPUR_STORY</zType>
+		<en-US>    I am Shapur, son of Ardashir, who was first King of Persis and became King of Kings of the Iranians. I succeeded him as the second King of the Sasanian dynasty after proving myself capable during my father's military campaigns.
+		
+    As King, I asserted dominance over the Kushans in the east. I founded the beautiful city of Nishapur. In the west, I advanced into what was once Assyrian land. When the Romans attacked us, the war was initially tough - but I defeated the Romans as well. Their emperor, little more than a child, died, and in his stead a Roman from Arabia negotiated peace, paying us a massive compensation.
+		
+    Above all, I am a faithful follower of Ahura Mazda. May his wisdom bless all of Persia.</en-US>
+		<ja>      私はシャープール。アルダシールの子であり、ペルシスの初代王、そしてイラン人の諸王の王となった者だ。父の軍事遠征で実力を証明した後、私は父の跡を継いでサーサーン朝の第2代王として即位した。
+		
+	王として、私は東方のクシャーナ朝に対して支配権を主張した。私は美しき都市「ニーシャープール」を築いた。西側では、かつてアッシリアがあった土地にまで進出した。ローマ軍が攻めてきた時、序盤はかなり厳しい戦いとなった…だが、結果的に私は打ち勝った。まだ子供だったローマ皇帝も、その戦争で敗死する。代わりにアラビアから来たローマ人が和平交渉を行い、我々に多額の補償金を支払った。
+		
+	とりわけ、私はアフラ・マズダの忠実な信者である。神の叡智が、ペルシャ全土に祝福をもたらさんことを。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_SHAPUR_LEADER</zType>
+		<en-US>Shapur</en-US>
+		<ja>シャープール</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_SHAPUR_LEADER_HISTORICAL</zType>
+		<en-US>Šābuhr (𐭱𐭧𐭯𐭥𐭧𐭥𐭩)</en-US>
+		<ja>シャープフル (𐭱𐭧𐭯𐭥𐭧𐭥𐭩)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SHAPUR_LEADER</zType>
+		<en-US>Devoted Conqueror</en-US>
+		<ja>敬虔な征服者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SHAPUR_LEADER</zType>
+		<en-US>Devoted Conqueror</en-US>
+		<ja>敬虔な征服者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SHAPUR_LEADER</zType>
+		<en-US>Devoted Conqueror</en-US>
+		<ja>敬虔な征服者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_STATEIRA_DESCRIPTION</zType>
+		<en-US>Stateira is a queen with ambitious building projects. She can press citizens into service to obtain additional link(UNIT_MILITIA,2). Stateira and her husband have many enemies within the court, so the queen will have to deal with internal power struggles and threats from her mother-in-law and brother-in-law.</en-US>
+		<ja>野心的な建設計画を練る女王、スタテイラ。彼女は民を動員して、link(UNIT_WORKER,2)を追加で確保することができる。スタテイラとその夫は周囲からそれほど好かれていない。そのため、内部の権力闘争や義母・義弟が仕掛けてくる策略に対処しなければならない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_STATEIRA_STORY</zType>
+		<en-US>    I am Stateira, born to a noble family of influence. King Darius, the second by that name, had his daughter marry my brother. To grow his power more, Darius had his son, Artaxerxes, marry me.
+		
+    Artaxerxes was supposed to succeed Darius as King, but he did so in name only. Artaxerxes is a weak man, easily influenced by me but only when he is not doing the bidding of his mother, Parysatis. It is Parysatis who holds too much power. She wished for Cyrus, her other son, to succeed Darius. In rage, she murdered all my siblings. She humiliates Artaxerxes every chance she gets, and her hate for me is as deep as Faraakh Kart.
+		
+    The people of Persia love me. I often venture out into the streets, where they greet me with kindness and affection. If I do not fall victim to my mother-in-law's plots, I will build the most grand and just country the world has seen.</en-US>
+		<ja>      私はスタテイラ、権勢誇る貴族の家に生まれた。2代目ダリウス王は、自身の娘を私の兄弟と結婚させた。更なる権力拡大を図ったダリウスは、息子のアルタクセルクセスを私と結婚させた。
+		
+	アルタクセルクセスはダリウスの跡を継いで王になるはずだったが、名目上、そうなっただけであった。アルタクセルクセスは、私に影響されやすい弱気な男だ──ただ、母パリサティスの命令に従って動いているときを除いて。実質、多くの権力を握っているのはパリサティスだ。彼女は、もう一人の息子キュロスにダリウスの跡を継がせようとしていた。彼女は怒りに任せて、私の兄弟姉妹を皆殺しにした。ことあるごとに彼女はアルタクセルクセスを辱め、ファラーカ・カルトのように深い憎しみを私に対して抱いていた。
+		
+	ペルシャの人々は、私を愛している。よく通りに出ていた私を、彼らは優しく親切に出迎えてくれる。義母の策略の犠牲にならなければ、私は世界で誰も見たこともないような壮大で公平な国を築く。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_PARYSATIS_STATEIRA</zType>
+		<en-US>Parysatis</en-US>
+		<ja>パリュサティス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_ARTAXERXES_II_HISTORICAL</zType>
+		<en-US>Artaxšacā (𐎠𐎼𐎫𐎧𐏁𐏂)</en-US>
+		<ja>アルタクシャサ (𐎠𐎼𐎫𐎧𐏁𐏂)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_STATEIRA_LEADER_HISTORICAL</zType>
+		<en-US>Greek Στάτειρα, original spelling uncertain</en-US>
+		<ja>ギリシア語：Στάτειρα (原語のつづりは不明)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_CYRUS_THE_YOUNGER</zType>
+		<en-US>Cyrus</en-US>
+		<ja>キュロス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_CYRUS_THE_YOUNGER_HISTORICAL</zType>
+		<en-US>Kūruš (𐎤𐎢𐎽𐎢𐏁)</en-US>
+		<ja>クルシュ (𐎤𐎢𐎽𐎢𐏁)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_XENOPHON</zType>
+		<en-US>Xenophon</en-US>
+		<ja>クセノポン</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_OCHUS</zType>
+		<en-US>Ochus</en-US>
+		<ja>オコス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_OCHUS_HISTORICAL</zType>
+		<en-US>Umakuš (𒌑𒈠𒋢)</en-US>
+		<ja>ウマクス (𒌑𒈠𒋢)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DYNASTY_STATEIRA</zType>
+		<en-US>Robust Construction</en-US>
+		<ja>頑丈な作り</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPAWN_WORKER_STATEIRA</zType>
+		<en-US>Worker Pressed</en-US>
+		<ja>労働者：</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_CYAXARES_DESCRIPTION</zType>
+		<en-US>Huvaxštra, or Cyaxares, is a military leader who achieves victory through a higher quality of units. He is especially capable at fighting tribal opponents.</en-US>
+		<ja>ハヴァフシュトラ（キュアクサレス）は、練度の高い部隊を率いて勝利を収める軍事指導者だ。特に部族間での戦いに長けている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_CYAXARES_STORY</zType>
+		<en-US>    I am Cyaxares. Liberator, uniter, conqueror, mediator. King of the Medes.
+		
+    When I became King, my kingdom was a lie. The Scythians, with their king Madyes, ruled over us, and over many neighboring peoples. But great powers fall. The Assyrian Empire declined rapidly and lost control over Babylon after a revolt. As the Babylonians revolted, I decided the time had come for Scythian rule to end, too.
+		
+	I invited all Scythian rulers to a lavish banquet. They ate and drank more than they ever had. And when they could drink no more, I killed them all. I freed my people and then I expanded our lands to the east. I conquered Parthia and even sacked Assur, the once indomitable Assyrian capital.
+		
+	My Median Empire will span from Bactria to Urartu, and my people will never be slaves again.</en-US>
+		<ja>      私はキュアクサレスだ。解放者、統一者、征服者、調停者。メディアの王。
+		
+	私が王になった時の王国は、「嘘そのもの」だった。スキタイ人はマデュエス王を擁し、我々と、さらに多くの民族を支配していた。だが、大国は滅びる。アッシリア帝国は急速に衰退し、反乱が起きた後にバビロンの支配権を失う。そこで、バビロニア軍が反乱を起こす。私はその時、スキタイによる支配もこれで終わりだと考えた。
+		
+	私はスキタイを支配する全ての者たちを、豪華な宴会へと招待した。かつてないほど多くの食事と飲み物を楽しむ彼ら。そして、もう飲めなくなった時点で、彼らを皆殺しにした。私は民衆を解放し、東へと領土を広げた。パルティアを征服し、かつて誰も攻略できなかったアッシリアの首都アッシュルを略奪した。
+		
+	メディア王国は、バクトリアからウラルトゥにまで拡がった。我が民が奴隷になることは二度とない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_CYAXARES</zType>
+		<en-US>Cyaxares</en-US>
+		<ja>キュアクサレス</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NAME_CYAXARES_HISTORICAL</zType>
+		<en-US>Huvaxštra (𐎢𐎺𐎧𐏁𐎫𐎼)</en-US>
+		<ja>ウワフシュトラ (𐎢𐎺𐎧𐏁𐎫𐎼)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CYAXARES_LEADER</zType>
+		<en-US>Median Expansionist</en-US>
+		<ja>メディアの拡大主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_CYAXARES_LEADER</zType>
+		<en-US>Median Expansionist</en-US>
+		<ja>メディアの拡大主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CYAXARES_GOVERNOR</zType>
+		<en-US>King of the Medes</en-US>
+		<ja>メディア王</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_CYAXARES_LEADER</zType>
+		<en-US>Median Expansionist</en-US>
+		<ja>メディアの拡大主義者</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_CYAXARES_GENERAL</zType>
+		<en-US>King of the Medes</en-US>
+		<ja>メディア王</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELUCTANT_COURTIER</zType>
+		<en-US>Reluctant Courtier</en-US>
+		<ja>消極的な廷臣</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MERNEITH_STORY</zType>
+		<en-US>    I am Merneith, "Beloved by Neith". I am the Great-Granddaughter of Narmer, the first Pharaoh and founder of the First Dynasty of Egypt.
+
+    At a young age my father, Pharaoh Djer, taught me military strategy. He allowed me to travel with him on military expeditions, and many a night we spent in his tent poring over battle plans and maps. He taught me how important the Nile is in military strategy and how to use trade routes to my benefit. As such, I know how to extract a tactical advantage from our connected networks.
+
+    My husband, Pharaoh Djet, has recently passed to Sekhet A'Aru. Our son Den is just a child, so I have taken the crown of Egypt and declared myself Pharaoh. It is my goal to expand Egypt, using all the tricks my father taught me. Egypt will be the greatest power in the World.</en-US>
+		<ja>      私はメルネイト──これには「ネイトに愛される」という意味がある。エジプト第1王朝の創始者であり、初代ファラオ・ナルメルの曾孫娘だ。
+
+	幼き頃、父のファラオ・ジェルから軍事戦略を教わった。軍事遠征への同行も許され、幾夜もの間、父のテントで戦闘計画や地図に目を通した。私は彼から、軍事戦略におけるナイル川の重要性と、どのようにして貿易路から利益を上げるかを学んだ。そのため、相互に結びついた要素から戦術的優位性を引き出す方法を心得ている。
+
+	夫のファラオ・ジェトは最近、セケト・アアルへと移った。息子のデンがまだ子供であったため、私が王冠を戴き、ファラオになることを宣言した。父から教わったあらゆる術を駆使して、エジプトを拡げることが私の目標だ。エジプトは世界で最も偉大な国となる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_KHUFU_STORY</zType>
+		<en-US>    I am Khufu of the Fourth Dynasty of Egypt. I became Pharaoh at the death of my father Sneferu.
+
+    I took a great interest in minerals and stone as a child, spending many days picking through the quarries of my father. My father would talk with his Vizier constantly about the many monuments he built during his reign, gradually perfecting pyramid design. I would hover nearby and listen intently, eager to learn all there was about monument building. I learned from the best, and my goal is to fill Egypt with my own monuments.
+
+    I have a plan for the biggest, and greatest, monument of all. One that will be a Wonder of the World, lasting for five thousand years.</en-US>
+		<ja>      エジプト第4王朝のクフだ。私は、父スネフェルの死を受け、ファラオとなった。
+
+	幼き頃、鉱物や石に大変興味を持ち、父の採石場で何日も採掘に明け暮れていた。父は治世中、自身が建てた多くの建造物について大臣と絶えず議論を交わし、徐々にピラミッドの設計を完成させていった。建設に関するあらゆることを学ぼうと、私はその近くをうろつき、ひたすら彼らの話を聞いていた。これ以上無いほど、最高の者たちから私は学んだ。目指すのは、エジプトを我が建造物で埋め尽くすことだ。
+
+	私には、これまでで最も大きく、最も壮大な建造物の設計計画があった。それは五千年続く、世界の驚異となるものである。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_MENTUHOTEP_II_STORY</zType>
+		<en-US>    I am Mentuhotep of the Eleventh Dynasty, second of my name. I succeeded in ending a time of chaos by reuniting the lands of Egypt under my rule.
+
+    I recognized that the Old Kingdom collapsed due to the decentralization of authority, giving too much power to the Governors. To avoid a repeat of that collapse I have centralized complete control of Egypt to Pharaoh. This gives me more power than any of my predecessors, and I am able to do more than any Pharaoh before me.
+
+    But with great power comes great responsibility. My rise has been fast, but my fall could be faster. I must use this power to benefit Egypt, not to destroy her.</en-US>
+		<ja>      私は第11王朝のメンチュヘテプだ。我が統治のもと、分裂していたエジプトの地は再統一され、混沌の時代は終わりを迎えた。
+
+	古王国が崩壊したのは、権力が分散し、総督たちに過度な権力が与えられたためだと私は認識している。そのような崩壊を避けるために、私はエジプトの全権限をファラオへ集中させた。このようにして、私は先代の誰よりも大きな権力を手に入れ、どのファラオよりも多くのことができるようになった。
+
+	しかし、大いなる力には大いなる責任が伴う。出世は早かった。だが、没落はもっと早いかもしれない。エジプトを滅ぼすためではなく、エジプトのためにこの力を使わなければならない。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_AKHENATEN_STORY</zType>
+		<en-US>    My name is Akhenaten, and I believe the Aten is the One True God. I was born Amenhotep but changed my name after I took the dual crown.
+
+    My grandfather Pharaoh Thutmose IV was the first to study the Aten. Through his research my grandfather discovered that Ra had usurped the Aten's position, and that it was in fact the Aten who was the true Sun God, not Ra. My own research has yielded an amazing discovery. Texts from our ancient history lead me to believe that not only is the Aten the greatest God of all and Creator of our world and the Duat, but that the Priests of Amun in Waset deliberately hid these facts to enable their own growing wealth and power.
+
+    I am Pharaoh Akhenaten, "Effective for the Aten". It is time for religious reforms, and to make the Priests of Amun pay for their deceit of my people!</en-US>
+		<ja>      私の名はアクエンアテン、アテンこそが唯一神であると信じている。出生時の名前は「アメンホテプ」だったが、二重冠を戴いた後に、自ら名を変えた。
+
+	私の祖父、ファラオ・トトメス4世こそが、アテンを研究した最初の人物であった。祖父は研究を通じて、ラーがアテンの地位を不当に奪ったこと、そしてアテンこそが真の太陽神であることを明らかにした。私の行った研究から、驚くべき発見があった。古代史にあった文から、アテンこそが最も偉大なる神であり、この世界とドゥアトの創造主であることが分かったのだ。ワセトのアムン神官たちが、自分たちの富と権力を増やすために、これらの事実を意図的に隠したのだろう。
+
+	私はファラオ・アクエンアテン、「アテン神に有益なる者」だ。今こそ、宗教改革を行う時だ。アムンの神官どもに、我が民を欺いた罪を償わせてやる！</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DYNASTY_RAMESSES_II_STORY</zType>
+		<en-US>    I am Ramesses.
+
+    You may know of me as Userma'atre Setepenre, or the Great Ancestor, or Ozymandias, or simply as Ramesses II the Great. I am the leader of the chariot hordes of Egypt, the builder of monuments, the ever-lasting benevolence of Ra. I defeated the Sherden pirates off the Nile Delta, the Hatti at Qadesh, the Nubians to the south, and the Libyans to our west. I built a new capital in my birthlands at Pi-Ramesses, the glorious Ramesseum temple complex in honor of Ra at Waset, and Abu Simbel in Nubia as a symbol of my conquests.
+
+    My rule will become one of the greatest in all of Egyptian history. I will be remembered for eternity, for both my military and domestic conquests.</en-US>
+		<ja>      余がラムセスだ。
+
+	ウセルマアトラー・セテプエンラー、偉大な祖先、オジマンディアス、あるいは単に「ラムセス2世」という名で知っているかもしれないな。エジプト、チャリオット部隊の指導者であり、記念碑の建造者であり、太陽神ラーの永遠なる慈悲を体現する者だ。余はナイル川デルタのシェルデン海賊、カデシュのハッティ、南方のヌビア、そして西方のリビアを撃破した。余は故郷のピ・ラムセスに新たな都を築き、ワセトにはラーを称える壮麗な葬祭殿「ラムセウム」、ヌビアには征服の象徴として「アブ・シンベル神殿」を建設した。
+
+	余の治世は、エジプト史上最も偉大なものの一つとなるであろう。余の名は永遠に記憶されるだろう、征服と内政、その両方でな。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PSCHENT_DOUBLE_CROWN</zType>
+		<en-US>Pschent Double Crown</en-US>
+		<ja>二重冠「プスケント」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PSCHENT_DOUBLE_CROWN_F</zType>
+		<en-US>Pschent Double Crown</en-US>
+		<ja>二重冠「プスケント」</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_CARTHAGE_GIFTS</zType>
+		<en-US>Sent gifts to Carthage</en-US>
+		<ja>カルタゴへの贈り物</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_CARTHAGE_DESTROY</zType>
+		<en-US>Vowed to destroy Carthage</en-US>
+		<ja>カルタゴ滅亡を誓う</ja>
+	</Entry>
+</Root>

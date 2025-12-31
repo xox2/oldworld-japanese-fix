@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_BONUS_MISSIONRESULT_ASSASSINATE_FAIL_NOT_EXPOSED</zType>
+		<en-US>Assassinate (Fail)</en-US>
+		<ja>暗殺（失敗）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_LEADER_GENERAL</zType>
+		<en-US>Leader General</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_LEADER_GENERAL_F</zType>
+		<en-US>Leader General</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_RELIGION_FOUNDED_TIE_LOST</zType>
+		<en-US>We will seek an understanding with the adherents of {RELIGION-1}.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_TRUCE_OFFER_ALLIANCE_NO_WAR_YES</zType>
+		<en-US>We will certainly assist you in making sure {PLAYER-3} understands our deal correctly.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_TRUCE_OFFER_ALLIANCE_NO_WAR_NO</zType>
+		<en-US>Begone! See if your allies remember you when we burn your fortresses!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_WANDERERS_OPTION_PAY</zType>
+		<en-US>Pay them off, if it will rid us of their presence.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_WANDERERS_OPTION_SLUMS</zType>
+		<en-US>Allow the defeated tribesfolk to settle within our borders.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_WANDERERS_OPTION_SLUMS_HELP</zType>
+		<en-US>We are at least partially responsible, I suppose.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_WANDERERS_OPTION_SEND_AWAY</zType>
+		<en-US>Send the {TRIBE-0} on their way.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_WANDERERS_OPTION_SEND_AWAY_HELP</zType>
+		<en-US>Let them be someone else's problem.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_WANDERERS_OPTION_COURTIER</zType>
+		<en-US>Provide them with busywork? I don’t know!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_DOG_FEED</zType>
+		<en-US>Feed the dog, and find someone to look after it.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_DOG_ADOPT</zType>
+		<en-US>I will take the dog as my own.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_DOG_KILL</zType>
+		<en-US>Put the miserable creature out of its misery.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_FOUNDED_TIE_LOST</zType>
+		<en-US>In a reminder that the threads of fate sometimes interweave in surprising ways, a newly founded religious movement called {RELIGION-1} is now centered in the {PLAYER-2,1} city of {CITY-0}. It cannot escape notice that {RELIGION-1} bears similarity to practices that have recently developed within our own nation.
+		
+It is {CITY-0} that will be known as the sacred center of {RELIGION-1} but these similarities give us every reason to hope for good relations with the leaders of this newly established religion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_TRUCE_OFFER_ALLIANCE_NO_WAR</zType>
+		<en-US>A {TRIBE-0,1} envoy delivers their response personally: "Our people would be happy to formalize a link(DIPLOMACY_TRUCE) with your nation. We are however bound by alliance to {PLAYER-3}. They may not be your enemy at the present but there are surely powerful people in {PLAYER-3} who would not look kindly upon us striking a deal with you."
+		
+It is not difficult to surmise that the envoy is asking for some money to smooth out their likely disagreement with their ally. And, judging by the envoy's exquisite clothing, some coins would go towards jewel stones as well.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_WANDERERS</zType>
+		<en-US>With nothing left but the weight of defeat and the clothes on their backs, the few remaining {TRIBE-0} wander the land. Their numbers dwindling, the desperate survivors find their way to the gates of {CITY-2}, seeking any aid that can be provided.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_DOG</zType>
+		<en-US>You visit the site of the {TRIBE-0}’ last stand. As you walk among the ruins and the bodies of the fallen, you notice a ragged hound, head down and tail between its legs, slinking after you from a distance, stopping when you stop, starting when you start.
+
+The dog appears hungry but otherwise healthy. How shall we deal with the stray?</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ZOROASTRIANISM_FOUNDED_TIE_LOST</zType>
+		<en-US>{RELIGION-1,1} Ideas</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_WANDERERS_TITLE</zType>
+		<en-US>The Wanderers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_DOG_TITLE</zType>
+		<en-US>Last of the Pack</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_RIGHTFUL_HEIR_POPUP</zType>
+		<en-US>News arrives from {0_player} that {1_oldLeader} has relinquished the throne to the rightful heir, {2_newLeader}.{true_3: (Their Opinion of you is now {3_opinion}.)}</en-US>
+		<ja>{0_player}から、{1_oldLeader}が退位したとの知らせが届きました。{2_newLeader}が王座に就き、新たな統治者となりました。{true_3:（彼らのあなたに対する評価は、{3_opinion}になりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_REGENT_POPUP</zType>
+		<en-US>News arrives from {0_player} that {2_newLeader} has assumed the throne, serving as regent until the rightful heir, {1_oldLeader}, comes of age.{true_3: (Their Opinion of you is now {3_opinion}.)}</en-US>
+		<ja>{0_player}から、{1_oldLeader}が退位したとの知らせが届きました。{2_newLeader}が王座に就き、新たな統治者となりました。{true_3:（彼らのあなたに対する評価は、{3_opinion}になりました）}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_EVENT_CITY</zType>
+		<en-US>{0_event} in {1_city}.</en-US>
+		<ja>{1_city}にて{0_event}が発生。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DISCOVERED_TECH_LOG_DATA</zType>
+		<en-US>{0_tech} discovered</en-US>
+		<ja>{0_tech}を発見しました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAIL_GOAL_LOG_DATA</zType>
+		<en-US>Failed a Goal: {0_goal}</en-US>
+		<ja>あなたの目的は失敗に終わりました：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAIL_AMBITION_LOG_DATA</zType>
+		<en-US>Failed link(CONCEPT_AMBITION,1): {0_demand}</en-US>
+		<ja>あなたはlink(CONCEPT_AMBITION)の達成に失敗しました：{0_demand}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_FOUNDED_LOG_DATA</zType>
+		<en-US>{0_religion} founded in {1_city}</en-US>
+		<ja>{1_city}にて{0_religion}が設立されました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MONEY_LOG_DATA</zType>
+		<en-US>link(CONCEPT_CARAVAN_MISSION) with {0_player}: {1_money}</en-US>
+		<ja>{0_player}とのlink(CONCEPT_CARAVAN_MISSION)が完了：{1_money}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY_LOG_DATA</zType>
+		<en-US>link(TRIBE_REBELS,1) {0_unit} near {1_city}</en-US>
+		<ja>{1_city}近郊にて、link(TRIBE_REBELS)が{0_unit}を結成させました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_GOAL_LOG_DATA</zType>
+		<en-US>New Goal: {0_goal}</en-US>
+		<ja>あなたは目的を開始させました：{0}</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_AMBITION_LOG_DATA</zType>
+		<en-US>New link(CONCEPT_AMBITION): {0_ambition}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_MET_TRIBE_LOG_DATA</zType>
+		<en-US>Met the {0_tribe}</en-US>
+		<ja>あなたは{0_tribe}に遭遇しました</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_REVEALED_TURNS</zType>
+		<en-US>{0_unit} visible in {1_turns} {2_turnScale}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_REVEALED</zType>
+		<en-US>{0_unit} no longer hidden</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_ELIMINATED_POPUP</zType>
+		<en-US>The {0_tribe} have been eliminated!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_ENLIST</zType>
+		<en-US>Enlist</en-US>
+		<ja>入隊</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_NO_VEGETATION</zType>
+		<en-US>No Vegetation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IMMUNE</zType>
+		<en-US>Immune to {0_effectList}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_COOLDOWN_ALLOWED</zType>
+		<en-US>Can Launch Offensive even when on Attack Cooldown</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_PLAYER_OPINION_PLAY_TO_WIN_ALLIANCE</zType>
+		<en-US>{0_opinion}: Your alliance is too powerful</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LUXURY_GAIN</zType>
+		<en-US>Reclaim {0_luxury}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LUXURY_LOSE</zType>
+		<en-US>Return {0_luxury}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_FROM_THEOLOGY</zType>
+		<en-US>From {0_theology}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_TRADE_VALUE_MODIFIER</zType>
+		<en-US>{0_value} National Trade Value</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_POPUP_ABANDON_AMBITION_PROMPT_LEARN_TO_PLAY</zType>
+		<en-US>You are not able to abandon ambitions in the Learn To Play tutorials.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_CANCELLED_TRADE</zType>
+		<en-US>Cancelled Trade: {0} per {1}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_YIELD_CANCELLED_TRIBUTE</zType>
+		<en-US>Cancelled Tribute: {0} per {1}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PING_IMPROVEMENT_SPECIFIC_LOG</zType>
+		<en-US>Planning {0_improvement}</en-US>
+		<ja>ここで、これを建設物したい。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TARGET_OPEN</zType>
+		<en-US>Open</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TARGET_LUSH_TREES</zType>
+		<en-US>Lush with Trees</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_TWO_TEAMS</zType>
+		<en-US>Requires two teams.</en-US>
+		<ja>偶数のチームが必要。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_NOT_SUPPORTED</zType>
+		<en-US>Not supported by {0_mapScript}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_NOT_COMPATIBLE</zType>
+		<en-US>Not compatible with {0_option}</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYRELIGION_FOUNDED_TIE_LOST</zType>
+		<en-US>Were close to becoming the founders</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYTRIBE_WANDERERS_SEND_AWAY</zType>
+		<en-US>Sent defeated tribesfolk to our lands</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_NOT_EXPOSED</zType>
+		<en-US>Target Survives</en-US>
+		<ja>ターゲットは生き残り</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_NOT_EXPOSED_DESCRIPTION</zType>
+		<en-US>Your assassins have failed to kill {CHARACTER-TARGET}</en-US>
+		<ja>あなたが手配した暗殺者は{CHARACTER-TARGET}を殺すことに失敗した。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_STAT_CONTROL</zType>
+		<en-US>Changed Supremacy</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_TRIBE_TRUCE_OR_WAR</zType>
+		<en-US>link(DIPLOMACY_TRUCE) or link(DIPLOMACY_WAR)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_RELIGION_FOUNDED_TIE_LOST</zType>
+		<en-US>[Failed to Found {TRIGGER-1}]</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_RURAL_IMPROVEMENTS</zType>
+		<en-US>Rural Improvements</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_MAP_TEXT_URBAN_IMPROVEMENTS</zType>
+		<en-US>Urban Improvements</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_BIDS_FOR_FAMILY_SUPREMACY</zType>
+		<en-US>[Family Control: The {TRIGGER-0} Rise]</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_STORY_X_CUT</zType>
+		<en-US>[{TRIGGER-DATA} Cut]</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CITY_CAPTURE_PAUSED</zType>
+		<en-US>(PAUSED)</en-US>
+		<ja>（中断）</ja>
+	</Entry>
+	<!-- text-unit-hittite -->
+	<!-- text-unit -->
+	<!-- text-unitTrait -->
+	<!-- text-wonders-dynasties-events -->
+	<!-- text-wonders-dynasties-infos -->
+	<!-- text-wonders-dynasties-misc -->
+	<!-- text-wonders-dynasties-unitTrait -->
+	<!-- text-wonders-dynasties-wd-add -->
+	<!-- text-yield -->
+</Root>

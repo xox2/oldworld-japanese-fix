@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPORT_HORSE</zType>
+		<en-US>Horse Supply</en-US>
+		<ja>輸入馬</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPORT_ELEPHANT</zType>
+		<en-US>Elephant Supply</en-US>
+		<ja>輸入象</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPORT_CAMEL</zType>
+		<en-US>Camel Supply</en-US>
+		<ja>輸入ラクダ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT_NETWORK</zType>
+		<en-US>Once you have a link(COUNCIL_SPYMASTER), link(UNIT_SCOUT,1) can create an Agent Network in a foreign city. The link(UNIT_SCOUT) will remain unavailable for int(AGENT_NETWORK_TURNS) turns.
+		
+A character can then be sent to the city to serve as an link(CONCEPT_AGENT), gaining yields, visibility of the city's territory, and access to missions like link(MISSION_TREACHERY).</en-US>
+		<ja>link(COUNCIL_SPYMASTER)がいれば、link(UNIT_SCOUT,1)は外国都市に「諜報網」を作成することができる。link(UNIT_SCOUT)はその後int(AGENT_NETWORK_TURNS)ターンの間、利用できなくなる。このターン数はダメージを受けているとさらに増加する。
+		
+諜報網の作成後はキャラクターをlink(CONCEPT_AGENT)として都市に派遣できるようになり、これを実行すると産出と都市の視界を獲得し、さらにlink(MISSION_TREACHERY)のようなミッションが実行可能になる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY</zType>
+		<en-US>Contextual Map Tacks</en-US>
+		<ja>労働者：地図鋲のみ表示</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PLAYEROPTION_IMPROVEMENT_PINGS_WORKER_ONLY_DESC</zType>
+		<en-US>Improvement Reminder Pings appear only when Units are selected that can build Improvements or found Cities.</en-US>
+		<ja>改修リマインダーの通知は、建設可能なユニットが選択された場合にのみ表示される。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_HIGH</zType>
+		<en-US>Maximum</en-US>
+		<ja>制限なし</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_MEDIUM</zType>
+		<en-US>9 per Player</en-US>
+		<ja>制限あり</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_LOW</zType>
+		<en-US>3 per Player</en-US>
+		<ja>居城</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_NUMBER_SINGLE</zType>
+		<en-US>1 per Player</en-US>
+		<ja>首都</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY</zType>
+		<en-US>City Site Spacing</en-US>
+		<ja>街の敷地密度</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_HIGH</zType>
+		<en-US>Tight</en-US>
+		<ja>高</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CITY_SITE_DENSITY_LOW</zType>
+		<en-US>Sparse</en-US>
+		<ja>低</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_NEW_DESCRIPTION</zType>
+		<en-US>Suitable for a first experience. You begin with a healthy stockpile of resources and will only end up at war if you want to. AI Nations are significantly weakened.</en-US>
+		<ja>初めてのプレイに向いている。戦争になるのは、あなたがそれを望んだときだけだ。AIの力は大幅に弱体化している。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_ABLE_DESCRIPTION</zType>
+		<en-US>Suitable for an easy experience. You begin with a healthy stockpile of resources and will only end up at war if you want to. AI Nations are somewhat weakened.</en-US>
+		<ja>簡単なゲームを遊びたい人に適しています。あなたが戦争したい場合にのみ戦争が起き、AIも意図的に弱めています。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_JUST_DESCRIPTION</zType>
+		<en-US>A good choice for learning the game mechanics. You start in a better position than AI Nations, who will rarely attack and whose Units are slightly weakened.</en-US>
+		<ja>ゲームの仕組みを学ぶ上で、ちょうど良い難易度です。AIよりも有利な場所で開始することができ、AIは滅多に攻撃を仕掛けてきません。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_GOOD_DESCRIPTION</zType>
+		<en-US>AI Nations start with some development, according to the game's premise that you are a new nation in a world of established nations. AI Nations at this difficulty are inclined to be peaceful but may eventually declare war.</en-US>
+		<ja>このゲームのノーマル難易度です。「あなたは古代世界の数ある発展国の中の新興国」というゲームのテーマ通り、AIが操る国家はある程度発展した状態で開始されます。しかし、自国の経済力はAIのものと変わらず、まだまだ平和的と言えるでしょう。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_STRONG_DESCRIPTION</zType>
+		<en-US>This is the baseline difficulty of the game and the first difficulty level at which AI Nations are not restricted in warfare. They will declare war more freely and will use link(CONCEPT_MARCH). Tribal raids also become more common, and Cities near the map edges are no longer safe from distant tribal raids. Your baseline economy is the same as that of AI nations.</en-US>
+		<ja>AIが戦争面で制限されない初段階の難易度です。AIはより自由に宣戦布告を行い、link(CONCEPT_MARCH)を使用してきます。また、部族襲撃もより頻繁に発生します。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_NOBLE_DESCRIPTION</zType>
+		<en-US>Harder difficulties begin here. AI Nations begin the game with more Cities and with a slightly stronger economy.</en-US>
+		<ja>ここからが難しい難易度となります。既存のAI国家はより発展した状態で始まり、マップ端に近い都市でも部族襲撃に狙われてしまいます。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_GLORIOUS_DESCRIPTION</zType>
+		<en-US>AI Nations are more aggressive than on lower difficulties and can attack earlier. They also gain a small advantage to Research and economy. Tribal Units get an additional Fatigue point, making raiders considerably more dangerous than at lower difficulties.</en-US>
+		<ja>AIがこれまでの難易度より攻撃的になり、より早い段階で攻撃を仕掛けてきます。部族ユニットは追加の疲弊ポイントを獲得し、襲撃隊が今まで以上に危険な存在となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_MAGNIFICENT_DESCRIPTION</zType>
+		<en-US>A very challenging difficulty in which your economy is weaker than that of AI Nations, who begin the game with multiple Cities and researched Technologies. Avoiding early war is critical, as AI Nations start with enough power to easily crush you.</en-US>
+		<ja>自国の経済力がより弱く、AI国家は強大に発展した状態で開始される、非常に難しい難易度となります。AI国家は、あなたの国を壊滅させるのに十分な強さで開始され、序盤での戦争を避けていくことが重要となります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIFFICULTYMODE_GREAT_DESCRIPTION</zType>
+		<en-US>The highest difficulty. AI Nations get a moderate economy bonus in addition to being well established at the game's start. They will not wait long before demanding tribute or attacking you outright. You will face many tribal raids and an increased chance of domestic rebels.</en-US>
+		<ja>最高難易度です。AIは開始時の発展レベルに加え、中程度の経済力ボーナスを獲得します。また、貢物を要求してきたり、全面攻撃を仕掛けてくるまでに時間はかかりません。多くの部族襲撃や自国内の反乱者とも対峙することになります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS_DESC</zType>
+		<en-US>Show Family colors for Foreign Units and Cities</en-US>
+		<ja>外国ユニットの氏族カラーを表示します</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CLEAR_DEFENDING</zType>
+		<en-US>Attack from {0_unit} on {1_terrain}: {2_attackValue} (Melee Combat)</en-US>
+		<ja>対 {1_terrain}上の{0_unit}：{2_attackValue}（近接戦闘）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_DEFENDING_CLEAR</zType>
+		<en-US>Attack from {0_unit} (if link(CONCEPT_CLEAR)): {1_value} (Melee Combat)</en-US>
+		<ja>対 {0_unit}（link(CONCEPT_CLEAR)の場合）：{1}(近接戦闘)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_OPTION_TEAM_NATIONS_CHARACTERS_WARNING</zType>
+		<en-US>Nations must be unique when two or more players have chosen the same Dynasty</en-US>
+		<ja>指導者のランダム化を無効にしている場合、国家は特有のものでなければなりません</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ENLIST</zType>
+		<en-US>Enlist~Enlistment</en-US>
+		<ja>入隊</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_LEADER</zType>
+		<en-US>link(CONCEPT_TUTOR) Child (as Leader)</en-US>
+		<ja>子供のlink(CONCEPT_TUTOR)</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TUTOR_COURTIER</zType>
+		<en-US>link(CONCEPT_TUTOR) Child</en-US>
+		<ja>子供をlink(CONCEPT_TUTOR)する（廷臣として）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_MARCH_CONFIRM</zType>
+		<en-US>[Hold hotkey(HOTKEY_CTRL) to Enable]</en-US>
+		<ja>［hotkey(HOTKEY_CTRL)長押しで決定します］</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ENLIST_NEXT</zType>
+		<en-US>Enlisting</en-US>
+		<ja>次の撃破時に徴兵</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ENLIST_NEXT_F</zType>
+		<en-US>Enlisting</en-US>
+		<ja>次の撃破時に徴兵</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_SELF</zType>
+		<en-US>Can apply {0_value} to own Unit</en-US>
+		<ja>このユニットに{0_value}適用可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_0_SELF</zType>
+		<en-US>Can apply {0_value} to own Unit until the start of next turn</en-US>
+		<ja>次のターンの開始時まで、このユニットに{0_value}を適用可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_EFFECT_UNIT_APPLIES_NUM_SELF</zType>
+		<en-US>Can apply {0_value} to own Unit for {1_num} {2_turnScale}</en-US>
+		<ja>{1_num} {2_turnScale}、このユニットに{0_value}適用可能</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_ONE_CITY_CHALLENGE</zType>
+		<en-US>The One City Challenge (OCC for short) is a game mode in which Human players are limited to one City, their link(CONCEPT_CAPITAL). Human players are not able to build link(UNIT_SETTLER,2), found more than one City, or capture Cities from other link(CONCEPT_NATION,2) (Cities captured by Human players are automatically razed). To play an OCC game, enable the "One City Challenge" toggle from the Advanced Setup menu when creating a new game.</en-US>
+		<ja>「1都市チャレンジ」は、人間のプレイヤーの都市の所持上限を1つにします。つまりlink(CONCEPT_CAPITAL)のみでプレイをするゲームモードです。人間のプレイヤーはlink(UNIT_SETTLER,2)の生産、1つ以上の都市の設立、または他のlink(CONCEPT_NATION,2)の都市の占拠が行えません（人間のプレイヤーが占拠した都市は、無政府状態のままとなります）。このモードを遊ぶには、新規ゲームを作成する際に、「詳細設定」のメニューから「1都市チャレンジ」を有効にしてください。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_ICNOGRAPHY_CALLIGRAPHY_LAW_STRATNOTES</zType>
+		<en-US>The choice of link(LAW_ICONOGRAPHY) or link(LAW_CALLIGRAPHY) is between a bonus for your Monasteries (+2 link(YIELD_TRAINING,1) per turn), Cathedrals (+2 link(YIELD_HAPPINESS,1) per turn) and Temples (+20 link(YIELD_MONEY,1) per turn), OR a simple direct +10 link(YIELD_CULTURE,1) per turn in all cities, while your Elder Specialists yield +1 link(YIELD_HAPPINESS,1).
+
+These laws often present an easy choice based on your previous investments. If you’ve invested heavily in religious buildings, Iconography can pay dividends, while if you have many cities with low link(YIELD_CULTURE,1), Calligraphy can vault you ahead. Keep in mind also that Iconography has a per turn upkeep paid in link(YIELD_CIVICS,1), while Calligraphy has one paid in link(YIELD_MONEY,1). </en-US>
+		<ja>修道院（毎ターンlink(YIELD_TRAINING,1)+2）、大聖堂（毎ターンlink(YIELD_HAPPINESS,1)+2）、寺院（毎ターンlink(YIELD_MONEY,1)+20）のボーナスを獲得するか、あるいは図書館（アカデミーと大学を含む）毎ターン+4、link(YIELD_CULTURE,1)を生み出し、老専門家が毎ターンlink(YIELD_HAPPINESS,1)+1を得るか。それらは、link(LAW_ICONOGRAPHY)とlink(LAW_CALLIGRAPHY)のどちらを選ぶかで決まる。
+
+これらの法律は、これまでの投資によって簡単に選択できることが多い。宗教建築への投資が多い場合、「イコノグラフィー（図像学）」が有益に働くことがある。また、図書館やlink(YIELD_CULTURE,1)に注力している場合は、「カリグラフィ」が大きく国を前進させるだろう。「イコノグラフィー」は毎ターン、維持費をlink(YIELD_MONEY,1)で支払い、「カリグラフィ」はlink(YIELD_CIVICS,1)で支払わなければならない点も頭に入れておくべきだ。 </ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUILDS_ELITES_LAW_STRATNOTES</zType>
+		<en-US>The choice of link(LAW_GUILDS) or link(LAW_ELITES) is between building Elder Specialists directly (bypassing apprentices and masters) and 10 link(YIELD_MONEY,1) for each link(CONCEPT_SPECIALIST) type, OR the ability to store up to 100 link(YIELD_ORDERS,1) between turns, and +2 link(YIELD_ORDERS,1) for every city with Legendary Culture.
+
+For a peaceful game, Guilds provides a powerful end game tool to develop cities. However, the ability from Elites to store link(YIELD_ORDERS,1) represents an unparalleled advantage in a late game war, particularly paired with order generating abilities such as those of link(NATION_ASSYRIA).</en-US>
+		<ja>各link(IMPROVEMENT_TOWN)につき、link(YIELD_HAPPINESS,1)+1と反乱の確率を10%減少させるか、またはターン間に最大link(YIELD_ORDERS,1)を100蓄積する能力と、伝説の文化を持つ都市ごとにlink(YIELD_ORDERS,1)を2得るか。これらは、link(LAW_GUILDS)かlink(LAW_ELITES)のどちらを選ぶかで決まる。
+
+平和なゲーム展開を望む場合、ギルドはゲーム終盤の不満対策として強力な手段となり得る。しかしながら、「精鋭」からのlink(YIELD_ORDERS,1)を保持する能力──特にlink(NATION_ASSYRIA)のような命令生成能力と組み合わせると、終盤の戦争においては比類無き力を振るえる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
+		<en-US>Relatives</en-US>
+		<ja>親族</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_DAMAGED_OCCURRENCE_LOG_DATA</zType>
+		<en-US>{0_unit} damaged ({2_hp} HP) by {1_occurrence}</en-US>
+		<ja>{0_unit}が{1,1_occurrence}によって、損害を受けた。（残りHP{2}）</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
+		<en-US>{0_unit} damaged ({3_hp} HP) by {1,1_owner} {2_unit}</en-US>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}から攻撃を受けました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_CRITICAL_LOG_DATA</zType>
+		<en-US>{0_unit} link(CONCEPT_CRITICAL_HIT) ({3_hp} HP) by {1,1_owner} {2_unit}</en-US>
+		<ja>{0_unit}は、{1,2_owner}の{2_unit}からlink(CONCEPT_CRITICAL_HIT)を受けました。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UI_EVENT_LOG_UNIT_REVEALED</zType>
+		<en-US>Unit visibility</en-US>
+		<ja>ユニット表示中</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_PAGAN_CLERGY</zType>
+		<en-US>In addition to link(CONCEPT_CLERGY) effects, Pagan Clergy can use the link(MISSION_PAGAN_SACRIFICES) Mission to increase link(YIELD_HAPPINESS) in Pagan Cities and have an increased chance to become the next Religion Head, although cannot be appointed as a link(CONCEPT_GENERAL) or a link(CONCEPT_GOVERNOR).</en-US>
+		<ja>異教の聖職者はlink(CONCEPT_CLERGY)の効果に加え、link(MISSION_PAGAN_SACRIFICES)ミッションを利用して異教都市のlink(YIELD_HAPPINESS)を増加させ、次の宗教指導者になる可能性を高められる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_WORLD_CLERGY</zType>
+		<en-US>In addition to link(CONCEPT_CLERGY) effects, World Clergy can use the link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1) Mission to remove link(CONCEPT_RELIGIOUS_DISSENT) from Cities without causing link(YIELD_DISCONTENT) or act as link(CONCEPT_AGENT,2) in Cities of their Religion, although cannot be appointed as a link(CONCEPT_GENERAL), link(CONCEPT_GOVERNOR) or as a link(CONCEPT_FAMILY) Head.</en-US>
+		<ja>世界の聖職者はlink(CONCEPT_CLERGY)の効果に加えて、link(MISSION_QUELL_DISSENT_ZOROASTRIANISM,1)ミッションを利用して、link(CONCEPT_RELIGIOUS_DISSENT)を生じさせることなく都市からlink(YIELD_DISCONTENT)を取り除けるだけでなく、自身の宗教都市内でlink(CONCEPT_AGENT,2)として動くこともできる。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
+		<en-US>Clergy are representatives of their link(CONCEPT_RELIGION) in your court. Each Clergy member gives a bonus to their Religion's Opinion, increased or decreased by their personal opinion of you. Clergy can be created through the link(MISSION_MAKE_CLERGY) Mission. They can act as link(CONCEPT_TUTOR,1) and have extra abilities depending on if they are link(CONCEPT_PAGAN_CLERGY) or link(CONCEPT_WORLD_CLERGY), although cannot act as a link(CONCEPT_GENERAL) or a link(CONCEPT_GOVERNOR). Clergy also have an increased chance to be picked as the Head of their Religion when the current one dies.</en-US>
+		<ja>聖職者は宮廷における彼らのlink(CONCEPT_RELIGION)の代弁者です。宮廷に聖職者を迎えることでその宗教からの評価は増加しますが、その量は聖職者のあなたに対する好意の量に基づいて増減します。聖職者はlink(MISSION_MAKE_CLERGY)ミッションの実行により雇用することができます。彼らはまたlink(CONCEPT_TUTOR,1)を行うことができ、その効果は彼らがlink(CONCEPT_PAGAN_CLERGY)、link(CONCEPT_WORLD_CLERGY)のいずれかによって変わります。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_GOAL_HELP_COMPLETE_MISSIONS</zType>
+		<en-US>Complete {0_num} {singular_0:Mission:Missions}: {1_mission}</en-US>
+		<ja>{1_mission}ミッションを{0_num}回完了</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_0</zType>
+		<en-US>{THEOLOGY-4} is the true path.</en-US>
+		<ja>link(THEOLOGY_GNOSTICISM)こそ真実の道である。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEEP_DIVISIONS_OPTION_1</zType>
+		<en-US>{THEOLOGY-5} shows the true order of the world.</en-US>
+		<ja>link(THEOLOGY_DUALISM)は世に真の秩序をもたらしている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEEP_DIVISIONS</zType>
+		<en-US>{CHARACTER-1} has come to you, warning of a dangerous divide splitting the {RELIGION-0,1} community. The {S0.PRIEST,2} of {CITY-2} are championing the ideals of {THEOLOGY-4}, while the {S0.PRIEST,2} of {CITY-3} support the doctrine of {THEOLOGY-5}.
+
+{CHARACTER-1} has been unable to bridge the divide and looks to you for support.</en-US>
+		<ja>{CHARACTER-1}があなたのもとに、{RELIGION-0,1}の信者たちが危険なかたちで分裂しそうだと警告しに来た。{CITY-2}の{S0.PRIEST,2}たちは、link(THEOLOGY_GNOSTICISM)を理想と掲げているが、{CITY-3}の{S0.PRIEST,2}たちはlink(THEOLOGY_DUALISM)の考え方を支持している。
+
+{CHARACTER-1}にはその溝を埋めることができず、あなたの助力を求めている。</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTIONS_SINGLE_MIRROR_HELP</zType>
+		<en-US>East-West symmetric map.</en-US>
+		<ja>東西対称のマップ。</ja>
+	</Entry>
+</Root>

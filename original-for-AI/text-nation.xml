@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- NOTE: Proper Name ~ Adjective ~ Indefinite & Adjective ~ Plural -->
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA</zType>
+		<en-US>Assyria~Assyrian~an Assyrian~Assyrians</en-US>
+		<ja>アッシリア~アッシリア~アッシリア人~アッシリア人~Assyria</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA_F</zType>
+		<en-US>Assyria~Assyrian~an Assyrian~Assyrians</en-US>
+		<ja>アッシリア~アッシリア~アッシリア人~アッシリア人~Assyria</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA</zType>
+		<en-US>Babylonia~Babylonian~a Babylonian~Babylonians</en-US>
+		<ja>バビロニア~バビロニア~バビロニア人~バビロニア人~Babylonia</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA_F</zType>
+		<en-US>Babylonia~Babylonian~a Babylonian~Babylonians</en-US>
+		<ja>バビロニア~バビロニア~バビロニア人~バビロニア人~Babylonia</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE</zType>
+		<en-US>Carthage~Carthaginian~a Carthaginian~Carthaginians</en-US>
+		<ja>カルタゴ~カルタゴ~カルタゴ人~カルタゴ人~Carthage</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE_F</zType>
+		<en-US>Carthage~Carthaginian~a Carthaginian~Carthaginians</en-US>
+		<ja>カルタゴ~カルタゴ~カルタゴ人~カルタゴ人~Carthage</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT</zType>
+		<en-US>Egypt~Egyptian~an Egyptian~Egyptians</en-US>
+		<ja>エジプト~エジプト~エジプト人~エジプト人~Egypt</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT_F</zType>
+		<en-US>Egypt~Egyptian~an Egyptian~Egyptians</en-US>
+		<ja>エジプト~エジプト~エジプト人~エジプト人~Egypt</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE</zType>
+		<en-US>Greece~Greek~a Greek~Greeks</en-US>
+		<ja>ギリシャ~ギリシャ~ギリシャ人~ギリシャ人~Greece</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE_F</zType>
+		<en-US>Greece~Greek~a Greek~Greeks</en-US>
+		<ja>ギリシャ~ギリシャ~ギリシャ人~ギリシャ人~Greece</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA</zType>
+		<en-US>Persia~Persian~a Persian~Persians</en-US>
+		<ja>ペルシャ~ペルシャ~ペルシャ人~ペルシャ人~Persia</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA_F</zType>
+		<en-US>Persia~Persian~a Persian~Persians</en-US>
+		<ja>ペルシャ~ペルシャ~ペルシャ人~ペルシャ人~Persia</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PHOENICIA</zType>
+		<en-US>Phoenicia~Phoenician~a Phoenician~Phoenicians</en-US>
+		<ja>フェニキア~フェニキア~フェニキア人~フェニキア人~Phoenicia</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PHOENICIA_F</zType>
+		<en-US>Phoenicia~Phoenician~a Phoenician~Phoenicians</en-US>
+		<ja>フェニキア~フェニキア~フェニキア人~フェニキア人~Phoenicia</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME</zType>
+		<en-US>Rome~Roman~a Roman~Romans</en-US>
+		<ja>ローマ~ローマ~ローマ人~ローマ人~Rome</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME_F</zType>
+		<en-US>Rome~Roman~a Roman~Romans</en-US>
+		<ja>ローマ~ローマ~ローマ人~ローマ人~Rome</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_KUSH</zType>
+		<en-US>Kush~Kushite~a Kushite~Kushites</en-US>
+		<ja>クシュ~クシュ~クシュ~クシュ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_KUSH_F</zType>
+		<en-US>Kush~Kushite~a Kushite~Kushites</en-US>
+		<ja>クシュ~クシュ~クシュ~クシュ</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_AKSUM</zType>
+		<en-US>Aksum~Aksumite~an Aksumite~Aksumites</en-US>
+		<ja>アクスム~アクスム人~アクスム人~アクスム人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_AKSUM_F</zType>
+		<en-US>Aksum~Aksumite~an Aksumite~Aksumites</en-US>
+		<ja>アクスム~アクスム人~アクスム人~アクスム人</ja>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_AKSUM_DESCRIPTION</zType>
+		<en-US>Upon a Leader's death, a link(IMPROVEMENTCLASS_AKSUM_STELE,3) will be built</en-US>
+		<ja>指導者が死去した際にlink(IMPROVEMENTCLASS_AKSUM_STELE,3)が建設される</ja>
+	</Entry>
+</Root>
